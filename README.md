@@ -79,4 +79,4 @@ Confirm the symbol exists in `data/` and matches `stock_name` exactly (case-sens
 
 ## License
 
-If you plan to share or publish this project, add a license file (MIT/Apache-2.0/etc.).
+This project was developed strictly for educational purposes and the data was obtained from external sources.
