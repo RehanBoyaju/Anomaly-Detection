@@ -1,23 +1,23 @@
 import pandas as pd
-
-class Filter:
-    def filter(self,df,mode:str,columns = None):
-
-        df = df.copy()
-        if columns is None:
-            columns = ["transaction_time", "rate", "quantity"]
+import numpy as np
 
 
-        if mode == "interday":
-            df = df.rename(columns={"price":"rate"})
-        
-        elif mode == "intraday":
-            pass
-        else:
-            raise ValueError(f"Unidentified mode: {mode}")
+def filter(self, df, mode: str, columns=None):
 
-        df = df[columns]
-        df["transaction_time"]=pd.to_datetime(df["transaction_time"])
-        
+    df = df.copy()
+    if columns is None:
+        columns = ["transaction_time", "rate"]
 
-        return df;
+    if mode == "interday":
+        df = df.rename(columns={"close": "rate"})
+
+    elif mode == "intraday":
+        pass
+    else:
+        raise ValueError(f"Unidentified mode: {mode}")
+
+    df = df[columns]
+    df["rate"] = df["rate"].replace(0, np.nan)
+    df["transaction_time"] = pd.to_datetime(df["transaction_time"])
+
+    return df
