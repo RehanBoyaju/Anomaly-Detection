@@ -7,7 +7,6 @@ class InterdayAggregator(BaseAggregator):
     def transform(self,df):
         df = df.copy()
         
-        df["transaction_time"]=pd.to_datetime(df["transaction_time"])
         df = df.set_index("transaction_time")
 
         ohlcv = df.resample(self.timeframe).agg(
