@@ -9,7 +9,7 @@ import sys
 # today = "2026-04-09";
 # today = sys.argv[1]
 
-final_symbols = set(pd.read_csv("../data/FinalCompanies.csv")["Symbol"].str.strip().str.upper());
+final_symbols = set(pd.read_csv("data/FinalCompanies.csv")["Symbol"].str.strip().str.upper());
 
 
 def normalize_intraday_columns(input,output) :
@@ -40,7 +40,7 @@ def normalize_intraday_columns(input,output) :
 
 def normalize_interday_columns(input) :
 
-    output_dir = Path(f"../data/interday")
+    output_dir = Path(f"data/interday")
     output_dir.mkdir(parents=True,exist_ok=True)
     
     for file in Path(input).glob("*.csv") :
@@ -59,7 +59,7 @@ def normalize_interday_columns(input) :
         df.to_csv(output_dir / f"{symbol}.csv",index=False)
 
 
-# normalize_intraday_columns(f"../NEPSE_API/data/intraday/2026-04-09",f"../data/intraday/2026-04-09")
-# normalize_intraday_columns(f"../NEPSE_API/data/intraday/2026-04-10",f"../data/intraday/2026-04-10")
+normalize_intraday_columns("../NEPSE_API/data/intraday/2026-04-09","data/intraday/2026-04-09")
+normalize_intraday_columns("../NEPSE_API/data/intraday/2026-04-10","data/intraday/2026-04-10")
 
-# normalize_interday_columns(f"../NepseScraper/data/company-wise")
+normalize_interday_columns(f"../NepseScraper/data/company-wise")

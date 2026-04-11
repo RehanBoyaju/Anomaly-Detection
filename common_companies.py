@@ -17,4 +17,6 @@ common_symbols = intraday_symbols.intersection(interday_symbols)
 df = pd.DataFrame(list(common_symbols),columns = ["Symbol"])
 df.insert(0,"S.N.",range(1,len(df)+1))
 
-df.to_csv("../data/FinalCompanies.csv",index=False)
+output_dir = Path("data");
+output_dir.mkdir(parents=True,exist_ok=True);
+df.to_csv(output_dir / "FinalCompanies.csv",index=False)

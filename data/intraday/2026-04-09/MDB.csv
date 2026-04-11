@@ -1,0 +1,95 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026040903000662,MDB,45,38,20,616.0,12320.0,2026-04-09,185692298,371,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-09 11:29:24.606096,Miteri Development Bank Limited
+2026040903000665,MDB,45,58,84,616.0,51744.0,2026-04-09,185692385,371,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-09 11:29:34.972255,Miteri Development Bank Limited
+2026040903000666,MDB,35,58,400,613.0,245200.0,2026-04-09,185692387,371,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-09 11:29:34.972311,Miteri Development Bank Limited
+2026040903000667,MDB,58,58,50,612.5,30625.0,2026-04-09,185692389,371,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-09 11:29:34.972341,Miteri Development Bank Limited
+2026040903000668,MDB,14,58,61,612.1,37338.1,2026-04-09,185692390,371,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-09 11:29:34.972370,Miteri Development Bank Limited
+2026040903001074,MDB,25,16,50,615.0,30750.0,2026-04-09,185703504,371,Sweta Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-09 11:42:56.422883,Miteri Development Bank Limited
+2026040903001501,MDB,25,26,65,620.0,40300.0,2026-04-09,185714478,371,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-09 11:54:15.649970,Miteri Development Bank Limited
+2026040903001796,MDB,25,33,400,620.0,248000.0,2026-04-09,185721064,371,Sweta Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 12:00:33.489476,Miteri Development Bank Limited
+2026040903001861,MDB,57,13,100,620.0,62000.0,2026-04-09,185723049,371,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,2026-04-09 12:03:10.675794,Miteri Development Bank Limited
+2026040903001887,MDB,25,60,500,620.0,310000.0,2026-04-09,185723656,371,Sweta Securities Private Limited,Nagarik Stock Dealer ,2026-04-09 12:04:08.217802,Miteri Development Bank Limited
+2026040903001974,MDB,58,33,500,624.0,312000.0,2026-04-09,185725683,371,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 12:06:34.988297,Miteri Development Bank Limited
+2026040903002179,MDB,57,34,100,624.0,62400.0,2026-04-09,185729810,371,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-09 12:11:00.183644,Miteri Development Bank Limited
+2026040903002192,MDB,57,25,150,624.0,93600.0,2026-04-09,185730018,371,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-09 12:11:08.214824,Miteri Development Bank Limited
+2026040903002229,MDB,14,5,10,624.3,6243.0,2026-04-09,185730663,371,Nepal Stock House (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-09 12:11:51.919576,Miteri Development Bank Limited
+2026040903002280,MDB,49,35,100,620.0,62000.0,2026-04-09,185731440,371,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 12:12:56.672925,Miteri Development Bank Limited
+2026040903003082,MDB,25,35,500,624.0,312000.0,2026-04-09,185746080,371,Sweta Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 12:30:04.942295,Miteri Development Bank Limited
+2026040903003083,MDB,25,38,25,624.0,15600.0,2026-04-09,185746083,371,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-09 12:30:04.942382,Miteri Development Bank Limited
+2026040903003099,MDB,85,41,100,625.8,62580.0,2026-04-09,185746718,371,Capital Hub P. Ltd,Linch Stock Market Ltd.,2026-04-09 12:30:46.604603,Miteri Development Bank Limited
+2026040903003100,MDB,85,17,300,625.9,187770.0,2026-04-09,185746720,371,Capital Hub P. Ltd,ABC Securities Private Limited,2026-04-09 12:30:46.604784,Miteri Development Bank Limited
+2026040903003101,MDB,85,58,195,626.0,122070.0,2026-04-09,185746722,371,Capital Hub P. Ltd,Naasa Securities Co. Ltd.,2026-04-09 12:30:46.604897,Miteri Development Bank Limited
+2026040903003102,MDB,85,42,500,626.0,313000.0,2026-04-09,185746724,371,Capital Hub P. Ltd,Sani Securities Company Ltd.,2026-04-09 12:30:46.605001,Miteri Development Bank Limited
+2026040903003103,MDB,85,58,100,626.0,62600.0,2026-04-09,185746726,371,Capital Hub P. Ltd,Naasa Securities Co. Ltd.,2026-04-09 12:30:46.605128,Miteri Development Bank Limited
+2026040903003104,MDB,85,33,1000,626.1,626100.0,2026-04-09,185746728,371,Capital Hub P. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 12:30:46.605233,Miteri Development Bank Limited
+2026040903003304,MDB,54,70,50,623.1,31155.0,2026-04-09,185750693,371,Sewa Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-09 12:35:11.628933,Miteri Development Bank Limited
+2026040903003305,MDB,42,70,150,623.0,93450.0,2026-04-09,185750694,371,Sani Securities Company Ltd.,Infinity Securities Limited,2026-04-09 12:35:11.629037,Miteri Development Bank Limited
+2026040903003660,MDB,40,35,500,627.9,313950.0,2026-04-09,185758208,371,Creative Securities Pvt Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 12:44:51.266383,Miteri Development Bank Limited
+2026040903003661,MDB,40,33,1000,628.0,628000.0,2026-04-09,185758211,371,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 12:44:51.266580,Miteri Development Bank Limited
+2026040903003668,MDB,40,45,100,628.9,62890.0,2026-04-09,185758260,371,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-09 12:44:56.693109,Miteri Development Bank Limited
+2026040903003669,MDB,40,33,400,629.0,251600.0,2026-04-09,185758263,371,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 12:44:56.693206,Miteri Development Bank Limited
+2026040903004077,MDB,17,35,500,628.0,314000.0,2026-04-09,185769633,371,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 12:55:31.643965,Miteri Development Bank Limited
+2026040903004123,MDB,29,35,500,628.0,314000.0,2026-04-09,185771233,371,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 12:57:16.227739,Miteri Development Bank Limited
+2026040903004145,MDB,58,6,9,621.1,5589.9,2026-04-09,185771836,371,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-09 12:57:55.597814,Miteri Development Bank Limited
+2026040903004341,MDB,57,54,50,628.0,31400.0,2026-04-09,185777293,371,Aryatara Investment & Securities,Sewa Securities Pvt. Ltd.,2026-04-09 13:03:54.295144,Miteri Development Bank Limited
+2026040903004496,MDB,44,54,50,628.0,31400.0,2026-04-09,185780326,371,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-09 13:07:53.354636,Miteri Development Bank Limited
+2026040903004497,MDB,44,45,50,628.0,31400.0,2026-04-09,185780329,371,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-09 13:07:53.354839,Miteri Development Bank Limited
+2026040903004905,MDB,42,35,119,626.0,74494.0,2026-04-09,185788312,371,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 13:17:55.208082,Miteri Development Bank Limited
+2026040903004921,MDB,42,35,36,626.0,22536.0,2026-04-09,185788759,371,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 13:18:31.186193,Miteri Development Bank Limited
+2026040903004922,MDB,49,35,20,626.0,12520.0,2026-04-09,185788761,371,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 13:18:31.186233,Miteri Development Bank Limited
+2026040903004923,MDB,26,35,15,626.0,9390.0,2026-04-09,185788762,371,Asian Securities Private Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-09 13:18:31.186269,Miteri Development Bank Limited
+2026040903005095,MDB,26,16,35,626.0,21910.0,2026-04-09,185791789,371,Asian Securities Private Ltd.,Primo Securities (PVT) Ltd.,2026-04-09 13:22:20.353647,Miteri Development Bank Limited
+2026040903005096,MDB,45,16,200,625.3,125060.0,2026-04-09,185791791,371,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-09 13:22:20.353759,Miteri Development Bank Limited
+2026040903005097,MDB,49,16,500,625.2,312600.0,2026-04-09,185791793,371,Online Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-09 13:22:20.353821,Miteri Development Bank Limited
+2026040903005098,MDB,40,16,65,625.1,40631.5,2026-04-09,185791794,371,Creative Securities Pvt Ltd,Primo Securities (PVT) Ltd.,2026-04-09 13:22:20.353866,Miteri Development Bank Limited
+2026040903005249,MDB,40,33,935,625.1,584468.5,2026-04-09,185794043,371,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 13:24:45.952708,Miteri Development Bank Limited
+2026040903005250,MDB,34,33,65,625.0,40625.0,2026-04-09,185794044,371,Vision Securities Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 13:24:45.952852,Miteri Development Bank Limited
+2026040903005332,MDB,34,25,100,625.0,62500.0,2026-04-09,185795506,371,Vision Securities Pvt. Ltd,Sweta Securities Private Limited,2026-04-09 13:26:15.547037,Miteri Development Bank Limited
+2026040903005423,MDB,34,7,135,625.0,84375.0,2026-04-09,185797035,371,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-09 13:28:02.967986,Miteri Development Bank Limited
+2026040903005443,MDB,40,60,100,624.3,62430.0,2026-04-09,185797203,371,Creative Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-09 13:28:19.060321,Miteri Development Bank Limited
+2026040903005444,MDB,29,60,50,624.0,31200.0,2026-04-09,185797205,371,Trisul Securities & Invt. Ltd.,Nagarik Stock Dealer ,2026-04-09 13:28:19.060440,Miteri Development Bank Limited
+2026040903005445,MDB,42,60,650,623.0,404950.0,2026-04-09,185797207,371,Sani Securities Company Ltd.,Nagarik Stock Dealer ,2026-04-09 13:28:19.060521,Miteri Development Bank Limited
+2026040903005446,MDB,42,60,498,623.0,310254.0,2026-04-09,185797208,371,Sani Securities Company Ltd.,Nagarik Stock Dealer ,2026-04-09 13:28:19.060596,Miteri Development Bank Limited
+2026040903005464,MDB,54,7,30,623.0,18690.0,2026-04-09,185797683,371,Sewa Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-09 13:28:47.186763,Miteri Development Bank Limited
+2026040903005465,MDB,45,7,135,623.0,84105.0,2026-04-09,185797684,371,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-09 13:28:47.186864,Miteri Development Bank Limited
+2026040903005826,MDB,16,4,50,623.5,31175.0,2026-04-09,185804412,371,Primo Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-09 13:39:13.445213,Miteri Development Bank Limited
+2026040903006041,MDB,35,4,60,625.0,37500.0,2026-04-09,185807716,371,Kohinoor Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-09 13:45:08.285080,Miteri Development Bank Limited
+2026040903006817,MDB,5,16,100,625.2,62520.0,2026-04-09,185821387,371,Market Securities & Exchange (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-09 14:05:22.484518,Miteri Development Bank Limited
+2026040903006818,MDB,44,16,250,625.1,156275.0,2026-04-09,185821389,371,Dynamic Money Managers Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-09 14:05:22.484640,Miteri Development Bank Limited
+2026040903006819,MDB,35,16,134,625.0,83750.0,2026-04-09,185821390,371,Kohinoor Investment & Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-09 14:05:22.484693,Miteri Development Bank Limited
+2026040903006987,MDB,35,57,50,625.0,31250.0,2026-04-09,185824172,371,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-09 14:09:44.367654,Miteri Development Bank Limited
+2026040903007373,MDB,39,22,20,625.0,12500.0,2026-04-09,185831550,371,Sumeru Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-09 14:19:18.769476,Miteri Development Bank Limited
+2026040903007380,MDB,35,45,1000,627.8,627800.0,2026-04-09,185831799,371,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-09 14:19:30.505090,Miteri Development Bank Limited
+2026040903007414,MDB,38,45,1000,627.8,627800.0,2026-04-09,185832083,371,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-09 14:19:52.240038,Miteri Development Bank Limited
+2026040903007597,MDB,26,57,50,627.9,31395.0,2026-04-09,185836002,371,Asian Securities Private Ltd.,Aryatara Investment & Securities,2026-04-09 14:23:49.909802,Miteri Development Bank Limited
+2026040903007598,MDB,26,64,450,628.0,282600.0,2026-04-09,185836005,371,Asian Securities Private Ltd.,SUN SECURITIES PVT LTD,2026-04-09 14:23:49.909900,Miteri Development Bank Limited
+2026040903007622,MDB,49,64,16,628.0,10048.0,2026-04-09,185836596,371,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-09 14:24:29.648957,Miteri Development Bank Limited
+2026040903007623,MDB,49,33,84,628.1,52760.4,2026-04-09,185836599,371,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 14:24:29.649006,Miteri Development Bank Limited
+2026040903007709,MDB,39,80,246,626.0,153996.0,2026-04-09,185837723,371,Sumeru Securities Pvt. Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640600,Miteri Development Bank Limited
+2026040903007710,MDB,42,80,10,625.0,6250.0,2026-04-09,185837725,371,Sani Securities Company Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640645,Miteri Development Bank Limited
+2026040903007711,MDB,35,80,1000,625.0,625000.0,2026-04-09,185837727,371,Kohinoor Investment & Securities Pvt. Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640671,Miteri Development Bank Limited
+2026040903007712,MDB,16,80,150,623.5,93525.0,2026-04-09,185837729,371,Primo Securities (PVT) Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640700,Miteri Development Bank Limited
+2026040903007713,MDB,26,80,50,623.5,31175.0,2026-04-09,185837731,371,Asian Securities Private Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640732,Miteri Development Bank Limited
+2026040903007714,MDB,45,80,165,623.0,102795.0,2026-04-09,185837733,371,Imperial Securities Company Pvt. Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640765,Miteri Development Bank Limited
+2026040903007715,MDB,14,80,100,622.0,62200.0,2026-04-09,185837735,371,Nepal Stock House (PVT) Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640787,Miteri Development Bank Limited
+2026040903007716,MDB,41,80,100,622.0,62200.0,2026-04-09,185837737,371,Linch Stock Market Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640808,Miteri Development Bank Limited
+2026040903007717,MDB,58,80,50,622.0,31100.0,2026-04-09,185837739,371,Naasa Securities Co. Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640827,Miteri Development Bank Limited
+2026040903007718,MDB,7,80,329,621.4,204440.6,2026-04-09,185837740,371,J.F. Securites (PVT) Ltd.,Indira securities pvt. ltd,2026-04-09 14:25:39.640872,Miteri Development Bank Limited
+2026040903008044,MDB,41,59,100,621.6,62160.0,2026-04-09,185843615,371,Linch Stock Market Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-09 14:31:28.219232,Miteri Development Bank Limited
+2026040903008045,MDB,58,59,200,621.6,124320.0,2026-04-09,185843617,371,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-09 14:31:28.219354,Miteri Development Bank Limited
+2026040903008046,MDB,49,59,295,621.5,183342.5,2026-04-09,185843618,371,Online Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-09 14:31:28.219402,Miteri Development Bank Limited
+2026040903008652,MDB,50,33,500,628.1,314050.0,2026-04-09,185853301,371,Cristal Kanchanjanga Securites Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 14:41:39.938057,Miteri Development Bank Limited
+2026040903009103,MDB,34,42,50,624.0,31200.0,2026-04-09,185860242,371,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-09 14:47:35.686956,Miteri Development Bank Limited
+2026040903009726,MDB,52,38,200,626.0,125200.0,2026-04-09,185870231,371,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-09 14:54:22.017425,Miteri Development Bank Limited
+2026040903009813,MDB,35,42,100,627.0,62700.0,2026-04-09,185871760,371,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-09 14:55:18.623384,Miteri Development Bank Limited
+2026040903009814,MDB,35,58,45,627.9,28255.5,2026-04-09,185871762,371,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-09 14:55:18.623621,Miteri Development Bank Limited
+2026040903009815,MDB,35,33,100,628.0,62800.0,2026-04-09,185871764,371,Kohinoor Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 14:55:18.623763,Miteri Development Bank Limited
+2026040903009816,MDB,35,34,800,628.0,502400.0,2026-04-09,185871766,371,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-09 14:55:18.623896,Miteri Development Bank Limited
+2026040903009817,MDB,35,74,100,628.0,62800.0,2026-04-09,185871768,371,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-09 14:55:18.624047,Miteri Development Bank Limited
+2026040903009818,MDB,35,16,300,628.0,188400.0,2026-04-09,185871770,371,Kohinoor Investment & Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-09 14:55:18.624199,Miteri Development Bank Limited
+2026040903009918,MDB,35,33,55,628.0,34540.0,2026-04-09,185873715,371,Kohinoor Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 14:56:12.553804,Miteri Development Bank Limited
+2026040903010262,MDB,58,62,200,624.5,124900.0,2026-04-09,185879243,371,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-09 14:58:35.723603,Miteri Development Bank Limited
+2026040903010263,MDB,34,62,250,624.0,156000.0,2026-04-09,185879245,371,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-09 14:58:35.723651,Miteri Development Bank Limited
+2026040903010264,MDB,62,62,50,624.0,31200.0,2026-04-09,185879246,371,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-09 14:58:35.723677,Miteri Development Bank Limited
+2026040903010596,MDB,62,33,145,624.0,90480.0,2026-04-09,185884344,371,Capital Max Securities Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-09 14:59:54.546891,Miteri Development Bank Limited
+2026040903010598,MDB,29,34,10,628.0,6280.0,2026-04-09,185884927,371,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-09 14:59:55.447882,Miteri Development Bank Limited

@@ -1,0 +1,260 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041001001358,MBL,45,54,63,254.1,16008.3,2026-04-10,185889896,140,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-10T11:04:42.945382,Machhapuchhre Bank Limited
+2026041001002859,MBL,41,82,200,255.5,51100.0,2026-04-10,185894775,140,Linch Stock Market Ltd.,N.M.B. SECURITIES LIMITED,2026-04-10T11:09:39.67548,Machhapuchhre Bank Limited
+2026041001002860,MBL,1,82,100,255.0,25500.0,2026-04-10,185894777,140,Kumari Securities Private Limited,N.M.B. SECURITIES LIMITED,2026-04-10T11:09:39.675592,Machhapuchhre Bank Limited
+2026041001002861,MBL,13,82,500,254.2,127100.0,2026-04-10,185894779,140,Thrive Brokerage House Pvt. Ltd,N.M.B. SECURITIES LIMITED,2026-04-10T11:09:39.675659,Machhapuchhre Bank Limited
+2026041001002862,MBL,45,82,200,254.1,50820.0,2026-04-10,185894780,140,Imperial Securities Company Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-10T11:09:39.675731,Machhapuchhre Bank Limited
+2026041001003540,MBL,56,74,490,254.5,124705.0,2026-04-10,185897004,140,Sri Hari Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:12:28.40647,Machhapuchhre Bank Limited
+2026041001004257,MBL,16,45,500,255.0,127500.0,2026-04-10,185900327,140,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:15:51.888075,Machhapuchhre Bank Limited
+2026041001004258,MBL,38,45,500,255.0,127500.0,2026-04-10,185900328,140,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:15:51.888248,Machhapuchhre Bank Limited
+2026041001004485,MBL,38,65,1500,255.0,382500.0,2026-04-10,185901189,140,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sharepro Securities Private Limited,2026-04-10T11:16:52.727367,Machhapuchhre Bank Limited
+2026041001004486,MBL,60,65,150,254.3,38145.0,2026-04-10,185901191,140,Nagarik Stock Dealer ,Sharepro Securities Private Limited,2026-04-10T11:16:52.727485,Machhapuchhre Bank Limited
+2026041001004487,MBL,29,65,1000,254.3,254300.0,2026-04-10,185901193,140,Trisul Securities & Invt. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:16:52.727579,Machhapuchhre Bank Limited
+2026041001004488,MBL,17,65,500,254.3,127150.0,2026-04-10,185901195,140,ABC Securities Private Limited,Sharepro Securities Private Limited,2026-04-10T11:16:52.727668,Machhapuchhre Bank Limited
+2026041001004489,MBL,16,65,1000,254.2,254200.0,2026-04-10,185901197,140,Primo Securities (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-10T11:16:52.727758,Machhapuchhre Bank Limited
+2026041001004490,MBL,45,65,850,254.1,215985.0,2026-04-10,185901198,140,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:16:52.727847,Machhapuchhre Bank Limited
+2026041001004918,MBL,45,58,54,254.1,13721.4,2026-04-10,185902792,140,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:18:48.921204,Machhapuchhre Bank Limited
+2026041001005411,MBL,45,48,333,254.1,84615.3,2026-04-10,185905045,140,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-10T11:21:08.8043,Machhapuchhre Bank Limited
+2026041001005412,MBL,38,48,1000,254.1,254100.0,2026-04-10,185905047,140,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-10T11:21:08.804461,Machhapuchhre Bank Limited
+2026041001005413,MBL,14,48,267,254.1,67844.7,2026-04-10,185905048,140,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-10T11:21:08.804579,Machhapuchhre Bank Limited
+2026041001005421,MBL,14,65,733,254.1,186255.3,2026-04-10,185905107,140,Nepal Stock House (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.231019,Machhapuchhre Bank Limited
+2026041001005422,MBL,14,65,500,254.0,127000.0,2026-04-10,185905109,140,Nepal Stock House (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.231166,Machhapuchhre Bank Limited
+2026041001005423,MBL,34,65,1000,254.0,254000.0,2026-04-10,185905111,140,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T11:21:13.231242,Machhapuchhre Bank Limited
+2026041001005424,MBL,4,65,500,254.0,127000.0,2026-04-10,185905115,140,Opal Securities Investment (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.231312,Machhapuchhre Bank Limited
+2026041001005425,MBL,58,65,10,254.0,2540.0,2026-04-10,185905119,140,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.231381,Machhapuchhre Bank Limited
+2026041001005426,MBL,35,65,2000,253.7,507400.0,2026-04-10,185905123,140,Kohinoor Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.23145,Machhapuchhre Bank Limited
+2026041001005427,MBL,41,65,2000,253.6,507200.0,2026-04-10,185905125,140,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.231517,Machhapuchhre Bank Limited
+2026041001005428,MBL,44,65,3000,253.5,760500.0,2026-04-10,185905127,140,Dynamic Money Managers Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.231585,Machhapuchhre Bank Limited
+2026041001005429,MBL,41,65,257,253.4,65123.8,2026-04-10,185905128,140,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-10T11:21:13.231649,Machhapuchhre Bank Limited
+2026041001005553,MBL,41,5,300,253.4,76020.0,2026-04-10,185905546,140,Linch Stock Market Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T11:21:31.908853,Machhapuchhre Bank Limited
+2026041001005663,MBL,75,48,25,256.0,6400.0,2026-04-10,185905869,140,N.I.M.B. Stock Markets Limited,Trishakti Securities Public Limited,2026-04-10T11:21:51.717422,Machhapuchhre Bank Limited
+2026041001007341,MBL,13,48,550,256.0,140800.0,2026-04-10,185912603,140,Thrive Brokerage House Pvt. Ltd,Trishakti Securities Public Limited,2026-04-10T11:28:09.644523,Machhapuchhre Bank Limited
+2026041001008340,MBL,42,35,500,255.9,127950.0,2026-04-10,185916098,140,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T11:30:47.305103,Machhapuchhre Bank Limited
+2026041001008341,MBL,42,48,125,256.0,32000.0,2026-04-10,185916100,140,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-10T11:30:47.30529,Machhapuchhre Bank Limited
+2026041001008342,MBL,42,41,100,256.0,25600.0,2026-04-10,185916102,140,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-10T11:30:47.305405,Machhapuchhre Bank Limited
+2026041001008343,MBL,42,52,575,256.0,147200.0,2026-04-10,185916105,140,Sani Securities Company Ltd.,Sundhara Securities Limited,2026-04-10T11:30:47.305503,Machhapuchhre Bank Limited
+2026041001008391,MBL,29,52,25,256.0,6400.0,2026-04-10,185916278,140,Trisul Securities & Invt. Ltd.,Sundhara Securities Limited,2026-04-10T11:31:02.266902,Machhapuchhre Bank Limited
+2026041001008392,MBL,29,39,25,258.0,6450.0,2026-04-10,185916281,140,Trisul Securities & Invt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-10T11:31:02.267106,Machhapuchhre Bank Limited
+2026041001009506,MBL,45,25,10,256.1,2561.0,2026-04-10,186072859,140,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,2026-04-10T11:35:17.072,Machhapuchhre Bank Limited
+2026041001009507,MBL,74,25,117,255.9,29940.3,2026-04-10,186080799,140,KALASH STOCK MARKET PVT. LTD.,Sweta Securities Private Limited,2026-04-10T11:35:17.072,Machhapuchhre Bank Limited
+2026041001009508,MBL,45,25,38,254.0,9652.0,2026-04-10,186072862,140,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,2026-04-10T11:35:17.073,Machhapuchhre Bank Limited
+2026041001009509,MBL,35,25,100,254.0,25400.0,2026-04-10,186069155,140,Kohinoor Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-10T11:35:17.073,Machhapuchhre Bank Limited
+2026041001010613,MBL,63,25,12,254.0,3048.0,2026-04-10,186079045,140,Himalayan Brokerage Company Limited,Sweta Securities Private Limited,2026-04-10T11:40:51.683,Machhapuchhre Bank Limited
+2026041001010692,MBL,49,56,10,257.5,2575.0,2026-04-10,186074141,140,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T11:41:25.996,Machhapuchhre Bank Limited
+2026041001011122,MBL,38,65,100,253.3,25330.0,2026-04-10,186071050,140,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011123,MBL,14,65,500,253.0,126500.0,2026-04-10,186064060,140,Nepal Stock House (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011121,MBL,34,65,1000,253.4,253400.0,2026-04-10,186068298,140,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011125,MBL,57,65,550,253.0,139150.0,2026-04-10,186075869,140,Aryatara Investment & Securities,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011119,MBL,34,65,500,253.5,126750.0,2026-04-10,186068296,140,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011120,MBL,42,65,2000,253.5,507000.0,2026-04-10,186070237,140,Sani Securities Company Ltd.,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011117,MBL,85,65,200,253.6,50720.0,2026-04-10,186081449,140,Capital Hub P. Ltd,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011124,MBL,47,65,50,253.0,12650.0,2026-04-10,186073354,140,Neev Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011118,MBL,45,65,100,253.6,25360.0,2026-04-10,186072684,140,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:44:15.275,Machhapuchhre Bank Limited
+2026041001011426,MBL,57,62,450,253.0,113850.0,2026-04-10,186076258,140,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-10T11:46:30.225,Machhapuchhre Bank Limited
+2026041001011427,MBL,60,62,20,253.0,5060.0,2026-04-10,186078860,140,Nagarik Stock Dealer ,Capital Max Securities Ltd,2026-04-10T11:46:30.225,Machhapuchhre Bank Limited
+2026041001011428,MBL,45,62,200,253.0,50600.0,2026-04-10,186072235,140,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-10T11:46:30.225,Machhapuchhre Bank Limited
+2026041001011534,MBL,64,62,195,253.0,49335.0,2026-04-10,186079149,140,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-10T11:46:56.894,Machhapuchhre Bank Limited
+2026041001011545,MBL,29,62,135,253.0,34155.0,2026-04-10,186067022,140,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,2026-04-10T11:47:02.928,Machhapuchhre Bank Limited
+2026041001012118,MBL,45,56,100,257.5,25750.0,2026-04-10,186072565,140,Imperial Securities Company Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T11:50:31.616,Machhapuchhre Bank Limited
+2026041001012117,MBL,45,14,400,256.0,102400.0,2026-04-10,186072196,140,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-10T11:50:31.616,Machhapuchhre Bank Limited
+2026041001013810,MBL,49,65,2000,254.1,508200.0,2026-04-10,185920472,140,Online Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:02:03.169285,Machhapuchhre Bank Limited
+2026041001013811,MBL,43,65,82,254.0,20828.0,2026-04-10,185920474,140,South Asian Bulls Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:02:03.169328,Machhapuchhre Bank Limited
+2026041001013812,MBL,45,65,300,254.0,76200.0,2026-04-10,185920476,140,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:02:03.169355,Machhapuchhre Bank Limited
+2026041001013813,MBL,49,65,1000,253.1,253100.0,2026-04-10,185920478,140,Online Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:02:03.1694,Machhapuchhre Bank Limited
+2026041001013814,MBL,13,65,500,253.0,126500.0,2026-04-10,185920480,140,Thrive Brokerage House Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:02:03.169432,Machhapuchhre Bank Limited
+2026041001013815,MBL,17,65,200,252.8,50560.0,2026-04-10,185920482,140,ABC Securities Private Limited,Sharepro Securities Private Limited,2026-04-10T12:02:03.169455,Machhapuchhre Bank Limited
+2026041001013816,MBL,42,65,918,252.8,232070.4,2026-04-10,185920483,140,Sani Securities Company Ltd.,Sharepro Securities Private Limited,2026-04-10T12:02:03.169482,Machhapuchhre Bank Limited
+2026041001014138,MBL,39,28,1275,257.0,327675.0,2026-04-10,185921759,140,Sumeru Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:04:11.136037,Machhapuchhre Bank Limited
+2026041001014139,MBL,39,17,1000,257.0,257000.0,2026-04-10,185921761,140,Sumeru Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-10T12:04:11.136149,Machhapuchhre Bank Limited
+2026041001014140,MBL,39,34,500,257.2,128600.0,2026-04-10,185921763,140,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T12:04:11.136216,Machhapuchhre Bank Limited
+2026041001014141,MBL,39,17,500,257.2,128600.0,2026-04-10,185921765,140,Sumeru Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-10T12:04:11.136266,Machhapuchhre Bank Limited
+2026041001014142,MBL,39,58,104,257.3,26759.2,2026-04-10,185921767,140,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:04:11.136316,Machhapuchhre Bank Limited
+2026041001014143,MBL,39,35,500,257.3,128650.0,2026-04-10,185921769,140,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T12:04:11.136366,Machhapuchhre Bank Limited
+2026041001014144,MBL,39,29,720,257.4,185328.0,2026-04-10,185921771,140,Sumeru Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-10T12:04:11.136414,Machhapuchhre Bank Limited
+2026041001014145,MBL,39,13,100,257.4,25740.0,2026-04-10,185921773,140,Sumeru Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-10T12:04:11.136462,Machhapuchhre Bank Limited
+2026041001014146,MBL,39,56,301,257.5,77507.5,2026-04-10,185921776,140,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T12:04:11.136511,Machhapuchhre Bank Limited
+2026041001014184,MBL,52,65,100,252.9,25290.0,2026-04-10,185921966,140,Sundhara Securities Limited,Sharepro Securities Private Limited,2026-04-10T12:04:29.098962,Machhapuchhre Bank Limited
+2026041001014185,MBL,42,65,1582,252.8,399929.6,2026-04-10,185921968,140,Sani Securities Company Ltd.,Sharepro Securities Private Limited,2026-04-10T12:04:29.09901,Machhapuchhre Bank Limited
+2026041001014186,MBL,14,65,2000,252.7,505400.0,2026-04-10,185921970,140,Nepal Stock House (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-10T12:04:29.099059,Machhapuchhre Bank Limited
+2026041001014187,MBL,29,65,195,252.6,49257.0,2026-04-10,185921972,140,Trisul Securities & Invt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:04:29.099096,Machhapuchhre Bank Limited
+2026041001014188,MBL,51,65,123,252.5,31057.5,2026-04-10,185921973,140,Oxford Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:04:29.099133,Machhapuchhre Bank Limited
+2026041001014219,MBL,51,66,377,252.5,95192.5,2026-04-10,185922116,140,Oxford Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T12:04:44.574646,Machhapuchhre Bank Limited
+2026041001014220,MBL,22,66,30,252.5,7575.0,2026-04-10,185922118,140,Siprabi Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T12:04:44.574772,Machhapuchhre Bank Limited
+2026041001014221,MBL,45,66,500,252.4,126200.0,2026-04-10,185922120,140,Imperial Securities Company Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T12:04:44.574852,Machhapuchhre Bank Limited
+2026041001014222,MBL,84,66,2000,252.0,504000.0,2026-04-10,185922122,140,MILKY WAY SHARE BROKER COMPANY LTD ,Miyo Securities Pvt Ltd,2026-04-10T12:04:44.574927,Machhapuchhre Bank Limited
+2026041001014223,MBL,49,66,93,252.0,23436.0,2026-04-10,185922123,140,Online Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T12:04:44.574998,Machhapuchhre Bank Limited
+2026041001014431,MBL,49,58,85,252.0,21420.0,2026-04-10,185923592,140,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:06:43.502896,Machhapuchhre Bank Limited
+2026041001014432,MBL,45,58,63,252.0,15876.0,2026-04-10,185923593,140,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:06:43.503034,Machhapuchhre Bank Limited
+2026041001014574,MBL,52,11,6,249.1,1494.6,2026-04-10,185924317,140,Sundhara Securities Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-10T12:07:41.317603,Machhapuchhre Bank Limited
+2026041001014624,MBL,45,65,200,252.0,50400.0,2026-04-10,185924600,140,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:07:59.161726,Machhapuchhre Bank Limited
+2026041001014625,MBL,85,65,200,251.2,50240.0,2026-04-10,185924602,140,Capital Hub P. Ltd,Sharepro Securities Private Limited,2026-04-10T12:07:59.161778,Machhapuchhre Bank Limited
+2026041001014626,MBL,36,65,200,251.1,50220.0,2026-04-10,185924604,140,Secured Securities Ltd.,Sharepro Securities Private Limited,2026-04-10T12:07:59.161806,Machhapuchhre Bank Limited
+2026041001014627,MBL,42,65,2500,251.1,627750.0,2026-04-10,185924606,140,Sani Securities Company Ltd.,Sharepro Securities Private Limited,2026-04-10T12:07:59.161848,Machhapuchhre Bank Limited
+2026041001014628,MBL,41,65,443,251.0,111193.0,2026-04-10,185924608,140,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-10T12:07:59.161884,Machhapuchhre Bank Limited
+2026041001014629,MBL,34,65,1457,251.0,365707.0,2026-04-10,185924609,140,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:07:59.161908,Machhapuchhre Bank Limited
+2026041001014699,MBL,34,17,260,251.2,65312.0,2026-04-10,185924935,140,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-10T12:08:20.706757,Machhapuchhre Bank Limited
+2026041001015427,MBL,17,70,1000,254.0,254000.0,2026-04-10,185928940,140,ABC Securities Private Limited,Infinity Securities Limited,2026-04-10T12:12:22.712184,Machhapuchhre Bank Limited
+2026041001015519,MBL,29,26,12,256.0,3072.0,2026-04-10,185929770,140,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-10T12:13:16.189129,Machhapuchhre Bank Limited
+2026041001015527,MBL,29,25,220,252.3,55506.0,2026-04-10,185929821,140,Trisul Securities & Invt. Ltd.,Sweta Securities Private Limited,2026-04-10T12:13:21.015311,Machhapuchhre Bank Limited
+2026041001015782,MBL,17,65,1000,252.4,252400.0,2026-04-10,185931578,140,ABC Securities Private Limited,Sharepro Securities Private Limited,2026-04-10T12:14:56.007643,Machhapuchhre Bank Limited
+2026041001015783,MBL,29,65,220,252.3,55506.0,2026-04-10,185931580,140,Trisul Securities & Invt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:14:56.007694,Machhapuchhre Bank Limited
+2026041001015784,MBL,13,65,1000,252.3,252300.0,2026-04-10,185931582,140,Thrive Brokerage House Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:14:56.007721,Machhapuchhre Bank Limited
+2026041001015785,MBL,50,65,17780,252.2,4484116.0,2026-04-10,185931583,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:14:56.007766,Machhapuchhre Bank Limited
+2026041001016086,MBL,50,40,197,252.2,49683.4,2026-04-10,185933657,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-10T12:16:46.658512,Machhapuchhre Bank Limited
+2026041001016367,MBL,4,58,40,252.3,10092.0,2026-04-10,185935470,140,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:18:23.904818,Machhapuchhre Bank Limited
+2026041001016368,MBL,50,58,1960,252.2,494312.0,2026-04-10,185935471,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:18:23.905117,Machhapuchhre Bank Limited
+2026041001016454,MBL,50,62,63,252.2,15888.6,2026-04-10,185935876,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-10T12:18:45.206208,Machhapuchhre Bank Limited
+2026041001016455,MBL,13,62,1000,252.1,252100.0,2026-04-10,185935878,140,Thrive Brokerage House Pvt. Ltd,Capital Max Securities Ltd,2026-04-10T12:18:45.206327,Machhapuchhre Bank Limited
+2026041001016456,MBL,49,62,1787,252.0,450324.0,2026-04-10,185935879,140,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-10T12:18:45.2064,Machhapuchhre Bank Limited
+2026041001016552,MBL,45,58,35,252.2,8827.0,2026-04-10,185936380,140,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:19:01.789801,Machhapuchhre Bank Limited
+2026041001016553,MBL,49,58,119,252.0,29988.0,2026-04-10,185936381,140,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:19:01.789964,Machhapuchhre Bank Limited
+2026041001016971,MBL,49,58,94,252.0,23688.0,2026-04-10,185938522,140,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:20:47.449358,Machhapuchhre Bank Limited
+2026041001016972,MBL,48,58,219,252.0,55188.0,2026-04-10,185938523,140,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-10T12:20:47.449598,Machhapuchhre Bank Limited
+2026041001017037,MBL,48,47,550,252.0,138600.0,2026-04-10,185938903,140,Trishakti Securities Public Limited,Neev Securities Pvt. Ltd.,2026-04-10T12:21:07.329336,Machhapuchhre Bank Limited
+2026041001018218,MBL,29,8,11,255.6,2811.6,2026-04-10,185944832,140,Trisul Securities & Invt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-10T12:25:32.46172,Machhapuchhre Bank Limited
+2026041001018907,MBL,13,65,1000,253.2,253200.0,2026-04-10,185948242,140,Thrive Brokerage House Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:28:26.234826,Machhapuchhre Bank Limited
+2026041001018908,MBL,13,65,1000,253.1,253100.0,2026-04-10,185948244,140,Thrive Brokerage House Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:28:26.234865,Machhapuchhre Bank Limited
+2026041001018909,MBL,43,65,50,252.3,12615.0,2026-04-10,185948246,140,South Asian Bulls Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:28:26.23489,Machhapuchhre Bank Limited
+2026041001018910,MBL,8,65,17950,252.2,4526990.0,2026-04-10,185948247,140,Brilliant Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:28:26.234911,Machhapuchhre Bank Limited
+2026041001019763,MBL,19,5,200,255.0,51000.0,2026-04-10,185953296,140,Nepal Investment And Securities Trading Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:34:50.834687,Machhapuchhre Bank Limited
+2026041001019790,MBL,13,5,400,255.0,102000.0,2026-04-10,185953436,140,Thrive Brokerage House Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:34:59.811369,Machhapuchhre Bank Limited
+2026041001019923,MBL,58,5,10,255.0,2550.0,2026-04-10,185954230,140,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:36:11.962448,Machhapuchhre Bank Limited
+2026041001020140,MBL,50,74,10,253.1,2531.0,2026-04-10,185955466,140,Cristal Kanchanjanga Securites Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T12:37:40.284186,Machhapuchhre Bank Limited
+2026041001020141,MBL,13,74,980,253.0,247940.0,2026-04-10,185955467,140,Thrive Brokerage House Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-10T12:37:40.284311,Machhapuchhre Bank Limited
+2026041001020373,MBL,13,58,20,253.0,5060.0,2026-04-10,185956908,140,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-10T12:39:08.440552,Machhapuchhre Bank Limited
+2026041001020374,MBL,71,58,1000,252.5,252500.0,2026-04-10,185956910,140,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,2026-04-10T12:39:08.440694,Machhapuchhre Bank Limited
+2026041001020375,MBL,58,58,90,252.5,22725.0,2026-04-10,185956912,140,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:39:08.440753,Machhapuchhre Bank Limited
+2026041001020376,MBL,49,58,1000,252.4,252400.0,2026-04-10,185956914,140,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:39:08.440812,Machhapuchhre Bank Limited
+2026041001020377,MBL,8,58,2050,252.2,517010.0,2026-04-10,185956916,140,Brilliant Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:39:08.440871,Machhapuchhre Bank Limited
+2026041001020378,MBL,48,58,1231,252.0,310212.0,2026-04-10,185956918,140,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-10T12:39:08.440927,Machhapuchhre Bank Limited
+2026041001020379,MBL,13,58,609,252.0,153468.0,2026-04-10,185956919,140,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-10T12:39:08.440981,Machhapuchhre Bank Limited
+2026041001020428,MBL,13,65,391,252.0,98532.0,2026-04-10,185957356,140,Thrive Brokerage House Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:39:32.393928,Machhapuchhre Bank Limited
+2026041001020429,MBL,45,65,37,252.0,9324.0,2026-04-10,185957358,140,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:39:32.394042,Machhapuchhre Bank Limited
+2026041001020430,MBL,51,65,245,252.0,61740.0,2026-04-10,185957360,140,Oxford Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:39:32.394107,Machhapuchhre Bank Limited
+2026041001020431,MBL,34,65,740,251.2,185888.0,2026-04-10,185957362,140,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:39:32.394182,Machhapuchhre Bank Limited
+2026041001020432,MBL,49,65,300,251.1,75330.0,2026-04-10,185957364,140,Online Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:39:32.394252,Machhapuchhre Bank Limited
+2026041001020433,MBL,34,65,543,251.0,136293.0,2026-04-10,185957366,140,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:39:32.394319,Machhapuchhre Bank Limited
+2026041001020434,MBL,38,65,100,251.0,25100.0,2026-04-10,185957368,140,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sharepro Securities Private Limited,2026-04-10T12:39:32.394382,Machhapuchhre Bank Limited
+2026041001020435,MBL,45,65,500,251.0,125500.0,2026-04-10,185957370,140,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:39:32.394449,Machhapuchhre Bank Limited
+2026041001020436,MBL,58,65,1000,251.0,251000.0,2026-04-10,185957372,140,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:39:32.394504,Machhapuchhre Bank Limited
+2026041001020437,MBL,44,65,144,250.9,36129.6,2026-04-10,185957373,140,Dynamic Money Managers Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:39:32.394572,Machhapuchhre Bank Limited
+2026041001020530,MBL,13,83,158,251.0,39658.0,2026-04-10,185957863,140,Thrive Brokerage House Pvt. Ltd,Sanima Securities Limited,2026-04-10T12:40:09.722675,Machhapuchhre Bank Limited
+2026041001020531,MBL,45,45,42880,253.0,10848640.0,2026-04-10,185957867,140,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T12:40:10.531637,Machhapuchhre Bank Limited
+2026041001020687,MBL,48,26,2000,251.5,503000.0,2026-04-10,185958642,140,Trishakti Securities Public Limited,Asian Securities Private Ltd.,2026-04-10T12:41:19.703865,Machhapuchhre Bank Limited
+2026041001020688,MBL,13,26,1000,251.0,251000.0,2026-04-10,185958643,140,Thrive Brokerage House Pvt. Ltd,Asian Securities Private Ltd.,2026-04-10T12:41:19.704128,Machhapuchhre Bank Limited
+2026041001021770,MBL,13,32,104,252.0,26208.0,2026-04-10,185964113,140,Thrive Brokerage House Pvt. Ltd,Premier Securities Company Ltd.,2026-04-10T12:51:10.942307,Machhapuchhre Bank Limited
+2026041001021863,MBL,13,65,138,252.0,34776.0,2026-04-10,185964524,140,Thrive Brokerage House Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:52:04.691398,Machhapuchhre Bank Limited
+2026041001021864,MBL,52,65,500,252.0,126000.0,2026-04-10,185964526,140,Sundhara Securities Limited,Sharepro Securities Private Limited,2026-04-10T12:52:04.691481,Machhapuchhre Bank Limited
+2026041001021865,MBL,41,65,1000,251.5,251500.0,2026-04-10,185964528,140,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-10T12:52:04.691508,Machhapuchhre Bank Limited
+2026041001021866,MBL,34,65,100,251.5,25150.0,2026-04-10,185964530,140,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T12:52:04.691537,Machhapuchhre Bank Limited
+2026041001021867,MBL,50,65,18262,251.4,4591066.8,2026-04-10,185964531,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T12:52:04.691568,Machhapuchhre Bank Limited
+2026041001022304,MBL,52,46,50,251.5,12575.0,2026-04-10,185966208,140,Sundhara Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-10T12:55:01.628572,Machhapuchhre Bank Limited
+2026041001022305,MBL,50,46,158,251.4,39721.2,2026-04-10,185966209,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:55:01.628875,Machhapuchhre Bank Limited
+2026041001022845,MBL,44,56,100,253.9,25390.0,2026-04-10,185968353,140,Dynamic Money Managers Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T12:58:56.919056,Machhapuchhre Bank Limited
+2026041001022846,MBL,44,49,23,253.9,5839.7,2026-04-10,185968355,140,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T12:58:56.919352,Machhapuchhre Bank Limited
+2026041001022869,MBL,44,56,200,253.9,50780.0,2026-04-10,185968455,140,Dynamic Money Managers Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T12:59:04.763215,Machhapuchhre Bank Limited
+2026041001022981,MBL,44,56,517,253.9,131266.3,2026-04-10,185969026,140,Dynamic Money Managers Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T13:00:07.359185,Machhapuchhre Bank Limited
+2026041001023061,MBL,60,58,6,250.0,1500.0,2026-04-10,185969393,140,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-10T13:00:58.876144,Machhapuchhre Bank Limited
+2026041001023065,MBL,1,56,72,253.9,18280.8,2026-04-10,185969433,140,Kumari Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-10T13:01:02.318503,Machhapuchhre Bank Limited
+2026041001023266,MBL,1,56,28,253.9,7109.2,2026-04-10,185970388,140,Kumari Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-10T13:03:06.608481,Machhapuchhre Bank Limited
+2026041001023350,MBL,50,6,40,251.8,10072.0,2026-04-10,185970769,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T13:03:58.89485,Machhapuchhre Bank Limited
+2026041001023434,MBL,60,58,1,250.0,250.0,2026-04-10,185971139,140,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-10T13:04:51.797196,Machhapuchhre Bank Limited
+2026041001024694,MBL,67,58,50,253.8,12690.0,2026-04-10,185977110,140,Property Wiard Limited,Naasa Securities Co. Ltd.,2026-04-10T13:19:08.910094,Machhapuchhre Bank Limited
+2026041001025029,MBL,49,56,772,253.9,196010.8,2026-04-10,185978817,140,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T13:21:58.196866,Machhapuchhre Bank Limited
+2026041001025408,MBL,101,57,1000,254.0,254000.0,2026-04-10,185980437,140,APPLE SECURITIES PRIVATE LIMITED,Aryatara Investment & Securities,2026-04-10T13:24:39.497613,Machhapuchhre Bank Limited
+2026041001025409,MBL,101,52,125,254.0,31750.0,2026-04-10,185980439,140,APPLE SECURITIES PRIVATE LIMITED,Sundhara Securities Limited,2026-04-10T13:24:39.497943,Machhapuchhre Bank Limited
+2026041001025410,MBL,101,5,375,254.0,95250.0,2026-04-10,185980442,140,APPLE SECURITIES PRIVATE LIMITED,Market Securities & Exchange (PVT) Ltd.,2026-04-10T13:24:39.498146,Machhapuchhre Bank Limited
+2026041001025883,MBL,48,5,20,254.0,5080.0,2026-04-10,185981968,140,Trishakti Securities Public Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-10T13:26:09.104764,Machhapuchhre Bank Limited
+2026041001026364,MBL,45,5,100,254.0,25400.0,2026-04-10,185984398,140,Imperial Securities Company Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T13:30:01.346618,Machhapuchhre Bank Limited
+2026041001026546,MBL,49,5,478,254.0,121412.0,2026-04-10,185985108,140,Online Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T13:30:48.87941,Machhapuchhre Bank Limited
+2026041001026702,MBL,29,57,50,253.7,12685.0,2026-04-10,185985979,140,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,2026-04-10T13:32:02.854951,Machhapuchhre Bank Limited
+2026041001026760,MBL,48,5,27,254.0,6858.0,2026-04-10,185986349,140,Trishakti Securities Public Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-10T13:32:45.894364,Machhapuchhre Bank Limited
+2026041001026761,MBL,48,14,83,254.0,21082.0,2026-04-10,185986352,140,Trishakti Securities Public Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T13:32:45.894421,Machhapuchhre Bank Limited
+2026041001026770,MBL,48,26,10,254.9,2549.0,2026-04-10,185986414,140,Trishakti Securities Public Limited,Asian Securities Private Ltd.,2026-04-10T13:32:49.168767,Machhapuchhre Bank Limited
+2026041001026795,MBL,48,26,10,254.9,2549.0,2026-04-10,185986496,140,Trishakti Securities Public Limited,Asian Securities Private Ltd.,2026-04-10T13:32:56.629792,Machhapuchhre Bank Limited
+2026041001027102,MBL,59,26,1000,254.9,254900.0,2026-04-10,185988512,140,Deevyaa Securities & Stock House Pvt. Ltd,Asian Securities Private Ltd.,2026-04-10T13:37:12.206088,Machhapuchhre Bank Limited
+2026041001027228,MBL,59,26,998,254.9,254390.2,2026-04-10,185989153,140,Deevyaa Securities & Stock House Pvt. Ltd,Asian Securities Private Ltd.,2026-04-10T13:38:18.760232,Machhapuchhre Bank Limited
+2026041001027628,MBL,52,40,6,252.0,1512.0,2026-04-10,185992291,140,Sundhara Securities Limited,Creative Securities Pvt Ltd,2026-04-10T13:43:15.987612,Machhapuchhre Bank Limited
+2026041001027775,MBL,58,58,83,253.9,21073.7,2026-04-10,185993286,140,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T13:44:59.045949,Machhapuchhre Bank Limited
+2026041001027953,MBL,39,91,500,254.8,127400.0,2026-04-10,185994119,140,Sumeru Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-10T13:45:57.194722,Machhapuchhre Bank Limited
+2026041001027954,MBL,39,50,1500,254.9,382350.0,2026-04-10,185994122,140,Sumeru Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T13:45:57.19492,Machhapuchhre Bank Limited
+2026041001027962,MBL,52,58,4,252.0,1008.0,2026-04-10,185994175,140,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-10T13:46:03.156352,Machhapuchhre Bank Limited
+2026041001027989,MBL,59,26,2,254.9,509.8,2026-04-10,185994339,140,Deevyaa Securities & Stock House Pvt. Ltd,Asian Securities Private Ltd.,2026-04-10T13:46:14.050439,Machhapuchhre Bank Limited
+2026041001028041,MBL,48,50,40,254.9,10196.0,2026-04-10,185994654,140,Trishakti Securities Public Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T13:46:39.496896,Machhapuchhre Bank Limited
+2026041001028063,MBL,48,5,10,255.0,2550.0,2026-04-10,185994710,140,Trishakti Securities Public Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-10T13:46:41.680371,Machhapuchhre Bank Limited
+2026041001028184,MBL,45,5,380,255.0,96900.0,2026-04-10,185995469,140,Imperial Securities Company Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T13:47:44.841381,Machhapuchhre Bank Limited
+2026041001028185,MBL,45,57,120,255.0,30600.0,2026-04-10,185995472,140,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-10T13:47:44.841748,Machhapuchhre Bank Limited
+2026041001028728,MBL,42,50,33,254.9,8411.7,2026-04-10,185998606,140,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T13:52:55.806858,Machhapuchhre Bank Limited
+2026041001029440,MBL,14,42,16,254.8,4076.8,2026-04-10,186003006,140,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-10T13:57:07.066537,Machhapuchhre Bank Limited
+2026041001030972,MBL,48,91,500,254.4,127200.0,2026-04-10,186011939,140,Trishakti Securities Public Limited,Citizens Share Broker Limited,2026-04-10T14:11:33.04936,Machhapuchhre Bank Limited
+2026041001030973,MBL,48,91,500,254.4,127200.0,2026-04-10,186011942,140,Trishakti Securities Public Limited,Citizens Share Broker Limited,2026-04-10T14:11:33.04946,Machhapuchhre Bank Limited
+2026041001031596,MBL,56,38,100,254.7,25470.0,2026-04-10,186015381,140,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:18:32.861466,Machhapuchhre Bank Limited
+2026041001031597,MBL,56,42,184,254.8,46883.2,2026-04-10,186015383,140,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-10T14:18:32.861807,Machhapuchhre Bank Limited
+2026041001031598,MBL,56,50,470,254.9,119803.0,2026-04-10,186015385,140,Sri Hari Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T14:18:32.862018,Machhapuchhre Bank Limited
+2026041001031599,MBL,56,57,3880,255.0,989400.0,2026-04-10,186015387,140,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-10T14:18:32.862236,Machhapuchhre Bank Limited
+2026041001031600,MBL,56,45,366,255.0,93330.0,2026-04-10,186015390,140,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T14:18:32.862442,Machhapuchhre Bank Limited
+2026041001031913,MBL,32,57,150,254.0,38100.0,2026-04-10,186016769,140,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-10T14:20:29.30461,Machhapuchhre Bank Limited
+2026041001031941,MBL,32,66,50,254.0,12700.0,2026-04-10,186016896,140,Premier Securities Company Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:20:41.639399,Machhapuchhre Bank Limited
+2026041001031942,MBL,29,66,13,253.7,3298.1,2026-04-10,186016898,140,Trisul Securities & Invt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:20:41.639496,Machhapuchhre Bank Limited
+2026041001031943,MBL,56,66,4937,253.1,1249554.7,2026-04-10,186016899,140,Sri Hari Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:20:41.639587,Machhapuchhre Bank Limited
+2026041001031998,MBL,56,65,63,253.1,15945.3,2026-04-10,186017244,140,Sri Hari Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:21:02.35701,Machhapuchhre Bank Limited
+2026041001031999,MBL,22,65,31,253.0,7843.0,2026-04-10,186017246,140,Siprabi Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:21:02.357058,Machhapuchhre Bank Limited
+2026041001032000,MBL,17,65,1000,253.0,253000.0,2026-04-10,186017248,140,ABC Securities Private Limited,Sharepro Securities Private Limited,2026-04-10T14:21:02.357085,Machhapuchhre Bank Limited
+2026041001032001,MBL,59,65,200,252.9,50580.0,2026-04-10,186017250,140,Deevyaa Securities & Stock House Pvt. Ltd,Sharepro Securities Private Limited,2026-04-10T14:21:02.357122,Machhapuchhre Bank Limited
+2026041001032002,MBL,41,65,200,252.9,50580.0,2026-04-10,186017252,140,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-10T14:21:02.357148,Machhapuchhre Bank Limited
+2026041001032003,MBL,19,65,300,252.9,75870.0,2026-04-10,186017254,140,Nepal Investment And Securities Trading Private Limited,Sharepro Securities Private Limited,2026-04-10T14:21:02.357179,Machhapuchhre Bank Limited
+2026041001032004,MBL,37,65,1000,252.9,252900.0,2026-04-10,186017256,140,Swarna Laxmi Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:21:02.357204,Machhapuchhre Bank Limited
+2026041001032005,MBL,41,65,200,252.9,50580.0,2026-04-10,186017258,140,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-10T14:21:02.357229,Machhapuchhre Bank Limited
+2026041001032091,MBL,48,45,10,255.0,2550.0,2026-04-10,186017612,140,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T14:21:36.624592,Machhapuchhre Bank Limited
+2026041001032305,MBL,58,65,2000,252.8,505600.0,2026-04-10,186018844,140,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:23:28.122987,Machhapuchhre Bank Limited
+2026041001032306,MBL,21,65,1000,252.7,252700.0,2026-04-10,186018846,140,Midas Stock Broking Company Private Limited,Sharepro Securities Private Limited,2026-04-10T14:23:28.123032,Machhapuchhre Bank Limited
+2026041001032307,MBL,19,65,50,252.7,12635.0,2026-04-10,186018848,140,Nepal Investment And Securities Trading Private Limited,Sharepro Securities Private Limited,2026-04-10T14:23:28.123068,Machhapuchhre Bank Limited
+2026041001032308,MBL,50,65,1540,252.3,388542.0,2026-04-10,186018850,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:23:28.123097,Machhapuchhre Bank Limited
+2026041001032309,MBL,81,65,1000,252.0,252000.0,2026-04-10,186018852,140,Aakashbhairab Securities Ltd.,Sharepro Securities Private Limited,2026-04-10T14:23:28.123121,Machhapuchhre Bank Limited
+2026041001032310,MBL,35,65,11000,252.0,2772000.0,2026-04-10,186018854,140,Kohinoor Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:23:28.123143,Machhapuchhre Bank Limited
+2026041001032311,MBL,35,65,2055,252.0,517860.0,2026-04-10,186018855,140,Kohinoor Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:23:28.123165,Machhapuchhre Bank Limited
+2026041001032431,MBL,32,45,6,251.0,1506.0,2026-04-10,186019613,140,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T14:24:19.183318,Machhapuchhre Bank Limited
+2026041001033269,MBL,34,26,2000,252.1,504200.0,2026-04-10,186024506,140,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,2026-04-10T14:30:46.976739,Machhapuchhre Bank Limited
+2026041001033270,MBL,19,26,20,252.1,5042.0,2026-04-10,186024508,140,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-10T14:30:46.976943,Machhapuchhre Bank Limited
+2026041001033271,MBL,50,26,1000,252.0,252000.0,2026-04-10,186024510,140,Cristal Kanchanjanga Securites Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-10T14:30:46.977035,Machhapuchhre Bank Limited
+2026041001033272,MBL,49,26,10,252.0,2520.0,2026-04-10,186024512,140,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-10T14:30:46.977102,Machhapuchhre Bank Limited
+2026041001033273,MBL,52,26,1000,252.0,252000.0,2026-04-10,186024514,140,Sundhara Securities Limited,Asian Securities Private Ltd.,2026-04-10T14:30:46.977166,Machhapuchhre Bank Limited
+2026041001033763,MBL,29,26,20,254.0,5080.0,2026-04-10,186027210,140,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-10T14:34:45.702051,Machhapuchhre Bank Limited
+2026041001033997,MBL,51,35,200,252.0,50400.0,2026-04-10,186028538,140,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:36:37.674153,Machhapuchhre Bank Limited
+2026041001033998,MBL,45,35,1500,252.0,378000.0,2026-04-10,186028540,140,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:36:37.674201,Machhapuchhre Bank Limited
+2026041001033999,MBL,58,35,20,252.0,5040.0,2026-04-10,186028542,140,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:36:37.67423,Machhapuchhre Bank Limited
+2026041001034000,MBL,45,35,300,251.8,75540.0,2026-04-10,186028544,140,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:36:37.674253,Machhapuchhre Bank Limited
+2026041001034001,MBL,21,35,1000,251.7,251700.0,2026-04-10,186028546,140,Midas Stock Broking Company Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:36:37.67428,Machhapuchhre Bank Limited
+2026041001034002,MBL,41,35,4540,251.5,1141810.0,2026-04-10,186028547,140,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:36:37.674305,Machhapuchhre Bank Limited
+2026041001034167,MBL,41,52,18,251.5,4527.0,2026-04-10,186029407,140,Linch Stock Market Ltd.,Sundhara Securities Limited,2026-04-10T14:37:41.353299,Machhapuchhre Bank Limited
+2026041001034225,MBL,41,66,442,251.5,111163.0,2026-04-10,186029630,140,Linch Stock Market Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:38:00.099399,Machhapuchhre Bank Limited
+2026041001034226,MBL,57,66,400,251.5,100600.0,2026-04-10,186029632,140,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-10T14:38:00.099499,Machhapuchhre Bank Limited
+2026041001034227,MBL,44,66,50,251.4,12570.0,2026-04-10,186029634,140,Dynamic Money Managers Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:38:00.099589,Machhapuchhre Bank Limited
+2026041001034228,MBL,34,66,2000,251.4,502800.0,2026-04-10,186029636,140,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,2026-04-10T14:38:00.099668,Machhapuchhre Bank Limited
+2026041001034229,MBL,41,66,1000,251.3,251300.0,2026-04-10,186029638,140,Linch Stock Market Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:38:00.099745,Machhapuchhre Bank Limited
+2026041001034230,MBL,26,66,1108,251.1,278218.8,2026-04-10,186029639,140,Asian Securities Private Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:38:00.099821,Machhapuchhre Bank Limited
+2026041001034607,MBL,57,35,500,251.2,125600.0,2026-04-10,186031619,140,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:40:27.853954,Machhapuchhre Bank Limited
+2026041001034969,MBL,58,57,10,252.0,2520.0,2026-04-10,186033590,140,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-10T14:43:02.597059,Machhapuchhre Bank Limited
+2026041001035006,MBL,14,57,490,252.0,123480.0,2026-04-10,186033935,140,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-10T14:43:22.61234,Machhapuchhre Bank Limited
+2026041001035519,MBL,34,66,200,252.1,50420.0,2026-04-10,186037070,140,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,2026-04-10T14:46:02.187671,Machhapuchhre Bank Limited
+2026041001035520,MBL,14,66,960,252.0,241920.0,2026-04-10,186037072,140,Nepal Stock House (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:46:02.187721,Machhapuchhre Bank Limited
+2026041001035521,MBL,67,66,25,251.5,6287.5,2026-04-10,186037074,140,Property Wiard Limited,Miyo Securities Pvt Ltd,2026-04-10T14:46:02.18775,Machhapuchhre Bank Limited
+2026041001035522,MBL,67,66,25,251.3,6282.5,2026-04-10,186037076,140,Property Wiard Limited,Miyo Securities Pvt Ltd,2026-04-10T14:46:02.187782,Machhapuchhre Bank Limited
+2026041001035523,MBL,42,66,790,251.3,198527.0,2026-04-10,186037077,140,Sani Securities Company Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:46:02.187811,Machhapuchhre Bank Limited
+2026041001036037,MBL,42,13,210,251.3,52773.0,2026-04-10,186040420,140,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-10T14:49:04.926295,Machhapuchhre Bank Limited
+2026041001036038,MBL,42,13,1790,251.3,449827.0,2026-04-10,186040421,140,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-10T14:49:04.92645,Machhapuchhre Bank Limited
+2026041001036325,MBL,42,17,357,251.3,89714.1,2026-04-10,186042137,140,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-10T14:50:26.034881,Machhapuchhre Bank Limited
+2026041001036348,MBL,19,37,1,250.0,250.0,2026-04-10,186042290,140,Nepal Investment And Securities Trading Private Limited,Swarna Laxmi Securities Pvt. Ltd.,2026-04-10T14:50:33.999116,Machhapuchhre Bank Limited
+2026041001036711,MBL,51,58,315,251.5,79222.5,2026-04-10,186044809,140,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T14:52:29.448505,Machhapuchhre Bank Limited
+2026041001036849,MBL,45,66,10,253.0,2530.0,2026-04-10,186045556,140,Imperial Securities Company Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:53:04.841891,Machhapuchhre Bank Limited
+2026041001036970,MBL,58,66,10,253.0,2530.0,2026-04-10,186046264,140,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:53:28.228894,Machhapuchhre Bank Limited
+2026041001037222,MBL,35,43,100,252.0,25200.0,2026-04-10,186047736,140,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-10T14:54:21.639012,Machhapuchhre Bank Limited
+2026041001037689,MBL,35,26,950,252.0,239400.0,2026-04-10,186050505,140,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-10T14:55:58.901069,Machhapuchhre Bank Limited
+2026041001038099,MBL,51,41,61,252.5,15402.5,2026-04-10,186052949,140,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T14:57:20.628577,Machhapuchhre Bank Limited
+2026041001038130,MBL,45,66,10,253.0,2530.0,2026-04-10,186053146,140,Imperial Securities Company Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:57:26.326728,Machhapuchhre Bank Limited
+2026041001038359,MBL,83,41,200,252.6,50520.0,2026-04-10,186054636,140,Sanima Securities Limited,Linch Stock Market Ltd.,2026-04-10T14:58:12.147993,Machhapuchhre Bank Limited
+2026041001038360,MBL,51,41,393,252.5,99232.5,2026-04-10,186054637,140,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T14:58:12.148169,Machhapuchhre Bank Limited
+2026041001038594,MBL,51,58,500,252.5,126250.0,2026-04-10,186056233,140,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T14:58:49.093342,Machhapuchhre Bank Limited
+2026041001038621,MBL,51,14,1000,252.5,252500.0,2026-04-10,186056483,140,Oxford Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-10T14:58:54.895905,Machhapuchhre Bank Limited
+2026041001038625,MBL,51,66,10,253.0,2530.0,2026-04-10,186056534,140,Oxford Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-10T14:58:55.785865,Machhapuchhre Bank Limited
+2026041001039222,MBL,51,72,46,252.5,11615.0,2026-04-10,186061214,140,Oxford Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-10T14:59:57.108664,Machhapuchhre Bank Limited

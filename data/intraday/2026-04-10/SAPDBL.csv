@@ -1,0 +1,281 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041003000006,SAPDBL,52,50,25,894.9,22372.5,2026-04-10,185885824,2860,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T10:46:00.095121,Saptakoshi Development Bank Ltd
+2026041003000008,SAPDBL,52,14,25,895.0,22375.0,2026-04-10,185886046,2860,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T11:00:06.591706,Saptakoshi Development Bank Ltd
+2026041003000010,SAPDBL,95,87,10,880.1,8801.0,2026-04-10,185886114,2860,Magnet Securities and Investment Company Private Limited,S.P.S.A. Securities Limited,2026-04-10T11:00:21.092133,Saptakoshi Development Bank Ltd
+2026041003000012,SAPDBL,95,42,50,880.1,44005.0,2026-04-10,185886232,2860,Magnet Securities and Investment Company Private Limited,Sani Securities Company Ltd.,2026-04-10T11:00:39.086604,Saptakoshi Development Bank Ltd
+2026041003000024,SAPDBL,95,34,100,880.1,88010.0,2026-04-10,185886778,2860,Magnet Securities and Investment Company Private Limited,Vision Securities Pvt. Ltd,2026-04-10T11:01:19.713377,Saptakoshi Development Bank Ltd
+2026041003000038,SAPDBL,95,28,40,880.1,35204.0,2026-04-10,185887752,2860,Magnet Securities and Investment Company Private Limited,Shree Krishna Securities Ltd.,2026-04-10T11:02:08.481078,Saptakoshi Development Bank Ltd
+2026041003000078,SAPDBL,56,41,55,884.0,48620.0,2026-04-10,185888483,2860,Sri Hari Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T11:03:00.368757,Saptakoshi Development Bank Ltd
+2026041003000130,SAPDBL,43,41,70,884.0,61880.0,2026-04-10,185890800,2860,South Asian Bulls Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T11:05:48.823471,Saptakoshi Development Bank Ltd
+2026041003000147,SAPDBL,43,28,30,885.0,26550.0,2026-04-10,185891820,2860,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T11:06:41.560084,Saptakoshi Development Bank Ltd
+2026041003000151,SAPDBL,43,28,30,885.0,26550.0,2026-04-10,185891938,2860,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T11:06:46.719661,Saptakoshi Development Bank Ltd
+2026041003000164,SAPDBL,43,28,20,885.0,17700.0,2026-04-10,185892798,2860,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T11:07:44.147491,Saptakoshi Development Bank Ltd
+2026041003000282,SAPDBL,22,87,100,885.0,88500.0,2026-04-10,185898015,2860,Siprabi Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T11:13:20.798293,Saptakoshi Development Bank Ltd
+2026041003000328,SAPDBL,48,87,10,885.0,8850.0,2026-04-10,185900413,2860,Trishakti Securities Public Limited,S.P.S.A. Securities Limited,2026-04-10T11:15:55.380456,Saptakoshi Development Bank Ltd
+2026041003000368,SAPDBL,35,17,50,881.0,44050.0,2026-04-10,185902424,2860,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-10T11:18:24.459678,Saptakoshi Development Bank Ltd
+2026041003000417,SAPDBL,45,87,10,871.5,8715.0,2026-04-10,185903986,2860,Imperial Securities Company Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T11:20:05.911052,Saptakoshi Development Bank Ltd
+2026041003000557,SAPDBL,45,35,173,871.9,150838.7,2026-04-10,185908966,2860,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T11:24:37.694671,Saptakoshi Development Bank Ltd
+2026041003000724,SAPDBL,42,25,200,874.0,174800.0,2026-04-10,185915132,2860,Sani Securities Company Ltd.,Sweta Securities Private Limited,2026-04-10T11:29:55.452323,Saptakoshi Development Bank Ltd
+2026041003000790,SAPDBL,34,49,10,875.0,8750.0,2026-04-10,185916802,2860,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-10T11:31:29.214371,Saptakoshi Development Bank Ltd
+2026041003000862,SAPDBL,95,59,10,875.5,8755.0,2026-04-10,185918798,2860,Magnet Securities and Investment Company Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T11:35:35.433613,Saptakoshi Development Bank Ltd
+2026041003000951,SAPDBL,32,38,10,883.4,8834.0,2026-04-10,186067271,2860,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T11:39:10.07,Saptakoshi Development Bank Ltd
+2026041003000978,SAPDBL,34,59,10,876.0,8760.0,2026-04-10,186068752,2860,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T11:40:20.959,Saptakoshi Development Bank Ltd
+2026041003001250,SAPDBL,87,59,10,882.9,8829.0,2026-04-10,186081254,2860,S.P.S.A. Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T11:53:53.176,Saptakoshi Development Bank Ltd
+2026041003001297,SAPDBL,87,7,10,884.8,8848.0,2026-04-10,186081291,2860,S.P.S.A. Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-10T11:56:02.549,Saptakoshi Development Bank Ltd
+2026041003001414,SAPDBL,46,21,457,880.0,402160.0,2026-04-10,186073091,2860,Kalika Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T12:01:19.675,Saptakoshi Development Bank Ltd
+2026041003001411,SAPDBL,58,21,13,881.0,11453.0,2026-04-10,186076640,2860,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T12:01:19.675,Saptakoshi Development Bank Ltd
+2026041003001412,SAPDBL,59,21,10,881.0,8810.0,2026-04-10,186078774,2860,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-10T12:01:19.675,Saptakoshi Development Bank Ltd
+2026041003001413,SAPDBL,57,21,20,880.1,17602.0,2026-04-10,186075890,2860,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-10T12:01:19.675,Saptakoshi Development Bank Ltd
+2026041003001431,SAPDBL,87,59,10,883.9,8839.0,2026-04-10,186081251,2860,S.P.S.A. Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T12:01:56.259,Saptakoshi Development Bank Ltd
+2026041003001464,SAPDBL,87,21,10,884.9,8849.0,2026-04-10,185921234,2860,S.P.S.A. Securities Limited,Midas Stock Broking Company Private Limited,2026-04-10T12:03:22.514283,Saptakoshi Development Bank Ltd
+2026041003001483,SAPDBL,58,21,50,884.9,44245.0,2026-04-10,185921988,2860,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T12:04:31.325931,Saptakoshi Development Bank Ltd
+2026041003001543,SAPDBL,95,14,200,880.1,176020.0,2026-04-10,185923111,2860,Magnet Securities and Investment Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T12:06:10.281445,Saptakoshi Development Bank Ltd
+2026041003001560,SAPDBL,87,7,10,883.9,8839.0,2026-04-10,185923456,2860,S.P.S.A. Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-10T12:06:35.286112,Saptakoshi Development Bank Ltd
+2026041003001599,SAPDBL,46,14,155,880.0,136400.0,2026-04-10,185924263,2860,Kalika Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-10T12:07:35.963698,Saptakoshi Development Bank Ltd
+2026041003001606,SAPDBL,87,59,10,883.8,8838.0,2026-04-10,185924424,2860,S.P.S.A. Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T12:07:46.993522,Saptakoshi Development Bank Ltd
+2026041003001617,SAPDBL,46,5,100,880.0,88000.0,2026-04-10,185924809,2860,Kalika Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:08:11.958298,Saptakoshi Development Bank Ltd
+2026041003001646,SAPDBL,46,5,50,880.0,44000.0,2026-04-10,185925427,2860,Kalika Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:08:58.868095,Saptakoshi Development Bank Ltd
+2026041003001689,SAPDBL,87,7,16,883.9,14142.4,2026-04-10,185925886,2860,S.P.S.A. Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-10T12:09:31.842243,Saptakoshi Development Bank Ltd
+2026041003001703,SAPDBL,46,49,120,880.0,105600.0,2026-04-10,185926173,2860,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T12:09:48.142105,Saptakoshi Development Bank Ltd
+2026041003001721,SAPDBL,87,33,10,883.0,8830.0,2026-04-10,185926704,2860,S.P.S.A. Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T12:10:22.304419,Saptakoshi Development Bank Ltd
+2026041003001736,SAPDBL,59,49,10,880.1,8801.0,2026-04-10,185927064,2860,Deevyaa Securities & Stock House Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-10T12:10:42.741393,Saptakoshi Development Bank Ltd
+2026041003001737,SAPDBL,46,49,240,880.0,211200.0,2026-04-10,185927065,2860,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T12:10:42.741588,Saptakoshi Development Bank Ltd
+2026041003001744,SAPDBL,87,33,10,883.0,8830.0,2026-04-10,185927232,2860,S.P.S.A. Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T12:10:52.599308,Saptakoshi Development Bank Ltd
+2026041003001745,SAPDBL,46,49,250,880.0,220000.0,2026-04-10,185927269,2860,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T12:10:55.870637,Saptakoshi Development Bank Ltd
+2026041003001822,SAPDBL,87,59,10,882.9,8829.0,2026-04-10,185928742,2860,S.P.S.A. Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T12:12:10.777183,Saptakoshi Development Bank Ltd
+2026041003002195,SAPDBL,42,16,10,880.2,8802.0,2026-04-10,185934732,2860,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-10T12:17:43.116276,Saptakoshi Development Bank Ltd
+2026041003002196,SAPDBL,46,16,390,880.0,343200.0,2026-04-10,185934733,2860,Kalika Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-10T12:17:43.116417,Saptakoshi Development Bank Ltd
+2026041003002205,SAPDBL,87,5,10,881.5,8815.0,2026-04-10,185934948,2860,S.P.S.A. Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:17:57.004215,Saptakoshi Development Bank Ltd
+2026041003002214,SAPDBL,46,63,250,880.0,220000.0,2026-04-10,185935279,2860,Kalika Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-10T12:18:15.750843,Saptakoshi Development Bank Ltd
+2026041003002236,SAPDBL,46,7,19,880.0,16720.0,2026-04-10,185935857,2860,Kalika Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-10T12:18:43.506735,Saptakoshi Development Bank Ltd
+2026041003002250,SAPDBL,46,17,500,880.0,440000.0,2026-04-10,185936159,2860,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-10T12:18:54.752207,Saptakoshi Development Bank Ltd
+2026041003002271,SAPDBL,46,22,664,880.0,584320.0,2026-04-10,185936481,2860,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T12:19:05.384911,Saptakoshi Development Bank Ltd
+2026041003002273,SAPDBL,46,17,500,880.0,440000.0,2026-04-10,185936591,2860,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-10T12:19:10.232965,Saptakoshi Development Bank Ltd
+2026041003002287,SAPDBL,95,17,500,880.1,440050.0,2026-04-10,185937007,2860,Magnet Securities and Investment Company Private Limited,ABC Securities Private Limited,2026-04-10T12:19:34.054155,Saptakoshi Development Bank Ltd
+2026041003002288,SAPDBL,95,25,50,880.1,44005.0,2026-04-10,185937053,2860,Magnet Securities and Investment Company Private Limited,Sweta Securities Private Limited,2026-04-10T12:19:36.679239,Saptakoshi Development Bank Ltd
+2026041003002366,SAPDBL,95,19,240,880.1,211224.0,2026-04-10,185938206,2860,Magnet Securities and Investment Company Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-10T12:20:33.307405,Saptakoshi Development Bank Ltd
+2026041003002367,SAPDBL,46,19,760,880.0,668800.0,2026-04-10,185938207,2860,Kalika Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-10T12:20:33.307575,Saptakoshi Development Bank Ltd
+2026041003002373,SAPDBL,87,5,10,881.5,8815.0,2026-04-10,185938232,2860,S.P.S.A. Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:20:34.51879,Saptakoshi Development Bank Ltd
+2026041003002376,SAPDBL,4,5,30,881.5,26445.0,2026-04-10,185938249,2860,Opal Securities Investment (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T12:20:35.728378,Saptakoshi Development Bank Ltd
+2026041003002388,SAPDBL,4,17,20,881.5,17630.0,2026-04-10,185938708,2860,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-10T12:20:57.836693,Saptakoshi Development Bank Ltd
+2026041003002389,SAPDBL,46,17,229,880.0,201520.0,2026-04-10,185938709,2860,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-10T12:20:57.836973,Saptakoshi Development Bank Ltd
+2026041003002405,SAPDBL,41,46,50,880.1,44005.0,2026-04-10,185939278,2860,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:21:23.059833,Saptakoshi Development Bank Ltd
+2026041003002406,SAPDBL,42,46,10,879.0,8790.0,2026-04-10,185939280,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:21:23.05987,Saptakoshi Development Bank Ltd
+2026041003002407,SAPDBL,35,46,140,877.0,122780.0,2026-04-10,185939281,2860,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:21:23.059896,Saptakoshi Development Bank Ltd
+2026041003002421,SAPDBL,35,87,60,877.0,52620.0,2026-04-10,185939916,2860,Kohinoor Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T12:21:49.568428,Saptakoshi Development Bank Ltd
+2026041003002422,SAPDBL,58,87,10,876.6,8766.0,2026-04-10,185939918,2860,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-10T12:21:49.568533,Saptakoshi Development Bank Ltd
+2026041003002423,SAPDBL,45,87,10,874.2,8742.0,2026-04-10,185939919,2860,Imperial Securities Company Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T12:21:49.568608,Saptakoshi Development Bank Ltd
+2026041003002442,SAPDBL,45,35,157,874.2,137249.4,2026-04-10,185940250,2860,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T12:22:03.408335,Saptakoshi Development Bank Ltd
+2026041003002443,SAPDBL,48,35,43,874.2,37590.6,2026-04-10,185940251,2860,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T12:22:03.408502,Saptakoshi Development Bank Ltd
+2026041003002490,SAPDBL,7,42,10,874.1,8741.0,2026-04-10,185940914,2860,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-10T12:22:28.804249,Saptakoshi Development Bank Ltd
+2026041003002491,SAPDBL,43,42,190,874.0,166060.0,2026-04-10,185940915,2860,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-10T12:22:28.804387,Saptakoshi Development Bank Ltd
+2026041003002510,SAPDBL,43,25,100,874.0,87400.0,2026-04-10,185941055,2860,South Asian Bulls Pvt. Ltd.,Sweta Securities Private Limited,2026-04-10T12:22:35.110731,Saptakoshi Development Bank Ltd
+2026041003002515,SAPDBL,43,50,10,874.0,8740.0,2026-04-10,185941178,2860,South Asian Bulls Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T12:22:41.393418,Saptakoshi Development Bank Ltd
+2026041003002516,SAPDBL,1,50,50,872.6,43630.0,2026-04-10,185941180,2860,Kumari Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T12:22:41.393518,Saptakoshi Development Bank Ltd
+2026041003002517,SAPDBL,41,50,90,872.5,78525.0,2026-04-10,185941181,2860,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T12:22:41.393587,Saptakoshi Development Bank Ltd
+2026041003002549,SAPDBL,38,59,10,874.2,8742.0,2026-04-10,185941651,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T12:23:06.723182,Saptakoshi Development Bank Ltd
+2026041003002729,SAPDBL,38,51,90,874.2,78678.0,2026-04-10,185945342,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-10T12:25:58.468112,Saptakoshi Development Bank Ltd
+2026041003002842,SAPDBL,16,58,12,872.1,10465.2,2026-04-10,185948201,2860,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:28:24.11827,Saptakoshi Development Bank Ltd
+2026041003002897,SAPDBL,95,45,60,872.3,52338.0,2026-04-10,185948989,2860,Magnet Securities and Investment Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T12:29:14.77102,Saptakoshi Development Bank Ltd
+2026041003002929,SAPDBL,87,51,10,874.2,8742.0,2026-04-10,185949421,2860,S.P.S.A. Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-10T12:29:46.755062,Saptakoshi Development Bank Ltd
+2026041003002930,SAPDBL,87,58,10,879.0,8790.0,2026-04-10,185949424,2860,S.P.S.A. Securities Limited,Naasa Securities Co. Ltd.,2026-04-10T12:29:46.755098,Saptakoshi Development Bank Ltd
+2026041003002935,SAPDBL,58,45,105,880.0,92400.0,2026-04-10,185949507,2860,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T12:29:49.716809,Saptakoshi Development Bank Ltd
+2026041003002936,SAPDBL,58,58,200,880.0,176000.0,2026-04-10,185949509,2860,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:29:49.71694,Saptakoshi Development Bank Ltd
+2026041003002967,SAPDBL,58,87,35,880.0,30800.0,2026-04-10,185950077,2860,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-10T12:30:28.370554,Saptakoshi Development Bank Ltd
+2026041003003001,SAPDBL,46,32,200,875.0,175000.0,2026-04-10,185951089,2860,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-10T12:31:49.525767,Saptakoshi Development Bank Ltd
+2026041003003024,SAPDBL,87,58,11,880.0,9680.0,2026-04-10,185951516,2860,S.P.S.A. Securities Limited,Naasa Securities Co. Ltd.,2026-04-10T12:32:19.682397,Saptakoshi Development Bank Ltd
+2026041003003150,SAPDBL,58,58,25,880.0,22000.0,2026-04-10,185954225,2860,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:36:11.770251,Saptakoshi Development Bank Ltd
+2026041003003151,SAPDBL,58,91,60,880.0,52800.0,2026-04-10,185954227,2860,Naasa Securities Co. Ltd.,Citizens Share Broker Limited,2026-04-10T12:36:11.770402,Saptakoshi Development Bank Ltd
+2026041003003163,SAPDBL,87,33,10,883.0,8830.0,2026-04-10,185954542,2860,S.P.S.A. Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T12:36:47.622761,Saptakoshi Development Bank Ltd
+2026041003003177,SAPDBL,74,33,50,883.0,44150.0,2026-04-10,185955095,2860,KALASH STOCK MARKET PVT. LTD.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T12:37:24.765988,Saptakoshi Development Bank Ltd
+2026041003003178,SAPDBL,74,36,30,883.0,26490.0,2026-04-10,185955097,2860,KALASH STOCK MARKET PVT. LTD.,Secured Securities Ltd.,2026-04-10T12:37:24.766157,Saptakoshi Development Bank Ltd
+2026041003003179,SAPDBL,74,61,20,883.0,17660.0,2026-04-10,185955106,2860,KALASH STOCK MARKET PVT. LTD.,BHOLE GANESH SECURITIES LTD,2026-04-10T12:37:25.143556,Saptakoshi Development Bank Ltd
+2026041003003180,SAPDBL,58,61,215,880.0,189200.0,2026-04-10,185955108,2860,Naasa Securities Co. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-10T12:37:25.143714,Saptakoshi Development Bank Ltd
+2026041003003200,SAPDBL,22,58,6,874.2,5245.2,2026-04-10,185956397,2860,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:38:36.367052,Saptakoshi Development Bank Ltd
+2026041003003296,SAPDBL,4,61,40,875.8,35032.0,2026-04-10,185957916,2860,Opal Securities Investment (PVT) Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-10T12:40:17.621498,Saptakoshi Development Bank Ltd
+2026041003003297,SAPDBL,46,61,25,875.8,21895.0,2026-04-10,185957917,2860,Kalika Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-10T12:40:17.621696,Saptakoshi Development Bank Ltd
+2026041003003316,SAPDBL,87,40,91,880.0,80080.0,2026-04-10,185958332,2860,S.P.S.A. Securities Limited,Creative Securities Pvt Ltd,2026-04-10T12:40:54.063489,Saptakoshi Development Bank Ltd
+2026041003003320,SAPDBL,87,21,10,884.9,8849.0,2026-04-10,185958376,2860,S.P.S.A. Securities Limited,Midas Stock Broking Company Private Limited,2026-04-10T12:40:59.07995,Saptakoshi Development Bank Ltd
+2026041003003408,SAPDBL,57,46,250,875.6,218900.0,2026-04-10,185960366,2860,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:17.210861,Saptakoshi Development Bank Ltd
+2026041003003409,SAPDBL,38,46,100,875.5,87550.0,2026-04-10,185960368,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:17.21091,Saptakoshi Development Bank Ltd
+2026041003003410,SAPDBL,22,46,100,875.5,87550.0,2026-04-10,185960370,2860,Siprabi Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:17.210936,Saptakoshi Development Bank Ltd
+2026041003003411,SAPDBL,45,46,50,875.4,43770.0,2026-04-10,185960371,2860,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:17.210959,Saptakoshi Development Bank Ltd
+2026041003003416,SAPDBL,45,46,185,875.4,161949.0,2026-04-10,185960492,2860,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:28.71594,Saptakoshi Development Bank Ltd
+2026041003003417,SAPDBL,38,46,100,872.6,87260.0,2026-04-10,185960494,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:28.71599,Saptakoshi Development Bank Ltd
+2026041003003418,SAPDBL,16,46,88,872.5,76780.0,2026-04-10,185960496,2860,Primo Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:28.716018,Saptakoshi Development Bank Ltd
+2026041003003419,SAPDBL,95,46,440,872.3,383812.0,2026-04-10,185960498,2860,Magnet Securities and Investment Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:28.716052,Saptakoshi Development Bank Ltd
+2026041003003420,SAPDBL,14,46,100,872.0,87200.0,2026-04-10,185960500,2860,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:28.716077,Saptakoshi Development Bank Ltd
+2026041003003421,SAPDBL,57,46,50,872.0,43600.0,2026-04-10,185960502,2860,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:28.716101,Saptakoshi Development Bank Ltd
+2026041003003422,SAPDBL,53,46,37,872.0,32264.0,2026-04-10,185960503,2860,Investment Management Nepal Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:28.716127,Saptakoshi Development Bank Ltd
+2026041003003443,SAPDBL,53,46,13,872.0,11336.0,2026-04-10,185960644,2860,Investment Management Nepal Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:42.690661,Saptakoshi Development Bank Ltd
+2026041003003444,SAPDBL,42,46,50,871.0,43550.0,2026-04-10,185960646,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:42.690964,Saptakoshi Development Bank Ltd
+2026041003003445,SAPDBL,35,46,55,871.0,47905.0,2026-04-10,185960648,2860,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:42.691161,Saptakoshi Development Bank Ltd
+2026041003003446,SAPDBL,10,46,500,870.0,435000.0,2026-04-10,185960650,2860,Pragyan Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:42.691333,Saptakoshi Development Bank Ltd
+2026041003003447,SAPDBL,56,46,200,870.0,174000.0,2026-04-10,185960652,2860,Sri Hari Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:42.691505,Saptakoshi Development Bank Ltd
+2026041003003448,SAPDBL,29,46,50,870.0,43500.0,2026-04-10,185960654,2860,Trisul Securities & Invt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:42.691657,Saptakoshi Development Bank Ltd
+2026041003003449,SAPDBL,7,46,10,870.0,8700.0,2026-04-10,185960656,2860,J.F. Securites (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:42.691818,Saptakoshi Development Bank Ltd
+2026041003003454,SAPDBL,7,46,10,870.0,8700.0,2026-04-10,185960734,2860,J.F. Securites (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:44:51.959963,Saptakoshi Development Bank Ltd
+2026041003003483,SAPDBL,36,46,500,870.0,435000.0,2026-04-10,185961282,2860,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:45:52.551082,Saptakoshi Development Bank Ltd
+2026041003003484,SAPDBL,36,46,2000,870.0,1740000.0,2026-04-10,185961288,2860,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:45:52.883886,Saptakoshi Development Bank Ltd
+2026041003003493,SAPDBL,42,46,10,870.0,8700.0,2026-04-10,185961432,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:46:08.500675,Saptakoshi Development Bank Ltd
+2026041003003497,SAPDBL,41,46,50,870.0,43500.0,2026-04-10,185961496,2860,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:46:20.662492,Saptakoshi Development Bank Ltd
+2026041003003538,SAPDBL,34,14,10,869.1,8691.0,2026-04-10,185962321,2860,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-10T12:48:05.415575,Saptakoshi Development Bank Ltd
+2026041003003585,SAPDBL,34,92,10,869.1,8691.0,2026-04-10,185963360,2860,Vision Securities Pvt. Ltd,Roadshow securities limited,2026-04-10T12:49:41.188686,Saptakoshi Development Bank Ltd
+2026041003003586,SAPDBL,7,92,50,869.1,43455.0,2026-04-10,185963362,2860,J.F. Securites (PVT) Ltd.,Roadshow securities limited,2026-04-10T12:49:41.188836,Saptakoshi Development Bank Ltd
+2026041003003587,SAPDBL,4,92,50,869.0,43450.0,2026-04-10,185963364,2860,Opal Securities Investment (PVT) Ltd.,Roadshow securities limited,2026-04-10T12:49:41.188895,Saptakoshi Development Bank Ltd
+2026041003003588,SAPDBL,42,92,20,869.0,17380.0,2026-04-10,185963366,2860,Sani Securities Company Ltd.,Roadshow securities limited,2026-04-10T12:49:41.188954,Saptakoshi Development Bank Ltd
+2026041003003593,SAPDBL,14,92,170,869.0,147730.0,2026-04-10,185963619,2860,Nepal Stock House (PVT) Ltd.,Roadshow securities limited,2026-04-10T12:50:17.435302,Saptakoshi Development Bank Ltd
+2026041003003624,SAPDBL,14,46,280,870.0,243600.0,2026-04-10,185964450,2860,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:51:56.5231,Saptakoshi Development Bank Ltd
+2026041003003628,SAPDBL,62,46,120,870.0,104400.0,2026-04-10,185964582,2860,Capital Max Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-10T12:52:14.74068,Saptakoshi Development Bank Ltd
+2026041003003629,SAPDBL,58,46,11,870.0,9570.0,2026-04-10,185964644,2860,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:52:22.115579,Saptakoshi Development Bank Ltd
+2026041003003630,SAPDBL,17,46,500,870.0,435000.0,2026-04-10,185964678,2860,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-10T12:52:27.91297,Saptakoshi Development Bank Ltd
+2026041003003638,SAPDBL,35,46,50,870.0,43500.0,2026-04-10,185964868,2860,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:52:50.396184,Saptakoshi Development Bank Ltd
+2026041003003640,SAPDBL,52,46,300,870.0,261000.0,2026-04-10,185964890,2860,Sundhara Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-10T12:52:55.050838,Saptakoshi Development Bank Ltd
+2026041003003643,SAPDBL,17,46,500,870.0,435000.0,2026-04-10,185964916,2860,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-10T12:52:57.579241,Saptakoshi Development Bank Ltd
+2026041003003652,SAPDBL,17,46,500,870.0,435000.0,2026-04-10,185965090,2860,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-10T12:53:14.802207,Saptakoshi Development Bank Ltd
+2026041003003667,SAPDBL,95,46,500,870.0,435000.0,2026-04-10,185965318,2860,Magnet Securities and Investment Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-10T12:53:47.376649,Saptakoshi Development Bank Ltd
+2026041003003696,SAPDBL,49,46,100,870.0,87000.0,2026-04-10,185966566,2860,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:55:35.281807,Saptakoshi Development Bank Ltd
+2026041003003731,SAPDBL,57,46,100,870.0,87000.0,2026-04-10,185968222,2860,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-10T12:58:49.749858,Saptakoshi Development Bank Ltd
+2026041003003742,SAPDBL,16,46,100,870.0,87000.0,2026-04-10,185968494,2860,Primo Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T12:59:07.216602,Saptakoshi Development Bank Ltd
+2026041003003764,SAPDBL,44,46,500,870.0,435000.0,2026-04-10,185969194,2860,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T13:00:28.411321,Saptakoshi Development Bank Ltd
+2026041003003766,SAPDBL,42,46,100,870.0,87000.0,2026-04-10,185969210,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T13:00:32.247447,Saptakoshi Development Bank Ltd
+2026041003003868,SAPDBL,87,38,10,879.9,8799.0,2026-04-10,185971498,2860,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T13:05:55.209731,Saptakoshi Development Bank Ltd
+2026041003004009,SAPDBL,94,17,100,879.9,87990.0,2026-04-10,185974399,2860,K.B.L. Securities Limited ,ABC Securities Private Limited,2026-04-10T13:13:03.058579,Saptakoshi Development Bank Ltd
+2026041003004010,SAPDBL,94,46,300,880.0,264000.0,2026-04-10,185974402,2860,K.B.L. Securities Limited ,Kalika Securities Pvt. Ltd.,2026-04-10T13:13:03.058779,Saptakoshi Development Bank Ltd
+2026041003004091,SAPDBL,58,58,7,880.0,6160.0,2026-04-10,185976321,2860,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T13:17:23.633923,Saptakoshi Development Bank Ltd
+2026041003004553,SAPDBL,57,46,50,880.0,44000.0,2026-04-10,185986268,2860,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-10T13:32:34.9582,Saptakoshi Development Bank Ltd
+2026041003004577,SAPDBL,52,58,10,872.1,8721.0,2026-04-10,185986574,2860,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-10T13:33:02.520157,Saptakoshi Development Bank Ltd
+2026041003004578,SAPDBL,44,58,10,872.0,8720.0,2026-04-10,185986576,2860,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T13:33:02.520359,Saptakoshi Development Bank Ltd
+2026041003004579,SAPDBL,40,58,10,871.0,8710.0,2026-04-10,185986578,2860,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-10T13:33:02.52043,Saptakoshi Development Bank Ltd
+2026041003004580,SAPDBL,47,58,25,871.0,21775.0,2026-04-10,185986580,2860,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T13:33:02.5205,Saptakoshi Development Bank Ltd
+2026041003004581,SAPDBL,14,58,45,871.0,39195.0,2026-04-10,185986581,2860,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-10T13:33:02.520567,Saptakoshi Development Bank Ltd
+2026041003004675,SAPDBL,34,45,50,879.0,43950.0,2026-04-10,185988854,2860,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-10T13:37:53.842654,Saptakoshi Development Bank Ltd
+2026041003004843,SAPDBL,34,46,100,880.0,88000.0,2026-04-10,185992000,2860,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-10T13:42:58.712945,Saptakoshi Development Bank Ltd
+2026041003005143,SAPDBL,17,53,30,875.2,26256.0,2026-04-10,185997403,2860,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-10T13:50:57.335333,Saptakoshi Development Bank Ltd
+2026041003005226,SAPDBL,87,45,16,879.5,14072.0,2026-04-10,185998964,2860,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T13:53:20.375238,Saptakoshi Development Bank Ltd
+2026041003005232,SAPDBL,17,34,50,875.3,43765.0,2026-04-10,185999108,2860,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-10T13:53:31.027112,Saptakoshi Development Bank Ltd
+2026041003005233,SAPDBL,17,34,50,875.2,43760.0,2026-04-10,185999109,2860,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-10T13:53:31.027273,Saptakoshi Development Bank Ltd
+2026041003005413,SAPDBL,17,87,20,875.2,17504.0,2026-04-10,186003308,2860,ABC Securities Private Limited,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588161,Saptakoshi Development Bank Ltd
+2026041003005414,SAPDBL,14,87,100,875.2,87520.0,2026-04-10,186003310,2860,Nepal Stock House (PVT) Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588375,Saptakoshi Development Bank Ltd
+2026041003005415,SAPDBL,62,87,20,875.2,17504.0,2026-04-10,186003312,2860,Capital Max Securities Ltd,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588467,Saptakoshi Development Bank Ltd
+2026041003005416,SAPDBL,21,87,500,870.8,435400.0,2026-04-10,186003314,2860,Midas Stock Broking Company Private Limited,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588543,Saptakoshi Development Bank Ltd
+2026041003005417,SAPDBL,42,87,100,870.5,87050.0,2026-04-10,186003316,2860,Sani Securities Company Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588612,Saptakoshi Development Bank Ltd
+2026041003005418,SAPDBL,42,87,10,870.0,8700.0,2026-04-10,186003318,2860,Sani Securities Company Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588684,Saptakoshi Development Bank Ltd
+2026041003005419,SAPDBL,19,87,50,870.0,43500.0,2026-04-10,186003320,2860,Nepal Investment And Securities Trading Private Limited,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588754,Saptakoshi Development Bank Ltd
+2026041003005420,SAPDBL,35,87,115,870.0,100050.0,2026-04-10,186003322,2860,Kohinoor Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588824,Saptakoshi Development Bank Ltd
+2026041003005421,SAPDBL,41,87,50,870.0,43500.0,2026-04-10,186003324,2860,Linch Stock Market Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588911,Saptakoshi Development Bank Ltd
+2026041003005422,SAPDBL,52,87,110,870.0,95700.0,2026-04-10,186003326,2860,Sundhara Securities Limited,S.P.S.A. Securities Limited,2026-04-10T13:57:21.588975,Saptakoshi Development Bank Ltd
+2026041003005423,SAPDBL,62,87,150,870.0,130500.0,2026-04-10,186003328,2860,Capital Max Securities Ltd,S.P.S.A. Securities Limited,2026-04-10T13:57:21.58909,Saptakoshi Development Bank Ltd
+2026041003005436,SAPDBL,45,87,100,870.0,87000.0,2026-04-10,186003574,2860,Imperial Securities Company Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:57:36.057688,Saptakoshi Development Bank Ltd
+2026041003005504,SAPDBL,56,87,50,870.0,43500.0,2026-04-10,186004908,2860,Sri Hari Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:59:02.317012,Saptakoshi Development Bank Ltd
+2026041003005507,SAPDBL,16,87,50,870.0,43500.0,2026-04-10,186004992,2860,Primo Securities (PVT) Ltd.,S.P.S.A. Securities Limited,2026-04-10T13:59:06.890965,Saptakoshi Development Bank Ltd
+2026041003005600,SAPDBL,58,87,100,870.0,87000.0,2026-04-10,186006622,2860,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-10T14:01:30.449628,Saptakoshi Development Bank Ltd
+2026041003005615,SAPDBL,58,87,50,870.0,43500.0,2026-04-10,186006804,2860,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-10T14:01:48.030346,Saptakoshi Development Bank Ltd
+2026041003005645,SAPDBL,45,87,50,870.0,43500.0,2026-04-10,186007198,2860,Imperial Securities Company Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-10T14:02:13.688804,Saptakoshi Development Bank Ltd
+2026041003005658,SAPDBL,58,87,48,870.0,41760.0,2026-04-10,186007526,2860,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-10T14:02:42.042641,Saptakoshi Development Bank Ltd
+2026041003005742,SAPDBL,57,51,10,869.7,8697.0,2026-04-10,186009440,2860,Aryatara Investment & Securities,Oxford Securities Pvt. Ltd.,2026-04-10T14:06:14.891014,Saptakoshi Development Bank Ltd
+2026041003005743,SAPDBL,42,51,50,869.6,43480.0,2026-04-10,186009442,2860,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-10T14:06:14.891362,Saptakoshi Development Bank Ltd
+2026041003005744,SAPDBL,42,51,10,869.2,8692.0,2026-04-10,186009444,2860,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-10T14:06:14.891565,Saptakoshi Development Bank Ltd
+2026041003005745,SAPDBL,7,51,10,869.0,8690.0,2026-04-10,186009446,2860,J.F. Securites (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-10T14:06:14.891756,Saptakoshi Development Bank Ltd
+2026041003005746,SAPDBL,52,51,10,869.0,8690.0,2026-04-10,186009447,2860,Sundhara Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-10T14:06:14.891947,Saptakoshi Development Bank Ltd
+2026041003005762,SAPDBL,52,92,100,869.0,86900.0,2026-04-10,186009767,2860,Sundhara Securities Limited,Roadshow securities limited,2026-04-10T14:06:54.758698,Saptakoshi Development Bank Ltd
+2026041003005792,SAPDBL,17,87,50,870.0,43500.0,2026-04-10,186010394,2860,ABC Securities Private Limited,S.P.S.A. Securities Limited,2026-04-10T14:08:11.496709,Saptakoshi Development Bank Ltd
+2026041003005801,SAPDBL,25,87,50,870.0,43500.0,2026-04-10,186010594,2860,Sweta Securities Private Limited,S.P.S.A. Securities Limited,2026-04-10T14:08:30.69784,Saptakoshi Development Bank Ltd
+2026041003005812,SAPDBL,66,87,900,870.0,783000.0,2026-04-10,186010694,2860,Miyo Securities Pvt Ltd,S.P.S.A. Securities Limited,2026-04-10T14:08:41.38825,Saptakoshi Development Bank Ltd
+2026041003005840,SAPDBL,66,87,50,870.0,43500.0,2026-04-10,186011228,2860,Miyo Securities Pvt Ltd,S.P.S.A. Securities Limited,2026-04-10T14:09:51.704602,Saptakoshi Development Bank Ltd
+2026041003005859,SAPDBL,46,65,100,869.1,86910.0,2026-04-10,186011663,2860,Kalika Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T14:10:52.007444,Saptakoshi Development Bank Ltd
+2026041003005959,SAPDBL,25,46,10,870.0,8700.0,2026-04-10,186013580,2860,Sweta Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-10T14:15:08.373457,Saptakoshi Development Bank Ltd
+2026041003005981,SAPDBL,34,46,100,870.0,87000.0,2026-04-10,186013844,2860,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-10T14:15:36.315276,Saptakoshi Development Bank Ltd
+2026041003006005,SAPDBL,33,46,2000,870.0,1740000.0,2026-04-10,186014238,2860,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:16:27.463013,Saptakoshi Development Bank Ltd
+2026041003006026,SAPDBL,33,46,1000,870.0,870000.0,2026-04-10,186014414,2860,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:16:54.508549,Saptakoshi Development Bank Ltd
+2026041003006051,SAPDBL,42,46,50,870.0,43500.0,2026-04-10,186014696,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:17:23.488877,Saptakoshi Development Bank Ltd
+2026041003006055,SAPDBL,33,46,1000,870.0,870000.0,2026-04-10,186014716,2860,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:17:28.58196,Saptakoshi Development Bank Ltd
+2026041003006064,SAPDBL,42,46,10,870.0,8700.0,2026-04-10,186014878,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:17:42.378345,Saptakoshi Development Bank Ltd
+2026041003006113,SAPDBL,58,46,56,870.0,48720.0,2026-04-10,186015262,2860,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:18:19.685165,Saptakoshi Development Bank Ltd
+2026041003006157,SAPDBL,49,46,170,870.0,147900.0,2026-04-10,186015744,2860,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:18:56.788436,Saptakoshi Development Bank Ltd
+2026041003006173,SAPDBL,45,46,50,870.0,43500.0,2026-04-10,186016004,2860,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:19:09.593773,Saptakoshi Development Bank Ltd
+2026041003006182,SAPDBL,22,46,250,870.0,217500.0,2026-04-10,186016052,2860,Siprabi Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:19:12.998273,Saptakoshi Development Bank Ltd
+2026041003006188,SAPDBL,45,46,50,870.0,43500.0,2026-04-10,186016208,2860,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:19:31.810756,Saptakoshi Development Bank Ltd
+2026041003006194,SAPDBL,33,46,500,870.0,435000.0,2026-04-10,186016354,2860,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:19:51.222927,Saptakoshi Development Bank Ltd
+2026041003006195,SAPDBL,65,46,225,870.0,195750.0,2026-04-10,186016386,2860,Sharepro Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-10T14:19:57.281361,Saptakoshi Development Bank Ltd
+2026041003006259,SAPDBL,43,46,150,870.0,130500.0,2026-04-10,186017530,2860,South Asian Bulls Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:21:29.332271,Saptakoshi Development Bank Ltd
+2026041003006272,SAPDBL,36,46,50,870.0,43500.0,2026-04-10,186017764,2860,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:21:54.398759,Saptakoshi Development Bank Ltd
+2026041003006434,SAPDBL,58,53,110,869.3,95623.0,2026-04-10,186020624,2860,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-10T14:25:45.163842,Saptakoshi Development Bank Ltd
+2026041003006435,SAPDBL,29,53,100,869.2,86920.0,2026-04-10,186020626,2860,Trisul Securities & Invt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-10T14:25:45.163899,Saptakoshi Development Bank Ltd
+2026041003006436,SAPDBL,46,53,490,869.1,425859.0,2026-04-10,186020627,2860,Kalika Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-10T14:25:45.163925,Saptakoshi Development Bank Ltd
+2026041003006532,SAPDBL,16,21,30,869.9,26097.0,2026-04-10,186022097,2860,Primo Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T14:27:49.498916,Saptakoshi Development Bank Ltd
+2026041003006533,SAPDBL,16,46,470,870.0,408900.0,2026-04-10,186022100,2860,Primo Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:27:49.499103,Saptakoshi Development Bank Ltd
+2026041003006548,SAPDBL,44,46,880,870.0,765600.0,2026-04-10,186022394,2860,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:28:07.09418,Saptakoshi Development Bank Ltd
+2026041003006585,SAPDBL,46,46,25,870.0,21750.0,2026-04-10,186023246,2860,Kalika Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:29:07.89354,Saptakoshi Development Bank Ltd
+2026041003006588,SAPDBL,42,46,345,870.0,300150.0,2026-04-10,186023270,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:29:11.747773,Saptakoshi Development Bank Ltd
+2026041003006668,SAPDBL,13,46,2000,870.0,1740000.0,2026-04-10,186024596,2860,Thrive Brokerage House Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-10T14:30:52.83826,Saptakoshi Development Bank Ltd
+2026041003006693,SAPDBL,4,46,60,870.0,52200.0,2026-04-10,186024924,2860,Opal Securities Investment (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:31:17.082863,Saptakoshi Development Bank Ltd
+2026041003006697,SAPDBL,22,46,240,870.0,208800.0,2026-04-10,186024954,2860,Siprabi Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:31:22.089015,Saptakoshi Development Bank Ltd
+2026041003006725,SAPDBL,46,46,148,870.0,128760.0,2026-04-10,186025236,2860,Kalika Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:31:48.542592,Saptakoshi Development Bank Ltd
+2026041003006846,SAPDBL,35,46,22,870.0,19140.0,2026-04-10,186027260,2860,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:34:50.032106,Saptakoshi Development Bank Ltd
+2026041003006884,SAPDBL,38,46,50,870.0,43500.0,2026-04-10,186027944,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:35:47.68331,Saptakoshi Development Bank Ltd
+2026041003006886,SAPDBL,42,46,115,870.0,100050.0,2026-04-10,186028000,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:35:53.007847,Saptakoshi Development Bank Ltd
+2026041003006892,SAPDBL,71,46,350,870.0,304500.0,2026-04-10,186028124,2860,SHUBHAKAMANA SECURITIES PVT. LTD,Kalika Securities Pvt. Ltd.,2026-04-10T14:36:03.074914,Saptakoshi Development Bank Ltd
+2026041003006897,SAPDBL,14,46,510,870.0,443700.0,2026-04-10,186028250,2860,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:36:10.232436,Saptakoshi Development Bank Ltd
+2026041003006911,SAPDBL,42,46,10,870.0,8700.0,2026-04-10,186028510,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:36:31.165464,Saptakoshi Development Bank Ltd
+2026041003006912,SAPDBL,56,46,50,870.0,43500.0,2026-04-10,186028512,2860,Sri Hari Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:36:31.512741,Saptakoshi Development Bank Ltd
+2026041003006950,SAPDBL,44,46,500,870.0,435000.0,2026-04-10,186029578,2860,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:37:54.256589,Saptakoshi Development Bank Ltd
+2026041003006952,SAPDBL,38,46,410,870.0,356700.0,2026-04-10,186029750,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:38:10.471429,Saptakoshi Development Bank Ltd
+2026041003006998,SAPDBL,4,46,120,870.0,104400.0,2026-04-10,186030302,2860,Opal Securities Investment (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:38:52.346404,Saptakoshi Development Bank Ltd
+2026041003007038,SAPDBL,32,46,100,870.0,87000.0,2026-04-10,186031026,2860,Premier Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:39:44.05696,Saptakoshi Development Bank Ltd
+2026041003007051,SAPDBL,57,46,1000,870.0,870000.0,2026-04-10,186031316,2860,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-10T14:40:02.852438,Saptakoshi Development Bank Ltd
+2026041003007052,SAPDBL,58,46,60,870.0,52200.0,2026-04-10,186031342,2860,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:40:04.387354,Saptakoshi Development Bank Ltd
+2026041003007080,SAPDBL,4,46,30,870.0,26100.0,2026-04-10,186031796,2860,Opal Securities Investment (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:40:40.192881,Saptakoshi Development Bank Ltd
+2026041003007088,SAPDBL,56,46,100,870.0,87000.0,2026-04-10,186032106,2860,Sri Hari Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:41:08.72476,Saptakoshi Development Bank Ltd
+2026041003007127,SAPDBL,42,49,60,869.4,52164.0,2026-04-10,186032765,2860,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-10T14:42:10.243557,Saptakoshi Development Bank Ltd
+2026041003007135,SAPDBL,42,46,500,870.0,435000.0,2026-04-10,186032934,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:42:21.979492,Saptakoshi Development Bank Ltd
+2026041003007178,SAPDBL,33,46,79,870.0,68730.0,2026-04-10,186034251,2860,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:43:39.658568,Saptakoshi Development Bank Ltd
+2026041003007196,SAPDBL,32,49,40,870.0,34800.0,2026-04-10,186035069,2860,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-10T14:44:19.051453,Saptakoshi Development Bank Ltd
+2026041003007225,SAPDBL,32,46,60,870.0,52200.0,2026-04-10,186035440,2860,Premier Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:44:43.64595,Saptakoshi Development Bank Ltd
+2026041003007278,SAPDBL,34,46,20,870.0,17400.0,2026-04-10,186036216,2860,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-10T14:45:25.343108,Saptakoshi Development Bank Ltd
+2026041003007309,SAPDBL,58,6,50,869.5,43475.0,2026-04-10,186036950,2860,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T14:45:57.202261,Saptakoshi Development Bank Ltd
+2026041003007310,SAPDBL,42,6,10,869.3,8693.0,2026-04-10,186036952,2860,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T14:45:57.202448,Saptakoshi Development Bank Ltd
+2026041003007311,SAPDBL,46,6,610,869.1,530151.0,2026-04-10,186036953,2860,Kalika Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T14:45:57.20253,Saptakoshi Development Bank Ltd
+2026041003007315,SAPDBL,58,46,50,870.0,43500.0,2026-04-10,186037086,2860,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:46:02.750288,Saptakoshi Development Bank Ltd
+2026041003007649,SAPDBL,54,46,140,870.0,121800.0,2026-04-10,186043522,2860,Sewa Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:51:33.547842,Saptakoshi Development Bank Ltd
+2026041003007650,SAPDBL,14,46,50,870.0,43500.0,2026-04-10,186043524,2860,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:51:33.548105,Saptakoshi Development Bank Ltd
+2026041003007718,SAPDBL,58,5,50,869.4,43470.0,2026-04-10,186044715,2860,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T14:52:26.182686,Saptakoshi Development Bank Ltd
+2026041003007742,SAPDBL,42,46,20,870.0,17400.0,2026-04-10,186045071,2860,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:52:43.137852,Saptakoshi Development Bank Ltd
+2026041003007918,SAPDBL,74,34,10,869.2,8692.0,2026-04-10,186047674,2860,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-10T14:54:19.592182,Saptakoshi Development Bank Ltd
+2026041003007919,SAPDBL,74,34,11,869.2,9561.2,2026-04-10,186047676,2860,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-10T14:54:19.59259,Saptakoshi Development Bank Ltd
+2026041003007920,SAPDBL,26,34,100,869.2,86920.0,2026-04-10,186047678,2860,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-10T14:54:19.592959,Saptakoshi Development Bank Ltd
+2026041003007925,SAPDBL,46,51,189,869.1,164259.9,2026-04-10,186047833,2860,Kalika Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-10T14:54:26.381652,Saptakoshi Development Bank Ltd
+2026041003007971,SAPDBL,45,46,15,870.0,13050.0,2026-04-10,186048902,2860,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T14:55:05.866553,Saptakoshi Development Bank Ltd
+2026041003007979,SAPDBL,46,34,10,869.1,8691.0,2026-04-10,186049005,2860,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T14:55:10.961668,Saptakoshi Development Bank Ltd
+2026041003008093,SAPDBL,38,1,136,870.0,118320.0,2026-04-10,186051312,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-10T14:56:33.627214,Saptakoshi Development Bank Ltd
+2026041003008106,SAPDBL,52,21,390,869.0,338910.0,2026-04-10,186051512,2860,Sundhara Securities Limited,Midas Stock Broking Company Private Limited,2026-04-10T14:56:40.000604,Saptakoshi Development Bank Ltd
+2026041003008107,SAPDBL,87,21,610,869.0,530090.0,2026-04-10,186051513,2860,S.P.S.A. Securities Limited,Midas Stock Broking Company Private Limited,2026-04-10T14:56:40.000798,Saptakoshi Development Bank Ltd
+2026041003008127,SAPDBL,38,1,100,870.0,87000.0,2026-04-10,186051691,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-10T14:56:45.909496,Saptakoshi Development Bank Ltd
+2026041003008131,SAPDBL,38,1,164,870.0,142680.0,2026-04-10,186051839,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-10T14:56:50.557993,Saptakoshi Development Bank Ltd
+2026041003008132,SAPDBL,38,21,200,879.0,175800.0,2026-04-10,186051841,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T14:56:50.558112,Saptakoshi Development Bank Ltd
+2026041003008133,SAPDBL,38,40,11,880.0,9680.0,2026-04-10,186051843,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Creative Securities Pvt Ltd,2026-04-10T14:56:50.55819,Saptakoshi Development Bank Ltd
+2026041003008134,SAPDBL,38,52,89,883.0,78587.0,2026-04-10,186051846,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sundhara Securities Limited,2026-04-10T14:56:50.558265,Saptakoshi Development Bank Ltd
+2026041003008222,SAPDBL,53,6,250,870.0,217500.0,2026-04-10,186053516,2860,Investment Management Nepal Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T14:57:38.433895,Saptakoshi Development Bank Ltd
+2026041003008223,SAPDBL,32,6,100,870.0,87000.0,2026-04-10,186053517,2860,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T14:57:38.433932,Saptakoshi Development Bank Ltd
+2026041003008262,SAPDBL,32,87,100,870.0,87000.0,2026-04-10,186054033,2860,Premier Securities Company Ltd.,S.P.S.A. Securities Limited,2026-04-10T14:57:52.858051,Saptakoshi Development Bank Ltd
+2026041003008269,SAPDBL,38,1,36,870.0,31320.0,2026-04-10,186054166,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-10T14:57:57.668176,Saptakoshi Development Bank Ltd
+2026041003008307,SAPDBL,38,1,364,870.0,316680.0,2026-04-10,186055250,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-10T14:58:24.936914,Saptakoshi Development Bank Ltd
+2026041003008321,SAPDBL,45,17,50,870.0,43500.0,2026-04-10,186055671,2860,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-10T14:58:36.031019,Saptakoshi Development Bank Ltd
+2026041003008355,SAPDBL,87,59,10,879.0,8790.0,2026-04-10,186056182,2860,S.P.S.A. Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:58:47.468761,Saptakoshi Development Bank Ltd
+2026041003008423,SAPDBL,45,32,50,870.0,43500.0,2026-04-10,186057245,2860,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-10T14:59:07.696429,Saptakoshi Development Bank Ltd
+2026041003008424,SAPDBL,42,32,155,870.0,134850.0,2026-04-10,186057246,2860,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-10T14:59:07.696603,Saptakoshi Development Bank Ltd
+2026041003008429,SAPDBL,42,17,50,870.0,43500.0,2026-04-10,186057275,2860,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-10T14:59:08.403354,Saptakoshi Development Bank Ltd
+2026041003008452,SAPDBL,42,22,22,870.0,19140.0,2026-04-10,186057671,2860,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T14:59:14.957682,Saptakoshi Development Bank Ltd
+2026041003008531,SAPDBL,38,59,136,872.0,118592.0,2026-04-10,186058772,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:59:31.783054,Saptakoshi Development Bank Ltd
+2026041003008596,SAPDBL,4,59,120,872.0,104640.0,2026-04-10,186059844,2860,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:59:43.992172,Saptakoshi Development Bank Ltd
+2026041003008671,SAPDBL,4,59,52,872.0,45344.0,2026-04-10,186060822,2860,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:59:53.955619,Saptakoshi Development Bank Ltd
+2026041003008672,SAPDBL,42,59,173,870.0,150510.0,2026-04-10,186060824,2860,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:59:53.955827,Saptakoshi Development Bank Ltd
+2026041003008673,SAPDBL,95,59,165,870.0,143550.0,2026-04-10,186060825,2860,Magnet Securities and Investment Company Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:59:53.955909,Saptakoshi Development Bank Ltd
+2026041003008696,SAPDBL,95,39,35,870.0,30450.0,2026-04-10,186061404,2860,Magnet Securities and Investment Company Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-10T14:59:57.860266,Saptakoshi Development Bank Ltd
+2026041003008697,SAPDBL,50,39,15,870.0,13050.0,2026-04-10,186061406,2860,Cristal Kanchanjanga Securites Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-10T14:59:57.860442,Saptakoshi Development Bank Ltd
+2026041003008699,SAPDBL,87,26,50,872.0,43600.0,2026-04-10,186061585,2860,S.P.S.A. Securities Limited,Asian Securities Private Ltd.,2026-04-10T14:59:58.10543,Saptakoshi Development Bank Ltd
+2026041003008700,SAPDBL,87,34,240,875.0,210000.0,2026-04-10,186061591,2860,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-10T14:59:58.105464,Saptakoshi Development Bank Ltd
+2026041003008701,SAPDBL,87,17,10,879.0,8790.0,2026-04-10,186061606,2860,S.P.S.A. Securities Limited,ABC Securities Private Limited,2026-04-10T14:59:58.105494,Saptakoshi Development Bank Ltd
+2026041003008708,SAPDBL,51,21,20,870.0,17400.0,2026-04-10,186061874,2860,Oxford Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T14:59:58.820926,Saptakoshi Development Bank Ltd
+2026041003008709,SAPDBL,7,21,40,870.0,34800.0,2026-04-10,186061878,2860,J.F. Securites (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T14:59:58.820979,Saptakoshi Development Bank Ltd
+2026041003008714,SAPDBL,32,17,10,879.0,8790.0,2026-04-10,186062147,2860,Premier Securities Company Ltd.,ABC Securities Private Limited,2026-04-10T14:59:59.309914,Saptakoshi Development Bank Ltd

@@ -1,0 +1,188 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041004000199,CHCL,69,29,250,498.0,124500.0,2026-04-10,185888222,154,INDEX SECURITIES LIMITED,Trisul Securities & Invt. Ltd.,2026-04-10T11:02:43.288411,Chilime Hydropower Company Limited
+2026041004000200,CHCL,69,22,10,503.0,5030.0,2026-04-10,185888225,154,INDEX SECURITIES LIMITED,Siprabi Securities Pvt. Ltd.,2026-04-10T11:02:43.288503,Chilime Hydropower Company Limited
+2026041004000436,CHCL,17,43,150,497.1,74565.0,2026-04-10,185890732,154,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-10T11:05:42.957119,Chilime Hydropower Company Limited
+2026041004000482,CHCL,17,43,50,497.1,24855.0,2026-04-10,185891173,154,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-10T11:06:13.206547,Chilime Hydropower Company Limited
+2026041004000483,CHCL,1,43,50,497.0,24850.0,2026-04-10,185891175,154,Kumari Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-10T11:06:13.206689,Chilime Hydropower Company Limited
+2026041004000484,CHCL,1,43,50,496.0,24800.0,2026-04-10,185891176,154,Kumari Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-10T11:06:13.206773,Chilime Hydropower Company Limited
+2026041004000627,CHCL,69,34,10,500.0,5000.0,2026-04-10,185892431,154,INDEX SECURITIES LIMITED,Vision Securities Pvt. Ltd,2026-04-10T11:07:19.254987,Chilime Hydropower Company Limited
+2026041004000695,CHCL,38,22,200,499.9,99980.0,2026-04-10,185893059,154,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T11:08:01.152011,Chilime Hydropower Company Limited
+2026041004001066,CHCL,96,49,10,498.0,4980.0,2026-04-10,185896801,154,Himalayan Securities Limited,Online Securities Pvt. Ltd.,2026-04-10T11:12:07.644771,Chilime Hydropower Company Limited
+2026041004001408,CHCL,1,70,50,496.0,24800.0,2026-04-10,185898549,154,Kumari Securities Private Limited,Infinity Securities Limited,2026-04-10T11:13:56.856391,Chilime Hydropower Company Limited
+2026041004001428,CHCL,19,70,20,496.0,9920.0,2026-04-10,185898703,154,Nepal Investment And Securities Trading Private Limited,Infinity Securities Limited,2026-04-10T11:14:07.294349,Chilime Hydropower Company Limited
+2026041004001804,CHCL,58,49,20,496.0,9920.0,2026-04-10,185901423,154,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:17:09.359242,Chilime Hydropower Company Limited
+2026041004001876,CHCL,51,22,10,495.0,4950.0,2026-04-10,185902153,154,Oxford Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T11:18:07.071231,Chilime Hydropower Company Limited
+2026041004001877,CHCL,41,22,20,495.0,9900.0,2026-04-10,185902155,154,Linch Stock Market Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T11:18:07.071461,Chilime Hydropower Company Limited
+2026041004001878,CHCL,26,22,50,495.0,24750.0,2026-04-10,185902157,154,Asian Securities Private Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T11:18:07.071595,Chilime Hydropower Company Limited
+2026041004001988,CHCL,14,56,100,495.0,49500.0,2026-04-10,185902868,154,Nepal Stock House (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T11:18:56.591613,Chilime Hydropower Company Limited
+2026041004002106,CHCL,58,70,10,493.0,4930.0,2026-04-10,185903701,154,Naasa Securities Co. Ltd.,Infinity Securities Limited,2026-04-10T11:19:49.840398,Chilime Hydropower Company Limited
+2026041004002107,CHCL,44,70,260,493.0,128180.0,2026-04-10,185903703,154,Dynamic Money Managers Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-10T11:19:49.840593,Chilime Hydropower Company Limited
+2026041004002562,CHCL,90,1,100,490.6,49060.0,2026-04-10,185906997,154,Sajilo Broker Limited,Kumari Securities Private Limited,2026-04-10T11:22:52.884469,Chilime Hydropower Company Limited
+2026041004002563,CHCL,57,1,150,490.5,73575.0,2026-04-10,185906999,154,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-10T11:22:52.884569,Chilime Hydropower Company Limited
+2026041004002564,CHCL,57,1,30,490.0,14700.0,2026-04-10,185907001,154,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-10T11:22:52.884619,Chilime Hydropower Company Limited
+2026041004002565,CHCL,44,1,200,490.0,98000.0,2026-04-10,185907003,154,Dynamic Money Managers Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-10T11:22:52.884665,Chilime Hydropower Company Limited
+2026041004002566,CHCL,17,1,20,490.0,9800.0,2026-04-10,185907004,154,ABC Securities Private Limited,Kumari Securities Private Limited,2026-04-10T11:22:52.884705,Chilime Hydropower Company Limited
+2026041004002827,CHCL,17,49,80,490.0,39200.0,2026-04-10,185908981,154,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-10T11:24:38.096519,Chilime Hydropower Company Limited
+2026041004002828,CHCL,49,49,39,490.0,19110.0,2026-04-10,185908983,154,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:24:38.096735,Chilime Hydropower Company Limited
+2026041004002942,CHCL,17,49,83,488.6,40553.8,2026-04-10,185909928,154,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-10T11:25:23.458992,Chilime Hydropower Company Limited
+2026041004002964,CHCL,57,14,10,490.0,4900.0,2026-04-10,185910061,154,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-10T11:25:28.979652,Chilime Hydropower Company Limited
+2026041004003152,CHCL,68,14,181,490.0,88690.0,2026-04-10,185911421,154,Elite Stock House Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T11:27:03.758841,Chilime Hydropower Company Limited
+2026041004003440,CHCL,17,45,117,492.0,57564.0,2026-04-10,185914241,154,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:29:22.372809,Chilime Hydropower Company Limited
+2026041004003661,CHCL,59,45,260,492.0,127920.0,2026-04-10,185915893,154,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:30:40.314054,Chilime Hydropower Company Limited
+2026041004003800,CHCL,13,41,50,490.0,24500.0,2026-04-10,185917164,154,Thrive Brokerage House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-10T11:31:47.014955,Chilime Hydropower Company Limited
+2026041004003877,CHCL,58,58,100,491.0,49100.0,2026-04-10,185917596,154,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:32:11.980098,Chilime Hydropower Company Limited
+2026041004004165,CHCL,65,45,223,492.0,109716.0,2026-04-10,185918403,154,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:34:31.017362,Chilime Hydropower Company Limited
+2026041004004252,CHCL,51,50,300,494.0,148200.0,2026-04-10,186075040,154,Oxford Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T11:35:04.093,Chilime Hydropower Company Limited
+2026041004005137,CHCL,58,74,400,491.0,196400.0,2026-04-10,186078124,154,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:43:44.594,Chilime Hydropower Company Limited
+2026041004005134,CHCL,51,74,200,492.0,98400.0,2026-04-10,186075047,154,Oxford Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:43:44.594,Chilime Hydropower Company Limited
+2026041004005135,CHCL,45,74,500,492.0,246000.0,2026-04-10,186072877,154,Imperial Securities Company Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:43:44.594,Chilime Hydropower Company Limited
+2026041004005136,CHCL,74,74,200,491.1,98220.0,2026-04-10,186080775,154,KALASH STOCK MARKET PVT. LTD.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:43:44.594,Chilime Hydropower Company Limited
+2026041004005153,CHCL,65,74,700,491.0,343700.0,2026-04-10,186079470,154,Sharepro Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:43:58.319,Chilime Hydropower Company Limited
+2026041004006191,CHCL,65,56,1000,493.0,493000.0,2026-04-10,186079531,154,Sharepro Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-10T11:56:06.734,Chilime Hydropower Company Limited
+2026041004006192,CHCL,65,74,2000,494.0,988000.0,2026-04-10,186079490,154,Sharepro Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:56:06.734,Chilime Hydropower Company Limited
+2026041004006399,CHCL,26,60,10,493.0,4930.0,2026-04-10,186066702,154,Asian Securities Private Ltd.,Nagarik Stock Dealer ,2026-04-10T11:58:35.107,Chilime Hydropower Company Limited
+2026041004006405,CHCL,26,45,20,495.0,9900.0,2026-04-10,186066801,154,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:58:50.821,Chilime Hydropower Company Limited
+2026041004006481,CHCL,65,45,280,493.0,138040.0,2026-04-10,186079402,154,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:59:50.447,Chilime Hydropower Company Limited
+2026041004006810,CHCL,49,45,15,494.0,7410.0,2026-04-10,185921460,154,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T12:03:44.335986,Chilime Hydropower Company Limited
+2026041004007659,CHCL,21,28,40,492.0,19680.0,2026-04-10,185927246,154,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.481678,Chilime Hydropower Company Limited
+2026041004007660,CHCL,54,28,30,492.0,14760.0,2026-04-10,185927248,154,Sewa Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.481968,Chilime Hydropower Company Limited
+2026041004007661,CHCL,77,28,11,491.0,5401.0,2026-04-10,185927250,154,Nabil Stock Dealer Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.482162,Chilime Hydropower Company Limited
+2026041004007662,CHCL,58,28,300,491.0,147300.0,2026-04-10,185927252,154,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.482361,Chilime Hydropower Company Limited
+2026041004007663,CHCL,21,28,250,490.6,122650.0,2026-04-10,185927254,154,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.482539,Chilime Hydropower Company Limited
+2026041004007664,CHCL,65,28,9077,490.0,4447730.0,2026-04-10,185927256,154,Sharepro Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.482712,Chilime Hydropower Company Limited
+2026041004007665,CHCL,89,28,150,490.0,73500.0,2026-04-10,185927259,154,Global IME Securities Limited,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.482903,Chilime Hydropower Company Limited
+2026041004007666,CHCL,43,28,142,490.0,69580.0,2026-04-10,185927261,154,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:10:55.483075,Chilime Hydropower Company Limited
+2026041004007758,CHCL,43,49,200,490.0,98000.0,2026-04-10,185927731,154,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T12:11:23.70006,Chilime Hydropower Company Limited
+2026041004007924,CHCL,14,60,20,491.0,9820.0,2026-04-10,185928931,154,Nepal Stock House (PVT) Ltd.,Nagarik Stock Dealer ,2026-04-10T12:12:22.216063,Chilime Hydropower Company Limited
+2026041004008244,CHCL,14,25,300,491.0,147300.0,2026-04-10,185930977,154,Nepal Stock House (PVT) Ltd.,Sweta Securities Private Limited,2026-04-10T12:14:22.128804,Chilime Hydropower Company Limited
+2026041004008446,CHCL,14,28,280,491.0,137480.0,2026-04-10,185932416,154,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:15:43.571219,Chilime Hydropower Company Limited
+2026041004008447,CHCL,22,28,200,490.1,98020.0,2026-04-10,185932418,154,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:15:43.571547,Chilime Hydropower Company Limited
+2026041004008448,CHCL,43,28,258,490.0,126420.0,2026-04-10,185932420,154,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:15:43.571755,Chilime Hydropower Company Limited
+2026041004008449,CHCL,77,28,23,490.0,11270.0,2026-04-10,185932422,154,Nabil Stock Dealer Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:15:43.571943,Chilime Hydropower Company Limited
+2026041004008450,CHCL,65,28,9239,490.0,4527110.0,2026-04-10,185932423,154,Sharepro Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:15:43.572141,Chilime Hydropower Company Limited
+2026041004008565,CHCL,37,58,100,490.2,49020.0,2026-04-10,185933058,154,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T12:16:16.387136,Chilime Hydropower Company Limited
+2026041004008566,CHCL,65,58,110,490.0,53900.0,2026-04-10,185933059,154,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-10T12:16:16.387196,Chilime Hydropower Company Limited
+2026041004008643,CHCL,65,28,651,490.0,318990.0,2026-04-10,185933874,154,Sharepro Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.935607,Chilime Hydropower Company Limited
+2026041004008644,CHCL,17,28,50,489.0,24450.0,2026-04-10,185933876,154,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.935724,Chilime Hydropower Company Limited
+2026041004008645,CHCL,17,28,100,488.9,48890.0,2026-04-10,185933878,154,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.935802,Chilime Hydropower Company Limited
+2026041004008646,CHCL,5,28,200,488.3,97660.0,2026-04-10,185933880,154,Market Securities & Exchange (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.935875,Chilime Hydropower Company Limited
+2026041004008647,CHCL,38,28,200,488.3,97660.0,2026-04-10,185933882,154,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.935952,Chilime Hydropower Company Limited
+2026041004008648,CHCL,65,28,10000,488.3,4883000.0,2026-04-10,185933884,154,Sharepro Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936034,Chilime Hydropower Company Limited
+2026041004008649,CHCL,57,28,20,488.2,9764.0,2026-04-10,185933886,154,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936106,Chilime Hydropower Company Limited
+2026041004008650,CHCL,58,28,100,488.1,48810.0,2026-04-10,185933888,154,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936182,Chilime Hydropower Company Limited
+2026041004008651,CHCL,38,28,50,488.0,24400.0,2026-04-10,185933890,154,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936256,Chilime Hydropower Company Limited
+2026041004008652,CHCL,49,28,47,488.0,22936.0,2026-04-10,185933892,154,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936339,Chilime Hydropower Company Limited
+2026041004008653,CHCL,44,28,300,488.0,146400.0,2026-04-10,185933894,154,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936409,Chilime Hydropower Company Limited
+2026041004008654,CHCL,17,28,200,487.2,97440.0,2026-04-10,185933896,154,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936481,Chilime Hydropower Company Limited
+2026041004008655,CHCL,38,28,50,487.0,24350.0,2026-04-10,185933898,154,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936557,Chilime Hydropower Company Limited
+2026041004008656,CHCL,57,28,50,486.2,24310.0,2026-04-10,185933900,154,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936633,Chilime Hydropower Company Limited
+2026041004008657,CHCL,1,28,200,486.1,97220.0,2026-04-10,185933902,154,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936705,Chilime Hydropower Company Limited
+2026041004008658,CHCL,17,28,100,485.0,48500.0,2026-04-10,185933904,154,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936778,Chilime Hydropower Company Limited
+2026041004008659,CHCL,39,28,682,485.0,330770.0,2026-04-10,185933905,154,Sumeru Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T12:17:00.936851,Chilime Hydropower Company Limited
+2026041004010189,CHCL,7,85,100,486.1,48610.0,2026-04-10,185944338,154,J.F. Securites (PVT) Ltd.,Capital Hub P. Ltd,2026-04-10T12:25:04.563472,Chilime Hydropower Company Limited
+2026041004010190,CHCL,21,85,150,486.1,72915.0,2026-04-10,185944339,154,Midas Stock Broking Company Private Limited,Capital Hub P. Ltd,2026-04-10T12:25:04.563646,Chilime Hydropower Company Limited
+2026041004010867,CHCL,41,34,400,490.0,196000.0,2026-04-10,185949241,154,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-10T12:29:33.667293,Chilime Hydropower Company Limited
+2026041004010868,CHCL,41,57,229,490.0,112210.0,2026-04-10,185949244,154,Linch Stock Market Ltd.,Aryatara Investment & Securities,2026-04-10T12:29:33.667551,Chilime Hydropower Company Limited
+2026041004011202,CHCL,41,52,33,490.0,16170.0,2026-04-10,185951284,154,Linch Stock Market Ltd.,Sundhara Securities Limited,2026-04-10T12:32:03.620932,Chilime Hydropower Company Limited
+2026041004011318,CHCL,51,45,185,494.0,91390.0,2026-04-10,185951875,154,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T12:32:46.389867,Chilime Hydropower Company Limited
+2026041004011319,CHCL,51,42,20,494.0,9880.0,2026-04-10,185951877,154,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-10T12:32:46.390021,Chilime Hydropower Company Limited
+2026041004011320,CHCL,51,91,176,494.6,87049.6,2026-04-10,185951879,154,Oxford Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-10T12:32:46.390089,Chilime Hydropower Company Limited
+2026041004011321,CHCL,51,74,119,495.0,58905.0,2026-04-10,185951882,154,Oxford Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T12:32:46.390157,Chilime Hydropower Company Limited
+2026041004011478,CHCL,58,36,10,490.0,4900.0,2026-04-10,185953026,154,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-10T12:34:25.506615,Chilime Hydropower Company Limited
+2026041004011479,CHCL,41,36,33,488.1,16107.3,2026-04-10,185953027,154,Linch Stock Market Ltd.,Secured Securities Ltd.,2026-04-10T12:34:25.50677,Chilime Hydropower Company Limited
+2026041004011951,CHCL,65,58,809,488.5,395196.5,2026-04-10,185955851,154,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-10T12:38:02.55111,Chilime Hydropower Company Limited
+2026041004012237,CHCL,34,56,40,494.0,19760.0,2026-04-10,185957349,154,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-10T12:39:31.965479,Chilime Hydropower Company Limited
+2026041004012388,CHCL,41,40,170,494.9,84133.0,2026-04-10,185958502,154,Linch Stock Market Ltd.,Creative Securities Pvt Ltd,2026-04-10T12:41:07.881975,Chilime Hydropower Company Limited
+2026041004012985,CHCL,17,4,114,488.7,55711.8,2026-04-10,185963341,154,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-10T12:49:40.354807,Chilime Hydropower Company Limited
+2026041004013652,CHCL,34,45,65,492.9,32038.5,2026-04-10,185969287,154,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-10T13:00:44.269734,Chilime Hydropower Company Limited
+2026041004014026,CHCL,39,29,70,493.0,34510.0,2026-04-10,185972370,154,Sumeru Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-10T13:07:57.005968,Chilime Hydropower Company Limited
+2026041004014352,CHCL,58,29,30,493.0,14790.0,2026-04-10,185974841,154,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-10T13:13:56.785842,Chilime Hydropower Company Limited
+2026041004014373,CHCL,53,56,10,493.5,4935.0,2026-04-10,185975032,154,Investment Management Nepal Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T13:14:20.642487,Chilime Hydropower Company Limited
+2026041004014516,CHCL,58,40,51,493.0,25143.0,2026-04-10,185975968,154,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-10T13:16:33.611524,Chilime Hydropower Company Limited
+2026041004014526,CHCL,57,40,21,493.0,10353.0,2026-04-10,185975996,154,Aryatara Investment & Securities,Creative Securities Pvt Ltd,2026-04-10T13:16:35.061111,Chilime Hydropower Company Limited
+2026041004014760,CHCL,6,40,100,493.4,49340.0,2026-04-10,185977780,154,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-10T13:20:31.664557,Chilime Hydropower Company Limited
+2026041004015023,CHCL,17,40,58,493.4,28617.2,2026-04-10,185979443,154,ABC Securities Private Limited,Creative Securities Pvt Ltd,2026-04-10T13:23:04.270749,Chilime Hydropower Company Limited
+2026041004015024,CHCL,17,68,28,493.4,13815.2,2026-04-10,185979446,154,ABC Securities Private Limited,Elite Stock House Limited,2026-04-10T13:23:04.27097,Chilime Hydropower Company Limited
+2026041004015130,CHCL,57,58,30,493.0,14790.0,2026-04-10,185980007,154,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-10T13:24:00.768413,Chilime Hydropower Company Limited
+2026041004015496,CHCL,17,68,100,493.4,49340.0,2026-04-10,185983460,154,ABC Securities Private Limited,Elite Stock House Limited,2026-04-10T13:28:17.821666,Chilime Hydropower Company Limited
+2026041004015670,CHCL,65,68,72,493.4,35524.8,2026-04-10,185984621,154,Sharepro Securities Private Limited,Elite Stock House Limited,2026-04-10T13:30:23.278639,Chilime Hydropower Company Limited
+2026041004015671,CHCL,65,56,490,493.5,241815.0,2026-04-10,185984623,154,Sharepro Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-10T13:30:23.279036,Chilime Hydropower Company Limited
+2026041004015672,CHCL,65,58,100,494.0,49400.0,2026-04-10,185984625,154,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-10T13:30:23.27936,Chilime Hydropower Company Limited
+2026041004015673,CHCL,65,58,500,494.0,247000.0,2026-04-10,185984627,154,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-10T13:30:23.279623,Chilime Hydropower Company Limited
+2026041004015674,CHCL,65,45,1000,494.4,494400.0,2026-04-10,185984629,154,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T13:30:23.279849,Chilime Hydropower Company Limited
+2026041004015675,CHCL,65,66,200,494.5,98900.0,2026-04-10,185984631,154,Sharepro Securities Private Limited,Miyo Securities Pvt Ltd,2026-04-10T13:30:23.280109,Chilime Hydropower Company Limited
+2026041004015676,CHCL,65,66,300,494.5,148350.0,2026-04-10,185984633,154,Sharepro Securities Private Limited,Miyo Securities Pvt Ltd,2026-04-10T13:30:23.28034,Chilime Hydropower Company Limited
+2026041004015677,CHCL,65,14,338,494.5,167141.0,2026-04-10,185984636,154,Sharepro Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T13:30:23.280618,Chilime Hydropower Company Limited
+2026041004015694,CHCL,65,14,162,494.5,80109.0,2026-04-10,185984777,154,Sharepro Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T13:30:37.777185,Chilime Hydropower Company Limited
+2026041004015695,CHCL,65,74,172,495.0,85140.0,2026-04-10,185984779,154,Sharepro Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-10T13:30:37.777564,Chilime Hydropower Company Limited
+2026041004015696,CHCL,65,49,166,495.0,82170.0,2026-04-10,185984782,154,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-10T13:30:37.777797,Chilime Hydropower Company Limited
+2026041004016794,CHCL,65,56,500,494.0,247000.0,2026-04-10,185991643,154,Sharepro Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-10T13:42:32.951568,Chilime Hydropower Company Limited
+2026041004016795,CHCL,65,58,160,494.9,79184.0,2026-04-10,185991645,154,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-10T13:42:32.951765,Chilime Hydropower Company Limited
+2026041004016796,CHCL,65,49,84,495.0,41580.0,2026-04-10,185991647,154,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-10T13:42:32.951848,Chilime Hydropower Company Limited
+2026041004016797,CHCL,65,70,160,495.0,79200.0,2026-04-10,185991649,154,Sharepro Securities Private Limited,Infinity Securities Limited,2026-04-10T13:42:32.951927,Chilime Hydropower Company Limited
+2026041004016798,CHCL,65,52,75,495.0,37125.0,2026-04-10,185991651,154,Sharepro Securities Private Limited,Sundhara Securities Limited,2026-04-10T13:42:32.952003,Chilime Hydropower Company Limited
+2026041004016799,CHCL,65,16,21,495.0,10395.0,2026-04-10,185991657,154,Sharepro Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-10T13:42:32.952079,Chilime Hydropower Company Limited
+2026041004017286,CHCL,65,48,1500,495.8,743700.0,2026-04-10,185994634,154,Sharepro Securities Private Limited,Trishakti Securities Public Limited,2026-04-10T13:46:37.727753,Chilime Hydropower Company Limited
+2026041004017464,CHCL,69,43,50,495.9,24795.0,2026-04-10,185995707,154,INDEX SECURITIES LIMITED,South Asian Bulls Pvt. Ltd.,2026-04-10T13:48:22.16937,Chilime Hydropower Company Limited
+2026041004017465,CHCL,69,36,200,496.0,99200.0,2026-04-10,185995709,154,INDEX SECURITIES LIMITED,Secured Securities Ltd.,2026-04-10T13:48:22.169441,Chilime Hydropower Company Limited
+2026041004017466,CHCL,69,42,40,496.0,19840.0,2026-04-10,185995711,154,INDEX SECURITIES LIMITED,Sani Securities Company Ltd.,2026-04-10T13:48:22.169494,Chilime Hydropower Company Limited
+2026041004017467,CHCL,69,68,200,496.9,99380.0,2026-04-10,185995713,154,INDEX SECURITIES LIMITED,Elite Stock House Limited,2026-04-10T13:48:22.169521,Chilime Hydropower Company Limited
+2026041004017468,CHCL,69,45,510,497.9,253929.0,2026-04-10,185995716,154,INDEX SECURITIES LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-10T13:48:22.169547,Chilime Hydropower Company Limited
+2026041004017969,CHCL,26,7,10,497.7,4977.0,2026-04-10,185999224,154,Asian Securities Private Ltd.,J.F. Securites (PVT) Ltd.,2026-04-10T13:53:40.986385,Chilime Hydropower Company Limited
+2026041004018001,CHCL,45,35,10,493.0,4930.0,2026-04-10,185999403,154,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T13:53:58.09289,Chilime Hydropower Company Limited
+2026041004018471,CHCL,45,1,10,493.0,4930.0,2026-04-10,186002037,154,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,2026-04-10T13:56:20.316952,Chilime Hydropower Company Limited
+2026041004018629,CHCL,45,22,30,493.0,14790.0,2026-04-10,186002878,154,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T13:56:58.565838,Chilime Hydropower Company Limited
+2026041004018630,CHCL,81,22,61,493.0,30073.0,2026-04-10,186002879,154,Aakashbhairab Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T13:56:58.566036,Chilime Hydropower Company Limited
+2026041004019227,CHCL,81,94,150,493.0,73950.0,2026-04-10,186006855,154,Aakashbhairab Securities Ltd.,K.B.L. Securities Limited ,2026-04-10T14:01:53.284596,Chilime Hydropower Company Limited
+2026041004019446,CHCL,58,17,10,495.0,4950.0,2026-04-10,186008568,154,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-10T14:04:27.878781,Chilime Hydropower Company Limited
+2026041004019555,CHCL,21,33,10,495.0,4950.0,2026-04-10,186009382,154,Midas Stock Broking Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T14:06:08.33044,Chilime Hydropower Company Limited
+2026041004019693,CHCL,65,33,490,495.0,242550.0,2026-04-10,186010518,154,Sharepro Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T14:08:22.213866,Chilime Hydropower Company Limited
+2026041004020568,CHCL,35,14,130,494.0,64220.0,2026-04-10,186017933,154,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-10T14:22:10.445926,Chilime Hydropower Company Limited
+2026041004020632,CHCL,35,35,250,495.0,123750.0,2026-04-10,186018256,154,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T14:22:42.274179,Chilime Hydropower Company Limited
+2026041004020674,CHCL,35,36,1000,494.0,494000.0,2026-04-10,186018515,154,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-10T14:23:05.805082,Chilime Hydropower Company Limited
+2026041004020675,CHCL,35,74,220,495.9,109098.0,2026-04-10,186018523,154,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T14:23:06.251248,Chilime Hydropower Company Limited
+2026041004020676,CHCL,35,74,200,495.9,99180.0,2026-04-10,186018525,154,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T14:23:06.25152,Chilime Hydropower Company Limited
+2026041004020677,CHCL,35,56,80,496.0,39680.0,2026-04-10,186018528,154,Kohinoor Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T14:23:06.25161,Chilime Hydropower Company Limited
+2026041004020719,CHCL,35,56,420,496.0,208320.0,2026-04-10,186018687,154,Kohinoor Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T14:23:17.230239,Chilime Hydropower Company Limited
+2026041004020732,CHCL,35,36,80,496.0,39680.0,2026-04-10,186018756,154,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-10T14:23:23.086739,Chilime Hydropower Company Limited
+2026041004020733,CHCL,35,36,920,494.0,454480.0,2026-04-10,186018757,154,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-10T14:23:23.087153,Chilime Hydropower Company Limited
+2026041004020808,CHCL,81,36,30,493.0,14790.0,2026-04-10,186019207,154,Aakashbhairab Securities Ltd.,Secured Securities Ltd.,2026-04-10T14:23:49.050817,Chilime Hydropower Company Limited
+2026041004021459,CHCL,81,38,59,493.0,29087.0,2026-04-10,186023082,154,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:28:57.222151,Chilime Hydropower Company Limited
+2026041004021460,CHCL,49,38,20,493.0,9860.0,2026-04-10,186023084,154,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:28:57.222535,Chilime Hydropower Company Limited
+2026041004021461,CHCL,22,38,100,493.0,49300.0,2026-04-10,186023086,154,Siprabi Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:28:57.222793,Chilime Hydropower Company Limited
+2026041004021462,CHCL,38,38,60,493.0,29580.0,2026-04-10,186023088,154,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:28:57.223044,Chilime Hydropower Company Limited
+2026041004021463,CHCL,47,38,10,492.0,4920.0,2026-04-10,186023090,154,Neev Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:28:57.223299,Chilime Hydropower Company Limited
+2026041004021464,CHCL,57,38,20,492.0,9840.0,2026-04-10,186023092,154,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:28:57.22356,Chilime Hydropower Company Limited
+2026041004021465,CHCL,69,38,731,492.0,359652.0,2026-04-10,186023093,154,INDEX SECURITIES LIMITED,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T14:28:57.223805,Chilime Hydropower Company Limited
+2026041004021599,CHCL,49,56,10,495.0,4950.0,2026-04-10,186024030,154,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T14:30:16.95394,Chilime Hydropower Company Limited
+2026041004021660,CHCL,42,22,40,493.0,19720.0,2026-04-10,186024413,154,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T14:30:39.538045,Chilime Hydropower Company Limited
+2026041004021772,CHCL,69,22,160,492.0,78720.0,2026-04-10,186025241,154,INDEX SECURITIES LIMITED,Siprabi Securities Pvt. Ltd.,2026-04-10T14:31:51.792977,Chilime Hydropower Company Limited
+2026041004021963,CHCL,69,58,109,492.0,53628.0,2026-04-10,186026604,154,INDEX SECURITIES LIMITED,Naasa Securities Co. Ltd.,2026-04-10T14:33:47.925419,Chilime Hydropower Company Limited
+2026041004021964,CHCL,22,58,100,492.0,49200.0,2026-04-10,186026606,154,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T14:33:47.925816,Chilime Hydropower Company Limited
+2026041004021965,CHCL,59,58,100,492.0,49200.0,2026-04-10,186026608,154,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-10T14:33:47.926079,Chilime Hydropower Company Limited
+2026041004021966,CHCL,14,58,77,492.0,37884.0,2026-04-10,186026609,154,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-10T14:33:47.926347,Chilime Hydropower Company Limited
+2026041004022345,CHCL,65,67,137,494.0,67678.0,2026-04-10,186029221,154,Sharepro Securities Private Limited,Property Wiard Limited,2026-04-10T14:37:28.576531,Chilime Hydropower Company Limited
+2026041004022346,CHCL,65,36,710,494.0,350740.0,2026-04-10,186029223,154,Sharepro Securities Private Limited,Secured Securities Ltd.,2026-04-10T14:37:28.576942,Chilime Hydropower Company Limited
+2026041004022347,CHCL,65,36,600,494.0,296400.0,2026-04-10,186029225,154,Sharepro Securities Private Limited,Secured Securities Ltd.,2026-04-10T14:37:28.577191,Chilime Hydropower Company Limited
+2026041004022348,CHCL,65,56,490,495.0,242550.0,2026-04-10,186029227,154,Sharepro Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-10T14:37:28.577459,Chilime Hydropower Company Limited
+2026041004022349,CHCL,65,65,50,495.0,24750.0,2026-04-10,186029229,154,Sharepro Securities Private Limited,Sharepro Securities Private Limited,2026-04-10T14:37:28.577712,Chilime Hydropower Company Limited
+2026041004022350,CHCL,65,41,13,495.0,6435.0,2026-04-10,186029232,154,Sharepro Securities Private Limited,Linch Stock Market Ltd.,2026-04-10T14:37:28.577966,Chilime Hydropower Company Limited
+2026041004023131,CHCL,14,28,20,494.0,9880.0,2026-04-10,186035858,154,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-10T14:45:03.378084,Chilime Hydropower Company Limited
+2026041004023610,CHCL,42,59,10,493.0,4930.0,2026-04-10,186038897,154,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:47:45.44555,Chilime Hydropower Company Limited
+2026041004023661,CHCL,58,45,199,492.1,97927.9,2026-04-10,186039289,154,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T14:48:10.347181,Chilime Hydropower Company Limited
+2026041004023750,CHCL,32,28,10,494.0,4940.0,2026-04-10,186039844,154,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-10T14:48:36.263552,Chilime Hydropower Company Limited
+2026041004023815,CHCL,58,43,101,492.1,49702.1,2026-04-10,186040118,154,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-10T14:48:48.580428,Chilime Hydropower Company Limited
+2026041004023816,CHCL,1,43,200,492.1,98420.0,2026-04-10,186040120,154,Kumari Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-10T14:48:48.580643,Chilime Hydropower Company Limited
+2026041004023832,CHCL,14,17,434,492.0,213528.0,2026-04-10,186040231,154,Nepal Stock House (PVT) Ltd.,ABC Securities Private Limited,2026-04-10T14:48:54.398875,Chilime Hydropower Company Limited
+2026041004023898,CHCL,14,43,199,492.0,97908.0,2026-04-10,186040801,154,Nepal Stock House (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-10T14:49:25.707716,Chilime Hydropower Company Limited
+2026041004023935,CHCL,14,58,100,492.0,49200.0,2026-04-10,186041105,154,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-10T14:49:40.346654,Chilime Hydropower Company Limited
+2026041004024038,CHCL,14,48,190,492.0,93480.0,2026-04-10,186041796,154,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-10T14:50:15.086833,Chilime Hydropower Company Limited
+2026041004024039,CHCL,46,48,45,492.0,22140.0,2026-04-10,186041798,154,Kalika Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-10T14:50:15.087037,Chilime Hydropower Company Limited
+2026041004024040,CHCL,58,48,10,491.0,4910.0,2026-04-10,186041800,154,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-10T14:50:15.087125,Chilime Hydropower Company Limited
+2026041004024041,CHCL,57,48,100,490.2,49020.0,2026-04-10,186041802,154,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-10T14:50:15.087208,Chilime Hydropower Company Limited
+2026041004024042,CHCL,58,48,655,490.2,321081.0,2026-04-10,186041803,154,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-10T14:50:15.087291,Chilime Hydropower Company Limited
+2026041004024224,CHCL,32,28,10,494.0,4940.0,2026-04-10,186042714,154,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-10T14:50:55.007848,Chilime Hydropower Company Limited
+2026041004025010,CHCL,52,16,150,492.0,73800.0,2026-04-10,186047970,154,Sundhara Securities Limited,Primo Securities (PVT) Ltd.,2026-04-10T14:54:31.399704,Chilime Hydropower Company Limited
+2026041004026352,CHCL,32,53,45,491.0,22095.0,2026-04-10,186056987,154,Premier Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-10T14:59:03.478921,Chilime Hydropower Company Limited
+2026041004026353,CHCL,32,59,10,492.0,4920.0,2026-04-10,186056989,154,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T14:59:03.478981,Chilime Hydropower Company Limited
+2026041004026354,CHCL,32,34,10,493.0,4930.0,2026-04-10,186056992,154,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-10T14:59:03.479008,Chilime Hydropower Company Limited
