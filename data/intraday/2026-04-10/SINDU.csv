@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000029,SINDU,36,87,10,765.0,7650.0,2026-04-10,185887036,561,Secured Securities Ltd.,S.P.S.A. Securities Limited,2026-04-10T11:01:35.936486,Sindhu Bikash Bank Ltd
 2026041003000284,SINDU,59,4,50,770.0,38500.0,2026-04-10,185898206,561,Deevyaa Securities & Stock House Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:13:29.188607,Sindhu Bikash Bank Ltd
 2026041003000325,SINDU,57,56,20,770.1,15402.0,2026-04-10,185900309,561,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2026-04-10T11:15:50.991033,Sindhu Bikash Bank Ltd

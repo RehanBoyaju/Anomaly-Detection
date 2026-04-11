@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000014,NHDL,49,49,10,657.8,6578.0,2026-04-10,185885799,2769,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T10:46:00.046605,Nepal Hydro Developers Ltd.
 2026041004000060,NHDL,49,49,2940,657.8,1933932.0,2026-04-10,185886203,2769,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:00:36.845769,Nepal Hydro Developers Ltd.
 2026041004001010,NHDL,58,40,10,653.0,6530.0,2026-04-10,185896311,2769,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-10T11:11:26.434106,Nepal Hydro Developers Ltd.

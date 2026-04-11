@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000006,SAPDBL,52,50,25,894.9,22372.5,2026-04-10,185885824,2860,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T10:46:00.095121,Saptakoshi Development Bank Ltd
 2026041003000008,SAPDBL,52,14,25,895.0,22375.0,2026-04-10,185886046,2860,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T11:00:06.591706,Saptakoshi Development Bank Ltd
 2026041003000010,SAPDBL,95,87,10,880.1,8801.0,2026-04-10,185886114,2860,Magnet Securities and Investment Company Private Limited,S.P.S.A. Securities Limited,2026-04-10T11:00:21.092133,Saptakoshi Development Bank Ltd

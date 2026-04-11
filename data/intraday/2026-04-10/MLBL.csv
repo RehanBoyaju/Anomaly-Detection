@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000030,MLBL,22,33,360,380.0,136800.0,2026-04-10,185887078,401,Siprabi Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T11:01:37.425245,Mahalaxmi Bikas Bank Ltd.
 2026041003000115,MLBL,39,14,10,379.0,3790.0,2026-04-10,185890334,401,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-10T11:05:17.088815,Mahalaxmi Bikas Bank Ltd.
 2026041003000257,MLBL,21,6,10,384.0,3840.0,2026-04-10,185897333,401,Midas Stock Broking Company Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-10T11:12:32.932308,Mahalaxmi Bikas Bank Ltd.

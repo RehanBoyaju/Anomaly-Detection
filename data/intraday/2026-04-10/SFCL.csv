@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000121,SFCL,37,69,10,409.0,4090.0,2026-04-10,185890491,256,Swarna Laxmi Securities Pvt. Ltd.,INDEX SECURITIES LIMITED,2026-04-10T11:05:27.400967,Samriddhi Finance Company Limited
 2026041003000238,SFCL,33,57,70,396.0,27720.0,2026-04-10,185896854,256,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-10T11:12:13.991645,Samriddhi Finance Company Limited
 2026041003000694,SFCL,58,41,20,402.0,8040.0,2026-04-10,185913666,256,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-10T11:29:01.298364,Samriddhi Finance Company Limited

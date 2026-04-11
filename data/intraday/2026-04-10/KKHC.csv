@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000461,KKHC,49,57,300,283.0,84900.0,2026-04-10,185891026,2751,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-10T11:06:04.247047,Khanikhola Hydropower Co. Ltd.
 2026041004000502,KKHC,49,53,1450,283.0,410350.0,2026-04-10,185891303,2751,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-10T11:06:19.09919,Khanikhola Hydropower Co. Ltd.
 2026041004000653,KKHC,33,56,500,282.2,141100.0,2026-04-10,185892686,2751,Dakshinkali Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-10T11:07:38.497176,Khanikhola Hydropower Co. Ltd.

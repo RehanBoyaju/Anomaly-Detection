@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000211,ADBL,50,59,10,322.8,3228.0,2026-04-10,185886489,397,Cristal Kanchanjanga Securites Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T11:01:01.806152,Agricultural Development Bank Limited
 2026041001001414,ADBL,65,88,177,313.1,55418.7,2026-04-10,185890070,397,Sharepro Securities Private Limited,Blue Chip Securities Ltd,2026-04-10T11:04:59.411453,Agricultural Development Bank Limited
 2026041001001776,ADBL,45,51,79,313.3,24750.7,2026-04-10,185891424,397,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-10T11:06:24.526486,Agricultural Development Bank Limited

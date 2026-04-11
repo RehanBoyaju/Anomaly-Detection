@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000099,PPCL,38,3,10,417.6,4176.0,2026-04-10,185886845,2813,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Arun Securities (PVT) Ltd.,2026-04-10T11:01:22.685693,Panchthar Power Compant Limited
 2026041004000132,PPCL,35,39,2000,417.0,834000.0,2026-04-10,185887311,2813,Kohinoor Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-10T11:01:51.046595,Panchthar Power Compant Limited
 2026041004000178,PPCL,35,39,2000,415.0,830000.0,2026-04-10,185888013,2813,Kohinoor Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-10T11:02:25.388389,Panchthar Power Compant Limited

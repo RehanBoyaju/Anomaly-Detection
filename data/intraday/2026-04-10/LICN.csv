@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000233,LICN,35,44,100,833.2,83320.0,2026-04-10,185896720,188,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-10T11:12:02.532658,Life Insurance Corporation (Nepal) Limited
 2026041003000811,LICN,88,4,220,842.0,185240.0,2026-04-10,186081310,188,Blue Chip Securities Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:32:58.954,Life Insurance Corporation (Nepal) Limited
 2026041003000936,LICN,45,35,300,837.5,251250.0,2026-04-10,186072327,188,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T11:38:32.859,Life Insurance Corporation (Nepal) Limited

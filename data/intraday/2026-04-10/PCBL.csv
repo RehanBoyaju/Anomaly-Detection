@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001001245,PCBL,57,35,50,255.9,12795.0,2026-04-10,185889540,357,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T11:04:10.17733,Prime Commercial Bank Ltd.
 2026041001001246,PCBL,57,34,79,255.9,20216.1,2026-04-10,185889543,357,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-10T11:04:10.177433,Prime Commercial Bank Ltd.
 2026041001003035,PCBL,49,34,10,251.0,2510.0,2026-04-10,185895215,357,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T11:10:05.224364,Prime Commercial Bank Ltd.

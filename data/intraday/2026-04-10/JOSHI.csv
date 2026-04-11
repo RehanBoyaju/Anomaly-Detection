@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004001249,JOSHI,57,25,50,295.0,14750.0,2026-04-10,185897508,2789,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-10T11:12:44.766703,Joshi Hydropower Development Company Ltd
 2026041004001378,JOSHI,42,36,100,296.0,29600.0,2026-04-10,185898341,2789,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-10T11:13:41.125776,Joshi Hydropower Development Company Ltd
 2026041004001885,JOSHI,33,38,50,295.0,14750.0,2026-04-10,185902230,2789,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T11:18:11.737891,Joshi Hydropower Development Company Ltd

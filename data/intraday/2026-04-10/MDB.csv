@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000633,MDB,70,58,50,622.0,31100.0,2026-04-10,185911402,371,Infinity Securities Limited,Naasa Securities Co. Ltd.,2026-04-10T11:27:01.284886,Miteri Development Bank Limited
 2026041003001556,MDB,21,21,40,625.0,25000.0,2026-04-10,185923338,371,Midas Stock Broking Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-10T12:06:26.111855,Miteri Development Bank Limited
 2026041003001557,MDB,59,21,80,624.0,49920.0,2026-04-10,185923340,371,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-10T12:06:26.111939,Miteri Development Bank Limited

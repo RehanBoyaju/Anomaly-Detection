@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000145,SBI,5,58,20,415.0,8300.0,2026-04-10,185886305,135,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:00:45.223122,Nepal SBI Bank Limited
 2026041001003768,SBI,58,4,40,408.0,16320.0,2026-04-10,185898303,135,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:13:37.970733,Nepal SBI Bank Limited
 2026041001003769,SBI,42,4,40,407.0,16280.0,2026-04-10,185898304,135,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:13:37.970773,Nepal SBI Bank Limited

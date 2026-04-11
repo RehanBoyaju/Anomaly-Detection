@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000287,GFCL,42,5,10,652.0,6520.0,2026-04-10,185898323,232,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-10T11:13:39.817072,Goodwill Finance Limited
 2026041003000331,GFCL,42,62,10,645.1,6451.0,2026-04-10,185900426,232,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-10T11:15:56.668824,Goodwill Finance Limited
 2026041003000341,GFCL,34,62,19,643.1,12218.9,2026-04-10,185900636,232,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-10T11:16:12.336572,Goodwill Finance Limited

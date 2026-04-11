@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000012,UMHL,14,72,30,625.0,18750.0,2026-04-10,185885781,2760,Nepal Stock House (PVT) Ltd.,Hatemalo Financial Services Private Limited,2026-04-10T10:46:00.041901,United Modi Hydropower Ltd.
 2026041004000053,UMHL,10,58,250,629.7,157425.0,2026-04-10,185886149,2760,Pragyan Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:00:29.605588,United Modi Hydropower Ltd.
 2026041004000206,UMHL,14,84,50,626.0,31300.0,2026-04-10,185888273,2760,Nepal Stock House (PVT) Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-10T11:02:45.981024,United Modi Hydropower Ltd.

@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000003,MFIL,74,63,10,808.5,8085.0,2026-04-10,185885774,516,KALASH STOCK MARKET PVT. LTD.,Himalayan Brokerage Company Limited,2026-04-10T10:46:00.051958,Manjushree Finance Ltd.
 2026041003000157,MFIL,91,84,10,824.6,8246.0,2026-04-10,185892439,516,Citizens Share Broker Limited,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-10T11:07:20.426983,Manjushree Finance Ltd.
 2026041003000165,MFIL,14,35,10,817.1,8171.0,2026-04-10,185892816,516,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T11:07:45.175221,Manjushree Finance Ltd.

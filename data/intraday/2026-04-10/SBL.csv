@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000185,SBL,5,74,20,404.0,8080.0,2026-04-10,185886415,145,Market Securities & Exchange (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:00:55.703248,Siddhartha Bank Limited
 2026041001000857,SBL,58,21,10,403.0,4030.0,2026-04-10,185888345,145,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T11:02:48.679395,Siddhartha Bank Limited
 2026041001001412,SBL,38,40,200,400.0,80000.0,2026-04-10,185890053,145,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Creative Securities Pvt Ltd,2026-04-10T11:04:58.717231,Siddhartha Bank Limited

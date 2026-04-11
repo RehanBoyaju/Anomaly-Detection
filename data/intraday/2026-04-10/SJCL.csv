@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000909,SJCL,43,42,120,318.1,38172.0,2026-04-10,185895592,2842,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-10T11:10:31.547801,SANJEN JALAVIDHYUT COMPANY LIMITED
 2026041004000947,SJCL,43,82,110,318.1,34991.0,2026-04-10,185895878,2842,South Asian Bulls Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-10T11:10:48.563144,SANJEN JALAVIDHYUT COMPANY LIMITED
 2026041004001486,SJCL,16,88,10,318.2,3182.0,2026-04-10,185899158,2842,Primo Securities (PVT) Ltd.,Blue Chip Securities Ltd,2026-04-10T11:14:38.212685,SANJEN JALAVIDHYUT COMPANY LIMITED

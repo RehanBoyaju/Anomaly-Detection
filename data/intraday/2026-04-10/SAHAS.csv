@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005000003,SAHAS,6,16,10,635.0,6350.0,2026-04-10,185885766,8021,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-10T10:46:00.044828,Sahas Urja Limited
 2026041005000038,SAHAS,58,50,20,628.0,12560.0,2026-04-10,185885907,8021,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T10:46:00.182228,Sahas Urja Limited
 2026041005000039,SAHAS,42,50,10,628.0,6280.0,2026-04-10,185885909,8021,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T10:46:00.182287,Sahas Urja Limited

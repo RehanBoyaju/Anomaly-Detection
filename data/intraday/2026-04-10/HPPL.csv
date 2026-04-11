@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000068,HPPL,58,34,10,394.0,3940.0,2026-04-10,185886314,2767,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T11:00:47.120851,Himalayan Power Partner Ltd.
 2026041004000531,HPPL,5,22,50,395.1,19755.0,2026-04-10,185891589,2767,Market Securities & Exchange (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T11:06:29.171596,Himalayan Power Partner Ltd.
 2026041004000608,HPPL,62,88,10,395.0,3950.0,2026-04-10,185892274,2767,Capital Max Securities Ltd,Blue Chip Securities Ltd,2026-04-10T11:07:09.7191,Himalayan Power Partner Ltd.

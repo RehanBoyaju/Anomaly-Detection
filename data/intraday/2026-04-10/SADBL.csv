@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000011,SADBL,42,1,20,433.0,8660.0,2026-04-10,185886186,472,Sani Securities Company Ltd.,Kumari Securities Private Limited,2026-04-10T11:00:35.076076,Shangrila Development Bank Ltd.
 2026041003000058,SADBL,42,21,369,433.0,159777.0,2026-04-10,185888220,472,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T11:02:43.260597,Shangrila Development Bank Ltd.
 2026041003000059,SADBL,42,1,111,433.0,48063.0,2026-04-10,185888284,472,Sani Securities Company Ltd.,Kumari Securities Private Limited,2026-04-10T11:02:46.128353,Shangrila Development Bank Ltd.

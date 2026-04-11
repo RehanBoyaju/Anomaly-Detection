@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000080,RLFL,57,45,10,463.8,4638.0,2026-04-10,185888679,587,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:03:13.147115,Reliance Finance Ltd.
 2026041003000463,RLFL,16,22,1000,456.0,456000.0,2026-04-10,185905538,587,Primo Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-10T11:21:30.479816,Reliance Finance Ltd.
 2026041003000512,RLFL,36,3,25,455.0,11375.0,2026-04-10,185907725,587,Secured Securities Ltd.,Arun Securities (PVT) Ltd.,2026-04-10T11:23:39.28052,Reliance Finance Ltd.

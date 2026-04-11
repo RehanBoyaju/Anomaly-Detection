@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001006070,SCB,77,49,10,650.0,6500.0,2026-04-10,185907483,133,Nabil Stock Dealer Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:23:20.986318,Standard Chartered Bank Limited
 2026041001006071,SCB,17,49,15,650.0,9750.0,2026-04-10,185907484,133,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-10T11:23:20.986389,Standard Chartered Bank Limited
 2026041001007830,SCB,4,20,100,650.0,65000.0,2026-04-10,185914255,133,Opal Securities Investment (PVT) Ltd.,Sipla Securities Private Limited,2026-04-10T11:29:23.379461,Standard Chartered Bank Limited

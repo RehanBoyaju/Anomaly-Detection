@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005000002,CHDC,59,81,10,2518.0,25180.0,2026-04-10,185885753,3946,Deevyaa Securities & Stock House Pvt. Ltd,Aakashbhairab Securities Ltd.,2026-04-10T10:46:00.038762,CEDB Holdings Limited
 2026041005000123,CHDC,43,34,150,2470.0,370500.0,2026-04-10,185887323,3946,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T11:01:51.915886,CEDB Holdings Limited
 2026041005000126,CHDC,33,34,10,2470.0,24700.0,2026-04-10,185887439,3946,Dakshinkali Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T11:02:01.155396,CEDB Holdings Limited

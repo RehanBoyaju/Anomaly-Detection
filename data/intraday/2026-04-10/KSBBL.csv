@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000223,KSBBL,44,4,14,490.1,6861.4,2026-04-10,185896074,459,Dynamic Money Managers Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:11:03.229877,Kamana Sewa Bikas Bank Limited
 2026041003000231,KSBBL,44,4,66,490.1,32346.6,2026-04-10,185896602,459,Dynamic Money Managers Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:11:56.147008,Kamana Sewa Bikas Bank Limited
 2026041003000256,KSBBL,44,36,948,490.1,464614.8,2026-04-10,185897330,459,Dynamic Money Managers Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-10T11:12:32.799234,Kamana Sewa Bikas Bank Limited

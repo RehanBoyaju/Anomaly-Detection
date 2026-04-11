@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003001380,SIFC,65,32,500,562.0,281000.0,2026-04-10,186079400,244,Sharepro Securities Private Limited,Premier Securities Company Ltd.,2026-04-10T11:59:44.644,Shree Investment Finance Co. Ltd.
 2026041003001381,SIFC,7,32,500,561.0,280500.0,2026-04-10,186063512,244,J.F. Securites (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-10T11:59:44.644,Shree Investment Finance Co. Ltd.
 2026041003001425,SIFC,7,41,300,561.0,168300.0,2026-04-10,186063421,244,J.F. Securites (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-10T12:01:42.701,Shree Investment Finance Co. Ltd.

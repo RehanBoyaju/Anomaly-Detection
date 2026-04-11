@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000224,SPDL,32,72,100,425.0,42500.0,2026-04-10,185888416,2759,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,2026-04-10T11:02:54.975861,Synergy Power Development Ltd.
 2026041004001430,SPDL,19,35,10,427.0,4270.0,2026-04-10,185898722,2759,Nepal Investment And Securities Trading Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-10T11:14:09.45154,Synergy Power Development Ltd.
 2026041004001441,SPDL,19,33,90,427.0,38430.0,2026-04-10,185898775,2759,Nepal Investment And Securities Trading Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T11:14:13.898693,Synergy Power Development Ltd.

@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005000042,SPC,74,41,10,495.0,4950.0,2026-04-10,185886120,8025,KALASH STOCK MARKET PVT. LTD.,Linch Stock Market Ltd.,2026-04-10T11:00:22.253279,Samling Power Company Limited
 2026041005000116,SPC,41,41,10,508.9,5089.0,2026-04-10,185887221,8025,Linch Stock Market Ltd.,Linch Stock Market Ltd.,2026-04-10T11:01:44.840721,Samling Power Company Limited
 2026041005000814,SPC,6,43,10,499.0,4990.0,2026-04-10,185897836,8025,Agrawal Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-10T11:13:06.486,Samling Power Company Limited

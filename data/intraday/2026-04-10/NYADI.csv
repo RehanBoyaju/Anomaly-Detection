@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005000004,NYADI,43,19,10,426.5,4265.0,2026-04-10,185885779,8026,South Asian Bulls Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-10T10:46:00.052704,Nyadi Hydropower Limited
 2026041005000158,NYADI,39,18,200,418.0,83600.0,2026-04-10,185888068,8026,Sumeru Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,2026-04-10T11:02:29.705164,Nyadi Hydropower Limited
 2026041005001314,NYADI,38,18,100,418.0,41800.0,2026-04-10,185903480,8026,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sagarmatha Securities Private Limited,2026-04-10T11:19:35.190196,Nyadi Hydropower Limited

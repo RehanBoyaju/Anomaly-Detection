@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000125,LEC,34,28,200,238.1,47620.0,2026-04-10,185887237,2903,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-10T11:01:46.016941,Liberty Energy Company Limited
 2026041004000126,LEC,21,28,100,238.0,23800.0,2026-04-10,185887238,2903,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,2026-04-10T11:01:46.01701,Liberty Energy Company Limited
 2026041004000362,LEC,58,28,200,241.0,48200.0,2026-04-10,185889958,2903,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T11:04:49.420857,Liberty Energy Company Limited

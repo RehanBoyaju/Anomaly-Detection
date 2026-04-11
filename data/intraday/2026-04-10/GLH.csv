@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000437,GLH,57,14,500,286.0,143000.0,2026-04-10,185890740,2924,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-10T11:05:44.376826,GreenLife Hydropower Limited
 2026041004000462,GLH,25,45,13,285.0,3705.0,2026-04-10,185891033,2924,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:06:04.755663,GreenLife Hydropower Limited
 2026041004000463,GLH,4,45,50,285.0,14250.0,2026-04-10,185891035,2924,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:06:04.755755,GreenLife Hydropower Limited

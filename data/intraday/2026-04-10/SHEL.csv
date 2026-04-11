@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000179,SHEL,18,14,10,336.9,3369.0,2026-04-10,185888015,2934,Sagarmatha Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-10T11:02:25.639649,Singati Hydro Energy Limited
 2026041004000217,SHEL,7,48,20,335.9,6718.0,2026-04-10,185888393,2934,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-10T11:02:52.616649,Singati Hydro Energy Limited
 2026041004000275,SHEL,58,49,100,334.0,33400.0,2026-04-10,185888911,2934,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:03:29.812642,Singati Hydro Energy Limited

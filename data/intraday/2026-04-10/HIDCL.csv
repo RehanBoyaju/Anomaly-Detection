@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005000001,HIDCL,13,45,10,288.4,2884.0,2026-04-10,185885734,2742,Thrive Brokerage House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-10T10:46:00.015662,Hydorelectricity Investment and Development Company Ltd
 2026041005000049,HIDCL,43,26,10,285.0,2850.0,2026-04-10,185886178,2742,South Asian Bulls Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-10T11:00:34.72095,Hydorelectricity Investment and Development Company Ltd
 2026041005000216,HIDCL,62,54,30,282.8,8484.0,2026-04-10,185889162,2742,Capital Max Securities Ltd,Sewa Securities Pvt. Ltd.,2026-04-10T11:03:42.923662,Hydorelectricity Investment and Development Company Ltd

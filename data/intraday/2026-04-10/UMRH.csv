@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004004525,UMRH,48,19,11,545.5,6000.5,2026-04-10,186073590,2914,Trishakti Securities Public Limited,Nepal Investment And Securities Trading Private Limited,2026-04-10T11:37:47.999,United IDI Mardi RB Hydropower Limited.
 2026041004004738,UMRH,48,59,11,545.5,6000.5,2026-04-10,186073822,2914,Trishakti Securities Public Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T11:39:10.764,United IDI Mardi RB Hydropower Limited.
 2026041004006195,UMRH,48,56,140,546.1,76454.0,2026-04-10,186073783,2914,Trishakti Securities Public Limited,Sri Hari Securities Pvt. Ltd.,2026-04-10T11:56:10.744,United IDI Mardi RB Hydropower Limited.

@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004001000,OHL,57,58,50,724.0,36200.0,2026-04-10,185896245,149,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-10T11:11:19.068743,Oriental Hotels Limited
 2026041004001038,OHL,57,58,250,724.0,181000.0,2026-04-10,185896643,149,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-10T11:11:57.923606,Oriental Hotels Limited
 2026041004001069,OHL,57,29,50,725.0,36250.0,2026-04-10,185896861,149,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-10T11:12:14.379541,Oriental Hotels Limited

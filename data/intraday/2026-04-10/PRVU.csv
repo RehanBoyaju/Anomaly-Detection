@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000008,PRVU,14,14,10,208.7,2087.0,2026-04-10,185885776,255,Nepal Stock House (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-10T10:46:00.049739,Prabhu  Bank Limited
 2026041001000099,PRVU,14,21,500,212.8,106400.0,2026-04-10,185886137,255,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T11:00:26.814534,Prabhu  Bank Limited
 2026041001001451,PRVU,45,58,10,212.8,2128.0,2026-04-10,185890216,255,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:05:09.999462,Prabhu  Bank Limited

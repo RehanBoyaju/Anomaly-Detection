@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000696,RHPL,58,42,60,291.0,17460.0,2026-04-10,185893069,2841,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-10T11:08:01.763946,RASUWAGADHI HYDROPOWER COMPANY LIMITED
 2026041004000721,RHPL,1,42,330,291.0,96030.0,2026-04-10,185893395,2841,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-10T11:08:14.539058,RASUWAGADHI HYDROPOWER COMPANY LIMITED
 2026041004000818,RHPL,1,82,200,291.0,58200.0,2026-04-10,185894377,2841,Kumari Securities Private Limited,N.M.B. SECURITIES LIMITED,2026-04-10T11:09:19.028565,RASUWAGADHI HYDROPOWER COMPANY LIMITED

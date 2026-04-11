@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000344,SHL,17,57,100,510.0,51000.0,2026-04-10,185889810,147,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-10T11:04:35.479534,Soaltee Hotel Limited
 2026041004000379,SHL,17,45,110,510.0,56100.0,2026-04-10,185890130,147,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:05:02.717175,Soaltee Hotel Limited
 2026041004000396,SHL,17,43,290,510.0,147900.0,2026-04-10,185890225,147,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-10T11:05:10.674164,Soaltee Hotel Limited

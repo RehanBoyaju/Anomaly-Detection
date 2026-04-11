@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000124,CZBIL,42,4,20,211.0,4220.0,2026-04-10,185886229,348,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:00:38.850821,Citizens Bank International Limited
 2026041001000568,CZBIL,7,4,60,211.0,12660.0,2026-04-10,185887489,348,J.F. Securites (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:02:04.033538,Citizens Bank International Limited
 2026041001002519,CZBIL,58,1,107,211.5,22630.5,2026-04-10,185893853,348,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-10T11:08:40.464841,Citizens Bank International Limited

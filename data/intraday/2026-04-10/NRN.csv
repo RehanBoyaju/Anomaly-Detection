@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005000153,NRN,29,64,327,1635.0,534645.0,2026-04-10,185887952,2898,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-10T11:02:22.302972,NRN Infrastructure and Development Limited
 2026041005000335,NRN,58,94,500,1632.0,816000.0,2026-04-10,185890682,2898,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-10T11:05:41.303198,NRN Infrastructure and Development Limited
 2026041005000387,NRN,43,38,10,1631.5,16315.0,2026-04-10,185891162,2898,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T11:06:12.696433,NRN Infrastructure and Development Limited

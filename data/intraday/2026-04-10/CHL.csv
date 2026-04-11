@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000013,CHL,32,49,100,305.0,30500.0,2026-04-10,185885793,2766,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-10T10:46:00.044121,Chhyangdi Hydropower Ltd.
 2026041004000059,CHL,25,49,1450,305.0,442250.0,2026-04-10,185886201,2766,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-10T11:00:36.603192,Chhyangdi Hydropower Ltd.
 2026041004000098,CHL,82,29,150,304.0,45600.0,2026-04-10,185886839,2766,N.M.B. SECURITIES LIMITED,Trisul Securities & Invt. Ltd.,2026-04-10T11:01:22.078364,Chhyangdi Hydropower Ltd.

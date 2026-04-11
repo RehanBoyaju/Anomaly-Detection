@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000336,GUFL,38,21,10,557.0,5570.0,2026-04-10,185900555,204,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T11:16:05.547648,Gurkhas Finance Ltd.
 2026041003000367,GUFL,49,40,18,557.0,10026.0,2026-04-10,185902306,204,Online Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-10T11:18:16.415674,Gurkhas Finance Ltd.
 2026041003000860,GUFL,47,49,50,546.0,27300.0,2026-04-10,185918754,204,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:35:31.877959,Gurkhas Finance Ltd.

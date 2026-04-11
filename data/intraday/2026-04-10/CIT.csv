@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005002159,CIT,58,26,10,1790.0,17900.0,2026-04-10,185912739,210,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-10T11:28:14.418367,Citizen Investment Trust
 2026041005002333,CIT,42,74,10,1783.1,17831.0,2026-04-10,185915445,210,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:30:11.386527,Citizen Investment Trust
 2026041005002334,CIT,6,74,50,1783.0,89150.0,2026-04-10,185915447,210,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:30:11.386722,Citizen Investment Trust

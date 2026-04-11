@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000041,HDHPC,58,50,35,237.0,8295.0,2026-04-10,185886042,2880,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T11:00:05.02225,Himal Dolakha Hydropower Company Limited
 2026041004000058,HDHPC,58,58,10,237.0,2370.0,2026-04-10,185886184,2880,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:00:34.878207,Himal Dolakha Hydropower Company Limited
 2026041004000091,HDHPC,42,6,20,238.0,4760.0,2026-04-10,185886687,2880,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T11:01:15.543066,Himal Dolakha Hydropower Company Limited

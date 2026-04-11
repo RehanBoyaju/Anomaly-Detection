@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000009,NBL,36,42,300,289.0,86700.0,2026-04-10,185885794,517,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-10T10:46:00.062436,Nepal Bank Limited
 2026041001000219,NBL,57,94,40,284.0,11360.0,2026-04-10,185886504,517,Aryatara Investment & Securities,K.B.L. Securities Limited ,2026-04-10T11:01:03.474688,Nepal Bank Limited
 2026041001000236,NBL,57,49,60,284.0,17040.0,2026-04-10,185886547,517,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-10T11:01:05.807976,Nepal Bank Limited

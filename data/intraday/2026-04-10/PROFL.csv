@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003001104,PROFL,58,46,75,460.0,34500.0,2026-04-10,186076963,338,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T11:45:46.888,Progressive Finance Limited
 2026041003001195,PROFL,58,46,26,460.0,11960.0,2026-04-10,186076705,338,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T11:50:04.172,Progressive Finance Limited
 2026041003001241,PROFL,7,46,299,455.0,136045.0,2026-04-10,186063480,338,J.F. Securites (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-10T11:53:24.857,Progressive Finance Limited

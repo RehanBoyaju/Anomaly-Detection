@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001001358,MBL,45,54,63,254.1,16008.3,2026-04-10,185889896,140,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-10T11:04:42.945382,Machhapuchhre Bank Limited
 2026041001002859,MBL,41,82,200,255.5,51100.0,2026-04-10,185894775,140,Linch Stock Market Ltd.,N.M.B. SECURITIES LIMITED,2026-04-10T11:09:39.67548,Machhapuchhre Bank Limited
 2026041001002860,MBL,1,82,100,255.0,25500.0,2026-04-10,185894777,140,Kumari Securities Private Limited,N.M.B. SECURITIES LIMITED,2026-04-10T11:09:39.675592,Machhapuchhre Bank Limited

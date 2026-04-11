@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000292,BFC,44,6,19,471.0,8949.0,2026-04-10,185898758,227,Dynamic Money Managers Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T11:14:12.398649,Best Finance Company Ltd.
 2026041003000506,BFC,44,32,477,471.0,224667.0,2026-04-10,185907422,227,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-10T11:23:16.660974,Best Finance Company Ltd.
 2026041003000566,BFC,44,53,500,471.0,235500.0,2026-04-10,185909300,227,Dynamic Money Managers Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-10T11:24:59.873698,Best Finance Company Ltd.

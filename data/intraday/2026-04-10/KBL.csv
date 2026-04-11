@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000005,KBL,34,99,10,235.1,2351.0,2026-04-10,185885754,142,Vision Securities Pvt. Ltd,Prabhu Stock Market Limited,2026-04-10T10:46:00.034159,Kumari Bank Limited
 2026041001000006,KBL,58,99,40,235.1,9404.0,2026-04-10,185885756,142,Naasa Securities Co. Ltd.,Prabhu Stock Market Limited,2026-04-10T10:46:00.034192,Kumari Bank Limited
 2026041001000104,KBL,58,38,100,233.3,23330.0,2026-04-10,185886152,142,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T11:00:30.089851,Kumari Bank Limited

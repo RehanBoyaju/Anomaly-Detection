@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000007,NMB,36,43,10,257.0,2570.0,2026-04-10,185885773,238,Secured Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-10T10:46:00.047327,NMB Bank Limited
 2026041001001672,NMB,32,49,500,254.0,127000.0,2026-04-10,185891012,238,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:06:02.975424,NMB Bank Limited
 2026041001001777,NMB,32,33,500,254.0,127000.0,2026-04-10,185891428,238,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-10T11:06:24.805237,NMB Bank Limited

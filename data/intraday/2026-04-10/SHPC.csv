@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000062,SHPC,53,49,290,535.0,155150.0,2026-04-10,185886235,591,Investment Management Nepal Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:00:39.171236,Sanima Mai Hydropower Ltd.
 2026041004000624,SHPC,99,4,75,535.0,40125.0,2026-04-10,185892424,591,Prabhu Stock Market Limited,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:07:19.173448,Sanima Mai Hydropower Ltd.
 2026041004000625,SHPC,99,46,225,539.0,121275.0,2026-04-10,185892427,591,Prabhu Stock Market Limited,Kalika Securities Pvt. Ltd.,2026-04-10T11:07:19.17355,Sanima Mai Hydropower Ltd.

@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000035,NFS,58,34,50,631.0,31550.0,2026-04-10,185887436,194,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T11:02:01.05374,Nepal Finance Ltd.
 2026041003000041,NFS,58,45,50,631.0,31550.0,2026-04-10,185887948,194,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:02:21.780045,Nepal Finance Ltd.
 2026041003000081,NFS,58,7,50,631.0,31550.0,2026-04-10,185888834,194,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-10T11:03:22.861489,Nepal Finance Ltd.

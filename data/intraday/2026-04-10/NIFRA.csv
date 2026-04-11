@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041005000066,NIFRA,58,44,75,273.0,20475.0,2026-04-10,185886321,2919,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-10T11:00:48.441908,Nepal Infrastructure Bank Limited
 2026041005000082,NIFRA,38,44,100,273.0,27300.0,2026-04-10,185886613,2919,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-10T11:01:11.078998,Nepal Infrastructure Bank Limited
 2026041005000105,NIFRA,22,3,13,272.9,3547.7,2026-04-10,185886983,2919,Siprabi Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-10T11:01:32.799682,Nepal Infrastructure Bank Limited

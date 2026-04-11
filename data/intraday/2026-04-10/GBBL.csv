@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000098,GBBL,42,94,250,417.0,104250.0,2026-04-10,185889572,417,Sani Securities Company Ltd.,K.B.L. Securities Limited ,2026-04-10T11:04:12.713587,Garima Bikas Bank Limited
 2026041003000196,GBBL,42,29,100,417.0,41700.0,2026-04-10,185894956,417,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-10T11:09:46.416802,Garima Bikas Bank Limited
 2026041003000329,GBBL,101,1,250,417.0,104250.0,2026-04-10,185900423,417,APPLE SECURITIES PRIVATE LIMITED,Kumari Securities Private Limited,2026-04-10T11:15:56.658379,Garima Bikas Bank Limited

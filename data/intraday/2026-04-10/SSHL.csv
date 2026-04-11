@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000023,SSHL,49,41,50,231.8,11590.0,2026-04-10,185885833,2907,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T10:46:00.068394,Shiva Shree Hydropower Ltd
 2026041004000024,SSHL,49,41,10,231.8,2318.0,2026-04-10,185885835,2907,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T10:46:00.068431,Shiva Shree Hydropower Ltd
 2026041004000025,SSHL,49,41,10,231.8,2318.0,2026-04-10,185885839,2907,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T10:46:00.06846,Shiva Shree Hydropower Ltd

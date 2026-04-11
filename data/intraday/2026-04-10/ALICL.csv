@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000097,ALICL,17,40,10,470.0,4700.0,2026-04-10,185889511,385,ABC Securities Private Limited,Creative Securities Pvt Ltd,2026-04-10T11:04:07.797194,Asian Life Insurance Co. Limited
 2026041003000293,ALICL,49,41,10,469.9,4699.0,2026-04-10,185898786,385,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-10T11:14:15.048001,Asian Life Insurance Co. Limited
 2026041003000294,ALICL,49,40,10,470.0,4700.0,2026-04-10,185898789,385,Online Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-10T11:14:15.048221,Asian Life Insurance Co. Limited

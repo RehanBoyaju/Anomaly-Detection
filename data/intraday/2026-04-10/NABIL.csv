@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000196,NABIL,48,28,20,532.0,10640.0,2026-04-10,185886455,131,Trishakti Securities Public Limited,Shree Krishna Securities Ltd.,2026-04-10T11:00:59.425143,Nabil Bank Limited
 2026041001000232,NABIL,25,28,74,532.0,39368.0,2026-04-10,185886536,131,Sweta Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-10T11:01:05.509823,Nabil Bank Limited
 2026041001000233,NABIL,25,7,21,533.0,11193.0,2026-04-10,185886539,131,Sweta Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-10T11:01:05.509854,Nabil Bank Limited

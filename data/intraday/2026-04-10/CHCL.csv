@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000199,CHCL,69,29,250,498.0,124500.0,2026-04-10,185888222,154,INDEX SECURITIES LIMITED,Trisul Securities & Invt. Ltd.,2026-04-10T11:02:43.288411,Chilime Hydropower Company Limited
 2026041004000200,CHCL,69,22,10,503.0,5030.0,2026-04-10,185888225,154,INDEX SECURITIES LIMITED,Siprabi Securities Pvt. Ltd.,2026-04-10T11:02:43.288503,Chilime Hydropower Company Limited
 2026041004000436,CHCL,17,43,150,497.1,74565.0,2026-04-10,185890732,154,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-10T11:05:42.957119,Chilime Hydropower Company Limited

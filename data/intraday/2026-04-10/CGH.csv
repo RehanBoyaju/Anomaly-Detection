@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000055,CGH,21,58,10,825.0,8250.0,2026-04-10,185886162,2917,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-10T11:00:32.879457,Chandragiri Hills Limited
 2026041004000485,CGH,41,88,10,829.0,8290.0,2026-04-10,185891184,2917,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-10T11:06:14.085725,Chandragiri Hills Limited
 2026041004002049,CGH,43,48,50,831.3,41565.0,2026-04-10,185903339,2917,South Asian Bulls Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-10T11:19:29.494631,Chandragiri Hills Limited

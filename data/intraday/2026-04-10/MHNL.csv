@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000050,MHNL,18,17,10,277.0,2770.0,2026-04-10,185886108,2811,Sagarmatha Securities Private Limited,ABC Securities Private Limited,2026-04-10T11:00:17.23034,Mountain Hydro Nepal Limited
 2026041004000351,MHNL,17,58,100,285.0,28500.0,2026-04-10,185889858,2811,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-10T11:04:39.769976,Mountain Hydro Nepal Limited
 2026041004000352,MHNL,17,39,10,287.5,2875.0,2026-04-10,185889861,2811,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-10T11:04:39.770045,Mountain Hydro Nepal Limited

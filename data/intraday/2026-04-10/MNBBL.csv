@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000119,MNBBL,14,57,36,386.0,13896.0,2026-04-10,185890413,474,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-10T11:05:21.131366,Muktinath Bikas Bank Ltd.
 2026041003000132,MNBBL,1,57,64,386.0,24704.0,2026-04-10,185890822,474,Kumari Securities Private Limited,Aryatara Investment & Securities,2026-04-10T11:05:49.355222,Muktinath Bikas Bank Ltd.
 2026041003000154,MNBBL,35,6,20,387.0,7740.0,2026-04-10,185892187,474,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-10T11:07:02.486283,Muktinath Bikas Bank Ltd.

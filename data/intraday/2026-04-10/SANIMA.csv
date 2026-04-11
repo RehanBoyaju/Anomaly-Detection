@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000341,SANIMA,85,38,21,357.0,7497.0,2026-04-10,185886861,171,Capital Hub P. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T11:01:23.61169,Sanima Bank Limited
 2026041001001548,SANIMA,58,58,20,355.0,7100.0,2026-04-10,185890550,171,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:05:31.628584,Sanima Bank Limited
 2026041001002838,SANIMA,44,58,40,354.0,14160.0,2026-04-10,185894724,171,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:09:35.794893,Sanima Bank Limited

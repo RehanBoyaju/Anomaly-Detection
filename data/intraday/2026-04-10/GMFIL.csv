@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000944,GMFIL,90,49,50,485.7,24285.0,2026-04-10,186081620,263,Sajilo Broker Limited,Online Securities Pvt. Ltd.,2026-04-10T11:38:44.869,Guheshowori Merchant Bank & Finance Co. Ltd.
 2026041003001279,GMFIL,63,45,10,494.9,4949.0,2026-04-10,186079055,263,Himalayan Brokerage Company Limited,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:55:00.5,Guheshowori Merchant Bank & Finance Co. Ltd.
 2026041003001735,GMFIL,90,22,25,490.0,12250.0,2026-04-10,185927045,263,Sajilo Broker Limited,Siprabi Securities Pvt. Ltd.,2026-04-10T12:10:42.066598,Guheshowori Merchant Bank & Finance Co. Ltd.

@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001004130,EBL,52,4,10,707.8,7078.0,2026-04-10,185899870,137,Sundhara Securities Limited,Opal Securities Investment (PVT) Ltd.,2026-04-10T11:15:15.867542,Everest Bank Limited
 2026041001004131,EBL,52,8,40,707.9,28316.0,2026-04-10,185899873,137,Sundhara Securities Limited,Brilliant Securities Pvt. Ltd.,2026-04-10T11:15:15.867738,Everest Bank Limited
 2026041001008235,EBL,22,36,25,704.0,17600.0,2026-04-10,185915697,137,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-10T11:30:26.062941,Everest Bank Limited

@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000143,AHPC,58,39,10,297.5,2975.0,2026-04-10,185887427,360,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-10T11:02:00.679254,Arun Valley Hydropower Development Co. Ltd.
 2026041004000197,AHPC,56,16,1000,296.0,296000.0,2026-04-10,185888198,360,Sri Hari Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-10T11:02:40.684523,Arun Valley Hydropower Development Co. Ltd.
 2026041004000239,AHPC,56,32,100,296.0,29600.0,2026-04-10,185888576,360,Sri Hari Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-10T11:03:05.461653,Arun Valley Hydropower Development Co. Ltd.

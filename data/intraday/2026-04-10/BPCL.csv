@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000895,BPCL,48,49,50,715.0,35750.0,2026-04-10,185895477,153,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,2026-04-10T11:10:25.305718,Butwal Power Company Limited
 2026041004002004,BPCL,19,49,50,709.0,35450.0,2026-04-10,185903016,153,Nepal Investment And Securities Trading Private Limited,Online Securities Pvt. Ltd.,2026-04-10T11:19:06.364377,Butwal Power Company Limited
 2026041004002221,BPCL,19,63,100,709.0,70900.0,2026-04-10,185904531,153,Nepal Investment And Securities Trading Private Limited,Himalayan Brokerage Company Limited,2026-04-10T11:20:43.809582,Butwal Power Company Limited

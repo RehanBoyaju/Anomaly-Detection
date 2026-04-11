@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000116,JBBL,33,28,100,378.0,37800.0,2026-04-10,185890338,418,Dakshinkali Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-10T11:05:17.210308,Jyoti Bikas Bank Limited
 2026041003000117,JBBL,33,43,1200,378.0,453600.0,2026-04-10,185890340,418,Dakshinkali Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-10T11:05:17.210383,Jyoti Bikas Bank Limited
 2026041003000127,JBBL,33,38,15,378.0,5670.0,2026-04-10,185890568,418,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-10T11:05:33.120995,Jyoti Bikas Bank Limited

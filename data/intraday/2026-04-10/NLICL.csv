@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000359,NLICL,49,58,10,597.0,5970.0,2026-04-10,185901291,178,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:17:00.230447,National Life Insurance Co. Ltd.
 2026041003000429,NLICL,33,32,100,597.0,59700.0,2026-04-10,185904583,178,Dakshinkali Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-10T11:20:47.36334,National Life Insurance Co. Ltd.
 2026041003000549,NLICL,42,40,10,596.0,5960.0,2026-04-10,185908469,178,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-10T11:24:24.748175,National Life Insurance Co. Ltd.

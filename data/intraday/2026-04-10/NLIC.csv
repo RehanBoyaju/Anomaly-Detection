@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000088,NLIC,74,41,10,800.0,8000.0,2026-04-10,185889195,187,KALASH STOCK MARKET PVT. LTD.,Linch Stock Market Ltd.,2026-04-10T11:03:45.40864,Nepal Life Insurance Co. Ltd.
 2026041003000143,NLIC,50,43,100,804.0,80400.0,2026-04-10,185891479,187,Cristal Kanchanjanga Securites Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-10T11:06:27.079705,Nepal Life Insurance Co. Ltd.
 2026041003000589,NLIC,1,69,30,790.0,23700.0,2026-04-10,185910137,187,Kumari Securities Private Limited,INDEX SECURITIES LIMITED,2026-04-10T11:25:34.947854,Nepal Life Insurance Co. Ltd.

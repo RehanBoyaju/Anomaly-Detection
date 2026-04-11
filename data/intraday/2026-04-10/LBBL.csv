@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000001,LBBL,6,13,10,512.0,5120.0,2026-04-10,185885740,358,Agrawal Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-10T10:46:00.031122,Lumbini Bikas Bank Ltd.
 2026041003000134,LBBL,36,59,100,502.0,50200.0,2026-04-10,185890940,358,Secured Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-10T11:05:56.767326,Lumbini Bikas Bank Ltd.
 2026041003000304,LBBL,58,42,156,500.0,78000.0,2026-04-10,185899260,358,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-10T11:14:44.452298,Lumbini Bikas Bank Ltd.

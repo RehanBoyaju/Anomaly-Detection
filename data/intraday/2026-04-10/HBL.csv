@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000003,HBL,42,50,10,211.0,2110.0,2026-04-10,185885736,134,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-10T10:46:00.020286,Himalayan Bank Limited
 2026041001000348,HBL,42,57,10,213.0,2130.0,2026-04-10,185886878,134,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-10T11:01:26.756404,Himalayan Bank Limited
 2026041001000404,HBL,42,36,10,213.0,2130.0,2026-04-10,185887052,134,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-10T11:01:36.12524,Himalayan Bank Limited

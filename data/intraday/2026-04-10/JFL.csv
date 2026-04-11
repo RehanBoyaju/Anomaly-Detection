@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000310,JFL,36,58,85,431.0,36635.0,2026-04-10,185899342,250,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-10T11:14:50.371342,Janaki Finance Company Limited
 2026041003001562,JFL,36,19,15,431.0,6465.0,2026-04-10,185923552,250,Secured Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-10T12:06:40.750502,Janaki Finance Company Limited
 2026041003001563,JFL,41,19,40,431.0,17240.0,2026-04-10,185923553,250,Linch Stock Market Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-10T12:06:40.750581,Janaki Finance Company Limited

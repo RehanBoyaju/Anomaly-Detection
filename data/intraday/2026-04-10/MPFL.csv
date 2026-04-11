@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000101,MPFL,26,26,10,651.2,6512.0,2026-04-10,185889698,471,Asian Securities Private Ltd.,Asian Securities Private Ltd.,2026-04-10T11:04:22.264416,Multipurpose Finance Company  Limited
 2026041003000179,MPFL,28,28,6000,664.0,3984000.0,2026-04-10,185893677,471,Shree Krishna Securities Ltd.,Shree Krishna Securities Ltd.,2026-04-10T11:08:33.241381,Multipurpose Finance Company  Limited
 2026041003000274,MPFL,48,58,50,653.0,32650.0,2026-04-10,185897656,471,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-10T11:12:53.871354,Multipurpose Finance Company  Limited

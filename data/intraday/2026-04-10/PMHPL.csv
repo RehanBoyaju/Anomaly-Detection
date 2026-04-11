@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000017,PMHPL,47,65,10,351.9,3519.0,2026-04-10,185885810,2786,Neev Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T10:46:00.049629,Panchakanya Mai Hydropower Ltd
 2026041004000047,PMHPL,47,65,10,358.0,3580.0,2026-04-10,185886100,2786,Neev Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-10T11:00:15.44345,Panchakanya Mai Hydropower Ltd
 2026041004000049,PMHPL,58,47,10,355.0,3550.0,2026-04-10,185886104,2786,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-10T11:00:17.036925,Panchakanya Mai Hydropower Ltd

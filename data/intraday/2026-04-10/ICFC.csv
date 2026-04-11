@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000072,ICFC,7,81,20,659.0,13180.0,2026-04-10,185888348,273,J.F. Securites (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-10T11:02:48.863234,ICFC Finance Limited
 2026041003000190,ICFC,1,48,80,650.0,52000.0,2026-04-10,185894577,273,Kumari Securities Private Limited,Trishakti Securities Public Limited,2026-04-10T11:09:26.88065,ICFC Finance Limited
 2026041003000191,ICFC,17,48,10,650.0,6500.0,2026-04-10,185894579,273,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-10T11:09:26.880754,ICFC Finance Limited

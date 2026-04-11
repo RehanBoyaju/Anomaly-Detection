@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041001000004,NICA,45,81,10,382.5,3825.0,2026-04-10,185885742,139,Imperial Securities Company Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-10T10:46:00.027437,NIC Asia Bank Ltd.
 2026041001000317,NICA,58,81,20,380.3,7606.0,2026-04-10,185886789,139,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-10T11:01:19.950581,NIC Asia Bank Ltd.
 2026041001000412,NICA,26,45,10,380.0,3800.0,2026-04-10,185887069,139,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-10T11:01:36.900001,NIC Asia Bank Ltd.

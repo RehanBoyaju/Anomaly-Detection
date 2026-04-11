@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000080,GHL,43,21,750,260.0,195000.0,2026-04-10,185886485,2806,South Asian Bulls Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-10T11:01:01.574544,Ghalemdi Hydro Limited
 2026041004000133,GHL,32,25,750,260.0,195000.0,2026-04-10,185887312,2806,Premier Securities Company Ltd.,Sweta Securities Private Limited,2026-04-10T11:01:51.153364,Ghalemdi Hydro Limited
 2026041004000134,GHL,32,67,250,260.0,65000.0,2026-04-10,185887315,2806,Premier Securities Company Ltd.,Property Wiard Limited,2026-04-10T11:01:51.153496,Ghalemdi Hydro Limited

@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041003000171,EDBL,19,6,1,586.0,586.0,2026-04-10,185893004,274,Nepal Investment And Securities Trading Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-10T11:07:57.929055,Excel Development Bank Ltd.
 2026041003000295,EDBL,58,49,10,597.0,5970.0,2026-04-10,185898910,274,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:14:25.187777,Excel Development Bank Ltd.
 2026041003000657,EDBL,56,74,500,591.5,295750.0,2026-04-10,185911851,274,Sri Hari Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-10T11:27:34.03634,Excel Development Bank Ltd.

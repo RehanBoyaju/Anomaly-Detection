@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000018,AKJCL,36,42,10,408.0,4080.0,2026-04-10,185885813,2788,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-10T10:46:00.05252,Ankhu Khola Jalvidhyut Company Ltd
 2026041004000019,AKJCL,44,42,130,408.0,53040.0,2026-04-10,185885815,2788,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-10T10:46:00.052559,Ankhu Khola Jalvidhyut Company Ltd
 2026041004000048,AKJCL,58,34,10,401.5,4015.0,2026-04-10,185886102,2788,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-10T11:00:16.209684,Ankhu Khola Jalvidhyut Company Ltd

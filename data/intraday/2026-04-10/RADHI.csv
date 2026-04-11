@@ -1,4 +1,4 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,price,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
 2026041004000015,RADHI,63,34,10,845.0,8450.0,2026-04-10,185885802,2776,Himalayan Brokerage Company Limited,Vision Securities Pvt. Ltd,2026-04-10T10:46:00.048201,Radhi Bidyut Company Ltd
 2026041004000016,RADHI,63,16,40,845.0,33800.0,2026-04-10,185885807,2776,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,2026-04-10T10:46:00.048245,Radhi Bidyut Company Ltd
 2026041004000640,RADHI,43,49,500,833.5,416750.0,2026-04-10,185892591,2776,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-10T11:07:30.335308,Radhi Bidyut Company Ltd
