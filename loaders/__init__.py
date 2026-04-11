@@ -2,8 +2,8 @@ from loaders.interday_loader import InterdayLoader
 from loaders.intraday_loader import IntradayLoader
 
 LOADER_REGISTRY = {
-    "intraday":IntradayLoader,
-    "interday":InterdayLoader
+    "Intraday":IntradayLoader,
+    "Interday":InterdayLoader
 }
 
 def get_loader(loader_type:str):

@@ -2,9 +2,9 @@ from features.intraday import IntradayFeatures
 from features.interday import InterdayFeatures
 
 def get_feature_engine(mode,features):
-    if(mode == "intraday"):
+    if(mode == "Intraday"):
         return IntradayFeatures(features)
-    elif(mode=="interday"):
+    elif(mode=="Interday"):
         return InterdayFeatures(features)
     else:
         raise ValueError(f"Unidentified feature{mode}")

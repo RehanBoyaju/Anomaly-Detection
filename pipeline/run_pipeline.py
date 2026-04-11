@@ -22,7 +22,7 @@ def run_pipeline(
         mode = "Interday"
 
     if not features:
-        features  = "rate"
+        features  = ["rate"]
     
     if not timeframe:
         timeframe = "5min" if mode == "Intraday" else "1D"

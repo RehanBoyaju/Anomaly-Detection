@@ -8,10 +8,10 @@ def filter(self, df, mode: str, columns=None):
     if columns is None:
         columns = ["transaction_time", "rate"]
 
-    if mode == "interday":
+    if mode == "Interday":
         df = df.rename(columns={"close": "rate"})
 
-    elif mode == "intraday":
+    elif mode == "Intraday":
         pass
     else:
         raise ValueError(f"Unidentified mode: {mode}")
