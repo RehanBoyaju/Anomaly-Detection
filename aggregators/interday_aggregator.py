@@ -1,5 +1,5 @@
 import pandas as pd
-from aggregators.baseaggregator import BaseAggregator
+from aggregators.base_aggregator import BaseAggregator
 class InterdayAggregator(BaseAggregator):
     def __init__ (self,timeframe:str):
         self.timeframe = timeframe

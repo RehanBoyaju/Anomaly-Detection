@@ -1,5 +1,5 @@
 import pandas as pd
-from loaders.baseloader import BaseLoader
+from loaders.base_loader import BaseLoader
 from utils.paths import INTERDAY
 from pathlib import Path
 class InterdayLoader(BaseLoader):

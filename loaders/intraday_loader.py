@@ -1,7 +1,7 @@
 import pandas as pd
 from utils.paths import INTRADAY
 from pathlib import Path
-from loaders.baseloader import BaseLoader
+from loaders.base_loader import BaseLoader
 from datetime import datetime
 class IntradayLoader(BaseLoader):
 
