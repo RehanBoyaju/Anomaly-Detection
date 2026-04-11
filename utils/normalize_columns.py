@@ -96,13 +96,11 @@ def normalize_intraday_test_columns(input,output) :
             df.to_csv(output_dir / f"{symbol}.csv",index=False)
 
 
-normalize_intraday_test_columns(f"{BASE_DIR}/nepse_floorsheet/data/intraday_testing","data/intraday_testing")
+# normalize_intraday_test_columns(f"{BASE_DIR}/nepse_floorsheet/data/intraday_testing","data/intraday_testing")
+# normalize_interday_columns(f"{BASE_DIR}NepseScraper/data/company-wise")
+# normalize_intraday_columns(f"{BASE_DIR}/NEPSE_API/data/intraday/2026-04-09","data/intraday/2026-04-09")
+# normalize_intraday_columns(f"{BASE_DIR}NEPSE_API/data/intraday/2026-04-10","data/intraday/2026-04-10")
 
-
-normalize_intraday_columns(f"{BASE_DIR}/NEPSE_API/data/intraday/2026-04-09","data/intraday/2026-04-09")
-normalize_intraday_columns(f"{BASE_DIR}NEPSE_API/data/intraday/2026-04-10","data/intraday/2026-04-10")
-
-normalize_interday_columns(f"{BASE_DIR}NepseScraper/data/company-wise")
 
 
 
