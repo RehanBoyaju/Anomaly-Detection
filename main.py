@@ -11,24 +11,30 @@ from scipy.stats import zscore
 from pipeline.run_pipeline import run_pipeline
 from engines.engine import engine
 from analysis.matplotlib_visualizer import plot_results
+from analysis.mpf_visualizer import plot_ohlcv
 import warnings
 warnings.filterwarnings('ignore')
 
 
 
 stock_name = "NABIL"
-mode = "Interday"
-train_start_date = "2025-03-08"
-train_end_date = "2026-03-08"
-test_start_date = "2026-03-08"
-test_end_date = "2026-04-08"
-timeframe="2D"
-# train_start_date = "2025-07-06"
-# train_end_date = "2025-09-28"
-# test_start_date = "2026-04-09"
-# test_end_date = "2026-04-10"
-# timeframe="1min"
+
+# mode = "Interday"
+# train_start_date = "2025-03-08"
+# train_end_date = "2026-03-08"
+# test_start_date = "2026-03-08"
+# test_end_date = "2026-04-08"
+# timeframe="1D"
+
+mode = "Intraday"
+train_start_date = "2025-07-06"
+train_end_date = "2025-09-28"
+test_start_date = "2026-04-09"
+test_end_date = "2026-04-10"
+timeframe="1min"
+
 features = ["quantity", "return", "SMA_5", "SMA_20", "EMA_10"]
+models=["z-score","residuals","isolation-forest"]
 
 n_estimators=200
 contamination=0.02
@@ -37,7 +43,8 @@ contamination=0.02
 X_train,X_test,df_train,df_test = run_pipeline(stock_name,train_start_date,train_end_date,test_start_date,test_end_date,mode,features,timeframe);
 
 max_depth = int(np.ceil(np.log2(len(X_train))))
-#ceil(log2(max_samples))
+
+
 
 train_scores,test_scores,threshold = engine(X_train,X_test,n_estimators,contamination,max_depth)
 
@@ -52,11 +59,13 @@ df_test['anomalous'] = test_scores - threshold < 0
 # df_test[df_test['Anomaly_IF']==True].sort_index(ascending=False).head() 
 
 
+
 #Plot training data
+plot_ohlcv(stock_name,df_train,period="Train")
 plot_results(mode,stock_name,threshold,df_train,period="Train")
 
-
 #Plot test results
+plot_ohlcv(stock_name,df_test,period="Train")
 plot_results(mode,stock_name,threshold,df_test,period="Test")
 
 

@@ -2,12 +2,15 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 matplotlib.use("TkAgg")
 
 def plot_results(mode, stock_name, threshold, df, period):
     """
     Plot financial data with different handling for Train vs Test periods.
     """
+
+    
     plt.figure(figsize=(20, 10))
     
     df_plot = df.copy()
