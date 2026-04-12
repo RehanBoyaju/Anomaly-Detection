@@ -1,8 +1,6 @@
-import pandas as pd
 import numpy as np
 from scipy.stats import zscore 
 # from statsmodels.tsa.seasonal import seasonal_decompose
-from models.isolation_forest import IsolationForest
 from pathlib import Path
 from pipeline.run_pipeline import run_pipeline
 from engines.engine import engine
@@ -13,33 +11,47 @@ warnings.filterwarnings('ignore')
 
 
 stock_name = "NABIL"
-mode = "intraday"
-train_start_date = "2020-01-01"
-train_end_date = "2025-01-01"
-test_start_date = "2025-01-01"
-test_end_date = "2026-04-08"
-features = ['rate', 'quantity', 'return', 'SMA_5', 'SMA_20', 'EMA_10']
+mode = "Intraday"
+# train_start_date = "2020-01-01"
+# train_end_date = "2025-01-01"
+# test_start_date = "2025-01-01"
+# test_end_date = "2026-04-08"
+# timeframe="1D"
+train_start_date = "2025-07-06"
+train_end_date = "2025-09-28"
+test_start_date = "2026-04-09"
+test_end_date = "2026-04-10"
+timeframe="5min"
+features = ["quantity", "return", "SMA_5", "SMA_20", "EMA_10"]
+
 n_estimators=200
-contamination=0.05
+contamination=0.02
 
 
-X_train,X_test,df_train,df_test = run_pipeline(stock_name,train_start_date,test_end_date,mode,features,timeframe="1D");
+X_train,X_test,df_train,df_test = run_pipeline(stock_name,train_start_date,train_end_date,test_start_date,test_end_date,mode,features,timeframe);
 
 max_depth = int(np.ceil(np.log2(len(X_train))))
 #ceil(log2(max_samples))
 
-scores,threshold = engine(X_train,X_test,n_estimators,contamination,max_depth)
+train_scores,test_scores,threshold = engine(X_train,X_test,n_estimators,contamination,max_depth)
 
-df_test['anomaly_score'] = scores
+# Use the threshold to get anomalies
+df_train['anomaly_score'] = train_scores
+df_train['anomalous'] = train_scores - threshold<0
 
-# Use the threshold to get anomalies 
-df_test['Anomaly_IF'] = scores - threshold < 0 
+df_test['anomaly_score'] = test_scores
+df_test['anomalous'] = test_scores - threshold < 0 
 
-# df_test[df_test['Anomaly_IF']==True].sort_index(ascending=False).head()
+#sort and display the highest latest scores
+# df_test[df_test['Anomaly_IF']==True].sort_index(ascending=False).head() 
 
 
-#Plot Results
-plot_results(df_train,df_test)
+#Plot training data
+plot_results(mode,stock_name,threshold,df_train,period="Train")
+
+
+#Plot test results
+plot_results(mode,stock_name,threshold,df_test,period="Test")
 
 
 
@@ -49,7 +61,7 @@ top_n = 20
 TopAnoms = df_test.sort_values('anomaly_score', ascending=True).head(top_n)
 print(f"The anomaly threshold is {threshold}")
 print(f"Top {top_n} most anomalous dates in test set:")
-print(TopAnoms[['rate', 'quantity', 'return', 'anomaly_score', 'Anomaly_IF']])
+print(TopAnoms[['close', 'quantity', 'return', 'anomaly_score', 'anomalous']])
 
 
 
@@ -70,6 +82,3 @@ print(TopAnoms[['rate', 'quantity', 'return', 'anomaly_score', 'Anomaly_IF']])
 #2026-03-22 Official win of R.S.P
 
 
-
-
-# %%

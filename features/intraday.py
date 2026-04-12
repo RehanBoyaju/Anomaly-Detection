@@ -12,16 +12,16 @@ class IntradayFeatures(FeatureEngine):
         #TODO: can also add volatility, rolling std etc
 
         if("return" in self.features):
-            df["return"] = df["rate"].pct_change()
+            df["return"] = df["close"].pct_change()
         
         if("SMA_5" in self.features):
-            df["SMA_5"] = df["rate"].rolling(5).mean()
+            df["SMA_5"] = df["close"].rolling(5).mean()
 
         if("SMA_20" in self.features):
-            df["SMA_20"] = df["rate"].rolling(20).mean()
+            df["SMA_20"] = df["close"].rolling(20).mean()
         
         if("EMA_10" in self.features):
-            df["EMA_10"] = df["rate"].ewm(span=10,adjust=False).mean()
+            df["EMA_10"] = df["close"].ewm(span=10,adjust=False).mean()
 
         return df
         

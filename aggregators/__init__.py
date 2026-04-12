@@ -2,8 +2,8 @@ from aggregators.interday_aggregator import InterdayAggregator
 from aggregators.intraday_aggregator import IntradayAggregator
 
 AGGREGATOR_REGISTRY={
-    "intraday":"IntradayAggregator",
-    "interday":"InterdayAggregator"
+    "Intraday":IntradayAggregator,
+    "Interday":InterdayAggregator
 }
 def get_aggregator(aggregator_type:str,timeframe:str,features:list):
     try:

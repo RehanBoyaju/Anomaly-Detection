@@ -26,6 +26,7 @@ class IntradayLoader(BaseLoader):
 
 
             date = datetime.strptime(date_folder.name, "%Y-%m-%d")
+
             
 
             if(start<=date<=end):
@@ -33,7 +34,7 @@ class IntradayLoader(BaseLoader):
 
                 if file_path.exists():
                     df = pd.read_csv(file_path)
-                    df["transaction_time"] = date
+                    df["transaction_time"] = pd.to_datetime(df["transaction_time"])
                     all_days.append(df)
 
         if not all_days:

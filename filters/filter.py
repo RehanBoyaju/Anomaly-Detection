@@ -2,22 +2,31 @@ import pandas as pd
 import numpy as np
 
 
-def filter(self, df, mode: str, columns=None):
+def filter(df, mode: str, columns):
 
     df = df.copy()
-    if columns is None:
-        columns = ["transaction_time", "rate"]
 
     if mode == "Interday":
-        df = df.rename(columns={"close": "rate"})
-
-    elif mode == "Intraday":
         pass
+    elif mode == "Intraday":
+        df = df.rename(columns={"rate":"close"})
     else:
         raise ValueError(f"Unidentified mode: {mode}")
 
-    df = df[columns]
-    df["rate"] = df["rate"].replace(0, np.nan)
+
+    df = df[[col for col in columns if col in df.columns]]
+
+    # cols = []
+    # for col in columns:
+    #     if col in df.columns:
+    #         cols.append(col);
+    
+    # df = df[cols] #i.e df = df["rate","quantity"]
+
+    
+    df["close"] = df["close"].replace(0, np.nan)
+
     df["transaction_time"] = pd.to_datetime(df["transaction_time"])
+    # df = df.drop_duplicates();
 
     return df

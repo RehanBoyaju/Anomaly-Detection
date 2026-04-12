@@ -9,10 +9,10 @@ def engine(X_train,X_test,n_estimators,contamination,max_depth):
     )
 
     model.fit(X_train)
-    
-    scores = model.anomaly_score(X_test)
+    train_scores = model.anomaly_score(X_train)
+    test_scores = model.anomaly_score(X_test)
 
-    return scores
+    return train_scores,test_scores,model.threshold
 
 
     

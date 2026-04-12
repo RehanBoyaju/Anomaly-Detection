@@ -9,19 +9,19 @@ class InterdayAggregator(BaseAggregator):
         df = df.set_index("transaction_time")
 
         if("quantity" in self.features):
-            ohlcv = df.resample(self.timeframe).agg(
-                open = ("rate","first"),
-                high = ("rate","max"),
-                low = ("rate","min"),
-                close = ("rate","last"),
-                volume = ("quantity","sum"),
+            df = df.resample(self.timeframe).agg(
+                open = ("open","first"),
+                high = ("high","max"),
+                low = ("low","min"),
+                close = ("close","last"),
+                quantity = ("quantity","sum"),
             )
         else:
-            ohlcv = df.resample(self.timeframe).agg(
-                open = ("rate","first"),
-                high = ("rate","max"),
-                low = ("rate","min"),
-                close = ("rate","last"),
+            df = df.resample(self.timeframe).agg(
+                open = ("open","first"),
+                high = ("high","max"),
+                low = ("low","min"),
+                close = ("close","last"),
             )
         
-        return ohlcv.dropna()
+        return df.dropna()

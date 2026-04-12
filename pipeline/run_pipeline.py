@@ -6,6 +6,9 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
+pd.set_option('display.max_columns', None)
+pd.set_option('display.width', None)
+pd.set_option('display.max_colwidth', None)
 
 def run_pipeline(
     stock:str,
@@ -18,16 +21,18 @@ def run_pipeline(
     timeframe:str = None
     ) :
 
+
+    
+    
     if not mode:
         mode = "Interday"
 
-    if not features:
-        features  = ["rate"]
+
     
     if not timeframe:
         timeframe = "5min" if mode == "Intraday" else "1D"
 
-    columns = ["transaction_time"] + features
+    columns = ["transaction_time", "open","high","low","close"] + features
 
 
 
@@ -35,19 +40,30 @@ def run_pipeline(
     loader = get_loader(mode);
     df = loader.load(stock,train_start,test_end)
 
-
+    print("After loading");
+    print(df.head())
     #Filter only required columns
-    df = filter.filter(df,mode,columns)
+    df = filter(df,mode,columns)
+
+    print("After Filtering:")
+    print(df.head())
 
 
+    
     #Aggregate the columns depending on the timeframe
     aggregator = get_aggregator(mode,timeframe,features)
     df = aggregator.transform(df);
 
+    print("After aggregating:")
+    print(df.head())
+
     
     #finally apply features
     feature_engine = get_feature_engine(mode,features)
-    df = feature_engine.transform(df)   
+    df = feature_engine.transform(df)  
+
+    print("After feature engineering:")
+    print(df.head())
 
 
     #Clean
