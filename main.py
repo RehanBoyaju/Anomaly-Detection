@@ -1,27 +1,33 @@
-import numpy as np
-from scipy.stats import zscore 
-# from statsmodels.tsa.seasonal import seasonal_decompose
+import sys
 from pathlib import Path
+
+_SRC = Path(__file__).resolve().parent / "src"
+if _SRC.is_dir():
+    sys.path.insert(0, str(_SRC))
+
+import numpy as np
+from scipy.stats import zscore
+# from statsmodels.tsa.seasonal import seasonal_decompose
 from pipeline.run_pipeline import run_pipeline
 from engines.engine import engine
-from analysis.visualizer import plot_results
+from analysis.matplotlib_visualizer import plot_results
 import warnings
 warnings.filterwarnings('ignore')
 
 
 
 stock_name = "NABIL"
-mode = "Intraday"
-# train_start_date = "2020-01-01"
-# train_end_date = "2025-01-01"
-# test_start_date = "2025-01-01"
-# test_end_date = "2026-04-08"
-# timeframe="1D"
-train_start_date = "2025-07-06"
-train_end_date = "2025-09-28"
-test_start_date = "2026-04-09"
-test_end_date = "2026-04-10"
-timeframe="5min"
+mode = "Interday"
+train_start_date = "2025-03-08"
+train_end_date = "2026-03-08"
+test_start_date = "2026-03-08"
+test_end_date = "2026-04-08"
+timeframe="2D"
+# train_start_date = "2025-07-06"
+# train_end_date = "2025-09-28"
+# test_start_date = "2026-04-09"
+# test_end_date = "2026-04-10"
+# timeframe="1min"
 features = ["quantity", "return", "SMA_5", "SMA_20", "EMA_10"]
 
 n_estimators=200

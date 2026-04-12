@@ -9,7 +9,8 @@ import sys
 # today = "2026-04-09";
 # today = sys.argv[1]
 
-BASE_DIR = Path(__file__).resolve().parent.parent.parent
+# FinalProject/ when this repo lives under it (src/utils -> +3)
+BASE_DIR = Path(__file__).resolve().parents[3]
 
 
 final_symbols = set(pd.read_csv("../data/FinalCompanies.csv")["Symbol"].str.strip().str.upper());
