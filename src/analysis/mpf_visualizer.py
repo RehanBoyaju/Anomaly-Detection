@@ -8,7 +8,7 @@ def plot_ohlcv(stock_name,df,period):
         type='candle', 
         volume=True, 
         style="yahoo",
-        figsize=(25,12),
+        figsize=(50,20),
         title=f"{stock_name} OHLCV {period} data chart",
         volume_panel=1      # Show volume in separate panel
     )

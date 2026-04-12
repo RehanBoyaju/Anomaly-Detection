@@ -5,7 +5,7 @@ import numpy as np
 
 matplotlib.use("TkAgg")
 
-def plot_results(mode, stock_name, threshold, df, period):
+def plot_results(mode, stock_name, threshold, df, period,model):
     """
     Plot financial data with different handling for Train vs Test periods.
     """
@@ -32,7 +32,7 @@ def plot_results(mode, stock_name, threshold, df, period):
     plt.plot(x_values, df_plot['EMA_10'], label='EMA 10', linestyle='-.', zorder=3)
     
     # Plot anomalies
-    anomaly_mask = df_plot['anomalous'].values
+    anomaly_mask = df_plot[f"anomalous_{model}"].values
     plt.scatter(
         x_values[anomaly_mask],
         df_plot.loc[anomaly_mask, 'close'].values,
@@ -67,7 +67,7 @@ def plot_results(mode, stock_name, threshold, df, period):
             rotation=45
         )
     
-    title = f"{stock_name} close with IsolationForest anomalies & Moving Averages ({period} Period)"
+    title = f"{stock_name} close prices with {model} anomalies & Moving Averages in ({period} data)"
     plt.title(title)
     plt.xlabel('Transaction Time')
     plt.ylabel('Close Price')
@@ -76,16 +76,16 @@ def plot_results(mode, stock_name, threshold, df, period):
     plt.show()
     
     # Diagnostics
-    title = f"Distribution of IsolationForest anomaly scores ({period} set)"
+    title = f"Distribution of {model} anomaly scores ({period} set)"
     plt.figure(figsize=(12, 5))
-    plt.hist(df_plot['anomaly_score'], bins=50, color='steelblue', edgecolor='black')
+    plt.hist(df_plot[f"anomaly_score_{model}"], bins=50, color='steelblue', edgecolor='black')
     plt.axvline(threshold, color='red', linestyle='--', label='Anomaly threshold')
     plt.title(title)
-    plt.xlabel('Anomaly score (higher = more anomalous)')
+    plt.xlabel('Anomaly score (lower = more anomalous)')
     plt.ylabel('Frequency')
     plt.legend()
     plt.tight_layout()
     plt.show()
     
     print(f'Anomaly counts in {period} set:')
-    print(df_plot['anomalous'].value_counts())
+    print(df_plot[f"anomalous_{model}"].value_counts())
