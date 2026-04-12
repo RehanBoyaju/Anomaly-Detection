@@ -19,8 +19,17 @@ class IsolationForest:
         # Compute anomaly scores on training data
         train_scores = self.anomaly_score(X)
 
-        # LOWER score = more anomalous → use low percentile
-        self.threshold = np.percentile(train_scores, 100 * self.contamination)
+        # MORE score = more anomalous → use high percentile as the threshold
+
+        # self.threshold = np.percentile(train_scores, p)
+
+        self.threshold = np.percentile(train_scores, 100 * (1 - self.contamination))
+
+        #so what we are doing here is finding the value below which p% of the data lies, 
+
+        # i.e if contamination = 0.02 then threshold = 98% percentile of the scores
+        # so anomalies are above 98th percentile ,then 98% of the values are below it
+
 
         return self
 
@@ -62,7 +71,11 @@ class IsolationForest:
         for x in X:
             path_lengths = [self._path_length(x, tree) for tree in self.trees]
             scores.append(np.mean(path_lengths))
-        return np.array(scores)
+        scores = np.array(scores)
+
+        #this is calculating the average path_length it took to isolate a point. the faster a point is isolated, more anomalous it is. so less score => anomaly
+
+        return -scores; #so higher the score more anomalous it is
 
     def decision_function(self, X):
         scores = self.anomaly_score(X)

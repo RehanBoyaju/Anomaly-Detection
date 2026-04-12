@@ -10,9 +10,12 @@ def isolation_engine(X_train,X_test,n_estimators,contamination):
         contamination=contamination,
         max_depth = max_depth
     )
-
+    print("Building isolation trees..")
     model.fit(X_train)
+    print("Calculating anomaly scores for test data")
     train_scores = model.anomaly_score(X_train)
+
+    print("Calculating anomaly scores for train data")
     test_scores = model.anomaly_score(X_test)
 
     return train_scores,test_scores,model.threshold

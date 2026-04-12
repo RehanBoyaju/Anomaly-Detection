@@ -17,7 +17,7 @@ def plot_results(mode, stock_name, threshold, df, period,model):
     days_count = len(np.unique(df_plot.index.date))
     
     # Filter to trading hours if intraday
-    if mode == "Intraday":
+    if mode == "Intraday":  
         df_plot = df_plot[
             (df_plot.index.hour >= 11) & (df_plot.index.hour < 15)
         ]
@@ -81,7 +81,7 @@ def plot_results(mode, stock_name, threshold, df, period,model):
     plt.hist(df_plot[f"anomaly_score_{model}"], bins=50, color='steelblue', edgecolor='black')
     plt.axvline(threshold, color='red', linestyle='--', label='Anomaly threshold')
     plt.title(title)
-    plt.xlabel('Anomaly score (lower = more anomalous)')
+    plt.xlabel('Anomaly score (higher score = more anomalous)')
     plt.ylabel('Frequency')
     plt.legend()
     plt.tight_layout()
