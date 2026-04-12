@@ -7,5 +7,4 @@ DATA = PROJECT_ROOT / "data"
 INTRADAY = DATA / "intraday"
 INTERDAY = DATA / "interday"
 OUTPUTS = PROJECT_ROOT / "outputs"
-# Directory for saved model binaries (not the Python models package)
 MODEL_ARTIFACTS = OUTPUTS / "models"

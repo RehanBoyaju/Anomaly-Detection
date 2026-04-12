@@ -1,82 +1,98 @@
-# Anomaly Engine (Stock Anomaly Detection)
+# Anomaly Engine (stock anomaly detection)
 
-This project detects anomalous stock price behavior using an Isolation Forest–style algorithm and visualizes anomalies over time.
+This project detects unusual stock price behaviour using a custom Isolation Forest–style model and plots anomaly scores over time. It targets NEPSE-style CSV data and supports both **interday** and **intraday** modes.
 
-It is designed to run locally with a Jupyter notebook and the CSV files in `data/`.
+## Repository layout
 
-## What’s in this repo
-
-- `AnomalyDetector.ipynb`: Main notebook (data prep → train/test split → anomaly scoring → plots).
-- `SimpleIsolationForest.py`: A small, self-contained Isolation Forest implementation (used by the notebook).
-- `data/`: Stock CSV files (example: `data/NABIL.csv`).
+```
+Anomaly Engine/
+├── main.py                 # Scripted run (train/score/plot)
+├── AnomalyDetector.ipynb   # Notebook workflow
+├── pyproject.toml            # Package metadata + src layout (pip install -e .)
+├── requirements.txt        # Pinned deps for local venvs
+├── config/                 # Configuration
+├── data/
+│   ├── interday/           # One CSV per symbol, e.g. NABIL.csv
+│   └── intraday/           # Date folders with per-symbol CSVs
+└── src/                    # All importable code (on PYTHONPATH via main/notebook or editable install)
+    ├── loaders/
+    ├── aggregators/
+    ├── features/
+    ├── filters/
+    ├── models/             # e.g. isolation_forest.py
+    ├── engines/
+    ├── pipeline/
+    ├── analysis/
+    └── utils/
+```
 
 ## Prerequisites
 
-- Python **3.10+** (3.11 recommended)
+- Python **3.10+** (3.11+ recommended)
 - `pip`
 
-## Quickstart (recommended)
+## Quickstart
 
-From the project directory:
+From this directory (`Anomaly Engine/`):
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
+python -m venv venv
+source venv/bin/activate   # Windows: venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Launch JupyterLab in vscode
+**Option A — run the script**
 
-Open `AnomalyDetector.ipynb` and run the cells from top to bottom.
+```bash
+python main.py
+```
 
-## How to choose which stock to run
+`main.py` adds `src/` to `sys.path` so imports like `pipeline`, `engines`, and `analysis` resolve without an install.
 
-Inside `AnomalyDetector.ipynb`, edit the parameters cell:
+**Option B — editable install (optional)**
 
-- `stock_name = "NABIL"` → change to the symbol you want (must match a CSV filename in `data/`, without `.csv`)
-- `train_start_date`, `train_end_date`
-- `test_start_date`, `test_end_date`
-- `features`
-- `n_estimators`, `contamination`
+```bash
+pip install -e .
+```
 
-Example:
+Then you can import `loaders`, `pipeline`, etc. from any working directory (e.g. other notebooks or tools).
 
-- If you set `stock_name = "NMB"`, the notebook will load `data/NMB.csv`.
+**Option C — Jupyter**
 
-## Expected data format
+Open `AnomalyDetector.ipynb` in VS Code or JupyterLab. The first cell prepends `src/` to `sys.path` when the notebook’s working directory is the repo root (`Anomaly Engine/`).
 
-The notebook expects each CSV in `data/` to include (at minimum) these columns:
+## Configuring a run
 
-- `published_date` (parsable date/time)
-- `close`
-- `traded_quantity`
+- **Script:** edit variables at the top of `main.py` (`stock_name`, `mode`, date ranges, `features`, `timeframe`, model hyperparameters).
+- **Notebook:** edit the parameters cell (`stock_name`, dates, `features`, `n_estimators`, `contamination`, etc.).
 
-The notebook converts `published_date` to a datetime index and derives technical features like SMA/EMA and returns.
+Interday loads `data/interday/<SYMBOL>.csv`. Intraday expects files under `data/intraday/<YYYY-MM-DD>/<SYMBOL>.csv` (see `src/loaders/` for details).
+
+## Expected data (high level)
+
+Columns used by the pipeline include timestamp/`transaction_time`, OHLC, and `quantity` where applicable. The pipeline filters and aggregates before feature engineering (SMA/EMA, returns, etc.). Normalize or align raw exports with what `loaders` and `aggregators` expect.
 
 ## Outputs
 
-When you run the notebook, you’ll get:
-
-- Time-series plots of price + moving averages
-- Highlighted anomaly points
-- A histogram of anomaly scores and the model threshold
+- Console summary of top anomalous periods (when using `main.py`).
+- Matplotlib plots from `analysis/matplotlib_visualizer.py` (train and test periods).
 
 ## Troubleshooting
 
-### Jupyter opens but imports fail
+**Imports fail in the notebook**
 
-Make sure you launched Jupyter **after** activating the virtual environment:
+- Set the notebook cwd to `Anomaly Engine/` (the folder that contains `src/`), or run `pip install -e .` and restart the kernel.
 
-```bash
-source .venv/bin/activate
-jupyter lab
-```
+**“No such file or directory” for CSVs**
 
-### “No such file or directory: data/<SYMBOL>.csv”
+- Interday: ensure `data/interday/<SYMBOL>.csv` exists and matches `stock_name`.
+- Intraday: ensure date folders and files exist under `data/intraday/`.
 
-Confirm the symbol exists in `data/` and matches `stock_name` exactly (case-sensitive).
+**Jupyter uses the wrong Python**
+
+- Start Jupyter after activating the same venv where you ran `pip install -r requirements.txt`.
 
 ## License
 
-This project was developed strictly for educational purposes and the data was obtained from external sources.
+This project was developed for educational purposes; data comes from external sources.
