@@ -1,9 +1,11 @@
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
+from io import BytesIO
+import base64
 
 
-matplotlib.use("TkAgg")
+# matplotlib.use("TkAgg")
 
 def plot_results(mode, stock_name, threshold, df, period,model):
     """
@@ -27,9 +29,14 @@ def plot_results(mode, stock_name, threshold, df, period,model):
     
     # Plot lines
     plt.plot(x_values, df_plot['close'], label=f"{stock_name} close ({period} Period)")
-    plt.plot(x_values, df_plot['SMA_5'], label='SMA 5', linestyle='--', zorder=3)
-    plt.plot(x_values, df_plot['SMA_20'], label='SMA 20', linestyle='--', zorder=3)
-    plt.plot(x_values, df_plot['EMA_10'], label='EMA 10', linestyle='-.', zorder=3)
+    if 'SMA_5' in df_plot.columns:
+        plt.plot(x_values, df_plot['SMA_5'], label='SMA 5', linestyle='--', zorder=3)
+    
+    if 'SMA_20' in df_plot.columns:
+        plt.plot(x_values, df_plot['SMA_20'], label='SMA 20', linestyle='--', zorder=3)
+
+    if 'EMA_10' in df_plot.columns:
+        plt.plot(x_values, df_plot['EMA_10'], label='EMA 10', linestyle='-.', zorder=3)
     
     # Plot anomalies
     anomaly_mask = df_plot[f"anomalous_{model}"].values
@@ -67,13 +74,17 @@ def plot_results(mode, stock_name, threshold, df, period,model):
             rotation=45
         )
     
+
+
     title = f"{stock_name} close prices with {model} anomalies & Moving Averages in ({period} data)"
     plt.title(title)
     plt.xlabel('Transaction Time')
     plt.ylabel('Close Price')
     plt.legend()
     plt.tight_layout()
-    plt.show()
+    # plt.show()
+    img1 = fig_to_base64()
+    plt.close()
     
     # Diagnostics
     title = f"Distribution of {model} anomaly scores ({period} set)"
@@ -85,7 +96,29 @@ def plot_results(mode, stock_name, threshold, df, period,model):
     plt.ylabel('Frequency')
     plt.legend()
     plt.tight_layout()
-    plt.show()
+    # plt.show()
+    img2 = fig_to_base64()
+    plt.close()
+
     
-    print(f'Anomaly counts in {period} set:')
-    print(df_plot[f"anomalous_{model}"].value_counts())
+    # print(f'Anomaly counts in {period} set:')
+    # print(df_plot[f"anomalous_{model}"].value_counts())
+
+    return {
+        "price_plot":img1,
+        "histogram_plot":img2
+    }
+
+
+
+
+def fig_to_base64():
+    buffer = BytesIO(); #create an in memory file
+    plt.savefig(buffer,format="png",bbox_inches="tight") #write the image to a buffer
+    buffer.seek(0) #when u save to a buffer the cursor is at the end so reset to 0 to read it
+
+    img_base64 = base64.b64encode(buffer.read()).decode("utf-8") #read the raw png bytes -> then convert it into text safe base64 format -> now convert these bytes into UTF-8 
+    buffer.close() # free the memory
+
+
+    return img_base64

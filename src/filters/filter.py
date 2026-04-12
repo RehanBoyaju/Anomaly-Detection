@@ -26,7 +26,6 @@ def filter(df, mode: str, columns):
     
     df["close"] = df["close"].replace(0, np.nan)
 
-    df["transaction_time"] = pd.to_datetime(df["transaction_time"])
     # df = df.drop_duplicates();
 
     return df

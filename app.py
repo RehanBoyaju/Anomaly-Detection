@@ -1,94 +1,198 @@
-"""
-Flask HTTP API for the anomaly engine.
+from flask import Flask, request, jsonify
+from pipeline.run_pipeline import run_pipeline
+from engines.isolation_engine import isolation_engine
+from engines.zscore_engine import zscore_engine
+from engines.dbscan_engine import dbscan_engine
+from analysis.matplotlib_visualizer import plot_results
+from analysis.mpf_visualizer import plot_ohlcv
+from datetime import datetime
+from services.orchestrator import orchestrate
+import warnings
+warnings.filterwarnings('ignore')
 
-Run from repo root (``Anomaly Engine/``):
+app = Flask(__name__) #start a web server on app.py
 
-    pip install -r requirements.txt
-    python app.py
+@app.route("/")
+def hello_world():
+    return "<p>Hello flask</p>"
 
-Or::
+@app.route("/api/analyze",methods=['POST'])
 
-    flask --app app run --debug
-"""
-
-from __future__ import annotations
-
-import sys
-import traceback
-from pathlib import Path
-
-_ROOT = Path(__file__).resolve().parent
-_SRC = _ROOT / "src"
-if _SRC.is_dir():
-    sys.path.insert(0, str(_SRC))
-
-from flask import Flask, jsonify, request
-
-from services.anomaly_service import run_anomaly_analysis
-
-app = Flask(__name__)
-
-
-@app.after_request
-def _cors(response):
-    response.headers["Access-Control-Allow-Origin"] = "*"
-    response.headers["Access-Control-Allow-Headers"] = "Content-Type"
-    response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
-    return response
-
-
-@app.route("/api/analyze", methods=["OPTIONS"])
-def analyze_options():
-    return "", 204
-
-
-@app.get("/health")
-def health():
-    return jsonify({"status": "ok"})
-
-
-@app.post("/api/analyze")
+@app.route("/api/analyze", methods=['POST'])
 def analyze():
-    """
-    JSON body (see README or sample below). All date fields are ISO-like strings
-    accepted by pandas slicing (e.g. ``YYYY-MM-DD``).
 
-    .. code-block:: json
+    data = request.get_json()
 
-        {
-          "stock_name": "NABIL",
-          "mode": "Interday",
-          "train_start_date": "2025-03-08",
-          "train_end_date": "2026-03-08",
-          "test_start_date": "2026-03-08",
-          "test_end_date": "2026-04-08",
-          "timeframe": "1D",
-          "features": ["quantity", "return", "SMA_5", "SMA_20", "EMA_10"],
-          "n_estimators": 200,
-          "contamination": 0.02,
-          "top_n": 20,
-          "include_test_series": false,
-          "test_series_max_rows": 500
+    if not data:
+        return jsonify({"error": "Invalid or missing body"}), 400
+
+
+    required_fields = [
+        "stock_name", "mode", "dates",
+        "timeframe", "features", "models"
+    ]
+
+    missing = [f for f in required_fields if f not in data]
+
+    if missing:
+        return jsonify({
+            "error": "Missing required fields",
+            "missing": missing
+        }), 400
+
+    # validate date structure
+    if "train" not in data["dates"] or "test" not in data["dates"]:
+        return jsonify({"error": "train and test must exist inside dates"}), 400
+
+    #extract data 
+    stock_name = data["stock_name"]
+    mode = data["mode"]
+    dates = data["dates"]
+
+    train_start_date = validate_date(dates["train"]["start"])
+    train_end_date = validate_date(dates["train"]["end"])
+    test_start_date = validate_date(dates["test"]["start"])
+    test_end_date = validate_date(dates["test"]["end"])
+
+    timeframe = data["timeframe"]
+    features = data["features"]
+    models = data["models"]
+
+    top_n = 20
+
+    #Validate date inputs
+    valid_date, error_response = handle_date_inputs(
+        train_start_date,
+        train_end_date,
+        test_start_date,
+        test_end_date
+    )
+
+    if not valid_date:
+        return jsonify(error_response), 400
+
+    
+    #handle invalid or falsy list
+
+    valid_list,error_response = validate_list(features,"features")
+    if not valid_list:
+        return jsonify(error_response),400
+    
+    valid_list,error_response = validate_list(models,"models")
+    if not valid_list:
+        return jsonify(error_response),400
+
+    isolation_forest_params = {}
+    dbscan_params = {}
+    z_score_params = {}
+
+    if "isolation_forest" in models:
+        default_if_params = {"n_estimators": 200, "contamination": 0.05}
+        isolation_forest_params = {
+            **default_if_params,
+            **data.get("isolation_forest_params", {})
         }
-    """
-    if not request.is_json:
-        return jsonify({"error": "Expected Content-Type: application/json"}), 415
 
-    payload = request.get_json(silent=True)
-    if payload is None:
-        return jsonify({"error": "Invalid JSON body"}), 400
+    if "dbscan" in models:
+        default_db_params = {
+            "eps_list": [0.3, 0.5, 0.7],
+            "min_pts_list": [3, 5, 10]
+        }
+        dbscan_params = {
+            **default_db_params,
+            **data.get("dbscan_params", {})
+        }
 
+    if "z_score" in models:
+        default_zs_params = {"confidence_level": 0.95}
+        z_score_params = {
+            **default_zs_params,
+            **data.get("z_score_params", {})
+        }
+    
+    dates = {
+        "train_start":train_start_date,
+        "train_end":train_end_date,
+        "test_start":test_start_date,
+        "test_end":test_end_date
+    }
+    params = isolation_forest_params,dbscan_params,z_score_params
+
+
+
+    X,df = run_pipeline(
+        stock_name,
+        dates,
+        mode,
+        features,
+        timeframe
+    )
+
+
+    results,(df_train,df_test) = orchestrate(X,df,models,params);
+
+
+    response = {}   
+
+    response["ohlcv_img"] = plot_ohlcv(stock_name,df_test,period="Test")
+
+    response["plots"] = {}
+
+    response["anomalies"] = {}
+
+    response['thresholds'] = {}
+
+
+
+    for model in models :
+
+        threshold = results[model]["threshold"]
+
+        
+        response["plots"][model] = plot_results(mode,stock_name,threshold,df_test,period="Test",model=model)
+
+
+        top_anoms = df_test.sort_values(f"anomaly_score_{model}", ascending=False).head(top_n).reset_index();
+
+        response["anomalies"][model] = top_anoms[["transaction_time","close","quantity","return",f"anomaly_score_{model}",f"anomalous_{model}"]].to_dict(orient="records")
+        
+        response["thresholds"][model] = threshold
+
+
+
+    return jsonify(response), 200
+
+
+
+def validate_date(date_str):
     try:
-        result = run_anomaly_analysis(payload)
-        return jsonify(result)
-    except ValueError as e:
-        return jsonify({"error": str(e)}), 400
-    except Exception:
-        body: dict = {"error": "Internal server error"}
-        if app.debug:
-            body["detail"] = traceback.format_exc()
-        return jsonify(body), 500
+        return datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        return None
+    
+
+def handle_date_inputs(train_start, train_end, test_start, test_end):
+
+    if not all([train_start, train_end, test_start, test_end]):
+        return False, {"error": "Invalid date format. Use YYYY-MM-DD"}
+
+    if train_start >= train_end:
+        return False, {"error": "train_start must be before train_end"}
+
+    if test_start >= test_end:
+        return False, {"error": "test_start must be before test_end"}
+
+    if train_end >= test_start:
+        return False, {"error": "train period must be before test period"}
+
+    return True, None
 
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+def validate_list(data,list_name):
+    if not isinstance(data, list) or not data:
+        return False,{"error": "{list_name} must be a non-empty list"}
+
+    return True,None
+
+if(__name__=='__main__'):
+    app.run(debug=True)

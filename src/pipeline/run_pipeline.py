@@ -12,17 +12,17 @@ pd.set_option('display.max_colwidth', None)
 
 def run_pipeline(
     stock:str,
-    train_start,
-    train_end,
-    test_start,
-    test_end,
+    dates:dict,
     mode:str = None,
     features:list = None,
     timeframe:str = None
     ) :
 
 
-    
+    train_start = dates["train_start"]
+    train_end = dates["train_end"]
+    test_start = dates["test_start"]
+    test_end = dates["test_end"]
     
     if not mode:
         mode = "Interday"
@@ -88,8 +88,11 @@ def run_pipeline(
     X_train = scaler.fit_transform(df_train[features]) 
     X_test = scaler.transform(df_test[features]) 
 
+    X = X_train,X_test
 
-    return X_train,X_test,df_train,df_test;
+    df = df_train,df_test
+
+    return X,df
     
 
 

@@ -8,7 +8,6 @@ class IntradayAggregator(BaseAggregator):
     def transform(self,df):
         df = df.copy()
         
-        df = df.set_index("transaction_time")
 
         if("quantity" in self.features):
             df = df.resample(self.timeframe).agg(
