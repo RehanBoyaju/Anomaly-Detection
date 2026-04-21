@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,quantity,rate,amount,transaction_time
+Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
 2025-08-24,56168,2025082403000216,NLIC,ABC Securities Private Limited,Asian Securities Private Ltd.,10,789.0,7890.0,2025-08-24 11:13:02.111950
 2025-08-24,54824,2025082403000423,NLIC,Sagarmatha Securities Private Limited,Oxford Securities Pvt. Ltd.,20,784.0,15680.0,2025-08-24 11:18:46.487250
 2025-08-24,54593,2025082403000461,NLIC,N.I.M.B. Stock Markets Limited,Online Securities Pvt. Ltd.,30,785.0,23550.0,2025-08-24 11:20:04.268012

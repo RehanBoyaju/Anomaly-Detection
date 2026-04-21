@@ -1,0 +1,77 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041703000001,CFCL,34,41,10,534.3,5343.0,2026-04-17,186754735,245,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,2026-04-17 10:46:00.010106,Central Finance Co. Ltd.
+2026041703000037,CFCL,36,41,50,530.0,26500.0,2026-04-17,186756582,245,Secured Securities Ltd.,Linch Stock Market Ltd.,2026-04-17 11:02:32.134646,Central Finance Co. Ltd.
+2026041703000096,CFCL,38,40,500,524.0,262000.0,2026-04-17,186760429,245,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:07:47.795826,Central Finance Co. Ltd.
+2026041703001382,CFCL,32,42,100,516.0,51600.0,2026-04-17,186801216,245,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-17 11:56:34.696238,Central Finance Co. Ltd.
+2026041703001396,CFCL,58,42,76,515.0,39140.0,2026-04-17,186801450,245,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-17 11:56:45.729654,Central Finance Co. Ltd.
+2026041703001471,CFCL,36,42,100,515.0,51500.0,2026-04-17,186802462,245,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-17 11:57:55.838294,Central Finance Co. Ltd.
+2026041703001640,CFCL,45,42,10,515.0,5150.0,2026-04-17,186806156,245,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:02:11.630663,Central Finance Co. Ltd.
+2026041703002072,CFCL,42,42,14,515.0,7210.0,2026-04-17,186815296,245,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-17 12:12:28.775605,Central Finance Co. Ltd.
+2026041703002446,CFCL,34,17,200,515.0,103000.0,2026-04-17,186823234,245,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-17 12:22:03.135502,Central Finance Co. Ltd.
+2026041703002447,CFCL,14,17,50,514.0,25700.0,2026-04-17,186823236,245,Nepal Stock House (PVT) Ltd.,ABC Securities Private Limited,2026-04-17 12:22:03.135573,Central Finance Co. Ltd.
+2026041703002448,CFCL,45,17,20,514.0,10280.0,2026-04-17,186823238,245,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:22:03.135610,Central Finance Co. Ltd.
+2026041703002449,CFCL,58,17,50,513.6,25680.0,2026-04-17,186823240,245,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-17 12:22:03.135671,Central Finance Co. Ltd.
+2026041703002450,CFCL,45,17,180,513.6,92448.0,2026-04-17,186823241,245,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:22:03.135709,Central Finance Co. Ltd.
+2026041703002457,CFCL,45,17,20,513.6,10272.0,2026-04-17,186823386,245,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:22:17.314495,Central Finance Co. Ltd.
+2026041703002458,CFCL,58,17,23,513.6,11812.8,2026-04-17,186823388,245,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-17 12:22:17.314577,Central Finance Co. Ltd.
+2026041703002459,CFCL,42,17,50,512.0,25600.0,2026-04-17,186823389,245,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-17 12:22:17.314626,Central Finance Co. Ltd.
+2026041703003287,CFCL,42,26,11,514.0,5654.0,2026-04-17,186841996,245,Sani Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-17 12:48:42.760077,Central Finance Co. Ltd.
+2026041703003305,CFCL,52,26,89,513.0,45657.0,2026-04-17,186842457,245,Sundhara Securities Limited,Asian Securities Private Ltd.,2026-04-17 12:49:15.255426,Central Finance Co. Ltd.
+2026041703003509,CFCL,25,14,40,515.0,20600.0,2026-04-17,186846813,245,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 12:54:27.772971,Central Finance Co. Ltd.
+2026041703003517,CFCL,7,7,10,520.9,5209.0,2026-04-17,186846954,245,J.F. Securites (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-17 12:54:39.022121,Central Finance Co. Ltd.
+2026041703004259,CFCL,52,59,100,519.0,51900.0,2026-04-17,186866663,245,Sundhara Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 13:30:48.636125,Central Finance Co. Ltd.
+2026041703004260,CFCL,52,49,700,519.0,363300.0,2026-04-17,186866666,245,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-17 13:30:48.636222,Central Finance Co. Ltd.
+2026041703004298,CFCL,94,13,591,519.7,307142.7,2026-04-17,186868179,245,K.B.L. Securities Limited ,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:32:37.927927,Central Finance Co. Ltd.
+2026041703004299,CFCL,94,59,59,519.9,30674.1,2026-04-17,186868182,245,K.B.L. Securities Limited ,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 13:32:37.928127,Central Finance Co. Ltd.
+2026041703004313,CFCL,52,59,41,519.9,21315.9,2026-04-17,186868627,245,Sundhara Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 13:33:09.149843,Central Finance Co. Ltd.
+2026041703004314,CFCL,52,34,459,519.9,238634.1,2026-04-17,186868630,245,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 13:33:09.149929,Central Finance Co. Ltd.
+2026041703004422,CFCL,34,34,10,523.7,5237.0,2026-04-17,186872636,245,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-17 13:38:30.006872,Central Finance Co. Ltd.
+2026041703004763,CFCL,91,17,25,518.0,12950.0,2026-04-17,186880876,245,Citizens Share Broker Limited,ABC Securities Private Limited,2026-04-17 13:52:09.429244,Central Finance Co. Ltd.
+2026041703004764,CFCL,46,17,39,515.5,20104.5,2026-04-17,186880878,245,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 13:52:09.429344,Central Finance Co. Ltd.
+2026041703004765,CFCL,53,17,20,515.0,10300.0,2026-04-17,186880880,245,Investment Management Nepal Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 13:52:09.429420,Central Finance Co. Ltd.
+2026041703004766,CFCL,58,17,20,515.0,10300.0,2026-04-17,186880882,245,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-17 13:52:09.429494,Central Finance Co. Ltd.
+2026041703004767,CFCL,46,17,385,515.0,198275.0,2026-04-17,186880884,245,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 13:52:09.429562,Central Finance Co. Ltd.
+2026041703004768,CFCL,17,17,20,515.0,10300.0,2026-04-17,186880886,245,ABC Securities Private Limited,ABC Securities Private Limited,2026-04-17 13:52:09.429631,Central Finance Co. Ltd.
+2026041703004769,CFCL,52,17,55,514.1,28275.5,2026-04-17,186880888,245,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-17 13:52:09.429704,Central Finance Co. Ltd.
+2026041703004770,CFCL,57,17,125,514.0,64250.0,2026-04-17,186880890,245,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-17 13:52:09.429774,Central Finance Co. Ltd.
+2026041703004771,CFCL,57,17,100,513.5,51350.0,2026-04-17,186880892,245,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-17 13:52:09.429867,Central Finance Co. Ltd.
+2026041703004772,CFCL,34,17,200,513.5,102700.0,2026-04-17,186880894,245,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-17 13:52:09.429936,Central Finance Co. Ltd.
+2026041703004773,CFCL,52,17,11,513.0,5643.0,2026-04-17,186880896,245,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-17 13:52:09.430056,Central Finance Co. Ltd.
+2026041703004774,CFCL,11,17,50,513.0,25650.0,2026-04-17,186880898,245,Malla & Malla Stock Broking Company Pvt. Limited,ABC Securities Private Limited,2026-04-17 13:52:09.430128,Central Finance Co. Ltd.
+2026041703004775,CFCL,43,17,154,513.0,79002.0,2026-04-17,186880899,245,South Asian Bulls Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 13:52:09.430194,Central Finance Co. Ltd.
+2026041703005354,CFCL,34,58,10,521.7,5217.0,2026-04-17,186897298,245,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:14:06.890684,Central Finance Co. Ltd.
+2026041703005494,CFCL,54,52,38,519.0,19722.0,2026-04-17,186900704,245,Sewa Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-17 14:18:47.041192,Central Finance Co. Ltd.
+2026041703005495,CFCL,45,52,10,518.0,5180.0,2026-04-17,186900706,245,Imperial Securities Company Pvt. Ltd.,Sundhara Securities Limited,2026-04-17 14:18:47.041321,Central Finance Co. Ltd.
+2026041703005496,CFCL,52,52,152,517.0,78584.0,2026-04-17,186900707,245,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-17 14:18:47.041370,Central Finance Co. Ltd.
+2026041703005513,CFCL,52,52,48,517.0,24816.0,2026-04-17,186901277,245,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-17 14:19:27.914082,Central Finance Co. Ltd.
+2026041703005668,CFCL,11,52,18,516.0,9288.0,2026-04-17,186904101,245,Malla & Malla Stock Broking Company Pvt. Limited,Sundhara Securities Limited,2026-04-17 14:23:22.231275,Central Finance Co. Ltd.
+2026041703005811,CFCL,5,64,10,520.0,5200.0,2026-04-17,186906744,245,Market Securities & Exchange (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-17 14:26:29.817655,Central Finance Co. Ltd.
+2026041703005871,CFCL,52,60,62,515.0,31930.0,2026-04-17,186908213,245,Sundhara Securities Limited,Nagarik Stock Dealer ,2026-04-17 14:28:41.311264,Central Finance Co. Ltd.
+2026041703005901,CFCL,58,22,2,506.0,1012.0,2026-04-17,186908891,245,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 14:29:38.040970,Central Finance Co. Ltd.
+2026041703006158,CFCL,58,58,200,516.0,103200.0,2026-04-17,186915053,245,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:37:32.768104,Central Finance Co. Ltd.
+2026041703006192,CFCL,58,56,600,516.0,309600.0,2026-04-17,186915710,245,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:38:27.625713,Central Finance Co. Ltd.
+2026041703006193,CFCL,91,56,10,516.0,5160.0,2026-04-17,186915712,245,Citizens Share Broker Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:38:27.625860,Central Finance Co. Ltd.
+2026041703006303,CFCL,58,52,100,515.2,51520.0,2026-04-17,186916893,245,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-17 14:40:09.420318,Central Finance Co. Ltd.
+2026041703006398,CFCL,52,56,500,516.0,258000.0,2026-04-17,186918206,245,Sundhara Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:41:51.836021,Central Finance Co. Ltd.
+2026041703006404,CFCL,21,52,100,515.1,51510.0,2026-04-17,186918249,245,Midas Stock Broking Company Private Limited,Sundhara Securities Limited,2026-04-17 14:41:56.796620,Central Finance Co. Ltd.
+2026041703006527,CFCL,17,56,390,516.0,201240.0,2026-04-17,186919882,245,ABC Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:43:37.435685,Central Finance Co. Ltd.
+2026041703006749,CFCL,42,64,10,520.0,5200.0,2026-04-17,186925630,245,Sani Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-17 14:48:57.379150,Central Finance Co. Ltd.
+2026041703007213,CFCL,39,58,100,519.9,51990.0,2026-04-17,186933821,245,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:54:47.583400,Central Finance Co. Ltd.
+2026041703007214,CFCL,39,48,90,520.0,46800.0,2026-04-17,186933823,245,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 14:54:47.583527,Central Finance Co. Ltd.
+2026041703007215,CFCL,39,42,20,520.0,10400.0,2026-04-17,186933825,245,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 14:54:47.583588,Central Finance Co. Ltd.
+2026041703007255,CFCL,39,35,190,520.0,98800.0,2026-04-17,186934520,245,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:55:16.767385,Central Finance Co. Ltd.
+2026041703007599,CFCL,64,32,50,518.0,25900.0,2026-04-17,186939600,245,SUN SECURITIES PVT LTD,Premier Securities Company Ltd.,2026-04-17 14:57:59.730569,Central Finance Co. Ltd.
+2026041703007600,CFCL,91,32,25,517.5,12937.5,2026-04-17,186939602,245,Citizens Share Broker Limited,Premier Securities Company Ltd.,2026-04-17 14:57:59.730613,Central Finance Co. Ltd.
+2026041703007601,CFCL,14,32,100,517.0,51700.0,2026-04-17,186939604,245,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-17 14:57:59.730644,Central Finance Co. Ltd.
+2026041703007602,CFCL,54,32,20,517.0,10340.0,2026-04-17,186939606,245,Sewa Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-17 14:57:59.730673,Central Finance Co. Ltd.
+2026041703007603,CFCL,17,32,100,516.1,51610.0,2026-04-17,186939608,245,ABC Securities Private Limited,Premier Securities Company Ltd.,2026-04-17 14:57:59.730709,Central Finance Co. Ltd.
+2026041703007604,CFCL,57,32,200,515.2,103040.0,2026-04-17,186939610,245,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-17 14:57:59.730740,Central Finance Co. Ltd.
+2026041703007857,CFCL,35,35,10,520.0,5200.0,2026-04-17,186944125,245,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:59:27.336596,Central Finance Co. Ltd.
+2026041703007858,CFCL,35,50,10,521.0,5210.0,2026-04-17,186944131,245,Kohinoor Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:27.336688,Central Finance Co. Ltd.
+2026041703007972,CFCL,35,50,10,521.0,5210.0,2026-04-17,186945426,245,Kohinoor Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:42.053345,Central Finance Co. Ltd.
+2026041703008043,CFCL,7,50,250,516.0,129000.0,2026-04-17,186946388,245,J.F. Securites (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:53.111250,Central Finance Co. Ltd.
+2026041703008044,CFCL,32,50,30,515.0,15450.0,2026-04-17,186946390,245,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:53.111336,Central Finance Co. Ltd.
+2026041703008045,CFCL,36,50,500,515.0,257500.0,2026-04-17,186946392,245,Secured Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:53.111379,Central Finance Co. Ltd.
+2026041703008046,CFCL,58,50,60,515.0,30900.0,2026-04-17,186946394,245,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:53.111421,Central Finance Co. Ltd.
+2026041703008047,CFCL,17,50,50,515.0,25750.0,2026-04-17,186946396,245,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:53.111464,Central Finance Co. Ltd.
+2026041703008048,CFCL,52,50,90,515.0,46350.0,2026-04-17,186946397,245,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:59:53.111506,Central Finance Co. Ltd.

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,quantity,rate,amount,transaction_time
+Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
 2025-07-16,99503,2025071601000001,NABIL,Naasa Securities Co. Ltd.,ABC Securities Private Limited,120,530.0,63600.0,2025-07-16 10:46:00.005356
 2025-07-16,99365,2025071601000056,NABIL,Naasa Securities Co. Ltd.,ABC Securities Private Limited,200,530.0,106000.0,2025-07-16 11:00:25.494919
 2025-07-16,99356,2025071601000060,NABIL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,25,530.0,13250.0,2025-07-16 11:00:31.924502

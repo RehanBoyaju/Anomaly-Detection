@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,quantity,rate,amount,transaction_time
+Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
 2025-08-18,67573,2025081801000111,SCB,Agrawal Securities (PVT) Ltd.,NIMB Stock Markets Limited,25,625.0,15625.0,2025-08-18T11:03:06.513696
 2025-08-18,67280,2025081801000224,SCB,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,475,625.0,296875.0,2025-08-18T11:05:13.583651
 2025-08-18,67279,2025081801000225,SCB,Naasa Securities Co. Ltd.,ABC Securities Private Limited,25,625.0,15625.0,2025-08-18T11:05:13.583781

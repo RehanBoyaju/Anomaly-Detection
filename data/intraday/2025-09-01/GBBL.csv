@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,quantity,rate,amount,transaction_time
+Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
 2025-09-01,65658,2025090103000237,GBBL,Trishakti Securities Public Limited,Trishakti Securities Public Limited,150,425.0,63750.0,2025-09-01 11:11:16.244079
 2025-09-01,65657,2025090103000238,GBBL,ABC Securities Private Limited,Trishakti Securities Public Limited,100,422.2,42220.0,2025-09-01 11:11:16.244200
 2025-09-01,65656,2025090103000239,GBBL,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,1000,422.2,422200.0,2025-09-01 11:11:16.244229

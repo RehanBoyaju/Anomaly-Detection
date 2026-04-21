@@ -1,0 +1,408 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041601000051,GBIME,58,58,10,240.0,2400.0,2026-04-16,186531744,341,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:00:02.011429,Global IME Bank Limited
+2026041601000052,GBIME,44,58,1990,240.0,477600.0,2026-04-16,186531745,341,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:00:02.011554,Global IME Bank Limited
+2026041601000373,GBIME,44,34,10,240.0,2400.0,2026-04-16,186533076,341,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:01:54.368483,Global IME Bank Limited
+2026041601000908,GBIME,20,34,13,239.0,3107.0,2026-04-16,186535087,341,Sipla Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 11:03:53.754983,Global IME Bank Limited
+2026041601001157,GBIME,20,35,43,239.0,10277.0,2026-04-16,186535920,341,Sipla Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:04:44.484466,Global IME Bank Limited
+2026041601001158,GBIME,7,35,10,239.0,2390.0,2026-04-16,186535922,341,J.F. Securites (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:04:44.484654,Global IME Bank Limited
+2026041601001159,GBIME,42,35,50,238.0,11900.0,2026-04-16,186535924,341,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:04:44.484763,Global IME Bank Limited
+2026041601001160,GBIME,43,35,91,238.0,21658.0,2026-04-16,186535926,341,South Asian Bulls Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:04:44.484868,Global IME Bank Limited
+2026041601001161,GBIME,44,35,106,237.3,25153.8,2026-04-16,186535927,341,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:04:44.484989,Global IME Bank Limited
+2026041601002747,GBIME,58,47,1000,237.7,237700.0,2026-04-16,186541930,341,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 11:09:46.732078,Global IME Bank Limited
+2026041601002748,GBIME,49,47,500,237.6,118800.0,2026-04-16,186541932,341,Online Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 11:09:46.732288,Global IME Bank Limited
+2026041601002749,GBIME,41,47,175,237.6,41580.0,2026-04-16,186541933,341,Linch Stock Market Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 11:09:46.732437,Global IME Bank Limited
+2026041601002881,GBIME,41,34,990,237.6,235224.0,2026-04-16,186542427,341,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:10:08.384153,Global IME Bank Limited
+2026041601003145,GBIME,41,1,137,237.6,32551.2,2026-04-16,186543291,341,Linch Stock Market Ltd.,Kumari Securities Private Limited,2026-04-16 11:10:43.854493,Global IME Bank Limited
+2026041601003318,GBIME,41,34,698,237.6,165844.8,2026-04-16,186543894,341,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:11:11.553662,Global IME Bank Limited
+2026041601003319,GBIME,70,34,300,237.5,71250.0,2026-04-16,186543896,341,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 11:11:11.553791,Global IME Bank Limited
+2026041601003320,GBIME,58,34,390,237.5,92625.0,2026-04-16,186543898,341,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:11:11.553840,Global IME Bank Limited
+2026041601003321,GBIME,58,34,36,237.5,8550.0,2026-04-16,186543900,341,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:11:11.553883,Global IME Bank Limited
+2026041601003322,GBIME,29,34,576,237.4,136742.4,2026-04-16,186543901,341,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:11:11.553966,Global IME Bank Limited
+2026041601004345,GBIME,32,34,300,238.0,71400.0,2026-04-16,186547242,341,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:13:49.180768,Global IME Bank Limited
+2026041601004467,GBIME,19,34,100,238.0,23800.0,2026-04-16,186547692,341,Nepal Investment And Securities Trading Private Limited,Vision Securities Pvt. Ltd,2026-04-16 11:14:11.126785,Global IME Bank Limited
+2026041601004536,GBIME,17,34,100,238.0,23800.0,2026-04-16,186547963,341,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 11:14:23.094774,Global IME Bank Limited
+2026041601004778,GBIME,57,34,700,238.5,166950.0,2026-04-16,186548872,341,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 11:15:20.428566,Global IME Bank Limited
+2026041601004920,GBIME,17,38,125,238.0,29750.0,2026-04-16,186549344,341,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:15:38.740300,Global IME Bank Limited
+2026041601004921,GBIME,59,38,150,238.0,35700.0,2026-04-16,186549346,341,Deevyaa Securities & Stock House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:15:38.740504,Global IME Bank Limited
+2026041601004922,GBIME,59,38,35,238.0,8330.0,2026-04-16,186549348,341,Deevyaa Securities & Stock House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:15:38.740656,Global IME Bank Limited
+2026041601004957,GBIME,41,38,30,238.0,7140.0,2026-04-16,186549474,341,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:15:47.066901,Global IME Bank Limited
+2026041601005082,GBIME,26,38,150,238.0,35700.0,2026-04-16,186549808,341,Asian Securities Private Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:16:01.084190,Global IME Bank Limited
+2026041601005103,GBIME,29,44,189,237.4,44868.6,2026-04-16,186549929,341,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 11:16:07.381241,Global IME Bank Limited
+2026041601005133,GBIME,29,38,300,238.0,71400.0,2026-04-16,186550000,341,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:16:10.508284,Global IME Bank Limited
+2026041601005446,GBIME,19,38,50,238.0,11900.0,2026-04-16,186551264,341,Nepal Investment And Securities Trading Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:17:31.064741,Global IME Bank Limited
+2026041601005983,GBIME,45,38,20,238.0,4760.0,2026-04-16,186553264,341,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:19:36.966456,Global IME Bank Limited
+2026041601006156,GBIME,17,38,140,238.0,33320.0,2026-04-16,186553945,341,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:20:19.458924,Global IME Bank Limited
+2026041601006798,GBIME,14,58,10,238.1,2381.0,2026-04-16,186556599,341,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:23:14.926673,Global IME Bank Limited
+2026041601006833,GBIME,14,40,90,238.1,21429.0,2026-04-16,186556798,341,Nepal Stock House (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-16 11:23:31.118328,Global IME Bank Limited
+2026041601006834,GBIME,17,40,10,238.0,2380.0,2026-04-16,186556799,341,ABC Securities Private Limited,Creative Securities Pvt Ltd,2026-04-16 11:23:31.118502,Global IME Bank Limited
+2026041601007108,GBIME,58,34,10,238.1,2381.0,2026-04-16,186557978,341,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:24:38.451385,Global IME Bank Limited
+2026041601007109,GBIME,17,34,350,238.0,83300.0,2026-04-16,186557980,341,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 11:24:38.451651,Global IME Bank Limited
+2026041601007110,GBIME,51,34,10,238.0,2380.0,2026-04-16,186557982,341,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:24:38.451821,Global IME Bank Limited
+2026041601007111,GBIME,19,34,30,238.0,7140.0,2026-04-16,186557984,341,Nepal Investment And Securities Trading Private Limited,Vision Securities Pvt. Ltd,2026-04-16 11:24:38.451968,Global IME Bank Limited
+2026041601007112,GBIME,7,34,200,238.0,47600.0,2026-04-16,186557986,341,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:24:38.452139,Global IME Bank Limited
+2026041601007113,GBIME,29,34,500,238.0,119000.0,2026-04-16,186557988,341,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:24:38.452298,Global IME Bank Limited
+2026041601007114,GBIME,58,34,100,238.0,23800.0,2026-04-16,186557990,341,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:24:38.452482,Global IME Bank Limited
+2026041601007229,GBIME,14,34,100,238.0,23800.0,2026-04-16,186558440,341,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:24:57.478304,Global IME Bank Limited
+2026041601007446,GBIME,58,19,30,238.4,7152.0,2026-04-16,186559354,341,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 11:25:59.451489,Global IME Bank Limited
+2026041601007511,GBIME,41,44,200,237.8,47560.0,2026-04-16,186559649,341,Linch Stock Market Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 11:26:15.807200,Global IME Bank Limited
+2026041601008148,GBIME,1,19,370,238.4,88208.0,2026-04-16,186562258,341,Kumari Securities Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 11:29:10.393754,Global IME Bank Limited
+2026041601008305,GBIME,58,26,40,238.0,9520.0,2026-04-16,186562998,341,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:29:58.886629,Global IME Bank Limited
+2026041601008306,GBIME,4,26,20,238.0,4760.0,2026-04-16,186562999,341,Opal Securities Investment (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-16 11:29:58.886897,Global IME Bank Limited
+2026041601008922,GBIME,32,48,370,238.1,88097.0,2026-04-16,186565655,341,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-16 11:32:09.922429,Global IME Bank Limited
+2026041601008928,GBIME,37,3,22,238.5,5247.0,2026-04-16,186565729,341,Swarna Laxmi Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 11:32:14.856887,Global IME Bank Limited
+2026041601008970,GBIME,37,48,100,238.5,23850.0,2026-04-16,186565921,341,Swarna Laxmi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-16 11:32:26.991157,Global IME Bank Limited
+2026041601009000,GBIME,4,5,11,238.0,2618.0,2026-04-16,186566069,341,Opal Securities Investment (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 11:32:36.620794,Global IME Bank Limited
+2026041601009118,GBIME,6,53,75,238.0,17850.0,2026-04-16,186566710,341,Agrawal Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:33:11.833354,Global IME Bank Limited
+2026041601009228,GBIME,39,53,425,238.0,101150.0,2026-04-16,186566971,341,Sumeru Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:33:17.956682,Global IME Bank Limited
+2026041601009322,GBIME,39,58,75,238.0,17850.0,2026-04-16,186567626,341,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:33:42.693168,Global IME Bank Limited
+2026041601009589,GBIME,52,26,300,237.8,71340.0,2026-04-16,186568664,341,Sundhara Securities Limited,Asian Securities Private Ltd.,2026-04-16 11:34:39.418355,Global IME Bank Limited
+2026041601009590,GBIME,58,26,10,237.6,2376.0,2026-04-16,186568666,341,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:34:39.418506,Global IME Bank Limited
+2026041601009591,GBIME,37,26,500,237.6,118800.0,2026-04-16,186568668,341,Swarna Laxmi Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:34:39.418569,Global IME Bank Limited
+2026041601009592,GBIME,44,26,500,237.5,118750.0,2026-04-16,186568670,341,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:34:39.418626,Global IME Bank Limited
+2026041601009593,GBIME,51,26,202,237.5,47975.0,2026-04-16,186568672,341,Oxford Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:34:39.418705,Global IME Bank Limited
+2026041601009594,GBIME,29,26,1311,237.4,311231.4,2026-04-16,186568674,341,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:34:39.418779,Global IME Bank Limited
+2026041601009595,GBIME,45,26,30,237.4,7122.0,2026-04-16,186568676,341,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:34:39.418835,Global IME Bank Limited
+2026041601009596,GBIME,44,26,147,237.3,34883.1,2026-04-16,186568677,341,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:34:39.418890,Global IME Bank Limited
+2026041601009712,GBIME,19,58,20,238.0,4760.0,2026-04-16,186569218,341,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-16 11:35:12.123872,Global IME Bank Limited
+2026041601009914,GBIME,44,76,530,237.3,125769.0,2026-04-16,186570089,341,Dynamic Money Managers Securities Pvt. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 11:35:56.920275,Global IME Bank Limited
+2026041601009950,GBIME,49,58,20,238.0,4760.0,2026-04-16,186570288,341,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:36:06.620377,Global IME Bank Limited
+2026041601009973,GBIME,6,58,100,238.0,23800.0,2026-04-16,186570398,341,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:36:13.150643,Global IME Bank Limited
+2026041601010126,GBIME,44,14,96,237.3,22780.8,2026-04-16,186571059,341,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:36:51.260727,Global IME Bank Limited
+2026041601010478,GBIME,3,58,46,238.0,10948.0,2026-04-16,186572550,341,Arun Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:38:25.472614,Global IME Bank Limited
+2026041601010581,GBIME,45,58,25,238.0,5950.0,2026-04-16,186572900,341,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:38:45.094614,Global IME Bank Limited
+2026041601010823,GBIME,1,58,24,238.0,5712.0,2026-04-16,186573915,341,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 11:39:48.155602,Global IME Bank Limited
+2026041601010824,GBIME,1,48,500,238.0,119000.0,2026-04-16,186573918,341,Kumari Securities Private Limited,Trishakti Securities Public Limited,2026-04-16 11:39:48.155751,Global IME Bank Limited
+2026041601011498,GBIME,49,44,137,237.5,32537.5,2026-04-16,186576301,341,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 11:41:52.205660,Global IME Bank Limited
+2026041601011807,GBIME,49,58,63,237.5,14962.5,2026-04-16,186577652,341,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:43:03.597607,Global IME Bank Limited
+2026041601011808,GBIME,44,58,57,237.3,13526.1,2026-04-16,186577653,341,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:43:03.597749,Global IME Bank Limited
+2026041601012016,GBIME,44,38,64,237.3,15187.2,2026-04-16,186578368,341,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:43:40.584919,Global IME Bank Limited
+2026041601012096,GBIME,56,38,436,237.3,103462.8,2026-04-16,186578635,341,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:43:51.864279,Global IME Bank Limited
+2026041601012097,GBIME,56,45,13,238.0,3094.0,2026-04-16,186578637,341,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:43:51.864425,Global IME Bank Limited
+2026041601012098,GBIME,56,38,500,238.0,119000.0,2026-04-16,186578639,341,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:43:51.864490,Global IME Bank Limited
+2026041601012099,GBIME,56,58,500,238.2,119100.0,2026-04-16,186578641,341,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:43:51.864554,Global IME Bank Limited
+2026041601012100,GBIME,56,17,1000,238.3,238300.0,2026-04-16,186578643,341,Sri Hari Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 11:43:51.864616,Global IME Bank Limited
+2026041601012101,GBIME,56,58,1000,238.4,238400.0,2026-04-16,186578645,341,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:43:51.864670,Global IME Bank Limited
+2026041601012240,GBIME,56,58,1500,238.4,357600.0,2026-04-16,186579183,341,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:44:33.095997,Global IME Bank Limited
+2026041601012271,GBIME,56,26,51,238.4,12158.4,2026-04-16,186579336,341,Sri Hari Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:44:44.231704,Global IME Bank Limited
+2026041601012610,GBIME,3,58,40,237.3,9492.0,2026-04-16,186580809,341,Arun Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:46:25.772852,Global IME Bank Limited
+2026041601013572,GBIME,3,1,10,237.3,2373.0,2026-04-16,186584394,341,Arun Securities (PVT) Ltd.,Kumari Securities Private Limited,2026-04-16 11:50:42.728653,Global IME Bank Limited
+2026041601013573,GBIME,37,1,112,237.3,26577.6,2026-04-16,186584395,341,Swarna Laxmi Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:50:42.728814,Global IME Bank Limited
+2026041601013618,GBIME,37,29,10,237.3,2373.0,2026-04-16,186584553,341,Swarna Laxmi Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:50:52.079318,Global IME Bank Limited
+2026041601013948,GBIME,36,58,1500,238.2,357300.0,2026-04-16,186585551,341,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:51:42.946500,Global IME Bank Limited
+2026041601013998,GBIME,36,26,700,238.2,166740.0,2026-04-16,186585936,341,Secured Securities Ltd.,Asian Securities Private Ltd.,2026-04-16 11:51:54.627404,Global IME Bank Limited
+2026041601014067,GBIME,25,57,20,238.0,4760.0,2026-04-16,186586318,341,Sweta Securities Private Limited,Aryatara Investment & Securities,2026-04-16 11:52:24.468620,Global IME Bank Limited
+2026041601014107,GBIME,22,57,185,238.0,44030.0,2026-04-16,186586510,341,Siprabi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 11:52:35.479790,Global IME Bank Limited
+2026041601014325,GBIME,25,57,31,238.0,7378.0,2026-04-16,186587195,341,Sweta Securities Private Limited,Aryatara Investment & Securities,2026-04-16 11:53:10.426660,Global IME Bank Limited
+2026041601014485,GBIME,58,26,20,238.2,4764.0,2026-04-16,186588000,341,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:54:09.815423,Global IME Bank Limited
+2026041601014539,GBIME,22,26,165,238.2,39303.0,2026-04-16,186588214,341,Siprabi Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 11:54:21.681897,Global IME Bank Limited
+2026041601014594,GBIME,1,26,64,238.2,15244.8,2026-04-16,186588436,341,Kumari Securities Private Limited,Asian Securities Private Ltd.,2026-04-16 11:54:35.701102,Global IME Bank Limited
+2026041601014628,GBIME,25,58,19,238.0,4522.0,2026-04-16,186588608,341,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 11:54:48.546321,Global IME Bank Limited
+2026041601014629,GBIME,1,58,31,238.0,7378.0,2026-04-16,186588610,341,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 11:54:48.546514,Global IME Bank Limited
+2026041601014630,GBIME,49,58,10,238.0,2380.0,2026-04-16,186588612,341,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:54:48.546587,Global IME Bank Limited
+2026041601014631,GBIME,52,58,20,238.0,4760.0,2026-04-16,186588614,341,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 11:54:48.546670,Global IME Bank Limited
+2026041601014657,GBIME,58,58,10,238.0,2380.0,2026-04-16,186588741,341,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:54:56.682257,Global IME Bank Limited
+2026041601015107,GBIME,58,62,15,238.0,3570.0,2026-04-16,186590691,341,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-16 11:57:18.342667,Global IME Bank Limited
+2026041601015578,GBIME,67,6,10,238.3,2383.0,2026-04-16,186592376,341,Property Wiard Limited,Agrawal Securities (PVT) Ltd.,2026-04-16 11:59:12.694925,Global IME Bank Limited
+2026041601015582,GBIME,57,6,190,238.3,45277.0,2026-04-16,186592443,341,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-16 11:59:16.407214,Global IME Bank Limited
+2026041601015583,GBIME,57,17,1000,238.3,238300.0,2026-04-16,186592445,341,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-16 11:59:16.407544,Global IME Bank Limited
+2026041601015795,GBIME,57,35,10,238.3,2383.0,2026-04-16,186593298,341,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:00:13.138595,Global IME Bank Limited
+2026041601015798,GBIME,49,8,15,238.4,3576.0,2026-04-16,186593312,341,Online Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 12:00:15.403073,Global IME Bank Limited
+2026041601016077,GBIME,58,8,17,238.4,4052.8,2026-04-16,186594578,341,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 12:01:52.640521,Global IME Bank Limited
+2026041601016086,GBIME,58,52,10,238.2,2382.0,2026-04-16,186594619,341,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-16 12:01:57.409664,Global IME Bank Limited
+2026041601016232,GBIME,58,38,30,238.2,7146.0,2026-04-16,186595166,341,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:02:31.401335,Global IME Bank Limited
+2026041601016233,GBIME,81,38,70,238.0,16660.0,2026-04-16,186595167,341,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:02:31.401623,Global IME Bank Limited
+2026041601016289,GBIME,76,8,10,238.4,2384.0,2026-04-16,186595496,341,Machhapuchchhre Securities Limited,Brilliant Securities Pvt. Ltd.,2026-04-16 12:03:00.086785,Global IME Bank Limited
+2026041601016296,GBIME,76,8,50,238.4,11920.0,2026-04-16,186595526,341,Machhapuchchhre Securities Limited,Brilliant Securities Pvt. Ltd.,2026-04-16 12:03:02.889668,Global IME Bank Limited
+2026041601016440,GBIME,38,8,20,238.4,4768.0,2026-04-16,186596176,341,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 12:04:07.617903,Global IME Bank Limited
+2026041601016446,GBIME,76,58,200,238.4,47680.0,2026-04-16,186596220,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:04:12.990738,Global IME Bank Limited
+2026041601016521,GBIME,22,58,500,238.4,119200.0,2026-04-16,186596590,341,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:04:43.925346,Global IME Bank Limited
+2026041601016572,GBIME,76,58,50,238.4,11920.0,2026-04-16,186596814,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:05:02.677453,Global IME Bank Limited
+2026041601016629,GBIME,76,58,99,238.4,23601.6,2026-04-16,186597082,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:05:31.471578,Global IME Bank Limited
+2026041601016637,GBIME,58,58,10,238.4,2384.0,2026-04-16,186597114,341,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:05:35.279228,Global IME Bank Limited
+2026041601016727,GBIME,67,58,1000,238.1,238100.0,2026-04-16,186597583,341,Property Wiard Limited,Naasa Securities Co. Ltd.,2026-04-16 12:06:15.354584,Global IME Bank Limited
+2026041601016810,GBIME,76,58,100,238.4,23840.0,2026-04-16,186597944,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:06:44.332610,Global IME Bank Limited
+2026041601016855,GBIME,34,58,1041,238.4,248174.4,2026-04-16,186598211,341,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 12:07:01.616704,Global IME Bank Limited
+2026041601016856,GBIME,34,5,959,238.4,228625.6,2026-04-16,186598214,341,Vision Securities Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:07:01.616794,Global IME Bank Limited
+2026041601016930,GBIME,76,5,50,238.4,11920.0,2026-04-16,186598612,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:07:26.607477,Global IME Bank Limited
+2026041601017083,GBIME,32,29,239,238.1,56905.9,2026-04-16,186599425,341,Premier Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 12:08:22.249684,Global IME Bank Limited
+2026041601017237,GBIME,76,5,50,238.4,11920.0,2026-04-16,186600330,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:09:18.874550,Global IME Bank Limited
+2026041601017300,GBIME,76,5,100,238.4,23840.0,2026-04-16,186600690,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:09:44.043812,Global IME Bank Limited
+2026041601017340,GBIME,76,5,50,238.4,11920.0,2026-04-16,186600880,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:09:59.882967,Global IME Bank Limited
+2026041601017406,GBIME,76,5,38,238.4,9059.2,2026-04-16,186601268,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:10:26.707999,Global IME Bank Limited
+2026041601017568,GBIME,76,80,100,238.3,23830.0,2026-04-16,186601982,341,Machhapuchchhre Securities Limited,Indira securities pvt. ltd,2026-04-16 12:11:11.422004,Global IME Bank Limited
+2026041601017639,GBIME,32,58,660,238.1,157146.0,2026-04-16,186602301,341,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:11:35.630236,Global IME Bank Limited
+2026041601017640,GBIME,76,80,50,238.3,11915.0,2026-04-16,186602304,341,Machhapuchchhre Securities Limited,Indira securities pvt. ltd,2026-04-16 12:11:36.721204,Global IME Bank Limited
+2026041601017660,GBIME,32,58,40,238.1,9524.0,2026-04-16,186602431,341,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:11:45.160118,Global IME Bank Limited
+2026041601017709,GBIME,76,80,200,238.3,47660.0,2026-04-16,186602698,341,Machhapuchchhre Securities Limited,Indira securities pvt. ltd,2026-04-16 12:12:09.199673,Global IME Bank Limited
+2026041601017799,GBIME,76,80,50,238.3,11915.0,2026-04-16,186603096,341,Machhapuchchhre Securities Limited,Indira securities pvt. ltd,2026-04-16 12:12:44.085070,Global IME Bank Limited
+2026041601017802,GBIME,1,80,101,238.3,24068.3,2026-04-16,186603131,341,Kumari Securities Private Limited,Indira securities pvt. ltd,2026-04-16 12:12:45.669603,Global IME Bank Limited
+2026041601017945,GBIME,76,5,30,238.4,7152.0,2026-04-16,186603646,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:13:18.251768,Global IME Bank Limited
+2026041601017998,GBIME,76,5,100,238.4,23840.0,2026-04-16,186603890,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:13:45.456405,Global IME Bank Limited
+2026041601018092,GBIME,76,5,70,238.4,16688.0,2026-04-16,186604274,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:14:20.119578,Global IME Bank Limited
+2026041601018185,GBIME,76,5,100,238.4,23840.0,2026-04-16,186604708,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:15:01.287846,Global IME Bank Limited
+2026041601018220,GBIME,76,5,50,238.4,11920.0,2026-04-16,186604874,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:15:17.978546,Global IME Bank Limited
+2026041601018269,GBIME,76,5,330,238.4,78672.0,2026-04-16,186605032,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:15:31.762164,Global IME Bank Limited
+2026041601018467,GBIME,76,5,50,238.4,11920.0,2026-04-16,186605736,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:16:42.002348,Global IME Bank Limited
+2026041601018843,GBIME,76,5,23,238.4,5483.2,2026-04-16,186607187,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:18:35.309969,Global IME Bank Limited
+2026041601018844,GBIME,76,58,177,238.4,42196.8,2026-04-16,186607190,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:18:35.310064,Global IME Bank Limited
+2026041601018916,GBIME,1,7,52,238.3,12391.6,2026-04-16,186607459,341,Kumari Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-16 12:18:56.295744,Global IME Bank Limited
+2026041601019036,GBIME,76,58,200,238.4,47680.0,2026-04-16,186607906,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:19:32.040383,Global IME Bank Limited
+2026041601019066,GBIME,76,58,100,238.4,23840.0,2026-04-16,186608048,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:19:48.724544,Global IME Bank Limited
+2026041601019249,GBIME,76,58,70,238.4,16688.0,2026-04-16,186608704,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:20:48.580681,Global IME Bank Limited
+2026041601019260,GBIME,45,58,30,238.4,7152.0,2026-04-16,186608746,341,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:20:52.568162,Global IME Bank Limited
+2026041601019288,GBIME,76,58,100,238.4,23840.0,2026-04-16,186608838,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:21:01.000123,Global IME Bank Limited
+2026041601019415,GBIME,76,58,300,238.4,71520.0,2026-04-16,186609304,341,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 12:21:40.039608,Global IME Bank Limited
+2026041601019419,GBIME,58,58,23,238.4,5483.2,2026-04-16,186609321,341,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:21:42.982392,Global IME Bank Limited
+2026041601019420,GBIME,58,91,11,238.4,2622.4,2026-04-16,186609324,341,Naasa Securities Co. Ltd.,Citizens Share Broker Limited,2026-04-16 12:21:42.982586,Global IME Bank Limited
+2026041601019532,GBIME,89,91,30,238.4,7152.0,2026-04-16,186609706,341,Global IME Securities Limited,Citizens Share Broker Limited,2026-04-16 12:22:07.910100,Global IME Bank Limited
+2026041601019864,GBIME,58,35,15,238.5,3577.5,2026-04-16,186610926,341,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:23:42.274258,Global IME Bank Limited
+2026041601020349,GBIME,58,29,50,238.3,11915.0,2026-04-16,186613284,341,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 12:26:19.974423,Global IME Bank Limited
+2026041601020350,GBIME,13,29,362,238.2,86228.4,2026-04-16,186613285,341,Thrive Brokerage House Pvt. Ltd,Trisul Securities & Invt. Ltd.,2026-04-16 12:26:19.974791,Global IME Bank Limited
+2026041601020636,GBIME,56,35,10,238.5,2385.0,2026-04-16,186614562,341,Sri Hari Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:28:02.528482,Global IME Bank Limited
+2026041601020642,GBIME,76,35,200,238.5,47700.0,2026-04-16,186614587,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:28:04.577391,Global IME Bank Limited
+2026041601020700,GBIME,76,35,50,238.5,11925.0,2026-04-16,186614810,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:28:26.988148,Global IME Bank Limited
+2026041601020725,GBIME,33,35,150,238.5,35775.0,2026-04-16,186614910,341,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:28:38.402566,Global IME Bank Limited
+2026041601020746,GBIME,76,35,100,238.5,23850.0,2026-04-16,186615058,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:28:50.109832,Global IME Bank Limited
+2026041601020811,GBIME,76,35,50,238.5,11925.0,2026-04-16,186615344,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:29:14.274567,Global IME Bank Limited
+2026041601020871,GBIME,76,35,150,238.5,35775.0,2026-04-16,186615526,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:29:31.122071,Global IME Bank Limited
+2026041601020940,GBIME,13,52,182,238.2,43352.4,2026-04-16,186615773,341,Thrive Brokerage House Pvt. Ltd,Sundhara Securities Limited,2026-04-16 12:29:57.516081,Global IME Bank Limited
+2026041601021075,GBIME,76,35,100,238.5,23850.0,2026-04-16,186616330,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:30:44.344452,Global IME Bank Limited
+2026041601021143,GBIME,76,35,100,238.5,23850.0,2026-04-16,186616604,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:31:13.879061,Global IME Bank Limited
+2026041601021190,GBIME,17,35,100,238.5,23850.0,2026-04-16,186616766,341,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:31:20.677112,Global IME Bank Limited
+2026041601021275,GBIME,49,35,1000,238.5,238500.0,2026-04-16,186617200,341,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:31:55.400257,Global IME Bank Limited
+2026041601021340,GBIME,49,35,1000,238.5,238500.0,2026-04-16,186617366,341,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:32:06.455997,Global IME Bank Limited
+2026041601021383,GBIME,76,35,100,238.5,23850.0,2026-04-16,186617500,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:32:18.630460,Global IME Bank Limited
+2026041601021480,GBIME,45,35,80,238.5,19080.0,2026-04-16,186617830,341,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:32:50.337997,Global IME Bank Limited
+2026041601021579,GBIME,76,35,150,238.5,35775.0,2026-04-16,186618234,341,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:33:30.383408,Global IME Bank Limited
+2026041601021650,GBIME,22,35,500,238.5,119250.0,2026-04-16,186618528,341,Siprabi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:33:55.735877,Global IME Bank Limited
+2026041601021659,GBIME,58,35,40,238.5,9540.0,2026-04-16,186618572,341,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:34:03.462389,Global IME Bank Limited
+2026041601021885,GBIME,48,35,105,238.5,25042.5,2026-04-16,186619733,341,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:35:36.121554,Global IME Bank Limited
+2026041601021886,GBIME,48,48,30,238.5,7155.0,2026-04-16,186619735,341,Trishakti Securities Public Limited,Trishakti Securities Public Limited,2026-04-16 12:35:36.121955,Global IME Bank Limited
+2026041601021916,GBIME,48,6,77,238.5,18364.5,2026-04-16,186619878,341,Trishakti Securities Public Limited,Agrawal Securities (PVT) Ltd.,2026-04-16 12:35:50.118935,Global IME Bank Limited
+2026041601022238,GBIME,71,6,144,238.4,34329.6,2026-04-16,186621039,341,SHUBHAKAMANA SECURITIES PVT. LTD,Agrawal Securities (PVT) Ltd.,2026-04-16 12:37:48.331543,Global IME Bank Limited
+2026041601022239,GBIME,71,44,191,238.9,45629.9,2026-04-16,186621042,341,SHUBHAKAMANA SECURITIES PVT. LTD,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:37:48.331582,Global IME Bank Limited
+2026041601022387,GBIME,57,16,25,238.8,5970.0,2026-04-16,186621646,341,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-16 12:38:58.041733,Global IME Bank Limited
+2026041601022388,GBIME,13,16,95,238.2,22629.0,2026-04-16,186621647,341,Thrive Brokerage House Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-16 12:38:58.042157,Global IME Bank Limited
+2026041601022436,GBIME,76,44,10,238.9,2389.0,2026-04-16,186621902,341,Machhapuchchhre Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:39:32.570649,Global IME Bank Limited
+2026041601024019,GBIME,71,44,99,238.9,23651.1,2026-04-16,186627625,341,SHUBHAKAMANA SECURITIES PVT. LTD,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:47:44.838321,Global IME Bank Limited
+2026041601024020,GBIME,71,16,100,239.0,23900.0,2026-04-16,186627627,341,SHUBHAKAMANA SECURITIES PVT. LTD,Primo Securities (PVT) Ltd.,2026-04-16 12:47:44.838439,Global IME Bank Limited
+2026041601024021,GBIME,71,17,301,239.0,71939.0,2026-04-16,186627630,341,SHUBHAKAMANA SECURITIES PVT. LTD,ABC Securities Private Limited,2026-04-16 12:47:44.838523,Global IME Bank Limited
+2026041601024091,GBIME,76,17,398,239.0,95122.0,2026-04-16,186627884,341,Machhapuchchhre Securities Limited,ABC Securities Private Limited,2026-04-16 12:48:10.780553,Global IME Bank Limited
+2026041601024587,GBIME,13,17,100,239.0,23900.0,2026-04-16,186629786,341,Thrive Brokerage House Pvt. Ltd,ABC Securities Private Limited,2026-04-16 12:50:58.567634,Global IME Bank Limited
+2026041601024598,GBIME,76,17,100,239.0,23900.0,2026-04-16,186629820,341,Machhapuchchhre Securities Limited,ABC Securities Private Limited,2026-04-16 12:51:02.836765,Global IME Bank Limited
+2026041601024665,GBIME,76,17,200,239.0,47800.0,2026-04-16,186630010,341,Machhapuchchhre Securities Limited,ABC Securities Private Limited,2026-04-16 12:51:22.270149,Global IME Bank Limited
+2026041601024741,GBIME,76,17,300,239.0,71700.0,2026-04-16,186630306,341,Machhapuchchhre Securities Limited,ABC Securities Private Limited,2026-04-16 12:51:52.768571,Global IME Bank Limited
+2026041601024908,GBIME,76,17,150,239.0,35850.0,2026-04-16,186630944,341,Machhapuchchhre Securities Limited,ABC Securities Private Limited,2026-04-16 12:52:54.984939,Global IME Bank Limited
+2026041601024981,GBIME,76,17,200,239.0,47800.0,2026-04-16,186631200,341,Machhapuchchhre Securities Limited,ABC Securities Private Limited,2026-04-16 12:53:17.809477,Global IME Bank Limited
+2026041601025064,GBIME,8,80,200,238.7,47740.0,2026-04-16,186631590,341,Brilliant Securities Pvt. Ltd.,Indira securities pvt. ltd,2026-04-16 12:53:50.405481,Global IME Bank Limited
+2026041601025065,GBIME,26,80,800,238.6,190880.0,2026-04-16,186631591,341,Asian Securities Private Ltd.,Indira securities pvt. ltd,2026-04-16 12:53:50.405706,Global IME Bank Limited
+2026041601025322,GBIME,34,17,100,239.0,23900.0,2026-04-16,186632190,341,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-16 12:54:07.749719,Global IME Bank Limited
+2026041601025334,GBIME,76,17,151,239.0,36089.0,2026-04-16,186632263,341,Machhapuchchhre Securities Limited,ABC Securities Private Limited,2026-04-16 12:54:15.058756,Global IME Bank Limited
+2026041601025335,GBIME,76,5,49,239.0,11711.0,2026-04-16,186632266,341,Machhapuchchhre Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:54:15.058857,Global IME Bank Limited
+2026041601025381,GBIME,26,42,200,238.6,47720.0,2026-04-16,186632506,341,Asian Securities Private Ltd.,Sani Securities Company Ltd.,2026-04-16 12:54:38.334941,Global IME Bank Limited
+2026041601025382,GBIME,7,42,100,238.5,23850.0,2026-04-16,186632508,341,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 12:54:38.335367,Global IME Bank Limited
+2026041601025383,GBIME,44,42,20,238.5,4770.0,2026-04-16,186632510,341,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:54:38.335632,Global IME Bank Limited
+2026041601025384,GBIME,58,42,200,238.5,47700.0,2026-04-16,186632512,341,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:54:38.335891,Global IME Bank Limited
+2026041601025385,GBIME,49,42,50,238.5,11925.0,2026-04-16,186632514,341,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:54:38.336162,Global IME Bank Limited
+2026041601025386,GBIME,49,42,126,238.5,30051.0,2026-04-16,186632515,341,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:54:38.336436,Global IME Bank Limited
+2026041601025396,GBIME,71,5,201,239.0,48039.0,2026-04-16,186632563,341,SHUBHAKAMANA SECURITIES PVT. LTD,Market Securities & Exchange (PVT) Ltd.,2026-04-16 12:54:46.489409,Global IME Bank Limited
+2026041601025397,GBIME,71,44,799,239.0,190961.0,2026-04-16,186632566,341,SHUBHAKAMANA SECURITIES PVT. LTD,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:54:46.489513,Global IME Bank Limited
+2026041601025475,GBIME,58,44,10,239.0,2390.0,2026-04-16,186632888,341,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:55:20.508144,Global IME Bank Limited
+2026041601026231,GBIME,59,44,10,239.0,2390.0,2026-04-16,186636104,341,Deevyaa Securities & Stock House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:01:16.878183,Global IME Bank Limited
+2026041601026673,GBIME,34,29,100,239.0,23900.0,2026-04-16,186637989,341,Vision Securities Pvt. Ltd,Trisul Securities & Invt. Ltd.,2026-04-16 13:04:17.968672,Global IME Bank Limited
+2026041601026674,GBIME,34,3,10,239.0,2390.0,2026-04-16,186637991,341,Vision Securities Pvt. Ltd,Arun Securities (PVT) Ltd.,2026-04-16 13:04:17.968929,Global IME Bank Limited
+2026041601026675,GBIME,34,59,100,239.0,23900.0,2026-04-16,186637994,341,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:04:17.969053,Global IME Bank Limited
+2026041601027626,GBIME,49,74,200,238.5,47700.0,2026-04-16,186642759,341,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:09:48.172805,Global IME Bank Limited
+2026041601027679,GBIME,34,45,30,239.0,7170.0,2026-04-16,186643152,341,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:10:06.945269,Global IME Bank Limited
+2026041601027712,GBIME,49,53,174,238.5,41499.0,2026-04-16,186643276,341,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:11.500017,Global IME Bank Limited
+2026041601027756,GBIME,13,53,361,238.2,85990.2,2026-04-16,186643494,341,Thrive Brokerage House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:25.866822,Global IME Bank Limited
+2026041601027757,GBIME,34,53,500,238.1,119050.0,2026-04-16,186643496,341,Vision Securities Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:25.867082,Global IME Bank Limited
+2026041601027758,GBIME,16,53,300,238.1,71430.0,2026-04-16,186643498,341,Primo Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:25.867186,Global IME Bank Limited
+2026041601027788,GBIME,81,53,530,238.0,126140.0,2026-04-16,186643694,341,Aakashbhairab Securities Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.421568,Global IME Bank Limited
+2026041601027789,GBIME,58,53,52,238.0,12376.0,2026-04-16,186643696,341,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.421884,Global IME Bank Limited
+2026041601027790,GBIME,42,53,200,238.0,47600.0,2026-04-16,186643698,341,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.421983,Global IME Bank Limited
+2026041601027791,GBIME,38,53,11,238.0,2618.0,2026-04-16,186643700,341,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422084,Global IME Bank Limited
+2026041601027792,GBIME,58,53,90,238.0,21420.0,2026-04-16,186643702,341,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422176,Global IME Bank Limited
+2026041601027793,GBIME,57,53,20,238.0,4760.0,2026-04-16,186643704,341,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422271,Global IME Bank Limited
+2026041601027794,GBIME,42,53,20,238.0,4760.0,2026-04-16,186643706,341,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422370,Global IME Bank Limited
+2026041601027795,GBIME,39,53,10,238.0,2380.0,2026-04-16,186643708,341,Sumeru Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422468,Global IME Bank Limited
+2026041601027796,GBIME,42,53,50,238.0,11900.0,2026-04-16,186643710,341,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422559,Global IME Bank Limited
+2026041601027797,GBIME,14,53,20,238.0,4760.0,2026-04-16,186643712,341,Nepal Stock House (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422649,Global IME Bank Limited
+2026041601027798,GBIME,75,53,53,238.0,12614.0,2026-04-16,186643714,341,N.I.M.B. Stock Markets Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422740,Global IME Bank Limited
+2026041601027799,GBIME,58,53,200,238.0,47600.0,2026-04-16,186643716,341,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422830,Global IME Bank Limited
+2026041601027800,GBIME,85,53,744,238.0,177072.0,2026-04-16,186643717,341,Capital Hub P. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:35.422926,Global IME Bank Limited
+2026041601027823,GBIME,85,53,256,238.0,60928.0,2026-04-16,186643840,341,Capital Hub P. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:44.536953,Global IME Bank Limited
+2026041601027824,GBIME,52,53,100,238.0,23800.0,2026-04-16,186643842,341,Sundhara Securities Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:44.537233,Global IME Bank Limited
+2026041601027825,GBIME,44,53,198,238.0,47124.0,2026-04-16,186643844,341,Dynamic Money Managers Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:44.537344,Global IME Bank Limited
+2026041601027826,GBIME,85,53,1000,238.0,238000.0,2026-04-16,186643846,341,Capital Hub P. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:44.537437,Global IME Bank Limited
+2026041601027827,GBIME,58,53,145,238.0,34510.0,2026-04-16,186643848,341,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:10:44.537529,Global IME Bank Limited
+2026041601028163,GBIME,16,53,300,237.9,71370.0,2026-04-16,186645849,341,Primo Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:12:22.386585,Global IME Bank Limited
+2026041601028259,GBIME,29,53,2000,237.6,475200.0,2026-04-16,186646449,341,Trisul Securities & Invt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:12:56.832599,Global IME Bank Limited
+2026041601028315,GBIME,29,14,18,237.6,4276.8,2026-04-16,186646933,341,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:13:22.211212,Global IME Bank Limited
+2026041601028909,GBIME,29,34,482,237.6,114523.2,2026-04-16,186651044,341,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:16:51.163654,Global IME Bank Limited
+2026041601029101,GBIME,44,53,1000,237.5,237500.0,2026-04-16,186652312,341,Dynamic Money Managers Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:17:52.631557,Global IME Bank Limited
+2026041601029102,GBIME,42,53,100,237.5,23750.0,2026-04-16,186652314,341,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:17:52.631791,Global IME Bank Limited
+2026041601029103,GBIME,32,53,400,237.5,95000.0,2026-04-16,186652315,341,Premier Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:17:52.631881,Global IME Bank Limited
+2026041601029576,GBIME,32,49,18,237.5,4275.0,2026-04-16,186655507,341,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:20:15.201806,Global IME Bank Limited
+2026041601029672,GBIME,32,49,82,237.5,19475.0,2026-04-16,186656324,341,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:20:50.629799,Global IME Bank Limited
+2026041601029673,GBIME,58,49,18,237.5,4275.0,2026-04-16,186656325,341,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:20:50.630018,Global IME Bank Limited
+2026041601029756,GBIME,7,34,15,237.6,3564.0,2026-04-16,186656850,341,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:21:13.593278,Global IME Bank Limited
+2026041601029762,GBIME,58,29,40,237.5,9500.0,2026-04-16,186656861,341,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 13:21:14.219053,Global IME Bank Limited
+2026041601029863,GBIME,58,48,42,237.5,9975.0,2026-04-16,186657406,341,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-16 13:21:39.782657,Global IME Bank Limited
+2026041601030107,GBIME,1,7,50,237.6,11880.0,2026-04-16,186658980,341,Kumari Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-16 13:22:58.912405,Global IME Bank Limited
+2026041601030108,GBIME,38,7,451,237.5,107112.5,2026-04-16,186658981,341,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 13:22:58.912834,Global IME Bank Limited
+2026041601030183,GBIME,1,22,50,237.6,11880.0,2026-04-16,186659401,341,Kumari Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 13:23:22.693564,Global IME Bank Limited
+2026041601030184,GBIME,1,53,301,238.0,71638.0,2026-04-16,186659403,341,Kumari Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:23:22.694021,Global IME Bank Limited
+2026041601030185,GBIME,1,49,73,238.0,17374.0,2026-04-16,186659406,341,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 13:23:22.694312,Global IME Bank Limited
+2026041601030355,GBIME,76,49,50,238.0,11900.0,2026-04-16,186660313,341,Machhapuchchhre Securities Limited,Online Securities Pvt. Ltd.,2026-04-16 13:24:11.721861,Global IME Bank Limited
+2026041601030356,GBIME,76,53,39,238.1,9285.9,2026-04-16,186660315,341,Machhapuchchhre Securities Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:24:11.721924,Global IME Bank Limited
+2026041601030357,GBIME,76,53,111,238.5,26473.5,2026-04-16,186660318,341,Machhapuchchhre Securities Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:24:11.721951,Global IME Bank Limited
+2026041601030704,GBIME,42,53,10,238.5,2385.0,2026-04-16,186662326,341,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:26:11.868396,Global IME Bank Limited
+2026041601030982,GBIME,76,53,200,238.8,47760.0,2026-04-16,186663774,341,Machhapuchchhre Securities Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:27:46.315075,Global IME Bank Limited
+2026041601031216,GBIME,42,22,16,238.8,3820.8,2026-04-16,186664858,341,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 13:29:17.369538,Global IME Bank Limited
+2026041601032197,GBIME,58,68,10,238.7,2387.0,2026-04-16,186668908,341,Naasa Securities Co. Ltd.,Elite Stock House Limited,2026-04-16 13:33:15.797872,Global IME Bank Limited
+2026041601032464,GBIME,54,58,100,238.5,23850.0,2026-04-16,186670482,341,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:34:46.983697,Global IME Bank Limited
+2026041601032914,GBIME,45,35,25,238.5,5962.5,2026-04-16,186673190,341,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:37:19.524491,Global IME Bank Limited
+2026041601032915,GBIME,34,35,65,238.5,15502.5,2026-04-16,186673192,341,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:37:19.525076,Global IME Bank Limited
+2026041601032917,GBIME,48,35,20,238.5,4770.0,2026-04-16,186673196,341,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:37:19.794231,Global IME Bank Limited
+2026041601033053,GBIME,34,49,30,238.0,7140.0,2026-04-16,186674144,341,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-16 13:38:03.275811,Global IME Bank Limited
+2026041601033054,GBIME,58,49,50,238.0,11900.0,2026-04-16,186674145,341,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:38:03.276250,Global IME Bank Limited
+2026041601033106,GBIME,58,74,80,238.0,19040.0,2026-04-16,186674334,341,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:38:11.178169,Global IME Bank Limited
+2026041601033188,GBIME,89,74,20,238.0,4760.0,2026-04-16,186674775,341,Global IME Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:38:31.107677,Global IME Bank Limited
+2026041601033189,GBIME,89,35,10,238.5,2385.0,2026-04-16,186674778,341,Global IME Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:38:31.108150,Global IME Bank Limited
+2026041601033905,GBIME,42,35,23,238.5,5485.5,2026-04-16,186678518,341,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:42:18.623304,Global IME Bank Limited
+2026041601034736,GBIME,57,42,100,238.0,23800.0,2026-04-16,186682766,341,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-16 13:48:11.602602,Global IME Bank Limited
+2026041601034737,GBIME,14,42,20,238.0,4760.0,2026-04-16,186682768,341,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 13:48:11.603190,Global IME Bank Limited
+2026041601034744,GBIME,42,42,30,238.0,7140.0,2026-04-16,186682847,341,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 13:48:17.442992,Global IME Bank Limited
+2026041601035026,GBIME,59,74,40,238.0,9520.0,2026-04-16,186684182,341,Deevyaa Securities & Stock House Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:21.312756,Global IME Bank Limited
+2026041601035027,GBIME,77,74,25,237.6,5940.0,2026-04-16,186684184,341,Nabil Stock Dealer Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:21.313242,Global IME Bank Limited
+2026041601035028,GBIME,74,74,10,237.6,2376.0,2026-04-16,186684186,341,KALASH STOCK MARKET PVT. LTD.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:21.313532,Global IME Bank Limited
+2026041601035029,GBIME,38,74,49,237.5,11637.5,2026-04-16,186684188,341,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:21.313809,Global IME Bank Limited
+2026041601035030,GBIME,46,74,30,237.5,7125.0,2026-04-16,186684190,341,Kalika Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:21.314089,Global IME Bank Limited
+2026041601035031,GBIME,76,74,20,237.5,4750.0,2026-04-16,186684192,341,Machhapuchchhre Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:21.314358,Global IME Bank Limited
+2026041601035032,GBIME,10,74,22,237.5,5225.0,2026-04-16,186684194,341,Pragyan Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:21.314608,Global IME Bank Limited
+2026041601035116,GBIME,33,53,50,238.0,11900.0,2026-04-16,186684570,341,Dakshinkali Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:51:03.698286,Global IME Bank Limited
+2026041601035453,GBIME,42,53,30,238.0,7140.0,2026-04-16,186686243,341,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:53:44.289112,Global IME Bank Limited
+2026041601035606,GBIME,42,53,200,238.0,47600.0,2026-04-16,186686947,341,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:54:46.923968,Global IME Bank Limited
+2026041601035660,GBIME,42,48,40,238.0,9520.0,2026-04-16,186687209,341,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-16 13:55:12.551625,Global IME Bank Limited
+2026041601035821,GBIME,42,16,310,238.0,73780.0,2026-04-16,186687934,341,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 13:56:34.994377,Global IME Bank Limited
+2026041601035833,GBIME,34,16,25,238.0,5950.0,2026-04-16,186688026,341,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-16 13:56:45.693696,Global IME Bank Limited
+2026041601036049,GBIME,77,16,170,238.0,40460.0,2026-04-16,186689045,341,Nabil Stock Dealer Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 13:58:47.506583,Global IME Bank Limited
+2026041601036050,GBIME,77,5,30,238.0,7140.0,2026-04-16,186689048,341,Nabil Stock Dealer Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:58:47.507095,Global IME Bank Limited
+2026041601036072,GBIME,22,42,106,237.5,25175.0,2026-04-16,186689149,341,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:58:55.936337,Global IME Bank Limited
+2026041601036233,GBIME,22,58,62,237.5,14725.0,2026-04-16,186689919,341,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:59:57.504540,Global IME Bank Limited
+2026041601036387,GBIME,25,5,30,238.0,7140.0,2026-04-16,186690839,341,Sweta Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-16 14:01:22.488916,Global IME Bank Limited
+2026041601036388,GBIME,25,16,50,238.0,11900.0,2026-04-16,186690841,341,Sweta Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-16 14:01:22.489453,Global IME Bank Limited
+2026041601036557,GBIME,25,38,680,238.0,161840.0,2026-04-16,186691663,341,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:02:29.193436,Global IME Bank Limited
+2026041601036588,GBIME,25,26,150,238.0,35700.0,2026-04-16,186691849,341,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-16 14:02:45.429829,Global IME Bank Limited
+2026041601036667,GBIME,25,46,53,238.0,12614.0,2026-04-16,186692161,341,Sweta Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-16 14:03:12.523363,Global IME Bank Limited
+2026041601036835,GBIME,25,49,50,238.2,11910.0,2026-04-16,186692855,341,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 14:03:59.888825,Global IME Bank Limited
+2026041601036889,GBIME,25,49,50,238.2,11910.0,2026-04-16,186693083,341,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 14:04:19.989127,Global IME Bank Limited
+2026041601036954,GBIME,22,22,261,238.3,62196.3,2026-04-16,186693318,341,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:04:36.123662,Global IME Bank Limited
+2026041601037356,GBIME,42,68,500,238.2,119100.0,2026-04-16,186695572,341,Sani Securities Company Ltd.,Elite Stock House Limited,2026-04-16 14:07:20.458988,Global IME Bank Limited
+2026041601037574,GBIME,76,44,20,238.2,4764.0,2026-04-16,186696568,341,Machhapuchchhre Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:09:05.830081,Global IME Bank Limited
+2026041601037730,GBIME,76,44,200,238.2,47640.0,2026-04-16,186697150,341,Machhapuchchhre Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:09:48.859133,Global IME Bank Limited
+2026041601037742,GBIME,48,34,21,238.1,5000.1,2026-04-16,186697212,341,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-16 14:09:54.548851,Global IME Bank Limited
+2026041601037766,GBIME,76,34,150,238.1,35715.0,2026-04-16,186697346,341,Machhapuchchhre Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 14:10:07.704233,Global IME Bank Limited
+2026041601037794,GBIME,25,34,829,238.0,197302.0,2026-04-16,186697477,341,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 14:10:18.869756,Global IME Bank Limited
+2026041601037804,GBIME,76,44,200,238.2,47640.0,2026-04-16,186697516,341,Machhapuchchhre Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:10:23.273186,Global IME Bank Limited
+2026041601037830,GBIME,25,26,350,238.0,83300.0,2026-04-16,186697637,341,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-16 14:10:36.183316,Global IME Bank Limited
+2026041601037949,GBIME,25,26,154,238.0,36652.0,2026-04-16,186698345,341,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-16 14:11:39.233410,Global IME Bank Limited
+2026041601038045,GBIME,76,44,150,238.2,35730.0,2026-04-16,186698700,341,Machhapuchchhre Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:12:00.583270,Global IME Bank Limited
+2026041601038111,GBIME,76,44,200,238.2,47640.0,2026-04-16,186699116,341,Machhapuchchhre Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:12:42.610849,Global IME Bank Limited
+2026041601038120,GBIME,25,46,434,238.0,103292.0,2026-04-16,186699153,341,Sweta Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-16 14:12:46.532328,Global IME Bank Limited
+2026041601038130,GBIME,76,44,200,238.2,47640.0,2026-04-16,186699182,341,Machhapuchchhre Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:12:50.293205,Global IME Bank Limited
+2026041601038169,GBIME,49,44,30,238.2,7146.0,2026-04-16,186699535,341,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:13:12.458567,Global IME Bank Limited
+2026041601038170,GBIME,49,22,315,238.3,75064.5,2026-04-16,186699538,341,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:13:12.458878,Global IME Bank Limited
+2026041601038361,GBIME,49,68,200,238.2,47640.0,2026-04-16,186700502,341,Online Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-16 14:14:50.922381,Global IME Bank Limited
+2026041601038388,GBIME,25,19,70,238.0,16660.0,2026-04-16,186700611,341,Sweta Securities Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:15:05.817041,Global IME Bank Limited
+2026041601038418,GBIME,19,68,50,238.2,11910.0,2026-04-16,186700698,341,Nepal Investment And Securities Trading Private Limited,Elite Stock House Limited,2026-04-16 14:15:16.266189,Global IME Bank Limited
+2026041601038622,GBIME,76,22,200,238.3,47660.0,2026-04-16,186701576,341,Machhapuchchhre Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 14:16:33.098776,Global IME Bank Limited
+2026041601038646,GBIME,1,51,300,238.2,71460.0,2026-04-16,186701687,341,Kumari Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-16 14:16:45.915894,Global IME Bank Limited
+2026041601038987,GBIME,25,58,65,238.0,15470.0,2026-04-16,186703175,341,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 14:19:25.955129,Global IME Bank Limited
+2026041601039046,GBIME,22,21,100,238.1,23810.0,2026-04-16,186703506,341,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:20:09.052645,Global IME Bank Limited
+2026041601039047,GBIME,25,21,1270,238.0,302260.0,2026-04-16,186703507,341,Sweta Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 14:20:09.052891,Global IME Bank Limited
+2026041601039156,GBIME,19,22,12,238.3,2859.6,2026-04-16,186704042,341,Nepal Investment And Securities Trading Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 14:21:03.259550,Global IME Bank Limited
+2026041601039561,GBIME,25,34,55,238.0,13090.0,2026-04-16,186705869,341,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 14:23:41.166688,Global IME Bank Limited
+2026041601039667,GBIME,25,41,50,238.0,11900.0,2026-04-16,186706325,341,Sweta Securities Private Limited,Linch Stock Market Ltd.,2026-04-16 14:24:32.611601,Global IME Bank Limited
+2026041601039787,GBIME,25,33,760,238.0,180880.0,2026-04-16,186706880,341,Sweta Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:25:20.615991,Global IME Bank Limited
+2026041601039788,GBIME,44,33,25,238.0,5950.0,2026-04-16,186706882,341,Dynamic Money Managers Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:25:20.616498,Global IME Bank Limited
+2026041601039789,GBIME,36,33,215,238.0,51170.0,2026-04-16,186706883,341,Secured Securities Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:25:20.616802,Global IME Bank Limited
+2026041601040007,GBIME,36,42,15,238.0,3570.0,2026-04-16,186707622,341,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 14:26:17.857892,Global IME Bank Limited
+2026041601040008,GBIME,49,42,188,238.0,44744.0,2026-04-16,186707624,341,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:26:17.858398,Global IME Bank Limited
+2026041601040009,GBIME,58,42,17,238.0,4046.0,2026-04-16,186707625,341,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:26:17.858697,Global IME Bank Limited
+2026041601040010,GBIME,58,43,2,238.0,476.0,2026-04-16,186707627,341,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:26:17.858996,Global IME Bank Limited
+2026041601040443,GBIME,37,45,100,238.0,23800.0,2026-04-16,186709259,341,Swarna Laxmi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:27:38.450218,Global IME Bank Limited
+2026041601041297,GBIME,37,26,15,238.0,3570.0,2026-04-16,186711671,341,Swarna Laxmi Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 14:29:41.454195,Global IME Bank Limited
+2026041601041553,GBIME,32,22,196,238.3,46706.8,2026-04-16,186712723,341,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:30:55.919198,Global IME Bank Limited
+2026041601042124,GBIME,46,3,20,238.3,4766.0,2026-04-16,186714377,341,Kalika Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 14:32:02.800852,Global IME Bank Limited
+2026041601042343,GBIME,32,42,100,238.4,23840.0,2026-04-16,186715238,341,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 14:32:55.200872,Global IME Bank Limited
+2026041601042557,GBIME,94,35,200,238.5,47700.0,2026-04-16,186716046,341,K.B.L. Securities Limited ,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:33:53.647180,Global IME Bank Limited
+2026041601042686,GBIME,46,58,10,238.3,2383.0,2026-04-16,186716616,341,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:34:30.834203,Global IME Bank Limited
+2026041601042687,GBIME,37,58,121,238.0,28798.0,2026-04-16,186716617,341,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:34:30.834491,Global IME Bank Limited
+2026041601042697,GBIME,37,56,53,238.0,12614.0,2026-04-16,186716685,341,Swarna Laxmi Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:34:36.543479,Global IME Bank Limited
+2026041601042714,GBIME,37,29,100,238.0,23800.0,2026-04-16,186716721,341,Swarna Laxmi Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:34:39.166573,Global IME Bank Limited
+2026041601042766,GBIME,32,58,100,238.1,23810.0,2026-04-16,186716967,341,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:34:59.117972,Global IME Bank Limited
+2026041601043116,GBIME,28,49,50,238.2,11910.0,2026-04-16,186718816,341,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:37:01.009290,Global IME Bank Limited
+2026041601043117,GBIME,29,49,393,238.2,93612.6,2026-04-16,186718817,341,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:37:01.009743,Global IME Bank Limited
+2026041601043280,GBIME,29,25,100,238.2,23820.0,2026-04-16,186719541,341,Trisul Securities & Invt. Ltd.,Sweta Securities Private Limited,2026-04-16 14:37:55.007141,Global IME Bank Limited
+2026041601044035,GBIME,32,45,200,238.3,47660.0,2026-04-16,186723691,341,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:42:16.297558,Global IME Bank Limited
+2026041601044169,GBIME,22,68,450,238.4,107280.0,2026-04-16,186724201,341,Siprabi Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-16 14:42:44.346866,Global IME Bank Limited
+2026041601044170,GBIME,22,35,50,238.5,11925.0,2026-04-16,186724204,341,Siprabi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:42:44.347330,Global IME Bank Limited
+2026041601044618,GBIME,58,35,50,238.5,11925.0,2026-04-16,186726140,341,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:44:21.346681,Global IME Bank Limited
+2026041601044678,GBIME,32,26,100,238.3,23830.0,2026-04-16,186726536,341,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-16 14:44:33.608888,Global IME Bank Limited
+2026041601044679,GBIME,57,26,50,238.3,11915.0,2026-04-16,186726538,341,Aryatara Investment & Securities,Asian Securities Private Ltd.,2026-04-16 14:44:33.609182,Global IME Bank Limited
+2026041601044680,GBIME,29,26,1007,238.2,239867.4,2026-04-16,186726540,341,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-16 14:44:33.609284,Global IME Bank Limited
+2026041601044681,GBIME,46,26,199,238.2,47401.8,2026-04-16,186726542,341,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 14:44:33.609386,Global IME Bank Limited
+2026041601044682,GBIME,58,26,300,238.2,71460.0,2026-04-16,186726544,341,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 14:44:33.609509,Global IME Bank Limited
+2026041601044683,GBIME,4,26,1000,238.2,238200.0,2026-04-16,186726546,341,Opal Securities Investment (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-16 14:44:33.609646,Global IME Bank Limited
+2026041601044684,GBIME,37,26,344,238.0,81872.0,2026-04-16,186726547,341,Swarna Laxmi Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 14:44:33.609746,Global IME Bank Limited
+2026041601045056,GBIME,57,13,50,238.1,11905.0,2026-04-16,186728505,341,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:46:21.932425,Global IME Bank Limited
+2026041601045433,GBIME,96,42,100,238.3,23830.0,2026-04-16,186730764,341,Himalayan Securities Limited,Sani Securities Company Ltd.,2026-04-16 14:48:16.286310,Global IME Bank Limited
+2026041601045457,GBIME,57,50,10,238.1,2381.0,2026-04-16,186730885,341,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 14:48:21.628786,Global IME Bank Limited
+2026041601045674,GBIME,57,22,60,238.1,14286.0,2026-04-16,186732001,341,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-16 14:49:17.149975,Global IME Bank Limited
+2026041601045750,GBIME,57,49,20,238.1,4762.0,2026-04-16,186732464,341,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-16 14:49:37.633581,Global IME Bank Limited
+2026041601045751,GBIME,44,49,30,238.1,7143.0,2026-04-16,186732465,341,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:49:37.633944,Global IME Bank Limited
+2026041601045840,GBIME,44,41,27,238.1,6428.7,2026-04-16,186732976,341,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.096184,Global IME Bank Limited
+2026041601045841,GBIME,37,41,267,238.0,63546.0,2026-04-16,186732978,341,Swarna Laxmi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.096437,Global IME Bank Limited
+2026041601045842,GBIME,89,41,50,238.0,11900.0,2026-04-16,186732980,341,Global IME Securities Limited,Linch Stock Market Ltd.,2026-04-16 14:50:03.096543,Global IME Bank Limited
+2026041601045843,GBIME,42,41,92,238.0,21896.0,2026-04-16,186732982,341,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.096652,Global IME Bank Limited
+2026041601045844,GBIME,19,41,130,238.0,30940.0,2026-04-16,186732984,341,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-16 14:50:03.096761,Global IME Bank Limited
+2026041601045845,GBIME,38,41,50,238.0,11900.0,2026-04-16,186732986,341,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.096857,Global IME Bank Limited
+2026041601045846,GBIME,22,41,500,238.0,119000.0,2026-04-16,186732988,341,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.096953,Global IME Bank Limited
+2026041601045847,GBIME,49,41,250,238.0,59500.0,2026-04-16,186732990,341,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.097071,Global IME Bank Limited
+2026041601045848,GBIME,80,41,20,238.0,4760.0,2026-04-16,186732992,341,Indira securities pvt. ltd,Linch Stock Market Ltd.,2026-04-16 14:50:03.097167,Global IME Bank Limited
+2026041601045849,GBIME,50,41,105,238.0,24990.0,2026-04-16,186732994,341,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.097267,Global IME Bank Limited
+2026041601045850,GBIME,42,41,1000,238.0,238000.0,2026-04-16,186732996,341,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.097360,Global IME Bank Limited
+2026041601045851,GBIME,57,41,50,237.9,11895.0,2026-04-16,186732998,341,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-16 14:50:03.097465,Global IME Bank Limited
+2026041601045852,GBIME,58,41,211,237.9,50196.9,2026-04-16,186733000,341,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.097588,Global IME Bank Limited
+2026041601045853,GBIME,48,41,12,237.8,2853.6,2026-04-16,186733002,341,Trishakti Securities Public Limited,Linch Stock Market Ltd.,2026-04-16 14:50:03.097713,Global IME Bank Limited
+2026041601045854,GBIME,42,41,250,237.8,59450.0,2026-04-16,186733004,341,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.097809,Global IME Bank Limited
+2026041601045855,GBIME,45,41,986,237.6,234273.6,2026-04-16,186733005,341,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:50:03.097918,Global IME Bank Limited
+2026041601046068,GBIME,64,22,5,233.5,1167.5,2026-04-16,186734051,341,SUN SECURITIES PVT LTD,Siprabi Securities Pvt. Ltd.,2026-04-16 14:50:53.838789,Global IME Bank Limited
+2026041601046197,GBIME,64,44,1,233.7,233.7,2026-04-16,186734753,341,SUN SECURITIES PVT LTD,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:51:28.815453,Global IME Bank Limited
+2026041601046304,GBIME,1,49,50,238.0,11900.0,2026-04-16,186735346,341,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 14:51:56.701972,Global IME Bank Limited
+2026041601046489,GBIME,6,25,100,238.1,23810.0,2026-04-16,186736312,341,Agrawal Securities (PVT) Ltd.,Sweta Securities Private Limited,2026-04-16 14:52:45.386657,Global IME Bank Limited
+2026041601047367,GBIME,34,57,10,238.2,2382.0,2026-04-16,186739238,341,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 14:54:09.118018,Global IME Bank Limited
+2026041601047529,GBIME,1,6,50,238.1,11905.0,2026-04-16,186740047,341,Kumari Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-16 14:54:40.878185,Global IME Bank Limited
+2026041601047660,GBIME,1,34,50,238.1,11905.0,2026-04-16,186740820,341,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 14:55:09.235372,Global IME Bank Limited
+2026041601047667,GBIME,6,34,50,238.1,11905.0,2026-04-16,186740857,341,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:55:11.821531,Global IME Bank Limited
+2026041601047668,GBIME,6,16,100,238.2,23820.0,2026-04-16,186740860,341,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 14:55:11.821813,Global IME Bank Limited
+2026041601047804,GBIME,58,34,100,238.0,23800.0,2026-04-16,186741588,341,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:55:40.063072,Global IME Bank Limited
+2026041601047818,GBIME,64,22,5,234.0,1170.0,2026-04-16,186741691,341,SUN SECURITIES PVT LTD,Siprabi Securities Pvt. Ltd.,2026-04-16 14:55:44.905748,Global IME Bank Limited
+2026041601047855,GBIME,58,94,20,237.7,4754.0,2026-04-16,186741910,341,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-16 14:55:52.361169,Global IME Bank Limited
+2026041601047856,GBIME,57,94,115,237.7,27335.5,2026-04-16,186741911,341,Aryatara Investment & Securities,K.B.L. Securities Limited ,2026-04-16 14:55:52.361361,Global IME Bank Limited
+2026041601047979,GBIME,89,34,40,238.0,9520.0,2026-04-16,186742684,341,Global IME Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 14:56:23.758528,Global IME Bank Limited
+2026041601048021,GBIME,35,34,10,238.0,2380.0,2026-04-16,186742922,341,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:56:31.470255,Global IME Bank Limited
+2026041601048072,GBIME,52,34,100,238.0,23800.0,2026-04-16,186743204,341,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 14:56:41.690353,Global IME Bank Limited
+2026041601048153,GBIME,57,4,61,237.7,14499.7,2026-04-16,186743669,341,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:56:58.345736,Global IME Bank Limited
+2026041601048281,GBIME,57,51,300,237.7,71310.0,2026-04-16,186744313,341,Aryatara Investment & Securities,Oxford Securities Pvt. Ltd.,2026-04-16 14:57:14.244364,Global IME Bank Limited
+2026041601048577,GBIME,58,58,10,238.0,2380.0,2026-04-16,186746216,341,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:58:09.541797,Global IME Bank Limited
+2026041601049166,GBIME,22,42,50,238.0,11900.0,2026-04-16,186749947,341,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:59:18.162426,Global IME Bank Limited
+2026041601049167,GBIME,22,34,100,238.1,23810.0,2026-04-16,186749949,341,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:59:18.162848,Global IME Bank Limited
+2026041601049168,GBIME,22,16,50,238.2,11910.0,2026-04-16,186749951,341,Siprabi Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 14:59:18.163180,Global IME Bank Limited
+2026041601049169,GBIME,22,42,800,238.3,190640.0,2026-04-16,186749954,341,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:59:18.163486,Global IME Bank Limited
+2026041601049267,GBIME,51,56,100,238.0,23800.0,2026-04-16,186750620,341,Oxford Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:59:26.105593,Global IME Bank Limited
+2026041601049305,GBIME,36,56,80,238.0,19040.0,2026-04-16,186750792,341,Secured Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:59:28.446632,Global IME Bank Limited
+2026041601049978,GBIME,29,56,320,238.0,76160.0,2026-04-16,186753641,341,Trisul Securities & Invt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:59:55.173721,Global IME Bank Limited
+2026041601049979,GBIME,29,42,20,238.0,4760.0,2026-04-16,186753643,341,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:59:55.173987,Global IME Bank Limited

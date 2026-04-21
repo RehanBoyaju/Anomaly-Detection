@@ -1,0 +1,548 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041704000284,HURJA,22,14,900,279.1,251190.0,2026-04-17,186757295,2824,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:03:18.498466,Himalaya Urja Bikas Company Limited
+2026041704000384,HURJA,36,49,10,280.0,2800.0,2026-04-17,186758489,2824,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:05:06.404987,Himalaya Urja Bikas Company Limited
+2026041704000555,HURJA,36,10,100,280.0,28000.0,2026-04-17,186759785,2824,Secured Securities Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 11:06:57.582754,Himalaya Urja Bikas Company Limited
+2026041704000687,HURJA,38,10,300,283.0,84900.0,2026-04-17,186760982,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 11:08:32.508860,Himalaya Urja Bikas Company Limited
+2026041704000728,HURJA,38,39,300,283.9,85170.0,2026-04-17,186761294,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:08:56.909812,Himalaya Urja Bikas Company Limited
+2026041704000877,HURJA,50,77,500,281.3,140650.0,2026-04-17,186762508,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:10:36.264685,Himalaya Urja Bikas Company Limited
+2026041704000878,HURJA,56,77,100,281.3,28130.0,2026-04-17,186762510,2824,Sri Hari Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:10:36.264796,Himalaya Urja Bikas Company Limited
+2026041704000879,HURJA,17,77,200,281.2,56240.0,2026-04-17,186762512,2824,ABC Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-17 11:10:36.264844,Himalaya Urja Bikas Company Limited
+2026041704000880,HURJA,50,77,200,281.1,56220.0,2026-04-17,186762514,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:10:36.264886,Himalaya Urja Bikas Company Limited
+2026041704000881,HURJA,53,77,5000,281.0,1405000.0,2026-04-17,186762515,2824,Investment Management Nepal Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:10:36.264933,Himalaya Urja Bikas Company Limited
+2026041704000891,HURJA,14,77,300,282.0,84600.0,2026-04-17,186762657,2824,Nepal Stock House (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:10:49.078796,Himalaya Urja Bikas Company Limited
+2026041704000917,HURJA,14,49,21,282.0,5922.0,2026-04-17,186762925,2824,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:11:07.060692,Himalaya Urja Bikas Company Limited
+2026041704001132,HURJA,16,34,20,283.7,5674.0,2026-04-17,186765253,2824,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-17 11:14:30.032587,Himalaya Urja Bikas Company Limited
+2026041704001133,HURJA,16,34,100,283.8,28380.0,2026-04-17,186765255,2824,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-17 11:14:30.032777,Himalaya Urja Bikas Company Limited
+2026041704001134,HURJA,16,34,500,283.8,141900.0,2026-04-17,186765257,2824,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-17 11:14:30.032911,Himalaya Urja Bikas Company Limited
+2026041704001135,HURJA,16,36,380,283.9,107882.0,2026-04-17,186765260,2824,Primo Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-17 11:14:30.033046,Himalaya Urja Bikas Company Limited
+2026041704001524,HURJA,42,58,20,281.0,5620.0,2026-04-17,186767826,2824,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:17:22.995722,Himalaya Urja Bikas Company Limited
+2026041704001583,HURJA,17,49,500,280.4,140200.0,2026-04-17,186768344,2824,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.959501,Himalaya Urja Bikas Company Limited
+2026041704001584,HURJA,34,49,35,280.3,9810.5,2026-04-17,186768346,2824,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.959642,Himalaya Urja Bikas Company Limited
+2026041704001585,HURJA,36,49,500,280.1,140050.0,2026-04-17,186768348,2824,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.959717,Himalaya Urja Bikas Company Limited
+2026041704001586,HURJA,29,49,200,280.1,56020.0,2026-04-17,186768350,2824,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.959790,Himalaya Urja Bikas Company Limited
+2026041704001587,HURJA,58,49,150,280.0,42000.0,2026-04-17,186768352,2824,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.959874,Himalaya Urja Bikas Company Limited
+2026041704001588,HURJA,43,49,50,280.0,14000.0,2026-04-17,186768354,2824,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.959950,Himalaya Urja Bikas Company Limited
+2026041704001589,HURJA,58,49,235,280.0,65800.0,2026-04-17,186768356,2824,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.960024,Himalaya Urja Bikas Company Limited
+2026041704001590,HURJA,84,49,100,280.0,28000.0,2026-04-17,186768358,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.960097,Himalaya Urja Bikas Company Limited
+2026041704001591,HURJA,52,49,430,280.0,120400.0,2026-04-17,186768359,2824,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-17 11:17:53.960165,Himalaya Urja Bikas Company Limited
+2026041704001633,HURJA,52,58,70,280.0,19600.0,2026-04-17,186768556,2824,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 11:18:03.395020,Himalaya Urja Bikas Company Limited
+2026041704001697,HURJA,22,57,88,279.1,24560.8,2026-04-17,186769424,2824,Siprabi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:18:47.641844,Himalaya Urja Bikas Company Limited
+2026041704001698,HURJA,26,57,100,279.1,27910.0,2026-04-17,186769426,2824,Asian Securities Private Ltd.,Aryatara Investment & Securities,2026-04-17 11:18:47.642097,Himalaya Urja Bikas Company Limited
+2026041704001699,HURJA,39,57,762,279.0,212598.0,2026-04-17,186769427,2824,Sumeru Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:18:47.642245,Himalaya Urja Bikas Company Limited
+2026041704001995,HURJA,39,58,238,279.0,66402.0,2026-04-17,186772408,2824,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:21:54.549268,Himalaya Urja Bikas Company Limited
+2026041704001996,HURJA,58,58,180,279.0,50220.0,2026-04-17,186772410,2824,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:21:54.549434,Himalaya Urja Bikas Company Limited
+2026041704001997,HURJA,71,58,192,279.0,53568.0,2026-04-17,186772411,2824,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,2026-04-17 11:21:54.549527,Himalaya Urja Bikas Company Limited
+2026041704002399,HURJA,71,38,200,279.0,55800.0,2026-04-17,186776155,2824,SHUBHAKAMANA SECURITIES PVT. LTD,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 11:25:29.591552,Himalaya Urja Bikas Company Limited
+2026041704002533,HURJA,71,36,100,279.0,27900.0,2026-04-17,186777907,2824,SHUBHAKAMANA SECURITIES PVT. LTD,Secured Securities Ltd.,2026-04-17 11:27:30.678621,Himalaya Urja Bikas Company Limited
+2026041704002627,HURJA,25,57,100,278.0,27800.0,2026-04-17,186779197,2824,Sweta Securities Private Limited,Aryatara Investment & Securities,2026-04-17 11:28:55.595091,Himalaya Urja Bikas Company Limited
+2026041704002725,HURJA,42,40,780,278.5,217230.0,2026-04-17,186780537,2824,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:30:27.188895,Himalaya Urja Bikas Company Limited
+2026041704002757,HURJA,42,40,15,278.5,4177.5,2026-04-17,186780702,2824,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:30:36.794003,Himalaya Urja Bikas Company Limited
+2026041704002758,HURJA,25,40,400,278.0,111200.0,2026-04-17,186780704,2824,Sweta Securities Private Limited,Creative Securities Pvt Ltd,2026-04-17 11:30:36.794073,Himalaya Urja Bikas Company Limited
+2026041704002759,HURJA,19,40,85,278.0,23630.0,2026-04-17,186780705,2824,Nepal Investment And Securities Trading Private Limited,Creative Securities Pvt Ltd,2026-04-17 11:30:36.794122,Himalaya Urja Bikas Company Limited
+2026041704002849,HURJA,19,34,15,278.0,4170.0,2026-04-17,186781946,2824,Nepal Investment And Securities Trading Private Limited,Vision Securities Pvt. Ltd,2026-04-17 11:31:49.647335,Himalaya Urja Bikas Company Limited
+2026041704002850,HURJA,28,34,85,278.0,23630.0,2026-04-17,186781947,2824,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-17 11:31:49.647645,Himalaya Urja Bikas Company Limited
+2026041704002860,HURJA,28,40,415,278.0,115370.0,2026-04-17,186782030,2824,Shree Krishna Securities Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:31:58.368123,Himalaya Urja Bikas Company Limited
+2026041704002861,HURJA,42,40,20,278.0,5560.0,2026-04-17,186782031,2824,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:31:58.368276,Himalaya Urja Bikas Company Limited
+2026041704002862,HURJA,25,88,20,279.1,5582.0,2026-04-17,186782037,2824,Sweta Securities Private Limited,Blue Chip Securities Ltd,2026-04-17 11:31:59.207182,Himalaya Urja Bikas Company Limited
+2026041704002863,HURJA,25,54,18,280.0,5040.0,2026-04-17,186782040,2824,Sweta Securities Private Limited,Sewa Securities Pvt. Ltd.,2026-04-17 11:31:59.207434,Himalaya Urja Bikas Company Limited
+2026041704002920,HURJA,43,37,100,277.4,27740.0,2026-04-17,186782593,2824,South Asian Bulls Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 11:32:35.871758,Himalaya Urja Bikas Company Limited
+2026041704002939,HURJA,22,37,100,277.1,27710.0,2026-04-17,186782865,2824,Siprabi Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 11:32:52.712660,Himalaya Urja Bikas Company Limited
+2026041704003116,HURJA,22,40,400,277.1,110840.0,2026-04-17,186785068,2824,Siprabi Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:35:13.063446,Himalaya Urja Bikas Company Limited
+2026041704003117,HURJA,62,40,10,277.0,2770.0,2026-04-17,186785070,2824,Capital Max Securities Ltd,Creative Securities Pvt Ltd,2026-04-17 11:35:13.063501,Himalaya Urja Bikas Company Limited
+2026041704003118,HURJA,84,40,90,277.0,24930.0,2026-04-17,186785071,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Creative Securities Pvt Ltd,2026-04-17 11:35:13.063528,Himalaya Urja Bikas Company Limited
+2026041704003205,HURJA,42,42,20,278.0,5560.0,2026-04-17,186785878,2824,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-17 11:36:06.373627,Himalaya Urja Bikas Company Limited
+2026041704003206,HURJA,84,42,10,277.0,2770.0,2026-04-17,186785880,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-17 11:36:06.373926,Himalaya Urja Bikas Company Limited
+2026041704003246,HURJA,58,25,13,277.1,3602.3,2026-04-17,186786276,2824,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-17 11:36:38.243583,Himalaya Urja Bikas Company Limited
+2026041704003247,HURJA,42,25,17,277.0,4709.0,2026-04-17,186786278,2824,Sani Securities Company Ltd.,Sweta Securities Private Limited,2026-04-17 11:36:38.243728,Himalaya Urja Bikas Company Limited
+2026041704003248,HURJA,66,25,250,276.6,69150.0,2026-04-17,186786280,2824,Miyo Securities Pvt Ltd,Sweta Securities Private Limited,2026-04-17 11:36:38.243793,Himalaya Urja Bikas Company Limited
+2026041704003249,HURJA,17,25,250,276.5,69125.0,2026-04-17,186786282,2824,ABC Securities Private Limited,Sweta Securities Private Limited,2026-04-17 11:36:38.243854,Himalaya Urja Bikas Company Limited
+2026041704003250,HURJA,81,25,1000,276.4,276400.0,2026-04-17,186786284,2824,Aakashbhairab Securities Ltd.,Sweta Securities Private Limited,2026-04-17 11:36:38.243916,Himalaya Urja Bikas Company Limited
+2026041704003251,HURJA,6,25,1470,276.1,405867.0,2026-04-17,186786285,2824,Agrawal Securities (PVT) Ltd.,Sweta Securities Private Limited,2026-04-17 11:36:38.243988,Himalaya Urja Bikas Company Limited
+2026041704003339,HURJA,6,40,1500,276.1,414150.0,2026-04-17,186786839,2824,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:37:23.954579,Himalaya Urja Bikas Company Limited
+2026041704003354,HURJA,6,38,30,276.1,8283.0,2026-04-17,186786964,2824,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 11:37:31.939478,Himalaya Urja Bikas Company Limited
+2026041704003403,HURJA,56,38,50,276.1,13805.0,2026-04-17,186787422,2824,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 11:38:08.415911,Himalaya Urja Bikas Company Limited
+2026041704003435,HURJA,42,40,100,276.0,27600.0,2026-04-17,186787857,2824,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:38:44.839884,Himalaya Urja Bikas Company Limited
+2026041704003469,HURJA,29,58,10,275.2,2752.0,2026-04-17,186788253,2824,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:39:13.115851,Himalaya Urja Bikas Company Limited
+2026041704003549,HURJA,14,38,540,276.1,149094.0,2026-04-17,186789600,2824,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 11:40:42.855115,Himalaya Urja Bikas Company Limited
+2026041704003551,HURJA,34,38,380,276.1,104918.0,2026-04-17,186789607,2824,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 11:40:43.609848,Himalaya Urja Bikas Company Limited
+2026041704003758,HURJA,42,48,15,278.9,4183.5,2026-04-17,186792352,2824,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-17 11:44:20.346875,Himalaya Urja Bikas Company Limited
+2026041704003920,HURJA,85,77,50,277.0,13850.0,2026-04-17,186794398,2824,Capital Hub P. Ltd,Nabil Stock Dealer Ltd.,2026-04-17 11:47:18.510381,Himalaya Urja Bikas Company Limited
+2026041704003921,HURJA,6,77,950,277.0,263150.0,2026-04-17,186794399,2824,Agrawal Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:47:18.510614,Himalaya Urja Bikas Company Limited
+2026041704003947,HURJA,58,40,20,278.9,5578.0,2026-04-17,186794692,2824,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:47:40.375069,Himalaya Urja Bikas Company Limited
+2026041704003959,HURJA,58,40,20,278.9,5578.0,2026-04-17,186794806,2824,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:47:50.303012,Himalaya Urja Bikas Company Limited
+2026041704003989,HURJA,58,77,20,278.8,5576.0,2026-04-17,186795186,2824,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:48:14.807376,Himalaya Urja Bikas Company Limited
+2026041704004016,HURJA,6,40,50,277.0,13850.0,2026-04-17,186795406,2824,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:48:30.371779,Himalaya Urja Bikas Company Limited
+2026041704004017,HURJA,58,40,20,277.0,5540.0,2026-04-17,186795408,2824,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:48:30.371848,Himalaya Urja Bikas Company Limited
+2026041704004018,HURJA,6,40,430,277.0,119110.0,2026-04-17,186795409,2824,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:48:30.371875,Himalaya Urja Bikas Company Limited
+2026041704004041,HURJA,6,44,70,277.0,19390.0,2026-04-17,186795696,2824,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 11:48:57.413861,Himalaya Urja Bikas Company Limited
+2026041704004042,HURJA,42,44,100,277.0,27700.0,2026-04-17,186795698,2824,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 11:48:57.414198,Himalaya Urja Bikas Company Limited
+2026041704004043,HURJA,6,44,300,277.0,83100.0,2026-04-17,186795700,2824,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 11:48:57.414458,Himalaya Urja Bikas Company Limited
+2026041704004044,HURJA,25,44,100,276.5,27650.0,2026-04-17,186795702,2824,Sweta Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 11:48:57.414670,Himalaya Urja Bikas Company Limited
+2026041704004045,HURJA,25,44,100,276.4,27640.0,2026-04-17,186795704,2824,Sweta Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 11:48:57.414875,Himalaya Urja Bikas Company Limited
+2026041704004046,HURJA,58,44,13,276.2,3590.6,2026-04-17,186795706,2824,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 11:48:57.415081,Himalaya Urja Bikas Company Limited
+2026041704004047,HURJA,84,44,697,276.2,192511.4,2026-04-17,186795707,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 11:48:57.415275,Himalaya Urja Bikas Company Limited
+2026041704004054,HURJA,84,77,1303,276.2,359888.6,2026-04-17,186795826,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Nabil Stock Dealer Ltd.,2026-04-17 11:49:06.342486,Himalaya Urja Bikas Company Limited
+2026041704004055,HURJA,84,77,100,276.2,27620.0,2026-04-17,186795828,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Nabil Stock Dealer Ltd.,2026-04-17 11:49:06.342707,Himalaya Urja Bikas Company Limited
+2026041704004056,HURJA,34,77,597,276.1,164831.7,2026-04-17,186795829,2824,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-17 11:49:06.342781,Himalaya Urja Bikas Company Limited
+2026041704004067,HURJA,51,40,360,278.5,100260.0,2026-04-17,186795856,2824,Oxford Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985756,Himalaya Urja Bikas Company Limited
+2026041704004068,HURJA,34,40,23,276.1,6350.3,2026-04-17,186795858,2824,Vision Securities Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985813,Himalaya Urja Bikas Company Limited
+2026041704004069,HURJA,84,40,50,276.0,13800.0,2026-04-17,186795860,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985840,Himalaya Urja Bikas Company Limited
+2026041704004070,HURJA,80,40,41,276.0,11316.0,2026-04-17,186795862,2824,Indira securities pvt. ltd,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985864,Himalaya Urja Bikas Company Limited
+2026041704004071,HURJA,29,40,10,275.6,2756.0,2026-04-17,186795864,2824,Trisul Securities & Invt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985888,Himalaya Urja Bikas Company Limited
+2026041704004072,HURJA,34,40,100,275.3,27530.0,2026-04-17,186795866,2824,Vision Securities Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985917,Himalaya Urja Bikas Company Limited
+2026041704004073,HURJA,22,40,1000,275.1,275100.0,2026-04-17,186795868,2824,Siprabi Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985942,Himalaya Urja Bikas Company Limited
+2026041704004074,HURJA,38,40,300,275.1,82530.0,2026-04-17,186795870,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985966,Himalaya Urja Bikas Company Limited
+2026041704004075,HURJA,16,40,116,275.1,31911.6,2026-04-17,186795871,2824,Primo Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:08.985988,Himalaya Urja Bikas Company Limited
+2026041704004112,HURJA,16,40,884,275.1,243188.4,2026-04-17,186796168,2824,Primo Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174197,Himalaya Urja Bikas Company Limited
+2026041704004113,HURJA,57,40,369,275.0,101475.0,2026-04-17,186796170,2824,Aryatara Investment & Securities,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174288,Himalaya Urja Bikas Company Limited
+2026041704004114,HURJA,57,40,500,275.0,137500.0,2026-04-17,186796172,2824,Aryatara Investment & Securities,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174381,Himalaya Urja Bikas Company Limited
+2026041704004115,HURJA,6,40,500,275.0,137500.0,2026-04-17,186796174,2824,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174448,Himalaya Urja Bikas Company Limited
+2026041704004116,HURJA,6,40,30,275.0,8250.0,2026-04-17,186796176,2824,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174509,Himalaya Urja Bikas Company Limited
+2026041704004117,HURJA,41,40,500,275.0,137500.0,2026-04-17,186796178,2824,Linch Stock Market Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174569,Himalaya Urja Bikas Company Limited
+2026041704004118,HURJA,58,40,100,275.0,27500.0,2026-04-17,186796180,2824,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174649,Himalaya Urja Bikas Company Limited
+2026041704004119,HURJA,22,40,1000,275.0,275000.0,2026-04-17,186796182,2824,Siprabi Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174708,Himalaya Urja Bikas Company Limited
+2026041704004120,HURJA,21,40,117,275.0,32175.0,2026-04-17,186796183,2824,Midas Stock Broking Company Private Limited,Creative Securities Pvt Ltd,2026-04-17 11:49:36.174770,Himalaya Urja Bikas Company Limited
+2026041704004260,HURJA,84,77,500,275.4,137700.0,2026-04-17,186797498,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Nabil Stock Dealer Ltd.,2026-04-17 11:51:29.662565,Himalaya Urja Bikas Company Limited
+2026041704004261,HURJA,1,77,500,275.3,137650.0,2026-04-17,186797500,2824,Kumari Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-17 11:51:29.662734,Himalaya Urja Bikas Company Limited
+2026041704004262,HURJA,41,77,300,275.3,82590.0,2026-04-17,186797502,2824,Linch Stock Market Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:51:29.662815,Himalaya Urja Bikas Company Limited
+2026041704004263,HURJA,52,77,350,275.2,96320.0,2026-04-17,186797504,2824,Sundhara Securities Limited,Nabil Stock Dealer Ltd.,2026-04-17 11:51:29.662886,Himalaya Urja Bikas Company Limited
+2026041704004264,HURJA,52,77,10,275.2,2752.0,2026-04-17,186797506,2824,Sundhara Securities Limited,Nabil Stock Dealer Ltd.,2026-04-17 11:51:29.662953,Himalaya Urja Bikas Company Limited
+2026041704004265,HURJA,51,77,200,275.1,55020.0,2026-04-17,186797508,2824,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 11:51:29.663023,Himalaya Urja Bikas Company Limited
+2026041704004266,HURJA,21,77,133,275.0,36575.0,2026-04-17,186797510,2824,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-17 11:51:29.663092,Himalaya Urja Bikas Company Limited
+2026041704004281,HURJA,6,42,363,275.0,99825.0,2026-04-17,186797636,2824,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 11:51:39.970610,Himalaya Urja Bikas Company Limited
+2026041704004282,HURJA,26,42,137,275.0,37675.0,2026-04-17,186797637,2824,Asian Securities Private Ltd.,Sani Securities Company Ltd.,2026-04-17 11:51:39.970931,Himalaya Urja Bikas Company Limited
+2026041704004294,HURJA,26,42,10,275.0,2750.0,2026-04-17,186797747,2824,Asian Securities Private Ltd.,Sani Securities Company Ltd.,2026-04-17 11:51:51.984760,Himalaya Urja Bikas Company Limited
+2026041704004385,HURJA,26,42,53,275.0,14575.0,2026-04-17,186798408,2824,Asian Securities Private Ltd.,Sani Securities Company Ltd.,2026-04-17 11:52:40.682693,Himalaya Urja Bikas Company Limited
+2026041704004386,HURJA,16,42,47,275.0,12925.0,2026-04-17,186798409,2824,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 11:52:40.683006,Himalaya Urja Bikas Company Limited
+2026041704004392,HURJA,16,45,53,275.0,14575.0,2026-04-17,186798432,2824,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:52:42.022990,Himalaya Urja Bikas Company Limited
+2026041704004393,HURJA,84,45,437,274.5,119956.5,2026-04-17,186798433,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:52:42.023170,Himalaya Urja Bikas Company Limited
+2026041704004411,HURJA,84,42,63,274.5,17293.5,2026-04-17,186798630,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-17 11:52:55.702101,Himalaya Urja Bikas Company Limited
+2026041704004412,HURJA,42,42,37,274.4,10152.8,2026-04-17,186798631,2824,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-17 11:52:55.702282,Himalaya Urja Bikas Company Limited
+2026041704004413,HURJA,42,45,10,274.4,2744.0,2026-04-17,186798633,2824,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:52:55.874280,Himalaya Urja Bikas Company Limited
+2026041704005154,HURJA,33,38,54,275.0,14850.0,2026-04-17,186804165,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 11:59:56.957895,Himalaya Urja Bikas Company Limited
+2026041704005187,HURJA,33,10,100,275.0,27500.0,2026-04-17,186804421,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 12:00:19.394197,Himalaya Urja Bikas Company Limited
+2026041704005293,HURJA,33,50,346,275.0,95150.0,2026-04-17,186805132,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:00:54.231051,Himalaya Urja Bikas Company Limited
+2026041704005294,HURJA,58,50,13,275.0,3575.0,2026-04-17,186805134,2824,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:00:54.231273,Himalaya Urja Bikas Company Limited
+2026041704005295,HURJA,57,50,141,275.0,38775.0,2026-04-17,186805135,2824,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:00:54.231363,Himalaya Urja Bikas Company Limited
+2026041704005304,HURJA,57,37,200,275.0,55000.0,2026-04-17,186805203,2824,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 12:01:00.770668,Himalaya Urja Bikas Company Limited
+2026041704005511,HURJA,57,49,28,275.0,7700.0,2026-04-17,186806420,2824,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-17 12:02:32.998482,Himalaya Urja Bikas Company Limited
+2026041704005512,HURJA,52,49,150,275.0,41250.0,2026-04-17,186806422,2824,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-17 12:02:32.998866,Himalaya Urja Bikas Company Limited
+2026041704005513,HURJA,45,49,70,274.9,19243.0,2026-04-17,186806424,2824,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:02:32.999108,Himalaya Urja Bikas Company Limited
+2026041704005514,HURJA,84,49,1000,274.8,274800.0,2026-04-17,186806426,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Online Securities Pvt. Ltd.,2026-04-17 12:02:32.999352,Himalaya Urja Bikas Company Limited
+2026041704005515,HURJA,34,49,10,274.8,2748.0,2026-04-17,186806428,2824,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-17 12:02:32.999582,Himalaya Urja Bikas Company Limited
+2026041704005516,HURJA,6,49,1017,274.7,279369.9,2026-04-17,186806429,2824,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:02:32.999825,Himalaya Urja Bikas Company Limited
+2026041704005617,HURJA,14,87,111,275.9,30624.9,2026-04-17,186807222,2824,Nepal Stock House (PVT) Ltd.,S.P.S.A. Securities Limited,2026-04-17 12:03:25.986321,Himalaya Urja Bikas Company Limited
+2026041704005631,HURJA,37,6,50,275.6,13780.0,2026-04-17,186807358,2824,Swarna Laxmi Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.767806,Himalaya Urja Bikas Company Limited
+2026041704005632,HURJA,5,6,100,274.8,27480.0,2026-04-17,186807360,2824,Market Securities & Exchange (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768029,Himalaya Urja Bikas Company Limited
+2026041704005633,HURJA,6,6,783,274.7,215090.1,2026-04-17,186807362,2824,Agrawal Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768114,Himalaya Urja Bikas Company Limited
+2026041704005634,HURJA,25,6,200,274.6,54920.0,2026-04-17,186807364,2824,Sweta Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768208,Himalaya Urja Bikas Company Limited
+2026041704005635,HURJA,34,6,50,274.6,13730.0,2026-04-17,186807366,2824,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768296,Himalaya Urja Bikas Company Limited
+2026041704005636,HURJA,42,6,50,274.5,13725.0,2026-04-17,186807368,2824,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768382,Himalaya Urja Bikas Company Limited
+2026041704005637,HURJA,50,6,100,274.5,27450.0,2026-04-17,186807370,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768461,Himalaya Urja Bikas Company Limited
+2026041704005638,HURJA,34,6,50,274.5,13725.0,2026-04-17,186807372,2824,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768539,Himalaya Urja Bikas Company Limited
+2026041704005639,HURJA,42,6,53,274.4,14543.2,2026-04-17,186807374,2824,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768620,Himalaya Urja Bikas Company Limited
+2026041704005640,HURJA,65,6,50,274.4,13720.0,2026-04-17,186807376,2824,Sharepro Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768699,Himalaya Urja Bikas Company Limited
+2026041704005641,HURJA,80,6,200,274.4,54880.0,2026-04-17,186807378,2824,Indira securities pvt. ltd,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768799,Himalaya Urja Bikas Company Limited
+2026041704005642,HURJA,57,6,40,274.4,10976.0,2026-04-17,186807380,2824,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-17 12:03:34.768876,Himalaya Urja Bikas Company Limited
+2026041704005666,HURJA,84,48,500,274.2,137100.0,2026-04-17,186807580,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Trishakti Securities Public Limited,2026-04-17 12:03:45.293073,Himalaya Urja Bikas Company Limited
+2026041704005667,HURJA,29,48,10,274.1,2741.0,2026-04-17,186807582,2824,Trisul Securities & Invt. Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.293253,Himalaya Urja Bikas Company Limited
+2026041704005668,HURJA,84,48,500,274.1,137050.0,2026-04-17,186807584,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Trishakti Securities Public Limited,2026-04-17 12:03:45.293411,Himalaya Urja Bikas Company Limited
+2026041704005669,HURJA,17,48,190,274.0,52060.0,2026-04-17,186807586,2824,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-17 12:03:45.293561,Himalaya Urja Bikas Company Limited
+2026041704005670,HURJA,26,48,100,274.0,27400.0,2026-04-17,186807588,2824,Asian Securities Private Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.293732,Himalaya Urja Bikas Company Limited
+2026041704005671,HURJA,58,48,108,274.0,29592.0,2026-04-17,186807590,2824,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.293868,Himalaya Urja Bikas Company Limited
+2026041704005672,HURJA,50,48,100,274.0,27400.0,2026-04-17,186807592,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.294001,Himalaya Urja Bikas Company Limited
+2026041704005673,HURJA,6,48,500,274.0,137000.0,2026-04-17,186807594,2824,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.294169,Himalaya Urja Bikas Company Limited
+2026041704005674,HURJA,49,48,500,274.0,137000.0,2026-04-17,186807596,2824,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.294299,Himalaya Urja Bikas Company Limited
+2026041704005675,HURJA,21,48,200,274.0,54800.0,2026-04-17,186807598,2824,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-17 12:03:45.294453,Himalaya Urja Bikas Company Limited
+2026041704005676,HURJA,58,48,200,274.0,54800.0,2026-04-17,186807600,2824,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.294589,Himalaya Urja Bikas Company Limited
+2026041704005677,HURJA,58,48,92,274.0,25208.0,2026-04-17,186807601,2824,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 12:03:45.294717,Himalaya Urja Bikas Company Limited
+2026041704005703,HURJA,60,48,190,273.6,51984.0,2026-04-17,186807840,2824,Nagarik Stock Dealer ,Trishakti Securities Public Limited,2026-04-17 12:04:00.412207,Himalaya Urja Bikas Company Limited
+2026041704005704,HURJA,17,48,250,273.5,68375.0,2026-04-17,186807842,2824,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-17 12:04:00.412334,Himalaya Urja Bikas Company Limited
+2026041704005705,HURJA,36,48,85,273.5,23247.5,2026-04-17,186807843,2824,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-17 12:04:00.412363,Himalaya Urja Bikas Company Limited
+2026041704005709,HURJA,94,6,100,274.4,27440.0,2026-04-17,186807890,2824,K.B.L. Securities Limited ,Agrawal Securities (PVT) Ltd.,2026-04-17 12:04:03.235431,Himalaya Urja Bikas Company Limited
+2026041704005743,HURJA,36,49,15,273.5,4102.5,2026-04-17,186808314,2824,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:04:34.593375,Himalaya Urja Bikas Company Limited
+2026041704005744,HURJA,32,49,100,273.5,27350.0,2026-04-17,186808316,2824,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:04:34.593736,Himalaya Urja Bikas Company Limited
+2026041704005745,HURJA,40,49,500,273.5,136750.0,2026-04-17,186808318,2824,Creative Securities Pvt Ltd,Online Securities Pvt. Ltd.,2026-04-17 12:04:34.593964,Himalaya Urja Bikas Company Limited
+2026041704005746,HURJA,43,49,100,273.4,27340.0,2026-04-17,186808320,2824,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:04:34.594204,Himalaya Urja Bikas Company Limited
+2026041704005747,HURJA,33,49,200,273.3,54660.0,2026-04-17,186808322,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:04:34.594443,Himalaya Urja Bikas Company Limited
+2026041704005748,HURJA,33,49,200,273.2,54640.0,2026-04-17,186808324,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:04:34.594677,Himalaya Urja Bikas Company Limited
+2026041704005749,HURJA,22,49,885,273.1,241693.5,2026-04-17,186808325,2824,Siprabi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:04:34.594899,Himalaya Urja Bikas Company Limited
+2026041704005820,HURJA,26,6,274,273.5,74939.0,2026-04-17,186808775,2824,Asian Securities Private Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:05:02.622501,Himalaya Urja Bikas Company Limited
+2026041704005827,HURJA,26,47,126,273.5,34461.0,2026-04-17,186808792,2824,Asian Securities Private Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:05:02.917647,Himalaya Urja Bikas Company Limited
+2026041704005847,HURJA,22,47,115,273.1,31406.5,2026-04-17,186808918,2824,Siprabi Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:05:13.692943,Himalaya Urja Bikas Company Limited
+2026041704005882,HURJA,59,47,200,273.0,54600.0,2026-04-17,186809086,2824,Deevyaa Securities & Stock House Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-17 12:05:25.981698,Himalaya Urja Bikas Company Limited
+2026041704005883,HURJA,45,47,59,273.0,16107.0,2026-04-17,186809087,2824,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:05:25.981919,Himalaya Urja Bikas Company Limited
+2026041704005895,HURJA,45,56,441,273.0,120393.0,2026-04-17,186809156,2824,Imperial Securities Company Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:05:34.325990,Himalaya Urja Bikas Company Limited
+2026041704005896,HURJA,91,56,400,273.0,109200.0,2026-04-17,186809158,2824,Citizens Share Broker Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:05:34.326434,Himalaya Urja Bikas Company Limited
+2026041704005897,HURJA,39,56,100,273.0,27300.0,2026-04-17,186809160,2824,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:05:34.326713,Himalaya Urja Bikas Company Limited
+2026041704005898,HURJA,39,56,100,273.0,27300.0,2026-04-17,186809162,2824,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:05:34.327053,Himalaya Urja Bikas Company Limited
+2026041704005899,HURJA,44,56,100,273.0,27300.0,2026-04-17,186809164,2824,Dynamic Money Managers Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:05:34.327404,Himalaya Urja Bikas Company Limited
+2026041704005900,HURJA,45,56,359,273.0,98007.0,2026-04-17,186809165,2824,Imperial Securities Company Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:05:34.327717,Himalaya Urja Bikas Company Limited
+2026041704005902,HURJA,45,50,500,273.0,136500.0,2026-04-17,186809175,2824,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:05:36.458067,Himalaya Urja Bikas Company Limited
+2026041704006300,HURJA,51,49,100,273.3,27330.0,2026-04-17,186812365,2824,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:09:29.823327,Himalaya Urja Bikas Company Limited
+2026041704006421,HURJA,14,38,111,275.0,30525.0,2026-04-17,186812934,2824,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:10:10.655767,Himalaya Urja Bikas Company Limited
+2026041704007271,HURJA,43,77,90,274.3,24687.0,2026-04-17,186818830,2824,South Asian Bulls Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:16:55.780704,Himalaya Urja Bikas Company Limited
+2026041704007272,HURJA,58,77,450,274.2,123390.0,2026-04-17,186818832,2824,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:16:55.780989,Himalaya Urja Bikas Company Limited
+2026041704007273,HURJA,16,77,1460,274.0,400040.0,2026-04-17,186818833,2824,Primo Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:16:55.781108,Himalaya Urja Bikas Company Limited
+2026041704007292,HURJA,58,38,10,275.0,2750.0,2026-04-17,186818922,2824,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:17:03.328486,Himalaya Urja Bikas Company Limited
+2026041704007293,HURJA,6,77,300,274.1,82230.0,2026-04-17,186818962,2824,Agrawal Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:17:06.665745,Himalaya Urja Bikas Company Limited
+2026041704007294,HURJA,16,77,40,274.0,10960.0,2026-04-17,186818964,2824,Primo Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:17:06.666025,Himalaya Urja Bikas Company Limited
+2026041704007295,HURJA,58,40,170,273.8,46546.0,2026-04-17,186818978,2824,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-17 12:17:07.411914,Himalaya Urja Bikas Company Limited
+2026041704007296,HURJA,25,40,130,273.7,35581.0,2026-04-17,186818979,2824,Sweta Securities Private Limited,Creative Securities Pvt Ltd,2026-04-17 12:17:07.411990,Himalaya Urja Bikas Company Limited
+2026041704007377,HURJA,84,77,140,274.0,38360.0,2026-04-17,186819575,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Nabil Stock Dealer Ltd.,2026-04-17 12:17:54.828549,Himalaya Urja Bikas Company Limited
+2026041704007396,HURJA,84,64,161,274.0,44114.0,2026-04-17,186819681,2824,MILKY WAY SHARE BROKER COMPANY LTD ,SUN SECURITIES PVT LTD,2026-04-17 12:18:01.426462,Himalaya Urja Bikas Company Limited
+2026041704007412,HURJA,84,40,199,274.0,54526.0,2026-04-17,186819951,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Creative Securities Pvt Ltd,2026-04-17 12:18:10.180158,Himalaya Urja Bikas Company Limited
+2026041704007631,HURJA,65,48,70,273.6,19152.0,2026-04-17,186821891,2824,Sharepro Securities Private Limited,Trishakti Securities Public Limited,2026-04-17 12:20:07.423529,Himalaya Urja Bikas Company Limited
+2026041704007670,HURJA,42,38,350,274.0,95900.0,2026-04-17,186822322,2824,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:20:42.107700,Himalaya Urja Bikas Company Limited
+2026041704007715,HURJA,65,52,10,273.6,2736.0,2026-04-17,186822725,2824,Sharepro Securities Private Limited,Sundhara Securities Limited,2026-04-17 12:21:13.629970,Himalaya Urja Bikas Company Limited
+2026041704007894,HURJA,13,38,29,274.0,7946.0,2026-04-17,186824515,2824,Thrive Brokerage House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:23:30.013282,Himalaya Urja Bikas Company Limited
+2026041704007895,HURJA,13,70,471,274.0,129054.0,2026-04-17,186824518,2824,Thrive Brokerage House Pvt. Ltd,Infinity Securities Limited,2026-04-17 12:23:30.013507,Himalaya Urja Bikas Company Limited
+2026041704007965,HURJA,84,70,279,274.0,76446.0,2026-04-17,186825047,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Infinity Securities Limited,2026-04-17 12:24:23.409740,Himalaya Urja Bikas Company Limited
+2026041704007966,HURJA,84,57,500,274.0,137000.0,2026-04-17,186825049,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Aryatara Investment & Securities,2026-04-17 12:24:23.410009,Himalaya Urja Bikas Company Limited
+2026041704008101,HURJA,6,40,25,274.9,6872.5,2026-04-17,186826132,2824,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-17 12:26:00.797730,Himalaya Urja Bikas Company Limited
+2026041704008221,HURJA,17,45,50,275.0,13750.0,2026-04-17,186827352,2824,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 12:27:37.900554,Himalaya Urja Bikas Company Limited
+2026041704008245,HURJA,84,45,20,275.0,5500.0,2026-04-17,186827647,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Imperial Securities Company Pvt. Ltd.,2026-04-17 12:28:05.729191,Himalaya Urja Bikas Company Limited
+2026041704008246,HURJA,84,40,480,275.0,132000.0,2026-04-17,186827650,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Creative Securities Pvt Ltd,2026-04-17 12:28:05.729404,Himalaya Urja Bikas Company Limited
+2026041704008256,HURJA,84,40,20,275.0,5500.0,2026-04-17,186827734,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Creative Securities Pvt Ltd,2026-04-17 12:28:15.752546,Himalaya Urja Bikas Company Limited
+2026041704008314,HURJA,84,39,10,275.8,2758.0,2026-04-17,186828078,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Sumeru Securities Pvt. Ltd.,2026-04-17 12:28:41.800931,Himalaya Urja Bikas Company Limited
+2026041704008332,HURJA,49,39,200,275.8,55160.0,2026-04-17,186828296,2824,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 12:29:04.529955,Himalaya Urja Bikas Company Limited
+2026041704008337,HURJA,29,26,200,275.0,55000.0,2026-04-17,186828362,2824,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-17 12:29:07.580837,Himalaya Urja Bikas Company Limited
+2026041704008338,HURJA,58,26,25,274.3,6857.5,2026-04-17,186828364,2824,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-17 12:29:07.581083,Himalaya Urja Bikas Company Limited
+2026041704008339,HURJA,49,26,275,274.2,75405.0,2026-04-17,186828365,2824,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 12:29:07.581175,Himalaya Urja Bikas Company Limited
+2026041704008529,HURJA,17,87,10,275.6,2756.0,2026-04-17,186830808,2824,ABC Securities Private Limited,S.P.S.A. Securities Limited,2026-04-17 12:32:11.104491,Himalaya Urja Bikas Company Limited
+2026041704008558,HURJA,45,87,829,275.6,228472.4,2026-04-17,186831183,2824,Imperial Securities Company Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-17 12:32:30.185379,Himalaya Urja Bikas Company Limited
+2026041704008559,HURJA,45,38,621,275.7,171209.7,2026-04-17,186831186,2824,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:32:30.185806,Himalaya Urja Bikas Company Limited
+2026041704008581,HURJA,45,38,379,275.7,104490.3,2026-04-17,186831309,2824,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:32:42.000654,Himalaya Urja Bikas Company Limited
+2026041704008582,HURJA,45,45,300,275.7,82710.0,2026-04-17,186831311,2824,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 12:32:42.000916,Himalaya Urja Bikas Company Limited
+2026041704008583,HURJA,45,39,40,275.8,11032.0,2026-04-17,186831313,2824,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 12:32:42.001030,Himalaya Urja Bikas Company Limited
+2026041704008584,HURJA,45,40,281,275.8,77499.8,2026-04-17,186831316,2824,Imperial Securities Company Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 12:32:42.001124,Himalaya Urja Bikas Company Limited
+2026041704008607,HURJA,17,40,10,275.8,2758.0,2026-04-17,186831494,2824,ABC Securities Private Limited,Creative Securities Pvt Ltd,2026-04-17 12:32:55.384112,Himalaya Urja Bikas Company Limited
+2026041704008632,HURJA,38,40,25,275.8,6895.0,2026-04-17,186831660,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Creative Securities Pvt Ltd,2026-04-17 12:33:09.471794,Himalaya Urja Bikas Company Limited
+2026041704008655,HURJA,32,40,159,275.8,43852.2,2026-04-17,186831741,2824,Premier Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-17 12:33:15.478507,Himalaya Urja Bikas Company Limited
+2026041704008710,HURJA,40,26,439,276.0,121164.0,2026-04-17,186832071,2824,Creative Securities Pvt Ltd,Asian Securities Private Ltd.,2026-04-17 12:33:36.747771,Himalaya Urja Bikas Company Limited
+2026041704008727,HURJA,17,21,10,276.3,2763.0,2026-04-17,186832220,2824,ABC Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-17 12:33:46.038853,Himalaya Urja Bikas Company Limited
+2026041704008763,HURJA,40,21,190,276.3,52497.0,2026-04-17,186832738,2824,Creative Securities Pvt Ltd,Midas Stock Broking Company Private Limited,2026-04-17 12:34:31.681797,Himalaya Urja Bikas Company Limited
+2026041704008783,HURJA,45,38,1000,277.8,277800.0,2026-04-17,186833003,2824,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:34:54.977304,Himalaya Urja Bikas Company Limited
+2026041704008784,HURJA,45,35,2000,277.9,555800.0,2026-04-17,186833005,2824,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:34:54.977533,Himalaya Urja Bikas Company Limited
+2026041704008785,HURJA,45,77,507,278.0,140946.0,2026-04-17,186833007,2824,Imperial Securities Company Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:34:54.977630,Himalaya Urja Bikas Company Limited
+2026041704008786,HURJA,45,83,500,278.0,139000.0,2026-04-17,186833009,2824,Imperial Securities Company Pvt. Ltd.,Sanima Securities Limited,2026-04-17 12:34:54.977719,Himalaya Urja Bikas Company Limited
+2026041704008787,HURJA,45,49,140,278.0,38920.0,2026-04-17,186833011,2824,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:34:54.977810,Himalaya Urja Bikas Company Limited
+2026041704008815,HURJA,70,19,500,278.0,139000.0,2026-04-17,186833282,2824,Infinity Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:35:19.494722,Himalaya Urja Bikas Company Limited
+2026041704008959,HURJA,49,42,100,277.0,27700.0,2026-04-17,186834388,2824,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:37:01.247835,Himalaya Urja Bikas Company Limited
+2026041704008975,HURJA,45,19,853,278.0,237134.0,2026-04-17,186834568,2824,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:37:16.228089,Himalaya Urja Bikas Company Limited
+2026041704009055,HURJA,39,19,647,278.0,179866.0,2026-04-17,186835313,2824,Sumeru Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:38:19.443701,Himalaya Urja Bikas Company Limited
+2026041704009061,HURJA,39,49,179,278.0,49762.0,2026-04-17,186835357,2824,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:38:23.890289,Himalaya Urja Bikas Company Limited
+2026041704009068,HURJA,39,64,174,278.0,48372.0,2026-04-17,186835378,2824,Sumeru Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-17 12:38:25.457230,Himalaya Urja Bikas Company Limited
+2026041704009069,HURJA,42,64,500,278.0,139000.0,2026-04-17,186835380,2824,Sani Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-17 12:38:25.457457,Himalaya Urja Bikas Company Limited
+2026041704009158,HURJA,80,19,1000,277.0,277000.0,2026-04-17,186836233,2824,Indira securities pvt. ltd,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:39:54.601488,Himalaya Urja Bikas Company Limited
+2026041704009232,HURJA,39,19,1000,277.0,277000.0,2026-04-17,186836881,2824,Sumeru Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:40:58.276699,Himalaya Urja Bikas Company Limited
+2026041704009266,HURJA,80,19,1000,276.5,276500.0,2026-04-17,186837163,2824,Indira securities pvt. ltd,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:41:23.469431,Himalaya Urja Bikas Company Limited
+2026041704009353,HURJA,52,42,50,277.0,13850.0,2026-04-17,186838050,2824,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-17 12:42:47.020450,Himalaya Urja Bikas Company Limited
+2026041704009386,HURJA,58,42,200,277.0,55400.0,2026-04-17,186838430,2824,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:43:11.374880,Himalaya Urja Bikas Company Limited
+2026041704009456,HURJA,39,6,1000,277.0,277000.0,2026-04-17,186838985,2824,Sumeru Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:44:03.745384,Himalaya Urja Bikas Company Limited
+2026041704009670,HURJA,66,38,100,277.8,27780.0,2026-04-17,186840810,2824,Miyo Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:47:02.617260,Himalaya Urja Bikas Company Limited
+2026041704009676,HURJA,21,38,200,277.8,55560.0,2026-04-17,186840842,2824,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:47:05.414265,Himalaya Urja Bikas Company Limited
+2026041704009679,HURJA,58,38,115,277.8,31947.0,2026-04-17,186840892,2824,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:47:12.333584,Himalaya Urja Bikas Company Limited
+2026041704009680,HURJA,57,38,100,277.8,27780.0,2026-04-17,186840894,2824,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:47:12.569269,Himalaya Urja Bikas Company Limited
+2026041704009717,HURJA,52,38,485,277.8,134733.0,2026-04-17,186841255,2824,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:47:43.842284,Himalaya Urja Bikas Company Limited
+2026041704009718,HURJA,52,64,326,277.9,90595.4,2026-04-17,186841257,2824,Sundhara Securities Limited,SUN SECURITIES PVT LTD,2026-04-17 12:47:43.842746,Himalaya Urja Bikas Company Limited
+2026041704009719,HURJA,52,64,1189,277.9,330423.1,2026-04-17,186841260,2824,Sundhara Securities Limited,SUN SECURITIES PVT LTD,2026-04-17 12:47:43.843026,Himalaya Urja Bikas Company Limited
+2026041704009776,HURJA,39,64,811,277.9,225376.9,2026-04-17,186841751,2824,Sumeru Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-17 12:48:24.044606,Himalaya Urja Bikas Company Limited
+2026041704009777,HURJA,39,45,100,278.0,27800.0,2026-04-17,186841753,2824,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 12:48:24.045023,Himalaya Urja Bikas Company Limited
+2026041704009936,HURJA,80,49,1000,278.3,278300.0,2026-04-17,186842914,2824,Indira securities pvt. ltd,Online Securities Pvt. Ltd.,2026-04-17 12:49:46.844667,Himalaya Urja Bikas Company Limited
+2026041704010008,HURJA,45,56,500,278.1,139050.0,2026-04-17,186843494,2824,Imperial Securities Company Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:50:33.904536,Himalaya Urja Bikas Company Limited
+2026041704010009,HURJA,39,56,89,278.0,24742.0,2026-04-17,186843496,2824,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:50:33.904973,Himalaya Urja Bikas Company Limited
+2026041704010139,HURJA,38,36,20,277.3,5546.0,2026-04-17,186844386,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Secured Securities Ltd.,2026-04-17 12:51:42.835270,Himalaya Urja Bikas Company Limited
+2026041704010140,HURJA,13,36,300,277.1,83130.0,2026-04-17,186844388,2824,Thrive Brokerage House Pvt. Ltd,Secured Securities Ltd.,2026-04-17 12:51:42.835745,Himalaya Urja Bikas Company Limited
+2026041704010154,HURJA,80,36,180,277.1,49878.0,2026-04-17,186844479,2824,Indira securities pvt. ltd,Secured Securities Ltd.,2026-04-17 12:51:50.019293,Himalaya Urja Bikas Company Limited
+2026041704010155,HURJA,80,56,604,278.0,167912.0,2026-04-17,186844482,2824,Indira securities pvt. ltd,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:51:50.019759,Himalaya Urja Bikas Company Limited
+2026041704010247,HURJA,48,56,20,277.0,5540.0,2026-04-17,186844940,2824,Trishakti Securities Public Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:52:25.269773,Himalaya Urja Bikas Company Limited
+2026041704010248,HURJA,42,56,100,277.0,27700.0,2026-04-17,186844942,2824,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:52:25.270214,Himalaya Urja Bikas Company Limited
+2026041704010300,HURJA,45,77,10,276.5,2765.0,2026-04-17,186845422,2824,Imperial Securities Company Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:52:53.244159,Himalaya Urja Bikas Company Limited
+2026041704010301,HURJA,26,77,100,276.4,27640.0,2026-04-17,186845424,2824,Asian Securities Private Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:52:53.244438,Himalaya Urja Bikas Company Limited
+2026041704010302,HURJA,70,77,300,276.2,82860.0,2026-04-17,186845426,2824,Infinity Securities Limited,Nabil Stock Dealer Ltd.,2026-04-17 12:52:53.244535,Himalaya Urja Bikas Company Limited
+2026041704010303,HURJA,28,77,10,276.2,2762.0,2026-04-17,186845428,2824,Shree Krishna Securities Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:52:53.244626,Himalaya Urja Bikas Company Limited
+2026041704010330,HURJA,74,77,250,275.5,68875.0,2026-04-17,186845626,2824,KALASH STOCK MARKET PVT. LTD.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:03.837460,Himalaya Urja Bikas Company Limited
+2026041704010331,HURJA,32,77,91,275.1,25034.1,2026-04-17,186845628,2824,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:03.837732,Himalaya Urja Bikas Company Limited
+2026041704010332,HURJA,26,77,100,275.1,27510.0,2026-04-17,186845630,2824,Asian Securities Private Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:03.837831,Himalaya Urja Bikas Company Limited
+2026041704010333,HURJA,26,77,200,275.0,55000.0,2026-04-17,186845632,2824,Asian Securities Private Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:03.837922,Himalaya Urja Bikas Company Limited
+2026041704010334,HURJA,16,77,500,275.0,137500.0,2026-04-17,186845634,2824,Primo Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:03.838009,Himalaya Urja Bikas Company Limited
+2026041704010335,HURJA,49,77,200,275.0,55000.0,2026-04-17,186845636,2824,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:03.838098,Himalaya Urja Bikas Company Limited
+2026041704010336,HURJA,7,77,859,275.0,236225.0,2026-04-17,186845637,2824,J.F. Securites (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:03.838186,Himalaya Urja Bikas Company Limited
+2026041704010353,HURJA,7,49,141,275.0,38775.0,2026-04-17,186845756,2824,J.F. Securites (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:53:13.996182,Himalaya Urja Bikas Company Limited
+2026041704010354,HURJA,58,49,15,275.0,4125.0,2026-04-17,186845758,2824,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:53:13.996299,Himalaya Urja Bikas Company Limited
+2026041704010355,HURJA,45,49,3844,275.0,1057100.0,2026-04-17,186845759,2824,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:53:13.996394,Himalaya Urja Bikas Company Limited
+2026041704010363,HURJA,74,77,300,275.5,82650.0,2026-04-17,186845826,2824,KALASH STOCK MARKET PVT. LTD.,Nabil Stock Dealer Ltd.,2026-04-17 12:53:20.935800,Himalaya Urja Bikas Company Limited
+2026041704010377,HURJA,45,58,297,275.0,81675.0,2026-04-17,186845914,2824,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:53:24.335631,Himalaya Urja Bikas Company Limited
+2026041704010378,HURJA,48,58,10,275.0,2750.0,2026-04-17,186845916,2824,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-17 12:53:24.335677,Himalaya Urja Bikas Company Limited
+2026041704010379,HURJA,41,58,193,274.4,52959.2,2026-04-17,186845917,2824,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:53:24.335707,Himalaya Urja Bikas Company Limited
+2026041704010596,HURJA,41,56,157,274.4,43080.8,2026-04-17,186847420,2824,Linch Stock Market Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:55:08.558181,Himalaya Urja Bikas Company Limited
+2026041704010597,HURJA,17,56,50,274.3,13715.0,2026-04-17,186847422,2824,ABC Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:55:08.558614,Himalaya Urja Bikas Company Limited
+2026041704010598,HURJA,49,56,225,274.2,61695.0,2026-04-17,186847424,2824,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:55:08.558888,Himalaya Urja Bikas Company Limited
+2026041704010599,HURJA,50,56,100,274.0,27400.0,2026-04-17,186847426,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:55:08.559146,Himalaya Urja Bikas Company Limited
+2026041704010600,HURJA,59,56,84,274.0,23016.0,2026-04-17,186847427,2824,Deevyaa Securities & Stock House Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:55:08.559424,Himalaya Urja Bikas Company Limited
+2026041704010664,HURJA,26,17,530,275.0,145750.0,2026-04-17,186847737,2824,Asian Securities Private Ltd.,ABC Securities Private Limited,2026-04-17 12:55:33.660432,Himalaya Urja Bikas Company Limited
+2026041704010749,HURJA,26,56,10,275.0,2750.0,2026-04-17,186848143,2824,Asian Securities Private Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:56:01.280373,Himalaya Urja Bikas Company Limited
+2026041704010772,HURJA,26,34,1500,275.0,412500.0,2026-04-17,186848361,2824,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-17 12:56:23.191103,Himalaya Urja Bikas Company Limited
+2026041704010792,HURJA,26,88,10,275.0,2750.0,2026-04-17,186848497,2824,Asian Securities Private Ltd.,Blue Chip Securities Ltd,2026-04-17 12:56:33.652601,Himalaya Urja Bikas Company Limited
+2026041704010809,HURJA,26,34,2950,275.0,811250.0,2026-04-17,186848600,2824,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-17 12:56:45.346642,Himalaya Urja Bikas Company Limited
+2026041704010810,HURJA,58,34,11,275.0,3025.0,2026-04-17,186848602,2824,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 12:56:45.346869,Himalaya Urja Bikas Company Limited
+2026041704010817,HURJA,59,34,16,274.0,4384.0,2026-04-17,186848718,2824,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-17 12:56:59.346673,Himalaya Urja Bikas Company Limited
+2026041704010818,HURJA,67,34,150,274.0,41100.0,2026-04-17,186848720,2824,Property Wiard Limited,Vision Securities Pvt. Ltd,2026-04-17 12:56:59.346902,Himalaya Urja Bikas Company Limited
+2026041704010819,HURJA,21,34,1000,274.0,274000.0,2026-04-17,186848722,2824,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-17 12:56:59.347179,Himalaya Urja Bikas Company Limited
+2026041704010820,HURJA,52,34,400,274.0,109600.0,2026-04-17,186848724,2824,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 12:56:59.347644,Himalaya Urja Bikas Company Limited
+2026041704010821,HURJA,32,34,500,274.0,137000.0,2026-04-17,186848726,2824,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-17 12:56:59.347907,Himalaya Urja Bikas Company Limited
+2026041704010822,HURJA,48,34,50,274.0,13700.0,2026-04-17,186848728,2824,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-17 12:56:59.348187,Himalaya Urja Bikas Company Limited
+2026041704010971,HURJA,65,34,70,273.6,19152.0,2026-04-17,186849124,2824,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-17 12:57:16.073613,Himalaya Urja Bikas Company Limited
+2026041704010972,HURJA,6,34,90,273.6,24624.0,2026-04-17,186849125,2824,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-17 12:57:16.074057,Himalaya Urja Bikas Company Limited
+2026041704011030,HURJA,6,48,110,273.6,30096.0,2026-04-17,186849726,2824,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-17 12:57:58.190119,Himalaya Urja Bikas Company Limited
+2026041704011031,HURJA,84,48,50,273.5,13675.0,2026-04-17,186849728,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Trishakti Securities Public Limited,2026-04-17 12:57:58.190169,Himalaya Urja Bikas Company Limited
+2026041704011032,HURJA,57,48,440,273.3,120252.0,2026-04-17,186849729,2824,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-17 12:57:58.190203,Himalaya Urja Bikas Company Limited
+2026041704011311,HURJA,58,34,10,274.5,2745.0,2026-04-17,186852422,2824,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:03:53.313506,Himalaya Urja Bikas Company Limited
+2026041704011312,HURJA,45,34,60,274.1,16446.0,2026-04-17,186852424,2824,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:03:53.313677,Himalaya Urja Bikas Company Limited
+2026041704011313,HURJA,49,34,100,274.1,27410.0,2026-04-17,186852426,2824,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:03:53.313748,Himalaya Urja Bikas Company Limited
+2026041704011314,HURJA,42,34,160,274.0,43840.0,2026-04-17,186852428,2824,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:03:53.313831,Himalaya Urja Bikas Company Limited
+2026041704011315,HURJA,49,34,50,274.0,13700.0,2026-04-17,186852430,2824,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:03:53.313909,Himalaya Urja Bikas Company Limited
+2026041704011316,HURJA,41,34,120,274.0,32880.0,2026-04-17,186852431,2824,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:03:53.313981,Himalaya Urja Bikas Company Limited
+2026041704011354,HURJA,41,34,23,274.0,6302.0,2026-04-17,186852837,2824,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:04:29.240457,Himalaya Urja Bikas Company Limited
+2026041704011467,HURJA,67,77,200,275.5,55100.0,2026-04-17,186854161,2824,Property Wiard Limited,Nabil Stock Dealer Ltd.,2026-04-17 13:07:34.785109,Himalaya Urja Bikas Company Limited
+2026041704011468,HURJA,67,40,300,275.5,82650.0,2026-04-17,186854164,2824,Property Wiard Limited,Creative Securities Pvt Ltd,2026-04-17 13:07:34.785579,Himalaya Urja Bikas Company Limited
+2026041704011500,HURJA,39,40,200,275.5,55100.0,2026-04-17,186854539,2824,Sumeru Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 13:08:29.554265,Himalaya Urja Bikas Company Limited
+2026041704011501,HURJA,39,77,80,276.0,22080.0,2026-04-17,186854541,2824,Sumeru Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-17 13:08:29.554757,Himalaya Urja Bikas Company Limited
+2026041704011502,HURJA,39,40,500,276.0,138000.0,2026-04-17,186854543,2824,Sumeru Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 13:08:29.555053,Himalaya Urja Bikas Company Limited
+2026041704011503,HURJA,39,71,3000,276.5,829500.0,2026-04-17,186854545,2824,Sumeru Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 13:08:29.555356,Himalaya Urja Bikas Company Limited
+2026041704011513,HURJA,52,34,50,276.7,13835.0,2026-04-17,186854674,2824,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 13:08:44.950914,Himalaya Urja Bikas Company Limited
+2026041704011635,HURJA,45,34,265,276.6,73299.0,2026-04-17,186855760,2824,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:11:31.629403,Himalaya Urja Bikas Company Limited
+2026041704011636,HURJA,39,34,185,276.5,51152.5,2026-04-17,186855761,2824,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:11:31.629469,Himalaya Urja Bikas Company Limited
+2026041704011652,HURJA,39,34,35,276.5,9677.5,2026-04-17,186855930,2824,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:12:03.643790,Himalaya Urja Bikas Company Limited
+2026041704011669,HURJA,48,34,50,275.0,13750.0,2026-04-17,186856086,2824,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-17 13:12:28.749896,Himalaya Urja Bikas Company Limited
+2026041704011670,HURJA,59,34,100,275.0,27500.0,2026-04-17,186856088,2824,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-17 13:12:28.750356,Himalaya Urja Bikas Company Limited
+2026041704011681,HURJA,41,34,255,274.6,70023.0,2026-04-17,186856192,2824,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:12:49.247546,Himalaya Urja Bikas Company Limited
+2026041704011682,HURJA,41,34,300,274.1,82230.0,2026-04-17,186856194,2824,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:12:49.247836,Himalaya Urja Bikas Company Limited
+2026041704011683,HURJA,41,34,57,274.0,15618.0,2026-04-17,186856196,2824,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:12:49.247967,Himalaya Urja Bikas Company Limited
+2026041704011684,HURJA,49,34,100,274.0,27400.0,2026-04-17,186856198,2824,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:12:49.248065,Himalaya Urja Bikas Company Limited
+2026041704011685,HURJA,61,34,200,274.0,54800.0,2026-04-17,186856200,2824,BHOLE GANESH SECURITIES LTD,Vision Securities Pvt. Ltd,2026-04-17 13:12:49.248162,Himalaya Urja Bikas Company Limited
+2026041704011686,HURJA,48,34,50,274.0,13700.0,2026-04-17,186856202,2824,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-17 13:12:49.248259,Himalaya Urja Bikas Company Limited
+2026041704011687,HURJA,58,34,100,274.0,27400.0,2026-04-17,186856204,2824,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:12:49.248393,Himalaya Urja Bikas Company Limited
+2026041704012020,HURJA,74,22,25,275.0,6875.0,2026-04-17,186859655,2824,KALASH STOCK MARKET PVT. LTD.,Siprabi Securities Pvt. Ltd.,2026-04-17 13:19:46.611648,Himalaya Urja Bikas Company Limited
+2026041704012022,HURJA,74,3,100,275.0,27500.0,2026-04-17,186859715,2824,KALASH STOCK MARKET PVT. LTD.,Arun Securities (PVT) Ltd.,2026-04-17 13:19:53.323151,Himalaya Urja Bikas Company Limited
+2026041704012153,HURJA,26,16,100,275.1,27510.0,2026-04-17,186861060,2824,Asian Securities Private Ltd.,Primo Securities (PVT) Ltd.,2026-04-17 13:21:20.315134,Himalaya Urja Bikas Company Limited
+2026041704012154,HURJA,74,16,375,275.0,103125.0,2026-04-17,186861062,2824,KALASH STOCK MARKET PVT. LTD.,Primo Securities (PVT) Ltd.,2026-04-17 13:21:20.315447,Himalaya Urja Bikas Company Limited
+2026041704012189,HURJA,41,16,500,275.0,137500.0,2026-04-17,186861356,2824,Linch Stock Market Ltd.,Primo Securities (PVT) Ltd.,2026-04-17 13:21:46.060952,Himalaya Urja Bikas Company Limited
+2026041704012275,HURJA,58,16,25,275.0,6875.0,2026-04-17,186862473,2824,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-17 13:23:03.072336,Himalaya Urja Bikas Company Limited
+2026041704012408,HURJA,14,58,15,275.1,4126.5,2026-04-17,186863753,2824,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:25:16.467029,Himalaya Urja Bikas Company Limited
+2026041704012514,HURJA,41,34,100,275.5,27550.0,2026-04-17,186864800,2824,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:27:37.141457,Himalaya Urja Bikas Company Limited
+2026041704012560,HURJA,58,40,250,276.5,69125.0,2026-04-17,186865220,2824,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-17 13:28:16.735106,Himalaya Urja Bikas Company Limited
+2026041704012932,HURJA,41,40,210,276.5,58065.0,2026-04-17,186867413,2824,Linch Stock Market Ltd.,Creative Securities Pvt Ltd,2026-04-17 13:32:00.161482,Himalaya Urja Bikas Company Limited
+2026041704013025,HURJA,7,60,10,276.7,2767.0,2026-04-17,186868438,2824,J.F. Securites (PVT) Ltd.,Nagarik Stock Dealer ,2026-04-17 13:32:55.568136,Himalaya Urja Bikas Company Limited
+2026041704013035,HURJA,36,60,21,276.7,5810.7,2026-04-17,186868516,2824,Secured Securities Ltd.,Nagarik Stock Dealer ,2026-04-17 13:33:00.601205,Himalaya Urja Bikas Company Limited
+2026041704013036,HURJA,56,60,269,276.7,74432.3,2026-04-17,186868517,2824,Sri Hari Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 13:33:00.625606,Himalaya Urja Bikas Company Limited
+2026041704013037,HURJA,56,40,470,276.7,130049.0,2026-04-17,186868519,2824,Sri Hari Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 13:33:00.626045,Himalaya Urja Bikas Company Limited
+2026041704013061,HURJA,34,64,50,276.8,13840.0,2026-04-17,186868756,2824,Vision Securities Pvt. Ltd,SUN SECURITIES PVT LTD,2026-04-17 13:33:16.614212,Himalaya Urja Bikas Company Limited
+2026041704013067,HURJA,52,64,500,276.8,138400.0,2026-04-17,186868780,2824,Sundhara Securities Limited,SUN SECURITIES PVT LTD,2026-04-17 13:33:19.109743,Himalaya Urja Bikas Company Limited
+2026041704013118,HURJA,41,64,600,276.8,166080.0,2026-04-17,186869214,2824,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:33:43.368853,Himalaya Urja Bikas Company Limited
+2026041704013120,HURJA,35,64,1000,276.8,276800.0,2026-04-17,186869242,2824,Kohinoor Investment & Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:33:45.767675,Himalaya Urja Bikas Company Limited
+2026041704013121,HURJA,25,64,200,276.8,55360.0,2026-04-17,186869278,2824,Sweta Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-17 13:33:47.030381,Himalaya Urja Bikas Company Limited
+2026041704013166,HURJA,42,64,500,276.8,138400.0,2026-04-17,186869690,2824,Sani Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:34:16.377521,Himalaya Urja Bikas Company Limited
+2026041704013194,HURJA,41,64,150,276.8,41520.0,2026-04-17,186869797,2824,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:34:26.852177,Himalaya Urja Bikas Company Limited
+2026041704013217,HURJA,41,8,150,276.8,41520.0,2026-04-17,186869932,2824,Linch Stock Market Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-17 13:34:35.691419,Himalaya Urja Bikas Company Limited
+2026041704013218,HURJA,56,8,250,276.7,69175.0,2026-04-17,186869933,2824,Sri Hari Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-17 13:34:35.691954,Himalaya Urja Bikas Company Limited
+2026041704013307,HURJA,34,64,1000,276.9,276900.0,2026-04-17,186870402,2824,Vision Securities Pvt. Ltd,SUN SECURITIES PVT LTD,2026-04-17 13:35:10.113899,Himalaya Urja Bikas Company Limited
+2026041704013410,HURJA,38,64,200,276.9,55380.0,2026-04-17,186871122,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:36:21.083052,Himalaya Urja Bikas Company Limited
+2026041704013447,HURJA,41,64,500,276.9,138450.0,2026-04-17,186871354,2824,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:36:47.781860,Himalaya Urja Bikas Company Limited
+2026041704013776,HURJA,65,64,100,276.9,27690.0,2026-04-17,186873312,2824,Sharepro Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-17 13:39:21.812807,Himalaya Urja Bikas Company Limited
+2026041704013781,HURJA,56,64,200,276.9,55380.0,2026-04-17,186873365,2824,Sri Hari Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:39:28.597743,Himalaya Urja Bikas Company Limited
+2026041704013829,HURJA,56,45,500,277.0,138500.0,2026-04-17,186873603,2824,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:39:48.203439,Himalaya Urja Bikas Company Limited
+2026041704013881,HURJA,80,38,100,278.2,27820.0,2026-04-17,186874118,2824,Indira securities pvt. ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:40:36.859124,Himalaya Urja Bikas Company Limited
+2026041704013906,HURJA,43,38,200,278.2,55640.0,2026-04-17,186874368,2824,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:41:01.713945,Himalaya Urja Bikas Company Limited
+2026041704013926,HURJA,36,38,200,278.2,55640.0,2026-04-17,186874496,2824,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:41:12.023037,Himalaya Urja Bikas Company Limited
+2026041704013930,HURJA,36,38,500,278.2,139100.0,2026-04-17,186874523,2824,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:41:16.566751,Himalaya Urja Bikas Company Limited
+2026041704013940,HURJA,36,42,150,278.2,41730.0,2026-04-17,186874603,2824,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-17 13:41:25.931307,Himalaya Urja Bikas Company Limited
+2026041704013967,HURJA,36,38,50,278.2,13910.0,2026-04-17,186874696,2824,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:41:32.665998,Himalaya Urja Bikas Company Limited
+2026041704013982,HURJA,5,34,100,277.3,27730.0,2026-04-17,186874750,2824,Market Securities & Exchange (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:41:37.382574,Himalaya Urja Bikas Company Limited
+2026041704013983,HURJA,45,34,1453,277.3,402916.9,2026-04-17,186874751,2824,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:41:37.382874,Himalaya Urja Bikas Company Limited
+2026041704014014,HURJA,92,38,950,278.0,264100.0,2026-04-17,186874919,2824,Roadshow securities limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:41:50.131580,Himalaya Urja Bikas Company Limited
+2026041704014077,HURJA,92,7,50,278.0,13900.0,2026-04-17,186875226,2824,Roadshow securities limited,J.F. Securites (PVT) Ltd.,2026-04-17 13:42:11.483237,Himalaya Urja Bikas Company Limited
+2026041704014082,HURJA,14,7,450,278.0,125100.0,2026-04-17,186875257,2824,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-17 13:42:14.450573,Himalaya Urja Bikas Company Limited
+2026041704014113,HURJA,14,34,450,278.0,125100.0,2026-04-17,186875466,2824,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:42:32.667200,Himalaya Urja Bikas Company Limited
+2026041704014119,HURJA,57,34,50,278.0,13900.0,2026-04-17,186875521,2824,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-17 13:42:37.476407,Himalaya Urja Bikas Company Limited
+2026041704014120,HURJA,57,50,950,278.5,264575.0,2026-04-17,186875524,2824,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:42:37.476519,Himalaya Urja Bikas Company Limited
+2026041704014153,HURJA,50,50,10000,278.5,2785000.0,2026-04-17,186875658,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:42:52.845571,Himalaya Urja Bikas Company Limited
+2026041704014165,HURJA,22,50,30,278.5,8355.0,2026-04-17,186875712,2824,Siprabi Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:42:58.612836,Himalaya Urja Bikas Company Limited
+2026041704014166,HURJA,50,50,10000,278.5,2785000.0,2026-04-17,186875716,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:42:59.054477,Himalaya Urja Bikas Company Limited
+2026041704014171,HURJA,50,50,5000,278.5,1392500.0,2026-04-17,186875754,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:43:07.116913,Himalaya Urja Bikas Company Limited
+2026041704014229,HURJA,26,64,50,278.0,13900.0,2026-04-17,186876008,2824,Asian Securities Private Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:43:30.783148,Himalaya Urja Bikas Company Limited
+2026041704014230,HURJA,11,64,100,278.0,27800.0,2026-04-17,186876010,2824,Malla & Malla Stock Broking Company Pvt. Limited,SUN SECURITIES PVT LTD,2026-04-17 13:43:30.783676,Himalaya Urja Bikas Company Limited
+2026041704014307,HURJA,45,86,500,277.3,138650.0,2026-04-17,186876367,2824,Imperial Securities Company Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-17 13:43:43.928206,Himalaya Urja Bikas Company Limited
+2026041704014327,HURJA,49,64,1000,278.0,278000.0,2026-04-17,186876488,2824,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:43:53.961361,Himalaya Urja Bikas Company Limited
+2026041704014496,HURJA,45,54,47,277.3,13033.1,2026-04-17,186877516,2824,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-17 13:45:07.763075,Himalaya Urja Bikas Company Limited
+2026041704014497,HURJA,94,54,1453,277.3,402916.9,2026-04-17,186877517,2824,K.B.L. Securities Limited ,Sewa Securities Pvt. Ltd.,2026-04-17 13:45:07.763584,Himalaya Urja Bikas Company Limited
+2026041704014512,HURJA,49,64,22,278.0,6116.0,2026-04-17,186877749,2824,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-17 13:45:23.375558,Himalaya Urja Bikas Company Limited
+2026041704014513,HURJA,49,32,200,278.4,55680.0,2026-04-17,186877751,2824,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-17 13:45:23.375852,Himalaya Urja Bikas Company Limited
+2026041704014514,HURJA,49,50,778,278.5,216673.0,2026-04-17,186877754,2824,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:45:23.375966,Himalaya Urja Bikas Company Limited
+2026041704014617,HURJA,48,50,500,278.5,139250.0,2026-04-17,186878338,2824,Trishakti Securities Public Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:46:25.543263,Himalaya Urja Bikas Company Limited
+2026041704014680,HURJA,11,50,672,278.5,187152.0,2026-04-17,186878861,2824,Malla & Malla Stock Broking Company Pvt. Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 13:47:43.083036,Himalaya Urja Bikas Company Limited
+2026041704014681,HURJA,11,45,150,278.6,41790.0,2026-04-17,186878863,2824,Malla & Malla Stock Broking Company Pvt. Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:47:43.083367,Himalaya Urja Bikas Company Limited
+2026041704014682,HURJA,11,49,10,279.0,2790.0,2026-04-17,186878865,2824,Malla & Malla Stock Broking Company Pvt. Limited,Online Securities Pvt. Ltd.,2026-04-17 13:47:43.083480,Himalaya Urja Bikas Company Limited
+2026041704014683,HURJA,11,57,168,279.0,46872.0,2026-04-17,186878868,2824,Malla & Malla Stock Broking Company Pvt. Limited,Aryatara Investment & Securities,2026-04-17 13:47:43.083589,Himalaya Urja Bikas Company Limited
+2026041704014692,HURJA,42,58,800,278.0,222400.0,2026-04-17,186879048,2824,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:47:58.800226,Himalaya Urja Bikas Company Limited
+2026041704014703,HURJA,94,58,547,277.3,151683.1,2026-04-17,186879152,2824,K.B.L. Securities Limited ,Naasa Securities Co. Ltd.,2026-04-17 13:48:17.513498,Himalaya Urja Bikas Company Limited
+2026041704014724,HURJA,48,58,50,277.0,13850.0,2026-04-17,186879294,2824,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-17 13:48:34.146006,Himalaya Urja Bikas Company Limited
+2026041704014725,HURJA,21,58,500,277.0,138500.0,2026-04-17,186879296,2824,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-17 13:48:34.146544,Himalaya Urja Bikas Company Limited
+2026041704014726,HURJA,34,58,50,277.0,13850.0,2026-04-17,186879297,2824,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 13:48:34.146877,Himalaya Urja Bikas Company Limited
+2026041704014799,HURJA,56,58,53,276.9,14675.7,2026-04-17,186879765,2824,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:49:30.547583,Himalaya Urja Bikas Company Limited
+2026041704014992,HURJA,41,4,30,277.3,8319.0,2026-04-17,186881378,2824,Linch Stock Market Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:53:10.335178,Himalaya Urja Bikas Company Limited
+2026041704014993,HURJA,45,4,1000,277.0,277000.0,2026-04-17,186881380,2824,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:53:10.335487,Himalaya Urja Bikas Company Limited
+2026041704014994,HURJA,56,4,47,276.9,13014.3,2026-04-17,186881382,2824,Sri Hari Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:53:10.335827,Himalaya Urja Bikas Company Limited
+2026041704014995,HURJA,34,4,100,276.5,27650.0,2026-04-17,186881384,2824,Vision Securities Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:53:10.336165,Himalaya Urja Bikas Company Limited
+2026041704014996,HURJA,57,4,100,276.3,27630.0,2026-04-17,186881386,2824,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:53:10.336479,Himalaya Urja Bikas Company Limited
+2026041704014997,HURJA,37,4,300,276.1,82830.0,2026-04-17,186881388,2824,Swarna Laxmi Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:53:10.336795,Himalaya Urja Bikas Company Limited
+2026041704014998,HURJA,94,4,3423,276.0,944748.0,2026-04-17,186881389,2824,K.B.L. Securities Limited ,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:53:10.337105,Himalaya Urja Bikas Company Limited
+2026041704015189,HURJA,7,4,10,275.4,2754.0,2026-04-17,186882814,2824,J.F. Securites (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.679411,Himalaya Urja Bikas Company Limited
+2026041704015190,HURJA,14,4,49,275.1,13479.9,2026-04-17,186882816,2824,Nepal Stock House (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.679697,Himalaya Urja Bikas Company Limited
+2026041704015191,HURJA,45,4,1000,275.1,275100.0,2026-04-17,186882818,2824,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.679802,Himalaya Urja Bikas Company Limited
+2026041704015192,HURJA,94,4,1577,275.1,433832.7,2026-04-17,186882820,2824,K.B.L. Securities Limited ,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.679909,Himalaya Urja Bikas Company Limited
+2026041704015193,HURJA,58,4,275,275.0,75625.0,2026-04-17,186882822,2824,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.680043,Himalaya Urja Bikas Company Limited
+2026041704015194,HURJA,44,4,100,275.0,27500.0,2026-04-17,186882824,2824,Dynamic Money Managers Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.680146,Himalaya Urja Bikas Company Limited
+2026041704015195,HURJA,7,4,10,275.0,2750.0,2026-04-17,186882826,2824,J.F. Securites (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.680248,Himalaya Urja Bikas Company Limited
+2026041704015196,HURJA,58,4,2775,275.0,763125.0,2026-04-17,186882828,2824,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.680352,Himalaya Urja Bikas Company Limited
+2026041704015197,HURJA,6,4,1000,275.0,275000.0,2026-04-17,186882830,2824,Agrawal Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.680464,Himalaya Urja Bikas Company Limited
+2026041704015198,HURJA,40,4,100,275.0,27500.0,2026-04-17,186882832,2824,Creative Securities Pvt Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:18.680851,Himalaya Urja Bikas Company Limited
+2026041704015204,HURJA,37,4,300,275.0,82500.0,2026-04-17,186882876,2824,Swarna Laxmi Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:27.344072,Himalaya Urja Bikas Company Limited
+2026041704015212,HURJA,14,4,1450,275.0,398750.0,2026-04-17,186882928,2824,Nepal Stock House (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:56:35.315013,Himalaya Urja Bikas Company Limited
+2026041704015342,HURJA,43,4,200,275.0,55000.0,2026-04-17,186884164,2824,South Asian Bulls Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:59:56.420624,Himalaya Urja Bikas Company Limited
+2026041704015358,HURJA,45,58,212,274.7,58236.4,2026-04-17,186884303,2824,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:00:17.767408,Himalaya Urja Bikas Company Limited
+2026041704015362,HURJA,56,4,511,275.0,140525.0,2026-04-17,186884324,2824,Sri Hari Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:00:21.435654,Himalaya Urja Bikas Company Limited
+2026041704015421,HURJA,33,4,643,275.0,176825.0,2026-04-17,186884877,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:01:38.802606,Himalaya Urja Bikas Company Limited
+2026041704015422,HURJA,33,4,857,275.0,235675.0,2026-04-17,186884880,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:01:38.803106,Himalaya Urja Bikas Company Limited
+2026041704015431,HURJA,33,4,1500,275.0,412500.0,2026-04-17,186884988,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:01:56.935037,Himalaya Urja Bikas Company Limited
+2026041704015435,HURJA,74,4,400,275.0,110000.0,2026-04-17,186885026,2824,KALASH STOCK MARKET PVT. LTD.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:02:03.121618,Himalaya Urja Bikas Company Limited
+2026041704015444,HURJA,35,4,2243,275.0,616825.0,2026-04-17,186885114,2824,Kohinoor Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:02:12.397567,Himalaya Urja Bikas Company Limited
+2026041704015565,HURJA,49,10,100,275.3,27530.0,2026-04-17,186889474,2824,Online Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 14:04:22.374231,Himalaya Urja Bikas Company Limited
+2026041704015566,HURJA,42,10,110,275.2,30272.0,2026-04-17,186889475,2824,Sani Securities Company Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 14:04:22.374327,Himalaya Urja Bikas Company Limited
+2026041704015856,HURJA,42,58,40,278.0,11120.0,2026-04-17,186891872,2824,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:07:21.126609,Himalaya Urja Bikas Company Limited
+2026041704016002,HURJA,41,58,50,276.0,13800.0,2026-04-17,186893433,2824,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:08:31.789010,Himalaya Urja Bikas Company Limited
+2026041704016078,HURJA,41,70,17,276.0,4692.0,2026-04-17,186894114,2824,Linch Stock Market Ltd.,Infinity Securities Limited,2026-04-17 14:09:33.891135,Himalaya Urja Bikas Company Limited
+2026041704016079,HURJA,33,70,500,276.0,138000.0,2026-04-17,186894116,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-17 14:09:33.891683,Himalaya Urja Bikas Company Limited
+2026041704016080,HURJA,33,70,883,276.0,243708.0,2026-04-17,186894117,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-17 14:09:33.892030,Himalaya Urja Bikas Company Limited
+2026041704016293,HURJA,33,58,60,278.0,16680.0,2026-04-17,186895699,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:11:31.138177,Himalaya Urja Bikas Company Limited
+2026041704016294,HURJA,33,56,557,279.7,155792.9,2026-04-17,186895702,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:11:31.138437,Himalaya Urja Bikas Company Limited
+2026041704016318,HURJA,36,56,275,279.7,76917.5,2026-04-17,186895862,2824,Secured Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:11:43.520555,Himalaya Urja Bikas Company Limited
+2026041704016375,HURJA,63,56,168,279.7,46989.6,2026-04-17,186896249,2824,Himalayan Brokerage Company Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:12:18.644198,Himalaya Urja Bikas Company Limited
+2026041704016406,HURJA,63,98,132,279.8,36933.6,2026-04-17,186896442,2824,Himalayan Brokerage Company Limited,Trademow Securities Private Limited,2026-04-17 14:12:38.516705,Himalaya Urja Bikas Company Limited
+2026041704016470,HURJA,56,98,50,279.8,13990.0,2026-04-17,186896764,2824,Sri Hari Securities Pvt. Ltd.,Trademow Securities Private Limited,2026-04-17 14:13:11.159326,Himalaya Urja Bikas Company Limited
+2026041704016653,HURJA,21,98,118,279.8,33016.4,2026-04-17,186898287,2824,Midas Stock Broking Company Private Limited,Trademow Securities Private Limited,2026-04-17 14:15:38.069583,Himalaya Urja Bikas Company Limited
+2026041704016654,HURJA,21,54,32,280.0,8960.0,2026-04-17,186898289,2824,Midas Stock Broking Company Private Limited,Sewa Securities Pvt. Ltd.,2026-04-17 14:15:38.069645,Himalaya Urja Bikas Company Limited
+2026041704016655,HURJA,21,45,75,280.0,21000.0,2026-04-17,186898291,2824,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:15:38.069678,Himalaya Urja Bikas Company Limited
+2026041704016656,HURJA,21,91,30,280.0,8400.0,2026-04-17,186898293,2824,Midas Stock Broking Company Private Limited,Citizens Share Broker Limited,2026-04-17 14:15:38.069704,Himalaya Urja Bikas Company Limited
+2026041704016657,HURJA,21,42,745,280.0,208600.0,2026-04-17,186898296,2824,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-17 14:15:38.069724,Himalaya Urja Bikas Company Limited
+2026041704017210,HURJA,80,50,500,278.0,139000.0,2026-04-17,186902098,2824,Indira securities pvt. ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:20:36.492891,Himalaya Urja Bikas Company Limited
+2026041704017211,HURJA,45,50,20,277.2,5544.0,2026-04-17,186902100,2824,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:20:36.492977,Himalaya Urja Bikas Company Limited
+2026041704017212,HURJA,38,50,1000,277.0,277000.0,2026-04-17,186902102,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:20:36.493002,Himalaya Urja Bikas Company Limited
+2026041704017213,HURJA,42,50,50,277.0,13850.0,2026-04-17,186902104,2824,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:20:36.493026,Himalaya Urja Bikas Company Limited
+2026041704017214,HURJA,35,50,30,276.9,8307.0,2026-04-17,186902106,2824,Kohinoor Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:20:36.493052,Himalaya Urja Bikas Company Limited
+2026041704017215,HURJA,56,50,16,276.6,4425.6,2026-04-17,186902107,2824,Sri Hari Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:20:36.493077,Himalaya Urja Bikas Company Limited
+2026041704017474,HURJA,8,58,33,277.1,9144.3,2026-04-17,186904405,2824,Brilliant Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:23:33.469310,Himalaya Urja Bikas Company Limited
+2026041704017631,HURJA,8,38,300,277.1,83130.0,2026-04-17,186906027,2824,Brilliant Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:25:29.159621,Himalaya Urja Bikas Company Limited
+2026041704017743,HURJA,8,58,400,277.1,110840.0,2026-04-17,186907419,2824,Brilliant Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:27:40.351297,Himalaya Urja Bikas Company Limited
+2026041704017935,HURJA,42,60,40,277.2,11088.0,2026-04-17,186909454,2824,Sani Securities Company Ltd.,Nagarik Stock Dealer ,2026-04-17 14:30:25.271435,Himalaya Urja Bikas Company Limited
+2026041704017936,HURJA,57,60,100,277.2,27720.0,2026-04-17,186909456,2824,Aryatara Investment & Securities,Nagarik Stock Dealer ,2026-04-17 14:30:25.271974,Himalaya Urja Bikas Company Limited
+2026041704017937,HURJA,8,60,267,277.1,73985.7,2026-04-17,186909458,2824,Brilliant Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 14:30:25.272335,Himalaya Urja Bikas Company Limited
+2026041704017938,HURJA,45,60,500,277.0,138500.0,2026-04-17,186909460,2824,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 14:30:25.272680,Himalaya Urja Bikas Company Limited
+2026041704017939,HURJA,54,60,250,277.0,69250.0,2026-04-17,186909462,2824,Sewa Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 14:30:25.273027,Himalaya Urja Bikas Company Limited
+2026041704017940,HURJA,56,60,443,276.6,122533.8,2026-04-17,186909463,2824,Sri Hari Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 14:30:25.273396,Himalaya Urja Bikas Company Limited
+2026041704017994,HURJA,56,35,541,276.6,149640.6,2026-04-17,186910128,2824,Sri Hari Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:31:06.369899,Himalaya Urja Bikas Company Limited
+2026041704017995,HURJA,32,35,959,276.5,265163.5,2026-04-17,186910129,2824,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:31:06.370471,Himalaya Urja Bikas Company Limited
+2026041704018054,HURJA,49,38,100,278.0,27800.0,2026-04-17,186910522,2824,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:31:40.672801,Himalaya Urja Bikas Company Limited
+2026041704018366,HURJA,8,50,2000,276.1,552200.0,2026-04-17,186912812,2824,Brilliant Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.801239,Himalaya Urja Bikas Company Limited
+2026041704018367,HURJA,34,50,25,276.0,6900.0,2026-04-17,186912814,2824,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.801778,Himalaya Urja Bikas Company Limited
+2026041704018368,HURJA,17,50,400,276.0,110400.0,2026-04-17,186912816,2824,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.802137,Himalaya Urja Bikas Company Limited
+2026041704018369,HURJA,84,50,100,276.0,27600.0,2026-04-17,186912818,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.802493,Himalaya Urja Bikas Company Limited
+2026041704018370,HURJA,44,50,100,276.0,27600.0,2026-04-17,186912820,2824,Dynamic Money Managers Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.802819,Himalaya Urja Bikas Company Limited
+2026041704018371,HURJA,50,50,1000,276.0,276000.0,2026-04-17,186912822,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.803158,Himalaya Urja Bikas Company Limited
+2026041704018372,HURJA,58,50,1000,276.0,276000.0,2026-04-17,186912824,2824,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.803509,Himalaya Urja Bikas Company Limited
+2026041704018373,HURJA,17,50,500,275.5,137750.0,2026-04-17,186912826,2824,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.803848,Himalaya Urja Bikas Company Limited
+2026041704018374,HURJA,74,50,1500,275.5,413250.0,2026-04-17,186912828,2824,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.804186,Himalaya Urja Bikas Company Limited
+2026041704018375,HURJA,45,50,288,275.4,79315.2,2026-04-17,186912830,2824,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.804521,Himalaya Urja Bikas Company Limited
+2026041704018376,HURJA,52,50,50,275.4,13770.0,2026-04-17,186912832,2824,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.804881,Himalaya Urja Bikas Company Limited
+2026041704018377,HURJA,57,50,1000,275.4,275400.0,2026-04-17,186912834,2824,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.805215,Himalaya Urja Bikas Company Limited
+2026041704018378,HURJA,33,50,440,275.3,121132.0,2026-04-17,186912836,2824,Dakshinkali Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.805559,Himalaya Urja Bikas Company Limited
+2026041704018379,HURJA,16,50,2000,275.3,550600.0,2026-04-17,186912838,2824,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.805889,Himalaya Urja Bikas Company Limited
+2026041704018380,HURJA,39,50,100,275.1,27510.0,2026-04-17,186912840,2824,Sumeru Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.806219,Himalaya Urja Bikas Company Limited
+2026041704018381,HURJA,32,50,1000,275.1,275100.0,2026-04-17,186912842,2824,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.806546,Himalaya Urja Bikas Company Limited
+2026041704018382,HURJA,6,50,100,275.1,27510.0,2026-04-17,186912844,2824,Agrawal Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.806890,Himalaya Urja Bikas Company Limited
+2026041704018383,HURJA,38,50,500,275.0,137500.0,2026-04-17,186912846,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.807218,Himalaya Urja Bikas Company Limited
+2026041704018384,HURJA,70,50,200,275.0,55000.0,2026-04-17,186912848,2824,Infinity Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.807549,Himalaya Urja Bikas Company Limited
+2026041704018385,HURJA,42,50,40,275.0,11000.0,2026-04-17,186912850,2824,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.807871,Himalaya Urja Bikas Company Limited
+2026041704018386,HURJA,58,50,100,275.0,27500.0,2026-04-17,186912852,2824,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.808190,Himalaya Urja Bikas Company Limited
+2026041704018387,HURJA,17,50,500,275.0,137500.0,2026-04-17,186912854,2824,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.808518,Himalaya Urja Bikas Company Limited
+2026041704018388,HURJA,58,50,10,275.0,2750.0,2026-04-17,186912856,2824,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.808857,Himalaya Urja Bikas Company Limited
+2026041704018389,HURJA,32,50,1500,275.0,412500.0,2026-04-17,186912858,2824,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.809177,Himalaya Urja Bikas Company Limited
+2026041704018390,HURJA,21,50,300,275.0,82500.0,2026-04-17,186912860,2824,Midas Stock Broking Company Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.809494,Himalaya Urja Bikas Company Limited
+2026041704018391,HURJA,85,50,400,275.0,110000.0,2026-04-17,186912862,2824,Capital Hub P. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.809796,Himalaya Urja Bikas Company Limited
+2026041704018392,HURJA,32,50,541,275.0,148775.0,2026-04-17,186912864,2824,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:00.810100,Himalaya Urja Bikas Company Limited
+2026041704018413,HURJA,64,50,1000,275.0,275000.0,2026-04-17,186913090,2824,SUN SECURITIES PVT LTD,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:17.894613,Himalaya Urja Bikas Company Limited
+2026041704018452,HURJA,50,50,293,275.0,80575.0,2026-04-17,186913291,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:35:30.972055,Himalaya Urja Bikas Company Limited
+2026041704018588,HURJA,50,47,10,275.3,2753.0,2026-04-17,186914794,2824,Cristal Kanchanjanga Securites Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 14:37:08.375564,Himalaya Urja Bikas Company Limited
+2026041704018589,HURJA,64,47,90,275.2,24768.0,2026-04-17,186914795,2824,SUN SECURITIES PVT LTD,Neev Securities Pvt. Ltd.,2026-04-17 14:37:08.375814,Himalaya Urja Bikas Company Limited
+2026041704019176,HURJA,64,59,200,276.2,55240.0,2026-04-17,186919952,2824,SUN SECURITIES PVT LTD,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 14:43:42.837239,Himalaya Urja Bikas Company Limited
+2026041704019177,HURJA,57,59,300,276.2,82860.0,2026-04-17,186919953,2824,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 14:43:42.837819,Himalaya Urja Bikas Company Limited
+2026041704019205,HURJA,63,47,100,276.1,27610.0,2026-04-17,186920133,2824,Himalayan Brokerage Company Limited,Neev Securities Pvt. Ltd.,2026-04-17 14:43:56.428460,Himalaya Urja Bikas Company Limited
+2026041704019264,HURJA,42,47,51,277.5,14152.5,2026-04-17,186920752,2824,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 14:44:47.049707,Himalaya Urja Bikas Company Limited
+2026041704019378,HURJA,4,47,2000,277.5,555000.0,2026-04-17,186921786,2824,Opal Securities Investment (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 14:45:56.661592,Himalaya Urja Bikas Company Limited
+2026041704019533,HURJA,84,38,100,277.0,27700.0,2026-04-17,186923270,2824,MILKY WAY SHARE BROKER COMPANY LTD ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:47:11.608914,Himalaya Urja Bikas Company Limited
+2026041704019577,HURJA,13,47,949,276.9,262778.1,2026-04-17,186923762,2824,Thrive Brokerage House Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-17 14:47:46.027461,Himalaya Urja Bikas Company Limited
+2026041704019614,HURJA,62,38,100,278.0,27800.0,2026-04-17,186924323,2824,Capital Max Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:48:14.732423,Himalaya Urja Bikas Company Limited
+2026041704019615,HURJA,62,6,180,278.0,50040.0,2026-04-17,186924325,2824,Capital Max Securities Ltd,Agrawal Securities (PVT) Ltd.,2026-04-17 14:48:14.732773,Himalaya Urja Bikas Company Limited
+2026041704019741,HURJA,13,50,35,278.4,9744.0,2026-04-17,186925969,2824,Thrive Brokerage House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 14:49:17.198931,Himalaya Urja Bikas Company Limited
+2026041704019742,HURJA,13,58,665,278.4,185136.0,2026-04-17,186925972,2824,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:49:17.199550,Himalaya Urja Bikas Company Limited
+2026041704019743,HURJA,62,94,200,278.0,55600.0,2026-04-17,186925973,2824,Capital Max Securities Ltd,K.B.L. Securities Limited ,2026-04-17 14:49:17.509136,Himalaya Urja Bikas Company Limited
+2026041704019823,HURJA,62,45,20,278.0,5560.0,2026-04-17,186926792,2824,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:49:46.391880,Himalaya Urja Bikas Company Limited
+2026041704019872,HURJA,13,45,40,278.0,11120.0,2026-04-17,186927263,2824,Thrive Brokerage House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:50:05.440389,Himalaya Urja Bikas Company Limited
+2026041704019873,HURJA,13,58,60,278.4,16704.0,2026-04-17,186927266,2824,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:50:05.440742,Himalaya Urja Bikas Company Limited
+2026041704019922,HURJA,34,58,275,278.4,76560.0,2026-04-17,186927747,2824,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:50:30.742822,Himalaya Urja Bikas Company Limited
+2026041704019923,HURJA,34,94,200,279.6,55920.0,2026-04-17,186927749,2824,Vision Securities Pvt. Ltd,K.B.L. Securities Limited ,2026-04-17 14:50:30.742926,Himalaya Urja Bikas Company Limited
+2026041704019924,HURJA,34,19,1000,279.7,279700.0,2026-04-17,186927751,2824,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-17 14:50:30.743009,Himalaya Urja Bikas Company Limited
+2026041704019925,HURJA,34,95,120,279.7,33564.0,2026-04-17,186927753,2824,Vision Securities Pvt. Ltd,Magnet Securities and Investment Company Private Limited,2026-04-17 14:50:30.743096,Himalaya Urja Bikas Company Limited
+2026041704019926,HURJA,34,16,405,279.8,113319.0,2026-04-17,186927756,2824,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-17 14:50:30.743172,Himalaya Urja Bikas Company Limited
+2026041704020271,HURJA,11,94,200,278.1,55620.0,2026-04-17,186930926,2824,Malla & Malla Stock Broking Company Pvt. Limited,K.B.L. Securities Limited ,2026-04-17 14:52:40.346080,Himalaya Urja Bikas Company Limited
+2026041704020272,HURJA,4,94,300,278.0,83400.0,2026-04-17,186930927,2824,Opal Securities Investment (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-17 14:52:40.346172,Himalaya Urja Bikas Company Limited
+2026041704020310,HURJA,42,44,20,278.1,5562.0,2026-04-17,186931266,2824,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:52:59.341350,Himalaya Urja Bikas Company Limited
+2026041704020311,HURJA,4,44,200,278.0,55600.0,2026-04-17,186931268,2824,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:52:59.341910,Himalaya Urja Bikas Company Limited
+2026041704020312,HURJA,58,44,340,277.1,94214.0,2026-04-17,186931270,2824,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:52:59.342295,Himalaya Urja Bikas Company Limited
+2026041704020313,HURJA,43,44,200,277.1,55420.0,2026-04-17,186931272,2824,South Asian Bulls Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:52:59.342686,Himalaya Urja Bikas Company Limited
+2026041704020314,HURJA,36,44,45,277.0,12465.0,2026-04-17,186931274,2824,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:52:59.343051,Himalaya Urja Bikas Company Limited
+2026041704020315,HURJA,28,44,100,276.4,27640.0,2026-04-17,186931276,2824,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:52:59.343427,Himalaya Urja Bikas Company Limited
+2026041704020316,HURJA,22,44,95,276.3,26248.5,2026-04-17,186931277,2824,Siprabi Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:52:59.343795,Himalaya Urja Bikas Company Limited
+2026041704020595,HURJA,11,3,10,277.0,2770.0,2026-04-17,186933957,2824,Malla & Malla Stock Broking Company Pvt. Limited,Arun Securities (PVT) Ltd.,2026-04-17 14:54:55.143967,Himalaya Urja Bikas Company Limited
+2026041704020616,HURJA,11,95,300,277.0,83100.0,2026-04-17,186934033,2824,Malla & Malla Stock Broking Company Pvt. Limited,Magnet Securities and Investment Company Private Limited,2026-04-17 14:54:57.793361,Himalaya Urja Bikas Company Limited
+2026041704020663,HURJA,57,42,200,278.0,55600.0,2026-04-17,186934434,2824,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-17 14:55:13.643258,Himalaya Urja Bikas Company Limited
+2026041704020785,HURJA,11,57,190,277.0,52630.0,2026-04-17,186935100,2824,Malla & Malla Stock Broking Company Pvt. Limited,Aryatara Investment & Securities,2026-04-17 14:55:42.770188,Himalaya Urja Bikas Company Limited
+2026041704020786,HURJA,49,57,100,277.0,27700.0,2026-04-17,186935102,2824,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 14:55:42.770829,Himalaya Urja Bikas Company Limited
+2026041704020787,HURJA,57,57,730,277.0,202210.0,2026-04-17,186935103,2824,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-17 14:55:42.771302,Himalaya Urja Bikas Company Limited
+2026041704020956,HURJA,57,94,270,277.0,74790.0,2026-04-17,186936374,2824,Aryatara Investment & Securities,K.B.L. Securities Limited ,2026-04-17 14:56:29.126805,Himalaya Urja Bikas Company Limited
+2026041704020957,HURJA,56,94,30,277.0,8310.0,2026-04-17,186936376,2824,Sri Hari Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-17 14:56:29.126877,Himalaya Urja Bikas Company Limited
+2026041704020958,HURJA,21,94,102,277.0,28254.0,2026-04-17,186936378,2824,Midas Stock Broking Company Private Limited,K.B.L. Securities Limited ,2026-04-17 14:56:29.126903,Himalaya Urja Bikas Company Limited
+2026041704020959,HURJA,42,94,20,276.4,5528.0,2026-04-17,186936380,2824,Sani Securities Company Ltd.,K.B.L. Securities Limited ,2026-04-17 14:56:29.126928,Himalaya Urja Bikas Company Limited
+2026041704020960,HURJA,38,94,78,276.4,21559.2,2026-04-17,186936381,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,K.B.L. Securities Limited ,2026-04-17 14:56:29.126954,Himalaya Urja Bikas Company Limited
+2026041704021175,HURJA,36,87,1052,277.9,292350.8,2026-04-17,186937729,2824,Secured Securities Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:57:08.811220,Himalaya Urja Bikas Company Limited
+2026041704021176,HURJA,36,42,300,278.0,83400.0,2026-04-17,186937731,2824,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-17 14:57:08.811754,Himalaya Urja Bikas Company Limited
+2026041704021177,HURJA,36,41,200,278.0,55600.0,2026-04-17,186937736,2824,Secured Securities Ltd.,Linch Stock Market Ltd.,2026-04-17 14:57:08.812133,Himalaya Urja Bikas Company Limited
+2026041704021397,HURJA,49,94,200,278.9,55780.0,2026-04-17,186939351,2824,Online Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-17 14:57:53.817931,Himalaya Urja Bikas Company Limited
+2026041704021398,HURJA,49,19,800,279.8,223840.0,2026-04-17,186939354,2824,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-17 14:57:53.818215,Himalaya Urja Bikas Company Limited
+2026041704021663,HURJA,57,57,100,277.1,27710.0,2026-04-17,186940979,2824,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-17 14:58:32.512777,Himalaya Urja Bikas Company Limited
+2026041704021825,HURJA,39,83,500,279.0,139500.0,2026-04-17,186942283,2824,Sumeru Securities Pvt. Ltd.,Sanima Securities Limited,2026-04-17 14:59:00.084453,Himalaya Urja Bikas Company Limited
+2026041704021954,HURJA,64,94,100,277.2,27720.0,2026-04-17,186943264,2824,SUN SECURITIES PVT LTD,K.B.L. Securities Limited ,2026-04-17 14:59:14.974243,Himalaya Urja Bikas Company Limited
+2026041704021955,HURJA,57,94,400,277.1,110840.0,2026-04-17,186943266,2824,Aryatara Investment & Securities,K.B.L. Securities Limited ,2026-04-17 14:59:14.974306,Himalaya Urja Bikas Company Limited
+2026041704021956,HURJA,80,94,18,277.1,4987.8,2026-04-17,186943268,2824,Indira securities pvt. ltd,K.B.L. Securities Limited ,2026-04-17 14:59:14.974369,Himalaya Urja Bikas Company Limited
+2026041704021957,HURJA,58,94,20,277.0,5540.0,2026-04-17,186943270,2824,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-17 14:59:14.974414,Himalaya Urja Bikas Company Limited
+2026041704021958,HURJA,38,94,462,277.0,127974.0,2026-04-17,186943271,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,K.B.L. Securities Limited ,2026-04-17 14:59:14.974454,Himalaya Urja Bikas Company Limited
+2026041704021997,HURJA,38,38,388,277.0,107476.0,2026-04-17,186943550,2824,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:59:19.083025,Himalaya Urja Bikas Company Limited
+2026041704021998,HURJA,32,38,612,277.0,169524.0,2026-04-17,186943551,2824,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:59:19.083582,Himalaya Urja Bikas Company Limited
+2026041704022169,HURJA,49,42,200,278.9,55780.0,2026-04-17,186944938,2824,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 14:59:37.234479,Himalaya Urja Bikas Company Limited
+2026041704022234,HURJA,96,41,150,277.5,41625.0,2026-04-17,186945192,2824,Himalayan Securities Limited,Linch Stock Market Ltd.,2026-04-17 14:59:39.421405,Himalaya Urja Bikas Company Limited
+2026041704022247,HURJA,41,17,200,277.6,55520.0,2026-04-17,186945332,2824,Linch Stock Market Ltd.,ABC Securities Private Limited,2026-04-17 14:59:41.240285,Himalaya Urja Bikas Company Limited
+2026041704022248,HURJA,96,17,155,277.5,43012.5,2026-04-17,186945333,2824,Himalayan Securities Limited,ABC Securities Private Limited,2026-04-17 14:59:41.240538,Himalaya Urja Bikas Company Limited
+2026041704022566,HURJA,57,16,10,279.5,2795.0,2026-04-17,186947085,2824,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-17 14:59:57.318120,Himalaya Urja Bikas Company Limited
+2026041704022573,HURJA,19,16,20,279.5,5590.0,2026-04-17,186947500,2824,Nepal Investment And Securities Trading Private Limited,Primo Securities (PVT) Ltd.,2026-04-17 14:59:57.702210,Himalaya Urja Bikas Company Limited
+2026041704022646,HURJA,94,16,500,279.5,139750.0,2026-04-17,186947268,2824,K.B.L. Securities Limited ,Primo Securities (PVT) Ltd.,2026-04-17 14:59:58.856984,Himalaya Urja Bikas Company Limited

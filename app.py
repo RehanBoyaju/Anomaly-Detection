@@ -12,11 +12,6 @@ warnings.filterwarnings('ignore')
 
 app = Flask(__name__) #start a web server on app.py
 
-@app.route("/")
-def hello_world():
-    return "<p>Hello flask</p>"
-
-@app.route("/api/analyze",methods=['POST'])
 
 @app.route("/api/analyze", methods=['POST'])
 def analyze():
@@ -190,7 +185,7 @@ def handle_date_inputs(train_start, train_end, test_start, test_end):
 
 def validate_list(data,list_name):
     if not isinstance(data, list) or not data:
-        return False,{"error": "{list_name} must be a non-empty list"}
+        return False,{"error": f"{list_name} must be a non-empty list"}
 
     return True,None
 

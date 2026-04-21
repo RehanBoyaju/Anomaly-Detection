@@ -1,0 +1,291 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041703000009,GRDBL,34,87,10,1036.0,10360.0,2026-04-17,186755095,2744,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-17 11:00:24.386909,Green Development Bank Ltd.
+2026041703000088,GRDBL,69,14,10,1068.0,10680.0,2026-04-17,186759704,2744,INDEX SECURITIES LIMITED,Nepal Stock House (PVT) Ltd.,2026-04-17 11:06:51.270420,Green Development Bank Ltd.
+2026041703000089,GRDBL,34,69,10,1046.0,10460.0,2026-04-17,186759753,2744,Vision Securities Pvt. Ltd,INDEX SECURITIES LIMITED,2026-04-17 11:06:55.010317,Green Development Bank Ltd.
+2026041703000145,GRDBL,38,45,10,1066.8,10668.0,2026-04-17,186762826,2744,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:10:58.582369,Green Development Bank Ltd.
+2026041703000161,GRDBL,60,87,10,1051.0,10510.0,2026-04-17,186763237,2744,Nagarik Stock Dealer ,S.P.S.A. Securities Limited,2026-04-17 11:11:28.507485,Green Development Bank Ltd.
+2026041703000299,GRDBL,20,20,2442,1052.0,2568984.0,2026-04-17,186769535,2744,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-17 11:18:53.384888,Green Development Bank Ltd.
+2026041703000377,GRDBL,49,29,2,1045.0,2090.0,2026-04-17,186772221,2744,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 11:21:40.661979,Green Development Bank Ltd.
+2026041703000574,GRDBL,58,52,97,1051.3,101976.1,2026-04-17,186778122,2744,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-17 11:27:42.567852,Green Development Bank Ltd.
+2026041703000575,GRDBL,60,52,240,1051.0,252240.0,2026-04-17,186778124,2744,Nagarik Stock Dealer ,Sundhara Securities Limited,2026-04-17 11:27:42.568060,Green Development Bank Ltd.
+2026041703000580,GRDBL,41,87,10,1046.4,10464.0,2026-04-17,186778485,2744,Linch Stock Market Ltd.,S.P.S.A. Securities Limited,2026-04-17 11:28:10.073669,Green Development Bank Ltd.
+2026041703001133,GRDBL,49,29,2,1050.1,2100.2,2026-04-17,186796327,2744,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 11:49:46.239073,Green Development Bank Ltd.
+2026041703001187,GRDBL,26,13,20,1047.0,20940.0,2026-04-17,186797585,2744,Asian Securities Private Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 11:51:37.478884,Green Development Bank Ltd.
+2026041703001212,GRDBL,49,57,10,1046.8,10468.0,2026-04-17,186797814,2744,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:51:56.258076,Green Development Bank Ltd.
+2026041703001213,GRDBL,49,57,10,1046.7,10467.0,2026-04-17,186797816,2744,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:51:56.258176,Green Development Bank Ltd.
+2026041703001214,GRDBL,49,57,20,1046.6,20932.0,2026-04-17,186797818,2744,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:51:56.258247,Green Development Bank Ltd.
+2026041703001215,GRDBL,62,57,50,1046.5,52325.0,2026-04-17,186797820,2744,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-17 11:51:56.258337,Green Development Bank Ltd.
+2026041703001216,GRDBL,60,57,50,1046.5,52325.0,2026-04-17,186797822,2744,Nagarik Stock Dealer ,Aryatara Investment & Securities,2026-04-17 11:51:56.258406,Green Development Bank Ltd.
+2026041703001217,GRDBL,49,57,10,1046.5,10465.0,2026-04-17,186797824,2744,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:51:56.258477,Green Development Bank Ltd.
+2026041703001218,GRDBL,41,57,23,1046.4,24067.2,2026-04-17,186797826,2744,Linch Stock Market Ltd.,Aryatara Investment & Securities,2026-04-17 11:51:56.258548,Green Development Bank Ltd.
+2026041703001219,GRDBL,57,57,12,1046.4,12556.8,2026-04-17,186797828,2744,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-17 11:51:56.258622,Green Development Bank Ltd.
+2026041703001235,GRDBL,49,58,10,1046.4,10464.0,2026-04-17,186798303,2744,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:52:24.982622,Green Development Bank Ltd.
+2026041703001246,GRDBL,59,57,15,1046.4,15696.0,2026-04-17,186798397,2744,Deevyaa Securities & Stock House Pvt. Ltd,Aryatara Investment & Securities,2026-04-17 11:52:36.699553,Green Development Bank Ltd.
+2026041703001476,GRDBL,49,29,6,1046.0,6276.0,2026-04-17,186802605,2744,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 11:58:06.895521,Green Development Bank Ltd.
+2026041703001488,GRDBL,59,52,31,1046.4,32438.4,2026-04-17,186802751,2744,Deevyaa Securities & Stock House Pvt. Ltd,Sundhara Securities Limited,2026-04-17 11:58:16.344752,Green Development Bank Ltd.
+2026041703001616,GRDBL,42,41,40,1048.0,41920.0,2026-04-17,186805421,2744,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-17 12:01:17.338869,Green Development Bank Ltd.
+2026041703001634,GRDBL,42,13,10,1048.0,10480.0,2026-04-17,186805853,2744,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 12:01:46.912567,Green Development Bank Ltd.
+2026041703001879,GRDBL,49,10,1,1045.0,1045.0,2026-04-17,186811441,2744,Online Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 12:08:22.590266,Green Development Bank Ltd.
+2026041703002050,GRDBL,48,52,100,1046.5,104650.0,2026-04-17,186814763,2744,Trishakti Securities Public Limited,Sundhara Securities Limited,2026-04-17 12:12:00.414497,Green Development Bank Ltd.
+2026041703002122,GRDBL,58,52,18,1046.4,18835.2,2026-04-17,186816465,2744,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-17 12:13:42.293734,Green Development Bank Ltd.
+2026041703002477,GRDBL,62,42,17,1046.4,17788.8,2026-04-17,186823997,2744,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-17 12:23:00.595467,Green Development Bank Ltd.
+2026041703002552,GRDBL,14,42,10,1046.3,10463.0,2026-04-17,186825336,2744,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 12:24:44.193232,Green Development Bank Ltd.
+2026041703002553,GRDBL,58,42,10,1046.3,10463.0,2026-04-17,186825337,2744,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:24:44.193415,Green Development Bank Ltd.
+2026041703002560,GRDBL,1,52,10,1045.0,10450.0,2026-04-17,186825493,2744,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-17 12:24:57.304532,Green Development Bank Ltd.
+2026041703002576,GRDBL,1,42,40,1045.0,41800.0,2026-04-17,186825657,2744,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-17 12:25:11.569998,Green Development Bank Ltd.
+2026041703002613,GRDBL,45,42,35,1043.0,36505.0,2026-04-17,186826261,2744,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:26:11.778047,Green Development Bank Ltd.
+2026041703002649,GRDBL,52,36,200,1040.0,208000.0,2026-04-17,186827004,2744,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-17 12:27:07.724486,Green Development Bank Ltd.
+2026041703002650,GRDBL,57,36,50,1040.0,52000.0,2026-04-17,186827006,2744,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-17 12:27:07.724517,Green Development Bank Ltd.
+2026041703002651,GRDBL,17,36,75,1036.0,77700.0,2026-04-17,186827008,2744,ABC Securities Private Limited,Secured Securities Ltd.,2026-04-17 12:27:07.724540,Green Development Bank Ltd.
+2026041703002652,GRDBL,1,36,50,1035.5,51775.0,2026-04-17,186827010,2744,Kumari Securities Private Limited,Secured Securities Ltd.,2026-04-17 12:27:07.724562,Green Development Bank Ltd.
+2026041703002653,GRDBL,22,36,300,1035.1,310530.0,2026-04-17,186827012,2744,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724586,Green Development Bank Ltd.
+2026041703002654,GRDBL,91,36,200,1035.0,207000.0,2026-04-17,186827014,2744,Citizens Share Broker Limited,Secured Securities Ltd.,2026-04-17 12:27:07.724615,Green Development Bank Ltd.
+2026041703002655,GRDBL,57,36,50,1035.0,51750.0,2026-04-17,186827016,2744,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-17 12:27:07.724634,Green Development Bank Ltd.
+2026041703002656,GRDBL,22,36,100,1035.0,103500.0,2026-04-17,186827018,2744,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724655,Green Development Bank Ltd.
+2026041703002657,GRDBL,49,36,29,1035.0,30015.0,2026-04-17,186827020,2744,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724674,Green Development Bank Ltd.
+2026041703002658,GRDBL,39,36,30,1033.0,30990.0,2026-04-17,186827022,2744,Sumeru Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724697,Green Development Bank Ltd.
+2026041703002659,GRDBL,58,36,75,1031.7,77377.5,2026-04-17,186827024,2744,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724716,Green Development Bank Ltd.
+2026041703002660,GRDBL,4,36,40,1030.0,41200.0,2026-04-17,186827026,2744,Opal Securities Investment (PVT) Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724737,Green Development Bank Ltd.
+2026041703002661,GRDBL,29,36,19,1030.0,19570.0,2026-04-17,186827028,2744,Trisul Securities & Invt. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724758,Green Development Bank Ltd.
+2026041703002662,GRDBL,52,36,200,1029.0,205800.0,2026-04-17,186827030,2744,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-17 12:27:07.724777,Green Development Bank Ltd.
+2026041703002663,GRDBL,43,36,100,1028.3,102830.0,2026-04-17,186827032,2744,South Asian Bulls Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724795,Green Development Bank Ltd.
+2026041703002664,GRDBL,22,36,30,1026.0,30780.0,2026-04-17,186827034,2744,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724816,Green Development Bank Ltd.
+2026041703002665,GRDBL,42,36,180,1026.0,184680.0,2026-04-17,186827036,2744,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-17 12:27:07.724835,Green Development Bank Ltd.
+2026041703002666,GRDBL,60,36,10,1026.0,10260.0,2026-04-17,186827037,2744,Nagarik Stock Dealer ,Secured Securities Ltd.,2026-04-17 12:27:07.724854,Green Development Bank Ltd.
+2026041703003005,GRDBL,41,13,10,1046.5,10465.0,2026-04-17,186835562,2744,Linch Stock Market Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 12:38:45.037493,Green Development Bank Ltd.
+2026041703003009,GRDBL,26,87,10,1040.0,10400.0,2026-04-17,186835779,2744,Asian Securities Private Ltd.,S.P.S.A. Securities Limited,2026-04-17 12:39:01.539640,Green Development Bank Ltd.
+2026041703003028,GRDBL,58,60,19,1040.1,19761.9,2026-04-17,186836590,2744,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-17 12:40:32.017109,Green Development Bank Ltd.
+2026041703003029,GRDBL,26,60,40,1040.0,41600.0,2026-04-17,186836592,2744,Asian Securities Private Ltd.,Nagarik Stock Dealer ,2026-04-17 12:40:32.017321,Green Development Bank Ltd.
+2026041703003030,GRDBL,36,60,71,1040.0,73840.0,2026-04-17,186836593,2744,Secured Securities Ltd.,Nagarik Stock Dealer ,2026-04-17 12:40:32.017448,Green Development Bank Ltd.
+2026041703003068,GRDBL,59,46,4,1046.4,4185.6,2026-04-17,186837551,2744,Deevyaa Securities & Stock House Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-17 12:42:04.239394,Green Development Bank Ltd.
+2026041703003178,GRDBL,42,71,50,1040.0,52000.0,2026-04-17,186840048,2744,Sani Securities Company Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:45:48.966685,Green Development Bank Ltd.
+2026041703003179,GRDBL,36,71,100,1040.0,104000.0,2026-04-17,186840050,2744,Secured Securities Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:45:48.966882,Green Development Bank Ltd.
+2026041703003180,GRDBL,36,71,50,1039.1,51955.0,2026-04-17,186840052,2744,Secured Securities Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:45:48.967012,Green Development Bank Ltd.
+2026041703003181,GRDBL,52,71,100,1039.0,103900.0,2026-04-17,186840054,2744,Sundhara Securities Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:45:48.967155,Green Development Bank Ltd.
+2026041703003182,GRDBL,52,71,100,1037.0,103700.0,2026-04-17,186840056,2744,Sundhara Securities Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:45:48.967271,Green Development Bank Ltd.
+2026041703003183,GRDBL,44,71,100,1030.0,103000.0,2026-04-17,186840058,2744,Dynamic Money Managers Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:45:48.967381,Green Development Bank Ltd.
+2026041703003198,GRDBL,36,71,500,1030.0,515000.0,2026-04-17,186840350,2744,Secured Securities Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:46:16.656812,Green Development Bank Ltd.
+2026041703003585,GRDBL,26,13,10,1050.3,10503.0,2026-04-17,186848696,2744,Asian Securities Private Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 12:56:56.410105,Green Development Bank Ltd.
+2026041703003611,GRDBL,26,13,10,1050.3,10503.0,2026-04-17,186849790,2744,Asian Securities Private Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 12:58:04.805080,Green Development Bank Ltd.
+2026041703003718,GRDBL,62,87,10,1034.0,10340.0,2026-04-17,186852271,2744,Capital Max Securities Ltd,S.P.S.A. Securities Limited,2026-04-17 13:03:33.506779,Green Development Bank Ltd.
+2026041703003833,GRDBL,36,45,150,1033.4,155010.0,2026-04-17,186854699,2744,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:08:50.824216,Green Development Bank Ltd.
+2026041703003985,GRDBL,87,13,11,1049.9,11548.9,2026-04-17,186858954,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:18:18.848542,Green Development Bank Ltd.
+2026041703004240,GRDBL,25,34,10,1048.0,10480.0,2026-04-17,186866149,2744,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-17 13:30:05.203430,Green Development Bank Ltd.
+2026041703004261,GRDBL,87,13,12,1049.4,12592.8,2026-04-17,186866696,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:30:52.394151,Green Development Bank Ltd.
+2026041703004462,GRDBL,36,13,21,1049.4,22037.4,2026-04-17,186873449,2744,Secured Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:39:39.032589,Green Development Bank Ltd.
+2026041703004463,GRDBL,36,39,49,1049.5,51425.5,2026-04-17,186873452,2744,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 13:39:39.032689,Green Development Bank Ltd.
+2026041703004473,GRDBL,36,13,20,1049.9,20998.0,2026-04-17,186873758,2744,Secured Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:40:01.945716,Green Development Bank Ltd.
+2026041703004520,GRDBL,87,34,10,1050.0,10500.0,2026-04-17,186875360,2744,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 13:42:22.378471,Green Development Bank Ltd.
+2026041703004530,GRDBL,41,34,40,1050.0,42000.0,2026-04-17,186875574,2744,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:42:43.204637,Green Development Bank Ltd.
+2026041703004532,GRDBL,41,34,30,1050.0,31500.0,2026-04-17,186875722,2744,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:43:00.441669,Green Development Bank Ltd.
+2026041703004546,GRDBL,62,58,32,1049.0,33568.0,2026-04-17,186876248,2744,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-17 13:43:38.780581,Green Development Bank Ltd.
+2026041703004557,GRDBL,87,34,10,1050.0,10500.0,2026-04-17,186876672,2744,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 13:44:06.988285,Green Development Bank Ltd.
+2026041703004633,GRDBL,34,91,100,1049.0,104900.0,2026-04-17,186878497,2744,Vision Securities Pvt. Ltd,Citizens Share Broker Limited,2026-04-17 13:46:50.503264,Green Development Bank Ltd.
+2026041703004639,GRDBL,87,34,11,1050.0,11550.0,2026-04-17,186878646,2744,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 13:47:11.167067,Green Development Bank Ltd.
+2026041703004652,GRDBL,46,34,100,1045.0,104500.0,2026-04-17,186879177,2744,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:48:21.638309,Green Development Bank Ltd.
+2026041703004700,GRDBL,87,13,10,1049.9,10499.0,2026-04-17,186879828,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:49:36.488388,Green Development Bank Ltd.
+2026041703004707,GRDBL,87,34,11,1050.0,11550.0,2026-04-17,186879978,2744,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 13:49:55.420829,Green Development Bank Ltd.
+2026041703004904,GRDBL,36,91,300,1045.1,313530.0,2026-04-17,186883292,2744,Secured Securities Ltd.,Citizens Share Broker Limited,2026-04-17 13:57:32.402476,Green Development Bank Ltd.
+2026041703004905,GRDBL,46,91,2694,1045.0,2815230.0,2026-04-17,186883293,2744,Kalika Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-17 13:57:32.402762,Green Development Bank Ltd.
+2026041703004906,GRDBL,46,52,200,1045.0,209000.0,2026-04-17,186883295,2744,Kalika Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-17 13:57:33.262172,Green Development Bank Ltd.
+2026041703004915,GRDBL,87,13,10,1048.9,10489.0,2026-04-17,186883571,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:58:18.829036,Green Development Bank Ltd.
+2026041703004916,GRDBL,87,34,10,1049.0,10490.0,2026-04-17,186883574,2744,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 13:58:18.829071,Green Development Bank Ltd.
+2026041703004956,GRDBL,87,34,50,1049.0,52450.0,2026-04-17,186884213,2744,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 14:00:04.583975,Green Development Bank Ltd.
+2026041703004957,GRDBL,87,13,60,1049.9,62994.0,2026-04-17,186884215,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:00:04.584034,Green Development Bank Ltd.
+2026041703004958,GRDBL,87,45,15,1050.0,15750.0,2026-04-17,186884217,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:00:04.584061,Green Development Bank Ltd.
+2026041703004959,GRDBL,87,25,80,1050.0,84000.0,2026-04-17,186884219,2744,S.P.S.A. Securities Limited,Sweta Securities Private Limited,2026-04-17 14:00:04.584086,Green Development Bank Ltd.
+2026041703004960,GRDBL,87,13,20,1050.2,21004.0,2026-04-17,186884221,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:00:04.584111,Green Development Bank Ltd.
+2026041703004961,GRDBL,87,6,50,1050.3,52515.0,2026-04-17,186884223,2744,S.P.S.A. Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-17 14:00:04.584138,Green Development Bank Ltd.
+2026041703004962,GRDBL,87,91,25,1050.4,26260.0,2026-04-17,186884226,2744,S.P.S.A. Securities Limited,Citizens Share Broker Limited,2026-04-17 14:00:04.584158,Green Development Bank Ltd.
+2026041703004967,GRDBL,87,91,75,1050.4,78780.0,2026-04-17,186884268,2744,S.P.S.A. Securities Limited,Citizens Share Broker Limited,2026-04-17 14:00:12.139002,Green Development Bank Ltd.
+2026041703004968,GRDBL,87,13,10,1052.9,10529.0,2026-04-17,186884272,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:00:12.139095,Green Development Bank Ltd.
+2026041703004971,GRDBL,87,13,11,1053.6,11589.6,2026-04-17,186884290,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:00:15.441927,Green Development Bank Ltd.
+2026041703004974,GRDBL,87,13,10,1053.7,10537.0,2026-04-17,186884320,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:00:20.684170,Green Development Bank Ltd.
+2026041703004977,GRDBL,87,91,41,1054.0,43214.0,2026-04-17,186884350,2744,S.P.S.A. Securities Limited,Citizens Share Broker Limited,2026-04-17 14:00:27.247013,Green Development Bank Ltd.
+2026041703004980,GRDBL,87,13,10,1056.6,10566.0,2026-04-17,186884371,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:00:31.069223,Green Development Bank Ltd.
+2026041703004981,GRDBL,87,13,11,1056.9,11625.9,2026-04-17,186884374,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:00:31.069322,Green Development Bank Ltd.
+2026041703004996,GRDBL,91,13,20,1057.0,21140.0,2026-04-17,186884739,2744,Citizens Share Broker Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:01:20.745450,Green Development Bank Ltd.
+2026041703004997,GRDBL,91,6,180,1057.0,190260.0,2026-04-17,186884742,2744,Citizens Share Broker Limited,Agrawal Securities (PVT) Ltd.,2026-04-17 14:01:20.745598,Green Development Bank Ltd.
+2026041703005001,GRDBL,87,6,11,1057.0,11627.0,2026-04-17,186884886,2744,S.P.S.A. Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-17 14:01:39.816070,Green Development Bank Ltd.
+2026041703005003,GRDBL,87,22,11,1056.5,11621.5,2026-04-17,186884910,2744,S.P.S.A. Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 14:01:43.480717,Green Development Bank Ltd.
+2026041703005005,GRDBL,87,13,11,1058.6,11644.6,2026-04-17,186884942,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:01:48.869589,Green Development Bank Ltd.
+2026041703005010,GRDBL,87,13,11,1058.9,11647.9,2026-04-17,186884976,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:01:55.956889,Green Development Bank Ltd.
+2026041703005012,GRDBL,87,13,11,1059.6,11655.6,2026-04-17,186885002,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:01:59.251915,Green Development Bank Ltd.
+2026041703005015,GRDBL,87,62,41,1060.0,43460.0,2026-04-17,186885066,2744,S.P.S.A. Securities Limited,Capital Max Securities Ltd,2026-04-17 14:02:05.246278,Green Development Bank Ltd.
+2026041703005018,GRDBL,87,13,11,1061.9,11680.9,2026-04-17,186885094,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:02:09.099916,Green Development Bank Ltd.
+2026041703005020,GRDBL,87,22,10,1063.5,10635.0,2026-04-17,186885154,2744,S.P.S.A. Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 14:02:14.431616,Green Development Bank Ltd.
+2026041703005022,GRDBL,87,13,21,1063.9,22341.9,2026-04-17,186885190,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:02:20.055293,Green Development Bank Ltd.
+2026041703005030,GRDBL,87,45,10,1064.8,10648.0,2026-04-17,186885221,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:02:24.403673,Green Development Bank Ltd.
+2026041703005031,GRDBL,87,13,11,1064.9,11713.9,2026-04-17,186885224,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:02:24.403755,Green Development Bank Ltd.
+2026041703005113,GRDBL,52,64,10,1046.1,10461.0,2026-04-17,186889676,2744,Sundhara Securities Limited,SUN SECURITIES PVT LTD,2026-04-17 14:04:35.279421,Green Development Bank Ltd.
+2026041703005114,GRDBL,36,64,99,1046.1,103563.9,2026-04-17,186889677,2744,Secured Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-17 14:04:35.279691,Green Development Bank Ltd.
+2026041703005127,GRDBL,52,52,4,1030.0,4120.0,2026-04-17,186889925,2744,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-17 14:04:55.291100,Green Development Bank Ltd.
+2026041703005131,GRDBL,87,34,10,1063.8,10638.0,2026-04-17,186889964,2744,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-17 14:04:59.822150,Green Development Bank Ltd.
+2026041703005256,GRDBL,17,22,18,1062.0,19116.0,2026-04-17,186894836,2744,ABC Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 14:10:23.216041,Green Development Bank Ltd.
+2026041703005277,GRDBL,87,13,11,1062.9,11691.9,2026-04-17,186895681,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:11:29.841163,Green Development Bank Ltd.
+2026041703005329,GRDBL,46,4,100,1061.0,106100.0,2026-04-17,186896933,2744,Kalika Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:13:30.719696,Green Development Bank Ltd.
+2026041703005330,GRDBL,46,34,100,1061.0,106100.0,2026-04-17,186896959,2744,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:13:32.519313,Green Development Bank Ltd.
+2026041703005344,GRDBL,87,13,11,1062.6,11688.6,2026-04-17,186897156,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:13:48.930849,Green Development Bank Ltd.
+2026041703005347,GRDBL,87,22,21,1062.7,22316.7,2026-04-17,186897188,2744,S.P.S.A. Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 14:13:53.815341,Green Development Bank Ltd.
+2026041703005368,GRDBL,63,17,50,1063.0,53150.0,2026-04-17,186897592,2744,Himalayan Brokerage Company Limited,ABC Securities Private Limited,2026-04-17 14:14:41.322511,Green Development Bank Ltd.
+2026041703005384,GRDBL,1,17,25,1063.0,26575.0,2026-04-17,186897827,2744,Kumari Securities Private Limited,ABC Securities Private Limited,2026-04-17 14:15:04.948261,Green Development Bank Ltd.
+2026041703005394,GRDBL,87,13,12,1063.9,12766.8,2026-04-17,186898106,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:15:22.899422,Green Development Bank Ltd.
+2026041703005399,GRDBL,87,13,10,1064.6,10646.0,2026-04-17,186898163,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:15:27.755623,Green Development Bank Ltd.
+2026041703005400,GRDBL,87,45,10,1064.8,10648.0,2026-04-17,186898166,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:15:27.755701,Green Development Bank Ltd.
+2026041703005442,GRDBL,91,91,50,1065.0,53250.0,2026-04-17,186899185,2744,Citizens Share Broker Limited,Citizens Share Broker Limited,2026-04-17 14:16:42.292176,Green Development Bank Ltd.
+2026041703005443,GRDBL,91,49,400,1065.0,426000.0,2026-04-17,186899187,2744,Citizens Share Broker Limited,Online Securities Pvt. Ltd.,2026-04-17 14:16:42.292449,Green Development Bank Ltd.
+2026041703005444,GRDBL,91,41,30,1065.0,31950.0,2026-04-17,186899189,2744,Citizens Share Broker Limited,Linch Stock Market Ltd.,2026-04-17 14:16:42.292598,Green Development Bank Ltd.
+2026041703005445,GRDBL,91,62,20,1065.0,21300.0,2026-04-17,186899192,2744,Citizens Share Broker Limited,Capital Max Securities Ltd,2026-04-17 14:16:42.292749,Green Development Bank Ltd.
+2026041703005462,GRDBL,87,48,10,1066.5,10665.0,2026-04-17,186899810,2744,S.P.S.A. Securities Limited,Trishakti Securities Public Limited,2026-04-17 14:17:36.135328,Green Development Bank Ltd.
+2026041703005463,GRDBL,52,91,9,1054.0,9486.0,2026-04-17,186899833,2744,Sundhara Securities Limited,Citizens Share Broker Limited,2026-04-17 14:17:40.123355,Green Development Bank Ltd.
+2026041703005484,GRDBL,46,14,100,1066.4,106640.0,2026-04-17,186900443,2744,Kalika Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:18:27.284907,Green Development Bank Ltd.
+2026041703005485,GRDBL,46,26,20,1066.4,21328.0,2026-04-17,186900503,2744,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:18:35.729935,Green Development Bank Ltd.
+2026041703005491,GRDBL,46,39,359,1066.4,382837.6,2026-04-17,186900613,2744,Kalika Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 14:18:42.070451,Green Development Bank Ltd.
+2026041703005501,GRDBL,46,32,40,1066.4,42656.0,2026-04-17,186900727,2744,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-17 14:18:48.671996,Green Development Bank Ltd.
+2026041703005503,GRDBL,46,14,100,1066.4,106640.0,2026-04-17,186900773,2744,Kalika Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:18:51.560429,Green Development Bank Ltd.
+2026041703005504,GRDBL,91,48,500,1066.5,533250.0,2026-04-17,186900968,2744,Citizens Share Broker Limited,Trishakti Securities Public Limited,2026-04-17 14:19:10.396189,Green Development Bank Ltd.
+2026041703005514,GRDBL,33,48,100,1066.5,106650.0,2026-04-17,186901288,2744,Dakshinkali Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 14:19:30.048087,Green Development Bank Ltd.
+2026041703005519,GRDBL,46,22,10,1066.4,10664.0,2026-04-17,186901329,2744,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 14:19:35.360721,Green Development Bank Ltd.
+2026041703005520,GRDBL,87,48,10,1066.5,10665.0,2026-04-17,186901342,2744,S.P.S.A. Securities Limited,Trishakti Securities Public Limited,2026-04-17 14:19:36.827579,Green Development Bank Ltd.
+2026041703005521,GRDBL,87,38,10,1067.0,10670.0,2026-04-17,186901358,2744,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:19:40.679691,Green Development Bank Ltd.
+2026041703005523,GRDBL,49,13,1,1046.4,1046.4,2026-04-17,186901441,2744,Online Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:19:44.331675,Green Development Bank Ltd.
+2026041703005535,GRDBL,46,22,10,1066.9,10669.0,2026-04-17,186901731,2744,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 14:20:07.885585,Green Development Bank Ltd.
+2026041703005538,GRDBL,46,26,30,1066.9,32007.0,2026-04-17,186901759,2744,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:20:11.471381,Green Development Bank Ltd.
+2026041703005553,GRDBL,46,43,10,1066.9,10669.0,2026-04-17,186902075,2744,Kalika Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-17 14:20:35.157041,Green Development Bank Ltd.
+2026041703005558,GRDBL,87,38,81,1067.0,86427.0,2026-04-17,186902116,2744,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:20:36.638041,Green Development Bank Ltd.
+2026041703005559,GRDBL,46,40,120,1066.9,128028.0,2026-04-17,186902131,2744,Kalika Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 14:20:37.144063,Green Development Bank Ltd.
+2026041703005563,GRDBL,87,13,10,1069.0,10690.0,2026-04-17,186902168,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:20:40.182739,Green Development Bank Ltd.
+2026041703005581,GRDBL,56,13,25,1069.0,26725.0,2026-04-17,186902533,2744,Sri Hari Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:21:11.296380,Green Development Bank Ltd.
+2026041703005582,GRDBL,56,58,200,1069.0,213800.0,2026-04-17,186902535,2744,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:21:11.296476,Green Development Bank Ltd.
+2026041703005583,GRDBL,56,18,100,1069.7,106970.0,2026-04-17,186902537,2744,Sri Hari Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,2026-04-17 14:21:11.296545,Green Development Bank Ltd.
+2026041703005584,GRDBL,56,11,30,1070.0,32100.0,2026-04-17,186902539,2744,Sri Hari Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-17 14:21:11.296615,Green Development Bank Ltd.
+2026041703005585,GRDBL,56,39,140,1070.0,149800.0,2026-04-17,186902541,2744,Sri Hari Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 14:21:11.296684,Green Development Bank Ltd.
+2026041703005591,GRDBL,91,25,200,1070.0,214000.0,2026-04-17,186902604,2744,Citizens Share Broker Limited,Sweta Securities Private Limited,2026-04-17 14:21:18.598682,Green Development Bank Ltd.
+2026041703005597,GRDBL,46,14,100,1068.9,106890.0,2026-04-17,186902675,2744,Kalika Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:21:24.887687,Green Development Bank Ltd.
+2026041703005600,GRDBL,87,62,11,1070.0,11770.0,2026-04-17,186902718,2744,S.P.S.A. Securities Limited,Capital Max Securities Ltd,2026-04-17 14:21:30.910552,Green Development Bank Ltd.
+2026041703005601,GRDBL,87,62,11,1070.0,11770.0,2026-04-17,186902758,2744,S.P.S.A. Securities Limited,Capital Max Securities Ltd,2026-04-17 14:21:36.112623,Green Development Bank Ltd.
+2026041703005604,GRDBL,87,62,11,1070.0,11770.0,2026-04-17,186902868,2744,S.P.S.A. Securities Limited,Capital Max Securities Ltd,2026-04-17 14:21:40.526744,Green Development Bank Ltd.
+2026041703005605,GRDBL,58,17,109,1069.0,116521.0,2026-04-17,186902877,2744,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-17 14:21:40.728807,Green Development Bank Ltd.
+2026041703005609,GRDBL,87,58,10,1070.0,10700.0,2026-04-17,186902940,2744,S.P.S.A. Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 14:21:45.866309,Green Development Bank Ltd.
+2026041703005610,GRDBL,87,13,10,1070.6,10706.0,2026-04-17,186902982,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:21:49.279653,Green Development Bank Ltd.
+2026041703005614,GRDBL,58,39,1,1049.5,1049.5,2026-04-17,186903021,2744,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 14:21:54.346335,Green Development Bank Ltd.
+2026041703005632,GRDBL,58,14,100,1069.0,106900.0,2026-04-17,186903305,2744,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:22:16.615261,Green Development Bank Ltd.
+2026041703005634,GRDBL,87,13,31,1070.6,33188.6,2026-04-17,186903346,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:22:21.089475,Green Development Bank Ltd.
+2026041703005635,GRDBL,87,36,16,1071.0,17136.0,2026-04-17,186903420,2744,S.P.S.A. Securities Limited,Secured Securities Ltd.,2026-04-17 14:22:26.046600,Green Development Bank Ltd.
+2026041703005637,GRDBL,87,45,31,1071.3,33210.3,2026-04-17,186903472,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:22:30.896074,Green Development Bank Ltd.
+2026041703005644,GRDBL,87,45,10,1072.0,10720.0,2026-04-17,186903547,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:22:35.830646,Green Development Bank Ltd.
+2026041703005645,GRDBL,87,57,10,1073.0,10730.0,2026-04-17,186903550,2744,S.P.S.A. Securities Limited,Aryatara Investment & Securities,2026-04-17 14:22:35.830681,Green Development Bank Ltd.
+2026041703005653,GRDBL,58,87,1661,1069.0,1775609.0,2026-04-17,186903874,2744,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:23:02.478887,Green Development Bank Ltd.
+2026041703005654,GRDBL,34,87,353,1069.0,377357.0,2026-04-17,186903875,2744,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-17 14:23:02.479149,Green Development Bank Ltd.
+2026041703005661,GRDBL,52,13,9,1056.9,9512.1,2026-04-17,186903903,2744,Sundhara Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:23:06.425120,Green Development Bank Ltd.
+2026041703005675,GRDBL,87,45,51,1070.0,54570.0,2026-04-17,186904388,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:23:30.940276,Green Development Bank Ltd.
+2026041703005676,GRDBL,46,34,200,1068.9,213780.0,2026-04-17,186904410,2744,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:23:34.277501,Green Development Bank Ltd.
+2026041703005677,GRDBL,46,58,10,1068.9,10689.0,2026-04-17,186904421,2744,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:23:34.403844,Green Development Bank Ltd.
+2026041703005678,GRDBL,87,57,10,1073.0,10730.0,2026-04-17,186904454,2744,S.P.S.A. Securities Limited,Aryatara Investment & Securities,2026-04-17 14:23:35.051534,Green Development Bank Ltd.
+2026041703005696,GRDBL,59,57,180,1073.0,193140.0,2026-04-17,186904900,2744,Deevyaa Securities & Stock House Pvt. Ltd,Aryatara Investment & Securities,2026-04-17 14:24:18.682102,Green Development Bank Ltd.
+2026041703005711,GRDBL,46,34,50,1073.9,53695.0,2026-04-17,186905255,2744,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:24:42.478698,Green Development Bank Ltd.
+2026041703005713,GRDBL,87,22,10,1074.0,10740.0,2026-04-17,186905322,2744,S.P.S.A. Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 14:24:49.177762,Green Development Bank Ltd.
+2026041703005735,GRDBL,87,22,28,1074.0,30072.0,2026-04-17,186905597,2744,S.P.S.A. Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 14:25:08.936420,Green Development Bank Ltd.
+2026041703005736,GRDBL,58,62,17,1074.0,18258.0,2026-04-17,186905627,2744,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-17 14:25:10.550430,Green Development Bank Ltd.
+2026041703005737,GRDBL,58,42,33,1075.0,35475.0,2026-04-17,186905630,2744,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-17 14:25:10.550472,Green Development Bank Ltd.
+2026041703005739,GRDBL,87,70,10,1079.3,10793.0,2026-04-17,186905684,2744,S.P.S.A. Securities Limited,Infinity Securities Limited,2026-04-17 14:25:14.238243,Green Development Bank Ltd.
+2026041703005742,GRDBL,46,13,30,1079.2,32376.0,2026-04-17,186906019,2744,Kalika Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:25:28.713483,Green Development Bank Ltd.
+2026041703005756,GRDBL,46,26,20,1079.2,21584.0,2026-04-17,186906147,2744,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:25:36.861989,Green Development Bank Ltd.
+2026041703005796,GRDBL,46,45,19,1079.2,20504.8,2026-04-17,186906523,2744,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:26:11.576333,Green Development Bank Ltd.
+2026041703005798,GRDBL,46,25,100,1079.2,107920.0,2026-04-17,186906531,2744,Kalika Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 14:26:11.787906,Green Development Bank Ltd.
+2026041703005800,GRDBL,46,26,30,1079.2,32376.0,2026-04-17,186906537,2744,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:26:12.177333,Green Development Bank Ltd.
+2026041703005802,GRDBL,46,46,16,1079.2,17267.2,2026-04-17,186906569,2744,Kalika Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:26:13.878974,Green Development Bank Ltd.
+2026041703005810,GRDBL,87,70,81,1079.3,87423.3,2026-04-17,186906698,2744,S.P.S.A. Securities Limited,Infinity Securities Limited,2026-04-17 14:26:25.812089,Green Development Bank Ltd.
+2026041703005812,GRDBL,87,45,10,1080.0,10800.0,2026-04-17,186906749,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:26:30.242610,Green Development Bank Ltd.
+2026041703005813,GRDBL,87,13,21,1081.9,22719.9,2026-04-17,186906752,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:26:30.242652,Green Development Bank Ltd.
+2026041703005814,GRDBL,46,57,50,1079.2,53960.0,2026-04-17,186906759,2744,Kalika Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 14:26:30.952570,Green Development Bank Ltd.
+2026041703005820,GRDBL,87,57,10,1082.0,10820.0,2026-04-17,186906820,2744,S.P.S.A. Securities Limited,Aryatara Investment & Securities,2026-04-17 14:26:35.115477,Green Development Bank Ltd.
+2026041703005824,GRDBL,38,39,50,1079.3,53965.0,2026-04-17,186906994,2744,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 14:26:51.896953,Green Development Bank Ltd.
+2026041703005825,GRDBL,46,39,150,1079.2,161880.0,2026-04-17,186906995,2744,Kalika Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 14:26:51.897190,Green Development Bank Ltd.
+2026041703005826,GRDBL,43,57,90,1082.0,97380.0,2026-04-17,186906997,2744,South Asian Bulls Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 14:26:52.269859,Green Development Bank Ltd.
+2026041703005828,GRDBL,43,47,10,1082.0,10820.0,2026-04-17,186907108,2744,South Asian Bulls Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 14:27:05.262864,Green Development Bank Ltd.
+2026041703005829,GRDBL,4,47,40,1082.0,43280.0,2026-04-17,186907109,2744,Opal Securities Investment (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 14:27:05.263013,Green Development Bank Ltd.
+2026041703005835,GRDBL,87,13,41,1084.0,44444.0,2026-04-17,186907230,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:27:17.072835,Green Development Bank Ltd.
+2026041703005838,GRDBL,87,14,11,1084.0,11924.0,2026-04-17,186907276,2744,S.P.S.A. Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:27:20.658555,Green Development Bank Ltd.
+2026041703005839,GRDBL,87,14,80,1084.0,86720.0,2026-04-17,186907310,2744,S.P.S.A. Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:27:27.890037,Green Development Bank Ltd.
+2026041703005840,GRDBL,87,65,11,1085.0,11935.0,2026-04-17,186907344,2744,S.P.S.A. Securities Limited,Sharepro Securities Private Limited,2026-04-17 14:27:31.339182,Green Development Bank Ltd.
+2026041703005845,GRDBL,87,13,51,1087.9,55482.9,2026-04-17,186907402,2744,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:27:38.430354,Green Development Bank Ltd.
+2026041703005846,GRDBL,87,45,10,1090.0,10900.0,2026-04-17,186907449,2744,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:27:42.622797,Green Development Bank Ltd.
+2026041703005848,GRDBL,4,52,50,1082.0,54100.0,2026-04-17,186907493,2744,Opal Securities Investment (PVT) Ltd.,Sundhara Securities Limited,2026-04-17 14:27:47.561806,Green Development Bank Ltd.
+2026041703005850,GRDBL,32,72,50,1087.8,54390.0,2026-04-17,186907582,2744,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,2026-04-17 14:27:53.753695,Green Development Bank Ltd.
+2026041703005851,GRDBL,4,87,10,1082.0,10820.0,2026-04-17,186907593,2744,Opal Securities Investment (PVT) Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:27:54.827976,Green Development Bank Ltd.
+2026041703005853,GRDBL,87,72,10,1087.8,10878.0,2026-04-17,186907638,2744,S.P.S.A. Securities Limited,Hatemalo Financial Services Private Limited,2026-04-17 14:27:58.918469,Green Development Bank Ltd.
+2026041703005854,GRDBL,91,25,100,1087.5,108750.0,2026-04-17,186907845,2744,Citizens Share Broker Limited,Sweta Securities Private Limited,2026-04-17 14:28:10.285248,Green Development Bank Ltd.
+2026041703005866,GRDBL,32,72,100,1087.8,108780.0,2026-04-17,186908166,2744,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,2026-04-17 14:28:35.347872,Green Development Bank Ltd.
+2026041703005867,GRDBL,91,87,95,1087.5,103312.5,2026-04-17,186908169,2744,Citizens Share Broker Limited,S.P.S.A. Securities Limited,2026-04-17 14:28:35.681711,Green Development Bank Ltd.
+2026041703005874,GRDBL,87,72,26,1087.8,28282.8,2026-04-17,186908322,2744,S.P.S.A. Securities Limited,Hatemalo Financial Services Private Limited,2026-04-17 14:28:48.829161,Green Development Bank Ltd.
+2026041703005876,GRDBL,87,70,10,1093.9,10939.0,2026-04-17,186908342,2744,S.P.S.A. Securities Limited,Infinity Securities Limited,2026-04-17 14:28:52.214836,Green Development Bank Ltd.
+2026041703005913,GRDBL,42,86,100,1080.0,108000.0,2026-04-17,186909124,2744,Sani Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-17 14:30:01.711221,Green Development Bank Ltd.
+2026041703005914,GRDBL,34,86,400,1070.0,428000.0,2026-04-17,186909125,2744,Vision Securities Pvt. Ltd,Stoxkarts Securities Limited,2026-04-17 14:30:01.711328,Green Development Bank Ltd.
+2026041703005918,GRDBL,34,87,600,1070.0,642000.0,2026-04-17,186909177,2744,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-17 14:30:07.388500,Green Development Bank Ltd.
+2026041703005921,GRDBL,14,87,10,1046.0,10460.0,2026-04-17,186909297,2744,Nepal Stock House (PVT) Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:30:11.455320,Green Development Bank Ltd.
+2026041703006009,GRDBL,40,87,10,1050.3,10503.0,2026-04-17,186911611,2744,Creative Securities Pvt Ltd,S.P.S.A. Securities Limited,2026-04-17 14:33:13.454377,Green Development Bank Ltd.
+2026041703006086,GRDBL,58,87,10,1053.1,10531.0,2026-04-17,186913373,2744,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:35:34.167830,Green Development Bank Ltd.
+2026041703006144,GRDBL,58,58,10,1074.0,10740.0,2026-04-17,186914784,2744,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:37:07.769236,Green Development Bank Ltd.
+2026041703006150,GRDBL,58,87,10,1059.0,10590.0,2026-04-17,186914843,2744,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:37:12.394807,Green Development Bank Ltd.
+2026041703006175,GRDBL,44,87,10,1074.0,10740.0,2026-04-17,186915302,2744,Dynamic Money Managers Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:37:50.806864,Green Development Bank Ltd.
+2026041703006176,GRDBL,58,87,100,1074.0,107400.0,2026-04-17,186915304,2744,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:37:50.806944,Green Development Bank Ltd.
+2026041703006177,GRDBL,18,87,10,1060.2,10602.0,2026-04-17,186915305,2744,Sagarmatha Securities Private Limited,S.P.S.A. Securities Limited,2026-04-17 14:37:50.806992,Green Development Bank Ltd.
+2026041703006409,GRDBL,58,60,26,1062.3,27619.8,2026-04-17,186918511,2744,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-17 14:42:07.655213,Green Development Bank Ltd.
+2026041703006459,GRDBL,58,48,2,1060.0,2120.0,2026-04-17,186918969,2744,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 14:42:37.138140,Green Development Bank Ltd.
+2026041703006579,GRDBL,87,48,11,1079.0,11869.0,2026-04-17,186920874,2744,S.P.S.A. Securities Limited,Trishakti Securities Public Limited,2026-04-17 14:44:58.765111,Green Development Bank Ltd.
+2026041703006600,GRDBL,18,43,40,1067.1,42684.0,2026-04-17,186921842,2744,Sagarmatha Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-17 14:46:01.835242,Green Development Bank Ltd.
+2026041703006601,GRDBL,58,43,60,1067.0,64020.0,2026-04-17,186921843,2744,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-17 14:46:01.835538,Green Development Bank Ltd.
+2026041703006608,GRDBL,72,87,186,1066.1,198294.6,2026-04-17,186922200,2744,Hatemalo Financial Services Private Limited,S.P.S.A. Securities Limited,2026-04-17 14:46:15.670492,Green Development Bank Ltd.
+2026041703006609,GRDBL,22,87,100,1066.0,106600.0,2026-04-17,186922202,2744,Siprabi Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:46:15.670602,Green Development Bank Ltd.
+2026041703006610,GRDBL,58,87,14,1055.1,14771.4,2026-04-17,186922203,2744,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:46:15.670671,Green Development Bank Ltd.
+2026041703006692,GRDBL,22,87,100,1060.0,106000.0,2026-04-17,186923808,2744,Siprabi Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:47:48.343202,Green Development Bank Ltd.
+2026041703006707,GRDBL,22,87,100,1060.0,106000.0,2026-04-17,186924134,2744,Siprabi Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:48:05.149389,Green Development Bank Ltd.
+2026041703006722,GRDBL,26,87,20,1060.0,21200.0,2026-04-17,186924922,2744,Asian Securities Private Ltd.,S.P.S.A. Securities Limited,2026-04-17 14:48:31.574269,Green Development Bank Ltd.
+2026041703006777,GRDBL,1,87,25,1060.0,26500.0,2026-04-17,186926066,2744,Kumari Securities Private Limited,S.P.S.A. Securities Limited,2026-04-17 14:49:21.122168,Green Development Bank Ltd.
+2026041703006778,GRDBL,83,87,164,1060.0,173840.0,2026-04-17,186926081,2744,Sanima Securities Limited,S.P.S.A. Securities Limited,2026-04-17 14:49:21.874695,Green Development Bank Ltd.
+2026041703006779,GRDBL,83,46,336,1060.0,356160.0,2026-04-17,186926084,2744,Sanima Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:49:21.874977,Green Development Bank Ltd.
+2026041703006792,GRDBL,52,43,3,1041.1,3123.3,2026-04-17,186926331,2744,Sundhara Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-17 14:49:29.371423,Green Development Bank Ltd.
+2026041703006871,GRDBL,83,46,50,1060.0,53000.0,2026-04-17,186927984,2744,Sanima Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:50:40.642336,Green Development Bank Ltd.
+2026041703006924,GRDBL,83,46,10,1060.0,10600.0,2026-04-17,186928872,2744,Sanima Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:51:15.511985,Green Development Bank Ltd.
+2026041703007026,GRDBL,45,46,20,1060.0,21200.0,2026-04-17,186930652,2744,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:52:29.589403,Green Development Bank Ltd.
+2026041703007088,GRDBL,26,46,30,1055.1,31653.0,2026-04-17,186931318,2744,Asian Securities Private Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:53:01.466785,Green Development Bank Ltd.
+2026041703007089,GRDBL,58,46,10,1055.0,10550.0,2026-04-17,186931320,2744,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:53:01.466824,Green Development Bank Ltd.
+2026041703007090,GRDBL,34,46,100,1053.0,105300.0,2026-04-17,186931322,2744,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-17 14:53:01.466848,Green Development Bank Ltd.
+2026041703007091,GRDBL,39,46,50,1052.0,52600.0,2026-04-17,186931324,2744,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:53:01.466870,Green Development Bank Ltd.
+2026041703007092,GRDBL,14,46,100,1051.1,105110.0,2026-04-17,186931326,2744,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:53:01.466896,Green Development Bank Ltd.
+2026041703007093,GRDBL,14,46,10,1049.9,10499.0,2026-04-17,186931327,2744,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:53:01.466925,Green Development Bank Ltd.
+2026041703007107,GRDBL,14,46,90,1049.9,94491.0,2026-04-17,186931589,2744,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:53:11.114069,Green Development Bank Ltd.
+2026041703007212,GRDBL,45,46,10,1050.0,10500.0,2026-04-17,186933784,2744,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:54:45.196497,Green Development Bank Ltd.
+2026041703007228,GRDBL,21,46,95,1050.0,99750.0,2026-04-17,186934060,2744,Midas Stock Broking Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:54:59.278624,Green Development Bank Ltd.
+2026041703007232,GRDBL,45,46,10,1050.0,10500.0,2026-04-17,186934174,2744,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:55:03.960045,Green Development Bank Ltd.
+2026041703007269,GRDBL,22,46,96,1050.0,100800.0,2026-04-17,186934740,2744,Siprabi Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:55:26.154080,Green Development Bank Ltd.
+2026041703007273,GRDBL,21,46,100,1050.0,105000.0,2026-04-17,186934856,2744,Midas Stock Broking Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:55:32.811415,Green Development Bank Ltd.
+2026041703007303,GRDBL,62,46,60,1050.0,63000.0,2026-04-17,186935452,2744,Capital Max Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-17 14:55:56.392568,Green Development Bank Ltd.
+2026041703007504,GRDBL,26,58,20,1047.1,20942.0,2026-04-17,186937852,2744,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:57:12.116767,Green Development Bank Ltd.
+2026041703007505,GRDBL,41,58,30,1047.1,31413.0,2026-04-17,186937853,2744,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:57:12.117078,Green Development Bank Ltd.
+2026041703007542,GRDBL,53,53,25,1049.0,26225.0,2026-04-17,186938408,2744,Investment Management Nepal Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-17 14:57:24.782689,Green Development Bank Ltd.
+2026041703007582,GRDBL,58,53,40,1049.0,41960.0,2026-04-17,186939304,2744,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-17 14:57:52.428004,Green Development Bank Ltd.
+2026041703007583,GRDBL,50,53,35,1049.0,36715.0,2026-04-17,186939327,2744,Cristal Kanchanjanga Securites Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-17 14:57:53.105410,Green Development Bank Ltd.
+2026041703007607,GRDBL,50,46,65,1049.0,68185.0,2026-04-17,186939670,2744,Cristal Kanchanjanga Securites Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.779263,Green Development Bank Ltd.
+2026041703007608,GRDBL,58,46,10,1047.5,10475.0,2026-04-17,186939672,2744,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.779549,Green Development Bank Ltd.
+2026041703007609,GRDBL,42,46,50,1047.5,52375.0,2026-04-17,186939674,2744,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.779738,Green Development Bank Ltd.
+2026041703007610,GRDBL,52,46,100,1047.0,104700.0,2026-04-17,186939676,2744,Sundhara Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.779926,Green Development Bank Ltd.
+2026041703007611,GRDBL,14,46,90,1046.0,94140.0,2026-04-17,186939678,2744,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.780124,Green Development Bank Ltd.
+2026041703007612,GRDBL,58,46,200,1045.7,209140.0,2026-04-17,186939680,2744,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.780314,Green Development Bank Ltd.
+2026041703007613,GRDBL,39,46,200,1045.3,209060.0,2026-04-17,186939682,2744,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.780521,Green Development Bank Ltd.
+2026041703007614,GRDBL,57,46,50,1045.2,52260.0,2026-04-17,186939684,2744,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.780704,Green Development Bank Ltd.
+2026041703007615,GRDBL,57,46,100,1045.1,104510.0,2026-04-17,186939686,2744,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.780879,Green Development Bank Ltd.
+2026041703007616,GRDBL,49,46,135,1045.1,141088.5,2026-04-17,186939687,2744,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:01.781066,Green Development Bank Ltd.
+2026041703007643,GRDBL,49,46,165,1045.1,172441.5,2026-04-17,186940204,2744,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:12.489672,Green Development Bank Ltd.
+2026041703007644,GRDBL,8,46,20,1045.0,20900.0,2026-04-17,186940206,2744,Brilliant Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:12.489953,Green Development Bank Ltd.
+2026041703007645,GRDBL,14,46,100,1045.0,104500.0,2026-04-17,186940208,2744,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:12.490149,Green Development Bank Ltd.
+2026041703007650,GRDBL,42,46,15,1045.0,15675.0,2026-04-17,186940277,2744,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:58:13.985651,Green Development Bank Ltd.
+2026041703007745,GRDBL,42,80,85,1049.0,89165.0,2026-04-17,186941986,2744,Sani Securities Company Ltd.,Indira securities pvt. ltd,2026-04-17 14:58:54.582914,Green Development Bank Ltd.
+2026041703007749,GRDBL,43,80,100,1049.0,104900.0,2026-04-17,186942078,2744,South Asian Bulls Pvt. Ltd.,Indira securities pvt. ltd,2026-04-17 14:58:56.243989,Green Development Bank Ltd.
+2026041703007802,GRDBL,50,80,100,1049.0,104900.0,2026-04-17,186943309,2744,Cristal Kanchanjanga Securites Pvt. Ltd.,Indira securities pvt. ltd,2026-04-17 14:59:16.042311,Green Development Bank Ltd.
+2026041703007828,GRDBL,34,80,100,1049.0,104900.0,2026-04-17,186943688,2744,Vision Securities Pvt. Ltd,Indira securities pvt. ltd,2026-04-17 14:59:21.091490,Green Development Bank Ltd.
+2026041703007888,GRDBL,42,80,300,1049.0,314700.0,2026-04-17,186944512,2744,Sani Securities Company Ltd.,Indira securities pvt. ltd,2026-04-17 14:59:32.310235,Green Development Bank Ltd.
+2026041703008070,GRDBL,58,80,47,1049.0,49303.0,2026-04-17,186946628,2744,Naasa Securities Co. Ltd.,Indira securities pvt. ltd,2026-04-17 14:59:55.969424,Green Development Bank Ltd.
+2026041703008108,GRDBL,14,80,20,1049.0,20980.0,2026-04-17,186947627,2744,Nepal Stock House (PVT) Ltd.,Indira securities pvt. ltd,2026-04-17 14:59:58.991349,Green Development Bank Ltd.
+2026041703008114,GRDBL,26,4,10,1042.1,10421.0,2026-04-17,186947831,2744,Asian Securities Private Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:59:59.532259,Green Development Bank Ltd.

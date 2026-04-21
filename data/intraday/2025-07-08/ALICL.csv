@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,quantity,rate,amount,transaction_time
+Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
 2025-07-08,52251,2025070803000580,ALICL,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,100,500.0,50000.0,2025-07-08 11:22:15.958549
 2025-07-08,52089,2025070803000611,ALICL,Blue Chip Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,20,500.0,10000.0,2025-07-08 11:23:02.183315
 2025-07-08,52019,2025070803000622,ALICL,Primo Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,24,499.0,11976.0,2025-07-08 11:23:30.702180

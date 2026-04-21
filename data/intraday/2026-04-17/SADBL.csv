@@ -1,0 +1,125 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041703000049,SADBL,68,1,50,432.0,21600.0,2026-04-17,186757341,472,Elite Stock House Limited,Kumari Securities Private Limited,2026-04-17 11:03:24.631552,Shangrila Development Bank Ltd.
+2026041703000050,SADBL,68,68,1000,435.0,435000.0,2026-04-17,186757344,472,Elite Stock House Limited,Elite Stock House Limited,2026-04-17 11:03:24.631651,Shangrila Development Bank Ltd.
+2026041703000085,SADBL,62,62,30,433.0,12990.0,2026-04-17,186759468,472,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-17 11:06:29.920978,Shangrila Development Bank Ltd.
+2026041703000111,SADBL,34,57,13,432.0,5616.0,2026-04-17,186761274,472,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-17 11:08:54.005505,Shangrila Development Bank Ltd.
+2026041703000598,SADBL,42,42,10,428.0,4280.0,2026-04-17,186778964,472,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-17 11:28:39.264905,Shangrila Development Bank Ltd.
+2026041703000622,SADBL,41,21,9,426.0,3834.0,2026-04-17,186779685,472,Linch Stock Market Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 11:29:27.299148,Shangrila Development Bank Ltd.
+2026041703000628,SADBL,33,36,37,426.4,15776.8,2026-04-17,186780197,472,Dakshinkali Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 11:30:01.404788,Shangrila Development Bank Ltd.
+2026041703000723,SADBL,33,53,52,426.2,22162.4,2026-04-17,186782815,472,Dakshinkali Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-17 11:32:48.731979,Shangrila Development Bank Ltd.
+2026041703000753,SADBL,33,53,11,426.1,4687.1,2026-04-17,186784424,472,Dakshinkali Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-17 11:34:32.073190,Shangrila Development Bank Ltd.
+2026041703000754,SADBL,74,53,100,426.0,42600.0,2026-04-17,186784426,472,KALASH STOCK MARKET PVT. LTD.,Investment Management Nepal Pvt. Ltd.,2026-04-17 11:34:32.073226,Shangrila Development Bank Ltd.
+2026041703000755,SADBL,25,53,139,426.0,59214.0,2026-04-17,186784427,472,Sweta Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-17 11:34:32.073247,Shangrila Development Bank Ltd.
+2026041703000885,SADBL,25,42,25,426.0,10650.0,2026-04-17,186788257,472,Sweta Securities Private Limited,Sani Securities Company Ltd.,2026-04-17 11:39:14.398532,Shangrila Development Bank Ltd.
+2026041703001026,SADBL,21,53,110,430.0,47300.0,2026-04-17,186792817,472,Midas Stock Broking Company Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-17 11:44:53.046081,Shangrila Development Bank Ltd.
+2026041703001027,SADBL,21,49,200,430.0,86000.0,2026-04-17,186792819,472,Midas Stock Broking Company Private Limited,Online Securities Pvt. Ltd.,2026-04-17 11:44:53.046207,Shangrila Development Bank Ltd.
+2026041703001028,SADBL,21,100,100,430.0,43000.0,2026-04-17,186792821,472,Midas Stock Broking Company Private Limited,Sunrise Securities Limited,2026-04-17 11:44:53.046256,Shangrila Development Bank Ltd.
+2026041703001079,SADBL,21,26,1088,427.0,464576.0,2026-04-17,186794127,472,Midas Stock Broking Company Private Limited,Asian Securities Private Ltd.,2026-04-17 11:46:44.962113,Shangrila Development Bank Ltd.
+2026041703001123,SADBL,21,1,102,427.0,43554.0,2026-04-17,186796109,472,Midas Stock Broking Company Private Limited,Kumari Securities Private Limited,2026-04-17 11:49:29.462018,Shangrila Development Bank Ltd.
+2026041703001125,SADBL,36,49,30,430.1,12903.0,2026-04-17,186796118,472,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:49:30.174775,Shangrila Development Bank Ltd.
+2026041703001364,SADBL,20,20,2215,427.0,945805.0,2026-04-17,186800939,472,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-17 11:56:09.242433,Shangrila Development Bank Ltd.
+2026041703001849,SADBL,11,21,20,426.2,8524.0,2026-04-17,186810664,472,Malla & Malla Stock Broking Company Pvt. Limited,Midas Stock Broking Company Private Limited,2026-04-17 12:07:27.318695,Shangrila Development Bank Ltd.
+2026041703001854,SADBL,35,21,50,426.1,21305.0,2026-04-17,186810758,472,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 12:07:35.550330,Shangrila Development Bank Ltd.
+2026041703001864,SADBL,25,3,336,426.0,143136.0,2026-04-17,186810924,472,Sweta Securities Private Limited,Arun Securities (PVT) Ltd.,2026-04-17 12:07:42.657947,Shangrila Development Bank Ltd.
+2026041703001865,SADBL,42,3,90,426.0,38340.0,2026-04-17,186810926,472,Sani Securities Company Ltd.,Arun Securities (PVT) Ltd.,2026-04-17 12:07:42.658075,Shangrila Development Bank Ltd.
+2026041703001866,SADBL,45,3,100,425.3,42530.0,2026-04-17,186810928,472,Imperial Securities Company Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-17 12:07:42.658133,Shangrila Development Bank Ltd.
+2026041703001867,SADBL,17,3,474,425.2,201544.8,2026-04-17,186810929,472,ABC Securities Private Limited,Arun Securities (PVT) Ltd.,2026-04-17 12:07:42.658184,Shangrila Development Bank Ltd.
+2026041703001994,SADBL,17,21,26,425.2,11055.2,2026-04-17,186813678,472,ABC Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-17 12:10:56.280231,Shangrila Development Bank Ltd.
+2026041703002015,SADBL,33,21,200,425.1,85020.0,2026-04-17,186813926,472,Dakshinkali Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 12:11:09.185862,Shangrila Development Bank Ltd.
+2026041703002021,SADBL,36,21,29,425.0,12325.0,2026-04-17,186814074,472,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 12:11:19.324299,Shangrila Development Bank Ltd.
+2026041703002022,SADBL,45,21,200,425.0,85000.0,2026-04-17,186814076,472,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 12:11:19.324472,Shangrila Development Bank Ltd.
+2026041703002023,SADBL,11,21,30,425.0,12750.0,2026-04-17,186814078,472,Malla & Malla Stock Broking Company Pvt. Limited,Midas Stock Broking Company Private Limited,2026-04-17 12:11:19.324522,Shangrila Development Bank Ltd.
+2026041703002024,SADBL,4,21,200,425.0,85000.0,2026-04-17,186814080,472,Opal Securities Investment (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 12:11:19.324584,Shangrila Development Bank Ltd.
+2026041703002038,SADBL,14,21,14,424.0,5936.0,2026-04-17,186814258,472,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 12:11:30.822327,Shangrila Development Bank Ltd.
+2026041703002039,SADBL,74,21,320,423.5,135520.0,2026-04-17,186814259,472,KALASH STOCK MARKET PVT. LTD.,Midas Stock Broking Company Private Limited,2026-04-17 12:11:30.822576,Shangrila Development Bank Ltd.
+2026041703002134,SADBL,33,14,11,423.6,4659.6,2026-04-17,186816849,472,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 12:14:08.154604,Shangrila Development Bank Ltd.
+2026041703002158,SADBL,33,50,189,423.6,80060.4,2026-04-17,186817508,472,Dakshinkali Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:15:03.553103,Shangrila Development Bank Ltd.
+2026041703002159,SADBL,74,50,680,423.5,287980.0,2026-04-17,186817510,472,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:15:03.553321,Shangrila Development Bank Ltd.
+2026041703002160,SADBL,32,50,410,423.4,173594.0,2026-04-17,186817511,472,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:15:03.553458,Shangrila Development Bank Ltd.
+2026041703002166,SADBL,32,25,500,423.4,211700.0,2026-04-17,186817597,472,Premier Securities Company Ltd.,Sweta Securities Private Limited,2026-04-17 12:15:14.945003,Shangrila Development Bank Ltd.
+2026041703002579,SADBL,42,25,40,424.9,16996.0,2026-04-17,186825680,472,Sani Securities Company Ltd.,Sweta Securities Private Limited,2026-04-17 12:25:15.255379,Shangrila Development Bank Ltd.
+2026041703002597,SADBL,45,25,45,424.9,19120.5,2026-04-17,186826040,472,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 12:25:51.053892,Shangrila Development Bank Ltd.
+2026041703002698,SADBL,33,91,150,423.5,63525.0,2026-04-17,186827535,472,Dakshinkali Investment & Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-17 12:27:52.359662,Shangrila Development Bank Ltd.
+2026041703002789,SADBL,33,4,50,423.5,21175.0,2026-04-17,186830614,472,Dakshinkali Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 12:32:01.913622,Shangrila Development Bank Ltd.
+2026041703002790,SADBL,3,4,10,423.5,4235.0,2026-04-17,186830615,472,Arun Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 12:32:01.913797,Shangrila Development Bank Ltd.
+2026041703002792,SADBL,47,25,400,424.9,169960.0,2026-04-17,186830754,472,Neev Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 12:32:08.780783,Shangrila Development Bank Ltd.
+2026041703002797,SADBL,3,71,90,423.5,38115.0,2026-04-17,186831088,472,Arun Securities (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:32:21.934016,Shangrila Development Bank Ltd.
+2026041703002798,SADBL,32,71,20,423.4,8468.0,2026-04-17,186831089,472,Premier Securities Company Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-17 12:32:21.934113,Shangrila Development Bank Ltd.
+2026041703002835,SADBL,62,50,500,423.5,211750.0,2026-04-17,186832206,472,Capital Max Securities Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:33:45.711209,Shangrila Development Bank Ltd.
+2026041703002836,SADBL,45,50,10,423.5,4235.0,2026-04-17,186832208,472,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:33:45.711435,Shangrila Development Bank Ltd.
+2026041703002837,SADBL,32,50,70,423.4,29638.0,2026-04-17,186832210,472,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:33:45.711581,Shangrila Development Bank Ltd.
+2026041703002838,SADBL,57,50,30,423.0,12690.0,2026-04-17,186832212,472,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:33:45.711735,Shangrila Development Bank Ltd.
+2026041703002895,SADBL,33,4,115,421.4,48461.0,2026-04-17,186833145,472,Dakshinkali Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 12:35:07.687894,Shangrila Development Bank Ltd.
+2026041703002960,SADBL,60,50,2282,423.0,965286.0,2026-04-17,186834155,472,Nagarik Stock Dealer ,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-17 12:36:38.573754,Shangrila Development Bank Ltd.
+2026041703002962,SADBL,60,57,218,423.0,92214.0,2026-04-17,186834218,472,Nagarik Stock Dealer ,Aryatara Investment & Securities,2026-04-17 12:36:43.340599,Shangrila Development Bank Ltd.
+2026041703002963,SADBL,33,57,69,421.4,29076.6,2026-04-17,186834219,472,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 12:36:43.340822,Shangrila Development Bank Ltd.
+2026041703003045,SADBL,4,38,100,424.0,42400.0,2026-04-17,186837214,472,Opal Securities Investment (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:41:29.105744,Shangrila Development Bank Ltd.
+2026041703003289,SADBL,36,16,10,423.0,4230.0,2026-04-17,186842051,472,Secured Securities Ltd.,Primo Securities (PVT) Ltd.,2026-04-17 12:48:48.351757,Shangrila Development Bank Ltd.
+2026041703003292,SADBL,33,25,15,424.9,6373.5,2026-04-17,186842221,472,Dakshinkali Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 12:48:56.754544,Shangrila Development Bank Ltd.
+2026041703003293,SADBL,33,14,35,425.0,14875.0,2026-04-17,186842224,472,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 12:48:56.754602,Shangrila Development Bank Ltd.
+2026041703003327,SADBL,33,14,50,425.0,21250.0,2026-04-17,186842870,472,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 12:49:42.987515,Shangrila Development Bank Ltd.
+2026041703003333,SADBL,4,14,15,425.0,6375.0,2026-04-17,186842977,472,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 12:49:54.465435,Shangrila Development Bank Ltd.
+2026041703003334,SADBL,4,45,50,425.0,21250.0,2026-04-17,186842979,472,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 12:49:54.465671,Shangrila Development Bank Ltd.
+2026041703003335,SADBL,4,49,353,425.0,150025.0,2026-04-17,186842982,472,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:49:54.465826,Shangrila Development Bank Ltd.
+2026041703003408,SADBL,36,38,67,425.1,28481.7,2026-04-17,186844361,472,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:51:41.016341,Shangrila Development Bank Ltd.
+2026041703003452,SADBL,36,65,33,425.1,14028.3,2026-04-17,186845594,472,Secured Securities Ltd.,Sharepro Securities Private Limited,2026-04-17 12:53:02.221449,Shangrila Development Bank Ltd.
+2026041703003453,SADBL,80,65,77,423.1,32578.7,2026-04-17,186845595,472,Indira securities pvt. ltd,Sharepro Securities Private Limited,2026-04-17 12:53:02.221510,Shangrila Development Bank Ltd.
+2026041703003587,SADBL,45,7,230,423.5,97405.0,2026-04-17,186849134,472,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-17 12:57:17.195126,Shangrila Development Bank Ltd.
+2026041703003588,SADBL,80,7,23,423.1,9731.3,2026-04-17,186849136,472,Indira securities pvt. ltd,J.F. Securites (PVT) Ltd.,2026-04-17 12:57:17.195230,Shangrila Development Bank Ltd.
+2026041703003589,SADBL,36,7,312,423.0,131976.0,2026-04-17,186849137,472,Secured Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-17 12:57:17.195306,Shangrila Development Bank Ltd.
+2026041703003726,SADBL,21,62,10,426.5,4265.0,2026-04-17,186852420,472,Midas Stock Broking Company Private Limited,Capital Max Securities Ltd,2026-04-17 13:03:53.085967,Shangrila Development Bank Ltd.
+2026041703003906,SADBL,1,62,10,426.5,4265.0,2026-04-17,186856600,472,Kumari Securities Private Limited,Capital Max Securities Ltd,2026-04-17 13:13:50.071324,Shangrila Development Bank Ltd.
+2026041703004040,SADBL,21,77,194,426.4,82721.6,2026-04-17,186860919,472,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-17 13:21:02.573102,Shangrila Development Bank Ltd.
+2026041703004041,SADBL,21,62,480,426.5,204720.0,2026-04-17,186860921,472,Midas Stock Broking Company Private Limited,Capital Max Securities Ltd,2026-04-17 13:21:02.573232,Shangrila Development Bank Ltd.
+2026041703004042,SADBL,21,38,100,427.0,42700.0,2026-04-17,186860923,472,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:21:02.573287,Shangrila Development Bank Ltd.
+2026041703004043,SADBL,21,47,15,427.0,6405.0,2026-04-17,186860925,472,Midas Stock Broking Company Private Limited,Neev Securities Pvt. Ltd.,2026-04-17 13:21:02.573338,Shangrila Development Bank Ltd.
+2026041703004063,SADBL,21,59,10,429.5,4295.0,2026-04-17,186861700,472,Midas Stock Broking Company Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 13:22:18.732132,Shangrila Development Bank Ltd.
+2026041703004409,SADBL,39,58,13,429.0,5577.0,2026-04-17,186871764,472,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:37:24.821231,Shangrila Development Bank Ltd.
+2026041703004730,SADBL,21,45,22,426.2,9376.4,2026-04-17,186880225,472,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:50:32.962334,Shangrila Development Bank Ltd.
+2026041703004800,SADBL,21,21,200,426.2,85240.0,2026-04-17,186881261,472,Midas Stock Broking Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-17 13:52:50.962278,Shangrila Development Bank Ltd.
+2026041703004835,SADBL,21,21,100,426.2,42620.0,2026-04-17,186881949,472,Midas Stock Broking Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-17 13:54:28.185940,Shangrila Development Bank Ltd.
+2026041703004841,SADBL,21,49,32,427.0,13664.0,2026-04-17,186882073,472,Midas Stock Broking Company Private Limited,Online Securities Pvt. Ltd.,2026-04-17 13:54:42.118597,Shangrila Development Bank Ltd.
+2026041703004877,SADBL,21,57,157,428.0,67196.0,2026-04-17,186882802,472,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-17 13:56:15.182532,Shangrila Development Bank Ltd.
+2026041703004894,SADBL,19,58,24,425.0,10200.0,2026-04-17,186883101,472,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-17 13:57:01.974286,Shangrila Development Bank Ltd.
+2026041703004897,SADBL,21,57,10,428.0,4280.0,2026-04-17,186883180,472,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-17 13:57:16.659099,Shangrila Development Bank Ltd.
+2026041703005235,SADBL,51,57,45,428.0,19260.0,2026-04-17,186894099,472,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 14:09:31.293723,Shangrila Development Bank Ltd.
+2026041703005338,SADBL,58,61,50,426.2,21310.0,2026-04-17,186897061,472,Naasa Securities Co. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-17 14:13:41.558062,Shangrila Development Bank Ltd.
+2026041703005528,SADBL,38,49,21,426.5,8956.5,2026-04-17,186901483,472,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-17 14:19:48.590569,Shangrila Development Bank Ltd.
+2026041703005546,SADBL,51,56,1,423.0,423.0,2026-04-17,186901971,472,Oxford Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:20:28.127379,Shangrila Development Bank Ltd.
+2026041703005564,SADBL,38,57,54,426.5,23031.0,2026-04-17,186902169,472,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-17 14:20:40.848753,Shangrila Development Bank Ltd.
+2026041703005567,SADBL,51,51,2,425.0,850.0,2026-04-17,186902305,472,Oxford Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 14:20:52.289614,Shangrila Development Bank Ltd.
+2026041703005586,SADBL,51,49,1,425.0,425.0,2026-04-17,186902551,472,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 14:21:12.340054,Shangrila Development Bank Ltd.
+2026041703005587,SADBL,38,26,25,426.5,10662.5,2026-04-17,186902555,472,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Asian Securities Private Ltd.,2026-04-17 14:21:12.823064,Shangrila Development Bank Ltd.
+2026041703005663,SADBL,38,101,100,426.5,42650.0,2026-04-17,186903982,472,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-17 14:23:13.636641,Shangrila Development Bank Ltd.
+2026041703005664,SADBL,50,101,100,426.3,42630.0,2026-04-17,186903984,472,Cristal Kanchanjanga Securites Pvt. Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-17 14:23:13.636922,Shangrila Development Bank Ltd.
+2026041703005665,SADBL,58,101,50,426.2,21310.0,2026-04-17,186903986,472,Naasa Securities Co. Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-17 14:23:13.637101,Shangrila Development Bank Ltd.
+2026041703005666,SADBL,83,101,300,426.0,127800.0,2026-04-17,186903988,472,Sanima Securities Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-17 14:23:13.637347,Shangrila Development Bank Ltd.
+2026041703005667,SADBL,19,101,276,425.0,117300.0,2026-04-17,186903990,472,Nepal Investment And Securities Trading Private Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-17 14:23:13.637554,Shangrila Development Bank Ltd.
+2026041703005830,SADBL,40,45,100,424.0,42400.0,2026-04-17,186907116,472,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:27:06.698316,Shangrila Development Bank Ltd.
+2026041703005831,SADBL,53,45,335,424.0,142040.0,2026-04-17,186907117,472,Investment Management Nepal Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:27:06.698451,Shangrila Development Bank Ltd.
+2026041703006099,SADBL,21,101,10,427.0,4270.0,2026-04-17,186913470,472,Midas Stock Broking Company Private Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-17 14:35:43.601878,Shangrila Development Bank Ltd.
+2026041703006106,SADBL,25,101,164,427.0,70028.0,2026-04-17,186913713,472,Sweta Securities Private Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-17 14:36:02.218520,Shangrila Development Bank Ltd.
+2026041703006107,SADBL,25,58,147,428.5,62989.5,2026-04-17,186913715,472,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-17 14:36:02.218661,Shangrila Development Bank Ltd.
+2026041703006108,SADBL,25,45,30,429.0,12870.0,2026-04-17,186913717,472,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:36:02.218728,Shangrila Development Bank Ltd.
+2026041703006109,SADBL,25,32,44,429.0,18876.0,2026-04-17,186913720,472,Sweta Securities Private Limited,Premier Securities Company Ltd.,2026-04-17 14:36:02.218785,Shangrila Development Bank Ltd.
+2026041703006668,SADBL,51,91,35,425.3,14885.5,2026-04-17,186923383,472,Oxford Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-17 14:47:18.211714,Shangrila Development Bank Ltd.
+2026041703007164,SADBL,25,54,50,427.5,21375.0,2026-04-17,186932723,472,Sweta Securities Private Limited,Sewa Securities Pvt. Ltd.,2026-04-17 14:54:01.665275,Shangrila Development Bank Ltd.
+2026041703007218,SADBL,25,77,350,427.5,149625.0,2026-04-17,186933895,472,Sweta Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-17 14:54:51.391859,Shangrila Development Bank Ltd.
+2026041703007310,SADBL,51,36,1,424.0,424.0,2026-04-17,186935509,472,Oxford Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-17 14:56:01.534500,Shangrila Development Bank Ltd.
+2026041703007485,SADBL,45,21,1000,426.1,426100.0,2026-04-17,186937570,472,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 14:57:04.070913,Shangrila Development Bank Ltd.
+2026041703007486,SADBL,57,21,210,426.0,89460.0,2026-04-17,186937572,472,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-17 14:57:04.071065,Shangrila Development Bank Ltd.
+2026041703007487,SADBL,36,21,1000,425.4,425400.0,2026-04-17,186937574,472,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 14:57:04.071132,Shangrila Development Bank Ltd.
+2026041703007488,SADBL,16,21,100,425.3,42530.0,2026-04-17,186937576,472,Primo Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 14:57:04.071206,Shangrila Development Bank Ltd.
+2026041703007489,SADBL,16,21,100,425.2,42520.0,2026-04-17,186937578,472,Primo Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 14:57:04.071288,Shangrila Development Bank Ltd.
+2026041703007490,SADBL,36,21,490,425.1,208299.0,2026-04-17,186937579,472,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 14:57:04.071368,Shangrila Development Bank Ltd.
+2026041703007552,SADBL,51,14,15,427.0,6405.0,2026-04-17,186938592,472,Oxford Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:57:29.749432,Shangrila Development Bank Ltd.
+2026041703007605,SADBL,36,21,10,425.1,4251.0,2026-04-17,186939618,472,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 14:57:59.956919,Shangrila Development Bank Ltd.
+2026041703007606,SADBL,68,21,90,425.0,38250.0,2026-04-17,186939619,472,Elite Stock House Limited,Midas Stock Broking Company Private Limited,2026-04-17 14:57:59.957233,Shangrila Development Bank Ltd.
+2026041703007714,SADBL,49,34,80,425.1,34008.0,2026-04-17,186941487,472,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:58:44.974741,Shangrila Development Bank Ltd.
+2026041703007769,SADBL,49,48,150,425.1,63765.0,2026-04-17,186942678,472,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 14:59:04.839928,Shangrila Development Bank Ltd.
+2026041703007791,SADBL,68,33,460,425.0,195500.0,2026-04-17,186943238,472,Elite Stock House Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:59:14.488735,Shangrila Development Bank Ltd.
+2026041703007792,SADBL,78,33,50,425.0,21250.0,2026-04-17,186943240,472,Garima Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:59:14.488985,Shangrila Development Bank Ltd.
+2026041703007793,SADBL,41,33,590,425.0,250750.0,2026-04-17,186943241,472,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:59:14.489193,Shangrila Development Bank Ltd.
+2026041703007799,SADBL,58,48,15,425.1,6376.5,2026-04-17,186943288,472,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 14:59:15.156439,Shangrila Development Bank Ltd.
+2026041703007885,SADBL,41,33,200,425.0,85000.0,2026-04-17,186944403,472,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:59:31.540266,Shangrila Development Bank Ltd.
+2026041703007957,SADBL,51,48,50,425.1,21255.0,2026-04-17,186945201,472,Oxford Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 14:59:38.632319,Shangrila Development Bank Ltd.

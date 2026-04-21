@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,quantity,rate,amount,transaction_time
+Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
 2025-08-31,92076,2025083101004039,SCB,ABC Securities Private Limited,Sweta Securities Private Limited,15,628.0,9420.0,2025-08-31T11:07:49.853175
 2025-08-31,92075,2025083101004040,SCB,Sani Securities Company Ltd.,Sweta Securities Private Limited,13,627.0,8151.0,2025-08-31T11:07:49.853233
 2025-08-31,92074,2025083101004041,SCB,ABC Securities Private Limited,Sweta Securities Private Limited,10,627.0,6270.0,2025-08-31T11:07:49.85326

@@ -1,0 +1,758 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041704000383,API,48,45,200,349.8,69960.0,2026-04-17,186758472,697,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:05:04.176353,Api Power Company Ltd.
+2026041704000405,API,1,45,300,349.8,104940.0,2026-04-17,186758631,697,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:05:21.207577,Api Power Company Ltd.
+2026041704000413,API,58,58,37,350.0,12950.0,2026-04-17,186758679,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:05:27.470549,Api Power Company Ltd.
+2026041704000421,API,58,22,11,350.0,3850.0,2026-04-17,186758773,697,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 11:05:35.261251,Api Power Company Ltd.
+2026041704000440,API,58,65,1000,350.0,350000.0,2026-04-17,186758949,697,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-17 11:05:49.097714,Api Power Company Ltd.
+2026041704000466,API,58,58,100,350.0,35000.0,2026-04-17,186759123,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:06:05.351867,Api Power Company Ltd.
+2026041704000730,API,59,1,10,352.0,3520.0,2026-04-17,186761318,697,Deevyaa Securities & Stock House Pvt. Ltd,Kumari Securities Private Limited,2026-04-17 11:08:58.604698,Api Power Company Ltd.
+2026041704000857,API,58,58,245,351.9,86215.5,2026-04-17,186762320,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:10:22.107524,Api Power Company Ltd.
+2026041704000914,API,58,47,100,351.9,35190.0,2026-04-17,186762848,697,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 11:11:01.691442,Api Power Company Ltd.
+2026041704000919,API,64,1,15,352.0,5280.0,2026-04-17,186762930,697,SUN SECURITIES PVT LTD,Kumari Securities Private Limited,2026-04-17 11:11:07.472932,Api Power Company Ltd.
+2026041704000940,API,8,39,100,350.1,35010.0,2026-04-17,186763188,697,Brilliant Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:11:26.184592,Api Power Company Ltd.
+2026041704000941,API,58,39,500,350.1,175050.0,2026-04-17,186763189,697,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:11:26.184885,Api Power Company Ltd.
+2026041704000980,API,10,91,500,350.1,175050.0,2026-04-17,186763612,697,Pragyan Securities (PVT) Ltd.,Citizens Share Broker Limited,2026-04-17 11:12:01.391618,Api Power Company Ltd.
+2026041704000981,API,13,91,210,350.1,73521.0,2026-04-17,186763613,697,Thrive Brokerage House Pvt. Ltd,Citizens Share Broker Limited,2026-04-17 11:12:01.391896,Api Power Company Ltd.
+2026041704001002,API,13,32,100,350.1,35010.0,2026-04-17,186763785,697,Thrive Brokerage House Pvt. Ltd,Premier Securities Company Ltd.,2026-04-17 11:12:18.874137,Api Power Company Ltd.
+2026041704001019,API,13,68,690,350.1,241569.0,2026-04-17,186763972,697,Thrive Brokerage House Pvt. Ltd,Elite Stock House Limited,2026-04-17 11:12:41.797643,Api Power Company Ltd.
+2026041704001020,API,58,68,852,350.0,298200.0,2026-04-17,186763974,697,Naasa Securities Co. Ltd.,Elite Stock House Limited,2026-04-17 11:12:41.797785,Api Power Company Ltd.
+2026041704001021,API,49,68,20,350.0,7000.0,2026-04-17,186763976,697,Online Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-17 11:12:41.797856,Api Power Company Ltd.
+2026041704001022,API,42,68,50,350.0,17500.0,2026-04-17,186763978,697,Sani Securities Company Ltd.,Elite Stock House Limited,2026-04-17 11:12:41.797920,Api Power Company Ltd.
+2026041704001023,API,45,68,388,350.0,135800.0,2026-04-17,186763979,697,Imperial Securities Company Pvt. Ltd.,Elite Stock House Limited,2026-04-17 11:12:41.797982,Api Power Company Ltd.
+2026041704001163,API,52,45,262,351.0,91962.0,2026-04-17,186765462,697,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:14:47.923063,Api Power Company Ltd.
+2026041704001404,API,57,47,50,351.6,17580.0,2026-04-17,186766942,697,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,2026-04-17 11:16:24.663842,Api Power Company Ltd.
+2026041704001488,API,17,52,800,350.2,280160.0,2026-04-17,186767480,697,ABC Securities Private Limited,Sundhara Securities Limited,2026-04-17 11:17:03.232122,Api Power Company Ltd.
+2026041704001518,API,57,52,200,350.1,70020.0,2026-04-17,186767795,697,Aryatara Investment & Securities,Sundhara Securities Limited,2026-04-17 11:17:20.814530,Api Power Company Ltd.
+2026041704001562,API,58,39,500,350.1,175050.0,2026-04-17,186768142,697,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:17:42.702539,Api Power Company Ltd.
+2026041704001563,API,45,39,200,350.0,70000.0,2026-04-17,186768144,697,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:17:42.702719,Api Power Company Ltd.
+2026041704001564,API,29,39,300,350.0,105000.0,2026-04-17,186768145,697,Trisul Securities & Invt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:17:42.702798,Api Power Company Ltd.
+2026041704001606,API,42,59,10,351.0,3510.0,2026-04-17,186768424,697,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 11:17:58.271934,Api Power Company Ltd.
+2026041704001638,API,29,58,1000,350.0,350000.0,2026-04-17,186768663,697,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:18:08.035283,Api Power Company Ltd.
+2026041704001657,API,29,6,700,350.0,245000.0,2026-04-17,186768916,697,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 11:18:20.839120,Api Power Company Ltd.
+2026041704001658,API,45,6,3000,350.0,1050000.0,2026-04-17,186768918,697,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 11:18:20.839296,Api Power Company Ltd.
+2026041704001659,API,44,6,190,350.0,66500.0,2026-04-17,186768919,697,Dynamic Money Managers Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 11:18:20.839392,Api Power Company Ltd.
+2026041704001673,API,44,47,60,350.0,21000.0,2026-04-17,186769074,697,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 11:18:30.246008,Api Power Company Ltd.
+2026041704001674,API,44,47,250,350.0,87500.0,2026-04-17,186769076,697,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 11:18:30.246349,Api Power Company Ltd.
+2026041704001675,API,44,47,190,350.0,66500.0,2026-04-17,186769077,697,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 11:18:30.246578,Api Power Company Ltd.
+2026041704001723,API,44,7,10,350.0,3500.0,2026-04-17,186769599,697,Dynamic Money Managers Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-17 11:18:56.433394,Api Power Company Ltd.
+2026041704001743,API,58,59,10,350.1,3501.0,2026-04-17,186769762,697,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 11:19:03.902459,Api Power Company Ltd.
+2026041704001749,API,44,59,50,350.0,17500.0,2026-04-17,186769806,697,Dynamic Money Managers Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 11:19:04.904157,Api Power Company Ltd.
+2026041704001756,API,1,34,145,349.9,50735.5,2026-04-17,186770009,697,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-17 11:19:11.714887,Api Power Company Ltd.
+2026041704001790,API,1,28,100,349.9,34990.0,2026-04-17,186770321,697,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-17 11:19:30.898800,Api Power Company Ltd.
+2026041704001793,API,1,47,100,349.9,34990.0,2026-04-17,186770445,697,Kumari Securities Private Limited,Neev Securities Pvt. Ltd.,2026-04-17 11:19:33.761429,Api Power Company Ltd.
+2026041704001794,API,1,72,355,349.9,124214.5,2026-04-17,186770458,697,Kumari Securities Private Limited,Hatemalo Financial Services Private Limited,2026-04-17 11:19:36.512147,Api Power Company Ltd.
+2026041704001795,API,32,72,100,349.1,34910.0,2026-04-17,186770460,697,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,2026-04-17 11:19:36.512360,Api Power Company Ltd.
+2026041704001796,API,68,72,1000,349.0,349000.0,2026-04-17,186770462,697,Elite Stock House Limited,Hatemalo Financial Services Private Limited,2026-04-17 11:19:36.512463,Api Power Company Ltd.
+2026041704001797,API,68,72,1000,349.0,349000.0,2026-04-17,186770464,697,Elite Stock House Limited,Hatemalo Financial Services Private Limited,2026-04-17 11:19:36.512537,Api Power Company Ltd.
+2026041704001798,API,94,72,100,349.0,34900.0,2026-04-17,186770466,697,K.B.L. Securities Limited ,Hatemalo Financial Services Private Limited,2026-04-17 11:19:36.512607,Api Power Company Ltd.
+2026041704001799,API,57,72,200,349.0,69800.0,2026-04-17,186770468,697,Aryatara Investment & Securities,Hatemalo Financial Services Private Limited,2026-04-17 11:19:36.512679,Api Power Company Ltd.
+2026041704001800,API,47,72,245,348.1,85284.5,2026-04-17,186770469,697,Neev Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-17 11:19:36.512751,Api Power Company Ltd.
+2026041704001949,API,47,61,85,348.1,29588.5,2026-04-17,186771957,697,Neev Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-17 11:21:18.523074,Api Power Company Ltd.
+2026041704002024,API,47,74,50,348.1,17405.0,2026-04-17,186772663,697,Neev Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 11:22:09.379896,Api Power Company Ltd.
+2026041704002057,API,47,34,620,348.1,215822.0,2026-04-17,186772890,697,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 11:22:27.690393,Api Power Company Ltd.
+2026041704002058,API,58,34,115,348.1,40031.5,2026-04-17,186772891,697,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 11:22:27.690561,Api Power Company Ltd.
+2026041704002059,API,58,59,200,348.1,69620.0,2026-04-17,186772893,697,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 11:22:28.005226,Api Power Company Ltd.
+2026041704002143,API,58,48,185,348.1,64398.5,2026-04-17,186773658,697,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:23:07.335638,Api Power Company Ltd.
+2026041704002144,API,10,48,115,348.1,40031.5,2026-04-17,186773659,697,Pragyan Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-17 11:23:07.335692,Api Power Company Ltd.
+2026041704002145,API,10,74,200,348.1,69620.0,2026-04-17,186773675,697,Pragyan Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 11:23:09.008699,Api Power Company Ltd.
+2026041704002147,API,10,58,45,348.1,15664.5,2026-04-17,186773699,697,Pragyan Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:23:12.223841,Api Power Company Ltd.
+2026041704002151,API,10,49,140,348.1,48734.0,2026-04-17,186773746,697,Pragyan Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:23:14.824878,Api Power Company Ltd.
+2026041704002152,API,33,49,1510,348.0,525480.0,2026-04-17,186773747,697,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:23:14.825084,Api Power Company Ltd.
+2026041704002182,API,33,25,79,348.0,27492.0,2026-04-17,186774237,697,Dakshinkali Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 11:23:41.003565,Api Power Company Ltd.
+2026041704002190,API,33,57,1000,348.0,348000.0,2026-04-17,186774371,697,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:23:49.865514,Api Power Company Ltd.
+2026041704002210,API,33,42,500,348.0,174000.0,2026-04-17,186774693,697,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 11:24:06.796430,Api Power Company Ltd.
+2026041704002211,API,33,59,430,348.0,149640.0,2026-04-17,186774703,697,Dakshinkali Investment & Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 11:24:09.278567,Api Power Company Ltd.
+2026041704002290,API,33,4,50,348.0,17400.0,2026-04-17,186775223,697,Dakshinkali Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 11:24:36.596747,Api Power Company Ltd.
+2026041704002383,API,45,14,50,348.1,17405.0,2026-04-17,186775990,697,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:25:20.006901,Api Power Company Ltd.
+2026041704002384,API,33,14,950,348.0,330600.0,2026-04-17,186775991,697,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:25:20.007088,Api Power Company Ltd.
+2026041704002404,API,33,58,100,348.0,34800.0,2026-04-17,186776209,697,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:25:33.858395,Api Power Company Ltd.
+2026041704002408,API,33,45,2355,348.0,819540.0,2026-04-17,186776299,697,Dakshinkali Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:25:37.155998,Api Power Company Ltd.
+2026041704002419,API,33,57,200,348.0,69600.0,2026-04-17,186776577,697,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:25:54.329581,Api Power Company Ltd.
+2026041704002488,API,33,95,600,348.0,208800.0,2026-04-17,186777387,697,Dakshinkali Investment & Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-17 11:26:46.172584,Api Power Company Ltd.
+2026041704002545,API,66,86,355,348.9,123859.5,2026-04-17,186778017,697,Miyo Securities Pvt Ltd,Stoxkarts Securities Limited,2026-04-17 11:27:36.996361,Api Power Company Ltd.
+2026041704002546,API,66,4,50,349.0,17450.0,2026-04-17,186778019,697,Miyo Securities Pvt Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-17 11:27:36.996742,Api Power Company Ltd.
+2026041704002624,API,66,62,595,349.0,207655.0,2026-04-17,186779188,697,Miyo Securities Pvt Ltd,Capital Max Securities Ltd,2026-04-17 11:28:54.772171,Api Power Company Ltd.
+2026041704002625,API,28,62,528,348.1,183796.8,2026-04-17,186779190,697,Shree Krishna Securities Ltd.,Capital Max Securities Ltd,2026-04-17 11:28:54.772372,Api Power Company Ltd.
+2026041704002626,API,33,62,2029,348.0,706092.0,2026-04-17,186779191,697,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-17 11:28:54.772462,Api Power Company Ltd.
+2026041704002665,API,60,4,14,350.0,4900.0,2026-04-17,186779808,697,Nagarik Stock Dealer ,Opal Securities Investment (PVT) Ltd.,2026-04-17 11:29:37.106373,Api Power Company Ltd.
+2026041704002673,API,33,49,197,348.0,68556.0,2026-04-17,186779914,697,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:29:45.632015,Api Power Company Ltd.
+2026041704002674,API,48,49,10,348.0,3480.0,2026-04-17,186779916,697,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,2026-04-17 11:29:45.632206,Api Power Company Ltd.
+2026041704002675,API,43,49,200,348.0,69600.0,2026-04-17,186779918,697,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:29:45.632292,Api Power Company Ltd.
+2026041704002676,API,53,49,250,348.0,87000.0,2026-04-17,186779920,697,Investment Management Nepal Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:29:45.632382,Api Power Company Ltd.
+2026041704002677,API,58,49,643,348.0,223764.0,2026-04-17,186779921,697,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:29:45.632464,Api Power Company Ltd.
+2026041704002771,API,48,25,10,349.0,3490.0,2026-04-17,186780920,697,Trishakti Securities Public Limited,Sweta Securities Private Limited,2026-04-17 11:30:53.671264,Api Power Company Ltd.
+2026041704002833,API,47,25,30,349.0,10470.0,2026-04-17,186781657,697,Neev Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 11:31:32.779581,Api Power Company Ltd.
+2026041704002834,API,47,57,100,349.0,34900.0,2026-04-17,186781659,697,Neev Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 11:31:32.779956,Api Power Company Ltd.
+2026041704002948,API,47,58,13,349.0,4537.0,2026-04-17,186782901,697,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:32:54.558956,Api Power Company Ltd.
+2026041704002975,API,47,74,600,349.0,209400.0,2026-04-17,186783235,697,Neev Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 11:33:17.679762,Api Power Company Ltd.
+2026041704003001,API,47,74,257,349.0,89693.0,2026-04-17,186783534,697,Neev Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 11:33:46.515872,Api Power Company Ltd.
+2026041704003013,API,74,74,10,349.0,3490.0,2026-04-17,186783938,697,KALASH STOCK MARKET PVT. LTD.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 11:33:55.408349,Api Power Company Ltd.
+2026041704003035,API,100,41,200,348.2,69640.0,2026-04-17,186784245,697,Sunrise Securities Limited,Linch Stock Market Ltd.,2026-04-17 11:34:17.558789,Api Power Company Ltd.
+2026041704003094,API,100,57,20,348.2,6964.0,2026-04-17,186784867,697,Sunrise Securities Limited,Aryatara Investment & Securities,2026-04-17 11:34:58.727703,Api Power Company Ltd.
+2026041704003202,API,100,8,25,348.2,8705.0,2026-04-17,186785863,697,Sunrise Securities Limited,Brilliant Securities Pvt. Ltd.,2026-04-17 11:36:04.772803,Api Power Company Ltd.
+2026041704003427,API,42,74,33,349.0,11517.0,2026-04-17,186787777,697,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 11:38:39.420289,Api Power Company Ltd.
+2026041704003428,API,42,45,19,349.9,6648.1,2026-04-17,186787780,697,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:38:39.420532,Api Power Company Ltd.
+2026041704003479,API,17,40,30,348.2,10446.0,2026-04-17,186788437,697,ABC Securities Private Limited,Creative Securities Pvt Ltd,2026-04-17 11:39:28.485479,Api Power Company Ltd.
+2026041704003605,API,47,21,1460,348.3,508518.0,2026-04-17,186790399,697,Neev Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-17 11:41:45.127634,Api Power Company Ltd.
+2026041704003624,API,47,58,490,348.3,170667.0,2026-04-17,186790552,697,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.859434,Api Power Company Ltd.
+2026041704003625,API,100,58,250,348.3,87075.0,2026-04-17,186790554,697,Sunrise Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.859875,Api Power Company Ltd.
+2026041704003626,API,17,58,100,348.2,34820.0,2026-04-17,186790556,697,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.860180,Api Power Company Ltd.
+2026041704003627,API,66,58,630,348.1,219303.0,2026-04-17,186790558,697,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.860496,Api Power Company Ltd.
+2026041704003628,API,58,58,127,348.1,44208.7,2026-04-17,186790560,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.860784,Api Power Company Ltd.
+2026041704003629,API,41,58,25,348.0,8700.0,2026-04-17,186790562,697,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.861074,Api Power Company Ltd.
+2026041704003630,API,7,58,10,348.0,3480.0,2026-04-17,186790564,697,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.861367,Api Power Company Ltd.
+2026041704003631,API,42,58,200,348.0,69600.0,2026-04-17,186790566,697,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.861648,Api Power Company Ltd.
+2026041704003632,API,32,58,168,348.0,58464.0,2026-04-17,186790567,697,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:41:57.861913,Api Power Company Ltd.
+2026041704003726,API,32,58,10,348.0,3480.0,2026-04-17,186791767,697,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:43:28.631552,Api Power Company Ltd.
+2026041704003813,API,76,45,500,349.7,174850.0,2026-04-17,186792825,697,Machhapuchchhre Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:44:53.231811,Api Power Company Ltd.
+2026041704003814,API,76,58,500,349.8,174900.0,2026-04-17,186792827,697,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 11:44:53.232060,Api Power Company Ltd.
+2026041704003815,API,76,45,181,349.9,63331.9,2026-04-17,186792829,697,Machhapuchchhre Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:44:53.232481,Api Power Company Ltd.
+2026041704003816,API,76,4,10,350.0,3500.0,2026-04-17,186792831,697,Machhapuchchhre Securities Limited,Opal Securities Investment (PVT) Ltd.,2026-04-17 11:44:53.232713,Api Power Company Ltd.
+2026041704003817,API,76,51,309,350.0,108150.0,2026-04-17,186792834,697,Machhapuchchhre Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-17 11:44:53.232918,Api Power Company Ltd.
+2026041704003851,API,47,51,691,350.0,241850.0,2026-04-17,186793381,697,Neev Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 11:45:40.419926,Api Power Company Ltd.
+2026041704003852,API,47,38,236,350.0,82600.0,2026-04-17,186793383,697,Neev Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 11:45:40.420172,Api Power Company Ltd.
+2026041704003853,API,47,48,73,350.0,25550.0,2026-04-17,186793386,697,Neev Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:45:40.420274,Api Power Company Ltd.
+2026041704003858,API,47,47,100,349.9,34990.0,2026-04-17,186793445,697,Neev Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 11:45:46.282292,Api Power Company Ltd.
+2026041704003859,API,47,48,900,350.0,315000.0,2026-04-17,186793448,697,Neev Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:45:46.282778,Api Power Company Ltd.
+2026041704003901,API,45,39,50,348.1,17405.0,2026-04-17,186794150,697,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:46:50.013299,Api Power Company Ltd.
+2026041704003902,API,44,39,450,348.1,156645.0,2026-04-17,186794151,697,Dynamic Money Managers Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 11:46:50.013803,Api Power Company Ltd.
+2026041704003977,API,44,14,550,348.1,191455.0,2026-04-17,186795066,697,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:48:08.549526,Api Power Company Ltd.
+2026041704003978,API,49,14,500,348.1,174050.0,2026-04-17,186795068,697,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:48:08.550053,Api Power Company Ltd.
+2026041704003979,API,32,14,122,348.0,42456.0,2026-04-17,186795070,697,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:48:08.550388,Api Power Company Ltd.
+2026041704003980,API,34,14,100,348.0,34800.0,2026-04-17,186795072,697,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-17 11:48:08.550699,Api Power Company Ltd.
+2026041704003981,API,25,14,285,348.0,99180.0,2026-04-17,186795074,697,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 11:48:08.551017,Api Power Company Ltd.
+2026041704003982,API,51,14,15,348.0,5220.0,2026-04-17,186795076,697,Oxford Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:48:08.551309,Api Power Company Ltd.
+2026041704003983,API,49,14,328,348.0,114144.0,2026-04-17,186795077,697,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 11:48:08.551620,Api Power Company Ltd.
+2026041704004085,API,49,48,172,348.0,59856.0,2026-04-17,186795904,697,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:49:11.537295,Api Power Company Ltd.
+2026041704004086,API,47,48,10,347.6,3476.0,2026-04-17,186795906,697,Neev Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:49:11.537402,Api Power Company Ltd.
+2026041704004087,API,58,48,100,347.6,34760.0,2026-04-17,186795908,697,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:49:11.537488,Api Power Company Ltd.
+2026041704004088,API,100,48,250,347.5,86875.0,2026-04-17,186795910,697,Sunrise Securities Limited,Trishakti Securities Public Limited,2026-04-17 11:49:11.537543,Api Power Company Ltd.
+2026041704004089,API,100,48,250,347.5,86875.0,2026-04-17,186795912,697,Sunrise Securities Limited,Trishakti Securities Public Limited,2026-04-17 11:49:11.537607,Api Power Company Ltd.
+2026041704004090,API,19,48,218,347.4,75733.2,2026-04-17,186795913,697,Nepal Investment And Securities Trading Private Limited,Trishakti Securities Public Limited,2026-04-17 11:49:11.537672,Api Power Company Ltd.
+2026041704004100,API,19,48,282,347.4,97966.8,2026-04-17,186796072,697,Nepal Investment And Securities Trading Private Limited,Trishakti Securities Public Limited,2026-04-17 11:49:24.785918,Api Power Company Ltd.
+2026041704004101,API,45,48,50,347.1,17355.0,2026-04-17,186796074,697,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:49:24.785986,Api Power Company Ltd.
+2026041704004102,API,58,48,200,347.1,69420.0,2026-04-17,186796076,697,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-17 11:49:24.786011,Api Power Company Ltd.
+2026041704004103,API,88,48,468,347.0,162396.0,2026-04-17,186796077,697,Blue Chip Securities Ltd,Trishakti Securities Public Limited,2026-04-17 11:49:24.786034,Api Power Company Ltd.
+2026041704004109,API,88,52,200,347.0,69400.0,2026-04-17,186796161,697,Blue Chip Securities Ltd,Sundhara Securities Limited,2026-04-17 11:49:34.797282,Api Power Company Ltd.
+2026041704004131,API,88,49,10,347.0,3470.0,2026-04-17,186796293,697,Blue Chip Securities Ltd,Online Securities Pvt. Ltd.,2026-04-17 11:49:43.234713,Api Power Company Ltd.
+2026041704004255,API,76,45,209,347.1,72543.9,2026-04-17,186797427,697,Machhapuchchhre Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 11:51:26.257160,Api Power Company Ltd.
+2026041704004384,API,42,49,160,347.2,55552.0,2026-04-17,186798393,697,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:52:36.514287,Api Power Company Ltd.
+2026041704004619,API,42,46,240,347.2,83328.0,2026-04-17,186800052,697,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 11:54:49.327483,Api Power Company Ltd.
+2026041704004620,API,51,46,15,347.2,5208.0,2026-04-17,186800054,697,Oxford Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 11:54:49.327971,Api Power Company Ltd.
+2026041704004621,API,76,46,291,347.1,101006.1,2026-04-17,186800056,697,Machhapuchchhre Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-17 11:54:49.328307,Api Power Company Ltd.
+2026041704004622,API,88,46,690,347.0,239430.0,2026-04-17,186800058,697,Blue Chip Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-17 11:54:49.328661,Api Power Company Ltd.
+2026041704004623,API,11,46,30,347.0,10410.0,2026-04-17,186800060,697,Malla & Malla Stock Broking Company Pvt. Limited,Kalika Securities Pvt. Ltd.,2026-04-17 11:54:49.329012,Api Power Company Ltd.
+2026041704004624,API,8,46,67,347.0,23249.0,2026-04-17,186800061,697,Brilliant Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 11:54:49.329354,Api Power Company Ltd.
+2026041704004658,API,8,49,53,347.0,18391.0,2026-04-17,186800368,697,Brilliant Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:55:20.117571,Api Power Company Ltd.
+2026041704004659,API,51,49,15,347.0,5205.0,2026-04-17,186800370,697,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:55:20.117820,Api Power Company Ltd.
+2026041704004660,API,26,49,40,347.0,13880.0,2026-04-17,186800372,697,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:55:20.117934,Api Power Company Ltd.
+2026041704004661,API,29,49,100,346.8,34680.0,2026-04-17,186800374,697,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:55:20.118056,Api Power Company Ltd.
+2026041704004746,API,61,25,213,346.6,73825.8,2026-04-17,186801025,697,BHOLE GANESH SECURITIES LTD,Sweta Securities Private Limited,2026-04-17 11:56:16.679881,Api Power Company Ltd.
+2026041704004837,API,45,49,50,346.8,17340.0,2026-04-17,186801460,697,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 11:56:47.911517,Api Power Company Ltd.
+2026041704004906,API,61,58,37,346.6,12824.2,2026-04-17,186802014,697,BHOLE GANESH SECURITIES LTD,Naasa Securities Co. Ltd.,2026-04-17 11:57:21.246428,Api Power Company Ltd.
+2026041704004909,API,94,58,10,346.6,3466.0,2026-04-17,186802100,697,K.B.L. Securities Limited ,Naasa Securities Co. Ltd.,2026-04-17 11:57:28.559073,Api Power Company Ltd.
+2026041704004962,API,33,33,1037,346.5,359320.5,2026-04-17,186802565,697,Dakshinkali Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 11:58:02.081299,Api Power Company Ltd.
+2026041704005005,API,33,58,53,346.5,18364.5,2026-04-17,186803017,697,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 11:58:33.906061,Api Power Company Ltd.
+2026041704005037,API,33,54,600,346.5,207900.0,2026-04-17,186803255,697,Dakshinkali Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-17 11:58:54.587672,Api Power Company Ltd.
+2026041704005376,API,36,57,200,347.0,69400.0,2026-04-17,186805663,697,Secured Securities Ltd.,Aryatara Investment & Securities,2026-04-17 12:01:30.904177,Api Power Company Ltd.
+2026041704005450,API,45,35,50,347.1,17355.0,2026-04-17,186806049,697,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:02:03.808853,Api Power Company Ltd.
+2026041704005504,API,36,22,800,347.0,277600.0,2026-04-17,186806396,697,Secured Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 12:02:31.338508,Api Power Company Ltd.
+2026041704005505,API,45,22,150,347.0,52050.0,2026-04-17,186806398,697,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 12:02:31.339017,Api Power Company Ltd.
+2026041704005506,API,38,22,10,347.0,3470.0,2026-04-17,186806399,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 12:02:31.339407,Api Power Company Ltd.
+2026041704005765,API,8,38,20,346.6,6932.0,2026-04-17,186808406,697,Brilliant Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:04:40.701716,Api Power Company Ltd.
+2026041704005766,API,28,38,17,346.5,5890.5,2026-04-17,186808408,697,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:04:40.701983,Api Power Company Ltd.
+2026041704005767,API,49,38,76,346.5,26334.0,2026-04-17,186808410,697,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:04:40.702106,Api Power Company Ltd.
+2026041704005819,API,38,57,100,346.4,34640.0,2026-04-17,186808768,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-17 12:05:02.239584,Api Power Company Ltd.
+2026041704005884,API,44,35,100,346.3,34630.0,2026-04-17,186809089,697,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:05:26.119534,Api Power Company Ltd.
+2026041704005907,API,44,52,136,346.3,47096.8,2026-04-17,186809259,697,Dynamic Money Managers Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-17 12:05:42.439342,Api Power Company Ltd.
+2026041704005962,API,44,58,422,346.3,146138.6,2026-04-17,186809535,697,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:06:02.988612,Api Power Company Ltd.
+2026041704005966,API,44,35,200,346.3,69260.0,2026-04-17,186809553,697,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:06:05.190346,Api Power Company Ltd.
+2026041704005993,API,25,57,200,346.4,69280.0,2026-04-17,186809729,697,Sweta Securities Private Limited,Aryatara Investment & Securities,2026-04-17 12:06:21.242195,Api Power Company Ltd.
+2026041704005994,API,25,35,100,346.4,34640.0,2026-04-17,186809732,697,Sweta Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:06:21.242471,Api Power Company Ltd.
+2026041704006011,API,44,57,142,346.3,49174.6,2026-04-17,186809912,697,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 12:06:31.853720,Api Power Company Ltd.
+2026041704006050,API,42,38,400,346.5,138600.0,2026-04-17,186810270,697,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:06:57.754662,Api Power Company Ltd.
+2026041704006051,API,42,57,20,346.4,6928.0,2026-04-17,186810272,697,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-17 12:06:57.809190,Api Power Company Ltd.
+2026041704006052,API,34,57,10,346.3,3463.0,2026-04-17,186810274,697,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-17 12:06:57.809285,Api Power Company Ltd.
+2026041704006053,API,68,57,100,346.1,34610.0,2026-04-17,186810276,697,Elite Stock House Limited,Aryatara Investment & Securities,2026-04-17 12:06:57.809383,Api Power Company Ltd.
+2026041704006054,API,68,57,370,346.0,128020.0,2026-04-17,186810277,697,Elite Stock House Limited,Aryatara Investment & Securities,2026-04-17 12:06:57.809472,Api Power Company Ltd.
+2026041704006059,API,68,52,130,346.0,44980.0,2026-04-17,186810342,697,Elite Stock House Limited,Sundhara Securities Limited,2026-04-17 12:07:03.483116,Api Power Company Ltd.
+2026041704006060,API,17,52,820,346.0,283720.0,2026-04-17,186810343,697,ABC Securities Private Limited,Sundhara Securities Limited,2026-04-17 12:07:03.483481,Api Power Company Ltd.
+2026041704006116,API,51,38,12,346.5,4158.0,2026-04-17,186810626,697,Oxford Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:07:23.838679,Api Power Company Ltd.
+2026041704006161,API,45,49,30,346.1,10383.0,2026-04-17,186811066,697,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:07:54.785729,Api Power Company Ltd.
+2026041704006162,API,17,49,180,346.0,62280.0,2026-04-17,186811068,697,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-17 12:07:54.786293,Api Power Company Ltd.
+2026041704006163,API,66,49,1000,346.0,346000.0,2026-04-17,186811070,697,Miyo Securities Pvt Ltd,Online Securities Pvt. Ltd.,2026-04-17 12:07:54.786676,Api Power Company Ltd.
+2026041704006164,API,51,49,15,346.0,5190.0,2026-04-17,186811072,697,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:07:54.787020,Api Power Company Ltd.
+2026041704006165,API,46,49,30,346.0,10380.0,2026-04-17,186811074,697,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:07:54.787389,Api Power Company Ltd.
+2026041704006166,API,29,49,245,346.0,84770.0,2026-04-17,186811075,697,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:07:54.787735,Api Power Company Ltd.
+2026041704006241,API,65,42,200,346.4,69280.0,2026-04-17,186811886,697,Sharepro Securities Private Limited,Sani Securities Company Ltd.,2026-04-17 12:08:55.364528,Api Power Company Ltd.
+2026041704006337,API,29,49,55,346.0,19030.0,2026-04-17,186812600,697,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:09:52.296964,Api Power Company Ltd.
+2026041704006338,API,33,49,108,346.0,37368.0,2026-04-17,186812601,697,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:09:52.297518,Api Power Company Ltd.
+2026041704006502,API,58,42,227,346.4,78632.8,2026-04-17,186813284,697,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:10:26.785905,Api Power Company Ltd.
+2026041704006524,API,33,42,392,346.0,135632.0,2026-04-17,186813340,697,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:10:30.821864,Api Power Company Ltd.
+2026041704006532,API,10,42,30,346.0,10380.0,2026-04-17,186813482,697,Pragyan Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 12:10:42.784702,Api Power Company Ltd.
+2026041704006547,API,34,42,500,346.0,173000.0,2026-04-17,186813728,697,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-17 12:10:58.007471,Api Power Company Ltd.
+2026041704006649,API,32,22,100,345.8,34580.0,2026-04-17,186814562,697,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 12:11:48.465074,Api Power Company Ltd.
+2026041704006650,API,57,22,450,345.7,155565.0,2026-04-17,186814563,697,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-17 12:11:48.465398,Api Power Company Ltd.
+2026041704006657,API,57,22,500,345.7,172850.0,2026-04-17,186814597,697,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-17 12:11:52.354842,Api Power Company Ltd.
+2026041704006797,API,57,37,50,345.7,17285.0,2026-04-17,186815560,697,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 12:12:43.527980,Api Power Company Ltd.
+2026041704006798,API,42,37,100,345.3,34530.0,2026-04-17,186815562,697,Sani Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 12:12:43.528276,Api Power Company Ltd.
+2026041704006799,API,45,37,50,345.2,17260.0,2026-04-17,186815564,697,Imperial Securities Company Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 12:12:43.528409,Api Power Company Ltd.
+2026041704006800,API,57,37,40,345.2,13808.0,2026-04-17,186815566,697,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 12:12:43.528531,Api Power Company Ltd.
+2026041704006801,API,14,37,1000,345.2,345200.0,2026-04-17,186815568,697,Nepal Stock House (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 12:12:43.528654,Api Power Company Ltd.
+2026041704006852,API,76,56,804,345.1,277460.4,2026-04-17,186815839,697,Machhapuchchhre Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 12:12:58.726305,Api Power Company Ltd.
+2026041704006895,API,33,37,260,345.2,89752.0,2026-04-17,186816151,697,Dakshinkali Investment & Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-17 12:13:16.015190,Api Power Company Ltd.
+2026041704006896,API,33,1,47,345.2,16224.4,2026-04-17,186816153,697,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-17 12:13:16.015483,Api Power Company Ltd.
+2026041704006906,API,33,38,14,345.2,4832.8,2026-04-17,186816203,697,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:13:21.885310,Api Power Company Ltd.
+2026041704006988,API,58,94,28,345.3,9668.4,2026-04-17,186816766,697,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-17 12:14:00.764614,Api Power Company Ltd.
+2026041704006989,API,33,94,179,345.2,61790.8,2026-04-17,186816768,697,Dakshinkali Investment & Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-17 12:14:00.764972,Api Power Company Ltd.
+2026041704007024,API,45,94,30,345.2,10356.0,2026-04-17,186817070,697,Imperial Securities Company Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-17 12:14:25.602045,Api Power Company Ltd.
+2026041704007060,API,47,94,808,345.2,278921.6,2026-04-17,186817277,697,Neev Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-17 12:14:42.783094,Api Power Company Ltd.
+2026041704007061,API,47,42,78,346.0,26988.0,2026-04-17,186817279,697,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:14:42.783701,Api Power Company Ltd.
+2026041704007062,API,47,57,110,346.0,38060.0,2026-04-17,186817281,697,Neev Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 12:14:42.784085,Api Power Company Ltd.
+2026041704007156,API,47,42,205,346.4,71012.0,2026-04-17,186817962,697,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:15:40.795703,Api Power Company Ltd.
+2026041704007191,API,37,42,368,346.4,127475.2,2026-04-17,186818149,697,Swarna Laxmi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:15:51.665236,Api Power Company Ltd.
+2026041704007192,API,37,42,150,346.4,51960.0,2026-04-17,186818171,697,Swarna Laxmi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 12:15:56.639704,Api Power Company Ltd.
+2026041704007215,API,37,51,52,346.4,18012.8,2026-04-17,186818450,697,Swarna Laxmi Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 12:16:18.317486,Api Power Company Ltd.
+2026041704007219,API,86,51,50,346.0,17300.0,2026-04-17,186818468,697,Stoxkarts Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-17 12:16:21.056529,Api Power Company Ltd.
+2026041704007231,API,42,51,500,346.0,173000.0,2026-04-17,186818514,697,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 12:16:25.119689,Api Power Company Ltd.
+2026041704007264,API,44,41,200,345.7,69140.0,2026-04-17,186818783,697,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-17 12:16:49.725824,Api Power Company Ltd.
+2026041704007282,API,25,51,200,346.0,69200.0,2026-04-17,186818870,697,Sweta Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-17 12:16:58.810341,Api Power Company Ltd.
+2026041704007339,API,48,51,150,346.0,51900.0,2026-04-17,186819118,697,Trishakti Securities Public Limited,Oxford Securities Pvt. Ltd.,2026-04-17 12:17:14.092686,Api Power Company Ltd.
+2026041704007385,API,65,51,48,346.0,16608.0,2026-04-17,186819627,697,Sharepro Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-17 12:17:57.658566,Api Power Company Ltd.
+2026041704007386,API,65,58,52,346.0,17992.0,2026-04-17,186819630,697,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-17 12:17:57.658906,Api Power Company Ltd.
+2026041704007391,API,51,58,12,346.0,4152.0,2026-04-17,186819668,697,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:18:00.904458,Api Power Company Ltd.
+2026041704007411,API,44,26,211,345.7,72942.7,2026-04-17,186819939,697,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 12:18:09.028432,Api Power Company Ltd.
+2026041704007453,API,44,26,200,345.7,69140.0,2026-04-17,186820401,697,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 12:18:35.855362,Api Power Company Ltd.
+2026041704007468,API,47,58,36,346.0,12456.0,2026-04-17,186820607,697,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:18:46.708476,Api Power Company Ltd.
+2026041704007471,API,47,66,100,346.0,34600.0,2026-04-17,186820661,697,Neev Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-17 12:18:51.584011,Api Power Company Ltd.
+2026041704007480,API,42,32,20,347.0,6940.0,2026-04-17,186820725,697,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-17 12:18:56.672864,Api Power Company Ltd.
+2026041704007481,API,42,32,100,347.0,34700.0,2026-04-17,186820727,697,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-17 12:18:56.673217,Api Power Company Ltd.
+2026041704007482,API,42,47,30,347.0,10410.0,2026-04-17,186820729,697,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:18:56.673377,Api Power Company Ltd.
+2026041704007483,API,42,58,425,347.0,147475.0,2026-04-17,186820732,697,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:18:56.673516,Api Power Company Ltd.
+2026041704007671,API,47,28,100,346.0,34600.0,2026-04-17,186822323,697,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-17 12:20:42.270929,Api Power Company Ltd.
+2026041704007682,API,47,58,250,346.0,86500.0,2026-04-17,186822389,697,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:20:47.730018,Api Power Company Ltd.
+2026041704007782,API,69,58,75,347.0,26025.0,2026-04-17,186823201,697,INDEX SECURITIES LIMITED,Naasa Securities Co. Ltd.,2026-04-17 12:22:01.606735,Api Power Company Ltd.
+2026041704007783,API,69,35,500,347.0,173500.0,2026-04-17,186823203,697,INDEX SECURITIES LIMITED,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:22:01.607359,Api Power Company Ltd.
+2026041704007801,API,69,52,3505,347.0,1216235.0,2026-04-17,186823373,697,INDEX SECURITIES LIMITED,Sundhara Securities Limited,2026-04-17 12:22:16.002635,Api Power Company Ltd.
+2026041704007848,API,69,34,730,347.0,253310.0,2026-04-17,186823967,697,INDEX SECURITIES LIMITED,Vision Securities Pvt. Ltd,2026-04-17 12:22:56.411508,Api Power Company Ltd.
+2026041704007924,API,69,25,190,347.0,65930.0,2026-04-17,186824736,697,INDEX SECURITIES LIMITED,Sweta Securities Private Limited,2026-04-17 12:23:52.254417,Api Power Company Ltd.
+2026041704007925,API,44,25,318,347.0,110346.0,2026-04-17,186824737,697,Dynamic Money Managers Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 12:23:52.255047,Api Power Company Ltd.
+2026041704007996,API,44,57,228,347.0,79116.0,2026-04-17,186825250,697,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 12:24:39.448243,Api Power Company Ltd.
+2026041704007997,API,45,57,50,347.0,17350.0,2026-04-17,186825252,697,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 12:24:39.448861,Api Power Company Ltd.
+2026041704008020,API,58,57,232,347.5,80620.0,2026-04-17,186825369,697,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-17 12:24:48.395570,Api Power Company Ltd.
+2026041704008021,API,58,51,68,347.5,23630.0,2026-04-17,186825372,697,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 12:24:48.396253,Api Power Company Ltd.
+2026041704008072,API,37,51,210,347.5,72975.0,2026-04-17,186825836,697,Swarna Laxmi Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 12:25:31.640677,Api Power Company Ltd.
+2026041704008106,API,47,26,211,346.0,73006.0,2026-04-17,186826159,697,Neev Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 12:26:01.864716,Api Power Company Ltd.
+2026041704008189,API,98,35,300,346.1,103830.0,2026-04-17,186827156,697,Trademow Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:27:21.728668,Api Power Company Ltd.
+2026041704008190,API,51,35,15,346.1,5191.5,2026-04-17,186827158,697,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:27:21.729020,Api Power Company Ltd.
+2026041704008191,API,47,35,185,346.0,64010.0,2026-04-17,186827159,697,Neev Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:27:21.729161,Api Power Company Ltd.
+2026041704008258,API,56,49,33,346.5,11434.5,2026-04-17,186827784,697,Sri Hari Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:28:19.633500,Api Power Company Ltd.
+2026041704008348,API,36,49,150,346.5,51975.0,2026-04-17,186828456,697,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-17 12:29:16.687464,Api Power Company Ltd.
+2026041704008386,API,48,25,30,346.4,10392.0,2026-04-17,186828800,697,Trishakti Securities Public Limited,Sweta Securities Private Limited,2026-04-17 12:29:43.910125,Api Power Company Ltd.
+2026041704008419,API,5,25,200,346.4,69280.0,2026-04-17,186829516,697,Market Securities & Exchange (PVT) Ltd.,Sweta Securities Private Limited,2026-04-17 12:30:41.346841,Api Power Company Ltd.
+2026041704008424,API,38,25,50,346.4,17320.0,2026-04-17,186829536,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-17 12:30:45.259077,Api Power Company Ltd.
+2026041704008453,API,49,25,500,346.4,173200.0,2026-04-17,186829664,697,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-17 12:30:53.346288,Api Power Company Ltd.
+2026041704008481,API,74,25,171,346.4,59234.4,2026-04-17,186830276,697,KALASH STOCK MARKET PVT. LTD.,Sweta Securities Private Limited,2026-04-17 12:31:36.259441,Api Power Company Ltd.
+2026041704008502,API,4,25,100,346.4,34640.0,2026-04-17,186830486,697,Opal Securities Investment (PVT) Ltd.,Sweta Securities Private Limited,2026-04-17 12:31:49.332956,Api Power Company Ltd.
+2026041704008506,API,57,25,309,346.4,107037.6,2026-04-17,186830505,697,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-17 12:31:51.926404,Api Power Company Ltd.
+2026041704008507,API,57,34,500,346.4,173200.0,2026-04-17,186830507,697,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-17 12:31:51.926723,Api Power Company Ltd.
+2026041704008543,API,57,49,17,346.5,5890.5,2026-04-17,186831053,697,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-17 12:32:19.305329,Api Power Company Ltd.
+2026041704008544,API,57,34,105,347.0,36435.0,2026-04-17,186831055,697,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-17 12:32:19.305655,Api Power Company Ltd.
+2026041704008550,API,76,38,175,347.5,60812.5,2026-04-17,186831125,697,Machhapuchchhre Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:32:25.597572,Api Power Company Ltd.
+2026041704008551,API,76,35,21,347.8,7303.8,2026-04-17,186831128,697,Machhapuchchhre Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:32:25.597908,Api Power Company Ltd.
+2026041704008569,API,4,35,79,347.8,27476.2,2026-04-17,186831263,697,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:32:38.657827,Api Power Company Ltd.
+2026041704008570,API,4,58,52,347.8,18085.6,2026-04-17,186831265,697,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:32:38.657933,Api Power Company Ltd.
+2026041704008571,API,4,94,10,347.9,3479.0,2026-04-17,186831267,697,Opal Securities Investment (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-17 12:32:38.657965,Api Power Company Ltd.
+2026041704008572,API,4,35,33,347.9,11480.7,2026-04-17,186831269,697,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 12:32:38.657996,Api Power Company Ltd.
+2026041704008573,API,4,42,50,348.0,17400.0,2026-04-17,186831271,697,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 12:32:38.658034,Api Power Company Ltd.
+2026041704008574,API,4,69,76,348.0,26448.0,2026-04-17,186831274,697,Opal Securities Investment (PVT) Ltd.,INDEX SECURITIES LIMITED,2026-04-17 12:32:38.658068,Api Power Company Ltd.
+2026041704008589,API,57,38,10,347.0,3470.0,2026-04-17,186831383,697,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:32:45.020180,Api Power Company Ltd.
+2026041704008603,API,66,19,105,347.5,36487.5,2026-04-17,186831480,697,Miyo Securities Pvt Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:32:54.303485,Api Power Company Ltd.
+2026041704008604,API,57,19,59,347.0,20473.0,2026-04-17,186831482,697,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:32:54.304112,Api Power Company Ltd.
+2026041704008605,API,42,19,300,346.4,103920.0,2026-04-17,186831484,697,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:32:54.304558,Api Power Company Ltd.
+2026041704008610,API,63,19,536,346.4,185670.4,2026-04-17,186831507,697,Himalayan Brokerage Company Limited,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:32:57.234436,Api Power Company Ltd.
+2026041704008652,API,65,69,200,348.0,69600.0,2026-04-17,186831726,697,Sharepro Securities Private Limited,INDEX SECURITIES LIMITED,2026-04-17 12:33:13.237372,Api Power Company Ltd.
+2026041704008659,API,4,69,224,348.0,77952.0,2026-04-17,186831787,697,Opal Securities Investment (PVT) Ltd.,INDEX SECURITIES LIMITED,2026-04-17 12:33:20.299091,Api Power Company Ltd.
+2026041704008660,API,4,58,32,348.0,11136.0,2026-04-17,186831789,697,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:33:20.299197,Api Power Company Ltd.
+2026041704008661,API,4,51,55,348.0,19140.0,2026-04-17,186831791,697,Opal Securities Investment (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 12:33:20.299274,Api Power Company Ltd.
+2026041704008662,API,4,34,105,348.0,36540.0,2026-04-17,186831793,697,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-17 12:33:20.299365,Api Power Company Ltd.
+2026041704008663,API,4,17,84,348.9,29307.6,2026-04-17,186831796,697,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-17 12:33:20.299442,Api Power Company Ltd.
+2026041704008730,API,38,47,25,349.0,8725.0,2026-04-17,186832270,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:33:48.466136,Api Power Company Ltd.
+2026041704008750,API,4,44,200,347.5,69500.0,2026-04-17,186832538,697,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 12:34:13.182497,Api Power Company Ltd.
+2026041704008751,API,63,44,464,347.5,161240.0,2026-04-17,186832539,697,Himalayan Brokerage Company Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 12:34:13.183155,Api Power Company Ltd.
+2026041704008755,API,57,74,300,347.8,104340.0,2026-04-17,186832602,697,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,2026-04-17 12:34:17.787219,Api Power Company Ltd.
+2026041704008789,API,57,74,50,347.8,17390.0,2026-04-17,186833038,697,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,2026-04-17 12:34:58.756405,Api Power Company Ltd.
+2026041704008808,API,49,14,50,347.0,17350.0,2026-04-17,186833200,697,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 12:35:13.308022,Api Power Company Ltd.
+2026041704008809,API,48,14,10,347.0,3470.0,2026-04-17,186833202,697,Trishakti Securities Public Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 12:35:13.308385,Api Power Company Ltd.
+2026041704008821,API,61,14,440,347.0,152680.0,2026-04-17,186833327,697,BHOLE GANESH SECURITIES LTD,Nepal Stock House (PVT) Ltd.,2026-04-17 12:35:24.381774,Api Power Company Ltd.
+2026041704008933,API,66,74,175,347.8,60865.0,2026-04-17,186834271,697,Miyo Securities Pvt Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-17 12:36:48.148618,Api Power Company Ltd.
+2026041704008934,API,66,58,225,347.8,78255.0,2026-04-17,186834274,697,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-17 12:36:48.148987,Api Power Company Ltd.
+2026041704009048,API,60,42,291,347.6,101151.6,2026-04-17,186835269,697,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-17 12:38:16.374273,Api Power Company Ltd.
+2026041704009049,API,60,19,98,347.7,34074.6,2026-04-17,186835272,697,Nagarik Stock Dealer ,Nepal Investment And Securities Trading Private Limited,2026-04-17 12:38:16.374387,Api Power Company Ltd.
+2026041704009050,API,60,58,311,347.8,108165.8,2026-04-17,186835276,697,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-17 12:38:16.374461,Api Power Company Ltd.
+2026041704009053,API,42,58,50,347.8,17390.0,2026-04-17,186835298,697,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:38:17.685664,Api Power Company Ltd.
+2026041704009126,API,71,58,100,347.8,34780.0,2026-04-17,186836040,697,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,2026-04-17 12:39:29.340671,Api Power Company Ltd.
+2026041704009185,API,66,42,80,347.5,27800.0,2026-04-17,186836464,697,Miyo Securities Pvt Ltd,Sani Securities Company Ltd.,2026-04-17 12:40:16.466122,Api Power Company Ltd.
+2026041704009186,API,61,42,60,347.0,20820.0,2026-04-17,186836466,697,BHOLE GANESH SECURITIES LTD,Sani Securities Company Ltd.,2026-04-17 12:40:16.466483,Api Power Company Ltd.
+2026041704009187,API,38,42,110,347.0,38170.0,2026-04-17,186836467,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-17 12:40:16.466639,Api Power Company Ltd.
+2026041704009188,API,66,58,400,347.8,139120.0,2026-04-17,186836470,697,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-17 12:40:16.589416,Api Power Company Ltd.
+2026041704009213,API,4,58,575,347.8,199985.0,2026-04-17,186836664,697,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:40:37.385558,Api Power Company Ltd.
+2026041704009305,API,66,58,590,347.8,205202.0,2026-04-17,186837538,697,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-17 12:42:00.841381,Api Power Company Ltd.
+2026041704009319,API,21,58,200,347.8,69560.0,2026-04-17,186837612,697,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-17 12:42:10.079833,Api Power Company Ltd.
+2026041704009325,API,45,58,200,347.8,69560.0,2026-04-17,186837692,697,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:42:22.451280,Api Power Company Ltd.
+2026041704009359,API,58,58,300,347.8,104340.0,2026-04-17,186838144,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:42:52.088767,Api Power Company Ltd.
+2026041704009396,API,17,57,105,347.2,36456.0,2026-04-17,186838519,697,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-17 12:43:21.581956,Api Power Company Ltd.
+2026041704009433,API,71,58,49,347.8,17042.2,2026-04-17,186838779,697,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,2026-04-17 12:43:45.219622,Api Power Company Ltd.
+2026041704009434,API,71,57,100,348.0,34800.0,2026-04-17,186838781,697,SHUBHAKAMANA SECURITIES PVT. LTD,Aryatara Investment & Securities,2026-04-17 12:43:45.219725,Api Power Company Ltd.
+2026041704009435,API,71,38,60,348.0,20880.0,2026-04-17,186838784,697,SHUBHAKAMANA SECURITIES PVT. LTD,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:43:45.219805,Api Power Company Ltd.
+2026041704009503,API,17,14,400,347.2,138880.0,2026-04-17,186839399,697,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 12:44:48.155470,Api Power Company Ltd.
+2026041704009521,API,17,63,10,347.2,3472.0,2026-04-17,186839527,697,ABC Securities Private Limited,Himalayan Brokerage Company Limited,2026-04-17 12:45:00.680999,Api Power Company Ltd.
+2026041704009681,API,4,38,10,348.0,3480.0,2026-04-17,186840896,697,Opal Securities Investment (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:47:13.051955,Api Power Company Ltd.
+2026041704009880,API,4,38,20,348.0,6960.0,2026-04-17,186842410,697,Opal Securities Investment (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:49:09.892573,Api Power Company Ltd.
+2026041704009930,API,6,38,29,348.0,10092.0,2026-04-17,186842839,697,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:49:40.267268,Api Power Company Ltd.
+2026041704009931,API,6,58,95,348.0,33060.0,2026-04-17,186842841,697,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 12:49:40.267643,Api Power Company Ltd.
+2026041704009943,API,48,39,1000,348.9,348900.0,2026-04-17,186843013,697,Trishakti Securities Public Limited,Sumeru Securities Pvt. Ltd.,2026-04-17 12:49:57.199428,Api Power Company Ltd.
+2026041704009978,API,6,47,100,348.0,34800.0,2026-04-17,186843187,697,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:50:08.098460,Api Power Company Ltd.
+2026041704010010,API,65,59,50,349.0,17450.0,2026-04-17,186843500,697,Sharepro Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 12:50:34.588172,Api Power Company Ltd.
+2026041704010031,API,6,47,100,348.0,34800.0,2026-04-17,186843679,697,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:50:42.700020,Api Power Company Ltd.
+2026041704010043,API,83,59,100,349.0,34900.0,2026-04-17,186843734,697,Sanima Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 12:50:49.339498,Api Power Company Ltd.
+2026041704010061,API,38,45,20,348.9,6978.0,2026-04-17,186843886,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 12:51:04.683074,Api Power Company Ltd.
+2026041704010116,API,6,47,50,348.0,17400.0,2026-04-17,186844215,697,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-17 12:51:32.120054,Api Power Company Ltd.
+2026041704010133,API,6,26,106,348.0,36888.0,2026-04-17,186844370,697,Agrawal Securities (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-17 12:51:41.795660,Api Power Company Ltd.
+2026041704010134,API,45,26,1000,348.0,348000.0,2026-04-17,186844372,697,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 12:51:41.796356,Api Power Company Ltd.
+2026041704010135,API,34,26,10,348.0,3480.0,2026-04-17,186844374,697,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,2026-04-17 12:51:41.796820,Api Power Company Ltd.
+2026041704010166,API,1,16,260,348.0,90480.0,2026-04-17,186844525,697,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-17 12:51:53.042453,Api Power Company Ltd.
+2026041704010225,API,4,62,20,348.1,6962.0,2026-04-17,186844834,697,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-17 12:52:16.102742,Api Power Company Ltd.
+2026041704010226,API,1,62,240,348.0,83520.0,2026-04-17,186844836,697,Kumari Securities Private Limited,Capital Max Securities Ltd,2026-04-17 12:52:16.103128,Api Power Company Ltd.
+2026041704010263,API,43,62,150,348.0,52200.0,2026-04-17,186845030,697,South Asian Bulls Pvt. Ltd.,Capital Max Securities Ltd,2026-04-17 12:52:33.009392,Api Power Company Ltd.
+2026041704010284,API,44,62,90,348.0,31320.0,2026-04-17,186845225,697,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-17 12:52:43.504581,Api Power Company Ltd.
+2026041704010338,API,44,60,110,348.0,38280.0,2026-04-17,186845646,697,Dynamic Money Managers Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 12:53:05.819546,Api Power Company Ltd.
+2026041704010339,API,45,60,240,348.0,83520.0,2026-04-17,186845648,697,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 12:53:05.819885,Api Power Company Ltd.
+2026041704010340,API,45,60,26,348.0,9048.0,2026-04-17,186845650,697,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 12:53:05.820042,Api Power Company Ltd.
+2026041704010399,API,6,26,1804,347.6,627070.4,2026-04-17,186846017,697,Agrawal Securities (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-17 12:53:35.686822,Api Power Company Ltd.
+2026041704010522,API,6,22,196,347.6,68129.6,2026-04-17,186846941,697,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 12:54:37.784152,Api Power Company Ltd.
+2026041704010548,API,38,4,350,347.5,121625.0,2026-04-17,186847123,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 12:54:47.261822,Api Power Company Ltd.
+2026041704010715,API,91,17,250,347.6,86900.0,2026-04-17,186848024,697,Citizens Share Broker Limited,ABC Securities Private Limited,2026-04-17 12:55:54.080538,Api Power Company Ltd.
+2026041704010716,API,38,17,40,347.5,13900.0,2026-04-17,186848026,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.080927,Api Power Company Ltd.
+2026041704010717,API,77,17,169,347.5,58727.5,2026-04-17,186848028,697,Nabil Stock Dealer Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.081091,Api Power Company Ltd.
+2026041704010718,API,17,17,275,347.2,95480.0,2026-04-17,186848030,697,ABC Securities Private Limited,ABC Securities Private Limited,2026-04-17 12:55:54.081278,Api Power Company Ltd.
+2026041704010719,API,29,17,20,347.2,6944.0,2026-04-17,186848032,697,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.081450,Api Power Company Ltd.
+2026041704010720,API,51,17,10,347.2,3472.0,2026-04-17,186848034,697,Oxford Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.081610,Api Power Company Ltd.
+2026041704010721,API,95,17,50,347.1,17355.0,2026-04-17,186848036,697,Magnet Securities and Investment Company Private Limited,ABC Securities Private Limited,2026-04-17 12:55:54.081764,Api Power Company Ltd.
+2026041704010722,API,58,17,100,347.0,34700.0,2026-04-17,186848038,697,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.081921,Api Power Company Ltd.
+2026041704010723,API,45,17,10,347.0,3470.0,2026-04-17,186848040,697,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.082103,Api Power Company Ltd.
+2026041704010724,API,52,17,100,346.4,34640.0,2026-04-17,186848042,697,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-17 12:55:54.082261,Api Power Company Ltd.
+2026041704010725,API,98,17,500,346.3,173150.0,2026-04-17,186848044,697,Trademow Securities Private Limited,ABC Securities Private Limited,2026-04-17 12:55:54.082436,Api Power Company Ltd.
+2026041704010726,API,57,17,20,346.3,6926.0,2026-04-17,186848046,697,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-17 12:55:54.082604,Api Power Company Ltd.
+2026041704010727,API,53,17,3000,346.3,1038900.0,2026-04-17,186848048,697,Investment Management Nepal Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.082758,Api Power Company Ltd.
+2026041704010728,API,13,17,50,346.2,17310.0,2026-04-17,186848050,697,Thrive Brokerage House Pvt. Ltd,ABC Securities Private Limited,2026-04-17 12:55:54.082908,Api Power Company Ltd.
+2026041704010729,API,51,17,15,346.2,5193.0,2026-04-17,186848052,697,Oxford Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.083068,Api Power Company Ltd.
+2026041704010730,API,57,17,1000,346.2,346200.0,2026-04-17,186848054,697,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-17 12:55:54.083218,Api Power Company Ltd.
+2026041704010731,API,61,17,500,346.2,173100.0,2026-04-17,186848056,697,BHOLE GANESH SECURITIES LTD,ABC Securities Private Limited,2026-04-17 12:55:54.083375,Api Power Company Ltd.
+2026041704010732,API,63,17,300,346.1,103830.0,2026-04-17,186848058,697,Himalayan Brokerage Company Limited,ABC Securities Private Limited,2026-04-17 12:55:54.083557,Api Power Company Ltd.
+2026041704010733,API,33,17,5591,346.1,1935045.1,2026-04-17,186848059,697,Dakshinkali Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-17 12:55:54.083719,Api Power Company Ltd.
+2026041704010759,API,29,60,20,348.0,6960.0,2026-04-17,186848266,697,Trisul Securities & Invt. Ltd.,Nagarik Stock Dealer ,2026-04-17 12:56:10.980990,Api Power Company Ltd.
+2026041704010760,API,57,6,500,347.0,173500.0,2026-04-17,186848272,697,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-17 12:56:11.561370,Api Power Company Ltd.
+2026041704011007,API,66,6,500,347.0,173500.0,2026-04-17,186849494,697,Miyo Securities Pvt Ltd,Agrawal Securities (PVT) Ltd.,2026-04-17 12:57:42.631010,Api Power Company Ltd.
+2026041704011042,API,51,6,15,346.0,5190.0,2026-04-17,186849888,697,Oxford Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:58:14.423090,Api Power Company Ltd.
+2026041704011043,API,42,6,10,346.0,3460.0,2026-04-17,186849890,697,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:58:14.423475,Api Power Company Ltd.
+2026041704011044,API,74,6,50,346.0,17300.0,2026-04-17,186849892,697,KALASH STOCK MARKET PVT. LTD.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:58:14.423632,Api Power Company Ltd.
+2026041704011045,API,42,6,20,346.0,6920.0,2026-04-17,186849894,697,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-17 12:58:14.423788,Api Power Company Ltd.
+2026041704011046,API,60,6,405,346.0,140130.0,2026-04-17,186849895,697,Nagarik Stock Dealer ,Agrawal Securities (PVT) Ltd.,2026-04-17 12:58:14.423938,Api Power Company Ltd.
+2026041704011052,API,42,39,1,346.0,346.0,2026-04-17,186849933,697,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 12:58:17.815045,Api Power Company Ltd.
+2026041704011053,API,60,38,10,346.0,3460.0,2026-04-17,186849943,697,Nagarik Stock Dealer ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 12:58:21.415507,Api Power Company Ltd.
+2026041704011061,API,42,33,1,346.0,346.0,2026-04-17,186850011,697,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 12:58:28.680914,Api Power Company Ltd.
+2026041704011069,API,60,29,11,346.0,3806.0,2026-04-17,186850267,697,Nagarik Stock Dealer ,Trisul Securities & Invt. Ltd.,2026-04-17 12:58:48.267872,Api Power Company Ltd.
+2026041704011106,API,66,60,50,348.0,17400.0,2026-04-17,186850688,697,Miyo Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-17 12:59:44.513350,Api Power Company Ltd.
+2026041704011129,API,60,100,3000,346.0,1038000.0,2026-04-17,186850899,697,Nagarik Stock Dealer ,Sunrise Securities Limited,2026-04-17 13:00:11.921501,Api Power Company Ltd.
+2026041704011267,API,58,60,10,348.0,3480.0,2026-04-17,186852020,697,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-17 13:02:43.175293,Api Power Company Ltd.
+2026041704011323,API,45,60,203,348.0,70644.0,2026-04-17,186852568,697,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-17 13:04:01.294263,Api Power Company Ltd.
+2026041704011358,API,74,60,106,348.0,36888.0,2026-04-17,186852877,697,KALASH STOCK MARKET PVT. LTD.,Nagarik Stock Dealer ,2026-04-17 13:04:35.103457,Api Power Company Ltd.
+2026041704011359,API,74,4,94,348.0,32712.0,2026-04-17,186852880,697,KALASH STOCK MARKET PVT. LTD.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:04:35.103828,Api Power Company Ltd.
+2026041704011458,API,42,1,10,347.5,3475.0,2026-04-17,186854133,697,Sani Securities Company Ltd.,Kumari Securities Private Limited,2026-04-17 13:07:29.748211,Api Power Company Ltd.
+2026041704011659,API,42,42,58,347.0,20126.0,2026-04-17,186856024,697,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-17 13:12:18.948718,Api Power Company Ltd.
+2026041704011660,API,25,42,942,347.0,326874.0,2026-04-17,186856025,697,Sweta Securities Private Limited,Sani Securities Company Ltd.,2026-04-17 13:12:18.949198,Api Power Company Ltd.
+2026041704011678,API,25,58,58,347.0,20126.0,2026-04-17,186856148,697,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-17 13:12:40.942729,Api Power Company Ltd.
+2026041704011877,API,45,13,60,347.0,20820.0,2026-04-17,186858059,697,Imperial Securities Company Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-17 13:17:06.636623,Api Power Company Ltd.
+2026041704011878,API,45,58,10,347.0,3470.0,2026-04-17,186858062,697,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:17:06.637051,Api Power Company Ltd.
+2026041704011904,API,13,4,10,346.2,3462.0,2026-04-17,186858662,697,Thrive Brokerage House Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:17:48.859546,Api Power Company Ltd.
+2026041704011905,API,29,4,95,346.2,32889.0,2026-04-17,186858663,697,Trisul Securities & Invt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:17:48.860280,Api Power Company Ltd.
+2026041704011953,API,66,34,91,347.4,31613.4,2026-04-17,186859092,697,Miyo Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-17 13:18:38.349762,Api Power Company Ltd.
+2026041704011955,API,25,49,500,346.3,173150.0,2026-04-17,186859133,697,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-17 13:18:48.617660,Api Power Company Ltd.
+2026041704011994,API,4,19,127,347.0,44069.0,2026-04-17,186859385,697,Opal Securities Investment (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-17 13:19:18.594690,Api Power Company Ltd.
+2026041704012108,API,34,6,10,347.2,3472.0,2026-04-17,186860454,697,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-17 13:20:37.496876,Api Power Company Ltd.
+2026041704012157,API,40,34,909,347.4,315786.6,2026-04-17,186861099,697,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-17 13:21:24.840903,Api Power Company Ltd.
+2026041704012158,API,40,84,91,347.5,31622.5,2026-04-17,186861102,697,Creative Securities Pvt Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-17 13:21:24.841345,Api Power Company Ltd.
+2026041704012166,API,57,84,909,347.5,315877.5,2026-04-17,186861124,697,Aryatara Investment & Securities,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-17 13:21:28.690144,Api Power Company Ltd.
+2026041704012242,API,44,84,299,347.5,103902.5,2026-04-17,186862324,697,Dynamic Money Managers Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-17 13:22:53.614471,Api Power Company Ltd.
+2026041704012311,API,37,44,10,347.5,3475.0,2026-04-17,186862925,697,Swarna Laxmi Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 13:23:48.395585,Api Power Company Ltd.
+2026041704012343,API,7,45,300,347.9,104370.0,2026-04-17,186863213,697,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:24:24.728398,Api Power Company Ltd.
+2026041704012344,API,7,4,667,348.0,232116.0,2026-04-17,186863215,697,J.F. Securites (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 13:24:24.729191,Api Power Company Ltd.
+2026041704012345,API,7,66,257,348.0,89436.0,2026-04-17,186863218,697,J.F. Securites (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-17 13:24:24.729719,Api Power Company Ltd.
+2026041704012385,API,37,58,270,347.5,93825.0,2026-04-17,186863536,697,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:24:46.600593,Api Power Company Ltd.
+2026041704012386,API,37,58,230,347.5,79925.0,2026-04-17,186863537,697,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:24:46.601514,Api Power Company Ltd.
+2026041704012397,API,51,35,24,347.8,8347.2,2026-04-17,186863648,697,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:25:03.181614,Api Power Company Ltd.
+2026041704012427,API,66,35,135,347.8,46953.0,2026-04-17,186863924,697,Miyo Securities Pvt Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:25:48.654098,Api Power Company Ltd.
+2026041704012475,API,74,35,50,347.9,17395.0,2026-04-17,186864404,697,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:26:47.573262,Api Power Company Ltd.
+2026041704012507,API,56,35,200,347.9,69580.0,2026-04-17,186864742,697,Sri Hari Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:27:29.156336,Api Power Company Ltd.
+2026041704012614,API,66,35,80,347.7,27816.0,2026-04-17,186865616,697,Miyo Securities Pvt Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:29:03.479134,Api Power Company Ltd.
+2026041704012717,API,57,35,10,347.7,3477.0,2026-04-17,186866400,697,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:30:31.742647,Api Power Company Ltd.
+2026041704012807,API,57,34,360,347.6,125136.0,2026-04-17,186866854,697,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-17 13:31:16.251092,Api Power Company Ltd.
+2026041704012896,API,33,35,1801,347.7,626207.7,2026-04-17,186867295,697,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:31:51.194790,Api Power Company Ltd.
+2026041704012897,API,33,34,1000,347.8,347800.0,2026-04-17,186867297,697,Dakshinkali Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 13:31:51.195649,Api Power Company Ltd.
+2026041704012898,API,33,66,243,348.0,84564.0,2026-04-17,186867299,697,Dakshinkali Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-17 13:31:51.196538,Api Power Company Ltd.
+2026041704012899,API,33,1,350,348.0,121800.0,2026-04-17,186867301,697,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-17 13:31:51.197352,Api Power Company Ltd.
+2026041704012900,API,33,57,5000,348.0,1740000.0,2026-04-17,186867303,697,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 13:31:51.198034,Api Power Company Ltd.
+2026041704012901,API,33,1,606,348.0,210888.0,2026-04-17,186867306,697,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-17 13:31:51.198819,Api Power Company Ltd.
+2026041704012925,API,33,1,494,348.0,171912.0,2026-04-17,186867379,697,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-17 13:31:57.632614,Api Power Company Ltd.
+2026041704012926,API,33,58,42,348.0,14616.0,2026-04-17,186867381,697,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:31:57.633433,Api Power Company Ltd.
+2026041704012927,API,33,56,100,348.0,34800.0,2026-04-17,186867383,697,Dakshinkali Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 13:31:57.634008,Api Power Company Ltd.
+2026041704012935,API,58,32,10,348.8,3488.0,2026-04-17,186867454,697,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-17 13:32:04.265362,Api Power Company Ltd.
+2026041704012937,API,40,32,290,348.8,101152.0,2026-04-17,186867485,697,Creative Securities Pvt Ltd,Premier Securities Company Ltd.,2026-04-17 13:32:08.122035,Api Power Company Ltd.
+2026041704012938,API,40,45,10,348.9,3489.0,2026-04-17,186867487,697,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:32:08.122474,Api Power Company Ltd.
+2026041704012939,API,40,39,1000,348.9,348900.0,2026-04-17,186867489,697,Creative Securities Pvt Ltd,Sumeru Securities Pvt. Ltd.,2026-04-17 13:32:08.122659,Api Power Company Ltd.
+2026041704012940,API,40,59,700,349.0,244300.0,2026-04-17,186867492,697,Creative Securities Pvt Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 13:32:08.122842,Api Power Company Ltd.
+2026041704012977,API,95,59,80,349.0,27920.0,2026-04-17,186867877,697,Magnet Securities and Investment Company Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-17 13:32:20.888756,Api Power Company Ltd.
+2026041704012978,API,95,33,315,349.0,109935.0,2026-04-17,186867879,697,Magnet Securities and Investment Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 13:32:20.889138,Api Power Company Ltd.
+2026041704012979,API,95,22,50,349.0,17450.0,2026-04-17,186867881,697,Magnet Securities and Investment Company Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 13:32:20.889355,Api Power Company Ltd.
+2026041704012980,API,95,58,220,349.0,76780.0,2026-04-17,186867884,697,Magnet Securities and Investment Company Private Limited,Naasa Securities Co. Ltd.,2026-04-17 13:32:20.889602,Api Power Company Ltd.
+2026041704013281,API,58,45,20,349.4,6988.0,2026-04-17,186870270,697,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:34:55.533298,Api Power Company Ltd.
+2026041704013285,API,84,96,50,349.5,17475.0,2026-04-17,186870283,697,MILKY WAY SHARE BROKER COMPANY LTD ,Himalayan Securities Limited,2026-04-17 13:34:56.925166,Api Power Company Ltd.
+2026041704013286,API,84,34,1000,349.7,349700.0,2026-04-17,186870285,697,MILKY WAY SHARE BROKER COMPANY LTD ,Vision Securities Pvt. Ltd,2026-04-17 13:34:56.925569,Api Power Company Ltd.
+2026041704013287,API,84,44,150,349.8,52470.0,2026-04-17,186870288,697,MILKY WAY SHARE BROKER COMPANY LTD ,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 13:34:56.925747,Api Power Company Ltd.
+2026041704013334,API,44,45,20,349.7,6994.0,2026-04-17,186870745,697,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:35:43.599532,Api Power Company Ltd.
+2026041704013335,API,44,44,52,349.8,18189.6,2026-04-17,186870748,697,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 13:35:43.600304,Api Power Company Ltd.
+2026041704013559,API,45,29,20,349.7,6994.0,2026-04-17,186872114,697,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 13:37:49.676310,Api Power Company Ltd.
+2026041704013699,API,34,29,22,349.7,7693.4,2026-04-17,186872769,697,Vision Securities Pvt. Ltd,Trisul Securities & Invt. Ltd.,2026-04-17 13:38:40.129809,Api Power Company Ltd.
+2026041704013700,API,34,44,298,349.8,104240.4,2026-04-17,186872771,697,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 13:38:40.130584,Api Power Company Ltd.
+2026041704013701,API,34,38,22,350.0,7700.0,2026-04-17,186872773,697,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:38:40.131117,Api Power Company Ltd.
+2026041704013702,API,34,57,50,350.0,17500.0,2026-04-17,186872775,697,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-17 13:38:40.131641,Api Power Company Ltd.
+2026041704013703,API,34,58,470,350.0,164500.0,2026-04-17,186872777,697,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 13:38:40.132147,Api Power Company Ltd.
+2026041704013704,API,34,58,100,350.0,35000.0,2026-04-17,186872779,697,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 13:38:40.132650,Api Power Company Ltd.
+2026041704013705,API,34,58,20,350.0,7000.0,2026-04-17,186872781,697,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 13:38:40.133174,Api Power Company Ltd.
+2026041704013706,API,34,42,10,350.0,3500.0,2026-04-17,186872783,697,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-17 13:38:40.133672,Api Power Company Ltd.
+2026041704013823,API,91,45,20,349.9,6998.0,2026-04-17,186873573,697,Citizens Share Broker Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:39:47.364466,Api Power Company Ltd.
+2026041704013824,API,91,35,261,350.0,91350.0,2026-04-17,186873575,697,Citizens Share Broker Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:39:47.364820,Api Power Company Ltd.
+2026041704013825,API,91,58,52,350.0,18200.0,2026-04-17,186873577,697,Citizens Share Broker Limited,Naasa Securities Co. Ltd.,2026-04-17 13:39:47.364997,Api Power Company Ltd.
+2026041704013826,API,91,34,10,350.0,3500.0,2026-04-17,186873579,697,Citizens Share Broker Limited,Vision Securities Pvt. Ltd,2026-04-17 13:39:47.365168,Api Power Company Ltd.
+2026041704013827,API,91,22,100,350.0,35000.0,2026-04-17,186873581,697,Citizens Share Broker Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 13:39:47.365348,Api Power Company Ltd.
+2026041704013828,API,91,38,167,350.0,58450.0,2026-04-17,186873584,697,Citizens Share Broker Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:39:47.365518,Api Power Company Ltd.
+2026041704013883,API,66,38,100,350.0,35000.0,2026-04-17,186874122,697,Miyo Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 13:40:36.947254,Api Power Company Ltd.
+2026041704013989,API,8,35,50,349.1,17455.0,2026-04-17,186874796,697,Brilliant Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:41:41.100362,Api Power Company Ltd.
+2026041704013990,API,4,35,40,349.1,13964.0,2026-04-17,186874798,697,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:41:41.101145,Api Power Company Ltd.
+2026041704014036,API,4,35,410,349.0,143090.0,2026-04-17,186875013,697,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 13:41:57.377000,Api Power Company Ltd.
+2026041704014232,API,47,1,400,349.2,139680.0,2026-04-17,186876025,697,Neev Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-17 13:43:31.895949,Api Power Company Ltd.
+2026041704014377,API,47,32,29,349.2,10126.8,2026-04-17,186876809,697,Neev Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-17 13:44:18.108497,Api Power Company Ltd.
+2026041704014464,API,47,58,71,349.2,24793.2,2026-04-17,186877270,697,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:44:54.149790,Api Power Company Ltd.
+2026041704014465,API,42,58,179,349.1,62488.9,2026-04-17,186877271,697,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:44:54.150204,Api Power Company Ltd.
+2026041704014684,API,52,45,20,349.7,6994.0,2026-04-17,186878869,697,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:47:43.333879,Api Power Company Ltd.
+2026041704014710,API,52,58,40,349.7,13988.0,2026-04-17,186879217,697,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 13:48:26.566612,Api Power Company Ltd.
+2026041704014745,API,52,49,90,349.7,31473.0,2026-04-17,186879474,697,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-17 13:48:55.057351,Api Power Company Ltd.
+2026041704014802,API,36,49,106,349.7,37068.2,2026-04-17,186879798,697,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-17 13:49:33.191017,Api Power Company Ltd.
+2026041704014805,API,77,48,500,349.5,174750.0,2026-04-17,186879839,697,Nabil Stock Dealer Ltd.,Trishakti Securities Public Limited,2026-04-17 13:49:39.794093,Api Power Company Ltd.
+2026041704014811,API,77,36,100,349.5,34950.0,2026-04-17,186879863,697,Nabil Stock Dealer Ltd.,Secured Securities Ltd.,2026-04-17 13:49:43.098046,Api Power Company Ltd.
+2026041704014835,API,77,67,400,349.5,139800.0,2026-04-17,186880004,697,Nabil Stock Dealer Ltd.,Property Wiard Limited,2026-04-17 13:50:00.376369,Api Power Company Ltd.
+2026041704014845,API,42,67,500,349.5,174750.0,2026-04-17,186880108,697,Sani Securities Company Ltd.,Property Wiard Limited,2026-04-17 13:50:17.921007,Api Power Company Ltd.
+2026041704014955,API,42,65,500,349.1,174550.0,2026-04-17,186881119,697,Sani Securities Company Ltd.,Sharepro Securities Private Limited,2026-04-17 13:52:36.444282,Api Power Company Ltd.
+2026041704014968,API,42,45,25,349.1,8727.5,2026-04-17,186881161,697,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:52:38.708271,Api Power Company Ltd.
+2026041704014975,API,42,67,296,349.1,103333.6,2026-04-17,186881248,697,Sani Securities Company Ltd.,Property Wiard Limited,2026-04-17 13:52:50.195470,Api Power Company Ltd.
+2026041704014976,API,4,67,204,349.0,71196.0,2026-04-17,186881249,697,Opal Securities Investment (PVT) Ltd.,Property Wiard Limited,2026-04-17 13:52:50.196357,Api Power Company Ltd.
+2026041704014979,API,25,49,104,349.2,36316.8,2026-04-17,186881271,697,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-17 13:52:53.031725,Api Power Company Ltd.
+2026041704014980,API,25,67,100,349.5,34950.0,2026-04-17,186881273,697,Sweta Securities Private Limited,Property Wiard Limited,2026-04-17 13:52:53.032581,Api Power Company Ltd.
+2026041704014981,API,25,34,150,349.5,52425.0,2026-04-17,186881275,697,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-17 13:52:53.033175,Api Power Company Ltd.
+2026041704014982,API,25,5,146,349.5,51027.0,2026-04-17,186881278,697,Sweta Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-17 13:52:53.033762,Api Power Company Ltd.
+2026041704014990,API,4,42,386,349.0,134714.0,2026-04-17,186881374,697,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 13:53:10.332685,Api Power Company Ltd.
+2026041704014991,API,4,42,500,349.0,174500.0,2026-04-17,186881376,697,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 13:53:10.333074,Api Power Company Ltd.
+2026041704015026,API,21,1,100,348.8,34880.0,2026-04-17,186881615,697,Midas Stock Broking Company Private Limited,Kumari Securities Private Limited,2026-04-17 13:53:42.285398,Api Power Company Ltd.
+2026041704015094,API,58,45,10,348.7,3487.0,2026-04-17,186882118,697,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:54:47.473738,Api Power Company Ltd.
+2026041704015095,API,63,45,200,348.6,69720.0,2026-04-17,186882119,697,Himalayan Brokerage Company Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 13:54:47.474195,Api Power Company Ltd.
+2026041704015098,API,47,42,114,349.0,39786.0,2026-04-17,186882181,697,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-17 13:54:52.963725,Api Power Company Ltd.
+2026041704015099,API,47,51,70,349.0,24430.0,2026-04-17,186882183,697,Neev Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 13:54:52.964178,Api Power Company Ltd.
+2026041704015123,API,8,57,50,349.1,17455.0,2026-04-17,186882318,697,Brilliant Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 13:55:08.164933,Api Power Company Ltd.
+2026041704015124,API,47,57,816,349.0,284784.0,2026-04-17,186882320,697,Neev Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 13:55:08.165364,Api Power Company Ltd.
+2026041704015165,API,8,57,1000,349.0,349000.0,2026-04-17,186882706,697,Brilliant Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 13:56:06.372695,Api Power Company Ltd.
+2026041704015296,API,36,57,24,349.0,8376.0,2026-04-17,186883703,697,Secured Securities Ltd.,Aryatara Investment & Securities,2026-04-17 13:58:42.958871,Api Power Company Ltd.
+2026041704015314,API,36,58,30,349.0,10470.0,2026-04-17,186883908,697,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-17 13:59:12.033669,Api Power Company Ltd.
+2026041704015315,API,66,58,20,349.0,6980.0,2026-04-17,186883971,697,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-17 13:59:23.011117,Api Power Company Ltd.
+2026041704015316,API,66,5,45,349.5,15727.5,2026-04-17,186883974,697,Miyo Securities Pvt Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-17 13:59:23.012009,Api Power Company Ltd.
+2026041704015368,API,36,40,20,349.0,6980.0,2026-04-17,186884360,697,Secured Securities Ltd.,Creative Securities Pvt Ltd,2026-04-17 14:00:29.166811,Api Power Company Ltd.
+2026041704015396,API,47,40,23,349.0,8027.0,2026-04-17,186884647,697,Neev Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-17 14:01:08.167667,Api Power Company Ltd.
+2026041704015428,API,47,5,309,349.5,107995.5,2026-04-17,186884967,697,Neev Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:01:53.916121,Api Power Company Ltd.
+2026041704015429,API,47,49,500,349.5,174750.0,2026-04-17,186884969,697,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-17 14:01:53.917091,Api Power Company Ltd.
+2026041704015455,API,47,35,32,349.5,11184.0,2026-04-17,186885177,697,Neev Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:02:18.168707,Api Power Company Ltd.
+2026041704015469,API,47,45,10,349.6,3496.0,2026-04-17,186885299,697,Neev Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:02:36.872850,Api Power Company Ltd.
+2026041704015470,API,47,45,20,349.8,6996.0,2026-04-17,186885301,697,Neev Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:02:36.873341,Api Power Company Ltd.
+2026041704015471,API,47,38,233,350.0,81550.0,2026-04-17,186885303,697,Neev Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:02:36.873577,Api Power Company Ltd.
+2026041704015472,API,47,45,30,350.0,10500.0,2026-04-17,186885305,697,Neev Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:02:36.873824,Api Power Company Ltd.
+2026041704015473,API,47,54,55,350.0,19250.0,2026-04-17,186885307,697,Neev Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-17 14:02:36.874052,Api Power Company Ltd.
+2026041704015474,API,47,34,300,350.0,105000.0,2026-04-17,186885309,697,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:02:36.874266,Api Power Company Ltd.
+2026041704015475,API,47,66,988,350.0,345800.0,2026-04-17,186885312,697,Neev Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-17 14:02:36.874479,Api Power Company Ltd.
+2026041704015508,API,63,66,12,350.0,4200.0,2026-04-17,186885691,697,Himalayan Brokerage Company Limited,Miyo Securities Pvt Ltd,2026-04-17 14:03:16.001720,Api Power Company Ltd.
+2026041704015509,API,63,58,47,350.0,16450.0,2026-04-17,186885693,697,Himalayan Brokerage Company Limited,Naasa Securities Co. Ltd.,2026-04-17 14:03:16.001781,Api Power Company Ltd.
+2026041704015510,API,63,5,200,350.0,70000.0,2026-04-17,186885695,697,Himalayan Brokerage Company Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:03:16.001807,Api Power Company Ltd.
+2026041704015511,API,63,8,100,350.0,35000.0,2026-04-17,186885697,697,Himalayan Brokerage Company Limited,Brilliant Securities Pvt. Ltd.,2026-04-17 14:03:16.001840,Api Power Company Ltd.
+2026041704015512,API,63,7,100,350.0,35000.0,2026-04-17,186885699,697,Himalayan Brokerage Company Limited,J.F. Securites (PVT) Ltd.,2026-04-17 14:03:16.001867,Api Power Company Ltd.
+2026041704015513,API,63,22,32,350.0,11200.0,2026-04-17,186885701,697,Himalayan Brokerage Company Limited,Siprabi Securities Pvt. Ltd.,2026-04-17 14:03:16.001892,Api Power Company Ltd.
+2026041704015521,API,36,56,200,350.0,70000.0,2026-04-17,186885790,697,Secured Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:03:26.651573,Api Power Company Ltd.
+2026041704015697,API,7,56,11,350.0,3850.0,2026-04-17,186890571,697,J.F. Securites (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:05:47.286831,Api Power Company Ltd.
+2026041704015698,API,7,5,89,350.0,31150.0,2026-04-17,186890574,697,J.F. Securites (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:05:47.287277,Api Power Company Ltd.
+2026041704015807,API,19,94,30,349.1,10473.0,2026-04-17,186891307,697,Nepal Investment And Securities Trading Private Limited,K.B.L. Securities Limited ,2026-04-17 14:06:39.387208,Api Power Company Ltd.
+2026041704015818,API,41,67,1325,349.9,463617.5,2026-04-17,186891467,697,Linch Stock Market Ltd.,Property Wiard Limited,2026-04-17 14:06:48.613361,Api Power Company Ltd.
+2026041704015819,API,41,5,75,350.0,26250.0,2026-04-17,186891470,697,Linch Stock Market Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:06:48.613794,Api Power Company Ltd.
+2026041704015847,API,49,5,150,350.0,52500.0,2026-04-17,186891794,697,Online Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:07:13.964714,Api Power Company Ltd.
+2026041704016012,API,58,5,81,350.0,28350.0,2026-04-17,186893586,697,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:08:45.638356,Api Power Company Ltd.
+2026041704016157,API,48,5,105,350.0,36750.0,2026-04-17,186894767,697,Trishakti Securities Public Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:10:19.214380,Api Power Company Ltd.
+2026041704016158,API,48,52,100,350.0,35000.0,2026-04-17,186894769,697,Trishakti Securities Public Limited,Sundhara Securities Limited,2026-04-17 14:10:19.214871,Api Power Company Ltd.
+2026041704016159,API,48,58,128,350.0,44800.0,2026-04-17,186894771,697,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-17 14:10:19.215092,Api Power Company Ltd.
+2026041704016160,API,48,16,19,350.0,6650.0,2026-04-17,186894773,697,Trishakti Securities Public Limited,Primo Securities (PVT) Ltd.,2026-04-17 14:10:19.215296,Api Power Company Ltd.
+2026041704016161,API,48,66,350,350.9,122815.0,2026-04-17,186894775,697,Trishakti Securities Public Limited,Miyo Securities Pvt Ltd,2026-04-17 14:10:19.215522,Api Power Company Ltd.
+2026041704016162,API,48,65,2000,351.0,702000.0,2026-04-17,186894777,697,Trishakti Securities Public Limited,Sharepro Securities Private Limited,2026-04-17 14:10:19.215728,Api Power Company Ltd.
+2026041704016163,API,48,42,230,351.0,80730.0,2026-04-17,186894779,697,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-17 14:10:19.215927,Api Power Company Ltd.
+2026041704016164,API,48,58,20,351.0,7020.0,2026-04-17,186894781,697,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-17 14:10:19.216126,Api Power Company Ltd.
+2026041704016165,API,48,48,27,351.0,9477.0,2026-04-17,186894783,697,Trishakti Securities Public Limited,Trishakti Securities Public Limited,2026-04-17 14:10:19.216334,Api Power Company Ltd.
+2026041704016166,API,48,58,11613,351.0,4076163.0,2026-04-17,186894785,697,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-17 14:10:19.216534,Api Power Company Ltd.
+2026041704016167,API,48,4,24,351.0,8424.0,2026-04-17,186894787,697,Trishakti Securities Public Limited,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:10:19.216731,Api Power Company Ltd.
+2026041704016305,API,48,45,5000,350.0,1750000.0,2026-04-17,186895763,697,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:11:36.153637,Api Power Company Ltd.
+2026041704016433,API,57,45,30,351.4,10542.0,2026-04-17,186896552,697,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:12:47.860948,Api Power Company Ltd.
+2026041704016441,API,67,58,1,346.0,346.0,2026-04-17,186896601,697,Property Wiard Limited,Naasa Securities Co. Ltd.,2026-04-17 14:12:52.866703,Api Power Company Ltd.
+2026041704016446,API,58,39,1000,351.5,351500.0,2026-04-17,186896642,697,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-17 14:12:54.886954,Api Power Company Ltd.
+2026041704016469,API,67,57,4,346.0,1384.0,2026-04-17,186896761,697,Property Wiard Limited,Aryatara Investment & Securities,2026-04-17 14:13:10.974533,Api Power Company Ltd.
+2026041704016546,API,44,45,30,351.7,10551.0,2026-04-17,186897235,697,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:13:58.436000,Api Power Company Ltd.
+2026041704016547,API,44,22,100,351.7,35170.0,2026-04-17,186897237,697,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-17 14:13:58.436480,Api Power Company Ltd.
+2026041704016566,API,66,44,50,351.8,17590.0,2026-04-17,186897456,697,Miyo Securities Pvt Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:14:29.118241,Api Power Company Ltd.
+2026041704016585,API,44,32,170,351.7,59789.0,2026-04-17,186897582,697,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-17 14:14:38.141777,Api Power Company Ltd.
+2026041704016627,API,26,32,30,351.7,10551.0,2026-04-17,186897961,697,Asian Securities Private Ltd.,Premier Securities Company Ltd.,2026-04-17 14:15:11.730532,Api Power Company Ltd.
+2026041704016628,API,26,44,10,351.8,3518.0,2026-04-17,186897964,697,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:15:11.730996,Api Power Company Ltd.
+2026041704016762,API,4,44,440,351.8,154792.0,2026-04-17,186899149,697,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:16:42.188244,Api Power Company Ltd.
+2026041704016763,API,4,76,1000,351.9,351900.0,2026-04-17,186899151,697,Opal Securities Investment (PVT) Ltd.,Machhapuchchhre Securities Limited,2026-04-17 14:16:42.189135,Api Power Company Ltd.
+2026041704016764,API,4,25,500,351.9,175950.0,2026-04-17,186899153,697,Opal Securities Investment (PVT) Ltd.,Sweta Securities Private Limited,2026-04-17 14:16:42.189757,Api Power Company Ltd.
+2026041704016765,API,4,1,324,352.0,114048.0,2026-04-17,186899155,697,Opal Securities Investment (PVT) Ltd.,Kumari Securities Private Limited,2026-04-17 14:16:42.190371,Api Power Company Ltd.
+2026041704016766,API,4,45,42,352.0,14784.0,2026-04-17,186899157,697,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:16:42.190975,Api Power Company Ltd.
+2026041704016767,API,4,32,10,352.0,3520.0,2026-04-17,186899159,697,Opal Securities Investment (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-17 14:16:42.191593,Api Power Company Ltd.
+2026041704016768,API,4,25,153,352.0,53856.0,2026-04-17,186899161,697,Opal Securities Investment (PVT) Ltd.,Sweta Securities Private Limited,2026-04-17 14:16:42.192193,Api Power Company Ltd.
+2026041704016769,API,4,46,1000,352.0,352000.0,2026-04-17,186899163,697,Opal Securities Investment (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:16:42.192806,Api Power Company Ltd.
+2026041704016770,API,4,33,9000,352.0,3168000.0,2026-04-17,186899165,697,Opal Securities Investment (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:16:42.193423,Api Power Company Ltd.
+2026041704016771,API,4,7,20,352.0,7040.0,2026-04-17,186899167,697,Opal Securities Investment (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-17 14:16:42.194046,Api Power Company Ltd.
+2026041704016772,API,4,38,100,352.0,35200.0,2026-04-17,186899169,697,Opal Securities Investment (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:16:42.194665,Api Power Company Ltd.
+2026041704016773,API,4,7,30,352.0,10560.0,2026-04-17,186899171,697,Opal Securities Investment (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-17 14:16:42.195243,Api Power Company Ltd.
+2026041704016774,API,4,58,63,352.0,22176.0,2026-04-17,186899173,697,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:16:42.195846,Api Power Company Ltd.
+2026041704016775,API,4,45,225,352.0,79200.0,2026-04-17,186899175,697,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:16:42.196450,Api Power Company Ltd.
+2026041704016776,API,4,42,50,352.0,17600.0,2026-04-17,186899177,697,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 14:16:42.197039,Api Power Company Ltd.
+2026041704016777,API,4,42,57,352.0,20064.0,2026-04-17,186899179,697,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-17 14:16:42.197612,Api Power Company Ltd.
+2026041704016778,API,4,45,24,352.0,8448.0,2026-04-17,186899181,697,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:16:42.198198,Api Power Company Ltd.
+2026041704016779,API,4,56,462,352.0,162624.0,2026-04-17,186899184,697,Opal Securities Investment (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:16:42.198804,Api Power Company Ltd.
+2026041704016894,API,36,58,6,349.0,2094.0,2026-04-17,186899893,697,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:17:46.656248,Api Power Company Ltd.
+2026041704016941,API,45,41,10,351.0,3510.0,2026-04-17,186900122,697,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-17 14:18:06.442910,Api Power Company Ltd.
+2026041704016942,API,48,41,384,350.0,134400.0,2026-04-17,186900124,697,Trishakti Securities Public Limited,Linch Stock Market Ltd.,2026-04-17 14:18:06.443370,Api Power Company Ltd.
+2026041704016943,API,21,41,200,350.0,70000.0,2026-04-17,186900126,697,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-17 14:18:06.443593,Api Power Company Ltd.
+2026041704016944,API,49,41,580,350.0,203000.0,2026-04-17,186900128,697,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-17 14:18:06.443876,Api Power Company Ltd.
+2026041704017070,API,16,41,26,350.0,9100.0,2026-04-17,186900881,697,Primo Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-17 14:19:03.610460,Api Power Company Ltd.
+2026041704017112,API,16,29,124,350.0,43400.0,2026-04-17,186901366,697,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 14:19:41.135935,Api Power Company Ltd.
+2026041704017113,API,42,29,26,350.0,9100.0,2026-04-17,186901368,697,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 14:19:41.136400,Api Power Company Ltd.
+2026041704017194,API,58,34,25,349.2,8730.0,2026-04-17,186901960,697,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:20:26.871789,Api Power Company Ltd.
+2026041704017195,API,49,34,77,349.2,26888.4,2026-04-17,186901961,697,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:20:26.871843,Api Power Company Ltd.
+2026041704017250,API,58,29,11,350.0,3850.0,2026-04-17,186902372,697,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 14:20:57.112035,Api Power Company Ltd.
+2026041704017365,API,52,29,61,350.0,21350.0,2026-04-17,186903612,697,Sundhara Securities Limited,Trisul Securities & Invt. Ltd.,2026-04-17 14:22:40.504962,Api Power Company Ltd.
+2026041704017458,API,49,57,23,349.2,8031.6,2026-04-17,186904136,697,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 14:23:24.747172,Api Power Company Ltd.
+2026041704017459,API,49,57,77,349.2,26888.4,2026-04-17,186904137,697,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-17 14:23:24.747669,Api Power Company Ltd.
+2026041704017556,API,49,4,23,349.2,8031.6,2026-04-17,186905324,697,Online Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:24:49.350053,Api Power Company Ltd.
+2026041704017557,API,19,4,70,349.1,24437.0,2026-04-17,186905326,697,Nepal Investment And Securities Trading Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:24:49.350542,Api Power Company Ltd.
+2026041704017644,API,44,41,1000,349.9,349900.0,2026-04-17,186906234,697,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-17 14:25:43.733222,Api Power Company Ltd.
+2026041704017651,API,34,70,100,349.1,34910.0,2026-04-17,186906372,697,Vision Securities Pvt. Ltd,Infinity Securities Limited,2026-04-17 14:25:59.079710,Api Power Company Ltd.
+2026041704017652,API,56,70,700,349.1,244370.0,2026-04-17,186906374,697,Sri Hari Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-17 14:25:59.080219,Api Power Company Ltd.
+2026041704017653,API,29,70,1405,349.1,490485.5,2026-04-17,186906376,697,Trisul Securities & Invt. Ltd.,Infinity Securities Limited,2026-04-17 14:25:59.080438,Api Power Company Ltd.
+2026041704017654,API,63,70,500,349.0,174500.0,2026-04-17,186906378,697,Himalayan Brokerage Company Limited,Infinity Securities Limited,2026-04-17 14:25:59.080642,Api Power Company Ltd.
+2026041704017655,API,35,70,37,349.0,12913.0,2026-04-17,186906380,697,Kohinoor Investment & Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-17 14:25:59.080853,Api Power Company Ltd.
+2026041704017663,API,36,70,617,348.6,215086.2,2026-04-17,186906502,697,Secured Securities Ltd.,Infinity Securities Limited,2026-04-17 14:26:09.508371,Api Power Company Ltd.
+2026041704017664,API,44,70,141,348.6,49152.6,2026-04-17,186906503,697,Dynamic Money Managers Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-17 14:26:09.508975,Api Power Company Ltd.
+2026041704017704,API,44,70,859,348.6,299447.4,2026-04-17,186906906,697,Dynamic Money Managers Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-17 14:26:41.236595,Api Power Company Ltd.
+2026041704017718,API,25,70,141,348.6,49152.6,2026-04-17,186907001,697,Sweta Securities Private Limited,Infinity Securities Limited,2026-04-17 14:26:52.595446,Api Power Company Ltd.
+2026041704017730,API,66,57,100,349.9,34990.0,2026-04-17,186907235,697,Miyo Securities Pvt Ltd,Aryatara Investment & Securities,2026-04-17 14:27:17.762428,Api Power Company Ltd.
+2026041704017731,API,66,29,230,350.0,80500.0,2026-04-17,186907238,697,Miyo Securities Pvt Ltd,Trisul Securities & Invt. Ltd.,2026-04-17 14:27:17.762897,Api Power Company Ltd.
+2026041704017771,API,58,29,48,350.0,16800.0,2026-04-17,186907835,697,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-17 14:28:09.508575,Api Power Company Ltd.
+2026041704017772,API,58,57,32,350.0,11200.0,2026-04-17,186907838,697,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-17 14:28:09.509063,Api Power Company Ltd.
+2026041704017836,API,66,57,100,350.0,35000.0,2026-04-17,186908426,697,Miyo Securities Pvt Ltd,Aryatara Investment & Securities,2026-04-17 14:29:00.321642,Api Power Company Ltd.
+2026041704017884,API,66,14,280,349.0,97720.0,2026-04-17,186908986,697,Miyo Securities Pvt Ltd,Nepal Stock House (PVT) Ltd.,2026-04-17 14:29:44.656883,Api Power Company Ltd.
+2026041704017885,API,39,14,335,349.0,116915.0,2026-04-17,186908988,697,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:29:44.657389,Api Power Company Ltd.
+2026041704017886,API,95,14,1000,348.8,348800.0,2026-04-17,186908990,697,Magnet Securities and Investment Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:29:44.657614,Api Power Company Ltd.
+2026041704017887,API,25,14,5529,348.7,1927962.3,2026-04-17,186908992,697,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:29:44.657824,Api Power Company Ltd.
+2026041704017888,API,25,14,500,348.3,174150.0,2026-04-17,186908994,697,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:29:44.658045,Api Power Company Ltd.
+2026041704017889,API,76,14,2000,348.3,696600.0,2026-04-17,186908996,697,Machhapuchchhre Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:29:44.658265,Api Power Company Ltd.
+2026041704017890,API,72,14,356,348.2,123959.2,2026-04-17,186908997,697,Hatemalo Financial Services Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:29:44.658481,Api Power Company Ltd.
+2026041704017895,API,58,57,10,350.0,3500.0,2026-04-17,186909072,697,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-17 14:29:53.852079,Api Power Company Ltd.
+2026041704017908,API,52,57,58,350.0,20300.0,2026-04-17,186909327,697,Sundhara Securities Limited,Aryatara Investment & Securities,2026-04-17 14:30:14.577588,Api Power Company Ltd.
+2026041704017909,API,52,49,32,350.0,11200.0,2026-04-17,186909329,697,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-17 14:30:14.578077,Api Power Company Ltd.
+2026041704017910,API,52,53,2000,350.0,700000.0,2026-04-17,186909331,697,Sundhara Securities Limited,Investment Management Nepal Pvt. Ltd.,2026-04-17 14:30:14.578294,Api Power Company Ltd.
+2026041704017911,API,52,58,52,350.0,18200.0,2026-04-17,186909333,697,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 14:30:14.578524,Api Power Company Ltd.
+2026041704017912,API,52,41,54,350.0,18900.0,2026-04-17,186909335,697,Sundhara Securities Limited,Linch Stock Market Ltd.,2026-04-17 14:30:14.578745,Api Power Company Ltd.
+2026041704017913,API,52,19,10,350.0,3500.0,2026-04-17,186909338,697,Sundhara Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-17 14:30:14.578952,Api Power Company Ltd.
+2026041704018008,API,66,58,20,350.0,7000.0,2026-04-17,186910249,697,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:31:17.520159,Api Power Company Ltd.
+2026041704018057,API,66,94,130,350.0,45500.0,2026-04-17,186910590,697,Miyo Securities Pvt Ltd,K.B.L. Securities Limited ,2026-04-17 14:31:47.117280,Api Power Company Ltd.
+2026041704018206,API,39,34,40,349.0,13960.0,2026-04-17,186911508,697,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:33:03.728147,Api Power Company Ltd.
+2026041704018207,API,77,34,700,349.0,244300.0,2026-04-17,186911510,697,Nabil Stock Dealer Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:33:03.729079,Api Power Company Ltd.
+2026041704018268,API,29,34,260,349.0,90740.0,2026-04-17,186911951,697,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-17 14:33:44.399398,Api Power Company Ltd.
+2026041704018269,API,29,38,10,349.0,3490.0,2026-04-17,186911953,697,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:33:44.400306,Api Power Company Ltd.
+2026041704018270,API,29,14,500,349.0,174500.0,2026-04-17,186911955,697,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:33:44.400964,Api Power Company Ltd.
+2026041704018271,API,34,7,8,350.0,2800.0,2026-04-17,186911964,697,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-17 14:33:45.191399,Api Power Company Ltd.
+2026041704018353,API,100,45,5,348.2,1741.0,2026-04-17,186912759,697,Sunrise Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:34:56.031493,Api Power Company Ltd.
+2026041704018396,API,29,26,100,349.0,34900.0,2026-04-17,186912887,697,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:35:05.300205,Api Power Company Ltd.
+2026041704018418,API,48,95,500,349.9,174950.0,2026-04-17,186913141,697,Trishakti Securities Public Limited,Magnet Securities and Investment Company Private Limited,2026-04-17 14:35:24.287299,Api Power Company Ltd.
+2026041704018419,API,48,76,500,349.9,174950.0,2026-04-17,186913143,697,Trishakti Securities Public Limited,Machhapuchchhre Securities Limited,2026-04-17 14:35:24.288364,Api Power Company Ltd.
+2026041704018420,API,48,94,870,350.0,304500.0,2026-04-17,186913145,697,Trishakti Securities Public Limited,K.B.L. Securities Limited ,2026-04-17 14:35:24.289149,Api Power Company Ltd.
+2026041704018421,API,48,46,44,350.0,15400.0,2026-04-17,186913147,697,Trishakti Securities Public Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:35:24.289999,Api Power Company Ltd.
+2026041704018422,API,48,32,86,350.0,30100.0,2026-04-17,186913150,697,Trishakti Securities Public Limited,Premier Securities Company Ltd.,2026-04-17 14:35:24.290837,Api Power Company Ltd.
+2026041704018479,API,4,32,3204,350.0,1121400.0,2026-04-17,186913617,697,Opal Securities Investment (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-17 14:35:57.190884,Api Power Company Ltd.
+2026041704018480,API,4,51,1102,350.0,385700.0,2026-04-17,186913619,697,Opal Securities Investment (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-17 14:35:57.191880,Api Power Company Ltd.
+2026041704018481,API,4,43,190,350.0,66500.0,2026-04-17,186913622,697,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-17 14:35:57.192545,Api Power Company Ltd.
+2026041704018494,API,29,26,100,349.0,34900.0,2026-04-17,186913695,697,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:36:00.371764,Api Power Company Ltd.
+2026041704018625,API,94,63,100,349.1,34910.0,2026-04-17,186915047,697,K.B.L. Securities Limited ,Himalayan Brokerage Company Limited,2026-04-17 14:37:31.714287,Api Power Company Ltd.
+2026041704018638,API,94,39,110,349.1,38401.0,2026-04-17,186915143,697,K.B.L. Securities Limited ,Sumeru Securities Pvt. Ltd.,2026-04-17 14:37:39.136351,Api Power Company Ltd.
+2026041704018660,API,57,38,20,350.0,7000.0,2026-04-17,186915400,697,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:37:55.951080,Api Power Company Ltd.
+2026041704018697,API,52,26,300,349.5,104850.0,2026-04-17,186915940,697,Sundhara Securities Limited,Asian Securities Private Ltd.,2026-04-17 14:38:45.596962,Api Power Company Ltd.
+2026041704018731,API,39,26,20,349.3,6986.0,2026-04-17,186916394,697,Sumeru Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:39:24.494973,Api Power Company Ltd.
+2026041704018732,API,34,26,130,349.2,45396.0,2026-04-17,186916395,697,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,2026-04-17 14:39:24.496194,Api Power Company Ltd.
+2026041704018785,API,3,38,1280,350.0,448000.0,2026-04-17,186916860,697,Arun Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:40:05.412034,Api Power Company Ltd.
+2026041704018797,API,57,45,500,349.3,174650.0,2026-04-17,186916930,697,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:40:13.606909,Api Power Company Ltd.
+2026041704018798,API,34,45,20,349.2,6984.0,2026-04-17,186916932,697,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:40:13.608011,Api Power Company Ltd.
+2026041704018799,API,94,45,790,349.1,275789.0,2026-04-17,186916934,697,K.B.L. Securities Limited ,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:40:13.608944,Api Power Company Ltd.
+2026041704018800,API,29,45,530,349.0,184970.0,2026-04-17,186916936,697,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:40:13.609877,Api Power Company Ltd.
+2026041704018801,API,101,45,160,349.0,55840.0,2026-04-17,186916937,697,APPLE SECURITIES PRIVATE LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:40:13.610655,Api Power Company Ltd.
+2026041704018857,API,52,63,15,349.3,5239.5,2026-04-17,186917337,697,Sundhara Securities Limited,Himalayan Brokerage Company Limited,2026-04-17 14:40:45.991358,Api Power Company Ltd.
+2026041704018907,API,58,4,200,350.5,70100.0,2026-04-17,186917754,697,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:41:20.298037,Api Power Company Ltd.
+2026041704019073,API,66,33,30,350.4,10512.0,2026-04-17,186918884,697,Miyo Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:42:31.336177,Api Power Company Ltd.
+2026041704019086,API,57,1,10,350.0,3500.0,2026-04-17,186919146,697,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-17 14:42:48.664515,Api Power Company Ltd.
+2026041704019087,API,39,1,90,350.0,31500.0,2026-04-17,186919147,697,Sumeru Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-17 14:42:48.665001,Api Power Company Ltd.
+2026041704019151,API,39,33,900,350.0,315000.0,2026-04-17,186919579,697,Sumeru Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:43:19.373378,Api Power Company Ltd.
+2026041704019152,API,67,26,1,347.0,347.0,2026-04-17,186919581,697,Property Wiard Limited,Asian Securities Private Ltd.,2026-04-17 14:43:19.586832,Api Power Company Ltd.
+2026041704019158,API,39,35,10,350.0,3500.0,2026-04-17,186919686,697,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:43:26.205511,Api Power Company Ltd.
+2026041704019166,API,67,63,2,347.0,694.0,2026-04-17,186919865,697,Property Wiard Limited,Himalayan Brokerage Company Limited,2026-04-17 14:43:36.202692,Api Power Company Ltd.
+2026041704019206,API,66,35,20,350.0,7000.0,2026-04-17,186920136,697,Miyo Securities Pvt Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:43:56.519880,Api Power Company Ltd.
+2026041704019218,API,58,35,10,350.0,3500.0,2026-04-17,186920258,697,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:44:07.424991,Api Power Company Ltd.
+2026041704019219,API,22,35,425,350.0,148750.0,2026-04-17,186920308,697,Siprabi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:44:11.406329,Api Power Company Ltd.
+2026041704019221,API,67,58,5,346.2,1731.0,2026-04-17,186920311,697,Property Wiard Limited,Naasa Securities Co. Ltd.,2026-04-17 14:44:11.833766,Api Power Company Ltd.
+2026041704019225,API,58,35,35,350.0,12250.0,2026-04-17,186920333,697,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:44:13.235358,Api Power Company Ltd.
+2026041704019226,API,58,11,52,350.0,18200.0,2026-04-17,186920336,697,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-17 14:44:13.236298,Api Power Company Ltd.
+2026041704019252,API,67,56,1,346.0,346.0,2026-04-17,186920591,697,Property Wiard Limited,Sri Hari Securities Pvt. Ltd.,2026-04-17 14:44:33.125390,Api Power Company Ltd.
+2026041704019266,API,44,11,248,349.4,86651.2,2026-04-17,186920761,697,Dynamic Money Managers Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-17 14:44:47.857797,Api Power Company Ltd.
+2026041704019322,API,66,36,30,350.0,10500.0,2026-04-17,186921292,697,Miyo Securities Pvt Ltd,Secured Securities Ltd.,2026-04-17 14:45:24.194995,Api Power Company Ltd.
+2026041704019463,API,52,36,70,350.0,24500.0,2026-04-17,186922691,697,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-17 14:46:36.966644,Api Power Company Ltd.
+2026041704019464,API,52,13,215,350.0,75250.0,2026-04-17,186922694,697,Sundhara Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:46:36.967074,Api Power Company Ltd.
+2026041704019479,API,66,13,20,350.0,7000.0,2026-04-17,186922894,697,Miyo Securities Pvt Ltd,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:46:45.039245,Api Power Company Ltd.
+2026041704019504,API,57,41,26,349.5,9087.0,2026-04-17,186922985,697,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-17 14:46:51.891662,Api Power Company Ltd.
+2026041704019538,API,57,48,100,349.5,34950.0,2026-04-17,186923395,697,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-17 14:47:19.428303,Api Power Company Ltd.
+2026041704019626,API,95,13,15,350.0,5250.0,2026-04-17,186924397,697,Magnet Securities and Investment Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-17 14:48:20.692481,Api Power Company Ltd.
+2026041704019627,API,95,5,11,350.0,3850.0,2026-04-17,186924399,697,Magnet Securities and Investment Company Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-17 14:48:20.693481,Api Power Company Ltd.
+2026041704019628,API,95,46,500,350.0,175000.0,2026-04-17,186924401,697,Magnet Securities and Investment Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:48:20.694162,Api Power Company Ltd.
+2026041704019629,API,95,42,300,350.0,105000.0,2026-04-17,186924403,697,Magnet Securities and Investment Company Private Limited,Sani Securities Company Ltd.,2026-04-17 14:48:20.694837,Api Power Company Ltd.
+2026041704019630,API,95,42,500,350.0,175000.0,2026-04-17,186924405,697,Magnet Securities and Investment Company Private Limited,Sani Securities Company Ltd.,2026-04-17 14:48:20.695512,Api Power Company Ltd.
+2026041704019631,API,95,94,174,350.0,60900.0,2026-04-17,186924408,697,Magnet Securities and Investment Company Private Limited,K.B.L. Securities Limited ,2026-04-17 14:48:20.696190,Api Power Company Ltd.
+2026041704019682,API,58,94,12,350.0,4200.0,2026-04-17,186925648,697,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-17 14:48:58.550085,Api Power Company Ltd.
+2026041704019835,API,52,94,814,350.0,284900.0,2026-04-17,186926911,697,Sundhara Securities Limited,K.B.L. Securities Limited ,2026-04-17 14:49:52.208984,Api Power Company Ltd.
+2026041704019836,API,52,6,115,350.0,40250.0,2026-04-17,186926913,697,Sundhara Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-17 14:49:52.210124,Api Power Company Ltd.
+2026041704019837,API,52,44,315,350.0,110250.0,2026-04-17,186926915,697,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-17 14:49:52.210497,Api Power Company Ltd.
+2026041704019838,API,52,58,28,350.0,9800.0,2026-04-17,186926918,697,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 14:49:52.210730,Api Power Company Ltd.
+2026041704019862,API,49,10,50,349.6,17480.0,2026-04-17,186927153,697,Online Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 14:50:00.806495,Api Power Company Ltd.
+2026041704019910,API,83,38,150,350.0,52500.0,2026-04-17,186927591,697,Sanima Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-17 14:50:23.476780,Api Power Company Ltd.
+2026041704019918,API,83,14,100,350.0,35000.0,2026-04-17,186927631,697,Sanima Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:50:27.049777,Api Power Company Ltd.
+2026041704019919,API,66,45,30,350.3,10509.0,2026-04-17,186927635,697,Miyo Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:50:27.554523,Api Power Company Ltd.
+2026041704019920,API,66,33,30,350.4,10512.0,2026-04-17,186927638,697,Miyo Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:50:27.555510,Api Power Company Ltd.
+2026041704020016,API,83,26,31,350.0,10850.0,2026-04-17,186928757,697,Sanima Securities Limited,Asian Securities Private Ltd.,2026-04-17 14:51:09.028548,Api Power Company Ltd.
+2026041704020092,API,49,33,20,350.4,7008.0,2026-04-17,186929192,697,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:51:30.103160,Api Power Company Ltd.
+2026041704020116,API,83,14,50,350.0,17500.0,2026-04-17,186929405,697,Sanima Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:51:38.949904,Api Power Company Ltd.
+2026041704020153,API,66,33,10,350.4,3504.0,2026-04-17,186929816,697,Miyo Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-17 14:51:50.894409,Api Power Company Ltd.
+2026041704020168,API,83,57,25,350.0,8750.0,2026-04-17,186929981,697,Sanima Securities Limited,Aryatara Investment & Securities,2026-04-17 14:52:02.077515,Api Power Company Ltd.
+2026041704020293,API,49,14,75,350.3,26272.5,2026-04-17,186931116,697,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:52:48.227687,Api Power Company Ltd.
+2026041704020439,API,49,14,1000,350.3,350300.0,2026-04-17,186932488,697,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:53:48.693689,Api Power Company Ltd.
+2026041704020453,API,49,58,25,350.0,8750.0,2026-04-17,186932572,697,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:53:52.473607,Api Power Company Ltd.
+2026041704020454,API,51,58,12,350.0,4200.0,2026-04-17,186932574,697,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:53:52.474554,Api Power Company Ltd.
+2026041704020477,API,41,68,50,350.1,17505.0,2026-04-17,186932726,697,Linch Stock Market Ltd.,Elite Stock House Limited,2026-04-17 14:54:01.711022,Api Power Company Ltd.
+2026041704020478,API,58,68,250,350.0,87500.0,2026-04-17,186932727,697,Naasa Securities Co. Ltd.,Elite Stock House Limited,2026-04-17 14:54:01.711514,Api Power Company Ltd.
+2026041704020590,API,58,10,93,350.0,32550.0,2026-04-17,186933905,697,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-17 14:54:51.839778,Api Power Company Ltd.
+2026041704020615,API,58,26,500,350.0,175000.0,2026-04-17,186934025,697,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:54:57.534598,Api Power Company Ltd.
+2026041704020637,API,58,14,200,350.3,70060.0,2026-04-17,186934270,697,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:55:07.722258,Api Power Company Ltd.
+2026041704020694,API,40,14,18,350.3,6305.4,2026-04-17,186934656,697,Creative Securities Pvt Ltd,Nepal Stock House (PVT) Ltd.,2026-04-17 14:55:23.476161,Api Power Company Ltd.
+2026041704020708,API,58,74,857,350.0,299950.0,2026-04-17,186934798,697,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 14:55:28.817395,Api Power Company Ltd.
+2026041704020709,API,48,74,143,350.0,50050.0,2026-04-17,186934799,697,Trishakti Securities Public Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-17 14:55:28.817469,Api Power Company Ltd.
+2026041704020728,API,48,26,108,350.0,37800.0,2026-04-17,186934905,697,Trishakti Securities Public Limited,Asian Securities Private Ltd.,2026-04-17 14:55:35.440885,Api Power Company Ltd.
+2026041704020732,API,48,83,329,350.0,115150.0,2026-04-17,186934952,697,Trishakti Securities Public Limited,Sanima Securities Limited,2026-04-17 14:55:37.445185,Api Power Company Ltd.
+2026041704020877,API,94,45,100,349.8,34980.0,2026-04-17,186935925,697,K.B.L. Securities Limited ,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:56:15.297349,Api Power Company Ltd.
+2026041704020912,API,83,4,4,350.0,1400.0,2026-04-17,186936093,697,Sanima Securities Limited,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:56:21.037879,Api Power Company Ltd.
+2026041704020916,API,42,42,300,349.9,104970.0,2026-04-17,186936139,697,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-17 14:56:22.600698,Api Power Company Ltd.
+2026041704020917,API,42,99,169,349.9,59133.1,2026-04-17,186936141,697,Sani Securities Company Ltd.,Prabhu Stock Market Limited,2026-04-17 14:56:22.601165,Api Power Company Ltd.
+2026041704020918,API,42,83,161,350.0,56350.0,2026-04-17,186936144,697,Sani Securities Company Ltd.,Sanima Securities Limited,2026-04-17 14:56:22.601409,Api Power Company Ltd.
+2026041704020952,API,94,65,400,349.8,139920.0,2026-04-17,186936344,697,K.B.L. Securities Limited ,Sharepro Securities Private Limited,2026-04-17 14:56:28.330550,Api Power Company Ltd.
+2026041704020953,API,94,65,1000,349.7,349700.0,2026-04-17,186936346,697,K.B.L. Securities Limited ,Sharepro Securities Private Limited,2026-04-17 14:56:28.331017,Api Power Company Ltd.
+2026041704020954,API,49,65,250,349.6,87400.0,2026-04-17,186936348,697,Online Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-17 14:56:28.331288,Api Power Company Ltd.
+2026041704020955,API,52,65,350,349.6,122360.0,2026-04-17,186936349,697,Sundhara Securities Limited,Sharepro Securities Private Limited,2026-04-17 14:56:28.331588,Api Power Company Ltd.
+2026041704021001,API,44,83,500,350.0,175000.0,2026-04-17,186936642,697,Dynamic Money Managers Securities Pvt. Ltd.,Sanima Securities Limited,2026-04-17 14:56:37.517244,Api Power Company Ltd.
+2026041704021132,API,52,74,650,349.6,227240.0,2026-04-17,186937306,697,Sundhara Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-17 14:56:58.058963,Api Power Company Ltd.
+2026041704021133,API,57,74,74,349.5,25863.0,2026-04-17,186937308,697,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,2026-04-17 14:56:58.059089,Api Power Company Ltd.
+2026041704021134,API,6,74,276,349.5,96462.0,2026-04-17,186937309,697,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-17 14:56:58.059188,Api Power Company Ltd.
+2026041704021237,API,41,26,150,349.6,52440.0,2026-04-17,186938299,697,Linch Stock Market Ltd.,Asian Securities Private Ltd.,2026-04-17 14:57:20.613283,Api Power Company Ltd.
+2026041704021248,API,58,83,10,350.0,3500.0,2026-04-17,186938412,697,Naasa Securities Co. Ltd.,Sanima Securities Limited,2026-04-17 14:57:24.865163,Api Power Company Ltd.
+2026041704021304,API,7,45,100,350.0,35000.0,2026-04-17,186938814,697,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:57:36.427185,Api Power Company Ltd.
+2026041704021363,API,66,19,150,349.9,52485.0,2026-04-17,186939127,697,Miyo Securities Pvt Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-17 14:57:47.163562,Api Power Company Ltd.
+2026041704021364,API,66,26,350,349.9,122465.0,2026-04-17,186939130,697,Miyo Securities Pvt Ltd,Asian Securities Private Ltd.,2026-04-17 14:57:47.164026,Api Power Company Ltd.
+2026041704021372,API,58,26,500,349.9,174950.0,2026-04-17,186939160,697,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-17 14:57:48.251351,Api Power Company Ltd.
+2026041704021381,API,57,26,200,349.9,69980.0,2026-04-17,186939260,697,Aryatara Investment & Securities,Asian Securities Private Ltd.,2026-04-17 14:57:51.084255,Api Power Company Ltd.
+2026041704021470,API,72,58,356,349.7,124493.2,2026-04-17,186939846,697,Hatemalo Financial Services Private Limited,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.335534,Api Power Company Ltd.
+2026041704021471,API,41,58,850,349.6,297160.0,2026-04-17,186939848,697,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.335990,Api Power Company Ltd.
+2026041704021472,API,52,58,300,349.6,104880.0,2026-04-17,186939850,697,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.336222,Api Power Company Ltd.
+2026041704021473,API,6,58,1724,349.5,602538.0,2026-04-17,186939852,697,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.336454,Api Power Company Ltd.
+2026041704021474,API,44,58,252,349.4,88048.8,2026-04-17,186939854,697,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.336676,Api Power Company Ltd.
+2026041704021475,API,101,58,340,349.0,118660.0,2026-04-17,186939856,697,APPLE SECURITIES PRIVATE LIMITED,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.336899,Api Power Company Ltd.
+2026041704021476,API,39,58,1000,349.0,349000.0,2026-04-17,186939858,697,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.337127,Api Power Company Ltd.
+2026041704021477,API,58,58,30,349.0,10470.0,2026-04-17,186939860,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.337352,Api Power Company Ltd.
+2026041704021478,API,5,58,200,349.0,69800.0,2026-04-17,186939862,697,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.337576,Api Power Company Ltd.
+2026041704021479,API,49,58,2440,349.0,851560.0,2026-04-17,186939864,697,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.337797,Api Power Company Ltd.
+2026041704021480,API,32,58,100,348.8,34880.0,2026-04-17,186939866,697,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.338027,Api Power Company Ltd.
+2026041704021481,API,44,58,1000,348.2,348200.0,2026-04-17,186939868,697,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.338280,Api Power Company Ltd.
+2026041704021482,API,44,58,1000,348.2,348200.0,2026-04-17,186939870,697,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.338528,Api Power Company Ltd.
+2026041704021483,API,44,58,10000,348.1,3481000.0,2026-04-17,186939872,697,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.338752,Api Power Company Ltd.
+2026041704021484,API,45,58,420,348.1,146202.0,2026-04-17,186939874,697,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.338971,Api Power Company Ltd.
+2026041704021485,API,69,58,1000,348.0,348000.0,2026-04-17,186939876,697,INDEX SECURITIES LIMITED,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.339192,Api Power Company Ltd.
+2026041704021486,API,34,58,100,348.0,34800.0,2026-04-17,186939878,697,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.339420,Api Power Company Ltd.
+2026041704021487,API,42,58,1000,348.0,348000.0,2026-04-17,186939880,697,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.339637,Api Power Company Ltd.
+2026041704021488,API,58,58,15,348.0,5220.0,2026-04-17,186939882,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.339855,Api Power Company Ltd.
+2026041704021489,API,45,58,99,348.0,34452.0,2026-04-17,186939884,697,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.340079,Api Power Company Ltd.
+2026041704021490,API,19,58,100,348.0,34800.0,2026-04-17,186939886,697,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.340322,Api Power Company Ltd.
+2026041704021491,API,63,58,500,348.0,174000.0,2026-04-17,186939888,697,Himalayan Brokerage Company Limited,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.340542,Api Power Company Ltd.
+2026041704021492,API,45,58,2000,348.0,696000.0,2026-04-17,186939890,697,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.340761,Api Power Company Ltd.
+2026041704021493,API,22,58,100,348.0,34800.0,2026-04-17,186939892,697,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.340977,Api Power Company Ltd.
+2026041704021494,API,29,58,1000,348.0,348000.0,2026-04-17,186939894,697,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.341195,Api Power Company Ltd.
+2026041704021495,API,17,58,1000,348.0,348000.0,2026-04-17,186939896,697,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.341409,Api Power Company Ltd.
+2026041704021496,API,57,58,500,348.0,174000.0,2026-04-17,186939898,697,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.341628,Api Power Company Ltd.
+2026041704021497,API,45,58,500,348.0,174000.0,2026-04-17,186939900,697,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.341871,Api Power Company Ltd.
+2026041704021498,API,45,58,280,348.0,97440.0,2026-04-17,186939902,697,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.342085,Api Power Company Ltd.
+2026041704021499,API,40,58,1000,348.0,348000.0,2026-04-17,186939904,697,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.342301,Api Power Company Ltd.
+2026041704021500,API,58,58,280,348.0,97440.0,2026-04-17,186939906,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.342559,Api Power Company Ltd.
+2026041704021501,API,3,58,700,348.0,243600.0,2026-04-17,186939908,697,Arun Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.342773,Api Power Company Ltd.
+2026041704021502,API,16,58,285,348.0,99180.0,2026-04-17,186939910,697,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.342984,Api Power Company Ltd.
+2026041704021503,API,37,58,50,347.5,17375.0,2026-04-17,186939912,697,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.343195,Api Power Company Ltd.
+2026041704021504,API,38,58,670,347.5,232825.0,2026-04-17,186939914,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.343409,Api Power Company Ltd.
+2026041704021505,API,38,58,1000,347.5,347500.0,2026-04-17,186939916,697,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.343622,Api Power Company Ltd.
+2026041704021506,API,4,58,173,347.0,60031.0,2026-04-17,186939918,697,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.343837,Api Power Company Ltd.
+2026041704021507,API,4,58,130,347.0,45110.0,2026-04-17,186939920,697,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.344043,Api Power Company Ltd.
+2026041704021508,API,36,58,200,347.0,69400.0,2026-04-17,186939922,697,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.344259,Api Power Company Ltd.
+2026041704021509,API,35,58,1000,347.0,347000.0,2026-04-17,186939924,697,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.344495,Api Power Company Ltd.
+2026041704021510,API,46,58,100,347.0,34700.0,2026-04-17,186939926,697,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.344710,Api Power Company Ltd.
+2026041704021511,API,18,58,200,347.0,69400.0,2026-04-17,186939928,697,Sagarmatha Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.344925,Api Power Company Ltd.
+2026041704021512,API,14,58,300,347.0,104100.0,2026-04-17,186939930,697,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.345139,Api Power Company Ltd.
+2026041704021513,API,58,58,50,347.0,17350.0,2026-04-17,186939932,697,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.345373,Api Power Company Ltd.
+2026041704021514,API,34,58,1000,347.0,347000.0,2026-04-17,186939934,697,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-17 14:58:05.345586,Api Power Company Ltd.
+2026041704021579,API,33,58,42534,347.0,14759298.0,2026-04-17,186940478,697,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-17 14:58:20.579696,Api Power Company Ltd.
+2026041704021638,API,10,4,50,347.0,17350.0,2026-04-17,186940764,697,Pragyan Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:58:27.707392,Api Power Company Ltd.
+2026041704021667,API,53,4,150,347.0,52050.0,2026-04-17,186941003,697,Investment Management Nepal Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-17 14:58:33.802100,Api Power Company Ltd.
+2026041704021973,API,42,14,18,349.0,6282.0,2026-04-17,186943396,697,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-17 14:59:16.742699,Api Power Company Ltd.
+2026041704022000,API,91,46,54,347.1,18743.4,2026-04-17,186943577,697,Citizens Share Broker Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:59:19.408496,Api Power Company Ltd.
+2026041704022087,API,72,14,482,349.0,168218.0,2026-04-17,186944227,697,Hatemalo Financial Services Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-17 14:59:28.617137,Api Power Company Ltd.
+2026041704022088,API,72,35,200,349.0,69800.0,2026-04-17,186944229,697,Hatemalo Financial Services Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-17 14:59:28.617584,Api Power Company Ltd.
+2026041704022241,API,72,46,300,349.0,104700.0,2026-04-17,186945293,697,Hatemalo Financial Services Private Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:59:40.400742,Api Power Company Ltd.
+2026041704022265,API,72,45,18,349.0,6282.0,2026-04-17,186945504,697,Hatemalo Financial Services Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:59:42.493748,Api Power Company Ltd.
+2026041704022266,API,43,45,82,348.1,28544.2,2026-04-17,186945505,697,South Asian Bulls Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-17 14:59:42.493853,Api Power Company Ltd.
+2026041704022331,API,77,41,50,349.8,17490.0,2026-04-17,186946073,697,Nabil Stock Dealer Ltd.,Linch Stock Market Ltd.,2026-04-17 14:59:48.644073,Api Power Company Ltd.
+2026041704022332,API,77,26,450,349.9,157455.0,2026-04-17,186946076,697,Nabil Stock Dealer Ltd.,Asian Securities Private Ltd.,2026-04-17 14:59:48.644124,Api Power Company Ltd.
+2026041704022349,API,66,52,10,349.6,3496.0,2026-04-17,186946242,697,Miyo Securities Pvt Ltd,Sundhara Securities Limited,2026-04-17 14:59:50.995766,Api Power Company Ltd.
+2026041704022398,API,37,61,1550,349.0,540950.0,2026-04-17,186946517,697,Swarna Laxmi Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-17 14:59:54.566050,Api Power Company Ltd.
+2026041704022406,API,37,46,450,349.0,157050.0,2026-04-17,186946563,697,Swarna Laxmi Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-17 14:59:55.723651,Api Power Company Ltd.
+2026041704022407,API,21,46,500,349.0,174500.0,2026-04-17,186946565,697,Midas Stock Broking Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-17 14:59:55.724137,Api Power Company Ltd.

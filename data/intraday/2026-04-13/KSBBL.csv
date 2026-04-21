@@ -1,0 +1,93 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041303000467,KSBBL,1,1,11,492.9,5421.9,2026-04-13,186111286,459,Kumari Securities Private Limited,Kumari Securities Private Limited,2026-04-13 11:25:55.675265,Kamana Sewa Bikas Bank Limited
+2026041303000680,KSBBL,32,51,10,491.0,4910.0,2026-04-13,186119784,459,Premier Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-13 11:35:25.615326,Kamana Sewa Bikas Bank Limited
+2026041303000940,KSBBL,6,58,75,483.1,36232.5,2026-04-13,186130457,459,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-13 11:48:27.433570,Kamana Sewa Bikas Bank Limited
+2026041303001404,KSBBL,49,47,10,488.0,4880.0,2026-04-13,186145002,459,Online Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-13 12:06:16.227989,Kamana Sewa Bikas Bank Limited
+2026041303001446,KSBBL,17,47,190,487.0,92530.0,2026-04-13,186146681,459,ABC Securities Private Limited,Neev Securities Pvt. Ltd.,2026-04-13 12:08:13.612299,Kamana Sewa Bikas Bank Limited
+2026041303001587,KSBBL,17,4,150,488.0,73200.0,2026-04-13,186150387,459,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-13 12:13:23.432050,Kamana Sewa Bikas Bank Limited
+2026041303001670,KSBBL,1,1,39,490.9,19145.1,2026-04-13,186153162,459,Kumari Securities Private Limited,Kumari Securities Private Limited,2026-04-13 12:17:02.524916,Kamana Sewa Bikas Bank Limited
+2026041303001984,KSBBL,17,39,50,488.0,24400.0,2026-04-13,186160204,459,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-13 12:26:54.139507,Kamana Sewa Bikas Bank Limited
+2026041303001985,KSBBL,32,39,30,488.0,14640.0,2026-04-13,186160206,459,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-13 12:26:54.139722,Kamana Sewa Bikas Bank Limited
+2026041303001986,KSBBL,17,39,97,488.0,47336.0,2026-04-13,186160207,459,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-13 12:26:54.139866,Kamana Sewa Bikas Bank Limited
+2026041303002022,KSBBL,17,38,50,488.0,24400.0,2026-04-13,186161057,459,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 12:28:06.878251,Kamana Sewa Bikas Bank Limited
+2026041303002322,KSBBL,17,42,353,488.0,172264.0,2026-04-13,186168318,459,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-13 12:38:51.218576,Kamana Sewa Bikas Bank Limited
+2026041303002428,KSBBL,17,42,10,488.0,4880.0,2026-04-13,186170716,459,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-13 12:42:03.761263,Kamana Sewa Bikas Bank Limited
+2026041303002447,KSBBL,58,42,55,488.0,26840.0,2026-04-13,186171176,459,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-13 12:42:45.853684,Kamana Sewa Bikas Bank Limited
+2026041303002612,KSBBL,58,44,900,487.1,438390.0,2026-04-13,186175360,459,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 12:47:56.779477,Kamana Sewa Bikas Bank Limited
+2026041303002613,KSBBL,44,44,500,487.0,243500.0,2026-04-13,186175362,459,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 12:47:56.779798,Kamana Sewa Bikas Bank Limited
+2026041303002614,KSBBL,44,44,500,487.0,243500.0,2026-04-13,186175363,459,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 12:47:56.779949,Kamana Sewa Bikas Bank Limited
+2026041303002732,KSBBL,11,66,25,487.0,12175.0,2026-04-13,186178636,459,Malla & Malla Stock Broking Company Pvt. Limited,Miyo Securities Pvt Ltd,2026-04-13 12:52:54.388313,Kamana Sewa Bikas Bank Limited
+2026041303002733,KSBBL,100,66,200,486.0,97200.0,2026-04-13,186178638,459,Sunrise Securities Limited,Miyo Securities Pvt Ltd,2026-04-13 12:52:54.388414,Kamana Sewa Bikas Bank Limited
+2026041303002734,KSBBL,33,66,300,486.0,145800.0,2026-04-13,186178640,459,Dakshinkali Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-13 12:52:54.388484,Kamana Sewa Bikas Bank Limited
+2026041303002735,KSBBL,84,66,10000,486.0,4860000.0,2026-04-13,186178642,459,MILKY WAY SHARE BROKER COMPANY LTD ,Miyo Securities Pvt Ltd,2026-04-13 12:52:54.388555,Kamana Sewa Bikas Bank Limited
+2026041303002736,KSBBL,84,66,9475,486.0,4604850.0,2026-04-13,186178643,459,MILKY WAY SHARE BROKER COMPANY LTD ,Miyo Securities Pvt Ltd,2026-04-13 12:52:54.388628,Kamana Sewa Bikas Bank Limited
+2026041303002748,KSBBL,84,45,330,486.0,160380.0,2026-04-13,186178969,459,MILKY WAY SHARE BROKER COMPANY LTD ,Imperial Securities Company Pvt. Ltd.,2026-04-13 12:53:22.376307,Kamana Sewa Bikas Bank Limited
+2026041303002870,KSBBL,84,42,195,486.0,94770.0,2026-04-13,186180990,459,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-13 12:56:01.442817,Kamana Sewa Bikas Bank Limited
+2026041303002879,KSBBL,47,42,265,485.0,128525.0,2026-04-13,186181171,459,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-13 12:56:19.275413,Kamana Sewa Bikas Bank Limited
+2026041303002924,KSBBL,47,14,15,485.0,7275.0,2026-04-13,186182679,459,Neev Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-13 12:58:36.375132,Kamana Sewa Bikas Bank Limited
+2026041303002938,KSBBL,47,34,20,485.0,9700.0,2026-04-13,186182967,459,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-13 12:58:57.346019,Kamana Sewa Bikas Bank Limited
+2026041303002994,KSBBL,47,10,500,485.0,242500.0,2026-04-13,186184617,459,Neev Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-13 13:01:37.241499,Kamana Sewa Bikas Bank Limited
+2026041303002995,KSBBL,58,6,26,485.0,12610.0,2026-04-13,186184630,459,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-13 13:01:39.478391,Kamana Sewa Bikas Bank Limited
+2026041303003213,KSBBL,58,6,30,485.0,14550.0,2026-04-13,186190308,459,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-13 13:09:52.969379,Kamana Sewa Bikas Bank Limited
+2026041303003231,KSBBL,47,58,30,484.1,14523.0,2026-04-13,186190688,459,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 13:10:32.070753,Kamana Sewa Bikas Bank Limited
+2026041303003232,KSBBL,8,58,45,484.1,21784.5,2026-04-13,186190689,459,Brilliant Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 13:10:32.070993,Kamana Sewa Bikas Bank Limited
+2026041303003342,KSBBL,58,6,20,485.0,9700.0,2026-04-13,186193190,459,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-13 13:14:05.833415,Kamana Sewa Bikas Bank Limited
+2026041303003414,KSBBL,1,6,124,485.0,60140.0,2026-04-13,186195450,459,Kumari Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-13 13:17:30.735206,Kamana Sewa Bikas Bank Limited
+2026041303003470,KSBBL,38,3,13,484.2,6294.6,2026-04-13,186197231,459,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Arun Securities (PVT) Ltd.,2026-04-13 13:19:35.164169,Kamana Sewa Bikas Bank Limited
+2026041303003478,KSBBL,38,42,22,484.2,10652.4,2026-04-13,186197273,459,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-13 13:19:38.405331,Kamana Sewa Bikas Bank Limited
+2026041303003540,KSBBL,42,33,300,485.0,145500.0,2026-04-13,186198856,459,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-13 13:22:02.516457,Kamana Sewa Bikas Bank Limited
+2026041303003541,KSBBL,38,33,15,484.2,7263.0,2026-04-13,186198858,459,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-13 13:22:02.516621,Kamana Sewa Bikas Bank Limited
+2026041303003542,KSBBL,8,33,455,484.1,220265.5,2026-04-13,186198860,459,Brilliant Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-13 13:22:02.516678,Kamana Sewa Bikas Bank Limited
+2026041303003543,KSBBL,33,33,230,484.1,111343.0,2026-04-13,186198861,459,Dakshinkali Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-13 13:22:02.516745,Kamana Sewa Bikas Bank Limited
+2026041303003563,KSBBL,33,66,10,484.1,4841.0,2026-04-13,186200019,459,Dakshinkali Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-13 13:23:20.739036,Kamana Sewa Bikas Bank Limited
+2026041303003586,KSBBL,81,34,150,490.0,73500.0,2026-04-13,186200899,459,Aakashbhairab Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-13 13:24:17.460771,Kamana Sewa Bikas Bank Limited
+2026041303003587,KSBBL,81,53,90,490.0,44100.0,2026-04-13,186200901,459,Aakashbhairab Securities Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-13 13:24:17.460872,Kamana Sewa Bikas Bank Limited
+2026041303003588,KSBBL,81,13,10,490.0,4900.0,2026-04-13,186200903,459,Aakashbhairab Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-13 13:24:17.460961,Kamana Sewa Bikas Bank Limited
+2026041303003589,KSBBL,81,58,20,490.0,9800.0,2026-04-13,186200905,459,Aakashbhairab Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-13 13:24:17.461054,Kamana Sewa Bikas Bank Limited
+2026041303003590,KSBBL,81,46,230,490.8,112884.0,2026-04-13,186200908,459,Aakashbhairab Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-13 13:24:17.461135,Kamana Sewa Bikas Bank Limited
+2026041303003596,KSBBL,81,46,17,490.8,8343.6,2026-04-13,186201177,459,Aakashbhairab Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-13 13:24:37.376872,Kamana Sewa Bikas Bank Limited
+2026041303003597,KSBBL,81,44,483,491.0,237153.0,2026-04-13,186201180,459,Aakashbhairab Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 13:24:37.376911,Kamana Sewa Bikas Bank Limited
+2026041303003604,KSBBL,81,44,20,491.0,9820.0,2026-04-13,186201232,459,Aakashbhairab Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 13:24:45.228319,Kamana Sewa Bikas Bank Limited
+2026041303004015,KSBBL,36,39,10,485.1,4851.0,2026-04-13,186211557,459,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-13 13:43:19.708612,Kamana Sewa Bikas Bank Limited
+2026041303004183,KSBBL,52,29,150,485.2,72780.0,2026-04-13,186215253,459,Sundhara Securities Limited,Trisul Securities & Invt. Ltd.,2026-04-13 13:50:30.666390,Kamana Sewa Bikas Bank Limited
+2026041303004188,KSBBL,1,42,29,486.0,14094.0,2026-04-13,186215510,459,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-13 13:50:59.555585,Kamana Sewa Bikas Bank Limited
+2026041303004397,KSBBL,47,29,250,486.0,121500.0,2026-04-13,186220433,459,Neev Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-13 13:59:14.706710,Kamana Sewa Bikas Bank Limited
+2026041303004585,KSBBL,47,17,19,486.0,9234.0,2026-04-13,186225539,459,Neev Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-13 14:08:51.129350,Kamana Sewa Bikas Bank Limited
+2026041303004603,KSBBL,47,52,231,486.0,112266.0,2026-04-13,186226160,459,Neev Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:09:44.817657,Kamana Sewa Bikas Bank Limited
+2026041303004604,KSBBL,48,52,25,485.5,12137.5,2026-04-13,186226162,459,Trishakti Securities Public Limited,Sundhara Securities Limited,2026-04-13 14:09:44.817838,Kamana Sewa Bikas Bank Limited
+2026041303004605,KSBBL,36,52,20,485.1,9702.0,2026-04-13,186226164,459,Secured Securities Ltd.,Sundhara Securities Limited,2026-04-13 14:09:44.817901,Kamana Sewa Bikas Bank Limited
+2026041303004606,KSBBL,74,52,60,485.0,29100.0,2026-04-13,186226166,459,KALASH STOCK MARKET PVT. LTD.,Sundhara Securities Limited,2026-04-13 14:09:44.817986,Kamana Sewa Bikas Bank Limited
+2026041303004607,KSBBL,43,52,664,485.0,322040.0,2026-04-13,186226167,459,South Asian Bulls Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:09:44.818053,Kamana Sewa Bikas Bank Limited
+2026041303004615,KSBBL,43,52,336,485.0,162960.0,2026-04-13,186226316,459,South Asian Bulls Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:09:59.260551,Kamana Sewa Bikas Bank Limited
+2026041303004616,KSBBL,44,52,500,485.0,242500.0,2026-04-13,186226318,459,Dynamic Money Managers Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:09:59.260692,Kamana Sewa Bikas Bank Limited
+2026041303004617,KSBBL,33,52,164,484.1,79392.4,2026-04-13,186226319,459,Dakshinkali Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:09:59.260753,Kamana Sewa Bikas Bank Limited
+2026041303004620,KSBBL,33,52,96,484.1,46473.6,2026-04-13,186226460,459,Dakshinkali Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:10:07.263899,Kamana Sewa Bikas Bank Limited
+2026041303004621,KSBBL,13,52,104,484.1,50346.4,2026-04-13,186226461,459,Thrive Brokerage House Pvt. Ltd,Sundhara Securities Limited,2026-04-13 14:10:07.264074,Kamana Sewa Bikas Bank Limited
+2026041303004661,KSBBL,13,44,396,484.1,191703.6,2026-04-13,186228000,459,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 14:12:08.846809,Kamana Sewa Bikas Bank Limited
+2026041303004662,KSBBL,6,44,1500,484.0,726000.0,2026-04-13,186228002,459,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 14:12:08.846978,Kamana Sewa Bikas Bank Limited
+2026041303004663,KSBBL,8,44,500,484.0,242000.0,2026-04-13,186228004,459,Brilliant Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 14:12:08.847041,Kamana Sewa Bikas Bank Limited
+2026041303004664,KSBBL,84,44,9604,484.0,4648336.0,2026-04-13,186228005,459,MILKY WAY SHARE BROKER COMPANY LTD ,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 14:12:08.847098,Kamana Sewa Bikas Bank Limited
+2026041303005127,KSBBL,58,53,23,485.0,11155.0,2026-04-13,186244061,459,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-13 14:30:28.944437,Kamana Sewa Bikas Bank Limited
+2026041303005258,KSBBL,58,42,27,485.0,13095.0,2026-04-13,186247212,459,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-13 14:34:30.745461,Kamana Sewa Bikas Bank Limited
+2026041303005259,KSBBL,84,42,396,484.0,191664.0,2026-04-13,186247214,459,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-13 14:34:30.745729,Kamana Sewa Bikas Bank Limited
+2026041303005260,KSBBL,11,42,10,484.0,4840.0,2026-04-13,186247216,459,Malla & Malla Stock Broking Company Pvt. Limited,Sani Securities Company Ltd.,2026-04-13 14:34:30.745889,Kamana Sewa Bikas Bank Limited
+2026041303005261,KSBBL,14,42,58,484.0,28072.0,2026-04-13,186247217,459,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-13 14:34:30.746071,Kamana Sewa Bikas Bank Limited
+2026041303005273,KSBBL,14,36,42,484.0,20328.0,2026-04-13,186247570,459,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 14:35:01.465473,Kamana Sewa Bikas Bank Limited
+2026041303005274,KSBBL,39,36,100,484.0,48400.0,2026-04-13,186247572,459,Sumeru Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-13 14:35:01.465520,Kamana Sewa Bikas Bank Limited
+2026041303005275,KSBBL,45,36,158,484.0,76472.0,2026-04-13,186247573,459,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-13 14:35:01.465544,Kamana Sewa Bikas Bank Limited
+2026041303005588,KSBBL,45,49,110,484.0,53240.0,2026-04-13,186254635,459,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-13 14:42:38.943627,Kamana Sewa Bikas Bank Limited
+2026041303005925,KSBBL,86,40,150,486.0,72900.0,2026-04-13,186261447,459,Stoxkarts Securities Limited,Creative Securities Pvt Ltd,2026-04-13 14:48:20.379380,Kamana Sewa Bikas Bank Limited
+2026041303005926,KSBBL,86,64,350,486.0,170100.0,2026-04-13,186261450,459,Stoxkarts Securities Limited,SUN SECURITIES PVT LTD,2026-04-13 14:48:20.379648,Kamana Sewa Bikas Bank Limited
+2026041303005929,KSBBL,58,40,40,485.0,19400.0,2026-04-13,186261471,459,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-13 14:48:22.355728,Kamana Sewa Bikas Bank Limited
+2026041303005959,KSBBL,45,59,100,484.0,48400.0,2026-04-13,186262071,459,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-13 14:48:51.234667,Kamana Sewa Bikas Bank Limited
+2026041303005981,KSBBL,33,75,100,485.0,48500.0,2026-04-13,186262652,459,Dakshinkali Investment & Securities Pvt. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-13 14:49:18.591716,Kamana Sewa Bikas Bank Limited
+2026041303006107,KSBBL,45,14,10,484.3,4843.0,2026-04-13,186265403,459,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-13 14:51:32.250624,Kamana Sewa Bikas Bank Limited
+2026041303006234,KSBBL,34,59,200,485.0,97000.0,2026-04-13,186267580,459,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-13 14:53:01.837933,Kamana Sewa Bikas Bank Limited
+2026041303006235,KSBBL,5,59,80,484.4,38752.0,2026-04-13,186267582,459,Market Securities & Exchange (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-13 14:53:01.838215,Kamana Sewa Bikas Bank Limited
+2026041303006236,KSBBL,45,59,10,484.3,4843.0,2026-04-13,186267583,459,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-13 14:53:01.838386,Kamana Sewa Bikas Bank Limited
+2026041303006362,KSBBL,1,47,10,487.9,4879.0,2026-04-13,186270338,459,Kumari Securities Private Limited,Neev Securities Pvt. Ltd.,2026-04-13 14:54:51.037328,Kamana Sewa Bikas Bank Limited
+2026041303006477,KSBBL,58,40,38,487.9,18540.2,2026-04-13,186272426,459,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-13 14:56:09.754195,Kamana Sewa Bikas Bank Limited
+2026041303006615,KSBBL,57,14,350,485.1,169785.0,2026-04-13,186274224,459,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-13 14:57:01.628120,Kamana Sewa Bikas Bank Limited
+2026041303006616,KSBBL,58,14,18,485.0,8730.0,2026-04-13,186274225,459,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-13 14:57:01.628245,Kamana Sewa Bikas Bank Limited
+2026041303006914,KSBBL,59,44,1000,485.2,485200.0,2026-04-13,186279459,459,Deevyaa Securities & Stock House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-13 14:59:11.751034,Kamana Sewa Bikas Bank Limited
+2026041303007099,KSBBL,59,40,122,485.2,59194.4,2026-04-13,186282164,459,Deevyaa Securities & Stock House Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-13 14:59:44.029456,Kamana Sewa Bikas Bank Limited

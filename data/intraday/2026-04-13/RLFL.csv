@@ -1,0 +1,64 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041303000005,RLFL,58,42,20,467.0,9340.0,2026-04-13,186082473,587,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-13 10:46:00.045212,Reliance Finance Ltd.
+2026041303000099,RLFL,14,22,200,458.6,91720.0,2026-04-13,186092518,587,Nepal Stock House (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-13 11:08:50.279666,Reliance Finance Ltd.
+2026041303000478,RLFL,6,57,500,450.1,225050.0,2026-04-13,186111714,587,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-13 11:26:17.462014,Reliance Finance Ltd.
+2026041303000479,RLFL,66,57,500,450.1,225050.0,2026-04-13,186111716,587,Miyo Securities Pvt Ltd,Aryatara Investment & Securities,2026-04-13 11:26:17.462128,Reliance Finance Ltd.
+2026041303000480,RLFL,21,57,10,450.1,4501.0,2026-04-13,186111718,587,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-13 11:26:17.462201,Reliance Finance Ltd.
+2026041303000481,RLFL,25,57,460,450.0,207000.0,2026-04-13,186111720,587,Sweta Securities Private Limited,Aryatara Investment & Securities,2026-04-13 11:26:17.462266,Reliance Finance Ltd.
+2026041303000482,RLFL,7,57,500,449.9,224950.0,2026-04-13,186111722,587,J.F. Securites (PVT) Ltd.,Aryatara Investment & Securities,2026-04-13 11:26:17.462325,Reliance Finance Ltd.
+2026041303000483,RLFL,7,57,30,449.7,13491.0,2026-04-13,186111723,587,J.F. Securites (PVT) Ltd.,Aryatara Investment & Securities,2026-04-13 11:26:17.462384,Reliance Finance Ltd.
+2026041303000526,RLFL,57,10,10,457.9,4579.0,2026-04-13,186113508,587,Aryatara Investment & Securities,Pragyan Securities (PVT) Ltd.,2026-04-13 11:28:00.543525,Reliance Finance Ltd.
+2026041303000591,RLFL,57,48,10,449.5,4495.0,2026-04-13,186116086,587,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-13 11:30:59.899061,Reliance Finance Ltd.
+2026041303000592,RLFL,14,48,290,449.5,130355.0,2026-04-13,186116087,587,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-13 11:30:59.899188,Reliance Finance Ltd.
+2026041303000596,RLFL,36,22,200,455.9,91180.0,2026-04-13,186116392,587,Secured Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-13 11:31:17.070090,Reliance Finance Ltd.
+2026041303001136,RLFL,16,22,18,455.9,8206.2,2026-04-13,186135981,587,Primo Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-13 11:54:44.078495,Reliance Finance Ltd.
+2026041303001530,RLFL,36,6,215,455.5,97932.5,2026-04-13,186148774,587,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-13 12:11:07.045196,Reliance Finance Ltd.
+2026041303001574,RLFL,58,28,1,447.0,447.0,2026-04-13,186149643,587,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-13 12:12:20.197562,Reliance Finance Ltd.
+2026041303001581,RLFL,36,6,14,455.5,6377.0,2026-04-13,186149996,587,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-13 12:12:46.020927,Reliance Finance Ltd.
+2026041303001711,RLFL,42,37,31,455.0,14105.0,2026-04-13,186154106,587,Sani Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-13 12:18:19.366095,Reliance Finance Ltd.
+2026041303002115,RLFL,16,11,845,454.0,383630.0,2026-04-13,186163587,587,Primo Securities (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-13 12:31:30.179824,Reliance Finance Ltd.
+2026041303002137,RLFL,16,16,100,454.0,45400.0,2026-04-13,186164065,587,Primo Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 12:32:18.694636,Reliance Finance Ltd.
+2026041303002227,RLFL,16,16,55,454.0,24970.0,2026-04-13,186166236,587,Primo Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 12:35:33.613061,Reliance Finance Ltd.
+2026041303002228,RLFL,42,16,10,454.0,4540.0,2026-04-13,186166238,587,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 12:35:33.613167,Reliance Finance Ltd.
+2026041303002240,RLFL,34,16,10,454.0,4540.0,2026-04-13,186166422,587,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-13 12:35:59.002574,Reliance Finance Ltd.
+2026041303002246,RLFL,34,37,10,455.0,4550.0,2026-04-13,186166478,587,Vision Securities Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,2026-04-13 12:36:05.452198,Reliance Finance Ltd.
+2026041303002749,RLFL,42,26,50,450.0,22500.0,2026-04-13,186178974,587,Sani Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 12:53:23.010393,Reliance Finance Ltd.
+2026041303002750,RLFL,42,26,20,450.0,9000.0,2026-04-13,186178976,587,Sani Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 12:53:23.010549,Reliance Finance Ltd.
+2026041303002751,RLFL,14,26,126,448.8,56548.8,2026-04-13,186178977,587,Nepal Stock House (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-13 12:53:23.010705,Reliance Finance Ltd.
+2026041303002931,RLFL,57,38,10,453.0,4530.0,2026-04-13,186182901,587,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 12:58:52.663827,Reliance Finance Ltd.
+2026041303002932,RLFL,14,38,74,448.8,33211.2,2026-04-13,186182904,587,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 12:58:52.663955,Reliance Finance Ltd.
+2026041303002933,RLFL,42,38,20,448.8,8976.0,2026-04-13,186182906,587,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 12:58:52.664051,Reliance Finance Ltd.
+2026041303002934,RLFL,39,38,100,448.0,44800.0,2026-04-13,186182908,587,Sumeru Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 12:58:52.664117,Reliance Finance Ltd.
+2026041303002935,RLFL,42,38,96,448.0,43008.0,2026-04-13,186182910,587,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 12:58:52.664188,Reliance Finance Ltd.
+2026041303003390,RLFL,57,58,13,453.1,5890.3,2026-04-13,186194386,587,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-13 13:15:51.872008,Reliance Finance Ltd.
+2026041303003391,RLFL,29,58,17,450.0,7650.0,2026-04-13,186194387,587,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 13:15:51.872204,Reliance Finance Ltd.
+2026041303004010,RLFL,58,57,10,450.1,4501.0,2026-04-13,186211497,587,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-13 13:43:12.547740,Reliance Finance Ltd.
+2026041303004033,RLFL,64,45,100,454.0,45400.0,2026-04-13,186212194,587,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,2026-04-13 13:44:37.490714,Reliance Finance Ltd.
+2026041303004366,RLFL,36,39,200,452.0,90400.0,2026-04-13,186219489,587,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-13 13:57:49.152534,Reliance Finance Ltd.
+2026041303004771,RLFL,36,16,60,450.4,27024.0,2026-04-13,186231695,587,Secured Securities Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 14:17:30.963345,Reliance Finance Ltd.
+2026041303004777,RLFL,58,16,34,450.3,15310.2,2026-04-13,186232189,587,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 14:18:05.936478,Reliance Finance Ltd.
+2026041303004784,RLFL,41,16,102,450.2,45920.4,2026-04-13,186232439,587,Linch Stock Market Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 14:18:34.266833,Reliance Finance Ltd.
+2026041303004946,RLFL,58,16,61,450.1,27456.1,2026-04-13,186237898,587,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 14:24:55.649591,Reliance Finance Ltd.
+2026041303004947,RLFL,42,16,10,450.1,4501.0,2026-04-13,186237899,587,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-13 14:24:55.649793,Reliance Finance Ltd.
+2026041303005071,RLFL,13,99,35,450.1,15753.5,2026-04-13,186243201,587,Thrive Brokerage House Pvt. Ltd,Prabhu Stock Market Limited,2026-04-13 14:29:20.278308,Reliance Finance Ltd.
+2026041303005246,RLFL,13,35,15,450.1,6751.5,2026-04-13,186247084,587,Thrive Brokerage House Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:34:24.120823,Reliance Finance Ltd.
+2026041303005247,RLFL,42,35,20,450.1,9002.0,2026-04-13,186247086,587,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:34:24.120871,Reliance Finance Ltd.
+2026041303005248,RLFL,29,35,183,450.0,82350.0,2026-04-13,186247088,587,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:34:24.120902,Reliance Finance Ltd.
+2026041303005249,RLFL,21,35,141,450.0,63450.0,2026-04-13,186247090,587,Midas Stock Broking Company Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:34:24.120930,Reliance Finance Ltd.
+2026041303005250,RLFL,11,35,100,450.0,45000.0,2026-04-13,186247092,587,Malla & Malla Stock Broking Company Pvt. Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:34:24.120955,Reliance Finance Ltd.
+2026041303005251,RLFL,14,35,41,450.0,18450.0,2026-04-13,186247093,587,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:34:24.120974,Reliance Finance Ltd.
+2026041303005327,RLFL,45,7,300,452.0,135600.0,2026-04-13,186249058,587,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-13 14:36:33.229991,Reliance Finance Ltd.
+2026041303005474,RLFL,45,7,200,452.0,90400.0,2026-04-13,186252438,587,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-13 14:40:15.045099,Reliance Finance Ltd.
+2026041303006096,RLFL,34,42,200,450.1,90020.0,2026-04-13,186265234,587,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-13 14:51:20.687934,Reliance Finance Ltd.
+2026041303006097,RLFL,42,42,10,450.1,4501.0,2026-04-13,186265235,587,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-13 14:51:20.688151,Reliance Finance Ltd.
+2026041303006529,RLFL,57,42,11,452.0,4972.0,2026-04-13,186273198,587,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-13 14:56:29.510384,Reliance Finance Ltd.
+2026041303006530,RLFL,59,42,135,452.0,61020.0,2026-04-13,186273200,587,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-13 14:56:29.510600,Reliance Finance Ltd.
+2026041303006716,RLFL,34,42,451,452.0,203852.0,2026-04-13,186276029,587,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-13 14:57:58.691675,Reliance Finance Ltd.
+2026041303006717,RLFL,34,52,149,452.9,67482.1,2026-04-13,186276032,587,Vision Securities Pvt. Ltd,Sundhara Securities Limited,2026-04-13 14:57:58.691723,Reliance Finance Ltd.
+2026041303006743,RLFL,34,52,26,452.9,11775.4,2026-04-13,186276439,587,Vision Securities Pvt. Ltd,Sundhara Securities Limited,2026-04-13 14:58:08.736343,Reliance Finance Ltd.
+2026041303006744,RLFL,34,34,40,453.5,18140.0,2026-04-13,186276443,587,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-13 14:58:08.736462,Reliance Finance Ltd.
+2026041303006745,RLFL,34,10,134,453.9,60822.6,2026-04-13,186276448,587,Vision Securities Pvt. Ltd,Pragyan Securities (PVT) Ltd.,2026-04-13 14:58:08.736540,Reliance Finance Ltd.
+2026041303006763,RLFL,34,10,36,453.9,16340.4,2026-04-13,186276933,587,Vision Securities Pvt. Ltd,Pragyan Securities (PVT) Ltd.,2026-04-13 14:58:18.605473,Reliance Finance Ltd.
+2026041303006764,RLFL,34,19,19,454.0,8626.0,2026-04-13,186276935,587,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-13 14:58:18.605515,Reliance Finance Ltd.
+2026041303006897,RLFL,16,37,959,455.0,436345.0,2026-04-13,186279023,587,Primo Securities (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-13 14:59:01.166500,Reliance Finance Ltd.
+2026041303007066,RLFL,57,6,10,455.5,4555.0,2026-04-13,186281300,587,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-13 14:59:34.398965,Reliance Finance Ltd.

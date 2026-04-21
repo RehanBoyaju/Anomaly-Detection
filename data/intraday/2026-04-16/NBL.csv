@@ -1,0 +1,368 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041601000097,NBL,34,57,100,285.0,28500.0,2026-04-16,186531933,517,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 11:00:42.303295,Nepal Bank Limited
+2026041601000328,NBL,34,21,30,285.0,8550.0,2026-04-16,186532931,517,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 11:01:44.912822,Nepal Bank Limited
+2026041601001242,NBL,56,49,150,284.9,42735.0,2026-04-16,186536212,517,Sri Hari Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:04:59.128942,Nepal Bank Limited
+2026041601001995,NBL,58,38,21,284.5,5974.5,2026-04-16,186538908,517,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:07:27.562825,Nepal Bank Limited
+2026041601002330,NBL,34,38,150,284.0,42600.0,2026-04-16,186540040,517,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:08:24.139626,Nepal Bank Limited
+2026041601002740,NBL,47,34,1000,281.2,281200.0,2026-04-16,186541908,517,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:09:45.600308,Nepal Bank Limited
+2026041601002741,NBL,58,34,955,281.1,268450.5,2026-04-16,186541910,517,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:09:45.600520,Nepal Bank Limited
+2026041601002742,NBL,65,34,45,281.0,12645.0,2026-04-16,186541911,517,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 11:09:45.600661,Nepal Bank Limited
+2026041601003263,NBL,8,62,100,281.2,28120.0,2026-04-16,186543688,517,Brilliant Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 11:11:01.558324,Nepal Bank Limited
+2026041601003355,NBL,59,62,150,281.2,42180.0,2026-04-16,186544006,517,Deevyaa Securities & Stock House Pvt. Ltd,Capital Max Securities Ltd,2026-04-16 11:11:17.083989,Nepal Bank Limited
+2026041601003523,NBL,48,62,100,281.2,28120.0,2026-04-16,186544532,517,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-16 11:11:37.567009,Nepal Bank Limited
+2026041601003584,NBL,47,38,3000,281.1,843300.0,2026-04-16,186544789,517,Neev Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:11:52.747761,Nepal Bank Limited
+2026041601003596,NBL,5,62,40,281.2,11248.0,2026-04-16,186544847,517,Market Securities & Exchange (PVT) Ltd.,Capital Max Securities Ltd,2026-04-16 11:11:56.914388,Nepal Bank Limited
+2026041601003597,NBL,5,11,500,281.2,140600.0,2026-04-16,186544850,517,Market Securities & Exchange (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 11:11:56.914498,Nepal Bank Limited
+2026041601003768,NBL,65,38,29,281.0,8149.0,2026-04-16,186545383,517,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:12:17.774588,Nepal Bank Limited
+2026041601004204,NBL,5,57,100,281.2,28120.0,2026-04-16,186546833,517,Market Securities & Exchange (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 11:13:28.167343,Nepal Bank Limited
+2026041601004296,NBL,5,51,360,281.2,101232.0,2026-04-16,186547082,517,Market Securities & Exchange (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 11:13:40.923374,Nepal Bank Limited
+2026041601004297,NBL,47,51,695,281.2,195434.0,2026-04-16,186547083,517,Neev Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 11:13:40.923619,Nepal Bank Limited
+2026041601004469,NBL,57,16,200,282.7,56540.0,2026-04-16,186547697,517,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-16 11:14:11.454958,Nepal Bank Limited
+2026041601004470,NBL,57,58,60,283.0,16980.0,2026-04-16,186547699,517,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 11:14:11.455098,Nepal Bank Limited
+2026041601004471,NBL,57,37,100,283.0,28300.0,2026-04-16,186547701,517,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-16 11:14:11.455162,Nepal Bank Limited
+2026041601004472,NBL,57,49,100,283.5,28350.0,2026-04-16,186547703,517,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-16 11:14:11.455221,Nepal Bank Limited
+2026041601004473,NBL,57,57,110,283.8,31218.0,2026-04-16,186547705,517,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-16 11:14:11.455277,Nepal Bank Limited
+2026041601004474,NBL,57,49,930,283.9,264027.0,2026-04-16,186547708,517,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-16 11:14:11.455333,Nepal Bank Limited
+2026041601004594,NBL,58,49,10,283.9,2839.0,2026-04-16,186548166,517,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:14:33.990048,Nepal Bank Limited
+2026041601004826,NBL,25,22,15,282.0,4230.0,2026-04-16,186549021,517,Sweta Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 11:15:25.439464,Nepal Bank Limited
+2026041601004897,NBL,34,39,200,283.0,56600.0,2026-04-16,186549263,517,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 11:15:35.925591,Nepal Bank Limited
+2026041601004898,NBL,34,4,370,283.6,104932.0,2026-04-16,186549265,517,Vision Securities Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-16 11:15:35.925714,Nepal Bank Limited
+2026041601004899,NBL,34,57,100,283.8,28380.0,2026-04-16,186549267,517,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 11:15:35.925775,Nepal Bank Limited
+2026041601004900,NBL,34,49,110,283.9,31229.0,2026-04-16,186549269,517,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-16 11:15:35.925850,Nepal Bank Limited
+2026041601004901,NBL,34,38,720,283.9,204408.0,2026-04-16,186549272,517,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:15:35.925902,Nepal Bank Limited
+2026041601005541,NBL,57,1,1500,283.0,424500.0,2026-04-16,186551646,517,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-16 11:17:48.888568,Nepal Bank Limited
+2026041601005808,NBL,57,1,1000,283.0,283000.0,2026-04-16,186552690,517,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-16 11:18:54.877494,Nepal Bank Limited
+2026041601005811,NBL,25,38,20,282.0,5640.0,2026-04-16,186552695,517,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:18:55.479159,Nepal Bank Limited
+2026041601006400,NBL,43,56,500,282.5,141250.0,2026-04-16,186554956,517,South Asian Bulls Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 11:21:31.098427,Nepal Bank Limited
+2026041601006782,NBL,57,49,250,282.9,70725.0,2026-04-16,186556563,517,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-16 11:23:13.409878,Nepal Bank Limited
+2026041601006783,NBL,57,1,50,283.0,14150.0,2026-04-16,186556565,517,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-16 11:23:13.410038,Nepal Bank Limited
+2026041601006784,NBL,57,42,60,283.0,16980.0,2026-04-16,186556567,517,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-16 11:23:13.410119,Nepal Bank Limited
+2026041601006785,NBL,57,34,100,283.0,28300.0,2026-04-16,186556569,517,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 11:23:13.410184,Nepal Bank Limited
+2026041601006786,NBL,57,21,333,283.0,94239.0,2026-04-16,186556571,517,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-16 11:23:13.410247,Nepal Bank Limited
+2026041601006787,NBL,57,46,407,283.0,115181.0,2026-04-16,186556574,517,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-16 11:23:13.410308,Nepal Bank Limited
+2026041601006828,NBL,62,58,350,282.3,98805.0,2026-04-16,186556743,517,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-16 11:23:28.751118,Nepal Bank Limited
+2026041601006886,NBL,62,84,20,282.3,5646.0,2026-04-16,186556999,517,Capital Max Securities Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-16 11:23:45.758225,Nepal Bank Limited
+2026041601006887,NBL,57,46,100,283.0,28300.0,2026-04-16,186557002,517,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-16 11:23:46.072168,Nepal Bank Limited
+2026041601006932,NBL,62,51,100,282.3,28230.0,2026-04-16,186557197,517,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-16 11:23:56.504174,Nepal Bank Limited
+2026041601007367,NBL,62,40,100,282.3,28230.0,2026-04-16,186559013,517,Capital Max Securities Ltd,Creative Securities Pvt Ltd,2026-04-16 11:25:36.774149,Nepal Bank Limited
+2026041601007406,NBL,62,62,1500,282.3,423450.0,2026-04-16,186559155,517,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-16 11:25:46.175847,Nepal Bank Limited
+2026041601007502,NBL,62,84,30,282.3,8469.0,2026-04-16,186559616,517,Capital Max Securities Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-16 11:26:14.263958,Nepal Bank Limited
+2026041601007503,NBL,100,84,1970,282.1,555737.0,2026-04-16,186559617,517,Sunrise Securities Limited,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-16 11:26:14.264175,Nepal Bank Limited
+2026041601007786,NBL,100,64,30,282.1,8463.0,2026-04-16,186560750,517,Sunrise Securities Limited,SUN SECURITIES PVT LTD,2026-04-16 11:27:28.974786,Nepal Bank Limited
+2026041601007787,NBL,17,64,500,282.0,141000.0,2026-04-16,186560752,517,ABC Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-16 11:27:28.975111,Nepal Bank Limited
+2026041601007788,NBL,58,64,150,282.0,42300.0,2026-04-16,186560754,517,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-16 11:27:28.975322,Nepal Bank Limited
+2026041601007789,NBL,77,64,20,282.0,5640.0,2026-04-16,186560756,517,Nabil Stock Dealer Ltd.,SUN SECURITIES PVT LTD,2026-04-16 11:27:28.975527,Nepal Bank Limited
+2026041601007935,NBL,62,64,530,282.0,149460.0,2026-04-16,186561314,517,Capital Max Securities Ltd,SUN SECURITIES PVT LTD,2026-04-16 11:28:13.621210,Nepal Bank Limited
+2026041601007990,NBL,47,84,2305,281.9,649779.5,2026-04-16,186561552,517,Neev Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-16 11:28:28.549240,Nepal Bank Limited
+2026041601007991,NBL,49,84,13,281.8,3663.4,2026-04-16,186561554,517,Online Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-16 11:28:28.549399,Nepal Bank Limited
+2026041601007992,NBL,65,84,682,281.7,192119.4,2026-04-16,186561555,517,Sharepro Securities Private Limited,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-16 11:28:28.549471,Nepal Bank Limited
+2026041601008397,NBL,47,22,100,281.5,28150.0,2026-04-16,186563482,517,Neev Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:30:26.090606,Nepal Bank Limited
+2026041601008644,NBL,35,22,75,281.5,21112.5,2026-04-16,186564405,517,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:31:09.374626,Nepal Bank Limited
+2026041601009034,NBL,25,58,30,281.5,8445.0,2026-04-16,186566274,517,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 11:32:48.364528,Nepal Bank Limited
+2026041601009604,NBL,53,1,80,281.1,22488.0,2026-04-16,186568726,517,Investment Management Nepal Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:34:43.015762,Nepal Bank Limited
+2026041601009605,NBL,58,1,100,281.0,28100.0,2026-04-16,186568728,517,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-16 11:34:43.016080,Nepal Bank Limited
+2026041601009606,NBL,35,1,125,281.0,35125.0,2026-04-16,186568730,517,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:34:43.016330,Nepal Bank Limited
+2026041601010332,NBL,46,1,16,281.0,4496.0,2026-04-16,186571978,517,Kalika Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:37:56.833961,Nepal Bank Limited
+2026041601010350,NBL,5,1,179,281.0,50299.0,2026-04-16,186572067,517,Market Securities & Exchange (PVT) Ltd.,Kumari Securities Private Limited,2026-04-16 11:38:01.769991,Nepal Bank Limited
+2026041601010351,NBL,5,66,25,281.0,7025.0,2026-04-16,186572069,517,Market Securities & Exchange (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-16 11:38:01.770212,Nepal Bank Limited
+2026041601010352,NBL,5,58,96,281.0,26976.0,2026-04-16,186572072,517,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:38:01.770291,Nepal Bank Limited
+2026041601010437,NBL,45,34,500,280.8,140400.0,2026-04-16,186572423,517,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:38:19.079696,Nepal Bank Limited
+2026041601010530,NBL,5,58,28,281.0,7868.0,2026-04-16,186572741,517,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:38:34.576117,Nepal Bank Limited
+2026041601010531,NBL,5,4,272,281.0,76432.0,2026-04-16,186572744,517,Market Securities & Exchange (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 11:38:34.576292,Nepal Bank Limited
+2026041601010630,NBL,59,39,1000,280.7,280700.0,2026-04-16,186573096,517,Deevyaa Securities & Stock House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:58.902185,Nepal Bank Limited
+2026041601010631,NBL,65,39,1000,280.7,280700.0,2026-04-16,186573098,517,Sharepro Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:58.902285,Nepal Bank Limited
+2026041601010632,NBL,65,39,5000,280.6,1403000.0,2026-04-16,186573100,517,Sharepro Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:58.902358,Nepal Bank Limited
+2026041601010633,NBL,6,39,100,280.6,28060.0,2026-04-16,186573102,517,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:58.902416,Nepal Bank Limited
+2026041601010634,NBL,45,39,1000,280.6,280600.0,2026-04-16,186573104,517,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:58.902501,Nepal Bank Limited
+2026041601010635,NBL,5,39,1000,280.5,280500.0,2026-04-16,186573106,517,Market Securities & Exchange (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:58.902575,Nepal Bank Limited
+2026041601010636,NBL,65,39,2900,280.5,813450.0,2026-04-16,186573107,517,Sharepro Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:58.902647,Nepal Bank Limited
+2026041601010664,NBL,64,4,10,281.0,2810.0,2026-04-16,186573206,517,SUN SECURITIES PVT LTD,Opal Securities Investment (PVT) Ltd.,2026-04-16 11:39:06.008631,Nepal Bank Limited
+2026041601010695,NBL,74,39,500,280.8,140400.0,2026-04-16,186573384,517,KALASH STOCK MARKET PVT. LTD.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:39:18.648937,Nepal Bank Limited
+2026041601010696,NBL,65,39,1344,280.5,376992.0,2026-04-16,186573386,517,Sharepro Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:39:18.648989,Nepal Bank Limited
+2026041601010697,NBL,49,39,13,280.4,3645.2,2026-04-16,186573388,517,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:39:18.649015,Nepal Bank Limited
+2026041601010698,NBL,38,39,200,280.3,56060.0,2026-04-16,186573390,517,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:39:18.649044,Nepal Bank Limited
+2026041601010699,NBL,65,39,5000,280.3,1401500.0,2026-04-16,186573392,517,Sharepro Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:39:18.649068,Nepal Bank Limited
+2026041601010700,NBL,58,39,100,280.1,28010.0,2026-04-16,186573394,517,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:39:18.649112,Nepal Bank Limited
+2026041601010701,NBL,65,39,4843,280.1,1356524.3,2026-04-16,186573395,517,Sharepro Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:39:18.649148,Nepal Bank Limited
+2026041601010883,NBL,65,57,57,280.1,15965.7,2026-04-16,186574168,517,Sharepro Securities Private Limited,Aryatara Investment & Securities,2026-04-16 11:40:03.094297,Nepal Bank Limited
+2026041601010884,NBL,5,57,400,280.1,112040.0,2026-04-16,186574170,517,Market Securities & Exchange (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 11:40:03.094406,Nepal Bank Limited
+2026041601010885,NBL,48,57,543,280.0,152040.0,2026-04-16,186574171,517,Trishakti Securities Public Limited,Aryatara Investment & Securities,2026-04-16 11:40:03.094481,Nepal Bank Limited
+2026041601010917,NBL,48,42,457,280.0,127960.0,2026-04-16,186574314,517,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-16 11:40:13.778364,Nepal Bank Limited
+2026041601010918,NBL,45,42,50,280.0,14000.0,2026-04-16,186574316,517,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:40:13.778671,Nepal Bank Limited
+2026041601010919,NBL,18,42,173,280.0,48440.0,2026-04-16,186574317,517,Sagarmatha Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 11:40:13.778875,Nepal Bank Limited
+2026041601011088,NBL,5,7,500,280.1,140050.0,2026-04-16,186574953,517,Market Securities & Exchange (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 11:40:51.191959,Nepal Bank Limited
+2026041601011799,NBL,45,42,400,280.1,112040.0,2026-04-16,186577561,517,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:42:58.590749,Nepal Bank Limited
+2026041601011883,NBL,45,62,100,280.1,28010.0,2026-04-16,186577956,517,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 11:43:19.610430,Nepal Bank Limited
+2026041601011884,NBL,18,62,327,280.0,91560.0,2026-04-16,186577958,517,Sagarmatha Securities Private Limited,Capital Max Securities Ltd,2026-04-16 11:43:19.610599,Nepal Bank Limited
+2026041601011885,NBL,45,62,35,280.0,9800.0,2026-04-16,186577960,517,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 11:43:19.610670,Nepal Bank Limited
+2026041601011886,NBL,58,62,100,280.0,28000.0,2026-04-16,186577962,517,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-16 11:43:19.610739,Nepal Bank Limited
+2026041601011887,NBL,51,62,438,280.0,122640.0,2026-04-16,186577963,517,Oxford Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 11:43:19.610806,Nepal Bank Limited
+2026041601011902,NBL,51,21,562,280.0,157360.0,2026-04-16,186578000,517,Oxford Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:43:22.787506,Nepal Bank Limited
+2026041601011903,NBL,14,21,33,280.0,9240.0,2026-04-16,186578002,517,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:43:22.787669,Nepal Bank Limited
+2026041601011904,NBL,44,21,10,280.0,2800.0,2026-04-16,186578004,517,Dynamic Money Managers Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:43:22.787738,Nepal Bank Limited
+2026041601011905,NBL,65,21,38,280.0,10640.0,2026-04-16,186578005,517,Sharepro Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 11:43:22.787809,Nepal Bank Limited
+2026041601011907,NBL,65,6,20,280.0,5600.0,2026-04-16,186578027,517,Sharepro Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-16 11:43:23.798695,Nepal Bank Limited
+2026041601012413,NBL,49,14,18,280.2,5043.6,2026-04-16,186579939,517,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:45:21.820306,Nepal Bank Limited
+2026041601012506,NBL,34,39,100,280.1,28010.0,2026-04-16,186580378,517,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 11:45:58.828084,Nepal Bank Limited
+2026041601012507,NBL,34,39,500,280.1,140050.0,2026-04-16,186580380,517,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 11:45:58.828496,Nepal Bank Limited
+2026041601012508,NBL,65,39,2107,280.0,589960.0,2026-04-16,186580381,517,Sharepro Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:45:58.828770,Nepal Bank Limited
+2026041601012764,NBL,49,58,19,280.1,5321.9,2026-04-16,186581393,517,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:46:56.795282,Nepal Bank Limited
+2026041601013154,NBL,62,4,18,281.0,5058.0,2026-04-16,186582785,517,Capital Max Securities Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-16 11:48:41.821969,Nepal Bank Limited
+2026041601013155,NBL,62,58,92,281.0,25852.0,2026-04-16,186582788,517,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-16 11:48:41.822312,Nepal Bank Limited
+2026041601013478,NBL,49,14,99,280.1,27729.9,2026-04-16,186584013,517,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:50:12.559557,Nepal Bank Limited
+2026041601013547,NBL,36,58,100,281.0,28100.0,2026-04-16,186584320,517,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:50:35.861379,Nepal Bank Limited
+2026041601014250,NBL,58,49,35,281.0,9835.0,2026-04-16,186586908,517,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:52:55.120169,Nepal Bank Limited
+2026041601014422,NBL,34,36,50,281.4,14070.0,2026-04-16,186587609,517,Vision Securities Pvt. Ltd,Secured Securities Ltd.,2026-04-16 11:53:39.475204,Nepal Bank Limited
+2026041601014423,NBL,34,58,50,281.5,14075.0,2026-04-16,186587612,517,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 11:53:39.475371,Nepal Bank Limited
+2026041601014636,NBL,58,49,12,281.0,3372.0,2026-04-16,186588646,517,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:54:52.195599,Nepal Bank Limited
+2026041601014637,NBL,16,49,53,280.8,14882.4,2026-04-16,186588647,517,Primo Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:54:52.195782,Nepal Bank Limited
+2026041601014826,NBL,33,58,11,281.5,3096.5,2026-04-16,186589487,517,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:55:52.312774,Nepal Bank Limited
+2026041601014827,NBL,33,64,270,282.0,76140.0,2026-04-16,186589489,517,Dakshinkali Investment & Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-16 11:55:52.313192,Nepal Bank Limited
+2026041601014828,NBL,33,35,232,282.0,65424.0,2026-04-16,186589491,517,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:55:52.313417,Nepal Bank Limited
+2026041601014829,NBL,33,13,190,282.0,53580.0,2026-04-16,186589493,517,Dakshinkali Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:55:52.313631,Nepal Bank Limited
+2026041601014830,NBL,33,41,100,282.0,28200.0,2026-04-16,186589495,517,Dakshinkali Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 11:55:52.313844,Nepal Bank Limited
+2026041601014831,NBL,33,49,27,282.0,7614.0,2026-04-16,186589498,517,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:55:52.314062,Nepal Bank Limited
+2026041601014906,NBL,49,49,23,282.0,6486.0,2026-04-16,186589863,517,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:56:19.884535,Nepal Bank Limited
+2026041601014907,NBL,49,25,50,282.9,14145.0,2026-04-16,186589865,517,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 11:56:19.884875,Nepal Bank Limited
+2026041601014908,NBL,49,46,1286,283.0,363938.0,2026-04-16,186589867,517,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 11:56:19.885113,Nepal Bank Limited
+2026041601014909,NBL,49,4,400,283.0,113200.0,2026-04-16,186589869,517,Online Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 11:56:19.885336,Nepal Bank Limited
+2026041601014910,NBL,49,21,116,283.0,32828.0,2026-04-16,186589871,517,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:56:19.885547,Nepal Bank Limited
+2026041601014911,NBL,49,51,250,283.0,70750.0,2026-04-16,186589873,517,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 11:56:19.885757,Nepal Bank Limited
+2026041601014912,NBL,49,38,100,283.0,28300.0,2026-04-16,186589875,517,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:56:19.885967,Nepal Bank Limited
+2026041601014913,NBL,49,57,700,283.5,198450.0,2026-04-16,186589877,517,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 11:56:19.886191,Nepal Bank Limited
+2026041601014914,NBL,49,25,75,283.7,21277.5,2026-04-16,186589880,517,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 11:56:19.886396,Nepal Bank Limited
+2026041601015049,NBL,33,58,10,281.1,2811.0,2026-04-16,186590491,517,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:57:03.939621,Nepal Bank Limited
+2026041601016089,NBL,58,13,35,283.0,9905.0,2026-04-16,186594654,517,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 12:02:00.543076,Nepal Bank Limited
+2026041601016760,NBL,42,38,10,282.0,2820.0,2026-04-16,186597698,517,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:06:25.483308,Nepal Bank Limited
+2026041601016761,NBL,49,38,50,281.9,14095.0,2026-04-16,186597700,517,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:06:25.483511,Nepal Bank Limited
+2026041601016762,NBL,58,38,15,281.5,4222.5,2026-04-16,186597702,517,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:06:25.483615,Nepal Bank Limited
+2026041601016763,NBL,33,38,319,281.1,89670.9,2026-04-16,186597703,517,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:06:25.483687,Nepal Bank Limited
+2026041601016804,NBL,33,43,147,281.1,41321.7,2026-04-16,186597913,517,Dakshinkali Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 12:06:43.119158,Nepal Bank Limited
+2026041601016814,NBL,33,47,229,281.1,64371.9,2026-04-16,186597985,517,Dakshinkali Investment & Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 12:06:46.748309,Nepal Bank Limited
+2026041601017046,NBL,33,43,252,281.1,70837.2,2026-04-16,186599267,517,Dakshinkali Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 12:08:09.917709,Nepal Bank Limited
+2026041601017229,NBL,45,4,10,282.0,2820.0,2026-04-16,186600274,517,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 12:09:14.493020,Nepal Bank Limited
+2026041601017245,NBL,33,52,300,281.1,84330.0,2026-04-16,186600363,517,Dakshinkali Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-16 12:09:22.879222,Nepal Bank Limited
+2026041601018315,NBL,21,13,10,283.0,2830.0,2026-04-16,186605192,517,Midas Stock Broking Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 12:15:48.003380,Nepal Bank Limited
+2026041601018434,NBL,18,56,100,282.0,28200.0,2026-04-16,186605625,517,Sagarmatha Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-16 12:16:32.116593,Nepal Bank Limited
+2026041601018528,NBL,36,14,16,281.2,4499.2,2026-04-16,186606001,517,Secured Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 12:17:08.099501,Nepal Bank Limited
+2026041601018687,NBL,33,42,40,281.1,11244.0,2026-04-16,186606623,517,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:17:54.868838,Nepal Bank Limited
+2026041601019509,NBL,33,58,203,281.1,57063.3,2026-04-16,186609658,517,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:22:06.088557,Nepal Bank Limited
+2026041601019510,NBL,13,58,50,281.1,14055.0,2026-04-16,186609660,517,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 12:22:06.088937,Nepal Bank Limited
+2026041601020155,NBL,40,58,147,281.0,41307.0,2026-04-16,186612299,517,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-16 12:25:14.047482,Nepal Bank Limited
+2026041601020281,NBL,40,25,53,281.0,14893.0,2026-04-16,186612944,517,Creative Securities Pvt Ltd,Sweta Securities Private Limited,2026-04-16 12:25:59.119891,Nepal Bank Limited
+2026041601020936,NBL,22,25,101,280.7,28350.7,2026-04-16,186615763,517,Siprabi Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 12:29:55.636127,Nepal Bank Limited
+2026041601021668,NBL,22,32,78,280.7,21894.6,2026-04-16,186618598,517,Siprabi Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:34:05.765905,Nepal Bank Limited
+2026041601021723,NBL,44,32,72,280.7,20210.4,2026-04-16,186619010,517,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:34:39.280393,Nepal Bank Limited
+2026041601022051,NBL,49,45,13,280.5,3646.5,2026-04-16,186620348,517,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:36:33.045732,Nepal Bank Limited
+2026041601022052,NBL,44,45,87,280.5,24403.5,2026-04-16,186620349,517,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:36:33.046208,Nepal Bank Limited
+2026041601023451,NBL,33,39,100,281.7,28170.0,2026-04-16,186625766,517,Dakshinkali Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:44:58.994621,Nepal Bank Limited
+2026041601023452,NBL,16,39,47,280.6,13188.2,2026-04-16,186625767,517,Primo Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:44:58.994715,Nepal Bank Limited
+2026041601025508,NBL,33,45,100,280.8,28080.0,2026-04-16,186633049,517,Dakshinkali Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:55:45.305620,Nepal Bank Limited
+2026041601025807,NBL,33,58,1000,280.8,280800.0,2026-04-16,186634243,517,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:58:02.779771,Nepal Bank Limited
+2026041601025839,NBL,44,20,177,281.0,49737.0,2026-04-16,186634418,517,Dynamic Money Managers Securities Pvt. Ltd.,Sipla Securities Private Limited,2026-04-16 12:58:25.051049,Nepal Bank Limited
+2026041601026139,NBL,52,57,50,280.8,14040.0,2026-04-16,186635719,517,Sundhara Securities Limited,Aryatara Investment & Securities,2026-04-16 13:00:38.496980,Nepal Bank Limited
+2026041601026239,NBL,16,48,80,280.6,22448.0,2026-04-16,186636139,517,Primo Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-16 13:01:21.368624,Nepal Bank Limited
+2026041601026241,NBL,16,14,320,280.6,89792.0,2026-04-16,186636144,517,Primo Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:01:22.233390,Nepal Bank Limited
+2026041601026242,NBL,22,14,10,280.6,2806.0,2026-04-16,186636146,517,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:01:22.233824,Nepal Bank Limited
+2026041601026243,NBL,44,14,13,280.5,3646.5,2026-04-16,186636148,517,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:01:22.234155,Nepal Bank Limited
+2026041601026244,NBL,33,14,657,280.5,184288.5,2026-04-16,186636149,517,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:01:22.234486,Nepal Bank Limited
+2026041601026351,NBL,16,56,150,280.7,42105.0,2026-04-16,186636562,517,Primo Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 13:02:01.336220,Nepal Bank Limited
+2026041601026352,NBL,33,56,673,280.6,188843.8,2026-04-16,186636563,517,Dakshinkali Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 13:02:01.336651,Nepal Bank Limited
+2026041601026613,NBL,33,36,50,280.6,14030.0,2026-04-16,186637679,517,Dakshinkali Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-16 13:03:44.223811,Nepal Bank Limited
+2026041601026704,NBL,33,25,200,280.6,56120.0,2026-04-16,186638123,517,Dakshinkali Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 13:04:36.833328,Nepal Bank Limited
+2026041601027035,NBL,33,25,77,280.6,21606.2,2026-04-16,186639548,517,Dakshinkali Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 13:06:33.495397,Nepal Bank Limited
+2026041601027036,NBL,44,25,100,280.6,28060.0,2026-04-16,186639550,517,Dynamic Money Managers Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 13:06:33.495625,Nepal Bank Limited
+2026041601027037,NBL,33,25,23,280.5,6451.5,2026-04-16,186639551,517,Dakshinkali Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 13:06:33.495746,Nepal Bank Limited
+2026041601027198,NBL,65,45,1000,281.0,281000.0,2026-04-16,186640798,517,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:07:40.241172,Nepal Bank Limited
+2026041601027693,NBL,44,38,200,280.6,56120.0,2026-04-16,186643222,517,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:10:09.514013,Nepal Bank Limited
+2026041601027694,NBL,33,38,820,280.5,230010.0,2026-04-16,186643224,517,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:10:09.514288,Nepal Bank Limited
+2026041601027695,NBL,40,38,200,280.5,56100.0,2026-04-16,186643226,517,Creative Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:10:09.514400,Nepal Bank Limited
+2026041601027696,NBL,47,38,60,280.5,16830.0,2026-04-16,186643227,517,Neev Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:10:09.514495,Nepal Bank Limited
+2026041601027959,NBL,47,58,10,280.5,2805.0,2026-04-16,186644694,517,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:11:27.375352,Nepal Bank Limited
+2026041601027960,NBL,58,58,20,280.5,5610.0,2026-04-16,186644696,517,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:11:27.375743,Nepal Bank Limited
+2026041601027961,NBL,56,58,11,280.5,3085.5,2026-04-16,186644697,517,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:11:27.376044,Nepal Bank Limited
+2026041601028055,NBL,56,58,14,280.5,3927.0,2026-04-16,186645222,517,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:11:48.494397,Nepal Bank Limited
+2026041601028056,NBL,32,58,86,280.4,24114.4,2026-04-16,186645223,517,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:11:48.494833,Nepal Bank Limited
+2026041601028298,NBL,33,74,1000,280.5,280500.0,2026-04-16,186646830,517,Dakshinkali Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:13:15.450316,Nepal Bank Limited
+2026041601028299,NBL,32,74,700,280.4,196280.0,2026-04-16,186646831,517,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:13:15.450413,Nepal Bank Limited
+2026041601028397,NBL,32,42,500,280.4,140200.0,2026-04-16,186647413,517,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 13:13:47.516149,Nepal Bank Limited
+2026041601028436,NBL,32,34,214,280.4,60005.6,2026-04-16,186647686,517,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:13:59.012823,Nepal Bank Limited
+2026041601028484,NBL,16,45,250,280.2,70050.0,2026-04-16,186647983,517,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:14:17.265457,Nepal Bank Limited
+2026041601028559,NBL,16,50,250,280.2,70050.0,2026-04-16,186648486,517,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 13:14:43.924782,Nepal Bank Limited
+2026041601028560,NBL,65,50,750,280.2,210150.0,2026-04-16,186648487,517,Sharepro Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 13:14:43.925019,Nepal Bank Limited
+2026041601028580,NBL,65,13,300,280.2,84060.0,2026-04-16,186648603,517,Sharepro Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 13:14:50.261459,Nepal Bank Limited
+2026041601028614,NBL,65,29,1000,280.2,280200.0,2026-04-16,186648885,517,Sharepro Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-16 13:15:01.345908,Nepal Bank Limited
+2026041601028635,NBL,65,34,500,280.2,140100.0,2026-04-16,186649047,517,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 13:15:12.265293,Nepal Bank Limited
+2026041601028666,NBL,65,50,2000,280.2,560400.0,2026-04-16,186649369,517,Sharepro Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 13:15:22.589951,Nepal Bank Limited
+2026041601028675,NBL,65,14,1000,280.2,280200.0,2026-04-16,186649427,517,Sharepro Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-16 13:15:26.059506,Nepal Bank Limited
+2026041601028687,NBL,65,29,1000,280.2,280200.0,2026-04-16,186649521,517,Sharepro Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-16 13:15:31.230777,Nepal Bank Limited
+2026041601028808,NBL,58,59,10,280.4,2804.0,2026-04-16,186650420,517,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:16:18.523071,Nepal Bank Limited
+2026041601028898,NBL,65,25,1285,280.2,360057.0,2026-04-16,186650992,517,Sharepro Securities Private Limited,Sweta Securities Private Limited,2026-04-16 13:16:48.370976,Nepal Bank Limited
+2026041601028899,NBL,51,25,1000,280.1,280100.0,2026-04-16,186650994,517,Oxford Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 13:16:48.371424,Nepal Bank Limited
+2026041601028900,NBL,1,25,96,280.0,26880.0,2026-04-16,186650996,517,Kumari Securities Private Limited,Sweta Securities Private Limited,2026-04-16 13:16:48.371714,Nepal Bank Limited
+2026041601028901,NBL,45,25,100,280.0,28000.0,2026-04-16,186650998,517,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 13:16:48.371992,Nepal Bank Limited
+2026041601028902,NBL,38,25,100,280.0,28000.0,2026-04-16,186651000,517,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-16 13:16:48.372265,Nepal Bank Limited
+2026041601028903,NBL,45,25,3000,280.0,840000.0,2026-04-16,186651002,517,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 13:16:48.372547,Nepal Bank Limited
+2026041601029099,NBL,59,5,250,279.8,69950.0,2026-04-16,186652269,517,Deevyaa Securities & Stock House Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:17:52.059584,Nepal Bank Limited
+2026041601029371,NBL,59,59,18,279.8,5036.4,2026-04-16,186654012,517,Deevyaa Securities & Stock House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:19:02.176601,Nepal Bank Limited
+2026041601029372,NBL,57,59,72,279.5,20124.0,2026-04-16,186654013,517,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:19:02.176806,Nepal Bank Limited
+2026041601029467,NBL,57,48,500,279.5,139750.0,2026-04-16,186654533,517,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-16 13:19:32.368836,Nepal Bank Limited
+2026041601029710,NBL,33,57,100,279.6,27960.0,2026-04-16,186656571,517,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 13:21:05.813038,Nepal Bank Limited
+2026041601029903,NBL,33,29,20,279.6,5592.0,2026-04-16,186657697,517,Dakshinkali Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 13:21:54.019708,Nepal Bank Limited
+2026041601030070,NBL,33,17,880,279.6,246048.0,2026-04-16,186658730,517,Dakshinkali Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 13:22:44.255161,Nepal Bank Limited
+2026041601030119,NBL,57,13,377,279.5,105371.5,2026-04-16,186659025,517,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,2026-04-16 13:23:02.238055,Nepal Bank Limited
+2026041601030335,NBL,65,17,1920,279.6,536832.0,2026-04-16,186660174,517,Sharepro Securities Private Limited,ABC Securities Private Limited,2026-04-16 13:24:05.164356,Nepal Bank Limited
+2026041601031427,NBL,57,10,51,279.5,14254.5,2026-04-16,186665798,517,Aryatara Investment & Securities,Pragyan Securities (PVT) Ltd.,2026-04-16 13:30:17.242450,Nepal Bank Limited
+2026041601031428,NBL,64,10,20,279.5,5590.0,2026-04-16,186665800,517,SUN SECURITIES PVT LTD,Pragyan Securities (PVT) Ltd.,2026-04-16 13:30:17.242663,Nepal Bank Limited
+2026041601031429,NBL,58,10,99,279.5,27670.5,2026-04-16,186665801,517,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-16 13:30:17.242758,Nepal Bank Limited
+2026041601031519,NBL,58,35,10,279.0,2790.0,2026-04-16,186666140,517,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:30:44.227617,Nepal Bank Limited
+2026041601031520,NBL,51,35,20,279.0,5580.0,2026-04-16,186666142,517,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:30:44.228096,Nepal Bank Limited
+2026041601031521,NBL,62,35,110,278.8,30668.0,2026-04-16,186666144,517,Capital Max Securities Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:30:44.228381,Nepal Bank Limited
+2026041601031781,NBL,33,35,210,278.8,58548.0,2026-04-16,186667063,517,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:31:34.787547,Nepal Bank Limited
+2026041601032049,NBL,16,14,120,278.9,33468.0,2026-04-16,186668171,517,Primo Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:32:37.301927,Nepal Bank Limited
+2026041601032327,NBL,16,58,80,278.9,22312.0,2026-04-16,186669730,517,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:33:57.919836,Nepal Bank Limited
+2026041601032328,NBL,33,58,70,278.8,19516.0,2026-04-16,186669731,517,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:33:57.920113,Nepal Bank Limited
+2026041601032409,NBL,33,44,500,278.8,139400.0,2026-04-16,186670127,517,Dakshinkali Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:34:22.090676,Nepal Bank Limited
+2026041601032651,NBL,83,49,200,278.9,55780.0,2026-04-16,186671623,517,Sanima Securities Limited,Online Securities Pvt. Ltd.,2026-04-16 13:35:52.737128,Nepal Bank Limited
+2026041601032714,NBL,83,19,40,278.9,11156.0,2026-04-16,186672035,517,Sanima Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:36:17.798660,Nepal Bank Limited
+2026041601032799,NBL,33,1,100,279.0,27900.0,2026-04-16,186672573,517,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 13:36:37.569098,Nepal Bank Limited
+2026041601032837,NBL,33,50,581,279.0,162099.0,2026-04-16,186672773,517,Dakshinkali Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 13:36:51.459854,Nepal Bank Limited
+2026041601032839,NBL,33,49,319,279.0,89001.0,2026-04-16,186672784,517,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:36:52.085885,Nepal Bank Limited
+2026041601032925,NBL,17,49,50,279.0,13950.0,2026-04-16,186673295,517,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 13:37:21.559915,Nepal Bank Limited
+2026041601032959,NBL,83,10,190,278.9,52991.0,2026-04-16,186673551,517,Sanima Securities Limited,Pragyan Securities (PVT) Ltd.,2026-04-16 13:37:33.436362,Nepal Bank Limited
+2026041601033051,NBL,83,4,200,278.9,55780.0,2026-04-16,186674139,517,Sanima Securities Limited,Opal Securities Investment (PVT) Ltd.,2026-04-16 13:38:02.881673,Nepal Bank Limited
+2026041601033147,NBL,83,40,50,278.9,13945.0,2026-04-16,186674561,517,Sanima Securities Limited,Creative Securities Pvt Ltd,2026-04-16 13:38:21.168537,Nepal Bank Limited
+2026041601033210,NBL,83,46,2820,278.9,786498.0,2026-04-16,186674874,517,Sanima Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-16 13:38:38.635736,Nepal Bank Limited
+2026041601033211,NBL,58,46,217,278.9,60521.3,2026-04-16,186674876,517,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 13:38:38.636183,Nepal Bank Limited
+2026041601033456,NBL,6,46,1000,278.9,278900.0,2026-04-16,186676234,517,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 13:39:45.731645,Nepal Bank Limited
+2026041601033519,NBL,17,46,4253,278.9,1186161.7,2026-04-16,186676506,517,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-16 13:40:04.938390,Nepal Bank Limited
+2026041601033546,NBL,33,26,220,278.8,61336.0,2026-04-16,186676690,517,Dakshinkali Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:40:16.811374,Nepal Bank Limited
+2026041601033547,NBL,44,26,85,278.7,23689.5,2026-04-16,186676691,517,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:40:16.811804,Nepal Bank Limited
+2026041601033819,NBL,44,74,100,278.7,27870.0,2026-04-16,186678075,517,Dynamic Money Managers Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:41:48.114547,Nepal Bank Limited
+2026041601033920,NBL,25,49,10,279.0,2790.0,2026-04-16,186678640,517,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 13:42:26.981711,Nepal Bank Limited
+2026041601034049,NBL,22,49,256,279.0,71424.0,2026-04-16,186679404,517,Siprabi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:43:26.372820,Nepal Bank Limited
+2026041601034323,NBL,13,3,20,279.2,5584.0,2026-04-16,186680902,517,Thrive Brokerage House Pvt. Ltd,Arun Securities (PVT) Ltd.,2026-04-16 13:45:29.696535,Nepal Bank Limited
+2026041601034324,NBL,42,3,634,279.1,176949.4,2026-04-16,186680903,517,Sani Securities Company Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 13:45:29.696806,Nepal Bank Limited
+2026041601034450,NBL,17,38,1000,279.9,279900.0,2026-04-16,186681531,517,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:46:32.337763,Nepal Bank Limited
+2026041601034451,NBL,17,25,119,280.0,33320.0,2026-04-16,186681533,517,ABC Securities Private Limited,Sweta Securities Private Limited,2026-04-16 13:46:32.338009,Nepal Bank Limited
+2026041601034452,NBL,17,6,2000,280.0,560000.0,2026-04-16,186681535,517,ABC Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-16 13:46:32.338110,Nepal Bank Limited
+2026041601034453,NBL,17,45,181,280.0,50680.0,2026-04-16,186681538,517,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:46:32.338202,Nepal Bank Limited
+2026041601034756,NBL,44,45,69,280.0,19320.0,2026-04-16,186682917,517,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:48:26.600201,Nepal Bank Limited
+2026041601034757,NBL,44,4,31,280.0,8680.0,2026-04-16,186682920,517,Dynamic Money Managers Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 13:48:26.600649,Nepal Bank Limited
+2026041601034789,NBL,58,4,30,280.0,8400.0,2026-04-16,186683084,517,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 13:48:40.701237,Nepal Bank Limited
+2026041601034798,NBL,46,4,39,280.0,10920.0,2026-04-16,186683134,517,Kalika Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 13:48:47.813574,Nepal Bank Limited
+2026041601035005,NBL,65,45,500,280.0,140000.0,2026-04-16,186684123,517,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:50:14.437485,Nepal Bank Limited
+2026041601035232,NBL,38,25,50,280.5,14025.0,2026-04-16,186684946,517,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-16 13:51:38.133344,Nepal Bank Limited
+2026041601035604,NBL,17,32,10,280.0,2800.0,2026-04-16,186686944,517,ABC Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 13:54:46.869326,Nepal Bank Limited
+2026041601035605,NBL,25,32,90,280.0,25200.0,2026-04-16,186686945,517,Sweta Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 13:54:46.869589,Nepal Bank Limited
+2026041601035611,NBL,57,25,50,280.5,14025.0,2026-04-16,186686965,517,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-16 13:54:48.583297,Nepal Bank Limited
+2026041601035623,NBL,57,6,40,280.5,11220.0,2026-04-16,186687031,517,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-16 13:54:54.141926,Nepal Bank Limited
+2026041601035684,NBL,57,74,100,280.5,28050.0,2026-04-16,186687271,517,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:55:19.931057,Nepal Bank Limited
+2026041601035759,NBL,58,36,50,281.8,14090.0,2026-04-16,186687603,517,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-16 13:56:00.488256,Nepal Bank Limited
+2026041601035760,NBL,58,34,50,281.9,14095.0,2026-04-16,186687606,517,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:56:00.488767,Nepal Bank Limited
+2026041601035810,NBL,58,34,10,281.9,2819.0,2026-04-16,186687880,517,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:56:30.303054,Nepal Bank Limited
+2026041601036196,NBL,58,85,13,281.8,3663.4,2026-04-16,186689726,517,Naasa Securities Co. Ltd.,Capital Hub P. Ltd,2026-04-16 13:59:46.589116,Nepal Bank Limited
+2026041601036576,NBL,1,83,1000,281.0,281000.0,2026-04-16,186691773,517,Kumari Securities Private Limited,Sanima Securities Limited,2026-04-16 14:02:36.950046,Nepal Bank Limited
+2026041601036992,NBL,57,64,60,280.5,16830.0,2026-04-16,186693484,517,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,2026-04-16 14:04:55.843671,Nepal Bank Limited
+2026041601036993,NBL,25,64,50,280.0,14000.0,2026-04-16,186693486,517,Sweta Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-16 14:04:55.843899,Nepal Bank Limited
+2026041601036994,NBL,11,64,1000,280.0,280000.0,2026-04-16,186693488,517,Malla & Malla Stock Broking Company Pvt. Limited,SUN SECURITIES PVT LTD,2026-04-16 14:04:55.844038,Nepal Bank Limited
+2026041601036995,NBL,57,64,100,280.0,28000.0,2026-04-16,186693490,517,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,2026-04-16 14:04:55.844173,Nepal Bank Limited
+2026041601037287,NBL,57,58,213,279.8,59597.4,2026-04-16,186695205,517,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 14:06:49.543616,Nepal Bank Limited
+2026041601037292,NBL,57,10,200,279.8,55960.0,2026-04-16,186695225,517,Aryatara Investment & Securities,Pragyan Securities (PVT) Ltd.,2026-04-16 14:06:52.664955,Nepal Bank Limited
+2026041601037745,NBL,57,14,87,279.8,24342.6,2026-04-16,186697248,517,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-16 14:09:58.625544,Nepal Bank Limited
+2026041601037746,NBL,51,14,413,279.7,115516.1,2026-04-16,186697249,517,Oxford Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:09:58.626104,Nepal Bank Limited
+2026041601038694,NBL,45,46,170,279.9,47583.0,2026-04-16,186701908,517,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 14:17:10.064808,Nepal Bank Limited
+2026041601039550,NBL,51,39,59,279.7,16502.3,2026-04-16,186705821,517,Oxford Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 14:23:33.879001,Nepal Bank Limited
+2026041601039810,NBL,28,46,178,279.9,49822.2,2026-04-16,186706955,517,Shree Krishna Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 14:25:26.061085,Nepal Bank Limited
+2026041601039811,NBL,28,62,146,279.9,40865.4,2026-04-16,186706957,517,Shree Krishna Securities Ltd.,Capital Max Securities Ltd,2026-04-16 14:25:26.061565,Nepal Bank Limited
+2026041601039918,NBL,8,64,36,280.0,10080.0,2026-04-16,186707288,517,Brilliant Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-16 14:25:48.542441,Nepal Bank Limited
+2026041601039919,NBL,62,64,254,280.0,71120.0,2026-04-16,186707289,517,Capital Max Securities Ltd,SUN SECURITIES PVT LTD,2026-04-16 14:25:48.639739,Nepal Bank Limited
+2026041601039920,NBL,62,1,2000,280.0,560000.0,2026-04-16,186707291,517,Capital Max Securities Ltd,Kumari Securities Private Limited,2026-04-16 14:25:48.640194,Nepal Bank Limited
+2026041601039921,NBL,62,58,228,280.0,63840.0,2026-04-16,186707293,517,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-16 14:25:48.640484,Nepal Bank Limited
+2026041601039922,NBL,62,41,300,280.0,84000.0,2026-04-16,186707295,517,Capital Max Securities Ltd,Linch Stock Market Ltd.,2026-04-16 14:25:48.640820,Nepal Bank Limited
+2026041601039923,NBL,62,25,1044,280.0,292320.0,2026-04-16,186707297,517,Capital Max Securities Ltd,Sweta Securities Private Limited,2026-04-16 14:25:48.641243,Nepal Bank Limited
+2026041601040454,NBL,38,14,31,280.0,8680.0,2026-04-16,186709297,517,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:27:42.310390,Nepal Bank Limited
+2026041601040455,NBL,38,4,969,280.0,271320.0,2026-04-16,186709300,517,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:27:42.310631,Nepal Bank Limited
+2026041601040522,NBL,25,35,10,279.8,2798.0,2026-04-16,186709594,517,Sweta Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:27:56.771801,Nepal Bank Limited
+2026041601040523,NBL,51,35,28,279.7,7831.6,2026-04-16,186709596,517,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:27:56.772052,Nepal Bank Limited
+2026041601040524,NBL,45,35,90,279.7,25173.0,2026-04-16,186709598,517,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:27:56.772155,Nepal Bank Limited
+2026041601041236,NBL,44,35,76,279.7,21257.2,2026-04-16,186711541,517,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:29:36.409266,Nepal Bank Limited
+2026041601041237,NBL,44,4,74,280.0,20720.0,2026-04-16,186711544,517,Dynamic Money Managers Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:29:36.409352,Nepal Bank Limited
+2026041601041532,NBL,21,4,200,280.0,56000.0,2026-04-16,186712626,517,Midas Stock Broking Company Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:30:45.781990,Nepal Bank Limited
+2026041601041561,NBL,51,45,25,279.7,6992.5,2026-04-16,186712751,517,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:30:57.639043,Nepal Bank Limited
+2026041601042500,NBL,65,4,57,280.0,15960.0,2026-04-16,186715805,517,Sharepro Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:33:34.337729,Nepal Bank Limited
+2026041601042570,NBL,65,83,6900,280.0,1932000.0,2026-04-16,186716177,517,Sharepro Securities Private Limited,Sanima Securities Limited,2026-04-16 14:34:00.966596,Nepal Bank Limited
+2026041601042745,NBL,65,58,200,280.0,56000.0,2026-04-16,186716849,517,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 14:34:50.114278,Nepal Bank Limited
+2026041601042799,NBL,65,21,1000,280.0,280000.0,2026-04-16,186717201,517,Sharepro Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 14:35:11.985061,Nepal Bank Limited
+2026041601043125,NBL,65,36,1750,280.0,490000.0,2026-04-16,186718843,517,Sharepro Securities Private Limited,Secured Securities Ltd.,2026-04-16 14:37:03.975765,Nepal Bank Limited
+2026041601043301,NBL,65,25,75,280.0,21000.0,2026-04-16,186719681,517,Sharepro Securities Private Limited,Sweta Securities Private Limited,2026-04-16 14:38:08.521420,Nepal Bank Limited
+2026041601043600,NBL,49,58,10,280.2,2802.0,2026-04-16,186721394,517,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:39:52.771522,Nepal Bank Limited
+2026041601043633,NBL,49,58,10,280.2,2802.0,2026-04-16,186721596,517,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:40:06.971624,Nepal Bank Limited
+2026041601043685,NBL,49,38,10,280.1,2801.0,2026-04-16,186721858,517,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:40:23.383013,Nepal Bank Limited
+2026041601043686,NBL,65,38,18,280.0,5040.0,2026-04-16,186721860,517,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:40:23.383510,Nepal Bank Limited
+2026041601043687,NBL,1,38,100,280.0,28000.0,2026-04-16,186721862,517,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:40:23.383801,Nepal Bank Limited
+2026041601043688,NBL,45,38,722,280.0,202160.0,2026-04-16,186721863,517,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:40:23.384110,Nepal Bank Limited
+2026041601043740,NBL,49,58,10,280.2,2802.0,2026-04-16,186722132,517,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:40:38.481440,Nepal Bank Limited
+2026041601043929,NBL,58,52,200,281.0,56200.0,2026-04-16,186723110,517,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-16 14:41:33.404598,Nepal Bank Limited
+2026041601044294,NBL,58,59,10,280.1,2801.0,2026-04-16,186724720,517,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:43:11.339668,Nepal Bank Limited
+2026041601044295,NBL,45,59,778,280.0,217840.0,2026-04-16,186724722,517,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:43:11.340139,Nepal Bank Limited
+2026041601044296,NBL,4,59,212,280.0,59360.0,2026-04-16,186724723,517,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:43:11.340425,Nepal Bank Limited
+2026041601044481,NBL,58,62,20,280.1,5602.0,2026-04-16,186725501,517,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-16 14:43:50.480900,Nepal Bank Limited
+2026041601044590,NBL,58,38,30,280.1,8403.0,2026-04-16,186725950,517,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:44:14.533368,Nepal Bank Limited
+2026041601044591,NBL,4,38,13,280.0,3640.0,2026-04-16,186725952,517,Opal Securities Investment (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:44:14.533795,Nepal Bank Limited
+2026041601044592,NBL,49,38,57,280.0,15960.0,2026-04-16,186725953,517,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:44:14.534104,Nepal Bank Limited
+2026041601044791,NBL,49,41,68,280.0,19040.0,2026-04-16,186726968,517,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:44:58.762282,Nepal Bank Limited
+2026041601044792,NBL,51,41,32,279.7,8950.4,2026-04-16,186726969,517,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:44:58.762386,Nepal Bank Limited
+2026041601045571,NBL,49,19,13,279.8,3637.4,2026-04-16,186731578,517,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:48:57.829507,Nepal Bank Limited
+2026041601045572,NBL,51,19,13,279.7,3636.1,2026-04-16,186731579,517,Oxford Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:48:57.829958,Nepal Bank Limited
+2026041601045889,NBL,62,57,502,280.0,140560.0,2026-04-16,186733129,517,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-16 14:50:10.427352,Nepal Bank Limited
+2026041601045890,NBL,62,21,450,280.0,126000.0,2026-04-16,186733132,517,Capital Max Securities Ltd,Midas Stock Broking Company Private Limited,2026-04-16 14:50:10.427624,Nepal Bank Limited
+2026041601046472,NBL,52,10,50,280.2,14010.0,2026-04-16,186736232,517,Sundhara Securities Limited,Pragyan Securities (PVT) Ltd.,2026-04-16 14:52:41.966433,Nepal Bank Limited
+2026041601046785,NBL,45,36,50,280.0,14000.0,2026-04-16,186737298,517,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-16 14:53:14.811647,Nepal Bank Limited
+2026041601046786,NBL,60,36,350,280.0,98000.0,2026-04-16,186737300,517,Nagarik Stock Dealer ,Secured Securities Ltd.,2026-04-16 14:53:14.812103,Nepal Bank Limited
+2026041601047520,NBL,58,56,250,279.8,69950.0,2026-04-16,186739997,517,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:54:37.727716,Nepal Bank Limited
+2026041601047543,NBL,51,56,430,279.7,120271.0,2026-04-16,186740135,517,Oxford Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:54:45.292838,Nepal Bank Limited
+2026041601047607,NBL,58,42,150,279.8,41970.0,2026-04-16,186740669,517,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:55:04.774193,Nepal Bank Limited
+2026041601047640,NBL,58,7,405,279.8,113319.0,2026-04-16,186740778,517,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838555,Nepal Bank Limited
+2026041601047641,NBL,62,7,1000,279.6,279600.0,2026-04-16,186740780,517,Capital Max Securities Ltd,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838598,Nepal Bank Limited
+2026041601047642,NBL,49,7,13,279.6,3634.8,2026-04-16,186740782,517,Online Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838630,Nepal Bank Limited
+2026041601047643,NBL,28,7,314,279.5,87763.0,2026-04-16,186740784,517,Shree Krishna Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838664,Nepal Bank Limited
+2026041601047644,NBL,45,7,30,279.5,8385.0,2026-04-16,186740786,517,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838696,Nepal Bank Limited
+2026041601047645,NBL,42,7,95,279.5,26552.5,2026-04-16,186740788,517,Sani Securities Company Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838728,Nepal Bank Limited
+2026041601047646,NBL,45,7,200,279.5,55900.0,2026-04-16,186740790,517,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838752,Nepal Bank Limited
+2026041601047647,NBL,65,7,443,279.4,123774.2,2026-04-16,186740791,517,Sharepro Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-16 14:55:08.838777,Nepal Bank Limited
+2026041601047896,NBL,65,36,350,279.4,97790.0,2026-04-16,186742205,517,Sharepro Securities Private Limited,Secured Securities Ltd.,2026-04-16 14:56:02.230324,Nepal Bank Limited
+2026041601047981,NBL,21,16,10,280.0,2800.0,2026-04-16,186742694,517,Midas Stock Broking Company Private Limited,Primo Securities (PVT) Ltd.,2026-04-16 14:56:23.857415,Nepal Bank Limited
+2026041601048003,NBL,42,16,35,280.0,9800.0,2026-04-16,186742824,517,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 14:56:28.123942,Nepal Bank Limited
+2026041601048033,NBL,14,16,105,280.0,29400.0,2026-04-16,186742969,517,Nepal Stock House (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 14:56:33.969599,Nepal Bank Limited
+2026041601048034,NBL,14,49,200,280.0,56000.0,2026-04-16,186742973,517,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:56:33.969846,Nepal Bank Limited
+2026041601048050,NBL,14,36,695,280.0,194600.0,2026-04-16,186743044,517,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,2026-04-16 14:56:36.137322,Nepal Bank Limited
+2026041601048051,NBL,49,36,26,279.6,7269.6,2026-04-16,186743046,517,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-16 14:56:36.137570,Nepal Bank Limited
+2026041601048052,NBL,57,36,279,279.5,77980.5,2026-04-16,186743047,517,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-16 14:56:36.137664,Nepal Bank Limited
+2026041601048214,NBL,11,17,10,280.0,2800.0,2026-04-16,186744024,517,Malla & Malla Stock Broking Company Pvt. Limited,ABC Securities Private Limited,2026-04-16 14:57:06.668233,Nepal Bank Limited
+2026041601048323,NBL,14,17,990,280.0,277200.0,2026-04-16,186744679,517,Nepal Stock House (PVT) Ltd.,ABC Securities Private Limited,2026-04-16 14:57:24.077216,Nepal Bank Limited
+2026041601048467,NBL,57,49,300,280.4,84120.0,2026-04-16,186745615,517,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-16 14:57:52.304698,Nepal Bank Limited
+2026041601048468,NBL,57,29,170,280.4,47668.0,2026-04-16,186745617,517,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-16 14:57:52.304918,Nepal Bank Limited
+2026041601048682,NBL,57,46,30,280.5,8415.0,2026-04-16,186747017,517,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-16 14:58:21.081707,Nepal Bank Limited
+2026041601048916,NBL,14,95,10,280.0,2800.0,2026-04-16,186748222,517,Nepal Stock House (PVT) Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 14:58:45.992518,Nepal Bank Limited
+2026041601048917,NBL,62,95,500,280.0,140000.0,2026-04-16,186748224,517,Capital Max Securities Ltd,Magnet Securities and Investment Company Private Limited,2026-04-16 14:58:45.992752,Nepal Bank Limited
+2026041601049080,NBL,51,34,500,280.0,140000.0,2026-04-16,186749387,517,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:59:05.925661,Nepal Bank Limited
+2026041601049326,NBL,14,1,30,280.5,8415.0,2026-04-16,186750859,517,Nepal Stock House (PVT) Ltd.,Kumari Securities Private Limited,2026-04-16 14:59:29.001293,Nepal Bank Limited
+2026041601049327,NBL,14,35,250,280.5,70125.0,2026-04-16,186750861,517,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:29.001745,Nepal Bank Limited
+2026041601049328,NBL,14,83,1000,280.9,280900.0,2026-04-16,186750863,517,Nepal Stock House (PVT) Ltd.,Sanima Securities Limited,2026-04-16 14:59:29.002077,Nepal Bank Limited
+2026041601049329,NBL,14,59,72,281.0,20232.0,2026-04-16,186750865,517,Nepal Stock House (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:59:29.002384,Nepal Bank Limited
+2026041601049330,NBL,14,21,116,281.0,32596.0,2026-04-16,186750867,517,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:59:29.002690,Nepal Bank Limited
+2026041601049331,NBL,14,32,38,281.0,10678.0,2026-04-16,186750869,517,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 14:59:29.002981,Nepal Bank Limited
+2026041601049332,NBL,14,8,1000,281.0,281000.0,2026-04-16,186750871,517,Nepal Stock House (PVT) Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 14:59:29.003292,Nepal Bank Limited
+2026041601049333,NBL,14,38,100,281.0,28100.0,2026-04-16,186750873,517,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:59:29.003583,Nepal Bank Limited
+2026041601049334,NBL,14,7,100,281.0,28100.0,2026-04-16,186750875,517,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:59:29.003935,Nepal Bank Limited
+2026041601049335,NBL,14,32,212,281.0,59572.0,2026-04-16,186750877,517,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 14:59:29.004253,Nepal Bank Limited
+2026041601049344,NBL,14,81,82,281.0,23042.0,2026-04-16,186750934,517,Nepal Stock House (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-16 14:59:29.832536,Nepal Bank Limited
+2026041601049431,NBL,42,81,410,280.4,114964.0,2026-04-16,186751434,517,Sani Securities Company Ltd.,Aakashbhairab Securities Ltd.,2026-04-16 14:59:36.074109,Nepal Bank Limited
+2026041601049455,NBL,51,95,490,280.0,137200.0,2026-04-16,186751485,517,Oxford Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 14:59:36.311283,Nepal Bank Limited
+2026041601049841,NBL,65,81,10,280.4,2804.0,2026-04-16,186753078,517,Sharepro Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-16 14:59:52.028113,Nepal Bank Limited
+2026041601049980,NBL,51,35,10,280.0,2800.0,2026-04-16,186753648,517,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:55.449171,Nepal Bank Limited
+2026041601049981,NBL,49,35,13,279.6,3634.8,2026-04-16,186753650,517,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:55.449418,Nepal Bank Limited
+2026041601049982,NBL,57,35,552,279.5,154284.0,2026-04-16,186753651,517,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:55.449516,Nepal Bank Limited
+2026041601050031,NBL,57,4,545,279.5,152327.5,2026-04-16,186754045,517,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:59:57.180460,Nepal Bank Limited
+2026041601050082,NBL,5,81,55,280.4,15422.0,2026-04-16,186754522,517,Market Securities & Exchange (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-16 14:59:58.155105,Nepal Bank Limited

@@ -1,0 +1,455 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041604000014,GHL,42,11,10,258.0,2580.0,2026-04-16,186531585,2806,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 10:46:00.065804,Ghalemdi Hydro Limited
+2026041604000512,GHL,49,53,50,260.0,13000.0,2026-04-16,186536291,2806,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:05:02.584557,Ghalemdi Hydro Limited
+2026041604000576,GHL,29,14,1000,259.3,259300.0,2026-04-16,186537325,2806,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:06:01.248665,Ghalemdi Hydro Limited
+2026041604000693,GHL,43,53,260,260.0,67600.0,2026-04-16,186538500,2806,South Asian Bulls Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:07:07.324176,Ghalemdi Hydro Limited
+2026041604000800,GHL,32,14,1000,260.0,260000.0,2026-04-16,186539707,2806,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:08:06.125753,Ghalemdi Hydro Limited
+2026041604000828,GHL,88,22,10,262.0,2620.0,2026-04-16,186539986,2806,Blue Chip Securities Ltd,Siprabi Securities Pvt. Ltd.,2026-04-16 11:08:20.935025,Ghalemdi Hydro Limited
+2026041604000998,GHL,43,14,200,259.3,51860.0,2026-04-16,186541443,2806,South Asian Bulls Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:09:28.953136,Ghalemdi Hydro Limited
+2026041604001562,GHL,4,59,500,260.0,130000.0,2026-04-16,186547419,2806,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 11:13:57.271363,Ghalemdi Hydro Limited
+2026041604001563,GHL,4,49,204,260.0,53040.0,2026-04-16,186547421,2806,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:13:57.271506,Ghalemdi Hydro Limited
+2026041604001564,GHL,4,22,100,261.0,26100.0,2026-04-16,186547423,2806,Opal Securities Investment (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:13:57.271558,Ghalemdi Hydro Limited
+2026041604001565,GHL,4,16,155,261.7,40563.5,2026-04-16,186547425,2806,Opal Securities Investment (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 11:13:57.271583,Ghalemdi Hydro Limited
+2026041604001566,GHL,4,22,41,262.0,10742.0,2026-04-16,186547428,2806,Opal Securities Investment (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:13:57.271606,Ghalemdi Hydro Limited
+2026041604001716,GHL,14,20,100,261.9,26190.0,2026-04-16,186548919,2806,Nepal Stock House (PVT) Ltd.,Sipla Securities Private Limited,2026-04-16 11:15:23.120942,Ghalemdi Hydro Limited
+2026041604001717,GHL,14,22,10,262.0,2620.0,2026-04-16,186548922,2806,Nepal Stock House (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:15:23.121062,Ghalemdi Hydro Limited
+2026041604001858,GHL,4,57,500,262.0,131000.0,2026-04-16,186550551,2806,Opal Securities Investment (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 11:16:47.210743,Ghalemdi Hydro Limited
+2026041604001859,GHL,4,36,500,262.0,131000.0,2026-04-16,186550554,2806,Opal Securities Investment (PVT) Ltd.,Secured Securities Ltd.,2026-04-16 11:16:47.210852,Ghalemdi Hydro Limited
+2026041604001972,GHL,58,38,45,260.0,11700.0,2026-04-16,186551532,2806,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:17:42.692885,Ghalemdi Hydro Limited
+2026041604001973,GHL,43,38,45,260.0,11700.0,2026-04-16,186551533,2806,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:17:42.693049,Ghalemdi Hydro Limited
+2026041604002158,GHL,43,33,55,260.0,14300.0,2026-04-16,186553177,2806,South Asian Bulls Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:19:32.383535,Ghalemdi Hydro Limited
+2026041604002159,GHL,25,33,300,260.0,78000.0,2026-04-16,186553180,2806,Sweta Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:19:32.383719,Ghalemdi Hydro Limited
+2026041604002160,GHL,58,33,100,260.0,26000.0,2026-04-16,186553182,2806,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:19:32.383849,Ghalemdi Hydro Limited
+2026041604002171,GHL,6,33,200,260.0,52000.0,2026-04-16,186553286,2806,Agrawal Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:19:38.702709,Ghalemdi Hydro Limited
+2026041604002200,GHL,53,33,500,260.0,130000.0,2026-04-16,186553698,2806,Investment Management Nepal Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:20:00.714115,Ghalemdi Hydro Limited
+2026041604002274,GHL,95,33,500,260.0,130000.0,2026-04-16,186554276,2806,Magnet Securities and Investment Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:20:47.211882,Ghalemdi Hydro Limited
+2026041604002344,GHL,34,33,200,260.0,52000.0,2026-04-16,186554794,2806,Vision Securities Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:21:18.304740,Ghalemdi Hydro Limited
+2026041604002408,GHL,6,6,60,259.8,15588.0,2026-04-16,186555259,2806,Agrawal Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:21:49.562300,Ghalemdi Hydro Limited
+2026041604002539,GHL,6,58,50,259.8,12990.0,2026-04-16,186556267,2806,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:22:50.781566,Ghalemdi Hydro Limited
+2026041604002566,GHL,14,33,500,260.0,130000.0,2026-04-16,186556494,2806,Nepal Stock House (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:23:09.459682,Ghalemdi Hydro Limited
+2026041604002682,GHL,41,33,300,260.0,78000.0,2026-04-16,186557314,2806,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:24:03.417190,Ghalemdi Hydro Limited
+2026041604002694,GHL,51,34,645,259.9,167635.5,2026-04-16,186557391,2806,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:24:06.629561,Ghalemdi Hydro Limited
+2026041604002916,GHL,6,22,139,259.8,36112.2,2026-04-16,186559343,2806,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:25:58.246653,Ghalemdi Hydro Limited
+2026041604002955,GHL,6,36,51,259.8,13249.8,2026-04-16,186559676,2806,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-16 11:26:17.247494,Ghalemdi Hydro Limited
+2026041604002956,GHL,14,36,15,259.8,3897.0,2026-04-16,186559678,2806,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,2026-04-16 11:26:17.247604,Ghalemdi Hydro Limited
+2026041604002957,GHL,6,36,555,259.7,144133.5,2026-04-16,186559680,2806,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-16 11:26:17.247651,Ghalemdi Hydro Limited
+2026041604002958,GHL,6,36,300,259.5,77850.0,2026-04-16,186559682,2806,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-16 11:26:17.247709,Ghalemdi Hydro Limited
+2026041604002959,GHL,6,36,500,259.5,129750.0,2026-04-16,186559684,2806,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-16 11:26:17.247757,Ghalemdi Hydro Limited
+2026041604002960,GHL,95,36,300,259.2,77760.0,2026-04-16,186559686,2806,Magnet Securities and Investment Company Private Limited,Secured Securities Ltd.,2026-04-16 11:26:17.247799,Ghalemdi Hydro Limited
+2026041604002961,GHL,17,36,300,259.1,77730.0,2026-04-16,186559688,2806,ABC Securities Private Limited,Secured Securities Ltd.,2026-04-16 11:26:17.247843,Ghalemdi Hydro Limited
+2026041604002962,GHL,45,36,1979,259.1,512758.9,2026-04-16,186559689,2806,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-16 11:26:17.247883,Ghalemdi Hydro Limited
+2026041604002981,GHL,45,45,500,259.1,129550.0,2026-04-16,186559875,2806,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:26:33.032004,Ghalemdi Hydro Limited
+2026041604003044,GHL,34,32,200,259.2,51840.0,2026-04-16,186560672,2806,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-16 11:27:22.629417,Ghalemdi Hydro Limited
+2026041604003045,GHL,45,32,521,259.1,134991.1,2026-04-16,186560674,2806,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:27:22.629615,Ghalemdi Hydro Limited
+2026041604003046,GHL,19,32,779,259.0,201761.0,2026-04-16,186560675,2806,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,2026-04-16 11:27:22.629766,Ghalemdi Hydro Limited
+2026041604003066,GHL,19,32,221,259.0,57239.0,2026-04-16,186560890,2806,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,2026-04-16 11:27:39.367670,Ghalemdi Hydro Limited
+2026041604003091,GHL,54,32,100,258.0,25800.0,2026-04-16,186561166,2806,Sewa Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:28:01.160383,Ghalemdi Hydro Limited
+2026041604003092,GHL,58,32,200,258.0,51600.0,2026-04-16,186561168,2806,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:28:01.160536,Ghalemdi Hydro Limited
+2026041604003093,GHL,42,32,1540,258.0,397320.0,2026-04-16,186561170,2806,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-16 11:28:01.160633,Ghalemdi Hydro Limited
+2026041604003094,GHL,17,32,1000,258.0,258000.0,2026-04-16,186561172,2806,ABC Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 11:28:01.160677,Ghalemdi Hydro Limited
+2026041604003095,GHL,41,32,160,258.0,41280.0,2026-04-16,186561173,2806,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-16 11:28:01.160721,Ghalemdi Hydro Limited
+2026041604003097,GHL,41,21,40,258.0,10320.0,2026-04-16,186561194,2806,Linch Stock Market Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:28:02.348276,Ghalemdi Hydro Limited
+2026041604003165,GHL,25,21,1000,257.0,257000.0,2026-04-16,186561814,2806,Sweta Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 11:28:47.406520,Ghalemdi Hydro Limited
+2026041604003166,GHL,4,21,1000,257.0,257000.0,2026-04-16,186561816,2806,Opal Securities Investment (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:28:47.406607,Ghalemdi Hydro Limited
+2026041604003167,GHL,4,21,500,257.0,128500.0,2026-04-16,186561818,2806,Opal Securities Investment (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:28:47.406649,Ghalemdi Hydro Limited
+2026041604003324,GHL,68,21,500,257.0,128500.0,2026-04-16,186562867,2806,Elite Stock House Limited,Midas Stock Broking Company Private Limited,2026-04-16 11:29:49.251131,Ghalemdi Hydro Limited
+2026041604003325,GHL,68,58,50,257.0,12850.0,2026-04-16,186562869,2806,Elite Stock House Limited,Naasa Securities Co. Ltd.,2026-04-16 11:29:49.251225,Ghalemdi Hydro Limited
+2026041604003451,GHL,68,57,90,257.0,23130.0,2026-04-16,186564007,2806,Elite Stock House Limited,Aryatara Investment & Securities,2026-04-16 11:30:53.915267,Ghalemdi Hydro Limited
+2026041604003540,GHL,68,21,45,257.0,11565.0,2026-04-16,186564817,2806,Elite Stock House Limited,Midas Stock Broking Company Private Limited,2026-04-16 11:31:34.006767,Ghalemdi Hydro Limited
+2026041604003543,GHL,68,22,350,257.0,89950.0,2026-04-16,186564901,2806,Elite Stock House Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 11:31:38.899808,Ghalemdi Hydro Limited
+2026041604003602,GHL,68,32,50,257.0,12850.0,2026-04-16,186565487,2806,Elite Stock House Limited,Premier Securities Company Ltd.,2026-04-16 11:32:03.387303,Ghalemdi Hydro Limited
+2026041604003603,GHL,68,98,775,257.0,199175.0,2026-04-16,186565561,2806,Elite Stock House Limited,Trademow Securities Private Limited,2026-04-16 11:32:08.966187,Ghalemdi Hydro Limited
+2026041604004123,GHL,35,14,24,257.1,6170.4,2026-04-16,186569403,2806,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:35:23.161869,Ghalemdi Hydro Limited
+2026041604004168,GHL,35,22,76,257.1,19539.6,2026-04-16,186569634,2806,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:35:37.656929,Ghalemdi Hydro Limited
+2026041604004169,GHL,68,22,24,257.0,6168.0,2026-04-16,186569635,2806,Elite Stock House Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 11:35:37.657047,Ghalemdi Hydro Limited
+2026041604004368,GHL,68,35,116,257.0,29812.0,2026-04-16,186571010,2806,Elite Stock House Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:36:48.500659,Ghalemdi Hydro Limited
+2026041604004369,GHL,45,35,884,257.0,227188.0,2026-04-16,186571011,2806,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:36:48.500831,Ghalemdi Hydro Limited
+2026041604004370,GHL,45,4,100,257.0,25700.0,2026-04-16,186571017,2806,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 11:36:49.315568,Ghalemdi Hydro Limited
+2026041604004508,GHL,45,29,16,257.0,4112.0,2026-04-16,186571936,2806,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:37:55.009531,Ghalemdi Hydro Limited
+2026041604004527,GHL,14,29,300,257.0,77100.0,2026-04-16,186572058,2806,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:38:01.121058,Ghalemdi Hydro Limited
+2026041604004927,GHL,68,29,184,257.0,47288.0,2026-04-16,186576431,2806,Elite Stock House Limited,Trisul Securities & Invt. Ltd.,2026-04-16 11:42:00.728826,Ghalemdi Hydro Limited
+2026041604004969,GHL,41,22,300,257.5,77250.0,2026-04-16,186576776,2806,Linch Stock Market Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:42:20.039739,Ghalemdi Hydro Limited
+2026041604005159,GHL,39,29,500,257.1,128550.0,2026-04-16,186578607,2806,Sumeru Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:43:50.865857,Ghalemdi Hydro Limited
+2026041604005209,GHL,65,32,10,258.0,2580.0,2026-04-16,186579050,2806,Sharepro Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 11:44:27.229495,Ghalemdi Hydro Limited
+2026041604005210,GHL,58,32,20,258.0,5160.0,2026-04-16,186579054,2806,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:44:27.793646,Ghalemdi Hydro Limited
+2026041604005291,GHL,68,65,50,257.0,12850.0,2026-04-16,186579687,2806,Elite Stock House Limited,Sharepro Securities Private Limited,2026-04-16 11:45:08.270554,Ghalemdi Hydro Limited
+2026041604005597,GHL,68,74,500,257.0,128500.0,2026-04-16,186582605,2806,Elite Stock House Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-16 11:48:24.499608,Ghalemdi Hydro Limited
+2026041604005608,GHL,68,17,190,257.0,48830.0,2026-04-16,186582699,2806,Elite Stock House Limited,ABC Securities Private Limited,2026-04-16 11:48:37.052522,Ghalemdi Hydro Limited
+2026041604005754,GHL,68,32,76,257.0,19532.0,2026-04-16,186584196,2806,Elite Stock House Limited,Premier Securities Company Ltd.,2026-04-16 11:50:25.728447,Ghalemdi Hydro Limited
+2026041604005755,GHL,50,32,203,257.0,52171.0,2026-04-16,186584197,2806,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:50:25.728558,Ghalemdi Hydro Limited
+2026041604005777,GHL,50,34,500,257.0,128500.0,2026-04-16,186584389,2806,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:50:42.354722,Ghalemdi Hydro Limited
+2026041604005804,GHL,42,32,200,258.0,51600.0,2026-04-16,186584804,2806,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-16 11:51:09.452776,Ghalemdi Hydro Limited
+2026041604006218,GHL,33,32,50,258.0,12900.0,2026-04-16,186589590,2806,Dakshinkali Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:55:59.149252,Ghalemdi Hydro Limited
+2026041604006266,GHL,14,32,200,258.0,51600.0,2026-04-16,186589860,2806,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:56:19.413678,Ghalemdi Hydro Limited
+2026041604006389,GHL,56,32,20,258.0,5160.0,2026-04-16,186591045,2806,Sri Hari Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:57:38.913112,Ghalemdi Hydro Limited
+2026041604006390,GHL,56,1,1580,258.0,407640.0,2026-04-16,186591048,2806,Sri Hari Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:57:38.913248,Ghalemdi Hydro Limited
+2026041604006401,GHL,58,1,125,258.0,32250.0,2026-04-16,186591208,2806,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-16 11:57:48.570529,Ghalemdi Hydro Limited
+2026041604006407,GHL,35,1,293,258.0,75594.0,2026-04-16,186591255,2806,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:57:51.202988,Ghalemdi Hydro Limited
+2026041604006506,GHL,25,32,500,258.5,129250.0,2026-04-16,186592272,2806,Sweta Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 11:59:03.056008,Ghalemdi Hydro Limited
+2026041604006571,GHL,43,47,20,258.9,5178.0,2026-04-16,186593122,2806,South Asian Bulls Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 11:59:57.369379,Ghalemdi Hydro Limited
+2026041604006584,GHL,57,32,30,258.5,7755.0,2026-04-16,186593224,2806,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-16 12:00:06.439252,Ghalemdi Hydro Limited
+2026041604006585,GHL,35,32,207,258.0,53406.0,2026-04-16,186593226,2806,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:00:06.439396,Ghalemdi Hydro Limited
+2026041604006586,GHL,39,32,1000,258.0,258000.0,2026-04-16,186593228,2806,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:00:06.439450,Ghalemdi Hydro Limited
+2026041604006587,GHL,14,32,600,258.0,154800.0,2026-04-16,186593230,2806,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 12:00:06.439533,Ghalemdi Hydro Limited
+2026041604006588,GHL,35,32,163,258.0,42054.0,2026-04-16,186593231,2806,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:00:06.439583,Ghalemdi Hydro Limited
+2026041604006589,GHL,35,34,10,258.0,2580.0,2026-04-16,186593269,2806,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:00:10.060584,Ghalemdi Hydro Limited
+2026041604006641,GHL,36,47,35,258.9,9061.5,2026-04-16,186593808,2806,Secured Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 12:00:54.373114,Ghalemdi Hydro Limited
+2026041604006676,GHL,13,47,20,258.9,5178.0,2026-04-16,186594220,2806,Thrive Brokerage House Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-16 12:01:21.081586,Ghalemdi Hydro Limited
+2026041604006685,GHL,35,47,27,258.9,6990.3,2026-04-16,186594394,2806,Kohinoor Investment & Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 12:01:40.213124,Ghalemdi Hydro Limited
+2026041604006897,GHL,4,58,10,257.4,2574.0,2026-04-16,186595919,2806,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:03:41.841613,Ghalemdi Hydro Limited
+2026041604007148,GHL,6,38,20,258.0,5160.0,2026-04-16,186597992,2806,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:06:47.244978,Ghalemdi Hydro Limited
+2026041604007258,GHL,8,58,15,257.7,3865.5,2026-04-16,186598899,2806,Brilliant Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:07:51.728655,Ghalemdi Hydro Limited
+2026041604007288,GHL,8,35,35,257.7,9019.5,2026-04-16,186599080,2806,Brilliant Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:08:03.356876,Ghalemdi Hydro Limited
+2026041604007289,GHL,57,35,30,257.6,7728.0,2026-04-16,186599082,2806,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:08:03.357167,Ghalemdi Hydro Limited
+2026041604007290,GHL,4,35,315,257.4,81081.0,2026-04-16,186599084,2806,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:08:03.357355,Ghalemdi Hydro Limited
+2026041604007291,GHL,17,35,620,257.2,159464.0,2026-04-16,186599085,2806,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:08:03.357522,Ghalemdi Hydro Limited
+2026041604007315,GHL,17,38,60,257.2,15432.0,2026-04-16,186599369,2806,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:08:19.521102,Ghalemdi Hydro Limited
+2026041604007441,GHL,17,21,320,257.2,82304.0,2026-04-16,186600338,2806,ABC Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 12:09:19.663249,Ghalemdi Hydro Limited
+2026041604007442,GHL,32,21,555,257.1,142690.5,2026-04-16,186600340,2806,Premier Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 12:09:19.663414,Ghalemdi Hydro Limited
+2026041604007443,GHL,50,21,125,257.0,32125.0,2026-04-16,186600341,2806,Cristal Kanchanjanga Securites Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 12:09:19.663484,Ghalemdi Hydro Limited
+2026041604007485,GHL,50,21,172,257.0,44204.0,2026-04-16,186600628,2806,Cristal Kanchanjanga Securites Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 12:09:40.230368,Ghalemdi Hydro Limited
+2026041604007486,GHL,58,21,250,257.0,64250.0,2026-04-16,186600630,2806,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 12:09:40.230536,Ghalemdi Hydro Limited
+2026041604007487,GHL,21,21,50,257.0,12850.0,2026-04-16,186600632,2806,Midas Stock Broking Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 12:09:40.230598,Ghalemdi Hydro Limited
+2026041604007552,GHL,17,14,200,256.7,51340.0,2026-04-16,186601329,2806,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-16 12:10:31.219303,Ghalemdi Hydro Limited
+2026041604007559,GHL,17,34,100,256.7,25670.0,2026-04-16,186601446,2806,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 12:10:38.395951,Ghalemdi Hydro Limited
+2026041604007560,GHL,35,34,400,256.6,102640.0,2026-04-16,186601447,2806,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:10:38.396201,Ghalemdi Hydro Limited
+2026041604007627,GHL,72,21,65,257.0,16705.0,2026-04-16,186602196,2806,Hatemalo Financial Services Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 12:11:24.029755,Ghalemdi Hydro Limited
+2026041604007955,GHL,41,39,100,256.7,25670.0,2026-04-16,186605052,2806,Linch Stock Market Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:15:33.746946,Ghalemdi Hydro Limited
+2026041604007956,GHL,35,39,100,256.6,25660.0,2026-04-16,186605054,2806,Kohinoor Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:15:33.747202,Ghalemdi Hydro Limited
+2026041604007957,GHL,57,39,435,256.4,111534.0,2026-04-16,186605056,2806,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-16 12:15:33.747405,Ghalemdi Hydro Limited
+2026041604007958,GHL,6,39,665,256.3,170439.5,2026-04-16,186605057,2806,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:15:33.747567,Ghalemdi Hydro Limited
+2026041604008001,GHL,6,98,335,256.3,85860.5,2026-04-16,186605516,2806,Agrawal Securities (PVT) Ltd.,Trademow Securities Private Limited,2026-04-16 12:16:24.430842,Ghalemdi Hydro Limited
+2026041604008002,GHL,22,98,95,256.3,24348.5,2026-04-16,186605517,2806,Siprabi Securities Pvt. Ltd.,Trademow Securities Private Limited,2026-04-16 12:16:24.431005,Ghalemdi Hydro Limited
+2026041604008135,GHL,22,42,100,256.1,25610.0,2026-04-16,186606907,2806,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:18:17.582114,Ghalemdi Hydro Limited
+2026041604008171,GHL,22,32,50,256.1,12805.0,2026-04-16,186607262,2806,Siprabi Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:18:41.581371,Ghalemdi Hydro Limited
+2026041604008172,GHL,58,32,440,256.1,112684.0,2026-04-16,186607263,2806,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:18:41.581640,Ghalemdi Hydro Limited
+2026041604008185,GHL,58,45,70,256.1,17927.0,2026-04-16,186607371,2806,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:18:49.633615,Ghalemdi Hydro Limited
+2026041604008265,GHL,58,42,490,256.1,125489.0,2026-04-16,186608092,2806,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:19:50.387446,Ghalemdi Hydro Limited
+2026041604008276,GHL,7,42,20,256.1,5122.0,2026-04-16,186608200,2806,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 12:20:01.751807,Ghalemdi Hydro Limited
+2026041604008498,GHL,42,14,200,256.0,51200.0,2026-04-16,186610809,2806,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 12:23:31.698638,Ghalemdi Hydro Limited
+2026041604008617,GHL,14,38,20,256.0,5120.0,2026-04-16,186611934,2806,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:24:46.337071,Ghalemdi Hydro Limited
+2026041604008618,GHL,68,38,1000,256.0,256000.0,2026-04-16,186611936,2806,Elite Stock House Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:24:46.337228,Ghalemdi Hydro Limited
+2026041604008619,GHL,58,38,220,255.4,56188.0,2026-04-16,186611937,2806,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:24:46.337287,Ghalemdi Hydro Limited
+2026041604008946,GHL,35,48,40,255.5,10220.0,2026-04-16,186614268,2806,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-16 12:27:42.057467,Ghalemdi Hydro Limited
+2026041604008987,GHL,35,48,38,255.5,9709.0,2026-04-16,186614716,2806,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-16 12:28:16.177094,Ghalemdi Hydro Limited
+2026041604009203,GHL,14,53,30,256.0,7680.0,2026-04-16,186617564,2806,Nepal Stock House (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 12:32:24.011513,Ghalemdi Hydro Limited
+2026041604009219,GHL,14,53,30,256.0,7680.0,2026-04-16,186617698,2806,Nepal Stock House (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 12:32:37.160990,Ghalemdi Hydro Limited
+2026041604009306,GHL,6,53,40,256.0,10240.0,2026-04-16,186618667,2806,Agrawal Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 12:34:12.061092,Ghalemdi Hydro Limited
+2026041604009307,GHL,6,52,50,256.0,12800.0,2026-04-16,186618669,2806,Agrawal Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-16 12:34:12.061239,Ghalemdi Hydro Limited
+2026041604009308,GHL,6,42,490,256.1,125489.0,2026-04-16,186618671,2806,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 12:34:12.061302,Ghalemdi Hydro Limited
+2026041604009432,GHL,58,74,50,256.2,12810.0,2026-04-16,186619895,2806,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 12:35:51.965371,Ghalemdi Hydro Limited
+2026041604009459,GHL,6,21,463,257.0,118991.0,2026-04-16,186620287,2806,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 12:36:28.683536,Ghalemdi Hydro Limited
+2026041604009460,GHL,6,66,887,257.0,227959.0,2026-04-16,186620290,2806,Agrawal Securities (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-16 12:36:28.683810,Ghalemdi Hydro Limited
+2026041604009482,GHL,58,66,240,257.0,61680.0,2026-04-16,186620566,2806,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-16 12:37:02.545355,Ghalemdi Hydro Limited
+2026041604009547,GHL,58,43,100,256.2,25620.0,2026-04-16,186621451,2806,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 12:38:35.121815,Ghalemdi Hydro Limited
+2026041604009575,GHL,6,66,100,257.0,25700.0,2026-04-16,186621784,2806,Agrawal Securities (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-16 12:39:19.041418,Ghalemdi Hydro Limited
+2026041604009651,GHL,58,58,450,256.2,115290.0,2026-04-16,186622263,2806,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:40:09.730230,Ghalemdi Hydro Limited
+2026041604009921,GHL,58,34,50,256.2,12810.0,2026-04-16,186625577,2806,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:44:38.978886,Ghalemdi Hydro Limited
+2026041604009939,GHL,68,52,500,256.9,128450.0,2026-04-16,186625795,2806,Elite Stock House Limited,Sundhara Securities Limited,2026-04-16 12:45:02.730937,Ghalemdi Hydro Limited
+2026041604009940,GHL,68,66,273,257.0,70161.0,2026-04-16,186625797,2806,Elite Stock House Limited,Miyo Securities Pvt Ltd,2026-04-16 12:45:02.731271,Ghalemdi Hydro Limited
+2026041604009941,GHL,68,35,1227,257.0,315339.0,2026-04-16,186625800,2806,Elite Stock House Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:45:02.731475,Ghalemdi Hydro Limited
+2026041604009962,GHL,49,35,20,257.0,5140.0,2026-04-16,186626090,2806,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:45:29.496810,Ghalemdi Hydro Limited
+2026041604010215,GHL,58,35,115,257.0,29555.0,2026-04-16,186629590,2806,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:50:47.474439,Ghalemdi Hydro Limited
+2026041604010313,GHL,62,21,500,256.9,128450.0,2026-04-16,186630707,2806,Capital Max Securities Ltd,Midas Stock Broking Company Private Limited,2026-04-16 12:52:33.847272,Ghalemdi Hydro Limited
+2026041604010314,GHL,62,35,500,257.0,128500.0,2026-04-16,186630710,2806,Capital Max Securities Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:52:33.847484,Ghalemdi Hydro Limited
+2026041604010413,GHL,58,35,130,257.0,33410.0,2026-04-16,186631586,2806,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:53:50.353731,Ghalemdi Hydro Limited
+2026041604010440,GHL,35,97,680,256.8,174624.0,2026-04-16,186632261,2806,Kohinoor Investment & Securities Pvt. Ltd.,R.B.B. Securities Company Ltd,2026-04-16 12:54:14.996124,Ghalemdi Hydro Limited
+2026041604010527,GHL,6,38,110,256.2,28182.0,2026-04-16,186632828,2806,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:55:13.400714,Ghalemdi Hydro Limited
+2026041604010528,GHL,6,38,520,256.1,133172.0,2026-04-16,186632830,2806,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:55:13.400807,Ghalemdi Hydro Limited
+2026041604010529,GHL,36,38,370,256.0,94720.0,2026-04-16,186632831,2806,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:55:13.400835,Ghalemdi Hydro Limited
+2026041604010734,GHL,36,42,130,256.0,33280.0,2026-04-16,186634642,2806,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 12:58:54.911719,Ghalemdi Hydro Limited
+2026041604010735,GHL,47,42,50,256.0,12800.0,2026-04-16,186634643,2806,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:58:54.911907,Ghalemdi Hydro Limited
+2026041604010747,GHL,58,65,160,255.5,40880.0,2026-04-16,186634713,2806,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-16 12:59:02.962247,Ghalemdi Hydro Limited
+2026041604010750,GHL,58,38,90,255.5,22995.0,2026-04-16,186634776,2806,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:59:11.564628,Ghalemdi Hydro Limited
+2026041604010751,GHL,25,38,410,255.3,104673.0,2026-04-16,186634777,2806,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:59:11.564735,Ghalemdi Hydro Limited
+2026041604010928,GHL,25,97,90,255.3,22977.0,2026-04-16,186636182,2806,Sweta Securities Private Limited,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.965594,Ghalemdi Hydro Limited
+2026041604010929,GHL,3,97,100,255.3,25530.0,2026-04-16,186636184,2806,Arun Securities (PVT) Ltd.,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.965905,Ghalemdi Hydro Limited
+2026041604010930,GHL,16,97,150,255.3,38295.0,2026-04-16,186636186,2806,Primo Securities (PVT) Ltd.,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.966099,Ghalemdi Hydro Limited
+2026041604010931,GHL,6,97,1000,255.2,255200.0,2026-04-16,186636188,2806,Agrawal Securities (PVT) Ltd.,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.966283,Ghalemdi Hydro Limited
+2026041604010932,GHL,59,97,100,255.1,25510.0,2026-04-16,186636190,2806,Deevyaa Securities & Stock House Pvt. Ltd,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.966503,Ghalemdi Hydro Limited
+2026041604010933,GHL,19,97,3000,255.1,765300.0,2026-04-16,186636192,2806,Nepal Investment And Securities Trading Private Limited,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.966691,Ghalemdi Hydro Limited
+2026041604010934,GHL,25,97,200,255.0,51000.0,2026-04-16,186636194,2806,Sweta Securities Private Limited,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.966869,Ghalemdi Hydro Limited
+2026041604010935,GHL,70,97,1000,255.0,255000.0,2026-04-16,186636196,2806,Infinity Securities Limited,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.967117,Ghalemdi Hydro Limited
+2026041604010936,GHL,74,97,5000,255.0,1275000.0,2026-04-16,186636198,2806,KALASH STOCK MARKET PVT. LTD.,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.967309,Ghalemdi Hydro Limited
+2026041604010937,GHL,46,97,100,255.0,25500.0,2026-04-16,186636200,2806,Kalika Securities Pvt. Ltd.,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.967515,Ghalemdi Hydro Limited
+2026041604010938,GHL,72,97,500,255.0,127500.0,2026-04-16,186636202,2806,Hatemalo Financial Services Private Limited,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.967700,Ghalemdi Hydro Limited
+2026041604010939,GHL,3,97,100,255.0,25500.0,2026-04-16,186636204,2806,Arun Securities (PVT) Ltd.,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.967878,Ghalemdi Hydro Limited
+2026041604010940,GHL,48,97,100,255.0,25500.0,2026-04-16,186636206,2806,Trishakti Securities Public Limited,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.968055,Ghalemdi Hydro Limited
+2026041604010941,GHL,36,97,60,255.0,15300.0,2026-04-16,186636207,2806,Secured Securities Ltd.,R.B.B. Securities Company Ltd,2026-04-16 13:01:23.968209,Ghalemdi Hydro Limited
+2026041604010969,GHL,14,42,200,255.5,51100.0,2026-04-16,186636402,2806,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 13:01:49.186479,Ghalemdi Hydro Limited
+2026041604011083,GHL,36,42,22,255.0,5610.0,2026-04-16,186637318,2806,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 13:03:13.915743,Ghalemdi Hydro Limited
+2026041604011084,GHL,58,42,45,255.0,11475.0,2026-04-16,186637320,2806,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:03:13.915810,Ghalemdi Hydro Limited
+2026041604011085,GHL,58,42,100,255.0,25500.0,2026-04-16,186637322,2806,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:03:13.915838,Ghalemdi Hydro Limited
+2026041604011086,GHL,95,42,500,254.3,127150.0,2026-04-16,186637324,2806,Magnet Securities and Investment Company Private Limited,Sani Securities Company Ltd.,2026-04-16 13:03:13.915868,Ghalemdi Hydro Limited
+2026041604011087,GHL,89,42,500,254.2,127100.0,2026-04-16,186637326,2806,Global IME Securities Limited,Sani Securities Company Ltd.,2026-04-16 13:03:13.915898,Ghalemdi Hydro Limited
+2026041604011088,GHL,57,42,100,254.2,25420.0,2026-04-16,186637328,2806,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-16 13:03:13.915951,Ghalemdi Hydro Limited
+2026041604011089,GHL,65,42,50,254.0,12700.0,2026-04-16,186637330,2806,Sharepro Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 13:03:13.915981,Ghalemdi Hydro Limited
+2026041604011090,GHL,4,42,500,254.0,127000.0,2026-04-16,186637332,2806,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 13:03:13.916009,Ghalemdi Hydro Limited
+2026041604011091,GHL,17,42,103,254.0,26162.0,2026-04-16,186637333,2806,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 13:03:13.916034,Ghalemdi Hydro Limited
+2026041604011214,GHL,39,42,50,255.5,12775.0,2026-04-16,186638404,2806,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:05:09.139980,Ghalemdi Hydro Limited
+2026041604011223,GHL,39,58,10,256.0,2560.0,2026-04-16,186638532,2806,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:05:23.424423,Ghalemdi Hydro Limited
+2026041604011267,GHL,57,59,10,254.2,2542.0,2026-04-16,186638940,2806,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:05:52.992484,Ghalemdi Hydro Limited
+2026041604011299,GHL,18,59,90,254.2,22878.0,2026-04-16,186639134,2806,Sagarmatha Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:06:04.820055,Ghalemdi Hydro Limited
+2026041604011407,GHL,39,42,90,254.2,22878.0,2026-04-16,186640388,2806,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:07:08.426942,Ghalemdi Hydro Limited
+2026041604011408,GHL,17,42,397,254.0,100838.0,2026-04-16,186640390,2806,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 13:07:08.427131,Ghalemdi Hydro Limited
+2026041604011409,GHL,13,42,200,254.0,50800.0,2026-04-16,186640392,2806,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-16 13:07:08.427200,Ghalemdi Hydro Limited
+2026041604011410,GHL,56,42,113,254.0,28702.0,2026-04-16,186640393,2806,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:07:08.427293,Ghalemdi Hydro Limited
+2026041604011425,GHL,56,45,198,254.0,50292.0,2026-04-16,186640502,2806,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:07:15.066032,Ghalemdi Hydro Limited
+2026041604011426,GHL,62,45,702,254.0,178308.0,2026-04-16,186640503,2806,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:07:15.066207,Ghalemdi Hydro Limited
+2026041604011438,GHL,62,45,798,254.0,202692.0,2026-04-16,186640572,2806,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:07:21.126514,Ghalemdi Hydro Limited
+2026041604011472,GHL,16,42,50,254.0,12700.0,2026-04-16,186640837,2806,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 13:07:43.746146,Ghalemdi Hydro Limited
+2026041604011662,GHL,16,74,50,254.0,12700.0,2026-04-16,186642273,2806,Primo Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:09:26.282514,Ghalemdi Hydro Limited
+2026041604011711,GHL,16,94,400,254.0,101600.0,2026-04-16,186642529,2806,Primo Securities (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030233,Ghalemdi Hydro Limited
+2026041604011712,GHL,58,94,250,254.0,63500.0,2026-04-16,186642532,2806,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030415,Ghalemdi Hydro Limited
+2026041604011713,GHL,45,94,1500,254.0,381000.0,2026-04-16,186642534,2806,Imperial Securities Company Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030504,Ghalemdi Hydro Limited
+2026041604011714,GHL,58,94,23,254.0,5842.0,2026-04-16,186642536,2806,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030572,Ghalemdi Hydro Limited
+2026041604011715,GHL,59,94,100,253.2,25320.0,2026-04-16,186642538,2806,Deevyaa Securities & Stock House Pvt. Ltd,K.B.L. Securities Limited ,2026-04-16 13:09:37.030632,Ghalemdi Hydro Limited
+2026041604011716,GHL,32,94,1100,253.2,278520.0,2026-04-16,186642540,2806,Premier Securities Company Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030692,Ghalemdi Hydro Limited
+2026041604011717,GHL,26,94,3000,253.1,759300.0,2026-04-16,186642542,2806,Asian Securities Private Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030752,Ghalemdi Hydro Limited
+2026041604011718,GHL,51,94,200,253.0,50600.0,2026-04-16,186642544,2806,Oxford Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030822,Ghalemdi Hydro Limited
+2026041604011719,GHL,42,94,250,253.0,63250.0,2026-04-16,186642546,2806,Sani Securities Company Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030882,Ghalemdi Hydro Limited
+2026041604011720,GHL,45,94,1000,253.0,253000.0,2026-04-16,186642548,2806,Imperial Securities Company Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.030970,Ghalemdi Hydro Limited
+2026041604011721,GHL,33,94,500,253.0,126500.0,2026-04-16,186642550,2806,Dakshinkali Investment & Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.031038,Ghalemdi Hydro Limited
+2026041604011722,GHL,38,94,1000,253.0,253000.0,2026-04-16,186642552,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.031168,Ghalemdi Hydro Limited
+2026041604011723,GHL,11,94,300,253.0,75900.0,2026-04-16,186642554,2806,Malla & Malla Stock Broking Company Pvt. Limited,K.B.L. Securities Limited ,2026-04-16 13:09:37.031266,Ghalemdi Hydro Limited
+2026041604011724,GHL,16,94,377,253.0,95381.0,2026-04-16,186642555,2806,Primo Securities (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-16 13:09:37.031378,Ghalemdi Hydro Limited
+2026041604011817,GHL,16,21,123,253.0,31119.0,2026-04-16,186643302,2806,Primo Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.113186,Ghalemdi Hydro Limited
+2026041604011818,GHL,49,21,100,253.0,25300.0,2026-04-16,186643304,2806,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.113483,Ghalemdi Hydro Limited
+2026041604011819,GHL,89,21,800,253.0,202400.0,2026-04-16,186643306,2806,Global IME Securities Limited,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.113654,Ghalemdi Hydro Limited
+2026041604011820,GHL,58,21,110,253.0,27830.0,2026-04-16,186643308,2806,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.113823,Ghalemdi Hydro Limited
+2026041604011821,GHL,22,21,200,253.0,50600.0,2026-04-16,186643310,2806,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.114029,Ghalemdi Hydro Limited
+2026041604011822,GHL,72,21,500,253.0,126500.0,2026-04-16,186643312,2806,Hatemalo Financial Services Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.114184,Ghalemdi Hydro Limited
+2026041604011823,GHL,58,21,250,253.0,63250.0,2026-04-16,186643314,2806,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.114350,Ghalemdi Hydro Limited
+2026041604011824,GHL,25,21,917,253.0,232001.0,2026-04-16,186643315,2806,Sweta Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 13:10:13.114502,Ghalemdi Hydro Limited
+2026041604012118,GHL,25,42,83,253.0,20999.0,2026-04-16,186645332,2806,Sweta Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 13:11:56.198288,Ghalemdi Hydro Limited
+2026041604012119,GHL,10,42,20,253.0,5060.0,2026-04-16,186645334,2806,Pragyan Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 13:11:56.198466,Ghalemdi Hydro Limited
+2026041604012120,GHL,48,42,100,253.0,25300.0,2026-04-16,186645336,2806,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-16 13:11:56.198525,Ghalemdi Hydro Limited
+2026041604012156,GHL,58,42,10,253.0,2530.0,2026-04-16,186645590,2806,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:12:08.201754,Ghalemdi Hydro Limited
+2026041604012362,GHL,26,43,100,252.9,25290.0,2026-04-16,186646736,2806,Asian Securities Private Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 13:13:13.158951,Ghalemdi Hydro Limited
+2026041604012363,GHL,57,43,100,252.9,25290.0,2026-04-16,186646738,2806,Aryatara Investment & Securities,South Asian Bulls Pvt. Ltd.,2026-04-16 13:13:13.159032,Ghalemdi Hydro Limited
+2026041604012364,GHL,14,43,120,252.2,30264.0,2026-04-16,186646740,2806,Nepal Stock House (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 13:13:13.159057,Ghalemdi Hydro Limited
+2026041604012365,GHL,25,43,500,252.1,126050.0,2026-04-16,186646742,2806,Sweta Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 13:13:13.159079,Ghalemdi Hydro Limited
+2026041604012366,GHL,32,43,135,252.1,34033.5,2026-04-16,186646744,2806,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 13:13:13.159100,Ghalemdi Hydro Limited
+2026041604012367,GHL,32,43,45,252.0,11340.0,2026-04-16,186646745,2806,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 13:13:13.159128,Ghalemdi Hydro Limited
+2026041604012410,GHL,50,42,500,252.9,126450.0,2026-04-16,186646954,2806,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:13:24.960370,Ghalemdi Hydro Limited
+2026041604012448,GHL,32,38,1300,252.0,327600.0,2026-04-16,186647201,2806,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:13:36.534675,Ghalemdi Hydro Limited
+2026041604012477,GHL,5,45,100,252.1,25210.0,2026-04-16,186647328,2806,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.905971,Ghalemdi Hydro Limited
+2026041604012478,GHL,32,45,3655,252.0,921060.0,2026-04-16,186647330,2806,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906048,Ghalemdi Hydro Limited
+2026041604012479,GHL,25,45,200,252.0,50400.0,2026-04-16,186647332,2806,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906086,Ghalemdi Hydro Limited
+2026041604012480,GHL,25,45,1000,252.0,252000.0,2026-04-16,186647334,2806,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906116,Ghalemdi Hydro Limited
+2026041604012481,GHL,34,45,100,252.0,25200.0,2026-04-16,186647336,2806,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906141,Ghalemdi Hydro Limited
+2026041604012482,GHL,58,45,100,252.0,25200.0,2026-04-16,186647338,2806,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906163,Ghalemdi Hydro Limited
+2026041604012483,GHL,62,45,100,251.9,25190.0,2026-04-16,186647340,2806,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906193,Ghalemdi Hydro Limited
+2026041604012484,GHL,5,45,1000,251.9,251900.0,2026-04-16,186647342,2806,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906217,Ghalemdi Hydro Limited
+2026041604012485,GHL,89,45,100,251.9,25190.0,2026-04-16,186647344,2806,Global IME Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906242,Ghalemdi Hydro Limited
+2026041604012486,GHL,29,45,100,251.9,25190.0,2026-04-16,186647346,2806,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906262,Ghalemdi Hydro Limited
+2026041604012487,GHL,38,45,545,251.9,137285.5,2026-04-16,186647347,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:13:44.906285,Ghalemdi Hydro Limited
+2026041604012567,GHL,50,19,200,252.0,50400.0,2026-04-16,186647789,2806,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:14:03.566274,Ghalemdi Hydro Limited
+2026041604012568,GHL,50,14,300,252.0,75600.0,2026-04-16,186647792,2806,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:14:03.566582,Ghalemdi Hydro Limited
+2026041604012628,GHL,4,14,700,252.0,176400.0,2026-04-16,186648090,2806,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 13:14:22.137382,Ghalemdi Hydro Limited
+2026041604012631,GHL,38,21,455,251.9,114614.5,2026-04-16,186648122,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:14:23.121340,Ghalemdi Hydro Limited
+2026041604012632,GHL,6,21,100,251.9,25190.0,2026-04-16,186648124,2806,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:14:23.121457,Ghalemdi Hydro Limited
+2026041604012633,GHL,47,21,50,251.9,12595.0,2026-04-16,186648126,2806,Neev Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:14:23.121514,Ghalemdi Hydro Limited
+2026041604012673,GHL,22,44,100,251.0,25100.0,2026-04-16,186648338,2806,Siprabi Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:14:36.065361,Ghalemdi Hydro Limited
+2026041604012674,GHL,17,44,20,251.0,5020.0,2026-04-16,186648340,2806,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:14:36.065501,Ghalemdi Hydro Limited
+2026041604012675,GHL,77,44,380,251.0,95380.0,2026-04-16,186648341,2806,Nabil Stock Dealer Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:14:36.065557,Ghalemdi Hydro Limited
+2026041604012742,GHL,49,21,500,251.8,125900.0,2026-04-16,186648682,2806,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:14:54.575609,Ghalemdi Hydro Limited
+2026041604012749,GHL,5,21,100,251.8,25180.0,2026-04-16,186648724,2806,Market Securities & Exchange (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:14:56.005782,Ghalemdi Hydro Limited
+2026041604012781,GHL,18,21,200,251.8,50360.0,2026-04-16,186648930,2806,Sagarmatha Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 13:15:04.912909,Ghalemdi Hydro Limited
+2026041604012787,GHL,35,42,100,251.1,25110.0,2026-04-16,186648980,2806,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:15:07.923773,Ghalemdi Hydro Limited
+2026041604012788,GHL,77,42,120,251.0,30120.0,2026-04-16,186648982,2806,Nabil Stock Dealer Ltd.,Sani Securities Company Ltd.,2026-04-16 13:15:07.923943,Ghalemdi Hydro Limited
+2026041604012789,GHL,59,42,494,251.0,123994.0,2026-04-16,186648983,2806,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-16 13:15:07.924000,Ghalemdi Hydro Limited
+2026041604012831,GHL,59,45,20,251.0,5020.0,2026-04-16,186649184,2806,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:15:16.381985,Ghalemdi Hydro Limited
+2026041604012832,GHL,59,45,200,251.0,50200.0,2026-04-16,186649186,2806,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:15:16.382268,Ghalemdi Hydro Limited
+2026041604012833,GHL,54,45,100,251.0,25100.0,2026-04-16,186649188,2806,Sewa Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:15:16.382464,Ghalemdi Hydro Limited
+2026041604012834,GHL,38,45,80,251.0,20080.0,2026-04-16,186649190,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:15:16.382643,Ghalemdi Hydro Limited
+2026041604012835,GHL,34,45,100,251.0,25100.0,2026-04-16,186649192,2806,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:15:16.382839,Ghalemdi Hydro Limited
+2026041604012881,GHL,5,45,300,251.0,75300.0,2026-04-16,186649300,2806,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:15:19.396673,Ghalemdi Hydro Limited
+2026041604012906,GHL,89,45,300,251.0,75300.0,2026-04-16,186649399,2806,Global IME Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:15:24.648402,Ghalemdi Hydro Limited
+2026041604012907,GHL,89,49,200,251.0,50200.0,2026-04-16,186649402,2806,Global IME Securities Limited,Online Securities Pvt. Ltd.,2026-04-16 13:15:24.648530,Ghalemdi Hydro Limited
+2026041604012980,GHL,5,49,500,251.0,125500.0,2026-04-16,186649762,2806,Market Securities & Exchange (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:15:43.669398,Ghalemdi Hydro Limited
+2026041604012998,GHL,18,49,100,251.0,25100.0,2026-04-16,186649856,2806,Sagarmatha Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 13:15:48.783040,Ghalemdi Hydro Limited
+2026041604013029,GHL,95,49,90,251.0,22590.0,2026-04-16,186650088,2806,Magnet Securities and Investment Company Private Limited,Online Securities Pvt. Ltd.,2026-04-16 13:16:05.733575,Ghalemdi Hydro Limited
+2026041604013096,GHL,95,56,500,250.6,125300.0,2026-04-16,186650540,2806,Magnet Securities and Investment Company Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-16 13:16:30.188427,Ghalemdi Hydro Limited
+2026041604013097,GHL,49,56,500,250.6,125300.0,2026-04-16,186650541,2806,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 13:16:30.188597,Ghalemdi Hydro Limited
+2026041604013100,GHL,18,34,100,251.0,25100.0,2026-04-16,186650558,2806,Sagarmatha Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 13:16:31.519443,Ghalemdi Hydro Limited
+2026041604013202,GHL,57,34,350,251.0,87850.0,2026-04-16,186650905,2806,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 13:16:44.443020,Ghalemdi Hydro Limited
+2026041604013203,GHL,57,45,150,251.0,37650.0,2026-04-16,186650908,2806,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:16:44.443069,Ghalemdi Hydro Limited
+2026041604013221,GHL,18,45,100,251.0,25100.0,2026-04-16,186651088,2806,Sagarmatha Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:16:53.421808,Ghalemdi Hydro Limited
+2026041604013282,GHL,58,58,402,251.0,100902.0,2026-04-16,186651557,2806,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:17:19.421832,Ghalemdi Hydro Limited
+2026041604013283,GHL,45,58,10,251.0,2510.0,2026-04-16,186651559,2806,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:17:19.421908,Ghalemdi Hydro Limited
+2026041604013284,GHL,45,58,101,251.0,25351.0,2026-04-16,186651561,2806,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:17:19.421934,Ghalemdi Hydro Limited
+2026041604013285,GHL,59,58,100,250.6,25060.0,2026-04-16,186651563,2806,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:17:19.421958,Ghalemdi Hydro Limited
+2026041604013286,GHL,58,58,866,250.5,216933.0,2026-04-16,186651564,2806,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:17:19.421984,Ghalemdi Hydro Limited
+2026041604013332,GHL,5,51,100,251.5,25150.0,2026-04-16,186651944,2806,Market Securities & Exchange (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 13:17:40.361355,Ghalemdi Hydro Limited
+2026041604013388,GHL,59,45,11,251.0,2761.0,2026-04-16,186652383,2806,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:17:56.201633,Ghalemdi Hydro Limited
+2026041604013389,GHL,59,21,89,251.0,22339.0,2026-04-16,186652388,2806,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 13:17:56.763211,Ghalemdi Hydro Limited
+2026041604013406,GHL,34,21,36,251.0,9036.0,2026-04-16,186652593,2806,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 13:18:01.952005,Ghalemdi Hydro Limited
+2026041604013415,GHL,34,58,30,251.0,7530.0,2026-04-16,186652625,2806,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:18:03.860599,Ghalemdi Hydro Limited
+2026041604013466,GHL,34,35,34,251.0,8534.0,2026-04-16,186653186,2806,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:18:24.274671,Ghalemdi Hydro Limited
+2026041604013467,GHL,36,35,380,251.0,95380.0,2026-04-16,186653188,2806,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:18:24.274820,Ghalemdi Hydro Limited
+2026041604013520,GHL,6,35,50,251.0,12550.0,2026-04-16,186653490,2806,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:18:38.740751,Ghalemdi Hydro Limited
+2026041604013647,GHL,38,35,500,251.0,125500.0,2026-04-16,186654016,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:19:02.485480,Ghalemdi Hydro Limited
+2026041604013751,GHL,25,35,385,250.7,96519.5,2026-04-16,186654617,2806,Sweta Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:19:36.188095,Ghalemdi Hydro Limited
+2026041604014104,GHL,5,58,40,252.0,10080.0,2026-04-16,186656966,2806,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:21:19.876113,Ghalemdi Hydro Limited
+2026041604014125,GHL,57,49,400,251.2,100480.0,2026-04-16,186657062,2806,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-16 13:21:24.515967,Ghalemdi Hydro Limited
+2026041604014126,GHL,35,49,100,251.1,25110.0,2026-04-16,186657064,2806,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:21:24.516108,Ghalemdi Hydro Limited
+2026041604014127,GHL,38,49,100,251.0,25100.0,2026-04-16,186657065,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:21:24.516169,Ghalemdi Hydro Limited
+2026041604014935,GHL,58,80,20,251.8,5036.0,2026-04-16,186662419,2806,Naasa Securities Co. Ltd.,Indira securities pvt. ltd,2026-04-16 13:26:15.680029,Ghalemdi Hydro Limited
+2026041604015378,GHL,41,58,50,252.3,12615.0,2026-04-16,186665962,2806,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:30:30.944225,Ghalemdi Hydro Limited
+2026041604015379,GHL,58,58,365,252.3,92089.5,2026-04-16,186665963,2806,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:30:30.944527,Ghalemdi Hydro Limited
+2026041604015390,GHL,41,58,8,250.7,2005.6,2026-04-16,186666029,2806,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:30:37.505957,Ghalemdi Hydro Limited
+2026041604015431,GHL,6,41,50,254.9,12745.0,2026-04-16,186666532,2806,Agrawal Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-16 13:31:09.119573,Ghalemdi Hydro Limited
+2026041604015437,GHL,46,47,60,253.0,15180.0,2026-04-16,186666648,2806,Kalika Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.112826,Ghalemdi Hydro Limited
+2026041604015438,GHL,57,47,211,252.5,53277.5,2026-04-16,186666650,2806,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.112899,Ghalemdi Hydro Limited
+2026041604015439,GHL,58,47,615,252.3,155164.5,2026-04-16,186666652,2806,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.112928,Ghalemdi Hydro Limited
+2026041604015440,GHL,7,47,855,252.2,215631.0,2026-04-16,186666654,2806,J.F. Securites (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.112970,Ghalemdi Hydro Limited
+2026041604015441,GHL,5,47,120,252.1,30252.0,2026-04-16,186666656,2806,Market Securities & Exchange (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.112997,Ghalemdi Hydro Limited
+2026041604015442,GHL,16,47,300,252.0,75600.0,2026-04-16,186666658,2806,Primo Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113038,Ghalemdi Hydro Limited
+2026041604015443,GHL,33,47,200,252.0,50400.0,2026-04-16,186666660,2806,Dakshinkali Investment & Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113061,Ghalemdi Hydro Limited
+2026041604015444,GHL,41,47,200,252.0,50400.0,2026-04-16,186666662,2806,Linch Stock Market Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113080,Ghalemdi Hydro Limited
+2026041604015445,GHL,48,47,5000,252.0,1260000.0,2026-04-16,186666664,2806,Trishakti Securities Public Limited,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113100,Ghalemdi Hydro Limited
+2026041604015446,GHL,6,47,1000,251.8,251800.0,2026-04-16,186666666,2806,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113121,Ghalemdi Hydro Limited
+2026041604015447,GHL,4,47,500,251.6,125800.0,2026-04-16,186666668,2806,Opal Securities Investment (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113142,Ghalemdi Hydro Limited
+2026041604015448,GHL,54,47,250,251.5,62875.0,2026-04-16,186666670,2806,Sewa Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113164,Ghalemdi Hydro Limited
+2026041604015449,GHL,16,47,500,251.2,125600.0,2026-04-16,186666672,2806,Primo Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113185,Ghalemdi Hydro Limited
+2026041604015450,GHL,68,47,189,251.2,47476.8,2026-04-16,186666673,2806,Elite Stock House Limited,Neev Securities Pvt. Ltd.,2026-04-16 13:31:13.113205,Ghalemdi Hydro Limited
+2026041604015501,GHL,54,47,50,252.4,12620.0,2026-04-16,186667278,2806,Sewa Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:52.178367,Ghalemdi Hydro Limited
+2026041604015502,GHL,41,47,500,252.0,126000.0,2026-04-16,186667280,2806,Linch Stock Market Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 13:31:52.178408,Ghalemdi Hydro Limited
+2026041604015503,GHL,68,47,4450,251.2,1117840.0,2026-04-16,186667281,2806,Elite Stock House Limited,Neev Securities Pvt. Ltd.,2026-04-16 13:31:52.178433,Ghalemdi Hydro Limited
+2026041604015593,GHL,45,58,83,251.3,20857.9,2026-04-16,186668277,2806,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:32:39.793811,Ghalemdi Hydro Limited
+2026041604015980,GHL,38,44,200,252.3,50460.0,2026-04-16,186671035,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:35:18.119717,Ghalemdi Hydro Limited
+2026041604016156,GHL,38,52,200,252.5,50500.0,2026-04-16,186672058,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sundhara Securities Limited,2026-04-16 13:36:18.469233,Ghalemdi Hydro Limited
+2026041604016605,GHL,39,74,50,252.0,12600.0,2026-04-16,186674737,2806,Sumeru Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:38:29.566374,Ghalemdi Hydro Limited
+2026041604016758,GHL,39,42,1450,252.0,365400.0,2026-04-16,186675785,2806,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:39:20.168731,Ghalemdi Hydro Limited
+2026041604016823,GHL,45,34,200,251.3,50260.0,2026-04-16,186676185,2806,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:39:42.362765,Ghalemdi Hydro Limited
+2026041604016864,GHL,52,45,10,252.0,2520.0,2026-04-16,186676433,2806,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:40:02.163247,Ghalemdi Hydro Limited
+2026041604016865,GHL,52,38,990,252.4,249876.0,2026-04-16,186676436,2806,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:40:02.163441,Ghalemdi Hydro Limited
+2026041604016867,GHL,45,42,17,251.3,4272.1,2026-04-16,186676452,2806,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:40:03.087033,Ghalemdi Hydro Limited
+2026041604016953,GHL,97,42,33,251.3,8292.9,2026-04-16,186677073,2806,R.B.B. Securities Company Ltd,Sani Securities Company Ltd.,2026-04-16 13:40:42.906692,Ghalemdi Hydro Limited
+2026041604017160,GHL,29,38,810,252.4,204444.0,2026-04-16,186678353,2806,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:42:08.221557,Ghalemdi Hydro Limited
+2026041604017161,GHL,29,52,50,252.5,12625.0,2026-04-16,186678355,2806,Trisul Securities & Invt. Ltd.,Sundhara Securities Limited,2026-04-16 13:42:08.221904,Ghalemdi Hydro Limited
+2026041604017171,GHL,29,21,100,252.5,25250.0,2026-04-16,186678460,2806,Trisul Securities & Invt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:42:13.920752,Ghalemdi Hydro Limited
+2026041604017319,GHL,52,58,300,254.0,76200.0,2026-04-16,186679262,2806,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 13:43:19.121001,Ghalemdi Hydro Limited
+2026041604017364,GHL,38,34,1000,254.8,254800.0,2026-04-16,186679648,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:43:45.855338,Ghalemdi Hydro Limited
+2026041604017505,GHL,7,44,100,254.0,25400.0,2026-04-16,186680613,2806,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:45:07.888584,Ghalemdi Hydro Limited
+2026041604017506,GHL,7,58,470,254.5,119615.0,2026-04-16,186680615,2806,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:45:07.888825,Ghalemdi Hydro Limited
+2026041604017507,GHL,7,34,80,254.8,20384.0,2026-04-16,186680617,2806,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:45:07.888900,Ghalemdi Hydro Limited
+2026041604017508,GHL,7,41,350,254.9,89215.0,2026-04-16,186680620,2806,J.F. Securites (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-16 13:45:07.888971,Ghalemdi Hydro Limited
+2026041604017622,GHL,57,41,30,254.6,7638.0,2026-04-16,186681516,2806,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-16 13:46:30.653212,Ghalemdi Hydro Limited
+2026041604017738,GHL,25,41,70,254.0,17780.0,2026-04-16,186682681,2806,Sweta Securities Private Limited,Linch Stock Market Ltd.,2026-04-16 13:48:06.600500,Ghalemdi Hydro Limited
+2026041604017739,GHL,25,41,45,254.9,11470.5,2026-04-16,186682684,2806,Sweta Securities Private Limited,Linch Stock Market Ltd.,2026-04-16 13:48:06.600859,Ghalemdi Hydro Limited
+2026041604017915,GHL,33,74,50,253.0,12650.0,2026-04-16,186684353,2806,Dakshinkali Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:50:40.560486,Ghalemdi Hydro Limited
+2026041604017939,GHL,42,41,100,254.9,25490.0,2026-04-16,186684702,2806,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-16 13:51:10.695594,Ghalemdi Hydro Limited
+2026041604018177,GHL,16,48,190,254.7,48393.0,2026-04-16,186685983,2806,Primo Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-16 13:53:19.563456,Ghalemdi Hydro Limited
+2026041604018178,GHL,16,6,850,254.8,216580.0,2026-04-16,186685985,2806,Primo Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 13:53:19.563820,Ghalemdi Hydro Limited
+2026041604018179,GHL,16,41,60,254.9,15294.0,2026-04-16,186685988,2806,Primo Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-16 13:53:19.564031,Ghalemdi Hydro Limited
+2026041604018250,GHL,10,41,70,254.9,17843.0,2026-04-16,186686447,2806,Pragyan Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-16 13:54:03.281363,Ghalemdi Hydro Limited
+2026041604018251,GHL,10,52,130,254.9,33137.0,2026-04-16,186686450,2806,Pragyan Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-16 13:54:03.281683,Ghalemdi Hydro Limited
+2026041604018287,GHL,16,52,100,254.9,25490.0,2026-04-16,186686742,2806,Primo Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-16 13:54:29.835304,Ghalemdi Hydro Limited
+2026041604018423,GHL,33,52,10,253.0,2530.0,2026-04-16,186688057,2806,Dakshinkali Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-16 13:56:49.245152,Ghalemdi Hydro Limited
+2026041604018515,GHL,33,45,139,253.0,35167.0,2026-04-16,186688919,2806,Dakshinkali Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:58:34.986051,Ghalemdi Hydro Limited
+2026041604018581,GHL,33,41,101,253.0,25553.0,2026-04-16,186689404,2806,Dakshinkali Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 13:59:21.366288,Ghalemdi Hydro Limited
+2026041604018582,GHL,74,41,100,253.0,25300.0,2026-04-16,186689406,2806,KALASH STOCK MARKET PVT. LTD.,Linch Stock Market Ltd.,2026-04-16 13:59:21.366545,Ghalemdi Hydro Limited
+2026041604018583,GHL,58,41,156,253.0,39468.0,2026-04-16,186689408,2806,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 13:59:21.366631,Ghalemdi Hydro Limited
+2026041604018584,GHL,22,41,600,252.9,151740.0,2026-04-16,186689410,2806,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 13:59:21.367068,Ghalemdi Hydro Limited
+2026041604018585,GHL,51,41,100,252.8,25280.0,2026-04-16,186689412,2806,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 13:59:21.367409,Ghalemdi Hydro Limited
+2026041604018586,GHL,97,41,442,252.5,111605.0,2026-04-16,186689413,2806,R.B.B. Securities Company Ltd,Linch Stock Market Ltd.,2026-04-16 13:59:21.367712,Ghalemdi Hydro Limited
+2026041604018702,GHL,97,99,375,252.5,94687.5,2026-04-16,186690370,2806,R.B.B. Securities Company Ltd,Prabhu Stock Market Limited,2026-04-16 14:00:40.071580,Ghalemdi Hydro Limited
+2026041604018703,GHL,21,99,200,252.1,50420.0,2026-04-16,186690372,2806,Midas Stock Broking Company Private Limited,Prabhu Stock Market Limited,2026-04-16 14:00:40.071782,Ghalemdi Hydro Limited
+2026041604018704,GHL,16,99,500,252.0,126000.0,2026-04-16,186690374,2806,Primo Securities (PVT) Ltd.,Prabhu Stock Market Limited,2026-04-16 14:00:40.071862,Ghalemdi Hydro Limited
+2026041604018705,GHL,38,99,500,252.0,126000.0,2026-04-16,186690376,2806,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Prabhu Stock Market Limited,2026-04-16 14:00:40.071935,Ghalemdi Hydro Limited
+2026041604018706,GHL,72,99,25,252.0,6300.0,2026-04-16,186690378,2806,Hatemalo Financial Services Private Limited,Prabhu Stock Market Limited,2026-04-16 14:00:40.072003,Ghalemdi Hydro Limited
+2026041604018747,GHL,62,99,400,251.5,100600.0,2026-04-16,186690571,2806,Capital Max Securities Ltd,Prabhu Stock Market Limited,2026-04-16 14:00:54.179540,Ghalemdi Hydro Limited
+2026041604018869,GHL,74,14,110,252.0,27720.0,2026-04-16,186691189,2806,KALASH STOCK MARKET PVT. LTD.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:01:48.321949,Ghalemdi Hydro Limited
+2026041604019092,GHL,8,34,200,252.0,50400.0,2026-04-16,186692888,2806,Brilliant Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:04:02.745905,Ghalemdi Hydro Limited
+2026041604019093,GHL,45,34,800,252.0,201600.0,2026-04-16,186692889,2806,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:04:02.745955,Ghalemdi Hydro Limited
+2026041604019169,GHL,45,65,200,252.0,50400.0,2026-04-16,186693770,2806,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-16 14:05:09.371345,Ghalemdi Hydro Limited
+2026041604019170,GHL,4,65,100,251.7,25170.0,2026-04-16,186693772,2806,Opal Securities Investment (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-16 14:05:09.371705,Ghalemdi Hydro Limited
+2026041604019171,GHL,17,65,110,251.7,27687.0,2026-04-16,186693773,2806,ABC Securities Private Limited,Sharepro Securities Private Limited,2026-04-16 14:05:09.371916,Ghalemdi Hydro Limited
+2026041604019463,GHL,41,52,300,253.0,75900.0,2026-04-16,186695778,2806,Linch Stock Market Ltd.,Sundhara Securities Limited,2026-04-16 14:07:41.551426,Ghalemdi Hydro Limited
+2026041604019659,GHL,17,49,11,252.1,2773.1,2026-04-16,186697357,2806,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 14:10:09.574598,Ghalemdi Hydro Limited
+2026041604019757,GHL,34,45,10,253.0,2530.0,2026-04-16,186698171,2806,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:11:21.916141,Ghalemdi Hydro Limited
+2026041604019773,GHL,34,58,25,253.0,6325.0,2026-04-16,186698319,2806,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 14:11:38.418508,Ghalemdi Hydro Limited
+2026041604019947,GHL,49,7,30,253.6,7608.0,2026-04-16,186699596,2806,Online Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:13:15.895562,Ghalemdi Hydro Limited
+2026041604020165,GHL,34,58,65,253.0,16445.0,2026-04-16,186701636,2806,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 14:16:41.722678,Ghalemdi Hydro Limited
+2026041604020309,GHL,88,58,135,253.0,34155.0,2026-04-16,186703223,2806,Blue Chip Securities Ltd,Naasa Securities Co. Ltd.,2026-04-16 14:19:30.286860,Ghalemdi Hydro Limited
+2026041604020310,GHL,88,43,20,253.0,5060.0,2026-04-16,186703225,2806,Blue Chip Securities Ltd,South Asian Bulls Pvt. Ltd.,2026-04-16 14:19:30.287112,Ghalemdi Hydro Limited
+2026041604020391,GHL,28,7,247,253.6,62639.2,2026-04-16,186703791,2806,Shree Krishna Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:20:37.377299,Ghalemdi Hydro Limited
+2026041604020450,GHL,28,58,150,253.9,38085.0,2026-04-16,186704226,2806,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:21:17.114926,Ghalemdi Hydro Limited
+2026041604020584,GHL,29,19,40,254.0,10160.0,2026-04-16,186705196,2806,Trisul Securities & Invt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:22:28.901818,Ghalemdi Hydro Limited
+2026041604020594,GHL,67,19,60,254.0,15240.0,2026-04-16,186705257,2806,Property Wiard Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:22:36.165576,Ghalemdi Hydro Limited
+2026041604020595,GHL,67,58,140,254.0,35560.0,2026-04-16,186705260,2806,Property Wiard Limited,Naasa Securities Co. Ltd.,2026-04-16 14:22:36.165971,Ghalemdi Hydro Limited
+2026041604020723,GHL,17,58,30,254.0,7620.0,2026-04-16,186706299,2806,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 14:24:29.476476,Ghalemdi Hydro Limited
+2026041604020724,GHL,17,22,970,254.0,246380.0,2026-04-16,186706302,2806,ABC Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 14:24:29.476863,Ghalemdi Hydro Limited
+2026041604020766,GHL,67,22,200,254.0,50800.0,2026-04-16,186706652,2806,Property Wiard Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 14:25:02.040733,Ghalemdi Hydro Limited
+2026041604020824,GHL,53,22,330,254.0,83820.0,2026-04-16,186706995,2806,Investment Management Nepal Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:25:29.536306,Ghalemdi Hydro Limited
+2026041604020825,GHL,53,22,670,254.0,170180.0,2026-04-16,186706998,2806,Investment Management Nepal Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:25:29.536743,Ghalemdi Hydro Limited
+2026041604020870,GHL,62,22,450,254.0,114300.0,2026-04-16,186707436,2806,Capital Max Securities Ltd,Siprabi Securities Pvt. Ltd.,2026-04-16 14:26:03.863390,Ghalemdi Hydro Limited
+2026041604021006,GHL,67,22,200,254.0,50800.0,2026-04-16,186708956,2806,Property Wiard Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 14:27:30.141865,Ghalemdi Hydro Limited
+2026041604021146,GHL,67,22,200,254.0,50800.0,2026-04-16,186710696,2806,Property Wiard Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 14:29:01.226919,Ghalemdi Hydro Limited
+2026041604021175,GHL,17,22,480,254.0,121920.0,2026-04-16,186711529,2806,ABC Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 14:29:33.744809,Ghalemdi Hydro Limited
+2026041604021269,GHL,5,16,800,254.8,203840.0,2026-04-16,186713386,2806,Market Securities & Exchange (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 14:31:08.084963,Ghalemdi Hydro Limited
+2026041604021354,GHL,88,16,50,254.8,12740.0,2026-04-16,186714369,2806,Blue Chip Securities Ltd,Primo Securities (PVT) Ltd.,2026-04-16 14:32:02.215943,Ghalemdi Hydro Limited
+2026041604021355,GHL,88,52,270,254.9,68823.0,2026-04-16,186714371,2806,Blue Chip Securities Ltd,Sundhara Securities Limited,2026-04-16 14:32:02.216429,Ghalemdi Hydro Limited
+2026041604021356,GHL,88,21,25,254.9,6372.5,2026-04-16,186714374,2806,Blue Chip Securities Ltd,Midas Stock Broking Company Private Limited,2026-04-16 14:32:02.216700,Ghalemdi Hydro Limited
+2026041604021462,GHL,5,21,200,254.9,50980.0,2026-04-16,186715354,2806,Market Securities & Exchange (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:33:02.824023,Ghalemdi Hydro Limited
+2026041604021621,GHL,17,21,489,254.9,124646.1,2026-04-16,186716816,2806,ABC Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 14:34:47.887187,Ghalemdi Hydro Limited
+2026041604022317,GHL,4,47,64,254.6,16294.4,2026-04-16,186721318,2806,Opal Securities Investment (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 14:39:45.789044,Ghalemdi Hydro Limited
+2026041604022318,GHL,58,47,40,254.5,10180.0,2026-04-16,186721320,2806,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 14:39:45.789230,Ghalemdi Hydro Limited
+2026041604022319,GHL,22,47,100,254.2,25420.0,2026-04-16,186721321,2806,Siprabi Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 14:39:45.789308,Ghalemdi Hydro Limited
+2026041604022685,GHL,67,67,57,254.0,14478.0,2026-04-16,186724115,2806,Property Wiard Limited,Property Wiard Limited,2026-04-16 14:42:34.908996,Ghalemdi Hydro Limited
+2026041604023181,GHL,86,35,10,254.1,2541.0,2026-04-16,186728403,2806,Stoxkarts Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:46:17.797995,Ghalemdi Hydro Limited
+2026041604023284,GHL,86,59,190,254.1,48279.0,2026-04-16,186729232,2806,Stoxkarts Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:47:02.069162,Ghalemdi Hydro Limited
+2026041604023352,GHL,54,59,100,254.1,25410.0,2026-04-16,186729540,2806,Sewa Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:47:15.361261,Ghalemdi Hydro Limited
+2026041604023412,GHL,67,38,143,254.0,36322.0,2026-04-16,186730204,2806,Property Wiard Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:47:47.769583,Ghalemdi Hydro Limited
+2026041604023413,GHL,32,38,50,254.0,12700.0,2026-04-16,186730206,2806,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:47:47.769992,Ghalemdi Hydro Limited
+2026041604023414,GHL,45,38,1000,254.0,254000.0,2026-04-16,186730208,2806,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:47:47.770275,Ghalemdi Hydro Limited
+2026041604023511,GHL,42,10,135,254.0,34290.0,2026-04-16,186730681,2806,Sani Securities Company Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-16 14:48:13.367925,Ghalemdi Hydro Limited
+2026041604023586,GHL,42,7,415,254.0,105410.0,2026-04-16,186731082,2806,Sani Securities Company Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.897661,Ghalemdi Hydro Limited
+2026041604023587,GHL,8,7,200,253.7,50740.0,2026-04-16,186731084,2806,Brilliant Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.897757,Ghalemdi Hydro Limited
+2026041604023588,GHL,6,7,500,253.7,126850.0,2026-04-16,186731086,2806,Agrawal Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.897833,Ghalemdi Hydro Limited
+2026041604023589,GHL,28,7,253,253.6,64160.8,2026-04-16,186731088,2806,Shree Krishna Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.897927,Ghalemdi Hydro Limited
+2026041604023590,GHL,6,7,1000,253.6,253600.0,2026-04-16,186731090,2806,Agrawal Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.897998,Ghalemdi Hydro Limited
+2026041604023591,GHL,13,7,200,253.1,50620.0,2026-04-16,186731092,2806,Thrive Brokerage House Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.898069,Ghalemdi Hydro Limited
+2026041604023592,GHL,8,7,100,253.0,25300.0,2026-04-16,186731094,2806,Brilliant Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.898146,Ghalemdi Hydro Limited
+2026041604023593,GHL,45,7,101,253.0,25553.0,2026-04-16,186731096,2806,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.898218,Ghalemdi Hydro Limited
+2026041604023594,GHL,41,7,200,252.4,50480.0,2026-04-16,186731098,2806,Linch Stock Market Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.898292,Ghalemdi Hydro Limited
+2026041604023595,GHL,8,7,31,252.3,7821.3,2026-04-16,186731099,2806,Brilliant Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:48:32.898378,Ghalemdi Hydro Limited
+2026041604023685,GHL,8,6,19,252.3,4793.7,2026-04-16,186731756,2806,Brilliant Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:49:07.283418,Ghalemdi Hydro Limited
+2026041604023686,GHL,13,6,500,252.3,126150.0,2026-04-16,186731758,2806,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 14:49:07.283803,Ghalemdi Hydro Limited
+2026041604023687,GHL,57,6,100,252.3,25230.0,2026-04-16,186731760,2806,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-16 14:49:07.284029,Ghalemdi Hydro Limited
+2026041604023728,GHL,58,43,200,252.0,50400.0,2026-04-16,186732020,2806,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:49:18.022183,Ghalemdi Hydro Limited
+2026041604023729,GHL,51,43,700,252.0,176400.0,2026-04-16,186732021,2806,Oxford Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:49:18.022415,Ghalemdi Hydro Limited
+2026041604023748,GHL,51,6,800,252.0,201600.0,2026-04-16,186732162,2806,Oxford Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:49:25.977282,Ghalemdi Hydro Limited
+2026041604023749,GHL,13,6,500,252.0,126000.0,2026-04-16,186732164,2806,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 14:49:25.977669,Ghalemdi Hydro Limited
+2026041604023750,GHL,36,6,1000,252.0,252000.0,2026-04-16,186732166,2806,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:49:25.977900,Ghalemdi Hydro Limited
+2026041604023751,GHL,17,6,82,252.0,20664.0,2026-04-16,186732167,2806,ABC Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-16 14:49:25.978135,Ghalemdi Hydro Limited
+2026041604024744,GHL,62,41,70,253.5,17745.0,2026-04-16,186739726,2806,Capital Max Securities Ltd,Linch Stock Market Ltd.,2026-04-16 14:54:28.573440,Ghalemdi Hydro Limited
+2026041604025049,GHL,42,57,25,253.7,6342.5,2026-04-16,186742383,2806,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 14:56:10.527495,Ghalemdi Hydro Limited
+2026041604025057,GHL,42,21,50,253.7,12685.0,2026-04-16,186742520,2806,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:56:17.339972,Ghalemdi Hydro Limited
+2026041604025184,GHL,42,45,23,253.7,5835.1,2026-04-16,186743370,2806,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:56:48.363411,Ghalemdi Hydro Limited
+2026041604025227,GHL,22,21,10,253.0,2530.0,2026-04-16,186743589,2806,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:56:54.832480,Ghalemdi Hydro Limited
+2026041604025252,GHL,42,45,200,253.7,50740.0,2026-04-16,186743776,2806,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:57:02.436653,Ghalemdi Hydro Limited
+2026041604025331,GHL,57,45,77,253.7,19534.9,2026-04-16,186744303,2806,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:57:13.871686,Ghalemdi Hydro Limited
+2026041604025332,GHL,57,21,786,253.8,199486.8,2026-04-16,186744305,2806,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-16 14:57:13.871815,Ghalemdi Hydro Limited
+2026041604025333,GHL,57,21,137,253.9,34784.3,2026-04-16,186744308,2806,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-16 14:57:13.871891,Ghalemdi Hydro Limited
+2026041604025490,GHL,14,21,463,253.9,117555.7,2026-04-16,186745411,2806,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:57:45.174936,Ghalemdi Hydro Limited
+2026041604025491,GHL,14,56,210,254.0,53340.0,2026-04-16,186745413,2806,Nepal Stock House (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:57:45.175136,Ghalemdi Hydro Limited
+2026041604025492,GHL,14,21,50,254.0,12700.0,2026-04-16,186745415,2806,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:57:45.175226,Ghalemdi Hydro Limited
+2026041604025581,GHL,32,59,41,254.1,10418.1,2026-04-16,186746163,2806,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:58:07.846705,Ghalemdi Hydro Limited
+2026041604025675,GHL,14,84,500,254.0,127000.0,2026-04-16,186746953,2806,Nepal Stock House (PVT) Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-16 14:58:20.293180,Ghalemdi Hydro Limited
+2026041604025784,GHL,14,58,30,254.0,7620.0,2026-04-16,186747929,2806,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:58:38.295049,Ghalemdi Hydro Limited
+2026041604025788,GHL,57,59,90,254.1,22869.0,2026-04-16,186747938,2806,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:58:38.365035,Ghalemdi Hydro Limited
+2026041604025791,GHL,14,50,50,254.0,12700.0,2026-04-16,186748009,2806,Nepal Stock House (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 14:58:40.651403,Ghalemdi Hydro Limited
+2026041604025830,GHL,14,45,697,254.0,177038.0,2026-04-16,186748342,2806,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:58:47.492565,Ghalemdi Hydro Limited
+2026041604025831,GHL,49,45,303,254.0,76962.0,2026-04-16,186748343,2806,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:58:47.492980,Ghalemdi Hydro Limited
+2026041604025910,GHL,49,59,100,254.1,25410.0,2026-04-16,186748890,2806,Online Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:58:55.951533,Ghalemdi Hydro Limited
+2026041604025916,GHL,4,59,299,254.1,75975.9,2026-04-16,186748906,2806,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:58:56.564880,Ghalemdi Hydro Limited
+2026041604025922,GHL,49,21,50,254.0,12700.0,2026-04-16,186749021,2806,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:58:58.853699,Ghalemdi Hydro Limited
+2026041604025978,GHL,49,35,147,254.0,37338.0,2026-04-16,186749468,2806,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:08.189064,Ghalemdi Hydro Limited
+2026041604026045,GHL,6,35,100,254.0,25400.0,2026-04-16,186749936,2806,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:17.982864,Ghalemdi Hydro Limited
+2026041604026364,GHL,19,49,100,253.1,25310.0,2026-04-16,186752493,2806,Nepal Investment And Securities Trading Private Limited,Online Securities Pvt. Ltd.,2026-04-16 14:59:44.041936,Ghalemdi Hydro Limited
+2026041604026596,GHL,58,57,25,253.9,6347.5,2026-04-16,186753605,2806,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 14:59:54.906089,Ghalemdi Hydro Limited
+2026041604026597,GHL,58,35,135,254.0,34290.0,2026-04-16,186753608,2806,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:54.906273,Ghalemdi Hydro Limited
+2026041604026779,GHL,16,35,100,254.0,25400.0,2026-04-16,186754521,2806,Primo Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:59.495730,Ghalemdi Hydro Limited

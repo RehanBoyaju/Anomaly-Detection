@@ -1,0 +1,366 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041504000011,SPDL,58,65,10,427.9,4279.0,2026-04-15,186284859,2759,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-15 10:46:00.038614,Synergy Power Development Ltd.
+2026041504000012,SPDL,57,65,30,427.9,12837.0,2026-04-15,186284863,2759,Aryatara Investment & Securities,Sharepro Securities Private Limited,2026-04-15 10:46:00.038638,Synergy Power Development Ltd.
+2026041504000013,SPDL,57,65,60,427.9,25674.0,2026-04-15,186284865,2759,Aryatara Investment & Securities,Sharepro Securities Private Limited,2026-04-15 10:46:00.038663,Synergy Power Development Ltd.
+2026041504000038,SPDL,57,36,490,430.0,210700.0,2026-04-15,186285109,2759,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-15 11:00:25.575116,Synergy Power Development Ltd.
+2026041504000039,SPDL,38,21,100,433.0,43300.0,2026-04-15,186285112,2759,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 11:00:27.551690,Synergy Power Development Ltd.
+2026041504000044,SPDL,57,33,10,430.0,4300.0,2026-04-15,186285123,2759,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 11:00:32.854233,Synergy Power Development Ltd.
+2026041504000046,SPDL,57,22,1440,430.0,619200.0,2026-04-15,186285134,2759,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-15 11:00:33.853209,Synergy Power Development Ltd.
+2026041504000097,SPDL,19,36,10,427.5,4275.0,2026-04-15,186285619,2759,Nepal Investment And Securities Trading Private Limited,Secured Securities Ltd.,2026-04-15 11:01:24.591740,Synergy Power Development Ltd.
+2026041504000265,SPDL,33,57,100,429.0,42900.0,2026-04-15,186287498,2759,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 11:02:59.736194,Synergy Power Development Ltd.
+2026041504000610,SPDL,7,34,16,429.0,6864.0,2026-04-15,186290284,2759,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:06:02.918554,Synergy Power Development Ltd.
+2026041504000677,SPDL,21,42,250,428.0,107000.0,2026-04-15,186290799,2759,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-15 11:06:41.308165,Synergy Power Development Ltd.
+2026041504000678,SPDL,21,65,100,428.9,42890.0,2026-04-15,186290801,2759,Midas Stock Broking Company Private Limited,Sharepro Securities Private Limited,2026-04-15 11:06:41.308344,Synergy Power Development Ltd.
+2026041504000679,SPDL,21,34,984,429.0,422136.0,2026-04-15,186290803,2759,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-15 11:06:41.308439,Synergy Power Development Ltd.
+2026041504000712,SPDL,21,33,100,429.0,42900.0,2026-04-15,186291003,2759,Midas Stock Broking Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 11:06:56.660443,Synergy Power Development Ltd.
+2026041504000716,SPDL,35,57,100,429.2,42920.0,2026-04-15,186291027,2759,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 11:06:59.857137,Synergy Power Development Ltd.
+2026041504000717,SPDL,35,44,100,429.2,42920.0,2026-04-15,186291029,2759,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 11:06:59.857228,Synergy Power Development Ltd.
+2026041504000718,SPDL,35,22,150,430.0,64500.0,2026-04-15,186291032,2759,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:06:59.857306,Synergy Power Development Ltd.
+2026041504000723,SPDL,21,57,150,429.0,64350.0,2026-04-15,186291057,2759,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-15 11:07:01.396514,Synergy Power Development Ltd.
+2026041504000757,SPDL,35,22,10,430.0,4300.0,2026-04-15,186291262,2759,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:07:16.004459,Synergy Power Development Ltd.
+2026041504000819,SPDL,21,33,100,429.0,42900.0,2026-04-15,186291541,2759,Midas Stock Broking Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 11:07:30.078783,Synergy Power Development Ltd.
+2026041504000836,SPDL,35,46,50,430.0,21500.0,2026-04-15,186291631,2759,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 11:07:36.379790,Synergy Power Development Ltd.
+2026041504000837,SPDL,35,33,10,432.0,4320.0,2026-04-15,186291634,2759,Kohinoor Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 11:07:36.379844,Synergy Power Development Ltd.
+2026041504000972,SPDL,21,41,316,429.0,135564.0,2026-04-15,186292634,2759,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-15 11:08:44.222413,Synergy Power Development Ltd.
+2026041504002375,SPDL,49,48,20,429.5,8590.0,2026-04-15,186302646,2759,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:20:29.764795,Synergy Power Development Ltd.
+2026041504002599,SPDL,14,45,40,428.0,17120.0,2026-04-15,186304106,2759,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:21:59.227692,Synergy Power Development Ltd.
+2026041504002782,SPDL,19,45,10,427.5,4275.0,2026-04-15,186305648,2759,Nepal Investment And Securities Trading Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:23:42.898051,Synergy Power Development Ltd.
+2026041504002878,SPDL,35,45,50,427.0,21350.0,2026-04-15,186306433,2759,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:24:34.250676,Synergy Power Development Ltd.
+2026041504002879,SPDL,35,84,10,428.0,4280.0,2026-04-15,186306436,2759,Kohinoor Investment & Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-15 11:24:34.250729,Synergy Power Development Ltd.
+2026041504002940,SPDL,26,62,650,425.5,276575.0,2026-04-15,186307257,2759,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-15 11:25:10.501988,Synergy Power Development Ltd.
+2026041504002986,SPDL,26,38,350,425.5,148925.0,2026-04-15,186307826,2759,Asian Securities Private Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:25:43.127402,Synergy Power Development Ltd.
+2026041504002987,SPDL,58,38,150,425.0,63750.0,2026-04-15,186307828,2759,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:25:43.127629,Synergy Power Development Ltd.
+2026041504002988,SPDL,38,38,1000,425.0,425000.0,2026-04-15,186307830,2759,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:25:43.127768,Synergy Power Development Ltd.
+2026041504003263,SPDL,21,38,500,425.0,212500.0,2026-04-15,186310547,2759,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:28:28.828326,Synergy Power Development Ltd.
+2026041504003264,SPDL,21,50,1000,426.0,426000.0,2026-04-15,186310549,2759,Midas Stock Broking Company Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 11:28:28.828434,Synergy Power Development Ltd.
+2026041504003273,SPDL,35,34,10,427.0,4270.0,2026-04-15,186310754,2759,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:28:43.786079,Synergy Power Development Ltd.
+2026041504003932,SPDL,58,57,10,426.9,4269.0,2026-04-15,186316250,2759,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-15 11:34:12.713645,Synergy Power Development Ltd.
+2026041504004086,SPDL,57,44,35,425.0,14875.0,2026-04-15,186317261,2759,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 11:35:10.357168,Synergy Power Development Ltd.
+2026041504004300,SPDL,35,57,90,426.9,38421.0,2026-04-15,186318995,2759,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 11:36:49.965067,Synergy Power Development Ltd.
+2026041504004301,SPDL,35,34,100,426.9,42690.0,2026-04-15,186318997,2759,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:36:49.965137,Synergy Power Development Ltd.
+2026041504004302,SPDL,35,40,10,427.8,4278.0,2026-04-15,186319000,2759,Kohinoor Investment & Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-15 11:36:49.965167,Synergy Power Development Ltd.
+2026041504004360,SPDL,44,40,990,427.8,423522.0,2026-04-15,186319235,2759,Dynamic Money Managers Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-15 11:37:06.052271,Synergy Power Development Ltd.
+2026041504004361,SPDL,44,21,1900,427.9,813010.0,2026-04-15,186319237,2759,Dynamic Money Managers Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 11:37:06.052545,Synergy Power Development Ltd.
+2026041504004379,SPDL,35,48,10,429.5,4295.0,2026-04-15,186319450,2759,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:37:21.614656,Synergy Power Development Ltd.
+2026041504004381,SPDL,21,48,70,429.5,30065.0,2026-04-15,186319481,2759,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-15 11:37:26.179021,Synergy Power Development Ltd.
+2026041504004382,SPDL,21,26,430,429.8,184814.0,2026-04-15,186319484,2759,Midas Stock Broking Company Private Limited,Asian Securities Private Ltd.,2026-04-15 11:37:26.179145,Synergy Power Development Ltd.
+2026041504004388,SPDL,44,22,110,428.0,47080.0,2026-04-15,186319526,2759,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:37:29.735600,Synergy Power Development Ltd.
+2026041504004416,SPDL,21,80,10,425.1,4251.0,2026-04-15,186319757,2759,Midas Stock Broking Company Private Limited,Indira securities pvt. ltd,2026-04-15 11:37:45.079084,Synergy Power Development Ltd.
+2026041504004484,SPDL,35,22,10,427.8,4278.0,2026-04-15,186320356,2759,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:38:31.427968,Synergy Power Development Ltd.
+2026041504004635,SPDL,34,58,10,426.0,4260.0,2026-04-15,186321359,2759,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-15 11:39:31.228114,Synergy Power Development Ltd.
+2026041504004656,SPDL,21,22,380,427.8,162564.0,2026-04-15,186321545,2759,Midas Stock Broking Company Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-15 11:39:47.604276,Synergy Power Development Ltd.
+2026041504004705,SPDL,21,26,10,429.8,4298.0,2026-04-15,186321848,2759,Midas Stock Broking Company Private Limited,Asian Securities Private Ltd.,2026-04-15 11:40:05.312856,Synergy Power Development Ltd.
+2026041504004706,SPDL,35,26,60,429.8,25788.0,2026-04-15,186321889,2759,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-15 11:40:08.314844,Synergy Power Development Ltd.
+2026041504004707,SPDL,35,57,20,429.9,8598.0,2026-04-15,186321892,2759,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 11:40:08.314944,Synergy Power Development Ltd.
+2026041504004721,SPDL,21,57,110,428.0,47080.0,2026-04-15,186322056,2759,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-15 11:40:15.138729,Synergy Power Development Ltd.
+2026041504004732,SPDL,35,57,40,428.0,17120.0,2026-04-15,186322153,2759,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 11:40:23.853469,Synergy Power Development Ltd.
+2026041504004733,SPDL,35,57,10,429.9,4299.0,2026-04-15,186322156,2759,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 11:40:23.853508,Synergy Power Development Ltd.
+2026041504004938,SPDL,35,54,30,429.8,12894.0,2026-04-15,186324099,2759,Kohinoor Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 11:42:22.763506,Synergy Power Development Ltd.
+2026041504004939,SPDL,35,57,70,429.8,30086.0,2026-04-15,186324101,2759,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 11:42:22.763596,Synergy Power Development Ltd.
+2026041504004940,SPDL,35,13,200,429.9,85980.0,2026-04-15,186324103,2759,Kohinoor Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 11:42:22.763675,Synergy Power Development Ltd.
+2026041504004941,SPDL,35,50,10,430.0,4300.0,2026-04-15,186324106,2759,Kohinoor Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 11:42:22.763752,Synergy Power Development Ltd.
+2026041504005229,SPDL,80,42,120,427.0,51240.0,2026-04-15,186326067,2759,Indira securities pvt. ltd,Sani Securities Company Ltd.,2026-04-15 11:44:27.000801,Synergy Power Development Ltd.
+2026041504005538,SPDL,74,13,200,429.9,85980.0,2026-04-15,186328323,2759,KALASH STOCK MARKET PVT. LTD.,Thrive Brokerage House Pvt. Ltd,2026-04-15 11:46:37.319993,Synergy Power Development Ltd.
+2026041504005539,SPDL,74,50,990,430.0,425700.0,2026-04-15,186328325,2759,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 11:46:37.320107,Synergy Power Development Ltd.
+2026041504005540,SPDL,74,64,200,430.0,86000.0,2026-04-15,186328327,2759,KALASH STOCK MARKET PVT. LTD.,SUN SECURITIES PVT LTD,2026-04-15 11:46:37.320164,Synergy Power Development Ltd.
+2026041504005541,SPDL,74,50,500,430.0,215000.0,2026-04-15,186328329,2759,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 11:46:37.320214,Synergy Power Development Ltd.
+2026041504005542,SPDL,74,45,10,430.0,4300.0,2026-04-15,186328331,2759,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:46:37.320264,Synergy Power Development Ltd.
+2026041504005543,SPDL,74,39,100,430.0,43000.0,2026-04-15,186328334,2759,KALASH STOCK MARKET PVT. LTD.,Sumeru Securities Pvt. Ltd.,2026-04-15 11:46:37.320325,Synergy Power Development Ltd.
+2026041504005752,SPDL,42,39,261,430.0,112230.0,2026-04-15,186329635,2759,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 11:47:54.284835,Synergy Power Development Ltd.
+2026041504005753,SPDL,42,34,190,430.0,81700.0,2026-04-15,186329639,2759,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:47:54.284972,Synergy Power Development Ltd.
+2026041504005754,SPDL,42,35,10,430.0,4300.0,2026-04-15,186329643,2759,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:47:54.285037,Synergy Power Development Ltd.
+2026041504005755,SPDL,42,38,39,430.0,16770.0,2026-04-15,186329646,2759,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:47:54.285083,Synergy Power Development Ltd.
+2026041504005834,SPDL,35,38,20,430.0,8600.0,2026-04-15,186330242,2759,Kohinoor Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:48:28.804837,Synergy Power Development Ltd.
+2026041504005869,SPDL,35,38,10,430.0,4300.0,2026-04-15,186330494,2759,Kohinoor Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:48:40.992550,Synergy Power Development Ltd.
+2026041504005929,SPDL,49,10,50,429.5,21475.0,2026-04-15,186330834,2759,Online Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-15 11:48:58.598109,Synergy Power Development Ltd.
+2026041504006206,SPDL,21,10,150,429.5,64425.0,2026-04-15,186333188,2759,Midas Stock Broking Company Private Limited,Pragyan Securities (PVT) Ltd.,2026-04-15 11:50:26.706161,Synergy Power Development Ltd.
+2026041504006304,SPDL,74,25,100,429.5,42950.0,2026-04-15,186334714,2759,KALASH STOCK MARKET PVT. LTD.,Sweta Securities Private Limited,2026-04-15 11:50:56.535494,Synergy Power Development Ltd.
+2026041504006425,SPDL,35,13,200,429.9,85980.0,2026-04-15,186335585,2759,Kohinoor Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 11:51:28.847913,Synergy Power Development Ltd.
+2026041504006426,SPDL,35,38,10,430.0,4300.0,2026-04-15,186335588,2759,Kohinoor Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:51:28.848027,Synergy Power Development Ltd.
+2026041504006461,SPDL,56,38,171,430.0,73530.0,2026-04-15,186335845,2759,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:51:43.074982,Synergy Power Development Ltd.
+2026041504006462,SPDL,56,34,29,430.0,12470.0,2026-04-15,186335848,2759,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:51:43.075204,Synergy Power Development Ltd.
+2026041504006630,SPDL,35,34,20,430.0,8600.0,2026-04-15,186337568,2759,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:52:53.698972,Synergy Power Development Ltd.
+2026041504006668,SPDL,35,34,10,430.0,4300.0,2026-04-15,186337776,2759,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:53:00.962149,Synergy Power Development Ltd.
+2026041504006711,SPDL,58,34,10,430.0,4300.0,2026-04-15,186337956,2759,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:53:12.815739,Synergy Power Development Ltd.
+2026041504006869,SPDL,45,34,50,430.0,21500.0,2026-04-15,186339280,2759,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:54:10.335068,Synergy Power Development Ltd.
+2026041504006897,SPDL,16,22,1500,429.0,643500.0,2026-04-15,186339643,2759,Primo Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:54:27.745153,Synergy Power Development Ltd.
+2026041504006924,SPDL,74,34,81,430.0,34830.0,2026-04-15,186339917,2759,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-15 11:54:39.123509,Synergy Power Development Ltd.
+2026041504006925,SPDL,74,45,10,430.0,4300.0,2026-04-15,186339919,2759,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:54:39.123663,Synergy Power Development Ltd.
+2026041504006931,SPDL,45,41,300,430.0,129000.0,2026-04-15,186339987,2759,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 11:54:43.363221,Synergy Power Development Ltd.
+2026041504006932,SPDL,45,58,40,430.0,17200.0,2026-04-15,186339989,2759,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:54:43.363370,Synergy Power Development Ltd.
+2026041504006933,SPDL,45,45,160,430.0,68800.0,2026-04-15,186339992,2759,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:54:43.363449,Synergy Power Development Ltd.
+2026041504007015,SPDL,35,54,40,429.9,17196.0,2026-04-15,186340591,2759,Kohinoor Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 11:55:14.548369,Synergy Power Development Ltd.
+2026041504007016,SPDL,35,45,10,430.0,4300.0,2026-04-15,186340594,2759,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:55:14.548448,Synergy Power Development Ltd.
+2026041504007144,SPDL,74,45,19,430.0,8170.0,2026-04-15,186341498,2759,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:55:51.745355,Synergy Power Development Ltd.
+2026041504007329,SPDL,95,45,80,430.0,34400.0,2026-04-15,186342715,2759,Magnet Securities and Investment Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:56:55.045921,Synergy Power Development Ltd.
+2026041504007414,SPDL,51,45,731,430.0,314330.0,2026-04-15,186343059,2759,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:57:07.494838,Synergy Power Development Ltd.
+2026041504007474,SPDL,74,41,10,430.5,4305.0,2026-04-15,186343402,2759,KALASH STOCK MARKET PVT. LTD.,Linch Stock Market Ltd.,2026-04-15 11:57:22.696094,Synergy Power Development Ltd.
+2026041504007789,SPDL,51,38,1269,430.0,545670.0,2026-04-15,186345616,2759,Oxford Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:58:56.807457,Synergy Power Development Ltd.
+2026041504007794,SPDL,34,38,550,430.0,236500.0,2026-04-15,186345674,2759,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:58:59.356345,Synergy Power Development Ltd.
+2026041504008020,SPDL,58,38,18,430.0,7740.0,2026-04-15,186347404,2759,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:00:11.000765,Synergy Power Development Ltd.
+2026041504008101,SPDL,58,41,174,429.5,74733.0,2026-04-15,186348049,2759,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-15 12:00:49.708917,Synergy Power Development Ltd.
+2026041504008102,SPDL,58,45,69,429.5,29635.5,2026-04-15,186348052,2759,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:00:49.709208,Synergy Power Development Ltd.
+2026041504008256,SPDL,16,67,500,429.0,214500.0,2026-04-15,186348870,2759,Primo Securities (PVT) Ltd.,Property Wiard Limited,2026-04-15 12:01:34.301650,Synergy Power Development Ltd.
+2026041504008257,SPDL,57,67,390,429.0,167310.0,2026-04-15,186348871,2759,Aryatara Investment & Securities,Property Wiard Limited,2026-04-15 12:01:34.301921,Synergy Power Development Ltd.
+2026041504008431,SPDL,57,26,610,429.0,261690.0,2026-04-15,186349704,2759,Aryatara Investment & Securities,Asian Securities Private Ltd.,2026-04-15 12:02:15.153689,Synergy Power Development Ltd.
+2026041504008432,SPDL,46,26,100,429.0,42900.0,2026-04-15,186349706,2759,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-15 12:02:15.153851,Synergy Power Development Ltd.
+2026041504008433,SPDL,34,26,185,429.0,79365.0,2026-04-15,186349708,2759,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,2026-04-15 12:02:15.153915,Synergy Power Development Ltd.
+2026041504008525,SPDL,80,26,105,427.0,44835.0,2026-04-15,186350153,2759,Indira securities pvt. ltd,Asian Securities Private Ltd.,2026-04-15 12:02:38.320106,Synergy Power Development Ltd.
+2026041504008716,SPDL,80,13,150,427.0,64050.0,2026-04-15,186351453,2759,Indira securities pvt. ltd,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:03:46.665518,Synergy Power Development Ltd.
+2026041504008745,SPDL,35,45,10,429.5,4295.0,2026-04-15,186351536,2759,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:03:50.554873,Synergy Power Development Ltd.
+2026041504008958,SPDL,80,13,50,427.0,21350.0,2026-04-15,186352711,2759,Indira securities pvt. ltd,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:04:52.592666,Synergy Power Development Ltd.
+2026041504008990,SPDL,80,53,145,427.0,61915.0,2026-04-15,186352980,2759,Indira securities pvt. ltd,Investment Management Nepal Pvt. Ltd.,2026-04-15 12:05:06.906724,Synergy Power Development Ltd.
+2026041504008991,SPDL,80,53,237,427.0,101199.0,2026-04-15,186352981,2759,Indira securities pvt. ltd,Investment Management Nepal Pvt. Ltd.,2026-04-15 12:05:06.906863,Synergy Power Development Ltd.
+2026041504009054,SPDL,80,66,333,427.0,142191.0,2026-04-15,186353336,2759,Indira securities pvt. ltd,Miyo Securities Pvt Ltd,2026-04-15 12:05:29.219836,Synergy Power Development Ltd.
+2026041504009055,SPDL,50,66,167,427.0,71309.0,2026-04-15,186353337,2759,Cristal Kanchanjanga Securites Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-15 12:05:29.220125,Synergy Power Development Ltd.
+2026041504009518,SPDL,22,5,20,428.0,8560.0,2026-04-15,186356102,2759,Siprabi Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-15 12:08:06.285937,Synergy Power Development Ltd.
+2026041504010257,SPDL,57,5,40,428.0,17120.0,2026-04-15,186360864,2759,Aryatara Investment & Securities,Market Securities & Exchange (PVT) Ltd.,2026-04-15 12:13:22.814881,Synergy Power Development Ltd.
+2026041504011361,SPDL,39,21,25,427.5,10687.5,2026-04-15,186371121,2759,Sumeru Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:19:31.089589,Synergy Power Development Ltd.
+2026041504011367,SPDL,44,5,340,428.0,145520.0,2026-04-15,186371209,2759,Dynamic Money Managers Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-15 12:19:35.828549,Synergy Power Development Ltd.
+2026041504011368,SPDL,44,45,31,428.0,13268.0,2026-04-15,186371211,2759,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:19:35.828699,Synergy Power Development Ltd.
+2026041504011369,SPDL,44,49,47,428.0,20116.0,2026-04-15,186371214,2759,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:19:35.828761,Synergy Power Development Ltd.
+2026041504011445,SPDL,74,45,10,429.5,4295.0,2026-04-15,186371712,2759,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:20:05.180527,Synergy Power Development Ltd.
+2026041504011994,SPDL,44,45,411,429.5,176524.5,2026-04-15,186375395,2759,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:22:48.352999,Synergy Power Development Ltd.
+2026041504011995,SPDL,44,13,150,429.9,64485.0,2026-04-15,186375397,2759,Dynamic Money Managers Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:22:48.353193,Synergy Power Development Ltd.
+2026041504011996,SPDL,44,38,163,430.0,70090.0,2026-04-15,186375399,2759,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:22:48.353259,Synergy Power Development Ltd.
+2026041504011997,SPDL,44,21,1276,430.0,548680.0,2026-04-15,186375402,2759,Dynamic Money Managers Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:22:48.353328,Synergy Power Development Ltd.
+2026041504012616,SPDL,50,21,100,430.0,43000.0,2026-04-15,186379586,2759,Cristal Kanchanjanga Securites Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:26:02.303208,Synergy Power Development Ltd.
+2026041504012735,SPDL,39,21,74,430.0,31820.0,2026-04-15,186380591,2759,Sumeru Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:26:50.930122,Synergy Power Development Ltd.
+2026041504012736,SPDL,39,50,350,430.0,150500.0,2026-04-15,186380593,2759,Sumeru Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 12:26:50.930322,Synergy Power Development Ltd.
+2026041504012737,SPDL,39,10,11,430.0,4730.0,2026-04-15,186380595,2759,Sumeru Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-15 12:26:50.930377,Synergy Power Development Ltd.
+2026041504012738,SPDL,39,17,540,430.0,232200.0,2026-04-15,186380598,2759,Sumeru Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-15 12:26:50.930451,Synergy Power Development Ltd.
+2026041504012968,SPDL,40,17,90,430.0,38700.0,2026-04-15,186381688,2759,Creative Securities Pvt Ltd,ABC Securities Private Limited,2026-04-15 12:27:46.677762,Synergy Power Development Ltd.
+2026041504013236,SPDL,57,57,1000,429.5,429500.0,2026-04-15,186383158,2759,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-15 12:29:05.537854,Synergy Power Development Ltd.
+2026041504013237,SPDL,49,57,600,429.3,257580.0,2026-04-15,186383159,2759,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 12:29:05.537997,Synergy Power Development Ltd.
+2026041504013239,SPDL,35,17,170,430.0,73100.0,2026-04-15,186383189,2759,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-15 12:29:07.647133,Synergy Power Development Ltd.
+2026041504013240,SPDL,35,49,60,430.0,25800.0,2026-04-15,186383191,2759,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:29:07.647253,Synergy Power Development Ltd.
+2026041504013241,SPDL,35,50,10,430.5,4305.0,2026-04-15,186383194,2759,Kohinoor Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 12:29:07.647374,Synergy Power Development Ltd.
+2026041504013557,SPDL,16,50,490,430.5,210945.0,2026-04-15,186385483,2759,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 12:31:15.634608,Synergy Power Development Ltd.
+2026041504013558,SPDL,16,49,50,430.5,21525.0,2026-04-15,186385485,2759,Primo Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:31:15.634872,Synergy Power Development Ltd.
+2026041504013559,SPDL,16,41,85,431.1,36643.5,2026-04-15,186385487,2759,Primo Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-15 12:31:15.635072,Synergy Power Development Ltd.
+2026041504013560,SPDL,16,13,200,431.8,86360.0,2026-04-15,186385489,2759,Primo Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:31:15.635297,Synergy Power Development Ltd.
+2026041504013561,SPDL,16,67,2000,431.9,863800.0,2026-04-15,186385491,2759,Primo Securities (PVT) Ltd.,Property Wiard Limited,2026-04-15 12:31:15.635493,Synergy Power Development Ltd.
+2026041504013562,SPDL,16,22,400,432.0,172800.0,2026-04-15,186385493,2759,Primo Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:31:15.635711,Synergy Power Development Ltd.
+2026041504013563,SPDL,16,50,500,432.0,216000.0,2026-04-15,186385495,2759,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 12:31:15.635894,Synergy Power Development Ltd.
+2026041504013564,SPDL,16,22,150,432.0,64800.0,2026-04-15,186385497,2759,Primo Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:31:15.636072,Synergy Power Development Ltd.
+2026041504013565,SPDL,16,72,21,432.0,9072.0,2026-04-15,186385499,2759,Primo Securities (PVT) Ltd.,Hatemalo Financial Services Private Limited,2026-04-15 12:31:15.636250,Synergy Power Development Ltd.
+2026041504013566,SPDL,16,45,10,432.0,4320.0,2026-04-15,186385501,2759,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:31:15.636439,Synergy Power Development Ltd.
+2026041504013567,SPDL,16,21,1000,432.0,432000.0,2026-04-15,186385503,2759,Primo Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:31:15.636650,Synergy Power Development Ltd.
+2026041504013568,SPDL,16,17,1000,432.0,432000.0,2026-04-15,186385505,2759,Primo Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-15 12:31:15.636817,Synergy Power Development Ltd.
+2026041504013600,SPDL,35,13,10,432.9,4329.0,2026-04-15,186385804,2759,Kohinoor Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:31:31.595089,Synergy Power Development Ltd.
+2026041504013709,SPDL,16,57,94,432.0,40608.0,2026-04-15,186386277,2759,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-15 12:31:59.469194,Synergy Power Development Ltd.
+2026041504013711,SPDL,32,13,190,432.9,82251.0,2026-04-15,186386283,2759,Premier Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:32:00.403474,Synergy Power Development Ltd.
+2026041504013712,SPDL,32,59,1000,433.0,433000.0,2026-04-15,186386285,2759,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 12:32:00.403604,Synergy Power Development Ltd.
+2026041504013713,SPDL,32,46,50,433.0,21650.0,2026-04-15,186386287,2759,Premier Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 12:32:00.403670,Synergy Power Development Ltd.
+2026041504013714,SPDL,32,13,20,433.0,8660.0,2026-04-15,186386289,2759,Premier Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:32:00.403725,Synergy Power Development Ltd.
+2026041504013715,SPDL,32,42,200,433.0,86600.0,2026-04-15,186386291,2759,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-15 12:32:00.403779,Synergy Power Development Ltd.
+2026041504013716,SPDL,32,45,10,433.0,4330.0,2026-04-15,186386293,2759,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:32:00.403846,Synergy Power Development Ltd.
+2026041504013717,SPDL,32,84,17,433.0,7361.0,2026-04-15,186386295,2759,Premier Securities Company Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-15 12:32:00.404029,Synergy Power Development Ltd.
+2026041504013718,SPDL,32,41,700,433.0,303100.0,2026-04-15,186386297,2759,Premier Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-15 12:32:00.404189,Synergy Power Development Ltd.
+2026041504013719,SPDL,32,48,30,433.0,12990.0,2026-04-15,186386299,2759,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-15 12:32:00.404382,Synergy Power Development Ltd.
+2026041504013720,SPDL,32,48,500,433.1,216550.0,2026-04-15,186386301,2759,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-15 12:32:00.404547,Synergy Power Development Ltd.
+2026041504013721,SPDL,32,22,2000,433.5,867000.0,2026-04-15,186386303,2759,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:32:00.404718,Synergy Power Development Ltd.
+2026041504013794,SPDL,32,57,100,433.5,43350.0,2026-04-15,186386935,2759,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-15 12:32:30.880082,Synergy Power Development Ltd.
+2026041504013862,SPDL,32,57,180,433.5,78030.0,2026-04-15,186387663,2759,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-15 12:33:04.839480,Synergy Power Development Ltd.
+2026041504013908,SPDL,39,57,20,434.0,8680.0,2026-04-15,186387987,2759,Sumeru Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 12:33:21.196807,Synergy Power Development Ltd.
+2026041504013909,SPDL,39,38,980,434.9,426202.0,2026-04-15,186387990,2759,Sumeru Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:33:21.196911,Synergy Power Development Ltd.
+2026041504013952,SPDL,44,38,20,434.9,8698.0,2026-04-15,186388333,2759,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:33:38.473154,Synergy Power Development Ltd.
+2026041504013953,SPDL,44,13,150,434.9,65235.0,2026-04-15,186388335,2759,Dynamic Money Managers Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:33:38.473323,Synergy Power Development Ltd.
+2026041504013954,SPDL,44,45,200,435.0,87000.0,2026-04-15,186388337,2759,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:33:38.473399,Synergy Power Development Ltd.
+2026041504013955,SPDL,44,58,480,435.0,208800.0,2026-04-15,186388339,2759,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:33:38.473478,Synergy Power Development Ltd.
+2026041504013956,SPDL,44,37,120,435.0,52200.0,2026-04-15,186388341,2759,Dynamic Money Managers Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-15 12:33:38.473531,Synergy Power Development Ltd.
+2026041504013957,SPDL,44,16,17,435.0,7395.0,2026-04-15,186388343,2759,Dynamic Money Managers Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 12:33:38.473584,Synergy Power Development Ltd.
+2026041504013958,SPDL,44,84,13,435.0,5655.0,2026-04-15,186388346,2759,Dynamic Money Managers Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-15 12:33:38.473636,Synergy Power Development Ltd.
+2026041504014130,SPDL,21,38,200,432.0,86400.0,2026-04-15,186389509,2759,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:34:29.392566,Synergy Power Development Ltd.
+2026041504014157,SPDL,32,57,100,434.9,43490.0,2026-04-15,186389719,2759,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-15 12:34:41.950973,Synergy Power Development Ltd.
+2026041504014158,SPDL,32,52,20,434.9,8698.0,2026-04-15,186389721,2759,Premier Securities Company Ltd.,Sundhara Securities Limited,2026-04-15 12:34:41.951232,Synergy Power Development Ltd.
+2026041504014159,SPDL,32,59,200,435.0,87000.0,2026-04-15,186389723,2759,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 12:34:41.951431,Synergy Power Development Ltd.
+2026041504014160,SPDL,32,58,20,435.0,8700.0,2026-04-15,186389725,2759,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:34:41.951594,Synergy Power Development Ltd.
+2026041504014161,SPDL,32,33,240,435.0,104400.0,2026-04-15,186389727,2759,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 12:34:41.951744,Synergy Power Development Ltd.
+2026041504014162,SPDL,32,43,300,435.0,130500.0,2026-04-15,186389729,2759,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 12:34:41.951891,Synergy Power Development Ltd.
+2026041504014163,SPDL,32,39,1000,435.0,435000.0,2026-04-15,186389731,2759,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:34:41.952037,Synergy Power Development Ltd.
+2026041504014164,SPDL,32,54,250,435.0,108750.0,2026-04-15,186389733,2759,Premier Securities Company Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:34:41.952187,Synergy Power Development Ltd.
+2026041504014165,SPDL,32,21,273,435.0,118755.0,2026-04-15,186389736,2759,Premier Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:34:41.952329,Synergy Power Development Ltd.
+2026041504015366,SPDL,50,48,833,432.1,359939.3,2026-04-15,186400096,2759,Cristal Kanchanjanga Securites Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 12:43:49.971744,Synergy Power Development Ltd.
+2026041504015367,SPDL,44,48,176,432.0,76032.0,2026-04-15,186400097,2759,Dynamic Money Managers Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 12:43:49.972022,Synergy Power Development Ltd.
+2026041504015433,SPDL,44,38,100,432.0,43200.0,2026-04-15,186400751,2759,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:44:39.457128,Synergy Power Development Ltd.
+2026041504015632,SPDL,44,58,224,432.0,96768.0,2026-04-15,186402428,2759,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:46:25.384646,Synergy Power Development Ltd.
+2026041504015633,SPDL,34,58,176,432.0,76032.0,2026-04-15,186402429,2759,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-15 12:46:25.384828,Synergy Power Development Ltd.
+2026041504015968,SPDL,34,58,12,432.0,5184.0,2026-04-15,186404943,2759,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-15 12:49:11.077284,Synergy Power Development Ltd.
+2026041504016002,SPDL,34,58,70,432.0,30240.0,2026-04-15,186405277,2759,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-15 12:49:33.306196,Synergy Power Development Ltd.
+2026041504016163,SPDL,34,16,10,434.0,4340.0,2026-04-15,186406060,2759,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-15 12:50:23.756034,Synergy Power Development Ltd.
+2026041504016277,SPDL,49,16,16,434.0,6944.0,2026-04-15,186407347,2759,Online Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 12:51:35.540601,Synergy Power Development Ltd.
+2026041504016278,SPDL,49,45,50,434.0,21700.0,2026-04-15,186407349,2759,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:51:35.540767,Synergy Power Development Ltd.
+2026041504016279,SPDL,49,25,400,434.0,173600.0,2026-04-15,186407351,2759,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-15 12:51:35.540831,Synergy Power Development Ltd.
+2026041504016302,SPDL,35,17,373,434.9,162217.7,2026-04-15,186407509,2759,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-15 12:51:45.104728,Synergy Power Development Ltd.
+2026041504016303,SPDL,35,21,27,435.0,11745.0,2026-04-15,186407512,2759,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:51:45.104823,Synergy Power Development Ltd.
+2026041504016447,SPDL,49,53,500,434.0,217000.0,2026-04-15,186408675,2759,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-15 12:53:02.125899,Synergy Power Development Ltd.
+2026041504016864,SPDL,58,33,10,434.5,4345.0,2026-04-15,186411652,2759,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 12:56:01.878270,Synergy Power Development Ltd.
+2026041504017152,SPDL,58,33,30,434.5,13035.0,2026-04-15,186414029,2759,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 12:58:07.340582,Synergy Power Development Ltd.
+2026041504017298,SPDL,49,38,34,434.0,14756.0,2026-04-15,186415208,2759,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:59:40.165661,Synergy Power Development Ltd.
+2026041504017299,SPDL,91,38,1000,432.1,432100.0,2026-04-15,186415210,2759,Citizens Share Broker Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:59:40.165724,Synergy Power Development Ltd.
+2026041504017300,SPDL,75,38,966,432.1,417408.6,2026-04-15,186415211,2759,N.I.M.B. Stock Markets Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:59:40.165748,Synergy Power Development Ltd.
+2026041504017431,SPDL,75,99,34,432.1,14691.4,2026-04-15,186416236,2759,N.I.M.B. Stock Markets Limited,Prabhu Stock Market Limited,2026-04-15 13:00:53.472557,Synergy Power Development Ltd.
+2026041504017432,SPDL,74,99,966,432.1,417408.6,2026-04-15,186416237,2759,KALASH STOCK MARKET PVT. LTD.,Prabhu Stock Market Limited,2026-04-15 13:00:53.472858,Synergy Power Development Ltd.
+2026041504017989,SPDL,49,38,400,432.2,172880.0,2026-04-15,186419824,2759,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:04:40.151155,Synergy Power Development Ltd.
+2026041504017990,SPDL,74,38,34,432.1,14691.4,2026-04-15,186419826,2759,KALASH STOCK MARKET PVT. LTD.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:04:40.151205,Synergy Power Development Ltd.
+2026041504017991,SPDL,67,38,2000,432.1,864200.0,2026-04-15,186419828,2759,Property Wiard Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:04:40.151238,Synergy Power Development Ltd.
+2026041504017992,SPDL,34,38,242,432.0,104544.0,2026-04-15,186419830,2759,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:04:40.151265,Synergy Power Development Ltd.
+2026041504017993,SPDL,21,38,324,431.5,139806.0,2026-04-15,186419831,2759,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:04:40.151308,Synergy Power Development Ltd.
+2026041504018130,SPDL,74,45,750,434.0,325500.0,2026-04-15,186421115,2759,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:05:58.045723,Synergy Power Development Ltd.
+2026041504018131,SPDL,74,91,250,434.0,108500.0,2026-04-15,186421118,2759,KALASH STOCK MARKET PVT. LTD.,Citizens Share Broker Limited,2026-04-15 13:05:58.045894,Synergy Power Development Ltd.
+2026041504018141,SPDL,49,91,60,434.0,26040.0,2026-04-15,186421158,2759,Online Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-15 13:05:58.810561,Synergy Power Development Ltd.
+2026041504018413,SPDL,74,91,500,434.0,217000.0,2026-04-15,186423404,2759,KALASH STOCK MARKET PVT. LTD.,Citizens Share Broker Limited,2026-04-15 13:08:24.394028,Synergy Power Development Ltd.
+2026041504018525,SPDL,58,91,20,434.0,8680.0,2026-04-15,186424152,2759,Naasa Securities Co. Ltd.,Citizens Share Broker Limited,2026-04-15 13:09:05.513681,Synergy Power Development Ltd.
+2026041504018967,SPDL,91,57,230,432.1,99383.0,2026-04-15,186427014,2759,Citizens Share Broker Limited,Aryatara Investment & Securities,2026-04-15 13:12:14.074077,Synergy Power Development Ltd.
+2026041504018968,SPDL,7,57,250,431.6,107900.0,2026-04-15,186427016,2759,J.F. Securites (PVT) Ltd.,Aryatara Investment & Securities,2026-04-15 13:12:14.074172,Synergy Power Development Ltd.
+2026041504018969,SPDL,21,57,20,431.5,8630.0,2026-04-15,186427017,2759,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-15 13:12:14.074239,Synergy Power Development Ltd.
+2026041504019040,SPDL,21,35,11,431.5,4746.5,2026-04-15,186427605,2759,Midas Stock Broking Company Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 13:12:49.648924,Synergy Power Development Ltd.
+2026041504019325,SPDL,21,91,145,431.5,62567.5,2026-04-15,186429208,2759,Midas Stock Broking Company Private Limited,Citizens Share Broker Limited,2026-04-15 13:14:32.006609,Synergy Power Development Ltd.
+2026041504019326,SPDL,21,91,25,431.5,10787.5,2026-04-15,186429209,2759,Midas Stock Broking Company Private Limited,Citizens Share Broker Limited,2026-04-15 13:14:32.006863,Synergy Power Development Ltd.
+2026041504019423,SPDL,21,26,475,431.5,204962.5,2026-04-15,186429978,2759,Midas Stock Broking Company Private Limited,Asian Securities Private Ltd.,2026-04-15 13:15:17.655180,Synergy Power Development Ltd.
+2026041504019424,SPDL,58,26,525,431.4,226485.0,2026-04-15,186429979,2759,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-15 13:15:17.655373,Synergy Power Development Ltd.
+2026041504019513,SPDL,58,43,475,431.4,204915.0,2026-04-15,186430587,2759,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:16:00.745730,Synergy Power Development Ltd.
+2026041504019880,SPDL,58,39,17,429.1,7294.7,2026-04-15,186433229,2759,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 13:19:15.996360,Synergy Power Development Ltd.
+2026041504019912,SPDL,58,58,17,429.1,7294.7,2026-04-15,186433495,2759,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:19:34.839210,Synergy Power Development Ltd.
+2026041504020338,SPDL,95,34,16,430.0,6880.0,2026-04-15,186436459,2759,Magnet Securities and Investment Company Private Limited,Vision Securities Pvt. Ltd,2026-04-15 13:23:26.489367,Synergy Power Development Ltd.
+2026041504020435,SPDL,49,71,693,431.8,299237.4,2026-04-15,186437188,2759,Online Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-15 13:24:12.510789,Synergy Power Development Ltd.
+2026041504020483,SPDL,95,58,16,431.9,6910.4,2026-04-15,186437479,2759,Magnet Securities and Investment Company Private Limited,Naasa Securities Co. Ltd.,2026-04-15 13:24:38.944562,Synergy Power Development Ltd.
+2026041504020497,SPDL,95,42,100,431.9,43190.0,2026-04-15,186437629,2759,Magnet Securities and Investment Company Private Limited,Sani Securities Company Ltd.,2026-04-15 13:24:53.454939,Synergy Power Development Ltd.
+2026041504020500,SPDL,58,40,250,432.0,108000.0,2026-04-15,186437643,2759,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-15 13:24:54.632269,Synergy Power Development Ltd.
+2026041504020501,SPDL,58,34,500,432.0,216000.0,2026-04-15,186437645,2759,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 13:24:54.632429,Synergy Power Development Ltd.
+2026041504020502,SPDL,58,19,250,432.0,108000.0,2026-04-15,186437648,2759,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-15 13:24:54.632698,Synergy Power Development Ltd.
+2026041504020552,SPDL,95,19,17,432.0,7344.0,2026-04-15,186438060,2759,Magnet Securities and Investment Company Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-15 13:25:30.554567,Synergy Power Development Ltd.
+2026041504020641,SPDL,49,19,40,430.0,17200.0,2026-04-15,186438837,2759,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-15 13:26:25.778627,Synergy Power Development Ltd.
+2026041504021010,SPDL,49,33,100,430.0,43000.0,2026-04-15,186441465,2759,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 13:29:22.089940,Synergy Power Development Ltd.
+2026041504021099,SPDL,49,94,200,430.0,86000.0,2026-04-15,186442089,2759,Online Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-15 13:30:04.965661,Synergy Power Development Ltd.
+2026041504021112,SPDL,19,7,26,431.0,11206.0,2026-04-15,186442331,2759,Nepal Investment And Securities Trading Private Limited,J.F. Securites (PVT) Ltd.,2026-04-15 13:30:23.129180,Synergy Power Development Ltd.
+2026041504021113,SPDL,19,43,24,432.0,10368.0,2026-04-15,186442334,2759,Nepal Investment And Securities Trading Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-15 13:30:23.129359,Synergy Power Development Ltd.
+2026041504021118,SPDL,49,35,160,430.0,68800.0,2026-04-15,186442358,2759,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 13:30:25.477804,Synergy Power Development Ltd.
+2026041504021119,SPDL,49,35,10,430.0,4300.0,2026-04-15,186442361,2759,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 13:30:26.331350,Synergy Power Development Ltd.
+2026041504021257,SPDL,35,43,10,432.0,4320.0,2026-04-15,186443346,2759,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:31:43.870363,Synergy Power Development Ltd.
+2026041504021575,SPDL,99,46,728,430.0,313040.0,2026-04-15,186445963,2759,Prabhu Stock Market Limited,Kalika Securities Pvt. Ltd.,2026-04-15 13:34:59.229401,Synergy Power Development Ltd.
+2026041504021579,SPDL,99,38,272,430.0,116960.0,2026-04-15,186446046,2759,Prabhu Stock Market Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:35:00.814803,Synergy Power Development Ltd.
+2026041504021627,SPDL,62,38,728,430.0,313040.0,2026-04-15,186446465,2759,Capital Max Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:35:34.963541,Synergy Power Development Ltd.
+2026041504021628,SPDL,62,49,100,430.0,43000.0,2026-04-15,186446467,2759,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,2026-04-15 13:35:34.963853,Synergy Power Development Ltd.
+2026041504021728,SPDL,62,32,172,430.0,73960.0,2026-04-15,186447458,2759,Capital Max Securities Ltd,Premier Securities Company Ltd.,2026-04-15 13:37:10.920693,Synergy Power Development Ltd.
+2026041504021874,SPDL,49,32,828,430.0,356040.0,2026-04-15,186448707,2759,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 13:39:14.311031,Synergy Power Development Ltd.
+2026041504021875,SPDL,49,84,372,430.0,159960.0,2026-04-15,186448710,2759,Online Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-15 13:39:14.311258,Synergy Power Development Ltd.
+2026041504022028,SPDL,58,43,27,432.0,11664.0,2026-04-15,186449594,2759,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:40:33.727095,Synergy Power Development Ltd.
+2026041504022043,SPDL,49,56,100,430.0,43000.0,2026-04-15,186449760,2759,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 13:40:44.807524,Synergy Power Development Ltd.
+2026041504022044,SPDL,50,56,1900,430.0,817000.0,2026-04-15,186449762,2759,Cristal Kanchanjanga Securites Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 13:40:44.807707,Synergy Power Development Ltd.
+2026041504022201,SPDL,47,56,1000,430.0,430000.0,2026-04-15,186450990,2759,Neev Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 13:42:32.245443,Synergy Power Development Ltd.
+2026041504022505,SPDL,45,43,15,432.0,6480.0,2026-04-15,186453148,2759,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:45:31.345501,Synergy Power Development Ltd.
+2026041504022711,SPDL,57,45,150,430.0,64500.0,2026-04-15,186454600,2759,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:47:04.430335,Synergy Power Development Ltd.
+2026041504022820,SPDL,58,45,50,429.1,21455.0,2026-04-15,186455401,2759,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:48:17.053119,Synergy Power Development Ltd.
+2026041504023323,SPDL,35,70,10,431.0,4310.0,2026-04-15,186459032,2759,Kohinoor Investment & Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-15 13:52:12.944446,Synergy Power Development Ltd.
+2026041504023437,SPDL,49,70,150,431.0,64650.0,2026-04-15,186459642,2759,Online Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-15 13:52:50.203914,Synergy Power Development Ltd.
+2026041504023468,SPDL,35,43,10,432.0,4320.0,2026-04-15,186459826,2759,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:53:01.195433,Synergy Power Development Ltd.
+2026041504023638,SPDL,49,44,100,430.0,43000.0,2026-04-15,186460745,2759,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 13:54:06.162368,Synergy Power Development Ltd.
+2026041504023741,SPDL,35,43,10,432.0,4320.0,2026-04-15,186461072,2759,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:54:25.222210,Synergy Power Development Ltd.
+2026041504023765,SPDL,57,48,100,430.0,43000.0,2026-04-15,186461392,2759,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-15 13:54:51.304025,Synergy Power Development Ltd.
+2026041504023766,SPDL,58,48,400,429.1,171640.0,2026-04-15,186461393,2759,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-15 13:54:51.304126,Synergy Power Development Ltd.
+2026041504023806,SPDL,34,43,10,432.0,4320.0,2026-04-15,186461582,2759,Vision Securities Pvt. Ltd,South Asian Bulls Pvt. Ltd.,2026-04-15 13:55:10.061271,Synergy Power Development Ltd.
+2026041504024095,SPDL,74,50,500,431.8,215900.0,2026-04-15,186463761,2759,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 13:58:21.435344,Synergy Power Development Ltd.
+2026041504024096,SPDL,74,58,1000,431.9,431900.0,2026-04-15,186463763,2759,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,2026-04-15 13:58:21.435594,Synergy Power Development Ltd.
+2026041504024156,SPDL,35,43,10,432.0,4320.0,2026-04-15,186464218,2759,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:59:03.900321,Synergy Power Development Ltd.
+2026041504024485,SPDL,58,34,20,432.0,8640.0,2026-04-15,186467276,2759,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:04:05.264248,Synergy Power Development Ltd.
+2026041504024699,SPDL,58,35,30,431.9,12957.0,2026-04-15,186469172,2759,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:07:06.958418,Synergy Power Development Ltd.
+2026041504024725,SPDL,74,35,37,430.0,15910.0,2026-04-15,186469499,2759,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:07:48.769582,Synergy Power Development Ltd.
+2026041504024728,SPDL,35,34,10,432.0,4320.0,2026-04-15,186469596,2759,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:07:59.715845,Synergy Power Development Ltd.
+2026041504024869,SPDL,42,43,345,431.9,149005.5,2026-04-15,186470652,2759,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 14:09:43.125252,Synergy Power Development Ltd.
+2026041504024909,SPDL,49,43,64,431.9,27641.6,2026-04-15,186470856,2759,Online Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 14:10:05.961020,Synergy Power Development Ltd.
+2026041504025524,SPDL,42,57,10,431.0,4310.0,2026-04-15,186475308,2759,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-15 14:17:06.307657,Synergy Power Development Ltd.
+2026041504025525,SPDL,74,57,190,430.0,81700.0,2026-04-15,186475309,2759,KALASH STOCK MARKET PVT. LTD.,Aryatara Investment & Securities,2026-04-15 14:17:06.308041,Synergy Power Development Ltd.
+2026041504025964,SPDL,74,58,28,430.0,12040.0,2026-04-15,186477923,2759,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,2026-04-15 14:20:03.621759,Synergy Power Development Ltd.
+2026041504026212,SPDL,74,34,245,430.0,105350.0,2026-04-15,186479470,2759,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-15 14:21:43.207195,Synergy Power Development Ltd.
+2026041504026213,SPDL,58,34,16,430.0,6880.0,2026-04-15,186479472,2759,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:21:43.207582,Synergy Power Development Ltd.
+2026041504026214,SPDL,38,34,100,430.0,43000.0,2026-04-15,186479474,2759,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:21:43.207799,Synergy Power Development Ltd.
+2026041504026793,SPDL,58,58,490,429.1,210259.0,2026-04-15,186483035,2759,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 14:24:51.865185,Synergy Power Development Ltd.
+2026041504027017,SPDL,58,34,510,429.1,218841.0,2026-04-15,186484660,2759,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:26:15.304380,Synergy Power Development Ltd.
+2026041504027018,SPDL,50,34,466,429.0,199914.0,2026-04-15,186484662,2759,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:26:15.304572,Synergy Power Development Ltd.
+2026041504027019,SPDL,48,34,14,429.0,6006.0,2026-04-15,186484663,2759,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-15 14:26:15.304653,Synergy Power Development Ltd.
+2026041504027442,SPDL,48,92,401,429.0,172029.0,2026-04-15,186487396,2759,Trishakti Securities Public Limited,Roadshow securities limited,2026-04-15 14:28:34.617097,Synergy Power Development Ltd.
+2026041504027562,SPDL,51,46,470,428.1,201207.0,2026-04-15,186487838,2759,Oxford Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 14:28:55.290274,Synergy Power Development Ltd.
+2026041504027563,SPDL,56,46,136,428.0,58208.0,2026-04-15,186487840,2759,Sri Hari Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 14:28:55.290634,Synergy Power Development Ltd.
+2026041504027651,SPDL,49,46,10,428.0,4280.0,2026-04-15,186488382,2759,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 14:29:23.651582,Synergy Power Development Ltd.
+2026041504027670,SPDL,49,46,10,428.0,4280.0,2026-04-15,186488512,2759,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 14:29:30.970241,Synergy Power Development Ltd.
+2026041504027711,SPDL,49,46,50,428.0,21400.0,2026-04-15,186488854,2759,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 14:29:42.105606,Synergy Power Development Ltd.
+2026041504027735,SPDL,49,46,50,428.0,21400.0,2026-04-15,186489030,2759,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 14:29:50.663048,Synergy Power Development Ltd.
+2026041504027767,SPDL,99,92,19,427.8,8128.2,2026-04-15,186489229,2759,Prabhu Stock Market Limited,Roadshow securities limited,2026-04-15 14:30:00.654725,Synergy Power Development Ltd.
+2026041504027813,SPDL,99,92,80,427.8,34224.0,2026-04-15,186489633,2759,Prabhu Stock Market Limited,Roadshow securities limited,2026-04-15 14:30:25.235900,Synergy Power Development Ltd.
+2026041504027842,SPDL,99,50,901,427.8,385447.8,2026-04-15,186489824,2759,Prabhu Stock Market Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:30:35.121963,Synergy Power Development Ltd.
+2026041504027843,SPDL,34,50,1000,427.8,427800.0,2026-04-15,186489826,2759,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:30:35.122121,Synergy Power Development Ltd.
+2026041504027881,SPDL,49,50,10,427.8,4278.0,2026-04-15,186490090,2759,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:30:54.819769,Synergy Power Development Ltd.
+2026041504027882,SPDL,16,13,945,427.6,404082.0,2026-04-15,186490105,2759,Primo Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 14:30:55.949922,Synergy Power Development Ltd.
+2026041504027946,SPDL,49,50,10,427.8,4278.0,2026-04-15,186490644,2759,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:31:24.158554,Synergy Power Development Ltd.
+2026041504027981,SPDL,49,50,10,427.8,4278.0,2026-04-15,186490856,2759,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:31:34.896112,Synergy Power Development Ltd.
+2026041504028064,SPDL,49,50,10,427.8,4278.0,2026-04-15,186491394,2759,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:32:03.436890,Synergy Power Development Ltd.
+2026041504028177,SPDL,49,50,10,427.8,4278.0,2026-04-15,186492042,2759,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:32:33.364510,Synergy Power Development Ltd.
+2026041504028222,SPDL,49,50,30,427.8,12834.0,2026-04-15,186492466,2759,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:32:54.433994,Synergy Power Development Ltd.
+2026041504028458,SPDL,49,35,20,427.8,8556.0,2026-04-15,186494306,2759,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:34:42.934623,Synergy Power Development Ltd.
+2026041504028515,SPDL,49,35,10,427.8,4278.0,2026-04-15,186494644,2759,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:35:04.704754,Synergy Power Development Ltd.
+2026041504028578,SPDL,49,35,15,427.8,6417.0,2026-04-15,186495226,2759,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:35:29.929739,Synergy Power Development Ltd.
+2026041504028946,SPDL,34,34,490,426.0,208740.0,2026-04-15,186497828,2759,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.620809,Synergy Power Development Ltd.
+2026041504028947,SPDL,39,34,1000,426.0,426000.0,2026-04-15,186497830,2759,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.620900,Synergy Power Development Ltd.
+2026041504028948,SPDL,48,34,1000,425.5,425500.0,2026-04-15,186497832,2759,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.620974,Synergy Power Development Ltd.
+2026041504028949,SPDL,57,34,165,425.0,70125.0,2026-04-15,186497834,2759,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.621052,Synergy Power Development Ltd.
+2026041504028950,SPDL,58,34,20,425.0,8500.0,2026-04-15,186497836,2759,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.621119,Synergy Power Development Ltd.
+2026041504028951,SPDL,17,34,100,425.0,42500.0,2026-04-15,186497838,2759,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.621185,Synergy Power Development Ltd.
+2026041504028952,SPDL,10,34,1000,425.0,425000.0,2026-04-15,186497840,2759,Pragyan Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.621255,Synergy Power Development Ltd.
+2026041504028953,SPDL,47,34,100,425.0,42500.0,2026-04-15,186497842,2759,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.621341,Synergy Power Development Ltd.
+2026041504028954,SPDL,28,34,500,425.0,212500.0,2026-04-15,186497844,2759,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.621411,Synergy Power Development Ltd.
+2026041504028955,SPDL,58,34,625,425.0,265625.0,2026-04-15,186497845,2759,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:38:15.621483,Synergy Power Development Ltd.
+2026041504029227,SPDL,58,43,11,424.0,4664.0,2026-04-15,186499921,2759,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 14:40:30.369147,Synergy Power Development Ltd.
+2026041504029643,SPDL,35,35,10,427.8,4278.0,2026-04-15,186503166,2759,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:43:40.793063,Synergy Power Development Ltd.
+2026041504030024,SPDL,91,35,195,427.8,83421.0,2026-04-15,186506365,2759,Citizens Share Broker Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:46:36.842493,Synergy Power Development Ltd.
+2026041504030025,SPDL,91,32,100,427.8,42780.0,2026-04-15,186506367,2759,Citizens Share Broker Limited,Premier Securities Company Ltd.,2026-04-15 14:46:36.842864,Synergy Power Development Ltd.
+2026041504030066,SPDL,35,46,10,428.0,4280.0,2026-04-15,186506626,2759,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 14:46:51.360286,Synergy Power Development Ltd.
+2026041504030078,SPDL,91,46,44,428.0,18832.0,2026-04-15,186506705,2759,Citizens Share Broker Limited,Kalika Securities Pvt. Ltd.,2026-04-15 14:46:56.212672,Synergy Power Development Ltd.
+2026041504030079,SPDL,91,50,161,428.0,68908.0,2026-04-15,186506708,2759,Citizens Share Broker Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:46:56.213011,Synergy Power Development Ltd.
+2026041504030443,SPDL,49,50,839,428.0,359092.0,2026-04-15,186509631,2759,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:49:09.329137,Synergy Power Development Ltd.
+2026041504030444,SPDL,49,40,100,428.0,42800.0,2026-04-15,186509633,2759,Online Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-15 14:49:09.329508,Synergy Power Development Ltd.
+2026041504030445,SPDL,49,28,17,428.0,7276.0,2026-04-15,186509635,2759,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-15 14:49:09.329732,Synergy Power Development Ltd.
+2026041504030545,SPDL,35,56,10,428.9,4289.0,2026-04-15,186510007,2759,Kohinoor Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 14:49:26.697984,Synergy Power Development Ltd.
+2026041504030821,SPDL,49,21,44,428.0,18832.0,2026-04-15,186512962,2759,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:51:12.830910,Synergy Power Development Ltd.
+2026041504030935,SPDL,35,21,10,428.0,4280.0,2026-04-15,186513809,2759,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:51:41.776335,Synergy Power Development Ltd.
+2026041504030936,SPDL,35,21,10,428.8,4288.0,2026-04-15,186513812,2759,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:51:41.776449,Synergy Power Development Ltd.
+2026041504031288,SPDL,49,21,166,426.0,70716.0,2026-04-15,186516372,2759,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:53:57.098190,Synergy Power Development Ltd.
+2026041504031289,SPDL,52,21,2500,426.0,1065000.0,2026-04-15,186516374,2759,Sundhara Securities Limited,Midas Stock Broking Company Private Limited,2026-04-15 14:53:57.098399,Synergy Power Development Ltd.
+2026041504031415,SPDL,35,21,10,426.9,4269.0,2026-04-15,186517410,2759,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:54:40.370418,Synergy Power Development Ltd.
+2026041504031590,SPDL,57,57,100,426.0,42600.0,2026-04-15,186518855,2759,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-15 14:55:29.012755,Synergy Power Development Ltd.
+2026041504031591,SPDL,57,34,20,426.9,8538.0,2026-04-15,186518857,2759,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-15 14:55:29.012942,Synergy Power Development Ltd.
+2026041504031620,SPDL,57,21,380,426.9,162222.0,2026-04-15,186519040,2759,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-15 14:55:36.069386,Synergy Power Development Ltd.
+2026041504031621,SPDL,64,21,800,425.7,340560.0,2026-04-15,186519042,2759,SUN SECURITIES PVT LTD,Midas Stock Broking Company Private Limited,2026-04-15 14:55:36.069601,Synergy Power Development Ltd.
+2026041504031622,SPDL,13,21,500,425.6,212800.0,2026-04-15,186519044,2759,Thrive Brokerage House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-15 14:55:36.069691,Synergy Power Development Ltd.
+2026041504031623,SPDL,44,21,100,425.5,42550.0,2026-04-15,186519045,2759,Dynamic Money Managers Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:55:36.069769,Synergy Power Development Ltd.
+2026041504031704,SPDL,35,42,10,428.0,4280.0,2026-04-15,186519474,2759,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:55:51.606865,Synergy Power Development Ltd.
+2026041504031775,SPDL,44,42,100,425.5,42550.0,2026-04-15,186519763,2759,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:55:58.863954,Synergy Power Development Ltd.
+2026041504031826,SPDL,58,58,314,425.2,133512.8,2026-04-15,186520102,2759,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 14:56:11.316626,Synergy Power Development Ltd.
+2026041504031827,SPDL,38,58,100,425.1,42510.0,2026-04-15,186520104,2759,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-15 14:56:11.316796,Synergy Power Development Ltd.
+2026041504031828,SPDL,56,58,100,425.1,42510.0,2026-04-15,186520106,2759,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 14:56:11.316869,Synergy Power Development Ltd.
+2026041504031829,SPDL,99,58,186,425.1,79068.6,2026-04-15,186520107,2759,Prabhu Stock Market Limited,Naasa Securities Co. Ltd.,2026-04-15 14:56:11.316939,Synergy Power Development Ltd.
+2026041504032005,SPDL,99,42,314,425.1,133481.4,2026-04-15,186521324,2759,Prabhu Stock Market Limited,Sani Securities Company Ltd.,2026-04-15 14:56:49.464710,Synergy Power Development Ltd.
+2026041504032006,SPDL,34,42,500,425.0,212500.0,2026-04-15,186521327,2759,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-15 14:56:49.464894,Synergy Power Development Ltd.
+2026041504032061,SPDL,16,81,729,424.2,309241.8,2026-04-15,186521638,2759,Primo Securities (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-15 14:56:58.546087,Synergy Power Development Ltd.
+2026041504032062,SPDL,48,81,200,424.1,84820.0,2026-04-15,186521640,2759,Trishakti Securities Public Limited,Aakashbhairab Securities Ltd.,2026-04-15 14:56:58.546471,Synergy Power Development Ltd.
+2026041504032063,SPDL,22,81,1471,424.1,623851.1,2026-04-15,186521641,2759,Siprabi Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-15 14:56:58.546694,Synergy Power Development Ltd.
+2026041504032171,SPDL,7,39,10,424.2,4242.0,2026-04-15,186522234,2759,J.F. Securites (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 14:57:16.411765,Synergy Power Development Ltd.
+2026041504032249,SPDL,42,39,54,424.2,22906.8,2026-04-15,186522749,2759,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 14:57:32.848410,Synergy Power Development Ltd.
+2026041504032250,SPDL,42,42,186,425.0,79050.0,2026-04-15,186522751,2759,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-15 14:57:32.848597,Synergy Power Development Ltd.
+2026041504032299,SPDL,35,48,70,427.9,29953.0,2026-04-15,186523001,2759,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 14:57:39.399324,Synergy Power Development Ltd.
+2026041504032368,SPDL,34,48,30,427.9,12837.0,2026-04-15,186523322,2759,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-15 14:57:46.942238,Synergy Power Development Ltd.
+2026041504032369,SPDL,34,42,10,428.0,4280.0,2026-04-15,186523269,2759,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-15 14:57:46.942286,Synergy Power Development Ltd.
+2026041504032396,SPDL,35,36,40,428.0,17120.0,2026-04-15,186523418,2759,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-15 14:57:49.251667,Synergy Power Development Ltd.
+2026041504033039,SPDL,38,85,100,425.2,42520.0,2026-04-15,186527486,2759,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Hub P. Ltd,2026-04-15 14:59:23.327955,Synergy Power Development Ltd.
+2026041504033040,SPDL,34,85,200,425.2,85040.0,2026-04-15,186527488,2759,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,2026-04-15 14:59:23.328119,Synergy Power Development Ltd.
+2026041504033041,SPDL,42,85,160,425.1,68016.0,2026-04-15,186527490,2759,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-15 14:59:23.328202,Synergy Power Development Ltd.
+2026041504033185,SPDL,48,85,30,424.0,12720.0,2026-04-15,186528376,2759,Trishakti Securities Public Limited,Capital Hub P. Ltd,2026-04-15 14:59:35.081638,Synergy Power Development Ltd.
+2026041504033186,SPDL,49,85,500,424.0,212000.0,2026-04-15,186528380,2759,Online Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-15 14:59:35.081842,Synergy Power Development Ltd.
+2026041504033511,SPDL,53,85,500,423.6,211800.0,2026-04-15,186530738,2759,Investment Management Nepal Pvt. Ltd.,Capital Hub P. Ltd,2026-04-15 14:59:57.570971,Synergy Power Development Ltd.
+2026041504033512,SPDL,22,85,2000,423.6,847200.0,2026-04-15,186530740,2759,Siprabi Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-15 14:59:57.571134,Synergy Power Development Ltd.
+2026041504033513,SPDL,21,85,500,423.5,211750.0,2026-04-15,186530742,2759,Midas Stock Broking Company Private Limited,Capital Hub P. Ltd,2026-04-15 14:59:57.571218,Synergy Power Development Ltd.
+2026041504033514,SPDL,74,85,1367,423.5,578924.5,2026-04-15,186530744,2759,KALASH STOCK MARKET PVT. LTD.,Capital Hub P. Ltd,2026-04-15 14:59:57.571296,Synergy Power Development Ltd.
+2026041504033515,SPDL,19,85,100,423.5,42350.0,2026-04-15,186530746,2759,Nepal Investment And Securities Trading Private Limited,Capital Hub P. Ltd,2026-04-15 14:59:57.571380,Synergy Power Development Ltd.
+2026041504033516,SPDL,43,85,543,423.4,229906.2,2026-04-15,186530747,2759,South Asian Bulls Pvt. Ltd.,Capital Hub P. Ltd,2026-04-15 14:59:57.571454,Synergy Power Development Ltd.
+2026041504033521,SPDL,42,52,10,427.0,4270.0,2026-04-15,186530848,2759,Sani Securities Company Ltd.,Sundhara Securities Limited,2026-04-15 14:59:57.816124,Synergy Power Development Ltd.

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,quantity,rate,amount,transaction_time
+Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
 2025-08-03,149940,2025080303000364,EDBL,Online Securities Pvt. Ltd.,Secured Securities Ltd.,400,669.0,267600.0,2025-08-03T11:04:13.019229
 2025-08-03,147241,2025080303000703,EDBL,Premier Securities Company Ltd.,ABC Securities Private Limited,150,668.0,100200.0,2025-08-03T11:08:25.392921
 2025-08-03,147132,2025080303000720,EDBL,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,50,668.0,33400.0,2025-08-03T11:08:35.467654

@@ -1,0 +1,532 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041504000035,KKHC,87,16,10,293.0,2930.0,2026-04-15,186285058,2751,S.P.S.A. Securities Limited,Primo Securities (PVT) Ltd.,2026-04-15 11:00:09.753212,Khanikhola Hydropower Co. Ltd.
+2026041504000036,KKHC,58,87,10,288.0,2880.0,2026-04-15,186285079,2751,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:00:16.506893,Khanikhola Hydropower Co. Ltd.
+2026041504000059,KKHC,87,16,10,293.0,2930.0,2026-04-15,186285220,2751,S.P.S.A. Securities Limited,Primo Securities (PVT) Ltd.,2026-04-15 11:00:49.784710,Khanikhola Hydropower Co. Ltd.
+2026041504000087,KKHC,58,16,20,293.0,5860.0,2026-04-15,186285490,2751,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 11:01:12.866143,Khanikhola Hydropower Co. Ltd.
+2026041504000162,KKHC,58,16,10,293.0,2930.0,2026-04-15,186286685,2751,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 11:02:21.729645,Khanikhola Hydropower Co. Ltd.
+2026041504000205,KKHC,45,43,10,293.1,2931.0,2026-04-15,186286999,2751,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 11:02:37.452441,Khanikhola Hydropower Co. Ltd.
+2026041504000206,KKHC,45,75,77,293.1,22568.7,2026-04-15,186287001,2751,Imperial Securities Company Pvt. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-15 11:02:37.452570,Khanikhola Hydropower Co. Ltd.
+2026041504000207,KKHC,45,42,10,293.1,2931.0,2026-04-15,186287003,2751,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:02:37.452665,Khanikhola Hydropower Co. Ltd.
+2026041504000208,KKHC,45,42,20,293.1,5862.0,2026-04-15,186287005,2751,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:02:37.452750,Khanikhola Hydropower Co. Ltd.
+2026041504000220,KKHC,87,58,10,297.0,2970.0,2026-04-15,186287082,2751,S.P.S.A. Securities Limited,Naasa Securities Co. Ltd.,2026-04-15 11:02:41.944389,Khanikhola Hydropower Co. Ltd.
+2026041504000294,KKHC,33,42,100,295.0,29500.0,2026-04-15,186287772,2751,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:03:18.051588,Khanikhola Hydropower Co. Ltd.
+2026041504000305,KKHC,45,42,183,295.0,53985.0,2026-04-15,186287844,2751,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:03:23.827622,Khanikhola Hydropower Co. Ltd.
+2026041504000334,KKHC,46,52,1015,294.9,299323.5,2026-04-15,186288157,2751,Kalika Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-15 11:03:40.179475,Khanikhola Hydropower Co. Ltd.
+2026041504000335,KKHC,59,51,10,293.1,2931.0,2026-04-15,186288171,2751,Deevyaa Securities & Stock House Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 11:03:41.671082,Khanikhola Hydropower Co. Ltd.
+2026041504000336,KKHC,49,42,317,295.0,93515.0,2026-04-15,186288177,2751,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:03:41.772556,Khanikhola Hydropower Co. Ltd.
+2026041504000337,KKHC,49,90,83,295.0,24485.0,2026-04-15,186288180,2751,Online Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 11:03:41.772726,Khanikhola Hydropower Co. Ltd.
+2026041504000341,KKHC,59,87,10,293.1,2931.0,2026-04-15,186288269,2751,Deevyaa Securities & Stock House Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-15 11:03:47.785050,Khanikhola Hydropower Co. Ltd.
+2026041504000363,KKHC,58,87,18,293.0,5274.0,2026-04-15,186288470,2751,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:03:55.601192,Khanikhola Hydropower Co. Ltd.
+2026041504000364,KKHC,29,87,200,292.0,58400.0,2026-04-15,186288472,2751,Trisul Securities & Invt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:03:55.601307,Khanikhola Hydropower Co. Ltd.
+2026041504000365,KKHC,58,87,230,290.0,66700.0,2026-04-15,186288474,2751,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:03:55.601383,Khanikhola Hydropower Co. Ltd.
+2026041504000366,KKHC,43,87,1000,290.0,290000.0,2026-04-15,186288476,2751,South Asian Bulls Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:03:55.601448,Khanikhola Hydropower Co. Ltd.
+2026041504000367,KKHC,58,87,142,290.0,41180.0,2026-04-15,186288478,2751,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:03:55.601496,Khanikhola Hydropower Co. Ltd.
+2026041504000369,KKHC,53,87,5000,290.0,1450000.0,2026-04-15,186288524,2751,Investment Management Nepal Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:03:58.652691,Khanikhola Hydropower Co. Ltd.
+2026041504000412,KKHC,25,87,20,290.0,5800.0,2026-04-15,186289000,2751,Sweta Securities Private Limited,S.P.S.A. Securities Limited,2026-04-15 11:04:26.434003,Khanikhola Hydropower Co. Ltd.
+2026041504000432,KKHC,58,87,40,290.0,11600.0,2026-04-15,186289132,2751,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:04:33.705618,Khanikhola Hydropower Co. Ltd.
+2026041504000459,KKHC,49,87,1000,290.0,290000.0,2026-04-15,186289328,2751,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:04:49.554855,Khanikhola Hydropower Co. Ltd.
+2026041504000496,KKHC,49,87,1000,290.0,290000.0,2026-04-15,186289498,2751,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:05:01.777804,Khanikhola Hydropower Co. Ltd.
+2026041504000518,KKHC,49,87,1000,290.0,290000.0,2026-04-15,186289662,2751,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:05:15.124767,Khanikhola Hydropower Co. Ltd.
+2026041504000540,KKHC,49,87,350,290.0,101500.0,2026-04-15,186289787,2751,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:05:29.002028,Khanikhola Hydropower Co. Ltd.
+2026041504000553,KKHC,49,87,650,290.0,188500.0,2026-04-15,186289868,2751,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:05:33.599634,Khanikhola Hydropower Co. Ltd.
+2026041504000554,KKHC,41,87,100,290.0,29000.0,2026-04-15,186289870,2751,Linch Stock Market Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:05:33.599836,Khanikhola Hydropower Co. Ltd.
+2026041504000662,KKHC,49,87,550,290.0,159500.0,2026-04-15,186290664,2751,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:06:29.950725,Khanikhola Hydropower Co. Ltd.
+2026041504000742,KKHC,49,46,45,290.0,13050.0,2026-04-15,186291130,2751,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 11:07:05.795815,Khanikhola Hydropower Co. Ltd.
+2026041504000816,KKHC,43,46,1000,290.0,290000.0,2026-04-15,186291478,2751,South Asian Bulls Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 11:07:28.195613,Khanikhola Hydropower Co. Ltd.
+2026041504000842,KKHC,58,46,660,290.0,191400.0,2026-04-15,186291697,2751,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 11:07:42.502666,Khanikhola Hydropower Co. Ltd.
+2026041504001117,KKHC,42,42,106,292.0,30952.0,2026-04-15,186293951,2751,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-15 11:10:18.630704,Khanikhola Hydropower Co. Ltd.
+2026041504001212,KKHC,43,35,25,292.9,7322.5,2026-04-15,186294532,2751,South Asian Bulls Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:10:43.079081,Khanikhola Hydropower Co. Ltd.
+2026041504001213,KKHC,42,58,25,292.0,7300.0,2026-04-15,186294545,2751,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:10:46.390900,Khanikhola Hydropower Co. Ltd.
+2026041504001266,KKHC,42,45,19,292.0,5548.0,2026-04-15,186294926,2751,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:11:06.512706,Khanikhola Hydropower Co. Ltd.
+2026041504001267,KKHC,18,45,25,292.0,7300.0,2026-04-15,186294927,2751,Sagarmatha Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:11:06.512965,Khanikhola Hydropower Co. Ltd.
+2026041504001285,KKHC,18,39,10,292.0,2920.0,2026-04-15,186295069,2751,Sagarmatha Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-15 11:11:19.652557,Khanikhola Hydropower Co. Ltd.
+2026041504001301,KKHC,18,39,10,292.0,2920.0,2026-04-15,186295131,2751,Sagarmatha Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-15 11:11:24.401397,Khanikhola Hydropower Co. Ltd.
+2026041504001370,KKHC,87,35,10,292.9,2929.0,2026-04-15,186295580,2751,S.P.S.A. Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:11:50.522111,Khanikhola Hydropower Co. Ltd.
+2026041504001415,KKHC,18,87,455,292.0,132860.0,2026-04-15,186295914,2751,Sagarmatha Securities Private Limited,S.P.S.A. Securities Limited,2026-04-15 11:12:14.805880,Khanikhola Hydropower Co. Ltd.
+2026041504001416,KKHC,45,87,1000,290.2,290200.0,2026-04-15,186295916,2751,Imperial Securities Company Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:12:14.806167,Khanikhola Hydropower Co. Ltd.
+2026041504001417,KKHC,41,87,50,290.1,14505.0,2026-04-15,186295918,2751,Linch Stock Market Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:12:14.806352,Khanikhola Hydropower Co. Ltd.
+2026041504001418,KKHC,81,87,100,290.1,29010.0,2026-04-15,186295920,2751,Aakashbhairab Securities Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:12:14.806521,Khanikhola Hydropower Co. Ltd.
+2026041504001419,KKHC,58,87,340,290.0,98600.0,2026-04-15,186295922,2751,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:12:14.806682,Khanikhola Hydropower Co. Ltd.
+2026041504001420,KKHC,59,87,10,290.0,2900.0,2026-04-15,186295924,2751,Deevyaa Securities & Stock House Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-15 11:12:14.806867,Khanikhola Hydropower Co. Ltd.
+2026041504001421,KKHC,43,87,2045,290.0,593050.0,2026-04-15,186295925,2751,South Asian Bulls Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:12:14.807021,Khanikhola Hydropower Co. Ltd.
+2026041504001427,KKHC,35,28,100,292.5,29250.0,2026-04-15,186295953,2751,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-15 11:12:19.026831,Khanikhola Hydropower Co. Ltd.
+2026041504001428,KKHC,35,35,190,292.9,55651.0,2026-04-15,186295955,2751,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:19.026880,Khanikhola Hydropower Co. Ltd.
+2026041504001429,KKHC,35,35,1110,293.0,325230.0,2026-04-15,186295957,2751,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:19.026901,Khanikhola Hydropower Co. Ltd.
+2026041504001430,KKHC,35,58,90,294.0,26460.0,2026-04-15,186295959,2751,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:12:19.026932,Khanikhola Hydropower Co. Ltd.
+2026041504001431,KKHC,35,43,154,294.0,45276.0,2026-04-15,186295961,2751,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 11:12:19.026959,Khanikhola Hydropower Co. Ltd.
+2026041504001432,KKHC,35,90,597,295.0,176115.0,2026-04-15,186295963,2751,Kohinoor Investment & Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 11:12:19.026991,Khanikhola Hydropower Co. Ltd.
+2026041504001433,KKHC,35,34,759,295.0,223905.0,2026-04-15,186295966,2751,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:12:19.027019,Khanikhola Hydropower Co. Ltd.
+2026041504001456,KKHC,43,35,455,290.0,131950.0,2026-04-15,186296092,2751,South Asian Bulls Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041104,Khanikhola Hydropower Co. Ltd.
+2026041504001457,KKHC,17,35,100,290.0,29000.0,2026-04-15,186296094,2751,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041151,Khanikhola Hydropower Co. Ltd.
+2026041504001458,KKHC,35,35,250,289.3,72325.0,2026-04-15,186296096,2751,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041175,Khanikhola Hydropower Co. Ltd.
+2026041504001459,KKHC,46,35,100,289.1,28910.0,2026-04-15,186296098,2751,Kalika Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041201,Khanikhola Hydropower Co. Ltd.
+2026041504001460,KKHC,49,35,200,289.1,57820.0,2026-04-15,186296100,2751,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041229,Khanikhola Hydropower Co. Ltd.
+2026041504001461,KKHC,17,35,100,289.0,28900.0,2026-04-15,186296102,2751,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041253,Khanikhola Hydropower Co. Ltd.
+2026041504001462,KKHC,42,35,559,288.2,161103.8,2026-04-15,186296104,2751,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041286,Khanikhola Hydropower Co. Ltd.
+2026041504001463,KKHC,14,35,200,288.0,57600.0,2026-04-15,186296106,2751,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041317,Khanikhola Hydropower Co. Ltd.
+2026041504001464,KKHC,37,35,200,288.0,57600.0,2026-04-15,186296108,2751,Swarna Laxmi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041337,Khanikhola Hydropower Co. Ltd.
+2026041504001465,KKHC,32,35,500,288.0,144000.0,2026-04-15,186296110,2751,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041360,Khanikhola Hydropower Co. Ltd.
+2026041504001466,KKHC,52,35,336,288.0,96768.0,2026-04-15,186296111,2751,Sundhara Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:12:29.041383,Khanikhola Hydropower Co. Ltd.
+2026041504001524,KKHC,65,87,21,290.0,6090.0,2026-04-15,186296602,2751,Sharepro Securities Private Limited,S.P.S.A. Securities Limited,2026-04-15 11:13:05.235489,Khanikhola Hydropower Co. Ltd.
+2026041504001920,KKHC,35,87,14,290.0,4060.0,2026-04-15,186299334,2751,Kohinoor Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:16:37.593058,Khanikhola Hydropower Co. Ltd.
+2026041504002194,KKHC,25,26,330,289.1,95403.0,2026-04-15,186301368,2751,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-15 11:19:16.842820,Khanikhola Hydropower Co. Ltd.
+2026041504002195,KKHC,26,26,220,289.0,63580.0,2026-04-15,186301369,2751,Asian Securities Private Ltd.,Asian Securities Private Ltd.,2026-04-15 11:19:16.842872,Khanikhola Hydropower Co. Ltd.
+2026041504002616,KKHC,33,49,50,289.1,14455.0,2026-04-15,186304198,2751,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 11:22:06.995272,Khanikhola Hydropower Co. Ltd.
+2026041504002617,KKHC,26,49,80,289.0,23120.0,2026-04-15,186304200,2751,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,2026-04-15 11:22:06.995573,Khanikhola Hydropower Co. Ltd.
+2026041504002618,KKHC,26,49,80,289.0,23120.0,2026-04-15,186304201,2751,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,2026-04-15 11:22:06.995765,Khanikhola Hydropower Co. Ltd.
+2026041504002688,KKHC,26,41,20,289.0,5780.0,2026-04-15,186304946,2751,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-15 11:22:51.607487,Khanikhola Hydropower Co. Ltd.
+2026041504002689,KKHC,26,41,20,289.0,5780.0,2026-04-15,186304948,2751,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-15 11:22:51.607803,Khanikhola Hydropower Co. Ltd.
+2026041504002690,KKHC,26,41,60,289.0,17340.0,2026-04-15,186304949,2751,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-15 11:22:51.608007,Khanikhola Hydropower Co. Ltd.
+2026041504002899,KKHC,26,33,500,289.1,144550.0,2026-04-15,186306812,2751,Asian Securities Private Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 11:24:47.350877,Khanikhola Hydropower Co. Ltd.
+2026041504002900,KKHC,40,33,470,289.0,135830.0,2026-04-15,186306814,2751,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 11:24:47.351246,Khanikhola Hydropower Co. Ltd.
+2026041504002901,KKHC,49,33,30,289.0,8670.0,2026-04-15,186306815,2751,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 11:24:47.351496,Khanikhola Hydropower Co. Ltd.
+2026041504002929,KKHC,22,45,400,290.0,116000.0,2026-04-15,186307123,2751,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:25:04.012283,Khanikhola Hydropower Co. Ltd.
+2026041504002930,KKHC,22,91,200,290.0,58000.0,2026-04-15,186307125,2751,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-15 11:25:04.012611,Khanikhola Hydropower Co. Ltd.
+2026041504002931,KKHC,22,41,445,290.0,129050.0,2026-04-15,186307127,2751,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 11:25:04.012815,Khanikhola Hydropower Co. Ltd.
+2026041504002950,KKHC,22,87,609,290.0,176610.0,2026-04-15,186307423,2751,Siprabi Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:25:19.177223,Khanikhola Hydropower Co. Ltd.
+2026041504002980,KKHC,49,51,20,289.0,5780.0,2026-04-15,186307763,2751,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 11:25:38.543935,Khanikhola Hydropower Co. Ltd.
+2026041504003196,KKHC,59,6,10,289.1,2891.0,2026-04-15,186309936,2751,Deevyaa Securities & Stock House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-15 11:27:46.422802,Khanikhola Hydropower Co. Ltd.
+2026041504003197,KKHC,49,6,13,289.0,3757.0,2026-04-15,186309937,2751,Online Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 11:27:46.422986,Khanikhola Hydropower Co. Ltd.
+2026041504003279,KKHC,64,87,201,290.0,58290.0,2026-04-15,186310765,2751,SUN SECURITIES PVT LTD,S.P.S.A. Securities Limited,2026-04-15 11:28:44.000002,Khanikhola Hydropower Co. Ltd.
+2026041504003280,KKHC,64,48,57,290.0,16530.0,2026-04-15,186310767,2751,SUN SECURITIES PVT LTD,Trishakti Securities Public Limited,2026-04-15 11:28:44.000191,Khanikhola Hydropower Co. Ltd.
+2026041504003281,KKHC,64,42,20,290.0,5800.0,2026-04-15,186310769,2751,SUN SECURITIES PVT LTD,Sani Securities Company Ltd.,2026-04-15 11:28:44.000270,Khanikhola Hydropower Co. Ltd.
+2026041504003306,KKHC,58,46,50,292.0,14600.0,2026-04-15,186310998,2751,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 11:29:01.458863,Khanikhola Hydropower Co. Ltd.
+2026041504003383,KKHC,64,46,60,292.0,17520.0,2026-04-15,186311597,2751,SUN SECURITIES PVT LTD,Kalika Securities Pvt. Ltd.,2026-04-15 11:29:33.440700,Khanikhola Hydropower Co. Ltd.
+2026041504003454,KKHC,64,6,20,292.0,5840.0,2026-04-15,186312147,2751,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 11:30:15.441701,Khanikhola Hydropower Co. Ltd.
+2026041504003482,KKHC,58,38,155,292.5,45337.5,2026-04-15,186312370,2751,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:30:29.737030,Khanikhola Hydropower Co. Ltd.
+2026041504003492,KKHC,26,38,45,292.5,13162.5,2026-04-15,186312501,2751,Asian Securities Private Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 11:30:38.763726,Khanikhola Hydropower Co. Ltd.
+2026041504003493,KKHC,26,14,50,293.0,14650.0,2026-04-15,186312503,2751,Asian Securities Private Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 11:30:38.763913,Khanikhola Hydropower Co. Ltd.
+2026041504003494,KKHC,26,58,140,293.0,41020.0,2026-04-15,186312505,2751,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:30:38.763981,Khanikhola Hydropower Co. Ltd.
+2026041504003495,KKHC,26,72,200,293.0,58600.0,2026-04-15,186312507,2751,Asian Securities Private Ltd.,Hatemalo Financial Services Private Limited,2026-04-15 11:30:38.764050,Khanikhola Hydropower Co. Ltd.
+2026041504003496,KKHC,26,56,100,293.9,29390.0,2026-04-15,186312509,2751,Asian Securities Private Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 11:30:38.764117,Khanikhola Hydropower Co. Ltd.
+2026041504003497,KKHC,26,45,200,294.0,58800.0,2026-04-15,186312511,2751,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:30:38.764184,Khanikhola Hydropower Co. Ltd.
+2026041504003498,KKHC,26,81,20,294.0,5880.0,2026-04-15,186312513,2751,Asian Securities Private Ltd.,Aakashbhairab Securities Ltd.,2026-04-15 11:30:38.764253,Khanikhola Hydropower Co. Ltd.
+2026041504003499,KKHC,26,53,1000,294.0,294000.0,2026-04-15,186312515,2751,Asian Securities Private Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-15 11:30:38.764331,Khanikhola Hydropower Co. Ltd.
+2026041504003500,KKHC,26,41,30,294.0,8820.0,2026-04-15,186312517,2751,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-15 11:30:38.764407,Khanikhola Hydropower Co. Ltd.
+2026041504003501,KKHC,26,36,300,294.0,88200.0,2026-04-15,186312519,2751,Asian Securities Private Ltd.,Secured Securities Ltd.,2026-04-15 11:30:38.764488,Khanikhola Hydropower Co. Ltd.
+2026041504003502,KKHC,26,52,200,294.2,58840.0,2026-04-15,186312521,2751,Asian Securities Private Ltd.,Sundhara Securities Limited,2026-04-15 11:30:38.764556,Khanikhola Hydropower Co. Ltd.
+2026041504003503,KKHC,26,87,1000,294.5,294500.0,2026-04-15,186312523,2751,Asian Securities Private Ltd.,S.P.S.A. Securities Limited,2026-04-15 11:30:38.764627,Khanikhola Hydropower Co. Ltd.
+2026041504003504,KKHC,26,49,20,294.5,5890.0,2026-04-15,186312525,2751,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,2026-04-15 11:30:38.764697,Khanikhola Hydropower Co. Ltd.
+2026041504003505,KKHC,26,14,40,294.7,11788.0,2026-04-15,186312527,2751,Asian Securities Private Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 11:30:38.764763,Khanikhola Hydropower Co. Ltd.
+2026041504003506,KKHC,26,62,10,294.7,2947.0,2026-04-15,186312529,2751,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-15 11:30:38.764832,Khanikhola Hydropower Co. Ltd.
+2026041504003507,KKHC,26,58,100,294.7,29470.0,2026-04-15,186312531,2751,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:30:38.764900,Khanikhola Hydropower Co. Ltd.
+2026041504003508,KKHC,26,26,20,294.7,5894.0,2026-04-15,186312533,2751,Asian Securities Private Ltd.,Asian Securities Private Ltd.,2026-04-15 11:30:38.764983,Khanikhola Hydropower Co. Ltd.
+2026041504003509,KKHC,26,58,17,294.7,5009.9,2026-04-15,186312535,2751,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:30:38.765051,Khanikhola Hydropower Co. Ltd.
+2026041504003510,KKHC,26,39,10,294.9,2949.0,2026-04-15,186312537,2751,Asian Securities Private Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 11:30:38.765120,Khanikhola Hydropower Co. Ltd.
+2026041504003511,KKHC,26,58,485,294.9,143026.5,2026-04-15,186312539,2751,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:30:38.765187,Khanikhola Hydropower Co. Ltd.
+2026041504003512,KKHC,26,45,1080,294.9,318492.0,2026-04-15,186312541,2751,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 11:30:38.765254,Khanikhola Hydropower Co. Ltd.
+2026041504003513,KKHC,26,34,121,295.0,35695.0,2026-04-15,186312543,2751,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:30:38.765338,Khanikhola Hydropower Co. Ltd.
+2026041504003514,KKHC,26,42,500,295.0,147500.0,2026-04-15,186312545,2751,Asian Securities Private Ltd.,Sani Securities Company Ltd.,2026-04-15 11:30:38.765402,Khanikhola Hydropower Co. Ltd.
+2026041504003515,KKHC,26,3,1185,295.0,349575.0,2026-04-15,186312547,2751,Asian Securities Private Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 11:30:38.765466,Khanikhola Hydropower Co. Ltd.
+2026041504003516,KKHC,26,44,200,295.0,59000.0,2026-04-15,186312549,2751,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 11:30:38.765533,Khanikhola Hydropower Co. Ltd.
+2026041504003517,KKHC,26,75,50,295.0,14750.0,2026-04-15,186312551,2751,Asian Securities Private Ltd.,N.I.M.B. Stock Markets Limited,2026-04-15 11:30:38.765596,Khanikhola Hydropower Co. Ltd.
+2026041504003518,KKHC,26,14,100,295.0,29500.0,2026-04-15,186312553,2751,Asian Securities Private Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 11:30:38.765660,Khanikhola Hydropower Co. Ltd.
+2026041504003519,KKHC,26,3,777,295.0,229215.0,2026-04-15,186312556,2751,Asian Securities Private Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 11:30:38.765723,Khanikhola Hydropower Co. Ltd.
+2026041504003578,KKHC,26,48,50,294.9,14745.0,2026-04-15,186313097,2751,Asian Securities Private Ltd.,Trishakti Securities Public Limited,2026-04-15 11:31:14.099066,Khanikhola Hydropower Co. Ltd.
+2026041504003579,KKHC,26,3,223,295.0,65785.0,2026-04-15,186313099,2751,Asian Securities Private Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 11:31:14.099243,Khanikhola Hydropower Co. Ltd.
+2026041504003580,KKHC,26,86,443,295.0,130685.0,2026-04-15,186313101,2751,Asian Securities Private Ltd.,Stoxkarts Securities Limited,2026-04-15 11:31:14.099326,Khanikhola Hydropower Co. Ltd.
+2026041504003581,KKHC,26,3,84,295.0,24780.0,2026-04-15,186313104,2751,Asian Securities Private Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 11:31:14.099387,Khanikhola Hydropower Co. Ltd.
+2026041504003660,KKHC,58,46,10,294.5,2945.0,2026-04-15,186313864,2751,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 11:31:56.640175,Khanikhola Hydropower Co. Ltd.
+2026041504003682,KKHC,58,46,10,294.5,2945.0,2026-04-15,186314124,2751,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 11:32:10.072244,Khanikhola Hydropower Co. Ltd.
+2026041504003766,KKHC,64,35,920,292.0,268640.0,2026-04-15,186314962,2751,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:32:55.932411,Khanikhola Hydropower Co. Ltd.
+2026041504003767,KKHC,58,35,13,292.0,3796.0,2026-04-15,186314964,2751,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:32:55.932461,Khanikhola Hydropower Co. Ltd.
+2026041504003768,KKHC,49,35,937,292.0,273604.0,2026-04-15,186314966,2751,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:32:55.932486,Khanikhola Hydropower Co. Ltd.
+2026041504003769,KKHC,64,35,1000,291.0,291000.0,2026-04-15,186314968,2751,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:32:55.932510,Khanikhola Hydropower Co. Ltd.
+2026041504003770,KKHC,34,35,130,290.2,37726.0,2026-04-15,186314969,2751,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:32:55.932536,Khanikhola Hydropower Co. Ltd.
+2026041504003933,KKHC,34,35,170,290.2,49334.0,2026-04-15,186316254,2751,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:34:13.514789,Khanikhola Hydropower Co. Ltd.
+2026041504003934,KKHC,41,35,1000,290.1,290100.0,2026-04-15,186316256,2751,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:34:13.514990,Khanikhola Hydropower Co. Ltd.
+2026041504003935,KKHC,64,35,722,290.0,209380.0,2026-04-15,186316258,2751,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:34:13.515070,Khanikhola Hydropower Co. Ltd.
+2026041504003936,KKHC,58,35,1000,290.0,290000.0,2026-04-15,186316260,2751,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:34:13.515141,Khanikhola Hydropower Co. Ltd.
+2026041504003937,KKHC,43,35,608,290.0,176320.0,2026-04-15,186316261,2751,South Asian Bulls Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:34:13.515211,Khanikhola Hydropower Co. Ltd.
+2026041504003964,KKHC,58,48,10,293.7,2937.0,2026-04-15,186316498,2751,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:34:26.913546,Khanikhola Hydropower Co. Ltd.
+2026041504003994,KKHC,43,42,20,290.0,5800.0,2026-04-15,186316803,2751,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:34:43.321725,Khanikhola Hydropower Co. Ltd.
+2026041504004124,KKHC,49,36,10,293.0,2930.0,2026-04-15,186317486,2751,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-15 11:35:24.519682,Khanikhola Hydropower Co. Ltd.
+2026041504004178,KKHC,57,36,38,293.0,11134.0,2026-04-15,186317802,2751,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-15 11:35:45.810219,Khanikhola Hydropower Co. Ltd.
+2026041504005417,KKHC,32,34,100,292.0,29200.0,2026-04-15,186327461,2751,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:45:55.905710,Khanikhola Hydropower Co. Ltd.
+2026041504005548,KKHC,32,34,500,292.0,146000.0,2026-04-15,186328401,2751,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-15 11:46:42.980674,Khanikhola Hydropower Co. Ltd.
+2026041504006002,KKHC,32,13,100,292.0,29200.0,2026-04-15,186331623,2751,Premier Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 11:49:22.865833,Khanikhola Hydropower Co. Ltd.
+2026041504006107,KKHC,32,7,100,292.0,29200.0,2026-04-15,186332437,2751,Premier Securities Company Ltd.,J.F. Securites (PVT) Ltd.,2026-04-15 11:49:55.072594,Khanikhola Hydropower Co. Ltd.
+2026041504006145,KKHC,52,48,40,292.4,11696.0,2026-04-15,186332823,2751,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-15 11:50:06.268365,Khanikhola Hydropower Co. Ltd.
+2026041504006146,KKHC,52,49,33,292.5,9652.5,2026-04-15,186332825,2751,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-15 11:50:06.268581,Khanikhola Hydropower Co. Ltd.
+2026041504006147,KKHC,52,48,200,292.9,58580.0,2026-04-15,186332827,2751,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-15 11:50:06.268679,Khanikhola Hydropower Co. Ltd.
+2026041504006148,KKHC,52,44,100,292.9,29290.0,2026-04-15,186332829,2751,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 11:50:06.268778,Khanikhola Hydropower Co. Ltd.
+2026041504006149,KKHC,52,36,52,293.0,15236.0,2026-04-15,186332831,2751,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-15 11:50:06.268877,Khanikhola Hydropower Co. Ltd.
+2026041504006150,KKHC,52,3,200,293.0,58600.0,2026-04-15,186332833,2751,Sundhara Securities Limited,Arun Securities (PVT) Ltd.,2026-04-15 11:50:06.268976,Khanikhola Hydropower Co. Ltd.
+2026041504006151,KKHC,52,32,375,293.0,109875.0,2026-04-15,186332836,2751,Sundhara Securities Limited,Premier Securities Company Ltd.,2026-04-15 11:50:06.269074,Khanikhola Hydropower Co. Ltd.
+2026041504006200,KKHC,39,32,25,293.0,7325.0,2026-04-15,186333161,2751,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 11:50:25.308369,Khanikhola Hydropower Co. Ltd.
+2026041504006201,KKHC,39,58,22,293.0,6446.0,2026-04-15,186333163,2751,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 11:50:25.308795,Khanikhola Hydropower Co. Ltd.
+2026041504006202,KKHC,39,44,500,293.0,146500.0,2026-04-15,186333165,2751,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 11:50:25.309085,Khanikhola Hydropower Co. Ltd.
+2026041504006203,KKHC,39,43,153,293.0,44829.0,2026-04-15,186333168,2751,Sumeru Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 11:50:25.309385,Khanikhola Hydropower Co. Ltd.
+2026041504006207,KKHC,57,43,597,293.0,174921.0,2026-04-15,186333191,2751,Aryatara Investment & Securities,South Asian Bulls Pvt. Ltd.,2026-04-15 11:50:27.498379,Khanikhola Hydropower Co. Ltd.
+2026041504006424,KKHC,58,13,100,293.5,29350.0,2026-04-15,186335583,2751,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 11:51:28.580608,Khanikhola Hydropower Co. Ltd.
+2026041504006485,KKHC,45,35,450,293.7,132165.0,2026-04-15,186336028,2751,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:51:49.060248,Khanikhola Hydropower Co. Ltd.
+2026041504006528,KKHC,58,13,100,293.5,29350.0,2026-04-15,186336575,2751,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 11:52:16.907307,Khanikhola Hydropower Co. Ltd.
+2026041504006601,KKHC,58,10,80,293.5,23480.0,2026-04-15,186337060,2751,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-15 11:52:39.629838,Khanikhola Hydropower Co. Ltd.
+2026041504006786,KKHC,41,10,20,293.5,5870.0,2026-04-15,186338428,2751,Linch Stock Market Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-15 11:53:36.496069,Khanikhola Hydropower Co. Ltd.
+2026041504007196,KKHC,83,26,30,293.2,8796.0,2026-04-15,186341951,2751,Sanima Securities Limited,Asian Securities Private Ltd.,2026-04-15 11:56:10.883214,Khanikhola Hydropower Co. Ltd.
+2026041504007583,KKHC,83,13,100,293.2,29320.0,2026-04-15,186344357,2751,Sanima Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-15 11:58:08.628417,Khanikhola Hydropower Co. Ltd.
+2026041504007823,KKHC,83,58,265,293.2,77698.0,2026-04-15,186346033,2751,Sanima Securities Limited,Naasa Securities Co. Ltd.,2026-04-15 11:59:12.848032,Khanikhola Hydropower Co. Ltd.
+2026041504007865,KKHC,49,48,100,293.4,29340.0,2026-04-15,186346477,2751,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:59:33.840470,Khanikhola Hydropower Co. Ltd.
+2026041504007866,KKHC,49,35,50,293.7,14685.0,2026-04-15,186346479,2751,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:59:33.840766,Khanikhola Hydropower Co. Ltd.
+2026041504007867,KKHC,49,49,100,293.8,29380.0,2026-04-15,186346481,2751,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 11:59:33.840885,Khanikhola Hydropower Co. Ltd.
+2026041504007868,KKHC,49,5,150,294.0,44100.0,2026-04-15,186346483,2751,Online Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-15 11:59:33.841057,Khanikhola Hydropower Co. Ltd.
+2026041504008010,KKHC,49,46,55,294.0,16170.0,2026-04-15,186347287,2751,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-15 12:00:06.222082,Khanikhola Hydropower Co. Ltd.
+2026041504008158,KKHC,58,1,50,294.3,14715.0,2026-04-15,186348346,2751,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-15 12:01:05.615135,Khanikhola Hydropower Co. Ltd.
+2026041504008175,KKHC,49,22,20,294.0,5880.0,2026-04-15,186348463,2751,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:01:11.124064,Khanikhola Hydropower Co. Ltd.
+2026041504008233,KKHC,58,1,400,294.3,117720.0,2026-04-15,186348702,2751,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-15 12:01:22.615479,Khanikhola Hydropower Co. Ltd.
+2026041504008271,KKHC,58,1,50,294.3,14715.0,2026-04-15,186348947,2751,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-15 12:01:39.603184,Khanikhola Hydropower Co. Ltd.
+2026041504008272,KKHC,58,58,10,294.3,2943.0,2026-04-15,186348949,2751,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:01:39.603441,Khanikhola Hydropower Co. Ltd.
+2026041504008273,KKHC,58,58,64,294.3,18835.2,2026-04-15,186348952,2751,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:01:39.603548,Khanikhola Hydropower Co. Ltd.
+2026041504008519,KKHC,4,21,50,294.3,14715.0,2026-04-15,186350107,2751,Opal Securities Investment (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:02:36.655840,Khanikhola Hydropower Co. Ltd.
+2026041504008520,KKHC,4,7,100,294.8,29480.0,2026-04-15,186350109,2751,Opal Securities Investment (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-15 12:02:36.656299,Khanikhola Hydropower Co. Ltd.
+2026041504008521,KKHC,4,43,40,294.9,11796.0,2026-04-15,186350111,2751,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 12:02:36.656643,Khanikhola Hydropower Co. Ltd.
+2026041504008522,KKHC,4,22,100,294.9,29490.0,2026-04-15,186350113,2751,Opal Securities Investment (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:02:36.656945,Khanikhola Hydropower Co. Ltd.
+2026041504008523,KKHC,4,3,710,295.0,209450.0,2026-04-15,186350116,2751,Opal Securities Investment (PVT) Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 12:02:36.657250,Khanikhola Hydropower Co. Ltd.
+2026041504008700,KKHC,49,39,10,294.9,2949.0,2026-04-15,186351347,2751,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:03:40.026235,Khanikhola Hydropower Co. Ltd.
+2026041504008701,KKHC,49,3,965,295.0,284675.0,2026-04-15,186351350,2751,Online Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 12:03:40.026727,Khanikhola Hydropower Co. Ltd.
+2026041504008766,KKHC,38,63,30,294.9,8847.0,2026-04-15,186351636,2751,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Himalayan Brokerage Company Limited,2026-04-15 12:03:54.543904,Khanikhola Hydropower Co. Ltd.
+2026041504008836,KKHC,58,58,10,294.2,2942.0,2026-04-15,186351997,2751,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:04:13.282740,Khanikhola Hydropower Co. Ltd.
+2026041504008869,KKHC,58,39,10,294.2,2942.0,2026-04-15,186352291,2751,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:04:23.229124,Khanikhola Hydropower Co. Ltd.
+2026041504008919,KKHC,35,63,170,294.9,50133.0,2026-04-15,186352595,2751,Kohinoor Investment & Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-15 12:04:44.422700,Khanikhola Hydropower Co. Ltd.
+2026041504008920,KKHC,35,39,10,294.9,2949.0,2026-04-15,186352597,2751,Kohinoor Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:04:44.422949,Khanikhola Hydropower Co. Ltd.
+2026041504008921,KKHC,35,13,100,294.9,29490.0,2026-04-15,186352599,2751,Kohinoor Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:04:44.423059,Khanikhola Hydropower Co. Ltd.
+2026041504008922,KKHC,35,3,220,295.0,64900.0,2026-04-15,186352602,2751,Kohinoor Investment & Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 12:04:44.423176,Khanikhola Hydropower Co. Ltd.
+2026041504008977,KKHC,58,58,25,294.2,7355.0,2026-04-15,186352876,2751,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:05:01.623516,Khanikhola Hydropower Co. Ltd.
+2026041504008978,KKHC,49,58,150,294.0,44100.0,2026-04-15,186352878,2751,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:05:01.624032,Khanikhola Hydropower Co. Ltd.
+2026041504008979,KKHC,46,58,211,294.0,62034.0,2026-04-15,186352879,2751,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:05:01.624384,Khanikhola Hydropower Co. Ltd.
+2026041504009024,KKHC,58,38,200,294.9,58980.0,2026-04-15,186353108,2751,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:05:14.214110,Khanikhola Hydropower Co. Ltd.
+2026041504009335,KKHC,83,51,105,293.2,30786.0,2026-04-15,186354944,2751,Sanima Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-15 12:07:02.074426,Khanikhola Hydropower Co. Ltd.
+2026041504009336,KKHC,14,51,260,293.0,76180.0,2026-04-15,186354945,2751,Nepal Stock House (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:07:02.074925,Khanikhola Hydropower Co. Ltd.
+2026041504009493,KKHC,14,32,25,293.0,7325.0,2026-04-15,186355933,2751,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-15 12:07:55.323383,Khanikhola Hydropower Co. Ltd.
+2026041504009501,KKHC,14,29,100,293.0,29300.0,2026-04-15,186356003,2751,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-15 12:08:00.127487,Khanikhola Hydropower Co. Ltd.
+2026041504009516,KKHC,14,39,20,293.0,5860.0,2026-04-15,186356087,2751,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:08:05.662510,Khanikhola Hydropower Co. Ltd.
+2026041504009594,KKHC,14,72,90,293.0,26370.0,2026-04-15,186356565,2751,Nepal Stock House (PVT) Ltd.,Hatemalo Financial Services Private Limited,2026-04-15 12:08:33.192034,Khanikhola Hydropower Co. Ltd.
+2026041504009717,KKHC,39,34,10,292.5,2925.0,2026-04-15,186357421,2751,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 12:09:27.632083,Khanikhola Hydropower Co. Ltd.
+2026041504009746,KKHC,39,48,40,292.5,11700.0,2026-04-15,186357490,2751,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 12:09:29.274684,Khanikhola Hydropower Co. Ltd.
+2026041504009747,KKHC,53,48,960,292.5,280800.0,2026-04-15,186357491,2751,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 12:09:29.274948,Khanikhola Hydropower Co. Ltd.
+2026041504009876,KKHC,58,36,20,293.0,5860.0,2026-04-15,186358250,2751,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-15 12:10:24.549822,Khanikhola Hydropower Co. Ltd.
+2026041504010018,KKHC,57,36,10,293.0,2930.0,2026-04-15,186359271,2751,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-15 12:11:34.722692,Khanikhola Hydropower Co. Ltd.
+2026041504010019,KKHC,57,41,30,293.0,8790.0,2026-04-15,186359273,2751,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-15 12:11:34.723382,Khanikhola Hydropower Co. Ltd.
+2026041504010020,KKHC,57,72,310,293.0,90830.0,2026-04-15,186359276,2751,Aryatara Investment & Securities,Hatemalo Financial Services Private Limited,2026-04-15 12:11:34.723924,Khanikhola Hydropower Co. Ltd.
+2026041504010487,KKHC,53,49,30,292.5,8775.0,2026-04-15,186362525,2751,Investment Management Nepal Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:14:31.410632,Khanikhola Hydropower Co. Ltd.
+2026041504010508,KKHC,53,43,10,292.5,2925.0,2026-04-15,186362690,2751,Investment Management Nepal Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 12:14:37.045829,Khanikhola Hydropower Co. Ltd.
+2026041504010509,KKHC,45,43,20,292.5,5850.0,2026-04-15,186362692,2751,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 12:14:37.046387,Khanikhola Hydropower Co. Ltd.
+2026041504010510,KKHC,32,43,200,292.0,58400.0,2026-04-15,186362694,2751,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 12:14:37.046790,Khanikhola Hydropower Co. Ltd.
+2026041504010511,KKHC,42,43,275,292.0,80300.0,2026-04-15,186362695,2751,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 12:14:37.047171,Khanikhola Hydropower Co. Ltd.
+2026041504010673,KKHC,42,49,100,292.0,29200.0,2026-04-15,186363729,2751,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:15:26.144087,Khanikhola Hydropower Co. Ltd.
+2026041504010761,KKHC,42,8,16,292.0,4672.0,2026-04-15,186364837,2751,Sani Securities Company Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-15 12:15:44.868172,Khanikhola Hydropower Co. Ltd.
+2026041504010837,KKHC,42,72,100,292.0,29200.0,2026-04-15,186365569,2751,Sani Securities Company Ltd.,Hatemalo Financial Services Private Limited,2026-04-15 12:16:10.551102,Khanikhola Hydropower Co. Ltd.
+2026041504011050,KKHC,57,39,380,292.1,110998.0,2026-04-15,186368963,2751,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-15 12:17:53.978679,Khanikhola Hydropower Co. Ltd.
+2026041504011074,KKHC,51,85,800,292.5,234000.0,2026-04-15,186369205,2751,Oxford Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-15 12:18:04.453061,Khanikhola Hydropower Co. Ltd.
+2026041504011075,KKHC,51,54,200,293.0,58600.0,2026-04-15,186369208,2751,Oxford Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:18:04.453396,Khanikhola Hydropower Co. Ltd.
+2026041504011765,KKHC,35,26,50,292.2,14610.0,2026-04-15,186373553,2751,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-15 12:21:29.713722,Khanikhola Hydropower Co. Ltd.
+2026041504011893,KKHC,35,22,55,292.2,16071.0,2026-04-15,186374639,2751,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:22:10.055993,Khanikhola Hydropower Co. Ltd.
+2026041504012040,KKHC,34,54,347,293.0,101671.0,2026-04-15,186375741,2751,Vision Securities Pvt. Ltd,Sewa Securities Pvt. Ltd.,2026-04-15 12:23:02.029847,Khanikhola Hydropower Co. Ltd.
+2026041504012041,KKHC,34,21,276,293.0,80868.0,2026-04-15,186375743,2751,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-15 12:23:02.030542,Khanikhola Hydropower Co. Ltd.
+2026041504012275,KKHC,34,56,120,293.0,35160.0,2026-04-15,186377483,2751,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-15 12:24:20.009910,Khanikhola Hydropower Co. Ltd.
+2026041504012347,KKHC,34,72,207,293.0,60651.0,2026-04-15,186377972,2751,Vision Securities Pvt. Ltd,Hatemalo Financial Services Private Limited,2026-04-15 12:24:38.633413,Khanikhola Hydropower Co. Ltd.
+2026041504012348,KKHC,59,72,483,293.0,141519.0,2026-04-15,186377973,2751,Deevyaa Securities & Stock House Pvt. Ltd,Hatemalo Financial Services Private Limited,2026-04-15 12:24:38.633990,Khanikhola Hydropower Co. Ltd.
+2026041504012474,KKHC,1,8,20,293.5,5870.0,2026-04-15,186378719,2751,Kumari Securities Private Limited,Brilliant Securities Pvt. Ltd.,2026-04-15 12:25:21.085269,Khanikhola Hydropower Co. Ltd.
+2026041504012475,KKHC,1,13,100,293.9,29390.0,2026-04-15,186378721,2751,Kumari Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-15 12:25:21.085549,Khanikhola Hydropower Co. Ltd.
+2026041504012476,KKHC,1,38,20,293.9,5878.0,2026-04-15,186378723,2751,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:25:21.085683,Khanikhola Hydropower Co. Ltd.
+2026041504012477,KKHC,1,14,520,294.0,152880.0,2026-04-15,186378725,2751,Kumari Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-15 12:25:21.085813,Khanikhola Hydropower Co. Ltd.
+2026041504012478,KKHC,1,49,40,294.0,11760.0,2026-04-15,186378727,2751,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-15 12:25:21.085942,Khanikhola Hydropower Co. Ltd.
+2026041504012479,KKHC,1,34,990,294.0,291060.0,2026-04-15,186378729,2751,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-15 12:25:21.086078,Khanikhola Hydropower Co. Ltd.
+2026041504012551,KKHC,48,25,10,294.8,2948.0,2026-04-15,186379124,2751,Trishakti Securities Public Limited,Sweta Securities Private Limited,2026-04-15 12:25:39.777809,Khanikhola Hydropower Co. Ltd.
+2026041504012604,KKHC,1,19,38,294.0,11172.0,2026-04-15,186379525,2751,Kumari Securities Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-15 12:25:57.709491,Khanikhola Hydropower Co. Ltd.
+2026041504012677,KKHC,1,57,272,294.0,79968.0,2026-04-15,186380129,2751,Kumari Securities Private Limited,Aryatara Investment & Securities,2026-04-15 12:26:27.973832,Khanikhola Hydropower Co. Ltd.
+2026041504012748,KKHC,1,25,30,294.8,8844.0,2026-04-15,186380691,2751,Kumari Securities Private Limited,Sweta Securities Private Limited,2026-04-15 12:26:57.539161,Khanikhola Hydropower Co. Ltd.
+2026041504012749,KKHC,1,38,100,294.9,29490.0,2026-04-15,186380693,2751,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:26:57.539466,Khanikhola Hydropower Co. Ltd.
+2026041504012750,KKHC,1,52,20,294.9,5898.0,2026-04-15,186380695,2751,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-15 12:26:57.539623,Khanikhola Hydropower Co. Ltd.
+2026041504012751,KKHC,1,3,21,295.0,6195.0,2026-04-15,186380697,2751,Kumari Securities Private Limited,Arun Securities (PVT) Ltd.,2026-04-15 12:26:57.539751,Khanikhola Hydropower Co. Ltd.
+2026041504012752,KKHC,1,53,55,295.0,16225.0,2026-04-15,186380699,2751,Kumari Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-15 12:26:57.539876,Khanikhola Hydropower Co. Ltd.
+2026041504012753,KKHC,1,97,2000,295.0,590000.0,2026-04-15,186380701,2751,Kumari Securities Private Limited,R.B.B. Securities Company Ltd,2026-04-15 12:26:57.540000,Khanikhola Hydropower Co. Ltd.
+2026041504012754,KKHC,1,45,500,295.0,147500.0,2026-04-15,186380703,2751,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:26:57.540123,Khanikhola Hydropower Co. Ltd.
+2026041504012755,KKHC,1,57,500,295.0,147500.0,2026-04-15,186380705,2751,Kumari Securities Private Limited,Aryatara Investment & Securities,2026-04-15 12:26:57.540247,Khanikhola Hydropower Co. Ltd.
+2026041504012756,KKHC,1,97,774,295.0,228330.0,2026-04-15,186380708,2751,Kumari Securities Private Limited,R.B.B. Securities Company Ltd,2026-04-15 12:26:57.540377,Khanikhola Hydropower Co. Ltd.
+2026041504013130,KKHC,28,40,300,294.9,88470.0,2026-04-15,186382620,2751,Shree Krishna Securities Ltd.,Creative Securities Pvt Ltd,2026-04-15 12:28:37.631363,Khanikhola Hydropower Co. Ltd.
+2026041504013415,KKHC,21,40,171,294.9,50427.9,2026-04-15,186384618,2751,Midas Stock Broking Company Private Limited,Creative Securities Pvt Ltd,2026-04-15 12:30:28.268763,Khanikhola Hydropower Co. Ltd.
+2026041504013596,KKHC,58,6,10,293.8,2938.0,2026-04-15,186385775,2751,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 12:31:29.505134,Khanikhola Hydropower Co. Ltd.
+2026041504013869,KKHC,58,58,790,293.8,232102.0,2026-04-15,186387732,2751,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:33:07.079116,Khanikhola Hydropower Co. Ltd.
+2026041504013946,KKHC,32,45,100,293.1,29310.0,2026-04-15,186388292,2751,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:33:36.186826,Khanikhola Hydropower Co. Ltd.
+2026041504014014,KKHC,59,45,400,293.0,117200.0,2026-04-15,186388533,2751,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:33:48.125187,Khanikhola Hydropower Co. Ltd.
+2026041504014101,KKHC,59,57,117,293.0,34281.0,2026-04-15,186389244,2751,Deevyaa Securities & Stock House Pvt. Ltd,Aryatara Investment & Securities,2026-04-15 12:34:15.691726,Khanikhola Hydropower Co. Ltd.
+2026041504014102,KKHC,35,57,10,293.0,2930.0,2026-04-15,186389246,2751,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 12:34:15.691855,Khanikhola Hydropower Co. Ltd.
+2026041504014103,KKHC,35,57,195,292.2,56979.0,2026-04-15,186389248,2751,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 12:34:15.691958,Khanikhola Hydropower Co. Ltd.
+2026041504014104,KKHC,45,57,500,292.2,146100.0,2026-04-15,186389250,2751,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 12:34:15.692050,Khanikhola Hydropower Co. Ltd.
+2026041504014105,KKHC,57,57,120,292.1,35052.0,2026-04-15,186389252,2751,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-15 12:34:15.692144,Khanikhola Hydropower Co. Ltd.
+2026041504014106,KKHC,11,57,10,292.1,2921.0,2026-04-15,186389254,2751,Malla & Malla Stock Broking Company Pvt. Limited,Aryatara Investment & Securities,2026-04-15 12:34:15.692235,Khanikhola Hydropower Co. Ltd.
+2026041504014107,KKHC,42,57,48,292.0,14016.0,2026-04-15,186389255,2751,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-15 12:34:15.692395,Khanikhola Hydropower Co. Ltd.
+2026041504014857,KKHC,61,43,50,292.8,14640.0,2026-04-15,186396289,2751,BHOLE GANESH SECURITIES LTD,South Asian Bulls Pvt. Ltd.,2026-04-15 12:40:26.264342,Khanikhola Hydropower Co. Ltd.
+2026041504014858,KKHC,61,45,100,293.0,29300.0,2026-04-15,186396291,2751,BHOLE GANESH SECURITIES LTD,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:40:26.264960,Khanikhola Hydropower Co. Ltd.
+2026041504014859,KKHC,61,58,30,293.0,8790.0,2026-04-15,186396293,2751,BHOLE GANESH SECURITIES LTD,Naasa Securities Co. Ltd.,2026-04-15 12:40:26.265403,Khanikhola Hydropower Co. Ltd.
+2026041504014860,KKHC,61,58,90,293.0,26370.0,2026-04-15,186396296,2751,BHOLE GANESH SECURITIES LTD,Naasa Securities Co. Ltd.,2026-04-15 12:40:26.265824,Khanikhola Hydropower Co. Ltd.
+2026041504014978,KKHC,58,58,16,292.5,4680.0,2026-04-15,186397113,2751,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:41:11.007094,Khanikhola Hydropower Co. Ltd.
+2026041504015467,KKHC,28,58,10,293.0,2930.0,2026-04-15,186401017,2751,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:44:58.194932,Khanikhola Hydropower Co. Ltd.
+2026041504015468,KKHC,28,51,16,293.0,4688.0,2026-04-15,186401019,2751,Shree Krishna Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:44:58.195244,Khanikhola Hydropower Co. Ltd.
+2026041504015469,KKHC,28,38,27,293.0,7911.0,2026-04-15,186401021,2751,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 12:44:58.195396,Khanikhola Hydropower Co. Ltd.
+2026041504015470,KKHC,28,59,17,293.0,4981.0,2026-04-15,186401024,2751,Shree Krishna Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 12:44:58.195539,Khanikhola Hydropower Co. Ltd.
+2026041504015996,KKHC,57,59,100,293.0,29300.0,2026-04-15,186405236,2751,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 12:49:28.075814,Khanikhola Hydropower Co. Ltd.
+2026041504016093,KKHC,51,59,383,293.0,112219.0,2026-04-15,186405581,2751,Oxford Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 12:49:47.417787,Khanikhola Hydropower Co. Ltd.
+2026041504016094,KKHC,51,21,50,293.0,14650.0,2026-04-15,186405583,2751,Oxford Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:49:47.418482,Khanikhola Hydropower Co. Ltd.
+2026041504016095,KKHC,51,99,567,293.0,166131.0,2026-04-15,186405586,2751,Oxford Securities Pvt. Ltd.,Prabhu Stock Market Limited,2026-04-15 12:49:47.418936,Khanikhola Hydropower Co. Ltd.
+2026041504016112,KKHC,21,42,20,292.7,5854.0,2026-04-15,186405686,2751,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-15 12:49:53.257542,Khanikhola Hydropower Co. Ltd.
+2026041504016113,KKHC,35,42,380,292.7,111226.0,2026-04-15,186405687,2751,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:49:53.257902,Khanikhola Hydropower Co. Ltd.
+2026041504016216,KKHC,58,99,323,293.0,94639.0,2026-04-15,186406662,2751,Naasa Securities Co. Ltd.,Prabhu Stock Market Limited,2026-04-15 12:50:53.367429,Khanikhola Hydropower Co. Ltd.
+2026041504016728,KKHC,32,99,10,293.0,2930.0,2026-04-15,186410609,2751,Premier Securities Company Ltd.,Prabhu Stock Market Limited,2026-04-15 12:54:52.782193,Khanikhola Hydropower Co. Ltd.
+2026041504016729,KKHC,32,49,50,293.0,14650.0,2026-04-15,186410611,2751,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:54:52.782996,Khanikhola Hydropower Co. Ltd.
+2026041504016730,KKHC,32,6,30,293.0,8790.0,2026-04-15,186410613,2751,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 12:54:52.783725,Khanikhola Hydropower Co. Ltd.
+2026041504016804,KKHC,47,49,500,293.3,146650.0,2026-04-15,186411052,2751,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:55:20.585066,Khanikhola Hydropower Co. Ltd.
+2026041504016815,KKHC,32,54,600,293.4,176040.0,2026-04-15,186411140,2751,Premier Securities Company Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:55:27.244879,Khanikhola Hydropower Co. Ltd.
+2026041504016849,KKHC,57,58,10,293.0,2930.0,2026-04-15,186411529,2751,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-15 12:55:52.791744,Khanikhola Hydropower Co. Ltd.
+2026041504016884,KKHC,32,54,10,293.4,2934.0,2026-04-15,186411838,2751,Premier Securities Company Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:56:10.471996,Khanikhola Hydropower Co. Ltd.
+2026041504016930,KKHC,35,54,300,293.4,88020.0,2026-04-15,186412182,2751,Kohinoor Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:56:28.339748,Khanikhola Hydropower Co. Ltd.
+2026041504017165,KKHC,57,42,490,293.0,143570.0,2026-04-15,186414104,2751,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-15 12:58:10.545824,Khanikhola Hydropower Co. Ltd.
+2026041504017166,KKHC,46,42,10,293.0,2930.0,2026-04-15,186414105,2751,Kalika Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:58:10.546522,Khanikhola Hydropower Co. Ltd.
+2026041504017238,KKHC,87,86,10,293.3,2933.0,2026-04-15,186414696,2751,S.P.S.A. Securities Limited,Stoxkarts Securities Limited,2026-04-15 12:58:56.089769,Khanikhola Hydropower Co. Ltd.
+2026041504017267,KKHC,35,86,20,293.3,5866.0,2026-04-15,186414965,2751,Kohinoor Investment & Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-15 12:59:19.077006,Khanikhola Hydropower Co. Ltd.
+2026041504017268,KKHC,35,54,480,293.4,140832.0,2026-04-15,186414968,2751,Kohinoor Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:59:19.077734,Khanikhola Hydropower Co. Ltd.
+2026041504017417,KKHC,26,54,1000,293.4,293400.0,2026-04-15,186416178,2751,Asian Securities Private Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 13:00:47.229718,Khanikhola Hydropower Co. Ltd.
+2026041504017478,KKHC,34,54,10,293.4,2934.0,2026-04-15,186416519,2751,Vision Securities Pvt. Ltd,Sewa Securities Pvt. Ltd.,2026-04-15 13:01:12.046986,Khanikhola Hydropower Co. Ltd.
+2026041504017479,KKHC,34,44,90,293.4,26406.0,2026-04-15,186416522,2751,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 13:01:12.047737,Khanikhola Hydropower Co. Ltd.
+2026041504017484,KKHC,14,44,100,293.4,29340.0,2026-04-15,186416570,2751,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 13:01:15.944079,Khanikhola Hydropower Co. Ltd.
+2026041504017865,KKHC,39,44,310,293.4,90954.0,2026-04-15,186419056,2751,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 13:04:06.277149,Khanikhola Hydropower Co. Ltd.
+2026041504018038,KKHC,47,20,150,293.5,44025.0,2026-04-15,186420227,2751,Neev Securities Pvt. Ltd.,Sipla Securities Private Limited,2026-04-15 13:05:07.264228,Khanikhola Hydropower Co. Ltd.
+2026041504018081,KKHC,42,58,200,293.8,58760.0,2026-04-15,186420548,2751,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:05:28.596394,Khanikhola Hydropower Co. Ltd.
+2026041504018129,KKHC,47,39,40,293.5,11740.0,2026-04-15,186421083,2751,Neev Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 13:05:56.474825,Khanikhola Hydropower Co. Ltd.
+2026041504018206,KKHC,28,13,500,293.6,146800.0,2026-04-15,186421717,2751,Shree Krishna Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-15 13:06:36.010559,Khanikhola Hydropower Co. Ltd.
+2026041504018220,KKHC,22,58,152,293.8,44657.6,2026-04-15,186421817,2751,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:06:43.835052,Khanikhola Hydropower Co. Ltd.
+2026041504018221,KKHC,22,43,100,293.9,29390.0,2026-04-15,186421819,2751,Siprabi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:06:43.835465,Khanikhola Hydropower Co. Ltd.
+2026041504018222,KKHC,22,48,50,293.9,14695.0,2026-04-15,186421821,2751,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 13:06:43.835629,Khanikhola Hydropower Co. Ltd.
+2026041504018223,KKHC,22,14,48,294.0,14112.0,2026-04-15,186421824,2751,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:06:43.835784,Khanikhola Hydropower Co. Ltd.
+2026041504018305,KKHC,47,14,52,294.0,15288.0,2026-04-15,186422521,2751,Neev Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:07:28.171053,Khanikhola Hydropower Co. Ltd.
+2026041504018306,KKHC,47,34,258,294.0,75852.0,2026-04-15,186422524,2751,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 13:07:28.171444,Khanikhola Hydropower Co. Ltd.
+2026041504018334,KKHC,45,34,742,294.0,218148.0,2026-04-15,186422659,2751,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 13:07:34.302441,Khanikhola Hydropower Co. Ltd.
+2026041504018335,KKHC,45,62,258,294.0,75852.0,2026-04-15,186422662,2751,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 13:07:34.302793,Khanikhola Hydropower Co. Ltd.
+2026041504018339,KKHC,34,45,100,293.7,29370.0,2026-04-15,186422723,2751,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:07:38.813944,Khanikhola Hydropower Co. Ltd.
+2026041504018351,KKHC,28,49,150,293.6,44040.0,2026-04-15,186422757,2751,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-15 13:07:41.434947,Khanikhola Hydropower Co. Ltd.
+2026041504018410,KKHC,42,62,242,294.0,71148.0,2026-04-15,186423389,2751,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-15 13:08:23.988759,Khanikhola Hydropower Co. Ltd.
+2026041504018411,KKHC,42,57,500,294.0,147000.0,2026-04-15,186423391,2751,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-15 13:08:23.989491,Khanikhola Hydropower Co. Ltd.
+2026041504018412,KKHC,42,58,24,294.0,7056.0,2026-04-15,186423393,2751,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:08:23.989957,Khanikhola Hydropower Co. Ltd.
+2026041504018616,KKHC,42,14,234,294.8,68983.2,2026-04-15,186424578,2751,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:09:29.012429,Khanikhola Hydropower Co. Ltd.
+2026041504018671,KKHC,42,14,166,294.8,48936.8,2026-04-15,186425043,2751,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:09:58.023333,Khanikhola Hydropower Co. Ltd.
+2026041504018672,KKHC,42,45,500,294.8,147400.0,2026-04-15,186425045,2751,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:09:58.023747,Khanikhola Hydropower Co. Ltd.
+2026041504018673,KKHC,42,40,29,294.9,8552.1,2026-04-15,186425047,2751,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-15 13:09:58.023918,Khanikhola Hydropower Co. Ltd.
+2026041504018674,KKHC,42,14,305,294.9,89944.5,2026-04-15,186425050,2751,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:09:58.024091,Khanikhola Hydropower Co. Ltd.
+2026041504018731,KKHC,28,14,195,294.9,57505.5,2026-04-15,186425455,2751,Shree Krishna Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:10:21.551034,Khanikhola Hydropower Co. Ltd.
+2026041504018732,KKHC,28,1,200,294.9,58980.0,2026-04-15,186425457,2751,Shree Krishna Securities Ltd.,Kumari Securities Private Limited,2026-04-15 13:10:21.551724,Khanikhola Hydropower Co. Ltd.
+2026041504018733,KKHC,28,58,200,294.9,58980.0,2026-04-15,186425459,2751,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:10:21.552188,Khanikhola Hydropower Co. Ltd.
+2026041504018734,KKHC,28,43,300,294.9,88470.0,2026-04-15,186425461,2751,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:10:21.552660,Khanikhola Hydropower Co. Ltd.
+2026041504018735,KKHC,28,97,226,295.0,66670.0,2026-04-15,186425463,2751,Shree Krishna Securities Ltd.,R.B.B. Securities Company Ltd,2026-04-15 13:10:21.553120,Khanikhola Hydropower Co. Ltd.
+2026041504018736,KKHC,28,49,229,295.0,67555.0,2026-04-15,186425466,2751,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-15 13:10:21.553580,Khanikhola Hydropower Co. Ltd.
+2026041504018786,KKHC,46,22,100,294.7,29470.0,2026-04-15,186425807,2751,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 13:10:47.422640,Khanikhola Hydropower Co. Ltd.
+2026041504018805,KKHC,46,32,1700,294.8,501160.0,2026-04-15,186425961,2751,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 13:11:01.105372,Khanikhola Hydropower Co. Ltd.
+2026041504018841,KKHC,46,14,930,294.8,274164.0,2026-04-15,186426173,2751,Kalika Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:11:13.403323,Khanikhola Hydropower Co. Ltd.
+2026041504018871,KKHC,87,49,10,295.0,2950.0,2026-04-15,186426398,2751,S.P.S.A. Securities Limited,Online Securities Pvt. Ltd.,2026-04-15 13:11:32.892979,Khanikhola Hydropower Co. Ltd.
+2026041504018902,KKHC,38,16,250,294.9,73725.0,2026-04-15,186426644,2751,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:11:49.322459,Khanikhola Hydropower Co. Ltd.
+2026041504018971,KKHC,42,16,335,294.9,98791.5,2026-04-15,186427042,2751,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:12:15.571130,Khanikhola Hydropower Co. Ltd.
+2026041504018981,KKHC,46,45,1064,294.8,313667.2,2026-04-15,186427153,2751,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:12:22.776521,Khanikhola Hydropower Co. Ltd.
+2026041504019022,KKHC,46,86,10,294.8,2948.0,2026-04-15,186427399,2751,Kalika Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-15 13:12:38.737787,Khanikhola Hydropower Co. Ltd.
+2026041504019038,KKHC,46,43,1000,294.8,294800.0,2026-04-15,186427537,2751,Kalika Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 13:12:45.814457,Khanikhola Hydropower Co. Ltd.
+2026041504019121,KKHC,54,16,67,294.9,19758.3,2026-04-15,186427938,2751,Sewa Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:13:07.165145,Khanikhola Hydropower Co. Ltd.
+2026041504019162,KKHC,46,59,500,294.8,147400.0,2026-04-15,186428045,2751,Kalika Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 13:13:10.856060,Khanikhola Hydropower Co. Ltd.
+2026041504019168,KKHC,57,16,500,294.9,147450.0,2026-04-15,186428142,2751,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-15 13:13:17.155781,Khanikhola Hydropower Co. Ltd.
+2026041504019238,KKHC,46,56,1000,294.8,294800.0,2026-04-15,186428717,2751,Kalika Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 13:13:55.601469,Khanikhola Hydropower Co. Ltd.
+2026041504019283,KKHC,58,16,284,294.9,83751.6,2026-04-15,186428992,2751,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:14:15.523473,Khanikhola Hydropower Co. Ltd.
+2026041504019299,KKHC,46,59,500,294.8,147400.0,2026-04-15,186429059,2751,Kalika Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 13:14:20.394850,Khanikhola Hydropower Co. Ltd.
+2026041504019312,KKHC,46,3,500,294.8,147400.0,2026-04-15,186429095,2751,Kalika Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 13:14:22.776358,Khanikhola Hydropower Co. Ltd.
+2026041504019317,KKHC,58,16,18,294.9,5308.2,2026-04-15,186429130,2751,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:14:25.661533,Khanikhola Hydropower Co. Ltd.
+2026041504019382,KKHC,46,58,670,294.8,197516.0,2026-04-15,186429667,2751,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:15:01.542861,Khanikhola Hydropower Co. Ltd.
+2026041504019420,KKHC,46,17,60,294.8,17688.0,2026-04-15,186429947,2751,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-15 13:15:14.367466,Khanikhola Hydropower Co. Ltd.
+2026041504019444,KKHC,87,16,10,294.9,2949.0,2026-04-15,186430086,2751,S.P.S.A. Securities Limited,Primo Securities (PVT) Ltd.,2026-04-15 13:15:26.590108,Khanikhola Hydropower Co. Ltd.
+2026041504019495,KKHC,46,3,1680,294.8,495264.0,2026-04-15,186430367,2751,Kalika Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-15 13:15:40.459172,Khanikhola Hydropower Co. Ltd.
+2026041504019516,KKHC,46,38,50,294.8,14740.0,2026-04-15,186430619,2751,Kalika Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:16:03.003843,Khanikhola Hydropower Co. Ltd.
+2026041504019525,KKHC,46,58,350,294.8,103180.0,2026-04-15,186430765,2751,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:16:11.070017,Khanikhola Hydropower Co. Ltd.
+2026041504019588,KKHC,46,41,172,294.8,50705.6,2026-04-15,186431097,2751,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 13:16:32.483780,Khanikhola Hydropower Co. Ltd.
+2026041504019613,KKHC,46,38,1314,294.8,387367.2,2026-04-15,186431219,2751,Kalika Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:16:45.462490,Khanikhola Hydropower Co. Ltd.
+2026041504019614,KKHC,46,66,700,294.8,206360.0,2026-04-15,186431225,2751,Kalika Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-15 13:16:46.241999,Khanikhola Hydropower Co. Ltd.
+2026041504019630,KKHC,46,22,500,294.8,147400.0,2026-04-15,186431333,2751,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 13:16:52.790623,Khanikhola Hydropower Co. Ltd.
+2026041504019644,KKHC,46,1,500,294.8,147400.0,2026-04-15,186431403,2751,Kalika Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-15 13:16:57.327691,Khanikhola Hydropower Co. Ltd.
+2026041504019645,KKHC,46,58,609,294.8,179533.2,2026-04-15,186431405,2751,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:16:57.457342,Khanikhola Hydropower Co. Ltd.
+2026041504019661,KKHC,46,53,500,294.8,147400.0,2026-04-15,186431541,2751,Kalika Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-15 13:17:08.299096,Khanikhola Hydropower Co. Ltd.
+2026041504019668,KKHC,46,42,559,294.8,164793.2,2026-04-15,186431647,2751,Kalika Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 13:17:14.650463,Khanikhola Hydropower Co. Ltd.
+2026041504019678,KKHC,46,58,500,294.8,147400.0,2026-04-15,186431733,2751,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:17:21.075658,Khanikhola Hydropower Co. Ltd.
+2026041504019690,KKHC,46,4,50,294.8,14740.0,2026-04-15,186431797,2751,Kalika Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-15 13:17:24.857124,Khanikhola Hydropower Co. Ltd.
+2026041504019699,KKHC,46,38,1314,294.8,387367.2,2026-04-15,186431927,2751,Kalika Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:17:37.721788,Khanikhola Hydropower Co. Ltd.
+2026041504019704,KKHC,46,16,116,294.9,34208.4,2026-04-15,186431937,2751,Kalika Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:17:38.642478,Khanikhola Hydropower Co. Ltd.
+2026041504019705,KKHC,46,17,50,294.9,14745.0,2026-04-15,186431939,2751,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-15 13:17:38.643182,Khanikhola Hydropower Co. Ltd.
+2026041504019706,KKHC,46,17,50,294.9,14745.0,2026-04-15,186431941,2751,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-15 13:17:38.643688,Khanikhola Hydropower Co. Ltd.
+2026041504019709,KKHC,46,32,100,294.9,29490.0,2026-04-15,186431959,2751,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 13:17:40.290542,Khanikhola Hydropower Co. Ltd.
+2026041504019715,KKHC,87,58,10,295.0,2950.0,2026-04-15,186432046,2751,S.P.S.A. Securities Limited,Naasa Securities Co. Ltd.,2026-04-15 13:17:45.719813,Khanikhola Hydropower Co. Ltd.
+2026041504019720,KKHC,54,58,40,295.0,11800.0,2026-04-15,186432087,2751,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:17:48.565347,Khanikhola Hydropower Co. Ltd.
+2026041504019721,KKHC,54,11,160,295.0,47200.0,2026-04-15,186432090,2751,Sewa Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-15 13:17:48.566132,Khanikhola Hydropower Co. Ltd.
+2026041504019825,KKHC,58,11,140,295.0,41300.0,2026-04-15,186432781,2751,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-15 13:18:38.719948,Khanikhola Hydropower Co. Ltd.
+2026041504019826,KKHC,58,6,95,295.0,28025.0,2026-04-15,186432784,2751,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 13:18:38.720388,Khanikhola Hydropower Co. Ltd.
+2026041504019879,KKHC,46,48,27,294.9,7962.3,2026-04-15,186433207,2751,Kalika Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 13:19:14.352102,Khanikhola Hydropower Co. Ltd.
+2026041504019893,KKHC,87,6,10,295.0,2950.0,2026-04-15,186433314,2751,S.P.S.A. Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-15 13:19:23.555266,Khanikhola Hydropower Co. Ltd.
+2026041504019903,KKHC,46,38,1314,294.9,387498.6,2026-04-15,186433407,2751,Kalika Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:19:30.381768,Khanikhola Hydropower Co. Ltd.
+2026041504019940,KKHC,87,6,10,295.0,2950.0,2026-04-15,186433706,2751,S.P.S.A. Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-15 13:19:58.267285,Khanikhola Hydropower Co. Ltd.
+2026041504019999,KKHC,46,40,260,294.9,76674.0,2026-04-15,186434121,2751,Kalika Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-15 13:20:25.895810,Khanikhola Hydropower Co. Ltd.
+2026041504020003,KKHC,46,32,100,294.9,29490.0,2026-04-15,186434159,2751,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 13:20:29.778997,Khanikhola Hydropower Co. Ltd.
+2026041504020021,KKHC,46,6,385,295.0,113575.0,2026-04-15,186434297,2751,Kalika Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 13:20:43.704130,Khanikhola Hydropower Co. Ltd.
+2026041504020022,KKHC,46,91,35,295.0,10325.0,2026-04-15,186434299,2751,Kalika Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-15 13:20:43.704901,Khanikhola Hydropower Co. Ltd.
+2026041504020023,KKHC,46,58,50,295.0,14750.0,2026-04-15,186434301,2751,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 13:20:43.705440,Khanikhola Hydropower Co. Ltd.
+2026041504020024,KKHC,46,65,30,295.0,8850.0,2026-04-15,186434304,2751,Kalika Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-15 13:20:43.705981,Khanikhola Hydropower Co. Ltd.
+2026041504020055,KKHC,46,22,500,294.9,147450.0,2026-04-15,186434447,2751,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 13:20:55.190246,Khanikhola Hydropower Co. Ltd.
+2026041504020075,KKHC,46,10,500,294.9,147450.0,2026-04-15,186434547,2751,Kalika Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-15 13:21:02.562302,Khanikhola Hydropower Co. Ltd.
+2026041504020093,KKHC,6,65,20,295.0,5900.0,2026-04-15,186434649,2751,Agrawal Securities (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-15 13:21:10.556980,Khanikhola Hydropower Co. Ltd.
+2026041504020094,KKHC,6,6,250,295.0,73750.0,2026-04-15,186434651,2751,Agrawal Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 13:21:10.557754,Khanikhola Hydropower Co. Ltd.
+2026041504020095,KKHC,6,45,50,295.0,14750.0,2026-04-15,186434654,2751,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:21:10.558269,Khanikhola Hydropower Co. Ltd.
+2026041504020211,KKHC,41,36,150,294.0,44100.0,2026-04-15,186435431,2751,Linch Stock Market Ltd.,Secured Securities Ltd.,2026-04-15 13:22:07.987894,Khanikhola Hydropower Co. Ltd.
+2026041504020253,KKHC,6,57,20,294.0,5880.0,2026-04-15,186435750,2751,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-15 13:22:28.530175,Khanikhola Hydropower Co. Ltd.
+2026041504020259,KKHC,35,74,320,293.5,93920.0,2026-04-15,186435794,2751,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-15 13:22:33.236677,Khanikhola Hydropower Co. Ltd.
+2026041504020778,KKHC,68,36,150,293.1,43965.0,2026-04-15,186439584,2751,Elite Stock House Limited,Secured Securities Ltd.,2026-04-15 13:27:21.390861,Khanikhola Hydropower Co. Ltd.
+2026041504020779,KKHC,58,36,350,293.0,102550.0,2026-04-15,186439585,2751,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-15 13:27:21.391594,Khanikhola Hydropower Co. Ltd.
+2026041504020949,KKHC,58,45,30,293.0,8790.0,2026-04-15,186440893,2751,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:28:37.833717,Khanikhola Hydropower Co. Ltd.
+2026041504020963,KKHC,58,10,120,293.0,35160.0,2026-04-15,186441078,2751,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-15 13:28:53.256262,Khanikhola Hydropower Co. Ltd.
+2026041504021057,KKHC,58,5,200,292.6,58520.0,2026-04-15,186441753,2751,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-15 13:29:39.527921,Khanikhola Hydropower Co. Ltd.
+2026041504021307,KKHC,58,19,32,292.6,9363.2,2026-04-15,186443951,2751,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-15 13:32:27.414924,Khanikhola Hydropower Co. Ltd.
+2026041504021488,KKHC,36,96,54,292.7,15805.8,2026-04-15,186445496,2751,Secured Securities Ltd.,Himalayan Securities Limited,2026-04-15 13:34:20.835237,Khanikhola Hydropower Co. Ltd.
+2026041504021556,KKHC,57,43,120,292.5,35100.0,2026-04-15,186445821,2751,Aryatara Investment & Securities,South Asian Bulls Pvt. Ltd.,2026-04-15 13:34:45.584019,Khanikhola Hydropower Co. Ltd.
+2026041504021573,KKHC,57,1,1000,292.5,292500.0,2026-04-15,186445957,2751,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-15 13:34:59.142040,Khanikhola Hydropower Co. Ltd.
+2026041504021605,KKHC,57,58,20,292.5,5850.0,2026-04-15,186446295,2751,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-15 13:35:19.266713,Khanikhola Hydropower Co. Ltd.
+2026041504021610,KKHC,57,96,493,292.5,144202.5,2026-04-15,186446319,2751,Aryatara Investment & Securities,Himalayan Securities Limited,2026-04-15 13:35:22.881598,Khanikhola Hydropower Co. Ltd.
+2026041504021774,KKHC,57,53,50,292.5,14625.0,2026-04-15,186447937,2751,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,2026-04-15 13:37:55.528329,Khanikhola Hydropower Co. Ltd.
+2026041504021982,KKHC,57,32,25,292.5,7312.5,2026-04-15,186449367,2751,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-15 13:40:16.354359,Khanikhola Hydropower Co. Ltd.
+2026041504022521,KKHC,57,44,292,292.5,85410.0,2026-04-15,186453304,2751,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 13:45:46.443704,Khanikhola Hydropower Co. Ltd.
+2026041504022522,KKHC,34,44,124,292.5,36270.0,2026-04-15,186453305,2751,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 13:45:46.444105,Khanikhola Hydropower Co. Ltd.
+2026041504022829,KKHC,58,36,2,292.0,584.0,2026-04-15,186455427,2751,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-15 13:48:18.074974,Khanikhola Hydropower Co. Ltd.
+2026041504022889,KKHC,34,86,30,292.5,8775.0,2026-04-15,186455851,2751,Vision Securities Pvt. Ltd,Stoxkarts Securities Limited,2026-04-15 13:48:43.015088,Khanikhola Hydropower Co. Ltd.
+2026041504023017,KKHC,34,33,100,292.5,29250.0,2026-04-15,186456791,2751,Vision Securities Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 13:50:02.626872,Khanikhola Hydropower Co. Ltd.
+2026041504023761,KKHC,34,42,100,292.5,29250.0,2026-04-15,186461319,2751,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-15 13:54:41.485299,Khanikhola Hydropower Co. Ltd.
+2026041504023986,KKHC,50,51,60,293.0,17580.0,2026-04-15,186462796,2751,Cristal Kanchanjanga Securites Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 13:57:03.006028,Khanikhola Hydropower Co. Ltd.
+2026041504024020,KKHC,58,51,350,293.0,102550.0,2026-04-15,186462956,2751,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 13:57:20.492511,Khanikhola Hydropower Co. Ltd.
+2026041504024048,KKHC,74,51,90,293.0,26370.0,2026-04-15,186463107,2751,KALASH STOCK MARKET PVT. LTD.,Oxford Securities Pvt. Ltd.,2026-04-15 13:57:42.967366,Khanikhola Hydropower Co. Ltd.
+2026041504024049,KKHC,74,34,1000,293.0,293000.0,2026-04-15,186463109,2751,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-15 13:57:42.968160,Khanikhola Hydropower Co. Ltd.
+2026041504024050,KKHC,74,28,16,293.0,4688.0,2026-04-15,186463111,2751,KALASH STOCK MARKET PVT. LTD.,Shree Krishna Securities Ltd.,2026-04-15 13:57:42.968725,Khanikhola Hydropower Co. Ltd.
+2026041504024051,KKHC,74,58,50,293.0,14650.0,2026-04-15,186463113,2751,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,2026-04-15 13:57:42.969276,Khanikhola Hydropower Co. Ltd.
+2026041504024052,KKHC,74,33,200,293.0,58600.0,2026-04-15,186463115,2751,KALASH STOCK MARKET PVT. LTD.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 13:57:42.969813,Khanikhola Hydropower Co. Ltd.
+2026041504024067,KKHC,36,48,50,293.9,14695.0,2026-04-15,186463524,2751,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-15 13:57:56.796389,Khanikhola Hydropower Co. Ltd.
+2026041504024129,KKHC,52,57,100,294.0,29400.0,2026-04-15,186464003,2751,Sundhara Securities Limited,Aryatara Investment & Securities,2026-04-15 13:58:42.469476,Khanikhola Hydropower Co. Ltd.
+2026041504024130,KKHC,52,56,100,294.0,29400.0,2026-04-15,186464006,2751,Sundhara Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-15 13:58:42.470282,Khanikhola Hydropower Co. Ltd.
+2026041504024247,KKHC,57,56,50,294.0,14700.0,2026-04-15,186464944,2751,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2026-04-15 14:00:13.671113,Khanikhola Hydropower Co. Ltd.
+2026041504024600,KKHC,58,14,20,293.8,5876.0,2026-04-15,186468338,2751,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 14:05:45.715596,Khanikhola Hydropower Co. Ltd.
+2026041504024655,KKHC,95,14,80,293.8,23504.0,2026-04-15,186468843,2751,Magnet Securities and Investment Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-15 14:06:32.479199,Khanikhola Hydropower Co. Ltd.
+2026041504024656,KKHC,95,65,70,293.8,20566.0,2026-04-15,186468846,2751,Magnet Securities and Investment Company Private Limited,Sharepro Securities Private Limited,2026-04-15 14:06:32.479607,Khanikhola Hydropower Co. Ltd.
+2026041504024696,KKHC,36,17,55,293.1,16120.5,2026-04-15,186469110,2751,Secured Securities Ltd.,ABC Securities Private Limited,2026-04-15 14:07:04.459228,Khanikhola Hydropower Co. Ltd.
+2026041504024894,KKHC,58,51,10,293.1,2931.0,2026-04-15,186470775,2751,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 14:09:55.392639,Khanikhola Hydropower Co. Ltd.
+2026041504024970,KKHC,59,41,30,293.2,8796.0,2026-04-15,186471393,2751,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-15 14:10:57.540938,Khanikhola Hydropower Co. Ltd.
+2026041504024978,KKHC,59,42,970,293.2,284404.0,2026-04-15,186471490,2751,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-15 14:11:09.249978,Khanikhola Hydropower Co. Ltd.
+2026041504024979,KKHC,58,42,90,293.1,26379.0,2026-04-15,186471492,2751,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:11:09.250051,Khanikhola Hydropower Co. Ltd.
+2026041504024980,KKHC,21,42,490,293.1,143619.0,2026-04-15,186471493,2751,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-15 14:11:09.250079,Khanikhola Hydropower Co. Ltd.
+2026041504024996,KKHC,21,47,510,293.1,149481.0,2026-04-15,186471608,2751,Midas Stock Broking Company Private Limited,Neev Securities Pvt. Ltd.,2026-04-15 14:11:17.205248,Khanikhola Hydropower Co. Ltd.
+2026041504024997,KKHC,74,47,1644,293.0,481692.0,2026-04-15,186471610,2751,KALASH STOCK MARKET PVT. LTD.,Neev Securities Pvt. Ltd.,2026-04-15 14:11:17.206147,Khanikhola Hydropower Co. Ltd.
+2026041504024998,KKHC,58,47,57,293.0,16701.0,2026-04-15,186471612,2751,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-15 14:11:17.206726,Khanikhola Hydropower Co. Ltd.
+2026041504024999,KKHC,35,47,50,293.0,14650.0,2026-04-15,186471614,2751,Kohinoor Investment & Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-15 14:11:17.207281,Khanikhola Hydropower Co. Ltd.
+2026041504025000,KKHC,46,47,1739,293.0,509527.0,2026-04-15,186471615,2751,Kalika Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-15 14:11:17.207840,Khanikhola Hydropower Co. Ltd.
+2026041504025115,KKHC,39,42,10,293.0,2930.0,2026-04-15,186472438,2751,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:12:42.391115,Khanikhola Hydropower Co. Ltd.
+2026041504025116,KKHC,54,42,20,293.0,5860.0,2026-04-15,186472439,2751,Sewa Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:12:42.391935,Khanikhola Hydropower Co. Ltd.
+2026041504025155,KKHC,54,21,300,293.0,87900.0,2026-04-15,186472715,2751,Sewa Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:13:11.316571,Khanikhola Hydropower Co. Ltd.
+2026041504025170,KKHC,54,34,500,293.0,146500.0,2026-04-15,186472835,2751,Sewa Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:13:21.936861,Khanikhola Hydropower Co. Ltd.
+2026041504025302,KKHC,54,35,33,293.0,9669.0,2026-04-15,186473728,2751,Sewa Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:14:41.455345,Khanikhola Hydropower Co. Ltd.
+2026041504025303,KKHC,54,35,341,293.0,99913.0,2026-04-15,186473730,2751,Sewa Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:14:41.455767,Khanikhola Hydropower Co. Ltd.
+2026041504025534,KKHC,42,35,26,293.0,7618.0,2026-04-15,186475457,2751,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:17:18.008067,Khanikhola Hydropower Co. Ltd.
+2026041504025535,KKHC,42,49,15,293.0,4395.0,2026-04-15,186475459,2751,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-15 14:17:18.009096,Khanikhola Hydropower Co. Ltd.
+2026041504025536,KKHC,42,40,634,293.0,185762.0,2026-04-15,186475462,2751,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-15 14:17:18.010022,Khanikhola Hydropower Co. Ltd.
+2026041504025549,KKHC,34,34,116,292.5,33930.0,2026-04-15,186475586,2751,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.165221,Khanikhola Hydropower Co. Ltd.
+2026041504025550,KKHC,74,34,1000,292.3,292300.0,2026-04-15,186475588,2751,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.166247,Khanikhola Hydropower Co. Ltd.
+2026041504025551,KKHC,58,34,800,292.2,233760.0,2026-04-15,186475590,2751,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.167105,Khanikhola Hydropower Co. Ltd.
+2026041504025552,KKHC,6,34,20,292.0,5840.0,2026-04-15,186475592,2751,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.167960,Khanikhola Hydropower Co. Ltd.
+2026041504025553,KKHC,48,34,500,292.0,146000.0,2026-04-15,186475594,2751,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.168833,Khanikhola Hydropower Co. Ltd.
+2026041504025554,KKHC,22,34,50,292.0,14600.0,2026-04-15,186475596,2751,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.169734,Khanikhola Hydropower Co. Ltd.
+2026041504025555,KKHC,42,34,10,292.0,2920.0,2026-04-15,186475598,2751,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.170603,Khanikhola Hydropower Co. Ltd.
+2026041504025556,KKHC,48,34,500,292.0,146000.0,2026-04-15,186475600,2751,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.171475,Khanikhola Hydropower Co. Ltd.
+2026041504025557,KKHC,58,34,50,292.0,14600.0,2026-04-15,186475602,2751,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:17:25.172348,Khanikhola Hydropower Co. Ltd.
+2026041504025782,KKHC,21,34,700,291.1,203770.0,2026-04-15,186476730,2751,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-15 14:18:46.720492,Khanikhola Hydropower Co. Ltd.
+2026041504025783,KKHC,36,34,150,291.0,43650.0,2026-04-15,186476732,2751,Secured Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:18:46.720915,Khanikhola Hydropower Co. Ltd.
+2026041504025784,KKHC,99,34,800,291.0,232800.0,2026-04-15,186476736,2751,Prabhu Stock Market Limited,Vision Securities Pvt. Ltd,2026-04-15 14:18:46.721101,Khanikhola Hydropower Co. Ltd.
+2026041504025785,KKHC,6,34,20,291.0,5820.0,2026-04-15,186476740,2751,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:18:46.721306,Khanikhola Hydropower Co. Ltd.
+2026041504025786,KKHC,50,34,30,291.0,8730.0,2026-04-15,186476744,2751,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:18:46.721499,Khanikhola Hydropower Co. Ltd.
+2026041504025787,KKHC,87,34,3500,291.0,1018500.0,2026-04-15,186476748,2751,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-15 14:18:46.721681,Khanikhola Hydropower Co. Ltd.
+2026041504026088,KKHC,58,34,30,291.0,8730.0,2026-04-15,186478628,2751,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:20:50.726415,Khanikhola Hydropower Co. Ltd.
+2026041504026146,KKHC,25,86,50,290.2,14510.0,2026-04-15,186479013,2751,Sweta Securities Private Limited,Stoxkarts Securities Limited,2026-04-15 14:21:13.276085,Khanikhola Hydropower Co. Ltd.
+2026041504026268,KKHC,25,58,125,290.2,36275.0,2026-04-15,186479764,2751,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-15 14:22:00.300136,Khanikhola Hydropower Co. Ltd.
+2026041504026269,KKHC,72,58,75,290.1,21757.5,2026-04-15,186479765,2751,Hatemalo Financial Services Private Limited,Naasa Securities Co. Ltd.,2026-04-15 14:22:00.300936,Khanikhola Hydropower Co. Ltd.
+2026041504026913,KKHC,72,49,125,290.1,36262.5,2026-04-15,186483915,2751,Hatemalo Financial Services Private Limited,Online Securities Pvt. Ltd.,2026-04-15 14:25:35.037612,Khanikhola Hydropower Co. Ltd.
+2026041504027045,KKHC,19,21,500,290.0,145000.0,2026-04-15,186484884,2751,Nepal Investment And Securities Trading Private Limited,Midas Stock Broking Company Private Limited,2026-04-15 14:26:25.175570,Khanikhola Hydropower Co. Ltd.
+2026041504027046,KKHC,22,21,1000,290.0,290000.0,2026-04-15,186484886,2751,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:26:25.176350,Khanikhola Hydropower Co. Ltd.
+2026041504027047,KKHC,45,21,500,290.0,145000.0,2026-04-15,186484887,2751,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 14:26:25.176908,Khanikhola Hydropower Co. Ltd.
+2026041504027056,KKHC,45,65,230,290.0,66700.0,2026-04-15,186484933,2751,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-15 14:26:28.341448,Khanikhola Hydropower Co. Ltd.
+2026041504027125,KKHC,45,57,500,290.0,145000.0,2026-04-15,186485361,2751,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-15 14:26:52.036388,Khanikhola Hydropower Co. Ltd.
+2026041504027167,KKHC,45,36,770,290.0,223300.0,2026-04-15,186485682,2751,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-15 14:27:05.610594,Khanikhola Hydropower Co. Ltd.
+2026041504027168,KKHC,57,36,500,290.0,145000.0,2026-04-15,186485684,2751,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-15 14:27:05.611364,Khanikhola Hydropower Co. Ltd.
+2026041504027169,KKHC,19,36,200,290.0,58000.0,2026-04-15,186485686,2751,Nepal Investment And Securities Trading Private Limited,Secured Securities Ltd.,2026-04-15 14:27:05.611917,Khanikhola Hydropower Co. Ltd.
+2026041504027170,KKHC,47,36,50,290.0,14500.0,2026-04-15,186485688,2751,Neev Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-15 14:27:05.612478,Khanikhola Hydropower Co. Ltd.
+2026041504027171,KKHC,7,36,1500,290.0,435000.0,2026-04-15,186485690,2751,J.F. Securites (PVT) Ltd.,Secured Securities Ltd.,2026-04-15 14:27:05.613021,Khanikhola Hydropower Co. Ltd.
+2026041504027172,KKHC,72,36,200,290.0,58000.0,2026-04-15,186485692,2751,Hatemalo Financial Services Private Limited,Secured Securities Ltd.,2026-04-15 14:27:05.613650,Khanikhola Hydropower Co. Ltd.
+2026041504027173,KKHC,42,36,500,290.0,145000.0,2026-04-15,186485694,2751,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-15 14:27:05.614190,Khanikhola Hydropower Co. Ltd.
+2026041504027174,KKHC,22,36,100,290.0,29000.0,2026-04-15,186485696,2751,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-15 14:27:05.614735,Khanikhola Hydropower Co. Ltd.
+2026041504027175,KKHC,36,36,1000,290.0,290000.0,2026-04-15,186485698,2751,Secured Securities Ltd.,Secured Securities Ltd.,2026-04-15 14:27:05.615254,Khanikhola Hydropower Co. Ltd.
+2026041504027295,KKHC,36,16,50,289.2,14460.0,2026-04-15,186486441,2751,Secured Securities Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 14:27:41.919190,Khanikhola Hydropower Co. Ltd.
+2026041504027365,KKHC,36,42,50,289.2,14460.0,2026-04-15,186486988,2751,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-15 14:28:13.533693,Khanikhola Hydropower Co. Ltd.
+2026041504027366,KKHC,45,42,50,289.1,14455.0,2026-04-15,186486989,2751,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:28:13.534533,Khanikhola Hydropower Co. Ltd.
+2026041504027596,KKHC,35,36,30,290.0,8700.0,2026-04-15,186487958,2751,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-15 14:29:00.719222,Khanikhola Hydropower Co. Ltd.
+2026041504027816,KKHC,45,22,50,289.1,14455.0,2026-04-15,186489658,2751,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 14:30:27.413703,Khanikhola Hydropower Co. Ltd.
+2026041504027817,KKHC,3,22,100,289.0,28900.0,2026-04-15,186489660,2751,Arun Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 14:30:27.414099,Khanikhola Hydropower Co. Ltd.
+2026041504027818,KKHC,49,22,150,289.0,43350.0,2026-04-15,186489661,2751,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 14:30:27.414283,Khanikhola Hydropower Co. Ltd.
+2026041504027966,KKHC,1,42,232,289.1,67071.2,2026-04-15,186490758,2751,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-15 14:31:29.607113,Khanikhola Hydropower Co. Ltd.
+2026041504027967,KKHC,49,42,768,289.0,221952.0,2026-04-15,186490759,2751,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:31:29.607948,Khanikhola Hydropower Co. Ltd.
+2026041504028993,KKHC,49,22,22,289.0,6358.0,2026-04-15,186498215,2751,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 14:38:36.028245,Khanikhola Hydropower Co. Ltd.
+2026041504029150,KKHC,41,38,150,289.1,43365.0,2026-04-15,186499340,2751,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:39:49.432970,Khanikhola Hydropower Co. Ltd.
+2026041504029151,KKHC,49,38,350,289.0,101150.0,2026-04-15,186499341,2751,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:39:49.433056,Khanikhola Hydropower Co. Ltd.
+2026041504029365,KKHC,62,45,50,289.9,14495.0,2026-04-15,186500716,2751,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:41:24.176964,Khanikhola Hydropower Co. Ltd.
+2026041504029378,KKHC,64,45,30,289.9,8697.0,2026-04-15,186500894,2751,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:41:32.750058,Khanikhola Hydropower Co. Ltd.
+2026041504029382,KKHC,58,45,100,289.9,28990.0,2026-04-15,186500924,2751,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:41:35.152052,Khanikhola Hydropower Co. Ltd.
+2026041504029423,KKHC,49,58,33,289.0,9537.0,2026-04-15,186501229,2751,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 14:41:53.912189,Khanikhola Hydropower Co. Ltd.
+2026041504029427,KKHC,5,45,20,289.9,5798.0,2026-04-15,186501243,2751,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:41:56.229090,Khanikhola Hydropower Co. Ltd.
+2026041504029428,KKHC,5,48,300,289.9,86970.0,2026-04-15,186501245,2751,Market Securities & Exchange (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-15 14:41:56.229865,Khanikhola Hydropower Co. Ltd.
+2026041504029499,KKHC,5,4,60,289.9,17394.0,2026-04-15,186501933,2751,Market Securities & Exchange (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-15 14:42:37.671470,Khanikhola Hydropower Co. Ltd.
+2026041504029734,KKHC,14,36,100,290.0,29000.0,2026-04-15,186503814,2751,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,2026-04-15 14:44:13.125812,Khanikhola Hydropower Co. Ltd.
+2026041504029740,KKHC,5,16,25,289.9,7247.5,2026-04-15,186503857,2751,Market Securities & Exchange (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 14:44:15.167616,Khanikhola Hydropower Co. Ltd.
+2026041504029786,KKHC,5,32,50,289.9,14495.0,2026-04-15,186504363,2751,Market Securities & Exchange (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-15 14:44:41.252470,Khanikhola Hydropower Co. Ltd.
+2026041504029839,KKHC,5,19,10,289.9,2899.0,2026-04-15,186504849,2751,Market Securities & Exchange (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-15 14:45:11.772469,Khanikhola Hydropower Co. Ltd.
+2026041504029888,KKHC,74,36,2000,290.0,580000.0,2026-04-15,186505164,2751,KALASH STOCK MARKET PVT. LTD.,Secured Securities Ltd.,2026-04-15 14:45:28.915893,Khanikhola Hydropower Co. Ltd.
+2026041504029961,KKHC,34,36,250,290.0,72500.0,2026-04-15,186505728,2751,Vision Securities Pvt. Ltd,Secured Securities Ltd.,2026-04-15 14:45:59.606431,Khanikhola Hydropower Co. Ltd.
+2026041504030093,KKHC,34,36,89,290.0,25810.0,2026-04-15,186506820,2751,Vision Securities Pvt. Ltd,Secured Securities Ltd.,2026-04-15 14:47:00.861626,Khanikhola Hydropower Co. Ltd.
+2026041504030125,KKHC,52,36,200,290.0,58000.0,2026-04-15,186507080,2751,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-15 14:47:20.988232,Khanikhola Hydropower Co. Ltd.
+2026041504030186,KKHC,47,36,61,290.0,17690.0,2026-04-15,186507759,2751,Neev Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-15 14:47:57.358844,Khanikhola Hydropower Co. Ltd.
+2026041504030187,KKHC,47,32,89,290.0,25810.0,2026-04-15,186507762,2751,Neev Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 14:47:57.359653,Khanikhola Hydropower Co. Ltd.
+2026041504030327,KKHC,5,32,500,290.0,145000.0,2026-04-15,186508598,2751,Market Securities & Exchange (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-15 14:48:32.037373,Khanikhola Hydropower Co. Ltd.
+2026041504030365,KKHC,49,32,100,290.0,29000.0,2026-04-15,186508798,2751,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 14:48:42.603651,Khanikhola Hydropower Co. Ltd.
+2026041504030532,KKHC,47,32,50,290.0,14500.0,2026-04-15,186509902,2751,Neev Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 14:49:22.230682,Khanikhola Hydropower Co. Ltd.
+2026041504030790,KKHC,25,32,177,290.0,51330.0,2026-04-15,186512740,2751,Sweta Securities Private Limited,Premier Securities Company Ltd.,2026-04-15 14:51:02.887011,Khanikhola Hydropower Co. Ltd.
+2026041504031110,KKHC,45,32,84,290.0,24360.0,2026-04-15,186515181,2751,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-15 14:52:49.822386,Khanikhola Hydropower Co. Ltd.
+2026041504031111,KKHC,45,4,16,290.0,4640.0,2026-04-15,186515184,2751,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-15 14:52:49.822792,Khanikhola Hydropower Co. Ltd.
+2026041504031248,KKHC,46,4,500,290.0,145000.0,2026-04-15,186516070,2751,Kalika Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-15 14:53:40.041441,Khanikhola Hydropower Co. Ltd.
+2026041504031603,KKHC,58,4,200,290.0,58000.0,2026-04-15,186518940,2751,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-15 14:55:32.427578,Khanikhola Hydropower Co. Ltd.
+2026041504031784,KKHC,5,59,35,289.9,10146.5,2026-04-15,186519802,2751,Market Securities & Exchange (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 14:56:00.571824,Khanikhola Hydropower Co. Ltd.
+2026041504031785,KKHC,45,59,65,289.9,18843.5,2026-04-15,186519803,2751,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 14:56:00.572185,Khanikhola Hydropower Co. Ltd.
+2026041504031786,KKHC,45,6,35,289.9,10146.5,2026-04-15,186519806,2751,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:56:01.053657,Khanikhola Hydropower Co. Ltd.
+2026041504032212,KKHC,43,26,300,289.9,86970.0,2026-04-15,186522570,2751,South Asian Bulls Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-15 14:57:25.604169,Khanikhola Hydropower Co. Ltd.
+2026041504032213,KKHC,25,26,100,289.3,28930.0,2026-04-15,186522572,2751,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-15 14:57:25.604606,Khanikhola Hydropower Co. Ltd.
+2026041504032214,KKHC,50,26,50,289.2,14460.0,2026-04-15,186522574,2751,Cristal Kanchanjanga Securites Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-15 14:57:25.604805,Khanikhola Hydropower Co. Ltd.
+2026041504032215,KKHC,34,26,550,289.1,159005.0,2026-04-15,186522575,2751,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,2026-04-15 14:57:25.604991,Khanikhola Hydropower Co. Ltd.
+2026041504032402,KKHC,34,42,450,289.1,130095.0,2026-04-15,186523438,2751,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-15 14:57:50.020131,Khanikhola Hydropower Co. Ltd.
+2026041504032403,KKHC,25,42,100,289.1,28910.0,2026-04-15,186523440,2751,Sweta Securities Private Limited,Sani Securities Company Ltd.,2026-04-15 14:57:50.020920,Khanikhola Hydropower Co. Ltd.
+2026041504032404,KKHC,49,42,1025,289.0,296225.0,2026-04-15,186523441,2751,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:57:50.021496,Khanikhola Hydropower Co. Ltd.
+2026041504032468,KKHC,49,50,50,289.0,14450.0,2026-04-15,186523751,2751,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-15 14:57:59.045415,Khanikhola Hydropower Co. Ltd.
+2026041504032589,KKHC,32,22,130,289.1,37583.0,2026-04-15,186524639,2751,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 14:58:24.772331,Khanikhola Hydropower Co. Ltd.
+2026041504032657,KKHC,32,42,350,289.1,101185.0,2026-04-15,186525107,2751,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-15 14:58:36.373230,Khanikhola Hydropower Co. Ltd.
+2026041504032710,KKHC,32,42,20,289.1,5782.0,2026-04-15,186525354,2751,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-15 14:58:43.239506,Khanikhola Hydropower Co. Ltd.
+2026041504032711,KKHC,49,42,2558,289.0,739262.0,2026-04-15,186525355,2751,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:58:43.239851,Khanikhola Hydropower Co. Ltd.
+2026041504032736,KKHC,49,58,140,289.0,40460.0,2026-04-15,186525531,2751,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 14:58:46.775750,Khanikhola Hydropower Co. Ltd.
+2026041504032816,KKHC,49,42,904,289.0,261256.0,2026-04-15,186525848,2751,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:58:52.940177,Khanikhola Hydropower Co. Ltd.
+2026041504032817,KKHC,6,42,10,289.0,2890.0,2026-04-15,186525850,2751,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-15 14:58:52.940559,Khanikhola Hydropower Co. Ltd.
+2026041504032818,KKHC,62,42,86,289.0,24854.0,2026-04-15,186525851,2751,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-15 14:58:52.940748,Khanikhola Hydropower Co. Ltd.
+2026041504032965,KKHC,62,58,64,289.0,18496.0,2026-04-15,186527060,2751,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-15 14:59:16.450936,Khanikhola Hydropower Co. Ltd.
+2026041504032966,KKHC,53,58,36,289.0,10404.0,2026-04-15,186527061,2751,Investment Management Nepal Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 14:59:16.451281,Khanikhola Hydropower Co. Ltd.
+2026041504033333,KKHC,53,48,100,289.0,28900.0,2026-04-15,186529473,2751,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 14:59:45.925833,Khanikhola Hydropower Co. Ltd.
+2026041504033421,KKHC,53,42,864,289.0,249696.0,2026-04-15,186530156,2751,Investment Management Nepal Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:59:53.624287,Khanikhola Hydropower Co. Ltd.
+2026041504033422,KKHC,46,42,26,289.0,7514.0,2026-04-15,186530157,2751,Kalika Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:59:53.624669,Khanikhola Hydropower Co. Ltd.
+2026041504033517,KKHC,46,6,500,289.0,144500.0,2026-04-15,186530749,2751,Kalika Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:59:57.578553,Khanikhola Hydropower Co. Ltd.
+2026041504033555,KKHC,46,43,30,289.0,8670.0,2026-04-15,186531481,2751,Kalika Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-15 14:59:59.240920,Khanikhola Hydropower Co. Ltd.

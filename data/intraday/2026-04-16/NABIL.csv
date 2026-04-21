@@ -1,0 +1,511 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041601000383,NABIL,58,41,40,535.0,21400.0,2026-04-16,186533116,131,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 11:01:58.529248,Nabil Bank Limited
+2026041601000519,NABIL,58,41,20,535.0,10700.0,2026-04-16,186533579,131,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 11:02:26.711855,Nabil Bank Limited
+2026041601000691,NABIL,58,42,36,536.0,19296.0,2026-04-16,186534140,131,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:02:56.304357,Nabil Bank Limited
+2026041601000692,NABIL,10,42,14,535.0,7490.0,2026-04-16,186534141,131,Pragyan Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 11:02:56.304548,Nabil Bank Limited
+2026041601000801,NABIL,48,34,15,538.0,8070.0,2026-04-16,186534582,131,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-16 11:03:23.050735,Nabil Bank Limited
+2026041601000917,NABIL,10,45,486,535.0,260010.0,2026-04-16,186535110,131,Pragyan Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:03:55.904320,Nabil Bank Limited
+2026041601001326,NABIL,58,45,10,535.0,5350.0,2026-04-16,186536462,131,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:05:13.314815,Nabil Bank Limited
+2026041601001551,NABIL,58,45,10,535.0,5350.0,2026-04-16,186537208,131,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:05:54.128654,Nabil Bank Limited
+2026041601001736,NABIL,25,45,20,535.0,10700.0,2026-04-16,186537892,131,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:06:35.500331,Nabil Bank Limited
+2026041601002001,NABIL,58,45,4,535.0,2140.0,2026-04-16,186538927,131,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:07:29.336398,Nabil Bank Limited
+2026041601002305,NABIL,54,22,10,533.0,5330.0,2026-04-16,186539912,131,Sewa Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:08:16.255473,Nabil Bank Limited
+2026041601002306,NABIL,49,22,20,533.0,10660.0,2026-04-16,186539914,131,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:08:16.255706,Nabil Bank Limited
+2026041601002311,NABIL,87,22,30,533.0,15990.0,2026-04-16,186539940,131,S.P.S.A. Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 11:08:17.891066,Nabil Bank Limited
+2026041601002426,NABIL,35,58,10,531.5,5315.0,2026-04-16,186540494,131,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:08:50.545525,Nabil Bank Limited
+2026041601002427,NABIL,41,58,10,531.5,5315.0,2026-04-16,186540496,131,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:08:50.545678,Nabil Bank Limited
+2026041601002428,NABIL,58,58,80,531.5,42520.0,2026-04-16,186540497,131,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:08:50.545743,Nabil Bank Limited
+2026041601003143,NABIL,58,44,95,531.5,50492.5,2026-04-16,186543288,131,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 11:10:43.597100,Nabil Bank Limited
+2026041601003193,NABIL,58,44,20,531.5,10630.0,2026-04-16,186543466,131,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 11:10:49.465907,Nabil Bank Limited
+2026041601003220,NABIL,35,34,50,531.1,26555.0,2026-04-16,186543544,131,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:10:53.282338,Nabil Bank Limited
+2026041601003221,NABIL,22,34,450,531.09,238990.5,2026-04-16,186543545,131,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:10:53.282483,Nabil Bank Limited
+2026041601003297,NABIL,34,44,85,531.5,45177.5,2026-04-16,186543827,131,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 11:11:07.371394,Nabil Bank Limited
+2026041601003446,NABIL,77,3,30,531.5,15945.0,2026-04-16,186544322,131,Nabil Stock Dealer Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 11:11:31.321386,Nabil Bank Limited
+2026041601003664,NABIL,90,3,65,531.5,34547.5,2026-04-16,186545076,131,Sajilo Broker Limited,Arun Securities (PVT) Ltd.,2026-04-16 11:12:06.730622,Nabil Bank Limited
+2026041601003699,NABIL,22,53,50,531.09,26554.5,2026-04-16,186545238,131,Siprabi Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.291706,Nabil Bank Limited
+2026041601003700,NABIL,58,53,10,531.0,5310.0,2026-04-16,186545240,131,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.291908,Nabil Bank Limited
+2026041601003701,NABIL,19,53,10,531.0,5310.0,2026-04-16,186545242,131,Nepal Investment And Securities Trading Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.292007,Nabil Bank Limited
+2026041601003702,NABIL,7,53,10,531.0,5310.0,2026-04-16,186545244,131,J.F. Securites (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.292082,Nabil Bank Limited
+2026041601003703,NABIL,42,53,10,531.0,5310.0,2026-04-16,186545246,131,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.292149,Nabil Bank Limited
+2026041601003704,NABIL,49,53,20,531.0,10620.0,2026-04-16,186545248,131,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.292216,Nabil Bank Limited
+2026041601003705,NABIL,21,53,20,531.0,10620.0,2026-04-16,186545250,131,Midas Stock Broking Company Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.292282,Nabil Bank Limited
+2026041601003706,NABIL,22,53,50,531.0,26550.0,2026-04-16,186545252,131,Siprabi Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:12:15.292347,Nabil Bank Limited
+2026041601003931,NABIL,11,22,20,530.1,10602.0,2026-04-16,186545885,131,Malla & Malla Stock Broking Company Pvt. Limited,Siprabi Securities Pvt. Ltd.,2026-04-16 11:12:36.866873,Nabil Bank Limited
+2026041601003957,NABIL,11,60,10,530.1,5301.0,2026-04-16,186545975,131,Malla & Malla Stock Broking Company Pvt. Limited,Nagarik Stock Dealer ,2026-04-16 11:12:41.748743,Nabil Bank Limited
+2026041601004031,NABIL,11,38,70,530.1,37107.0,2026-04-16,186546184,131,Malla & Malla Stock Broking Company Pvt. Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:12:50.009713,Nabil Bank Limited
+2026041601004032,NABIL,29,38,54,530.0,28620.0,2026-04-16,186546185,131,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:12:50.009841,Nabil Bank Limited
+2026041601004037,NABIL,29,56,283,530.0,149990.0,2026-04-16,186546203,131,Trisul Securities & Invt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 11:12:50.915549,Nabil Bank Limited
+2026041601004177,NABIL,44,53,20,531.0,10620.0,2026-04-16,186546737,131,Dynamic Money Managers Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:13:22.433109,Nabil Bank Limited
+2026041601004178,NABIL,44,91,38,531.0,20178.0,2026-04-16,186546740,131,Dynamic Money Managers Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 11:13:22.433385,Nabil Bank Limited
+2026041601004203,NABIL,49,91,37,531.0,19647.0,2026-04-16,186546832,131,Online Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 11:13:27.975890,Nabil Bank Limited
+2026041601004497,NABIL,28,91,225,531.0,119475.0,2026-04-16,186547817,131,Shree Krishna Securities Ltd.,Citizens Share Broker Limited,2026-04-16 11:14:16.596231,Nabil Bank Limited
+2026041601004498,NABIL,28,3,130,531.5,69095.0,2026-04-16,186547819,131,Shree Krishna Securities Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 11:14:16.596555,Nabil Bank Limited
+2026041601004499,NABIL,28,58,445,531.9,236695.5,2026-04-16,186547822,131,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:14:16.596786,Nabil Bank Limited
+2026041601004571,NABIL,28,58,55,531.9,29254.5,2026-04-16,186548083,131,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:14:29.577636,Nabil Bank Limited
+2026041601004674,NABIL,49,35,14,532.0,7448.0,2026-04-16,186548454,131,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:14:56.320696,Nabil Bank Limited
+2026041601004827,NABIL,28,35,16,532.0,8512.0,2026-04-16,186549023,131,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:15:25.534112,Nabil Bank Limited
+2026041601004828,NABIL,28,19,400,533.0,213200.0,2026-04-16,186549025,131,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 11:15:25.534419,Nabil Bank Limited
+2026041601004829,NABIL,28,25,200,533.0,106600.0,2026-04-16,186549027,131,Shree Krishna Securities Ltd.,Sweta Securities Private Limited,2026-04-16 11:15:25.534636,Nabil Bank Limited
+2026041601004830,NABIL,28,58,184,533.0,98072.0,2026-04-16,186549030,131,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:15:25.534832,Nabil Bank Limited
+2026041601005098,NABIL,42,58,100,531.9,53190.0,2026-04-16,186549908,131,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:16:05.862515,Nabil Bank Limited
+2026041601005099,NABIL,29,58,350,530.0,185500.0,2026-04-16,186549909,131,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:16:05.862651,Nabil Bank Limited
+2026041601005626,NABIL,35,58,10,531.0,5310.0,2026-04-16,186551824,131,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:17:59.516937,Nabil Bank Limited
+2026041601006106,NABIL,58,21,56,532.0,29792.0,2026-04-16,186553678,131,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:20:00.151850,Nabil Bank Limited
+2026041601006161,NABIL,57,21,100,532.0,53200.0,2026-04-16,186553962,131,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-16 11:20:20.912760,Nabil Bank Limited
+2026041601006258,NABIL,1,21,65,532.0,34580.0,2026-04-16,186554390,131,Kumari Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-16 11:20:55.318158,Nabil Bank Limited
+2026041601006294,NABIL,58,21,95,532.0,50540.0,2026-04-16,186554495,131,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:21:02.339602,Nabil Bank Limited
+2026041601006313,NABIL,44,42,20,532.0,10640.0,2026-04-16,186554554,131,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:21:07.568616,Nabil Bank Limited
+2026041601006368,NABIL,41,42,10,532.0,5320.0,2026-04-16,186554798,131,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-16 11:21:18.402272,Nabil Bank Limited
+2026041601006492,NABIL,17,42,84,532.0,44688.0,2026-04-16,186555407,131,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 11:22:00.779330,Nabil Bank Limited
+2026041601006645,NABIL,17,14,400,532.0,212800.0,2026-04-16,186556007,131,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-16 11:22:35.200347,Nabil Bank Limited
+2026041601006690,NABIL,39,58,16,533.0,8528.0,2026-04-16,186556165,131,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:22:45.141876,Nabil Bank Limited
+2026041601006691,NABIL,39,34,50,533.0,26650.0,2026-04-16,186556167,131,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:22:45.142249,Nabil Bank Limited
+2026041601006692,NABIL,39,34,183,533.0,97539.0,2026-04-16,186556169,131,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:22:45.142485,Nabil Bank Limited
+2026041601006693,NABIL,39,11,31,533.0,16523.0,2026-04-16,186556172,131,Sumeru Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 11:22:45.142706,Nabil Bank Limited
+2026041601006923,NABIL,17,42,30,532.9,15987.0,2026-04-16,186557132,131,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 11:23:53.800160,Nabil Bank Limited
+2026041601007324,NABIL,22,42,10,532.9,5329.0,2026-04-16,186558846,131,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:25:21.687604,Nabil Bank Limited
+2026041601007482,NABIL,17,1,16,532.0,8512.0,2026-04-16,186559520,131,ABC Securities Private Limited,Kumari Securities Private Limited,2026-04-16 11:26:08.426302,Nabil Bank Limited
+2026041601007483,NABIL,17,1,138,532.0,73416.0,2026-04-16,186559521,131,ABC Securities Private Limited,Kumari Securities Private Limited,2026-04-16 11:26:08.426339,Nabil Bank Limited
+2026041601007701,NABIL,58,42,10,532.9,5329.0,2026-04-16,186560360,131,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:27:03.160854,Nabil Bank Limited
+2026041601007813,NABIL,58,22,18,532.9,9592.2,2026-04-16,186560818,131,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 11:27:34.515214,Nabil Bank Limited
+2026041601007967,NABIL,17,45,20,532.0,10640.0,2026-04-16,186561453,131,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:28:22.254507,Nabil Bank Limited
+2026041601008178,NABIL,17,45,42,532.0,22344.0,2026-04-16,186562366,131,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:29:19.351652,Nabil Bank Limited
+2026041601008179,NABIL,58,45,47,532.0,25004.0,2026-04-16,186562368,131,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:29:19.351884,Nabil Bank Limited
+2026041601008180,NABIL,22,45,80,532.0,42560.0,2026-04-16,186562370,131,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:29:19.351991,Nabil Bank Limited
+2026041601008952,NABIL,44,34,10,531.9,5319.0,2026-04-16,186565826,131,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:32:20.115510,Nabil Bank Limited
+2026041601008958,NABIL,35,57,10,531.0,5310.0,2026-04-16,186565868,131,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 11:32:24.326414,Nabil Bank Limited
+2026041601008959,NABIL,51,57,15,531.0,7965.0,2026-04-16,186565870,131,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 11:32:24.326840,Nabil Bank Limited
+2026041601008960,NABIL,42,57,100,531.0,53100.0,2026-04-16,186565872,131,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 11:32:24.326985,Nabil Bank Limited
+2026041601008961,NABIL,64,57,20,531.0,10620.0,2026-04-16,186565874,131,SUN SECURITIES PVT LTD,Aryatara Investment & Securities,2026-04-16 11:32:24.327086,Nabil Bank Limited
+2026041601008962,NABIL,34,57,105,531.0,55755.0,2026-04-16,186565875,131,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 11:32:24.327178,Nabil Bank Limited
+2026041601009014,NABIL,34,49,100,531.0,53100.0,2026-04-16,186566165,131,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-16 11:32:40.326091,Nabil Bank Limited
+2026041601009017,NABIL,45,46,1,530.0,530.0,2026-04-16,186566177,131,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 11:32:41.269683,Nabil Bank Limited
+2026041601009038,NABIL,34,8,50,531.0,26550.0,2026-04-16,186566307,131,Vision Securities Pvt. Ltd,Brilliant Securities Pvt. Ltd.,2026-04-16 11:32:49.673288,Nabil Bank Limited
+2026041601009089,NABIL,45,58,1,532.0,532.0,2026-04-16,186566593,131,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:33:07.914147,Nabil Bank Limited
+2026041601009234,NABIL,34,65,685,531.0,363735.0,2026-04-16,186567001,131,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-16 11:33:19.588819,Nabil Bank Limited
+2026041601009258,NABIL,57,58,7,530.0,3710.0,2026-04-16,186567113,131,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 11:33:24.613923,Nabil Bank Limited
+2026041601009483,NABIL,34,58,20,531.0,10620.0,2026-04-16,186568207,131,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 11:34:05.557984,Nabil Bank Limited
+2026041601009724,NABIL,34,3,40,531.0,21240.0,2026-04-16,186569276,131,Vision Securities Pvt. Ltd,Arun Securities (PVT) Ltd.,2026-04-16 11:35:16.478183,Nabil Bank Limited
+2026041601009725,NABIL,32,3,100,531.0,53100.0,2026-04-16,186569278,131,Premier Securities Company Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 11:35:16.478461,Nabil Bank Limited
+2026041601009726,NABIL,11,3,10,531.0,5310.0,2026-04-16,186569279,131,Malla & Malla Stock Broking Company Pvt. Limited,Arun Securities (PVT) Ltd.,2026-04-16 11:35:16.478581,Nabil Bank Limited
+2026041601009795,NABIL,11,41,10,531.0,5310.0,2026-04-16,186569580,131,Malla & Malla Stock Broking Company Pvt. Limited,Linch Stock Market Ltd.,2026-04-16 11:35:33.149272,Nabil Bank Limited
+2026041601009797,NABIL,56,41,10,531.0,5310.0,2026-04-16,186569592,131,Sri Hari Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 11:35:34.454437,Nabil Bank Limited
+2026041601010020,NABIL,34,41,30,531.0,15930.0,2026-04-16,186570659,131,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,2026-04-16 11:36:30.344305,Nabil Bank Limited
+2026041601010021,NABIL,34,21,200,531.0,106200.0,2026-04-16,186570662,131,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 11:36:30.344755,Nabil Bank Limited
+2026041601010059,NABIL,59,21,10,531.0,5310.0,2026-04-16,186570784,131,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 11:36:36.222499,Nabil Bank Limited
+2026041601010137,NABIL,11,58,110,530.2,58322.0,2026-04-16,186571098,131,Malla & Malla Stock Broking Company Pvt. Limited,Naasa Securities Co. Ltd.,2026-04-16 11:36:54.366557,Nabil Bank Limited
+2026041601010138,NABIL,29,58,90,530.1,47709.0,2026-04-16,186571099,131,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:36:54.367043,Nabil Bank Limited
+2026041601010329,NABIL,29,42,50,530.1,26505.0,2026-04-16,186571959,131,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:37:55.841627,Nabil Bank Limited
+2026041601010347,NABIL,29,13,100,530.1,53010.0,2026-04-16,186572051,131,Trisul Securities & Invt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:38:00.288953,Nabil Bank Limited
+2026041601010798,NABIL,29,29,88,530.1,46648.8,2026-04-16,186573765,131,Trisul Securities & Invt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:39:44.013038,Nabil Bank Limited
+2026041601010812,NABIL,58,21,10,531.0,5310.0,2026-04-16,186573852,131,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:39:45.585566,Nabil Bank Limited
+2026041601010895,NABIL,29,13,100,530.1,53010.0,2026-04-16,186574203,131,Trisul Securities & Invt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:40:06.177708,Nabil Bank Limited
+2026041601011067,NABIL,29,10,158,530.1,83755.8,2026-04-16,186574829,131,Trisul Securities & Invt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-16 11:40:43.709962,Nabil Bank Limited
+2026041601011087,NABIL,58,21,40,531.0,21240.0,2026-04-16,186574952,131,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:40:51.170604,Nabil Bank Limited
+2026041601011164,NABIL,58,21,50,531.0,26550.0,2026-04-16,186575244,131,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:41:12.929220,Nabil Bank Limited
+2026041601011841,NABIL,3,8,20,530.9,10618.0,2026-04-16,186577780,131,Arun Securities (PVT) Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 11:43:12.494463,Nabil Bank Limited
+2026041601012285,NABIL,1,8,30,530.9,15927.0,2026-04-16,186579387,131,Kumari Securities Private Limited,Brilliant Securities Pvt. Ltd.,2026-04-16 11:44:47.912191,Nabil Bank Limited
+2026041601012286,NABIL,1,58,10,530.9,5309.0,2026-04-16,186579389,131,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 11:44:47.912669,Nabil Bank Limited
+2026041601012287,NABIL,1,13,10,530.9,5309.0,2026-04-16,186579392,131,Kumari Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:44:47.912989,Nabil Bank Limited
+2026041601012294,NABIL,67,13,30,530.9,15927.0,2026-04-16,186579416,131,Property Wiard Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:44:49.699742,Nabil Bank Limited
+2026041601012320,NABIL,58,13,10,530.9,5309.0,2026-04-16,186579533,131,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:44:57.097289,Nabil Bank Limited
+2026041601012554,NABIL,58,58,20,530.9,10618.0,2026-04-16,186580550,131,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:46:10.365314,Nabil Bank Limited
+2026041601012555,NABIL,58,58,10,530.5,5305.0,2026-04-16,186580552,131,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:46:10.365574,Nabil Bank Limited
+2026041601012556,NABIL,7,58,10,530.2,5302.0,2026-04-16,186580554,131,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:46:10.365683,Nabil Bank Limited
+2026041601012557,NABIL,29,58,10,530.1,5301.0,2026-04-16,186580555,131,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:46:10.365790,Nabil Bank Limited
+2026041601012606,NABIL,58,21,10,531.0,5310.0,2026-04-16,186580800,131,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:46:24.140156,Nabil Bank Limited
+2026041601012887,NABIL,34,21,180,531.0,95580.0,2026-04-16,186581791,131,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 11:47:17.921893,Nabil Bank Limited
+2026041601012888,NABIL,34,16,20,531.0,10620.0,2026-04-16,186581794,131,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-16 11:47:17.922172,Nabil Bank Limited
+2026041601012976,NABIL,41,16,46,531.0,24426.0,2026-04-16,186582074,131,Linch Stock Market Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 11:47:37.522893,Nabil Bank Limited
+2026041601013199,NABIL,29,48,200,530.1,106020.0,2026-04-16,186582955,131,Trisul Securities & Invt. Ltd.,Trishakti Securities Public Limited,2026-04-16 11:48:53.119299,Nabil Bank Limited
+2026041601013329,NABIL,96,58,180,530.5,95490.0,2026-04-16,186583468,131,Himalayan Securities Limited,Naasa Securities Co. Ltd.,2026-04-16 11:49:28.637430,Nabil Bank Limited
+2026041601013414,NABIL,58,58,20,530.5,10610.0,2026-04-16,186583767,131,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:49:52.647360,Nabil Bank Limited
+2026041601013415,NABIL,58,16,52,531.0,27612.0,2026-04-16,186583769,131,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 11:49:52.647644,Nabil Bank Limited
+2026041601013416,NABIL,58,13,28,531.0,14868.0,2026-04-16,186583772,131,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:49:52.647753,Nabil Bank Limited
+2026041601013710,NABIL,21,13,192,531.0,101952.0,2026-04-16,186584884,131,Midas Stock Broking Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:51:13.959615,Nabil Bank Limited
+2026041601013932,NABIL,26,13,100,531.0,53100.0,2026-04-16,186585476,131,Asian Securities Private Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:51:35.305305,Nabil Bank Limited
+2026041601013981,NABIL,58,13,25,531.0,13275.0,2026-04-16,186585750,131,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:51:49.398581,Nabil Bank Limited
+2026041601014071,NABIL,45,13,100,531.0,53100.0,2026-04-16,186586350,131,Imperial Securities Company Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:52:26.545056,Nabil Bank Limited
+2026041601014604,NABIL,58,13,35,531.0,18585.0,2026-04-16,186588468,131,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:54:38.034740,Nabil Bank Limited
+2026041601014618,NABIL,34,13,20,531.0,10620.0,2026-04-16,186588553,131,Vision Securities Pvt. Ltd,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:54:45.807931,Nabil Bank Limited
+2026041601014619,NABIL,34,22,150,531.0,79650.0,2026-04-16,186588555,131,Vision Securities Pvt. Ltd,Siprabi Securities Pvt. Ltd.,2026-04-16 11:54:45.808444,Nabil Bank Limited
+2026041601014620,NABIL,34,46,20,531.0,10620.0,2026-04-16,186588557,131,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-16 11:54:45.808785,Nabil Bank Limited
+2026041601015024,NABIL,49,42,200,531.8,106360.0,2026-04-16,186590362,131,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:56:54.042331,Nabil Bank Limited
+2026041601015026,NABIL,34,58,10,531.0,5310.0,2026-04-16,186590392,131,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 11:56:55.102380,Nabil Bank Limited
+2026041601015027,NABIL,58,58,115,531.0,61065.0,2026-04-16,186590393,131,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:56:55.102900,Nabil Bank Limited
+2026041601015048,NABIL,57,34,50,531.9,26595.0,2026-04-16,186590490,131,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 11:57:03.892166,Nabil Bank Limited
+2026041601015215,NABIL,25,48,25,531.8,13295.0,2026-04-16,186591008,131,Sweta Securities Private Limited,Trishakti Securities Public Limited,2026-04-16 11:57:35.097496,Nabil Bank Limited
+2026041601015476,NABIL,58,48,15,531.5,7972.5,2026-04-16,186591978,131,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-16 11:58:40.330429,Nabil Bank Limited
+2026041601015755,NABIL,49,35,18,531.2,9561.6,2026-04-16,186593142,131,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:59:58.792711,Nabil Bank Limited
+2026041601015756,NABIL,51,35,15,531.1,7966.5,2026-04-16,186593144,131,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:59:58.792784,Nabil Bank Limited
+2026041601015757,NABIL,58,35,188,531.0,99828.0,2026-04-16,186593146,131,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:59:58.792814,Nabil Bank Limited
+2026041601015758,NABIL,35,35,45,531.0,23895.0,2026-04-16,186593148,131,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:59:58.792855,Nabil Bank Limited
+2026041601015759,NABIL,29,35,204,530.1,108140.4,2026-04-16,186593150,131,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:59:58.792897,Nabil Bank Limited
+2026041601015760,NABIL,36,35,43,530.1,22794.3,2026-04-16,186593151,131,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:59:58.792932,Nabil Bank Limited
+2026041601016139,NABIL,58,45,30,531.1,15933.0,2026-04-16,186594869,131,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:02:14.539660,Nabil Bank Limited
+2026041601016412,NABIL,58,57,45,531.1,23899.5,2026-04-16,186596082,131,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 12:03:57.947201,Nabil Bank Limited
+2026041601016413,NABIL,58,57,50,531.0,26550.0,2026-04-16,186596084,131,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 12:03:57.947783,Nabil Bank Limited
+2026041601016414,NABIL,29,57,55,530.0,29150.0,2026-04-16,186596085,131,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,2026-04-16 12:03:57.948170,Nabil Bank Limited
+2026041601016488,NABIL,4,48,40,531.5,21260.0,2026-04-16,186596446,131,Opal Securities Investment (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-16 12:04:32.509290,Nabil Bank Limited
+2026041601016492,NABIL,29,47,100,530.0,53000.0,2026-04-16,186596455,131,Trisul Securities & Invt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 12:04:33.506490,Nabil Bank Limited
+2026041601016553,NABIL,29,25,158,530.0,83740.0,2026-04-16,186596724,131,Trisul Securities & Invt. Ltd.,Sweta Securities Private Limited,2026-04-16 12:04:56.405258,Nabil Bank Limited
+2026041601016554,NABIL,41,25,15,530.0,7950.0,2026-04-16,186596726,131,Linch Stock Market Ltd.,Sweta Securities Private Limited,2026-04-16 12:04:56.405876,Nabil Bank Limited
+2026041601016555,NABIL,58,25,20,530.0,10600.0,2026-04-16,186596728,131,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-16 12:04:56.406271,Nabil Bank Limited
+2026041601016556,NABIL,7,25,41,530.0,21730.0,2026-04-16,186596729,131,J.F. Securites (PVT) Ltd.,Sweta Securities Private Limited,2026-04-16 12:04:56.406647,Nabil Bank Limited
+2026041601016593,NABIL,7,22,17,530.0,9010.0,2026-04-16,186596883,131,J.F. Securites (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 12:05:09.776134,Nabil Bank Limited
+2026041601016694,NABIL,58,38,10,531.0,5310.0,2026-04-16,186597446,131,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:06:05.008316,Nabil Bank Limited
+2026041601016766,NABIL,7,42,10,530.0,5300.0,2026-04-16,186597741,131,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 12:06:27.602091,Nabil Bank Limited
+2026041601016821,NABIL,58,38,40,531.0,21240.0,2026-04-16,186598018,131,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:06:50.084694,Nabil Bank Limited
+2026041601016904,NABIL,49,38,29,531.0,15399.0,2026-04-16,186598465,131,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:07:20.632509,Nabil Bank Limited
+2026041601016905,NABIL,49,58,11,531.0,5841.0,2026-04-16,186598467,131,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:07:20.633145,Nabil Bank Limited
+2026041601017121,NABIL,34,48,20,531.5,10630.0,2026-04-16,186599596,131,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-16 12:08:33.215107,Nabil Bank Limited
+2026041601017717,NABIL,58,34,40,531.9,21276.0,2026-04-16,186602732,131,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:12:11.948230,Nabil Bank Limited
+2026041601018064,NABIL,58,6,20,531.5,10630.0,2026-04-16,186604100,131,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:14:03.033965,Nabil Bank Limited
+2026041601018217,NABIL,38,58,35,531.2,18592.0,2026-04-16,186604865,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:15:17.062840,Nabil Bank Limited
+2026041601018363,NABIL,38,58,15,531.2,7968.0,2026-04-16,186605380,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:16:09.184808,Nabil Bank Limited
+2026041601018364,NABIL,49,58,165,531.0,87615.0,2026-04-16,186605381,131,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:16:09.185443,Nabil Bank Limited
+2026041601018450,NABIL,58,6,20,531.5,10630.0,2026-04-16,186605670,131,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:16:38.695488,Nabil Bank Limited
+2026041601018504,NABIL,49,34,10,531.0,5310.0,2026-04-16,186605853,131,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:16:51.875983,Nabil Bank Limited
+2026041601018672,NABIL,49,49,75,531.0,39825.0,2026-04-16,186606565,131,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 12:17:49.935000,Nabil Bank Limited
+2026041601018883,NABIL,49,17,100,531.0,53100.0,2026-04-16,186607327,131,Online Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 12:18:46.072141,Nabil Bank Limited
+2026041601018938,NABIL,49,34,10,531.0,5310.0,2026-04-16,186607555,131,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:19:05.385173,Nabil Bank Limited
+2026041601018953,NABIL,49,57,100,531.0,53100.0,2026-04-16,186607601,131,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 12:19:09.552418,Nabil Bank Limited
+2026041601019139,NABIL,35,16,30,531.0,15930.0,2026-04-16,186608325,131,Kohinoor Investment & Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 12:20:12.500991,Nabil Bank Limited
+2026041601019188,NABIL,35,17,20,531.0,10620.0,2026-04-16,186608496,131,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 12:20:33.043349,Nabil Bank Limited
+2026041601019189,NABIL,16,17,10,531.0,5310.0,2026-04-16,186608498,131,Primo Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-16 12:20:33.043713,Nabil Bank Limited
+2026041601019237,NABIL,58,6,10,531.5,5315.0,2026-04-16,186608672,131,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:20:45.895713,Nabil Bank Limited
+2026041601019255,NABIL,58,57,10,531.0,5310.0,2026-04-16,186608715,131,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 12:20:49.164155,Nabil Bank Limited
+2026041601019389,NABIL,58,41,20,531.0,10620.0,2026-04-16,186609196,131,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 12:21:29.245229,Nabil Bank Limited
+2026041601019390,NABIL,28,41,12,531.0,6372.0,2026-04-16,186609197,131,Shree Krishna Securities Ltd.,Linch Stock Market Ltd.,2026-04-16 12:21:29.245872,Nabil Bank Limited
+2026041601019494,NABIL,58,6,35,531.5,18602.5,2026-04-16,186609552,131,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:21:57.396917,Nabil Bank Limited
+2026041601019547,NABIL,58,41,50,531.0,26550.0,2026-04-16,186609760,131,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 12:22:11.743155,Nabil Bank Limited
+2026041601019548,NABIL,45,41,14,531.0,7434.0,2026-04-16,186609761,131,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 12:22:11.743503,Nabil Bank Limited
+2026041601019585,NABIL,52,42,35,531.0,18585.0,2026-04-16,186609906,131,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-16 12:22:24.844437,Nabil Bank Limited
+2026041601020062,NABIL,42,42,65,531.0,34515.0,2026-04-16,186611755,131,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 12:24:38.010618,Nabil Bank Limited
+2026041601020063,NABIL,42,48,85,531.4,45169.0,2026-04-16,186611758,131,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-16 12:24:38.010981,Nabil Bank Limited
+2026041601020134,NABIL,58,48,10,531.4,5314.0,2026-04-16,186612162,131,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-16 12:25:01.157271,Nabil Bank Limited
+2026041601020338,NABIL,42,6,130,531.5,69095.0,2026-04-16,186613226,131,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:26:16.892675,Nabil Bank Limited
+2026041601020470,NABIL,29,22,500,530.2,265100.0,2026-04-16,186613811,131,Trisul Securities & Invt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 12:27:03.642250,Nabil Bank Limited
+2026041601020673,NABIL,58,57,30,531.0,15930.0,2026-04-16,186614722,131,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 12:28:17.345899,Nabil Bank Limited
+2026041601020707,NABIL,29,71,79,530.2,41885.8,2026-04-16,186614849,131,Trisul Securities & Invt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-16 12:28:28.671141,Nabil Bank Limited
+2026041601020793,NABIL,29,42,421,530.2,223214.2,2026-04-16,186615276,131,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:29:08.864010,Nabil Bank Limited
+2026041601020927,NABIL,29,42,366,530.1,194016.6,2026-04-16,186615736,131,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:29:52.760952,Nabil Bank Limited
+2026041601021009,NABIL,58,56,21,530.2,11134.2,2026-04-16,186616049,131,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 12:30:18.217681,Nabil Bank Limited
+2026041601021091,NABIL,58,49,59,530.2,31281.8,2026-04-16,186616396,131,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 12:30:52.476280,Nabil Bank Limited
+2026041601021092,NABIL,49,49,77,530.2,40825.4,2026-04-16,186616397,131,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 12:30:52.476593,Nabil Bank Limited
+2026041601021472,NABIL,49,17,83,530.2,44006.6,2026-04-16,186617796,131,Online Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 12:32:45.675683,Nabil Bank Limited
+2026041601021473,NABIL,29,17,117,530.1,62021.7,2026-04-16,186617797,131,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,2026-04-16 12:32:45.676369,Nabil Bank Limited
+2026041601021536,NABIL,52,57,50,531.0,26550.0,2026-04-16,186618090,131,Sundhara Securities Limited,Aryatara Investment & Securities,2026-04-16 12:33:12.382772,Nabil Bank Limited
+2026041601021615,NABIL,20,28,791,530.2,419388.2,2026-04-16,186618362,131,Sipla Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-16 12:33:42.314383,Nabil Bank Limited
+2026041601022057,NABIL,29,44,517,530.1,274061.7,2026-04-16,186620384,131,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:36:38.239977,Nabil Bank Limited
+2026041601022058,NABIL,6,44,283,530.1,150018.3,2026-04-16,186620385,131,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:36:38.240736,Nabil Bank Limited
+2026041601022089,NABIL,6,44,200,530.1,106020.0,2026-04-16,186620481,131,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:36:50.534259,Nabil Bank Limited
+2026041601022205,NABIL,6,35,100,530.1,53010.0,2026-04-16,186620899,131,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:37:35.466799,Nabil Bank Limited
+2026041601022231,NABIL,6,52,10,530.1,5301.0,2026-04-16,186621009,131,Agrawal Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-16 12:37:44.239397,Nabil Bank Limited
+2026041601022308,NABIL,6,29,88,530.1,46648.8,2026-04-16,186621327,131,Agrawal Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 12:38:16.696182,Nabil Bank Limited
+2026041601022310,NABIL,49,57,10,531.0,5310.0,2026-04-16,186621334,131,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 12:38:17.051819,Nabil Bank Limited
+2026041601022512,NABIL,6,4,10,530.1,5301.0,2026-04-16,186622265,131,Agrawal Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 12:40:09.777777,Nabil Bank Limited
+2026041601022515,NABIL,13,57,204,531.0,108324.0,2026-04-16,186622291,131,Thrive Brokerage House Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 12:40:13.089596,Nabil Bank Limited
+2026041601022516,NABIL,13,58,20,531.0,10620.0,2026-04-16,186622293,131,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 12:40:13.090211,Nabil Bank Limited
+2026041601022517,NABIL,13,17,100,531.1,53110.0,2026-04-16,186622295,131,Thrive Brokerage House Pvt. Ltd,ABC Securities Private Limited,2026-04-16 12:40:13.090658,Nabil Bank Limited
+2026041601022518,NABIL,13,17,100,531.2,53120.0,2026-04-16,186622297,131,Thrive Brokerage House Pvt. Ltd,ABC Securities Private Limited,2026-04-16 12:40:13.091114,Nabil Bank Limited
+2026041601022519,NABIL,13,6,76,531.5,40394.0,2026-04-16,186622300,131,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 12:40:13.091569,Nabil Bank Limited
+2026041601022564,NABIL,13,6,500,531.5,265750.0,2026-04-16,186622456,131,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 12:40:22.901019,Nabil Bank Limited
+2026041601022603,NABIL,13,6,500,531.5,265750.0,2026-04-16,186622648,131,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 12:40:38.784119,Nabil Bank Limited
+2026041601022620,NABIL,13,6,500,531.5,265750.0,2026-04-16,186622730,131,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 12:40:46.195302,Nabil Bank Limited
+2026041601022680,NABIL,6,43,13,530.1,6891.3,2026-04-16,186622933,131,Agrawal Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 12:41:04.083957,Nabil Bank Limited
+2026041601022871,NABIL,13,6,500,531.5,265750.0,2026-04-16,186623672,131,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 12:42:15.956670,Nabil Bank Limited
+2026041601022900,NABIL,13,6,500,531.5,265750.0,2026-04-16,186623744,131,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-16 12:42:22.517969,Nabil Bank Limited
+2026041601023362,NABIL,6,3,200,530.1,106020.0,2026-04-16,186625417,131,Agrawal Securities (PVT) Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 12:44:25.840173,Nabil Bank Limited
+2026041601023606,NABIL,45,17,30,531.0,15930.0,2026-04-16,186626383,131,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 12:46:02.718530,Nabil Bank Limited
+2026041601023607,NABIL,45,6,15,531.5,7972.5,2026-04-16,186626386,131,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:46:02.719239,Nabil Bank Limited
+2026041601024069,NABIL,26,6,30,531.5,15945.0,2026-04-16,186627794,131,Asian Securities Private Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:47:59.903464,Nabil Bank Limited
+2026041601024182,NABIL,42,62,12,530.1,6361.2,2026-04-16,186628249,131,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-16 12:48:39.354587,Nabil Bank Limited
+2026041601024286,NABIL,1,42,30,530.3,15909.0,2026-04-16,186628584,131,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 12:49:06.297975,Nabil Bank Limited
+2026041601024287,NABIL,42,42,86,530.1,45588.6,2026-04-16,186628586,131,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 12:49:06.298045,Nabil Bank Limited
+2026041601024288,NABIL,6,42,34,530.1,18023.4,2026-04-16,186628587,131,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 12:49:06.298075,Nabil Bank Limited
+2026041601024682,NABIL,35,34,135,531.0,71685.0,2026-04-16,186630078,131,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:51:30.701789,Nabil Bank Limited
+2026041601024683,NABIL,6,34,765,530.1,405526.5,2026-04-16,186630079,131,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:51:30.702150,Nabil Bank Limited
+2026041601024797,NABIL,6,28,201,530.1,106550.1,2026-04-16,186630538,131,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-16 12:52:19.804527,Nabil Bank Limited
+2026041601024798,NABIL,29,28,299,530.1,158499.9,2026-04-16,186630539,131,Trisul Securities & Invt. Ltd.,Shree Krishna Securities Ltd.,2026-04-16 12:52:19.804656,Nabil Bank Limited
+2026041601024801,NABIL,29,34,900,530.1,477090.0,2026-04-16,186630553,131,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:52:21.052406,Nabil Bank Limited
+2026041601024811,NABIL,29,28,500,530.1,265050.0,2026-04-16,186630595,131,Trisul Securities & Invt. Ltd.,Shree Krishna Securities Ltd.,2026-04-16 12:52:24.785700,Nabil Bank Limited
+2026041601024840,NABIL,29,28,373,530.1,197727.3,2026-04-16,186630681,131,Trisul Securities & Invt. Ltd.,Shree Krishna Securities Ltd.,2026-04-16 12:52:31.110161,Nabil Bank Limited
+2026041601024892,NABIL,29,34,428,530.1,226882.8,2026-04-16,186630908,131,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:52:51.663336,Nabil Bank Limited
+2026041601024893,NABIL,45,34,10,530.1,5301.0,2026-04-16,186630910,131,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:52:51.663696,Nabil Bank Limited
+2026041601024894,NABIL,4,34,18,530.1,9541.8,2026-04-16,186630912,131,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:52:51.663867,Nabil Bank Limited
+2026041601024901,NABIL,7,19,32,530.0,16960.0,2026-04-16,186630930,131,J.F. Securites (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 12:52:54.463002,Nabil Bank Limited
+2026041601024902,NABIL,42,19,50,530.0,26500.0,2026-04-16,186630932,131,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 12:52:54.463711,Nabil Bank Limited
+2026041601024903,NABIL,13,19,15,530.0,7950.0,2026-04-16,186630934,131,Thrive Brokerage House Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-16 12:52:54.464187,Nabil Bank Limited
+2026041601024904,NABIL,14,19,60,530.0,31800.0,2026-04-16,186630936,131,Nepal Stock House (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 12:52:54.464661,Nabil Bank Limited
+2026041601024905,NABIL,58,19,36,530.0,19080.0,2026-04-16,186630938,131,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 12:52:54.465157,Nabil Bank Limited
+2026041601024906,NABIL,49,19,307,530.0,162710.0,2026-04-16,186630939,131,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 12:52:54.465615,Nabil Bank Limited
+2026041601024995,NABIL,49,34,193,530.0,102290.0,2026-04-16,186631278,131,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.058995,Nabil Bank Limited
+2026041601024996,NABIL,45,34,13,530.0,6890.0,2026-04-16,186631280,131,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.059367,Nabil Bank Limited
+2026041601024997,NABIL,58,34,250,530.0,132500.0,2026-04-16,186631282,131,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.059524,Nabil Bank Limited
+2026041601024998,NABIL,29,34,22,530.0,11660.0,2026-04-16,186631284,131,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.059678,Nabil Bank Limited
+2026041601024999,NABIL,57,34,10,530.0,5300.0,2026-04-16,186631286,131,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.059834,Nabil Bank Limited
+2026041601025000,NABIL,10,34,15,530.0,7950.0,2026-04-16,186631288,131,Pragyan Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.059984,Nabil Bank Limited
+2026041601025001,NABIL,58,34,11,530.0,5830.0,2026-04-16,186631290,131,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.060144,Nabil Bank Limited
+2026041601025002,NABIL,16,34,80,530.0,42400.0,2026-04-16,186631292,131,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.060296,Nabil Bank Limited
+2026041601025003,NABIL,17,34,306,530.0,162180.0,2026-04-16,186631293,131,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 12:53:27.060442,Nabil Bank Limited
+2026041601025326,NABIL,70,34,14,530.1,7421.4,2026-04-16,186632208,131,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 12:54:09.782070,Nabil Bank Limited
+2026041601025327,NABIL,58,34,20,530.1,10602.0,2026-04-16,186632212,131,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:54:10.128894,Nabil Bank Limited
+2026041601025363,NABIL,8,34,20,530.1,10602.0,2026-04-16,186632452,131,Brilliant Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:54:28.908323,Nabil Bank Limited
+2026041601025473,NABIL,13,34,99,530.1,52479.9,2026-04-16,186632884,131,Thrive Brokerage House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-16 12:55:20.156367,Nabil Bank Limited
+2026041601025559,NABIL,45,34,100,530.1,53010.0,2026-04-16,186633250,131,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:56:10.801759,Nabil Bank Limited
+2026041601025602,NABIL,17,58,16,530.0,8480.0,2026-04-16,186633433,131,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 12:56:34.882569,Nabil Bank Limited
+2026041601025603,NABIL,26,34,15,530.1,7951.5,2026-04-16,186633440,131,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:56:35.057655,Nabil Bank Limited
+2026041601025741,NABIL,11,34,176,530.1,93297.6,2026-04-16,186634011,131,Malla & Malla Stock Broking Company Pvt. Limited,Vision Securities Pvt. Ltd,2026-04-16 12:57:29.955555,Nabil Bank Limited
+2026041601025742,NABIL,11,34,224,530.1,118742.4,2026-04-16,186634014,131,Malla & Malla Stock Broking Company Pvt. Limited,Vision Securities Pvt. Ltd,2026-04-16 12:57:29.956308,Nabil Bank Limited
+2026041601025775,NABIL,17,34,83,530.0,43990.0,2026-04-16,186634132,131,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 12:57:48.079426,Nabil Bank Limited
+2026041601025776,NABIL,57,34,15,530.0,7950.0,2026-04-16,186634134,131,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 12:57:48.080145,Nabil Bank Limited
+2026041601025777,NABIL,58,34,10,530.0,5300.0,2026-04-16,186634136,131,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:57:48.080610,Nabil Bank Limited
+2026041601025778,NABIL,38,34,81,530.0,42930.0,2026-04-16,186634137,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:57:48.081091,Nabil Bank Limited
+2026041601025896,NABIL,45,34,30,530.1,15903.0,2026-04-16,186634638,131,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:58:54.601531,Nabil Bank Limited
+2026041601025974,NABIL,32,34,86,530.1,45588.6,2026-04-16,186634965,131,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:59:32.662680,Nabil Bank Limited
+2026041601026185,NABIL,39,49,5,530.0,2650.0,2026-04-16,186635869,131,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:00:51.803778,Nabil Bank Limited
+2026041601026350,NABIL,42,1,18,531.0,9558.0,2026-04-16,186636560,131,Sani Securities Company Ltd.,Kumari Securities Private Limited,2026-04-16 13:02:01.182502,Nabil Bank Limited
+2026041601026392,NABIL,45,1,30,531.0,15930.0,2026-04-16,186636760,131,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 13:02:17.283581,Nabil Bank Limited
+2026041601026689,NABIL,57,45,10,530.5,5305.0,2026-04-16,186638074,131,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:04:28.757791,Nabil Bank Limited
+2026041601026698,NABIL,34,1,100,531.0,53100.0,2026-04-16,186638108,131,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,2026-04-16 13:04:35.144732,Nabil Bank Limited
+2026041601026817,NABIL,49,1,10,531.0,5310.0,2026-04-16,186638694,131,Online Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 13:05:33.211184,Nabil Bank Limited
+2026041601026941,NABIL,5,85,75,530.2,39765.0,2026-04-16,186639166,131,Market Securities & Exchange (PVT) Ltd.,Capital Hub P. Ltd,2026-04-16 13:06:06.539528,Nabil Bank Limited
+2026041601026942,NABIL,32,85,114,530.1,60431.4,2026-04-16,186639168,131,Premier Securities Company Ltd.,Capital Hub P. Ltd,2026-04-16 13:06:06.539891,Nabil Bank Limited
+2026041601026943,NABIL,6,85,11,530.1,5831.1,2026-04-16,186639169,131,Agrawal Securities (PVT) Ltd.,Capital Hub P. Ltd,2026-04-16 13:06:06.540062,Nabil Bank Limited
+2026041601027092,NABIL,32,1,10,531.0,5310.0,2026-04-16,186640308,131,Premier Securities Company Ltd.,Kumari Securities Private Limited,2026-04-16 13:07:00.223119,Nabil Bank Limited
+2026041601027136,NABIL,6,21,618,530.1,327601.8,2026-04-16,186640499,131,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:07:14.996113,Nabil Bank Limited
+2026041601027369,NABIL,25,1,10,531.0,5310.0,2026-04-16,186641562,131,Sweta Securities Private Limited,Kumari Securities Private Limited,2026-04-16 13:08:39.911040,Nabil Bank Limited
+2026041601027471,NABIL,65,1,94,531.0,49914.0,2026-04-16,186641954,131,Sharepro Securities Private Limited,Kumari Securities Private Limited,2026-04-16 13:09:09.329592,Nabil Bank Limited
+2026041601027645,NABIL,28,1,100,531.0,53100.0,2026-04-16,186643028,131,Shree Krishna Securities Ltd.,Kumari Securities Private Limited,2026-04-16 13:10:01.741198,Nabil Bank Limited
+2026041601027801,NABIL,65,1,94,531.0,49914.0,2026-04-16,186643720,131,Sharepro Securities Private Limited,Kumari Securities Private Limited,2026-04-16 13:10:35.649365,Nabil Bank Limited
+2026041601028033,NABIL,36,1,10,531.0,5310.0,2026-04-16,186645086,131,Secured Securities Ltd.,Kumari Securities Private Limited,2026-04-16 13:11:39.651145,Nabil Bank Limited
+2026041601028722,NABIL,29,1,500,531.0,265500.0,2026-04-16,186649770,131,Trisul Securities & Invt. Ltd.,Kumari Securities Private Limited,2026-04-16 13:15:44.009905,Nabil Bank Limited
+2026041601029511,NABIL,58,22,30,530.5,15915.0,2026-04-16,186654797,131,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 13:19:43.839889,Nabil Bank Limited
+2026041601029584,NABIL,6,58,25,530.1,13252.5,2026-04-16,186655631,131,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:20:21.106356,Nabil Bank Limited
+2026041601029870,NABIL,6,46,50,530.1,26505.0,2026-04-16,186657447,131,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 13:21:40.758980,Nabil Bank Limited
+2026041601030316,NABIL,7,1,24,531.0,12744.0,2026-04-16,186660095,131,J.F. Securites (PVT) Ltd.,Kumari Securities Private Limited,2026-04-16 13:24:00.859071,Nabil Bank Limited
+2026041601030317,NABIL,7,53,36,531.0,19116.0,2026-04-16,186660098,131,J.F. Securites (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:24:00.859858,Nabil Bank Limited
+2026041601030327,NABIL,6,49,30,530.1,15903.0,2026-04-16,186660149,131,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:24:03.943896,Nabil Bank Limited
+2026041601030359,NABIL,42,53,40,531.0,21240.0,2026-04-16,186660328,131,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:24:13.036232,Nabil Bank Limited
+2026041601030737,NABIL,32,53,100,531.0,53100.0,2026-04-16,186662510,131,Premier Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:26:21.790524,Nabil Bank Limited
+2026041601030805,NABIL,58,53,24,531.0,12744.0,2026-04-16,186662871,131,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:26:45.329769,Nabil Bank Limited
+2026041601030806,NABIL,58,35,31,531.0,16461.0,2026-04-16,186662874,131,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:26:45.330097,Nabil Bank Limited
+2026041601031000,NABIL,57,35,69,531.0,36639.0,2026-04-16,186663843,131,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:27:52.343671,Nabil Bank Limited
+2026041601031001,NABIL,57,51,50,531.0,26550.0,2026-04-16,186663845,131,Aryatara Investment & Securities,Oxford Securities Pvt. Ltd.,2026-04-16 13:27:52.344399,Nabil Bank Limited
+2026041601031002,NABIL,57,28,200,531.0,106200.0,2026-04-16,186663847,131,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-16 13:27:52.344899,Nabil Bank Limited
+2026041601031395,NABIL,57,42,200,531.0,106200.0,2026-04-16,186665663,131,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-16 13:30:12.499584,Nabil Bank Limited
+2026041601031445,NABIL,57,48,200,531.0,106200.0,2026-04-16,186665853,131,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-16 13:30:21.284592,Nabil Bank Limited
+2026041601031552,NABIL,57,58,50,531.0,26550.0,2026-04-16,186666251,131,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 13:30:51.993083,Nabil Bank Limited
+2026041601031620,NABIL,57,58,15,531.0,7965.0,2026-04-16,186666537,131,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 13:31:10.884781,Nabil Bank Limited
+2026041601031795,NABIL,57,34,100,531.0,53100.0,2026-04-16,186667113,131,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 13:31:40.247620,Nabil Bank Limited
+2026041601031799,NABIL,36,58,170,531.2,90304.0,2026-04-16,186667133,131,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:31:42.697810,Nabil Bank Limited
+2026041601031800,NABIL,36,6,30,531.5,15945.0,2026-04-16,186667136,131,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 13:31:42.698182,Nabil Bank Limited
+2026041601031833,NABIL,44,42,30,531.1,15933.0,2026-04-16,186667292,131,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:31:52.485887,Nabil Bank Limited
+2026041601031834,NABIL,57,42,160,531.0,84960.0,2026-04-16,186667293,131,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-16 13:31:52.486674,Nabil Bank Limited
+2026041601032035,NABIL,49,58,10,531.2,5312.0,2026-04-16,186668072,131,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:32:30.813801,Nabil Bank Limited
+2026041601032124,NABIL,57,41,100,531.0,53100.0,2026-04-16,186668431,131,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-16 13:32:48.349090,Nabil Bank Limited
+2026041601032314,NABIL,57,13,50,531.0,26550.0,2026-04-16,186669537,131,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,2026-04-16 13:33:51.248342,Nabil Bank Limited
+2026041601032440,NABIL,57,58,30,531.0,15930.0,2026-04-16,186670315,131,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 13:34:34.922188,Nabil Bank Limited
+2026041601032486,NABIL,57,34,100,531.0,53100.0,2026-04-16,186670669,131,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-16 13:34:55.339646,Nabil Bank Limited
+2026041601032844,NABIL,77,22,20,531.1,10622.0,2026-04-16,186672809,131,Nabil Stock Dealer Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 13:36:54.355272,Nabil Bank Limited
+2026041601033003,NABIL,57,6,20,531.0,10620.0,2026-04-16,186673861,131,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-16 13:37:50.195458,Nabil Bank Limited
+2026041601033261,NABIL,57,58,506,531.0,268686.0,2026-04-16,186675130,131,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 13:38:47.337509,Nabil Bank Limited
+2026041601033262,NABIL,34,58,50,531.0,26550.0,2026-04-16,186675132,131,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:38:47.337899,Nabil Bank Limited
+2026041601033263,NABIL,5,58,150,531.0,79650.0,2026-04-16,186675134,131,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:38:47.338091,Nabil Bank Limited
+2026041601033264,NABIL,58,58,35,531.0,18585.0,2026-04-16,186675136,131,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:38:47.338269,Nabil Bank Limited
+2026041601033265,NABIL,34,58,262,531.0,139122.0,2026-04-16,186675137,131,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:38:47.338449,Nabil Bank Limited
+2026041601033343,NABIL,34,35,100,531.0,53100.0,2026-04-16,186675681,131,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:39:12.497381,Nabil Bank Limited
+2026041601033493,NABIL,34,58,638,531.0,338778.0,2026-04-16,186676414,131,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:39:59.637800,Nabil Bank Limited
+2026041601033632,NABIL,6,4,80,530.1,42408.0,2026-04-16,186677099,131,Agrawal Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 13:40:46.231481,Nabil Bank Limited
+2026041601033639,NABIL,47,58,108,531.0,57348.0,2026-04-16,186677134,131,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:40:47.785716,Nabil Bank Limited
+2026041601034211,NABIL,6,5,20,530.1,10602.0,2026-04-16,186680157,131,Agrawal Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:44:32.496888,Nabil Bank Limited
+2026041601034384,NABIL,6,17,166,530.1,87996.6,2026-04-16,186681284,131,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-16 13:46:07.129642,Nabil Bank Limited
+2026041601034385,NABIL,28,17,34,530.1,18023.4,2026-04-16,186681285,131,Shree Krishna Securities Ltd.,ABC Securities Private Limited,2026-04-16 13:46:07.130047,Nabil Bank Limited
+2026041601034535,NABIL,28,59,130,530.1,68913.0,2026-04-16,186681857,131,Shree Krishna Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:47:00.877565,Nabil Bank Limited
+2026041601034923,NABIL,48,13,150,530.9,79635.0,2026-04-16,186683792,131,Trishakti Securities Public Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 13:49:40.573489,Nabil Bank Limited
+2026041601034943,NABIL,28,32,158,530.1,83755.8,2026-04-16,186683851,131,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-16 13:49:45.989293,Nabil Bank Limited
+2026041601035187,NABIL,58,13,10,530.9,5309.0,2026-04-16,186684784,131,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 13:51:17.760812,Nabil Bank Limited
+2026041601035259,NABIL,32,13,50,530.9,26545.0,2026-04-16,186685180,131,Premier Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 13:52:00.456428,Nabil Bank Limited
+2026041601035308,NABIL,26,13,40,530.9,21236.0,2026-04-16,186685447,131,Asian Securities Private Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 13:52:33.270013,Nabil Bank Limited
+2026041601035395,NABIL,17,58,20,531.0,10620.0,2026-04-16,186686044,131,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 13:53:24.733359,Nabil Bank Limited
+2026041601035650,NABIL,42,58,99,531.0,52569.0,2026-04-16,186687171,131,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:55:08.334293,Nabil Bank Limited
+2026041601035651,NABIL,42,38,10,531.0,5310.0,2026-04-16,186687175,131,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:55:08.334738,Nabil Bank Limited
+2026041601035652,NABIL,42,51,50,531.0,26550.0,2026-04-16,186687177,131,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 13:55:08.334936,Nabil Bank Limited
+2026041601035653,NABIL,42,58,20,531.0,10620.0,2026-04-16,186687179,131,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:55:08.335124,Nabil Bank Limited
+2026041601035654,NABIL,42,19,10,531.0,5310.0,2026-04-16,186687181,131,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:55:08.335307,Nabil Bank Limited
+2026041601035655,NABIL,42,59,311,531.0,165141.0,2026-04-16,186687184,131,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:55:08.335489,Nabil Bank Limited
+2026041601035771,NABIL,58,59,10,531.0,5310.0,2026-04-16,186687682,131,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:56:06.315657,Nabil Bank Limited
+2026041601035788,NABIL,58,59,20,531.0,10620.0,2026-04-16,186687768,131,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:56:18.800151,Nabil Bank Limited
+2026041601035795,NABIL,77,59,100,531.0,53100.0,2026-04-16,186687790,131,Nabil Stock Dealer Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:56:22.712736,Nabil Bank Limited
+2026041601036004,NABIL,26,35,50,530.9,26545.0,2026-04-16,186688817,131,Asian Securities Private Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:58:24.901077,Nabil Bank Limited
+2026041601036031,NABIL,38,59,10,531.0,5310.0,2026-04-16,186688948,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 13:58:38.870288,Nabil Bank Limited
+2026041601036336,NABIL,25,77,90,530.6,47754.0,2026-04-16,186690559,131,Sweta Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-16 14:00:53.363448,Nabil Bank Limited
+2026041601036348,NABIL,7,59,41,531.0,21771.0,2026-04-16,186690608,131,J.F. Securites (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:01:02.412617,Nabil Bank Limited
+2026041601036551,NABIL,25,77,10,530.6,5306.0,2026-04-16,186691649,131,Sweta Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-16 14:02:27.405188,Nabil Bank Limited
+2026041601036604,NABIL,42,77,90,530.5,47745.0,2026-04-16,186691937,131,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:02:56.503799,Nabil Bank Limited
+2026041601036785,NABIL,89,77,10,530.9,5309.0,2026-04-16,186692610,131,Global IME Securities Limited,Nabil Stock Dealer Ltd.,2026-04-16 14:03:40.733990,Nabil Bank Limited
+2026041601036819,NABIL,42,77,400,530.2,212080.0,2026-04-16,186692763,131,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:03:54.243061,Nabil Bank Limited
+2026041601036847,NABIL,58,7,3,531.0,1593.0,2026-04-16,186692927,131,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:04:05.694293,Nabil Bank Limited
+2026041601037101,NABIL,28,45,2020,530.1,1070802.0,2026-04-16,186694281,131,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:05:41.707009,Nabil Bank Limited
+2026041601037184,NABIL,28,77,400,530.1,212040.0,2026-04-16,186694793,131,Shree Krishna Securities Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:06:18.458933,Nabil Bank Limited
+2026041601037267,NABIL,28,51,200,530.1,106020.0,2026-04-16,186695147,131,Shree Krishna Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:06:46.172971,Nabil Bank Limited
+2026041601037512,NABIL,58,77,50,530.9,26545.0,2026-04-16,186696330,131,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:08:44.700734,Nabil Bank Limited
+2026041601037913,NABIL,46,51,12,530.5,6366.0,2026-04-16,186698054,131,Kalika Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:11:19.650260,Nabil Bank Limited
+2026041601038054,NABIL,38,51,58,530.5,30769.0,2026-04-16,186698753,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:12:10.974371,Nabil Bank Limited
+2026041601038055,NABIL,38,77,250,530.7,132675.0,2026-04-16,186698755,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:12:10.974790,Nabil Bank Limited
+2026041601038056,NABIL,38,77,40,530.9,21236.0,2026-04-16,186698757,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:12:10.975033,Nabil Bank Limited
+2026041601038057,NABIL,38,77,200,530.9,106180.0,2026-04-16,186698759,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:12:10.975217,Nabil Bank Limited
+2026041601038058,NABIL,38,1,100,530.9,53090.0,2026-04-16,186698761,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-16 14:12:10.975398,Nabil Bank Limited
+2026041601038059,NABIL,38,59,608,531.0,322848.0,2026-04-16,186698763,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:12:10.975576,Nabil Bank Limited
+2026041601038060,NABIL,38,4,44,531.0,23364.0,2026-04-16,186698766,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:12:10.975780,Nabil Bank Limited
+2026041601038101,NABIL,28,34,79,530.1,41877.9,2026-04-16,186698993,131,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:12:32.948914,Nabil Bank Limited
+2026041601038140,NABIL,28,57,1000,530.1,530100.0,2026-04-16,186699375,131,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-16 14:12:59.477574,Nabil Bank Limited
+2026041601038248,NABIL,17,4,14,531.0,7434.0,2026-04-16,186700048,131,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:13:57.574275,Nabil Bank Limited
+2026041601038257,NABIL,36,4,142,531.0,75402.0,2026-04-16,186700071,131,Secured Securities Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:14:01.162700,Nabil Bank Limited
+2026041601038258,NABIL,36,14,58,531.0,30798.0,2026-04-16,186700074,131,Secured Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:14:01.163131,Nabil Bank Limited
+2026041601038273,NABIL,75,14,50,531.0,26550.0,2026-04-16,186700158,131,N.I.M.B. Stock Markets Limited,Nepal Stock House (PVT) Ltd.,2026-04-16 14:14:12.974596,Nabil Bank Limited
+2026041601038391,NABIL,28,47,200,530.1,106020.0,2026-04-16,186700619,131,Shree Krishna Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 14:15:06.919490,Nabil Bank Limited
+2026041601038552,NABIL,28,19,779,530.1,412947.9,2026-04-16,186701232,131,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:15:55.517404,Nabil Bank Limited
+2026041601038553,NABIL,43,19,560,530.1,296856.0,2026-04-16,186701234,131,South Asian Bulls Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:15:55.517853,Nabil Bank Limited
+2026041601038554,NABIL,29,19,1500,530.1,795150.0,2026-04-16,186701236,131,Trisul Securities & Invt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:15:55.518054,Nabil Bank Limited
+2026041601038555,NABIL,1,19,61,530.1,32336.1,2026-04-16,186701237,131,Kumari Securities Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:15:55.518243,Nabil Bank Limited
+2026041601038707,NABIL,1,42,39,530.1,20673.9,2026-04-16,186701998,131,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 14:17:17.733759,Nabil Bank Limited
+2026041601038708,NABIL,28,42,11,530.1,5831.1,2026-04-16,186701999,131,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 14:17:17.734587,Nabil Bank Limited
+2026041601038774,NABIL,17,77,28,530.8,14862.4,2026-04-16,186702304,131,ABC Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-16 14:17:53.136355,Nabil Bank Limited
+2026041601038791,NABIL,28,49,100,530.1,53010.0,2026-04-16,186702373,131,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:18:02.464196,Nabil Bank Limited
+2026041601038827,NABIL,45,77,100,530.5,53050.0,2026-04-16,186702504,131,Imperial Securities Company Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:18:15.038176,Nabil Bank Limited
+2026041601038942,NABIL,28,29,500,530.1,265050.0,2026-04-16,186702963,131,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:18:57.688084,Nabil Bank Limited
+2026041601038956,NABIL,28,29,500,530.1,265050.0,2026-04-16,186703035,131,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:19:05.908999,Nabil Bank Limited
+2026041601039039,NABIL,28,35,50,530.1,26505.0,2026-04-16,186703421,131,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:19:57.268736,Nabil Bank Limited
+2026041601039051,NABIL,42,58,20,530.5,10610.0,2026-04-16,186703537,131,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:20:11.535431,Nabil Bank Limited
+2026041601039052,NABIL,42,42,100,530.5,53050.0,2026-04-16,186703539,131,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 14:20:11.535835,Nabil Bank Limited
+2026041601039053,NABIL,42,77,180,530.8,95544.0,2026-04-16,186703542,131,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:20:11.536040,Nabil Bank Limited
+2026041601039473,NABIL,28,13,250,530.1,132525.0,2026-04-16,186705465,131,Shree Krishna Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:22:56.912852,Nabil Bank Limited
+2026041601039566,NABIL,38,77,20,530.8,10616.0,2026-04-16,186705915,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:23:47.116533,Nabil Bank Limited
+2026041601039567,NABIL,38,77,100,530.8,53080.0,2026-04-16,186705918,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:23:47.117357,Nabil Bank Limited
+2026041601039599,NABIL,38,77,100,530.9,53090.0,2026-04-16,186706046,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:24:01.971731,Nabil Bank Limited
+2026041601039629,NABIL,38,49,10,531.0,5310.0,2026-04-16,186706143,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:24:12.045439,Nabil Bank Limited
+2026041601039630,NABIL,38,13,20,531.0,10620.0,2026-04-16,186706145,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:24:12.046421,Nabil Bank Limited
+2026041601039631,NABIL,38,77,200,531.0,106200.0,2026-04-16,186706147,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:24:12.047065,Nabil Bank Limited
+2026041601039632,NABIL,38,49,15,531.0,7965.0,2026-04-16,186706149,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:24:12.047676,Nabil Bank Limited
+2026041601039633,NABIL,38,28,30,531.0,15930.0,2026-04-16,186706151,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-16 14:24:12.048299,Nabil Bank Limited
+2026041601039634,NABIL,38,65,250,531.0,132750.0,2026-04-16,186706153,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sharepro Securities Private Limited,2026-04-16 14:24:12.048891,Nabil Bank Limited
+2026041601039635,NABIL,38,33,20,531.0,10620.0,2026-04-16,186706155,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:24:12.049516,Nabil Bank Limited
+2026041601039636,NABIL,38,38,100,531.0,53100.0,2026-04-16,186706158,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:24:12.050142,Nabil Bank Limited
+2026041601039679,NABIL,40,57,60,531.0,31860.0,2026-04-16,186706379,131,Creative Securities Pvt Ltd,Aryatara Investment & Securities,2026-04-16 14:24:41.814199,Nabil Bank Limited
+2026041601039680,NABIL,40,34,100,531.4,53140.0,2026-04-16,186706381,131,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-16 14:24:41.814662,Nabil Bank Limited
+2026041601039681,NABIL,40,52,40,531.4,21256.0,2026-04-16,186706384,131,Creative Securities Pvt Ltd,Sundhara Securities Limited,2026-04-16 14:24:41.814848,Nabil Bank Limited
+2026041601039709,NABIL,38,52,60,531.4,31884.0,2026-04-16,186706528,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sundhara Securities Limited,2026-04-16 14:24:52.915943,Nabil Bank Limited
+2026041601039760,NABIL,38,6,75,531.5,39862.5,2026-04-16,186706710,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:25:07.813941,Nabil Bank Limited
+2026041601040074,NABIL,58,77,20,531.4,10628.0,2026-04-16,186707951,131,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:26:43.167056,Nabil Bank Limited
+2026041601040075,NABIL,58,6,59,531.5,31358.5,2026-04-16,186707953,131,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:26:43.167446,Nabil Bank Limited
+2026041601040853,NABIL,49,42,25,531.8,13295.0,2026-04-16,186710528,131,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:28:44.107597,Nabil Bank Limited
+2026041601041198,NABIL,11,48,5,531.4,2657.0,2026-04-16,186711401,131,Malla & Malla Stock Broking Company Pvt. Limited,Trishakti Securities Public Limited,2026-04-16 14:29:20.329529,Nabil Bank Limited
+2026041601041218,NABIL,42,16,45,531.0,23895.0,2026-04-16,186711492,131,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 14:29:30.136408,Nabil Bank Limited
+2026041601041219,NABIL,58,16,5,531.0,2655.0,2026-04-16,186711493,131,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 14:29:30.136708,Nabil Bank Limited
+2026041601041413,NABIL,32,56,32,531.7,17014.4,2026-04-16,186712136,131,Premier Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:30:15.654525,Nabil Bank Limited
+2026041601041452,NABIL,58,14,40,531.0,21240.0,2026-04-16,186712312,131,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:30:28.429486,Nabil Bank Limited
+2026041601041453,NABIL,29,14,261,530.6,138486.6,2026-04-16,186712313,131,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:30:28.430109,Nabil Bank Limited
+2026041601041842,NABIL,48,56,10,531.7,5317.0,2026-04-16,186713426,131,Trishakti Securities Public Limited,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:31:09.421975,Nabil Bank Limited
+2026041601041844,NABIL,48,42,10,531.8,5318.0,2026-04-16,186713434,131,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-16 14:31:13.302426,Nabil Bank Limited
+2026041601042059,NABIL,29,63,100,530.6,53060.0,2026-04-16,186714167,131,Trisul Securities & Invt. Ltd.,Himalayan Brokerage Company Limited,2026-04-16 14:31:52.936150,Nabil Bank Limited
+2026041601042288,NABIL,6,58,50,531.0,26550.0,2026-04-16,186714991,131,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:32:38.191729,Nabil Bank Limited
+2026041601042289,NABIL,6,42,42,531.8,22335.6,2026-04-16,186714994,131,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 14:32:38.192627,Nabil Bank Limited
+2026041601042344,NABIL,56,77,12,530.8,6369.6,2026-04-16,186715241,131,Sri Hari Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 14:32:55.488436,Nabil Bank Limited
+2026041601042536,NABIL,13,58,100,530.7,53070.0,2026-04-16,186715957,131,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 14:33:46.598796,Nabil Bank Limited
+2026041601042645,NABIL,13,57,90,530.7,47763.0,2026-04-16,186716462,131,Thrive Brokerage House Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 14:34:22.585829,Nabil Bank Limited
+2026041601042646,NABIL,34,57,10,530.7,5307.0,2026-04-16,186716463,131,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 14:34:22.586238,Nabil Bank Limited
+2026041601042701,NABIL,29,54,20,531.0,10620.0,2026-04-16,186716695,131,Trisul Securities & Invt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-16 14:34:37.425337,Nabil Bank Limited
+2026041601042702,NABIL,29,42,223,531.8,118591.4,2026-04-16,186716697,131,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:34:37.426170,Nabil Bank Limited
+2026041601042703,NABIL,29,56,20,532.0,10640.0,2026-04-16,186716699,131,Trisul Securities & Invt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:34:37.426752,Nabil Bank Limited
+2026041601042704,NABIL,29,68,181,532.0,96292.0,2026-04-16,186716701,131,Trisul Securities & Invt. Ltd.,Elite Stock House Limited,2026-04-16 14:34:37.427342,Nabil Bank Limited
+2026041601042705,NABIL,29,49,150,532.0,79800.0,2026-04-16,186716703,131,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:34:37.427904,Nabil Bank Limited
+2026041601042706,NABIL,29,57,45,532.0,23940.0,2026-04-16,186716706,131,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,2026-04-16 14:34:37.428482,Nabil Bank Limited
+2026041601042912,NABIL,42,57,10,532.0,5320.0,2026-04-16,186717870,131,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 14:36:04.225596,Nabil Bank Limited
+2026041601042933,NABIL,14,57,20,532.0,10640.0,2026-04-16,186717974,131,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 14:36:15.449114,Nabil Bank Limited
+2026041601043060,NABIL,75,53,11,531.0,5841.0,2026-04-16,186718592,131,N.I.M.B. Stock Markets Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 14:36:51.281325,Nabil Bank Limited
+2026041601043274,NABIL,34,59,100,530.7,53070.0,2026-04-16,186719497,131,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:37:51.751166,Nabil Bank Limited
+2026041601043383,NABIL,58,53,150,531.0,79650.0,2026-04-16,186720146,131,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 14:38:43.368633,Nabil Bank Limited
+2026041601043395,NABIL,4,53,10,531.0,5310.0,2026-04-16,186720204,131,Opal Securities Investment (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 14:38:48.472012,Nabil Bank Limited
+2026041601043657,NABIL,16,53,29,531.0,15399.0,2026-04-16,186721731,131,Primo Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 14:40:11.459281,Nabil Bank Limited
+2026041601043716,NABIL,28,34,488,531.5,259372.0,2026-04-16,186722065,131,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:40:35.659518,Nabil Bank Limited
+2026041601043717,NABIL,28,57,340,532.0,180880.0,2026-04-16,186722067,131,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-16 14:40:35.660484,Nabil Bank Limited
+2026041601043718,NABIL,28,32,50,532.0,26600.0,2026-04-16,186722069,131,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-16 14:40:35.661152,Nabil Bank Limited
+2026041601043719,NABIL,28,35,100,532.0,53200.0,2026-04-16,186722071,131,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:40:35.661842,Nabil Bank Limited
+2026041601043720,NABIL,28,29,10,532.0,5320.0,2026-04-16,186722073,131,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:40:35.662480,Nabil Bank Limited
+2026041601043721,NABIL,28,29,60,532.0,31920.0,2026-04-16,186722075,131,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:40:35.663134,Nabil Bank Limited
+2026041601043722,NABIL,28,52,50,532.0,26600.0,2026-04-16,186722077,131,Shree Krishna Securities Ltd.,Sundhara Securities Limited,2026-04-16 14:40:35.663770,Nabil Bank Limited
+2026041601043723,NABIL,28,13,20,532.0,10640.0,2026-04-16,186722079,131,Shree Krishna Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:40:35.664421,Nabil Bank Limited
+2026041601043724,NABIL,28,22,25,532.0,13300.0,2026-04-16,186722081,131,Shree Krishna Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:40:35.665063,Nabil Bank Limited
+2026041601043725,NABIL,28,1,30,532.0,15960.0,2026-04-16,186722083,131,Shree Krishna Securities Ltd.,Kumari Securities Private Limited,2026-04-16 14:40:35.665676,Nabil Bank Limited
+2026041601043726,NABIL,28,35,10,532.0,5320.0,2026-04-16,186722085,131,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:40:35.666321,Nabil Bank Limited
+2026041601043727,NABIL,28,29,50,532.0,26600.0,2026-04-16,186722087,131,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:40:35.666941,Nabil Bank Limited
+2026041601043728,NABIL,28,42,200,532.0,106400.0,2026-04-16,186722089,131,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 14:40:35.667590,Nabil Bank Limited
+2026041601043729,NABIL,28,11,250,532.0,133000.0,2026-04-16,186722091,131,Shree Krishna Securities Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:40:35.668233,Nabil Bank Limited
+2026041601043730,NABIL,28,58,1176,532.0,625632.0,2026-04-16,186722093,131,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:40:35.668819,Nabil Bank Limited
+2026041601043731,NABIL,28,34,300,532.0,159600.0,2026-04-16,186722095,131,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:40:35.669434,Nabil Bank Limited
+2026041601043732,NABIL,28,58,38,532.0,20216.0,2026-04-16,186722097,131,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:40:35.670122,Nabil Bank Limited
+2026041601043733,NABIL,28,42,100,532.0,53200.0,2026-04-16,186722099,131,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 14:40:35.670728,Nabil Bank Limited
+2026041601043734,NABIL,28,52,100,532.0,53200.0,2026-04-16,186722101,131,Shree Krishna Securities Ltd.,Sundhara Securities Limited,2026-04-16 14:40:35.671362,Nabil Bank Limited
+2026041601043735,NABIL,28,34,192,532.0,102144.0,2026-04-16,186722104,131,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:40:35.671815,Nabil Bank Limited
+2026041601043757,NABIL,28,34,408,532.0,217056.0,2026-04-16,186722269,131,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:40:45.959350,Nabil Bank Limited
+2026041601043758,NABIL,28,34,592,532.0,314944.0,2026-04-16,186722272,131,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:40:45.960203,Nabil Bank Limited
+2026041601043759,NABIL,58,34,8,532.0,4256.0,2026-04-16,186722273,131,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:40:45.960839,Nabil Bank Limited
+2026041601043960,NABIL,16,48,10,531.0,5310.0,2026-04-16,186723237,131,Primo Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-16 14:41:42.861673,Nabil Bank Limited
+2026041601044275,NABIL,16,62,43,531.0,22833.0,2026-04-16,186724651,131,Primo Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-16 14:43:04.913163,Nabil Bank Limited
+2026041601044552,NABIL,58,49,22,532.0,11704.0,2026-04-16,186725870,131,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:44:11.643741,Nabil Bank Limited
+2026041601044744,NABIL,16,29,266,531.0,141246.0,2026-04-16,186726765,131,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:44:44.220382,Nabil Bank Limited
+2026041601044761,NABIL,57,49,20,532.0,10640.0,2026-04-16,186726834,131,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-16 14:44:49.611099,Nabil Bank Limited
+2026041601044762,NABIL,56,49,8,532.0,4256.0,2026-04-16,186726835,131,Sri Hari Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:44:49.611912,Nabil Bank Limited
+2026041601045361,NABIL,51,34,19,531.5,10098.5,2026-04-16,186730186,131,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:47:46.767707,Nabil Bank Limited
+2026041601045424,NABIL,16,14,152,531.0,80712.0,2026-04-16,186730732,131,Primo Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:48:15.893881,Nabil Bank Limited
+2026041601045425,NABIL,51,14,50,531.0,26550.0,2026-04-16,186730734,131,Oxford Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:48:15.894694,Nabil Bank Limited
+2026041601045426,NABIL,58,14,70,531.0,37170.0,2026-04-16,186730736,131,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:48:15.895322,Nabil Bank Limited
+2026041601045427,NABIL,32,14,10,531.0,5310.0,2026-04-16,186730738,131,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:48:15.895884,Nabil Bank Limited
+2026041601045428,NABIL,39,14,15,531.0,7965.0,2026-04-16,186730740,131,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:48:15.896450,Nabil Bank Limited
+2026041601045429,NABIL,38,14,25,531.0,13275.0,2026-04-16,186730742,131,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:48:15.897040,Nabil Bank Limited
+2026041601045430,NABIL,42,14,200,531.0,106200.0,2026-04-16,186730743,131,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:48:15.897625,Nabil Bank Limited
+2026041601045698,NABIL,89,43,25,531.5,13287.5,2026-04-16,186732174,131,Global IME Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:49:26.945238,Nabil Bank Limited
+2026041601045699,NABIL,66,43,25,531.0,13275.0,2026-04-16,186732175,131,Miyo Securities Pvt Ltd,South Asian Bulls Pvt. Ltd.,2026-04-16 14:49:26.946145,Nabil Bank Limited
+2026041601045937,NABIL,66,56,75,531.0,39825.0,2026-04-16,186733456,131,Miyo Securities Pvt Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:21.712843,Nabil Bank Limited
+2026041601045938,NABIL,34,56,100,531.0,53100.0,2026-04-16,186733460,131,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:21.713277,Nabil Bank Limited
+2026041601045939,NABIL,58,56,19,531.0,10089.0,2026-04-16,186733464,131,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:21.713499,Nabil Bank Limited
+2026041601045940,NABIL,58,56,12,531.0,6372.0,2026-04-16,186733466,131,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:21.713698,Nabil Bank Limited
+2026041601045994,NABIL,58,56,16,530.8,8492.8,2026-04-16,186733696,131,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:36.779056,Nabil Bank Limited
+2026041601045995,NABIL,4,56,100,530.8,53080.0,2026-04-16,186733698,131,Opal Securities Investment (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:36.780119,Nabil Bank Limited
+2026041601046011,NABIL,42,56,65,530.8,34502.0,2026-04-16,186733834,131,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:42.574573,Nabil Bank Limited
+2026041601046072,NABIL,77,56,10,530.8,5308.0,2026-04-16,186734068,131,Nabil Stock Dealer Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:50:55.063534,Nabil Bank Limited
+2026041601046123,NABIL,34,26,110,530.7,58377.0,2026-04-16,186734389,131,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,2026-04-16 14:51:09.991162,Nabil Bank Limited
+2026041601046130,NABIL,34,56,653,530.7,346547.1,2026-04-16,186734449,131,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:51:13.484638,Nabil Bank Limited
+2026041601046318,NABIL,34,34,100,530.7,53070.0,2026-04-16,186735395,131,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-16 14:52:00.993865,Nabil Bank Limited
+2026041601046338,NABIL,34,62,10,530.7,5307.0,2026-04-16,186735521,131,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-16 14:52:04.901482,Nabil Bank Limited
+2026041601046340,NABIL,4,54,50,530.8,26540.0,2026-04-16,186735529,131,Opal Securities Investment (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-16 14:52:05.374387,Nabil Bank Limited
+2026041601046350,NABIL,42,13,30,531.0,15930.0,2026-04-16,186735568,131,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:52:08.828776,Nabil Bank Limited
+2026041601046583,NABIL,65,13,13,531.0,6903.0,2026-04-16,186736602,131,Sharepro Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:52:53.058945,Nabil Bank Limited
+2026041601046948,NABIL,58,13,63,531.0,33453.0,2026-04-16,186737901,131,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:53:36.367158,Nabil Bank Limited
+2026041601046949,NABIL,58,57,60,531.0,31860.0,2026-04-16,186737905,131,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 14:53:36.367592,Nabil Bank Limited
+2026041601047532,NABIL,58,42,57,531.0,30267.0,2026-04-16,186740096,131,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:54:42.610482,Nabil Bank Limited
+2026041601047533,NABIL,4,42,743,530.8,394384.4,2026-04-16,186740097,131,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 14:54:42.610939,Nabil Bank Limited
+2026041601047663,NABIL,49,8,20,531.0,10620.0,2026-04-16,186740828,131,Online Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 14:55:09.588067,Nabil Bank Limited
+2026041601047664,NABIL,42,8,80,531.0,42480.0,2026-04-16,186740829,131,Sani Securities Company Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 14:55:09.588865,Nabil Bank Limited
+2026041601047673,NABIL,42,36,10,531.0,5310.0,2026-04-16,186740910,131,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-16 14:55:14.487292,Nabil Bank Limited
+2026041601047704,NABIL,4,42,207,530.8,109875.6,2026-04-16,186741048,131,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 14:55:20.024796,Nabil Bank Limited
+2026041601047705,NABIL,34,42,13,530.7,6899.1,2026-04-16,186741049,131,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-16 14:55:20.025662,Nabil Bank Limited
+2026041601047773,NABIL,28,36,100,531.0,53100.0,2026-04-16,186741425,131,Shree Krishna Securities Ltd.,Secured Securities Ltd.,2026-04-16 14:55:34.973953,Nabil Bank Limited
+2026041601047967,NABIL,58,34,4,531.5,2126.0,2026-04-16,186742593,131,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:56:20.047968,Nabil Bank Limited
+2026041601048030,NABIL,28,36,166,531.0,88146.0,2026-04-16,186742953,131,Shree Krishna Securities Ltd.,Secured Securities Ltd.,2026-04-16 14:56:32.729734,Nabil Bank Limited
+2026041601048087,NABIL,28,39,100,531.0,53100.0,2026-04-16,186743277,131,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 14:56:44.510840,Nabil Bank Limited
+2026041601048129,NABIL,28,4,11,531.0,5841.0,2026-04-16,186743535,131,Shree Krishna Securities Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-16 14:56:52.382015,Nabil Bank Limited
+2026041601048141,NABIL,45,8,18,531.4,9565.2,2026-04-16,186743620,131,Imperial Securities Company Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 14:56:56.388982,Nabil Bank Limited
+2026041601048319,NABIL,11,3,90,531.1,47799.0,2026-04-16,186744672,131,Malla & Malla Stock Broking Company Pvt. Limited,Arun Securities (PVT) Ltd.,2026-04-16 14:57:23.423654,Nabil Bank Limited
+2026041601048320,NABIL,28,3,230,531.0,122130.0,2026-04-16,186744673,131,Shree Krishna Securities Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 14:57:23.424048,Nabil Bank Limited
+2026041601048414,NABIL,28,58,20,531.0,10620.0,2026-04-16,186745263,131,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:57:41.613505,Nabil Bank Limited
+2026041601048472,NABIL,28,14,30,531.0,15930.0,2026-04-16,186745639,131,Shree Krishna Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:57:53.518923,Nabil Bank Limited
+2026041601048642,NABIL,28,45,200,531.0,106200.0,2026-04-16,186746765,131,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:58:17.256281,Nabil Bank Limited
+2026041601048821,NABIL,28,22,1000,531.0,531000.0,2026-04-16,186747719,131,Shree Krishna Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:58:34.077800,Nabil Bank Limited
+2026041601049086,NABIL,28,38,61,531.0,32391.0,2026-04-16,186749423,131,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:59:06.501433,Nabil Bank Limited
+2026041601049185,NABIL,28,22,2000,531.0,1062000.0,2026-04-16,186750051,131,Shree Krishna Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:59:18.952668,Nabil Bank Limited
+2026041601049227,NABIL,28,56,100,531.0,53100.0,2026-04-16,186750399,131,Shree Krishna Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:59:22.721583,Nabil Bank Limited
+2026041601049424,NABIL,28,51,80,531.0,42480.0,2026-04-16,186751363,131,Shree Krishna Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:59:34.815647,Nabil Bank Limited
+2026041601049852,NABIL,28,14,250,531.0,132750.0,2026-04-16,186753325,131,Shree Krishna Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 14:59:52.510792,Nabil Bank Limited

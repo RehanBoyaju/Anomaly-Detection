@@ -1,0 +1,601 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026041603000039,JBBL,43,71,510,379.0,193290.0,2026-04-16,186533511,418,South Asian Bulls Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-16 11:02:21.596430,Jyoti Bikas Bank Limited
+2026041603000054,JBBL,43,39,100,379.0,37900.0,2026-04-16,186534419,418,South Asian Bulls Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:03:16.234306,Jyoti Bikas Bank Limited
+2026041603000065,JBBL,43,94,199,379.0,75421.0,2026-04-16,186534845,418,South Asian Bulls Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-16 11:03:38.203313,Jyoti Bikas Bank Limited
+2026041603000085,JBBL,68,39,150,383.0,57450.0,2026-04-16,186535795,418,Elite Stock House Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:04:37.849678,Jyoti Bikas Bank Limited
+2026041603000086,JBBL,68,74,500,383.9,191950.0,2026-04-16,186535797,418,Elite Stock House Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-16 11:04:37.849743,Jyoti Bikas Bank Limited
+2026041603000087,JBBL,68,35,50,383.9,19195.0,2026-04-16,186535799,418,Elite Stock House Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 11:04:37.849793,Jyoti Bikas Bank Limited
+2026041603000088,JBBL,68,101,300,384.0,115200.0,2026-04-16,186535802,418,Elite Stock House Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-16 11:04:37.849821,Jyoti Bikas Bank Limited
+2026041603000149,JBBL,56,59,400,381.9,152760.0,2026-04-16,186539259,418,Sri Hari Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 11:07:44.823663,Jyoti Bikas Bank Limited
+2026041603000150,JBBL,56,58,15,382.0,5730.0,2026-04-16,186539261,418,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:07:44.823837,Jyoti Bikas Bank Limited
+2026041603000151,JBBL,56,72,785,382.0,299870.0,2026-04-16,186539264,418,Sri Hari Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-16 11:07:44.823947,Jyoti Bikas Bank Limited
+2026041603000162,JBBL,56,72,1000,381.8,381800.0,2026-04-16,186539692,418,Sri Hari Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-16 11:08:04.130485,Jyoti Bikas Bank Limited
+2026041603000167,JBBL,43,13,30,379.0,11370.0,2026-04-16,186540049,418,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:08:24.548389,Jyoti Bikas Bank Limited
+2026041603000175,JBBL,56,38,640,381.0,243840.0,2026-04-16,186540460,418,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:08:48.419104,Jyoti Bikas Bank Limited
+2026041603000179,JBBL,56,34,150,380.0,57000.0,2026-04-16,186540680,418,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:09:00.911129,Jyoti Bikas Bank Limited
+2026041603000206,JBBL,43,46,115,379.0,43585.0,2026-04-16,186542579,418,South Asian Bulls Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 11:10:13.245722,Jyoti Bikas Bank Limited
+2026041603000213,JBBL,43,39,46,379.0,17434.0,2026-04-16,186543226,418,South Asian Bulls Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:10:41.221330,Jyoti Bikas Bank Limited
+2026041603000214,JBBL,40,39,40,379.0,15160.0,2026-04-16,186543228,418,Creative Securities Pvt Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 11:10:41.221416,Jyoti Bikas Bank Limited
+2026041603000215,JBBL,42,39,10,378.0,3780.0,2026-04-16,186543230,418,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:10:41.221458,Jyoti Bikas Bank Limited
+2026041603000216,JBBL,98,39,1000,377.2,377200.0,2026-04-16,186543232,418,Trademow Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:10:41.221514,Jyoti Bikas Bank Limited
+2026041603000217,JBBL,98,39,490,377.2,184828.0,2026-04-16,186543234,418,Trademow Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:10:41.221553,Jyoti Bikas Bank Limited
+2026041603000218,JBBL,58,39,100,377.0,37700.0,2026-04-16,186543236,418,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:10:41.221606,Jyoti Bikas Bank Limited
+2026041603000219,JBBL,58,39,1314,377.0,495378.0,2026-04-16,186543237,418,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:10:41.221643,Jyoti Bikas Bank Limited
+2026041603000228,JBBL,58,32,4000,377.0,1508000.0,2026-04-16,186543717,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:11:02.203874,Jyoti Bikas Bank Limited
+2026041603000239,JBBL,58,97,9000,377.0,3393000.0,2026-04-16,186544763,418,Naasa Securities Co. Ltd.,R.B.B. Securities Company Ltd,2026-04-16 11:11:51.089317,Jyoti Bikas Bank Limited
+2026041603000245,JBBL,58,6,2000,377.0,754000.0,2026-04-16,186545197,418,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:12:11.879758,Jyoti Bikas Bank Limited
+2026041603000265,JBBL,58,68,300,377.0,113100.0,2026-04-16,186546425,418,Naasa Securities Co. Ltd.,Elite Stock House Limited,2026-04-16 11:13:06.067926,Jyoti Bikas Bank Limited
+2026041603000353,JBBL,16,57,22,377.2,8298.4,2026-04-16,186549196,418,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 11:15:34.311863,Jyoti Bikas Bank Limited
+2026041603000354,JBBL,16,57,22,377.1,8296.2,2026-04-16,186549198,418,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 11:15:34.311983,Jyoti Bikas Bank Limited
+2026041603000355,JBBL,49,57,156,377.1,58827.6,2026-04-16,186549199,418,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 11:15:34.312045,Jyoti Bikas Bank Limited
+2026041603000438,JBBL,16,49,48,380.0,18240.0,2026-04-16,186552781,418,Primo Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:19:00.332964,Jyoti Bikas Bank Limited
+2026041603000439,JBBL,16,58,50,381.0,19050.0,2026-04-16,186552873,418,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:19:09.065593,Jyoti Bikas Bank Limited
+2026041603000440,JBBL,16,34,100,381.0,38100.0,2026-04-16,186552875,418,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:19:09.065734,Jyoti Bikas Bank Limited
+2026041603000465,JBBL,16,41,200,381.5,76300.0,2026-04-16,186553733,418,Primo Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-16 11:20:03.917390,Jyoti Bikas Bank Limited
+2026041603000466,JBBL,16,32,120,381.8,45816.0,2026-04-16,186553735,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:20:03.917509,Jyoti Bikas Bank Limited
+2026041603000467,JBBL,16,38,100,381.9,38190.0,2026-04-16,186553737,418,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:20:03.917567,Jyoti Bikas Bank Limited
+2026041603000468,JBBL,16,72,65,382.0,24830.0,2026-04-16,186553739,418,Primo Securities (PVT) Ltd.,Hatemalo Financial Services Private Limited,2026-04-16 11:20:03.917670,Jyoti Bikas Bank Limited
+2026041603000469,JBBL,16,50,15,382.0,5730.0,2026-04-16,186553742,418,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 11:20:03.917723,Jyoti Bikas Bank Limited
+2026041603000478,JBBL,16,50,485,382.0,185270.0,2026-04-16,186553839,418,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 11:20:11.231441,Jyoti Bikas Bank Limited
+2026041603000482,JBBL,16,38,15,382.0,5730.0,2026-04-16,186553894,418,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:20:14.574059,Jyoti Bikas Bank Limited
+2026041603000490,JBBL,38,38,956,381.7,364905.2,2026-04-16,186554102,418,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:20:33.819411,Jyoti Bikas Bank Limited
+2026041603000491,JBBL,69,38,1000,381.7,381700.0,2026-04-16,186554128,418,INDEX SECURITIES LIMITED,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:20:35.441682,Jyoti Bikas Bank Limited
+2026041603000494,JBBL,32,38,29,381.7,11069.3,2026-04-16,186554263,418,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:20:47.004490,Jyoti Bikas Bank Limited
+2026041603000502,JBBL,32,57,171,381.7,65270.7,2026-04-16,186554458,418,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 11:20:59.239379,Jyoti Bikas Bank Limited
+2026041603000509,JBBL,50,52,155,380.4,58962.0,2026-04-16,186554920,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Sundhara Securities Limited,2026-04-16 11:21:27.784012,Jyoti Bikas Bank Limited
+2026041603000510,JBBL,69,52,365,380.4,138846.0,2026-04-16,186554921,418,INDEX SECURITIES LIMITED,Sundhara Securities Limited,2026-04-16 11:21:27.784186,Jyoti Bikas Bank Limited
+2026041603000546,JBBL,46,53,1500,381.0,571500.0,2026-04-16,186556141,418,Kalika Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-16 11:22:43.246394,Jyoti Bikas Bank Limited
+2026041603000547,JBBL,46,38,500,381.0,190500.0,2026-04-16,186556144,418,Kalika Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:22:43.246650,Jyoti Bikas Bank Limited
+2026041603000567,JBBL,69,38,610,381.0,232410.0,2026-04-16,186556716,418,INDEX SECURITIES LIMITED,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:23:26.644350,Jyoti Bikas Bank Limited
+2026041603000572,JBBL,84,38,1000,381.0,381000.0,2026-04-16,186556830,418,MILKY WAY SHARE BROKER COMPANY LTD ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:23:33.728842,Jyoti Bikas Bank Limited
+2026041603000588,JBBL,16,38,190,381.0,72390.0,2026-04-16,186557078,418,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:23:49.662115,Jyoti Bikas Bank Limited
+2026041603000593,JBBL,16,33,57,380.7,21699.9,2026-04-16,186557938,418,Primo Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:24:36.178808,Jyoti Bikas Bank Limited
+2026041603000594,JBBL,16,33,10,380.7,3807.0,2026-04-16,186557940,418,Primo Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:24:36.179100,Jyoti Bikas Bank Limited
+2026041603000595,JBBL,46,33,2933,380.6,1116299.8,2026-04-16,186557941,418,Kalika Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:24:36.179291,Jyoti Bikas Bank Limited
+2026041603000605,JBBL,46,32,67,380.6,25500.2,2026-04-16,186558706,418,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:25:14.230745,Jyoti Bikas Bank Limited
+2026041603000606,JBBL,16,32,11,380.6,4186.6,2026-04-16,186558709,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:25:14.230924,Jyoti Bikas Bank Limited
+2026041603000607,JBBL,63,32,50,380.5,19025.0,2026-04-16,186558713,418,Himalayan Brokerage Company Limited,Premier Securities Company Ltd.,2026-04-16 11:25:14.230988,Jyoti Bikas Bank Limited
+2026041603000608,JBBL,50,32,155,380.5,58977.5,2026-04-16,186558717,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:25:14.231060,Jyoti Bikas Bank Limited
+2026041603000609,JBBL,69,32,517,380.4,196666.8,2026-04-16,186558719,418,INDEX SECURITIES LIMITED,Premier Securities Company Ltd.,2026-04-16 11:25:14.231119,Jyoti Bikas Bank Limited
+2026041603000624,JBBL,69,26,36,380.4,13694.4,2026-04-16,186559205,418,INDEX SECURITIES LIMITED,Asian Securities Private Ltd.,2026-04-16 11:25:49.076217,Jyoti Bikas Bank Limited
+2026041603000627,JBBL,6,58,400,381.5,152600.0,2026-04-16,186559657,418,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:26:16.632264,Jyoti Bikas Bank Limited
+2026041603000628,JBBL,6,52,50,381.5,19075.0,2026-04-16,186559659,418,Agrawal Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-16 11:26:16.632512,Jyoti Bikas Bank Limited
+2026041603000629,JBBL,6,57,29,381.7,11069.3,2026-04-16,186559661,418,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 11:26:16.632596,Jyoti Bikas Bank Limited
+2026041603000630,JBBL,6,49,21,382.0,8022.0,2026-04-16,186559664,418,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:26:16.632658,Jyoti Bikas Bank Limited
+2026041603000656,JBBL,69,49,82,382.0,31324.0,2026-04-16,186560302,418,INDEX SECURITIES LIMITED,Online Securities Pvt. Ltd.,2026-04-16 11:26:57.689688,Jyoti Bikas Bank Limited
+2026041603000734,JBBL,50,6,155,380.4,58962.0,2026-04-16,186562020,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:28:59.259725,Jyoti Bikas Bank Limited
+2026041603000735,JBBL,16,6,100,380.3,38030.0,2026-04-16,186562022,418,Primo Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:28:59.259768,Jyoti Bikas Bank Limited
+2026041603000736,JBBL,17,6,200,380.3,76060.0,2026-04-16,186562024,418,ABC Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-16 11:28:59.259790,Jyoti Bikas Bank Limited
+2026041603000737,JBBL,16,6,45,380.2,17109.0,2026-04-16,186562025,418,Primo Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:28:59.259810,Jyoti Bikas Bank Limited
+2026041603000749,JBBL,16,58,39,380.2,14827.8,2026-04-16,186562317,418,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:29:14.946256,Jyoti Bikas Bank Limited
+2026041603000754,JBBL,16,28,13,380.2,4942.6,2026-04-16,186562431,418,Primo Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-16 11:29:22.056367,Jyoti Bikas Bank Limited
+2026041603000803,JBBL,4,32,46,379.5,17457.0,2026-04-16,186563946,418,Opal Securities Investment (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:30:49.859415,Jyoti Bikas Bank Limited
+2026041603000804,JBBL,16,32,100,379.2,37920.0,2026-04-16,186563948,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:30:49.859598,Jyoti Bikas Bank Limited
+2026041603000805,JBBL,16,32,100,379.1,37910.0,2026-04-16,186563950,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:30:49.859666,Jyoti Bikas Bank Limited
+2026041603000806,JBBL,16,32,100,378.3,37830.0,2026-04-16,186563952,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:30:49.859731,Jyoti Bikas Bank Limited
+2026041603000807,JBBL,50,32,255,378.2,96441.0,2026-04-16,186563954,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:30:49.859792,Jyoti Bikas Bank Limited
+2026041603000808,JBBL,56,32,300,378.1,113430.0,2026-04-16,186563956,418,Sri Hari Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:30:49.859852,Jyoti Bikas Bank Limited
+2026041603000903,JBBL,16,32,50,377.6,18880.0,2026-04-16,186567156,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.110779,Jyoti Bikas Bank Limited
+2026041603000904,JBBL,16,32,50,377.5,18875.0,2026-04-16,186567158,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.110932,Jyoti Bikas Bank Limited
+2026041603000905,JBBL,16,32,50,377.4,18870.0,2026-04-16,186567160,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.110998,Jyoti Bikas Bank Limited
+2026041603000906,JBBL,16,32,50,377.3,18865.0,2026-04-16,186567162,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111068,Jyoti Bikas Bank Limited
+2026041603000907,JBBL,50,32,255,377.3,96211.5,2026-04-16,186567164,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111131,Jyoti Bikas Bank Limited
+2026041603000908,JBBL,16,32,50,377.2,18860.0,2026-04-16,186567166,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111194,Jyoti Bikas Bank Limited
+2026041603000909,JBBL,58,32,300,377.2,113160.0,2026-04-16,186567168,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111259,Jyoti Bikas Bank Limited
+2026041603000910,JBBL,49,32,144,377.1,54302.4,2026-04-16,186567170,418,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111326,Jyoti Bikas Bank Limited
+2026041603000911,JBBL,16,32,22,377.1,8296.2,2026-04-16,186567172,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111390,Jyoti Bikas Bank Limited
+2026041603000912,JBBL,16,32,50,377.1,18855.0,2026-04-16,186567174,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111451,Jyoti Bikas Bank Limited
+2026041603000913,JBBL,98,32,500,377.1,188550.0,2026-04-16,186567176,418,Trademow Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 11:33:25.111510,Jyoti Bikas Bank Limited
+2026041603000914,JBBL,16,32,50,377.1,18855.0,2026-04-16,186567178,418,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111569,Jyoti Bikas Bank Limited
+2026041603000915,JBBL,40,32,50,377.1,18855.0,2026-04-16,186567180,418,Creative Securities Pvt Ltd,Premier Securities Company Ltd.,2026-04-16 11:33:25.111627,Jyoti Bikas Bank Limited
+2026041603000916,JBBL,58,32,1379,377.0,519883.0,2026-04-16,186567181,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:33:25.111687,Jyoti Bikas Bank Limited
+2026041603000932,JBBL,58,59,1200,377.0,452400.0,2026-04-16,186567881,418,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 11:33:53.425450,Jyoti Bikas Bank Limited
+2026041603000938,JBBL,58,32,500,377.0,188500.0,2026-04-16,186568215,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:34:06.301759,Jyoti Bikas Bank Limited
+2026041603000945,JBBL,58,32,500,377.0,188500.0,2026-04-16,186568455,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:34:23.880596,Jyoti Bikas Bank Limited
+2026041603000996,JBBL,46,58,194,379.8,73681.2,2026-04-16,186570413,418,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:36:15.139360,Jyoti Bikas Bank Limited
+2026041603000997,JBBL,46,34,1008,379.8,382838.4,2026-04-16,186570415,418,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:36:15.139667,Jyoti Bikas Bank Limited
+2026041603000998,JBBL,46,45,50,379.8,18990.0,2026-04-16,186570417,418,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:36:15.139857,Jyoti Bikas Bank Limited
+2026041603000999,JBBL,46,16,1000,379.9,379900.0,2026-04-16,186570419,418,Kalika Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 11:36:15.140057,Jyoti Bikas Bank Limited
+2026041603001000,JBBL,46,50,500,379.9,189950.0,2026-04-16,186570421,418,Kalika Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 11:36:15.140314,Jyoti Bikas Bank Limited
+2026041603001001,JBBL,46,86,248,380.0,94240.0,2026-04-16,186570424,418,Kalika Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-16 11:36:15.140558,Jyoti Bikas Bank Limited
+2026041603001041,JBBL,58,39,10000,379.0,3790000.0,2026-04-16,186572216,418,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:04.039749,Jyoti Bikas Bank Limited
+2026041603001042,JBBL,58,39,10000,378.0,3780000.0,2026-04-16,186572217,418,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 11:38:04.039798,Jyoti Bikas Bank Limited
+2026041603001087,JBBL,17,32,50,378.0,18900.0,2026-04-16,186573220,418,ABC Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 11:39:07.962973,Jyoti Bikas Bank Limited
+2026041603001088,JBBL,58,32,450,378.0,170100.0,2026-04-16,186573221,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:39:07.963197,Jyoti Bikas Bank Limited
+2026041603001102,JBBL,58,88,100,378.0,37800.0,2026-04-16,186573597,418,Naasa Securities Co. Ltd.,Blue Chip Securities Ltd,2026-04-16 11:39:31.199145,Jyoti Bikas Bank Limited
+2026041603001106,JBBL,58,32,1000,378.0,378000.0,2026-04-16,186573739,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:39:43.089261,Jyoti Bikas Bank Limited
+2026041603001123,JBBL,58,32,500,378.0,189000.0,2026-04-16,186574213,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:40:07.422808,Jyoti Bikas Bank Limited
+2026041603001133,JBBL,58,32,1000,378.0,378000.0,2026-04-16,186574463,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:40:23.185777,Jyoti Bikas Bank Limited
+2026041603001165,JBBL,58,32,1000,378.0,378000.0,2026-04-16,186574935,418,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:40:50.080101,Jyoti Bikas Bank Limited
+2026041603001188,JBBL,58,65,717,378.0,271026.0,2026-04-16,186575713,418,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-16 11:41:21.663189,Jyoti Bikas Bank Limited
+2026041603001260,JBBL,75,86,1752,378.1,662431.2,2026-04-16,186576909,418,N.I.M.B. Stock Markets Limited,Stoxkarts Securities Limited,2026-04-16 11:42:26.409265,Jyoti Bikas Bank Limited
+2026041603001356,JBBL,38,32,1000,378.3,378300.0,2026-04-16,186578953,418,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-16 11:44:19.221092,Jyoti Bikas Bank Limited
+2026041603001412,JBBL,94,74,100,378.3,37830.0,2026-04-16,186580679,418,K.B.L. Securities Limited ,KALASH STOCK MARKET PVT. LTD.,2026-04-16 11:46:18.801463,Jyoti Bikas Bank Limited
+2026041603001420,JBBL,50,74,100,378.4,37840.0,2026-04-16,186581141,418,Cristal Kanchanjanga Securites Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 11:46:41.704653,Jyoti Bikas Bank Limited
+2026041603001458,JBBL,56,20,100,378.5,37850.0,2026-04-16,186582250,418,Sri Hari Securities Pvt. Ltd.,Sipla Securities Private Limited,2026-04-16 11:47:52.979979,Jyoti Bikas Bank Limited
+2026041603001459,JBBL,94,20,400,378.5,151400.0,2026-04-16,186582267,418,K.B.L. Securities Limited ,Sipla Securities Private Limited,2026-04-16 11:47:54.789512,Jyoti Bikas Bank Limited
+2026041603001460,JBBL,94,49,380,378.9,143982.0,2026-04-16,186582269,418,K.B.L. Securities Limited ,Online Securities Pvt. Ltd.,2026-04-16 11:47:54.789715,Jyoti Bikas Bank Limited
+2026041603001461,JBBL,94,39,50,379.0,18950.0,2026-04-16,186582271,418,K.B.L. Securities Limited ,Sumeru Securities Pvt. Ltd.,2026-04-16 11:47:54.790014,Jyoti Bikas Bank Limited
+2026041603001462,JBBL,94,49,70,379.0,26530.0,2026-04-16,186582274,418,K.B.L. Securities Limited ,Online Securities Pvt. Ltd.,2026-04-16 11:47:54.790293,Jyoti Bikas Bank Limited
+2026041603001494,JBBL,46,49,430,379.0,162970.0,2026-04-16,186583029,418,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:48:56.726858,Jyoti Bikas Bank Limited
+2026041603001495,JBBL,46,49,550,379.0,208450.0,2026-04-16,186583031,418,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:48:56.727031,Jyoti Bikas Bank Limited
+2026041603001496,JBBL,46,58,200,379.0,75800.0,2026-04-16,186583033,418,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:48:56.727105,Jyoti Bikas Bank Limited
+2026041603001507,JBBL,32,74,320,379.9,121568.0,2026-04-16,186583213,418,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 11:49:10.696516,Jyoti Bikas Bank Limited
+2026041603001508,JBBL,32,42,150,379.9,56985.0,2026-04-16,186583215,418,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 11:49:10.696678,Jyoti Bikas Bank Limited
+2026041603001509,JBBL,32,38,500,380.0,190000.0,2026-04-16,186583217,418,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:49:10.696752,Jyoti Bikas Bank Limited
+2026041603001510,JBBL,32,14,30,380.0,11400.0,2026-04-16,186583220,418,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:49:10.696819,Jyoti Bikas Bank Limited
+2026041603001514,JBBL,32,14,70,380.0,26600.0,2026-04-16,186583397,418,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:49:23.918835,Jyoti Bikas Bank Limited
+2026041603001515,JBBL,32,49,40,380.0,15200.0,2026-04-16,186583399,418,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:49:23.919039,Jyoti Bikas Bank Limited
+2026041603001516,JBBL,32,40,890,380.4,338556.0,2026-04-16,186583402,418,Premier Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-16 11:49:23.919121,Jyoti Bikas Bank Limited
+2026041603001531,JBBL,75,40,514,380.4,195525.6,2026-04-16,186583656,418,N.I.M.B. Stock Markets Limited,Creative Securities Pvt Ltd,2026-04-16 11:49:43.223822,Jyoti Bikas Bank Limited
+2026041603001535,JBBL,32,14,22,380.4,8368.8,2026-04-16,186583753,418,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-16 11:49:51.652013,Jyoti Bikas Bank Limited
+2026041603001566,JBBL,32,5,57,381.0,21717.0,2026-04-16,186584601,418,Premier Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 11:50:55.279205,Jyoti Bikas Bank Limited
+2026041603001567,JBBL,32,6,100,381.0,38100.0,2026-04-16,186584603,418,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:50:55.279531,Jyoti Bikas Bank Limited
+2026041603001568,JBBL,32,34,100,381.0,38100.0,2026-04-16,186584605,418,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:50:55.279736,Jyoti Bikas Bank Limited
+2026041603001569,JBBL,32,6,114,381.0,43434.0,2026-04-16,186584607,418,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:50:55.279937,Jyoti Bikas Bank Limited
+2026041603001573,JBBL,75,45,160,382.0,61120.0,2026-04-16,186584765,418,N.I.M.B. Stock Markets Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:51:07.028437,Jyoti Bikas Bank Limited
+2026041603001574,JBBL,75,57,30,382.0,11460.0,2026-04-16,186584767,418,N.I.M.B. Stock Markets Limited,Aryatara Investment & Securities,2026-04-16 11:51:07.028743,Jyoti Bikas Bank Limited
+2026041603001575,JBBL,75,101,700,382.0,267400.0,2026-04-16,186584769,418,N.I.M.B. Stock Markets Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-16 11:51:07.028945,Jyoti Bikas Bank Limited
+2026041603001576,JBBL,75,44,55,382.0,21010.0,2026-04-16,186584771,418,N.I.M.B. Stock Markets Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 11:51:07.029161,Jyoti Bikas Bank Limited
+2026041603001577,JBBL,75,39,90,382.0,34380.0,2026-04-16,186584773,418,N.I.M.B. Stock Markets Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 11:51:07.029365,Jyoti Bikas Bank Limited
+2026041603001578,JBBL,75,91,165,382.0,63030.0,2026-04-16,186584775,418,N.I.M.B. Stock Markets Limited,Citizens Share Broker Limited,2026-04-16 11:51:07.029559,Jyoti Bikas Bank Limited
+2026041603001579,JBBL,75,45,100,382.0,38200.0,2026-04-16,186584778,418,N.I.M.B. Stock Markets Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:51:07.029750,Jyoti Bikas Bank Limited
+2026041603001582,JBBL,38,34,500,382.3,191150.0,2026-04-16,186585096,418,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:51:16.231474,Jyoti Bikas Bank Limited
+2026041603001597,JBBL,11,17,50,382.9,19145.0,2026-04-16,186585582,418,Malla & Malla Stock Broking Company Pvt. Limited,ABC Securities Private Limited,2026-04-16 11:51:45.643903,Jyoti Bikas Bank Limited
+2026041603001610,JBBL,32,34,150,383.0,57450.0,2026-04-16,186586181,418,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:52:13.379586,Jyoti Bikas Bank Limited
+2026041603001611,JBBL,32,6,100,383.0,38300.0,2026-04-16,186586183,418,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:52:13.379743,Jyoti Bikas Bank Limited
+2026041603001622,JBBL,32,33,250,383.0,95750.0,2026-04-16,186586348,418,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:52:26.535086,Jyoti Bikas Bank Limited
+2026041603001623,JBBL,46,33,250,383.0,95750.0,2026-04-16,186586375,418,Kalika Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:52:29.144594,Jyoti Bikas Bank Limited
+2026041603001624,JBBL,46,32,30,383.7,11511.0,2026-04-16,186586377,418,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 11:52:29.144918,Jyoti Bikas Bank Limited
+2026041603001625,JBBL,46,17,60,383.7,23022.0,2026-04-16,186586379,418,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 11:52:29.145136,Jyoti Bikas Bank Limited
+2026041603001626,JBBL,46,33,1000,383.7,383700.0,2026-04-16,186586381,418,Kalika Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:52:29.145345,Jyoti Bikas Bank Limited
+2026041603001627,JBBL,46,34,500,383.9,191950.0,2026-04-16,186586383,418,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:52:29.145542,Jyoti Bikas Bank Limited
+2026041603001628,JBBL,46,36,21,384.0,8064.0,2026-04-16,186586385,418,Kalika Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-16 11:52:29.145736,Jyoti Bikas Bank Limited
+2026041603001629,JBBL,46,38,700,384.0,268800.0,2026-04-16,186586387,418,Kalika Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:52:29.145942,Jyoti Bikas Bank Limited
+2026041603001630,JBBL,46,48,250,384.0,96000.0,2026-04-16,186586389,418,Kalika Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-16 11:52:29.146136,Jyoti Bikas Bank Limited
+2026041603001631,JBBL,46,1,200,384.0,76800.0,2026-04-16,186586391,418,Kalika Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:52:29.146304,Jyoti Bikas Bank Limited
+2026041603001632,JBBL,46,45,50,384.0,19200.0,2026-04-16,186586393,418,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:52:29.146484,Jyoti Bikas Bank Limited
+2026041603001633,JBBL,46,1,1939,384.0,744576.0,2026-04-16,186586396,418,Kalika Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-16 11:52:29.146659,Jyoti Bikas Bank Limited
+2026041603001640,JBBL,38,1,61,384.0,23424.0,2026-04-16,186586915,418,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-16 11:52:55.560165,Jyoti Bikas Bank Limited
+2026041603001641,JBBL,38,6,439,384.0,168576.0,2026-04-16,186586918,418,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:52:55.560205,Jyoti Bikas Bank Limited
+2026041603001649,JBBL,16,6,161,384.0,61824.0,2026-04-16,186587035,418,Primo Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:53:02.238504,Jyoti Bikas Bank Limited
+2026041603001650,JBBL,16,45,300,384.0,115200.0,2026-04-16,186587037,418,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:53:02.238801,Jyoti Bikas Bank Limited
+2026041603001651,JBBL,16,57,267,384.0,102528.0,2026-04-16,186587039,418,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 11:53:02.238994,Jyoti Bikas Bank Limited
+2026041603001652,JBBL,16,58,30,384.0,11520.0,2026-04-16,186587041,418,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:53:02.239206,Jyoti Bikas Bank Limited
+2026041603001653,JBBL,16,46,30,384.5,11535.0,2026-04-16,186587043,418,Primo Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 11:53:02.239382,Jyoti Bikas Bank Limited
+2026041603001654,JBBL,16,17,212,384.5,81514.0,2026-04-16,186587046,418,Primo Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-16 11:53:02.239565,Jyoti Bikas Bank Limited
+2026041603001674,JBBL,32,77,20,383.0,7660.0,2026-04-16,186587623,418,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 11:53:40.801132,Jyoti Bikas Bank Limited
+2026041603001686,JBBL,46,17,200,384.5,76900.0,2026-04-16,186587880,418,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 11:54:00.640804,Jyoti Bikas Bank Limited
+2026041603001691,JBBL,37,17,88,384.5,33836.0,2026-04-16,186587941,418,Swarna Laxmi Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 11:54:05.766075,Jyoti Bikas Bank Limited
+2026041603001692,JBBL,37,34,100,384.6,38460.0,2026-04-16,186587943,418,Swarna Laxmi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 11:54:05.766120,Jyoti Bikas Bank Limited
+2026041603001693,JBBL,37,33,852,384.9,327934.8,2026-04-16,186587946,418,Swarna Laxmi Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 11:54:05.766149,Jyoti Bikas Bank Limited
+2026041603001702,JBBL,32,68,87,383.0,33321.0,2026-04-16,186588204,418,Premier Securities Company Ltd.,Elite Stock House Limited,2026-04-16 11:54:20.641556,Jyoti Bikas Bank Limited
+2026041603001703,JBBL,32,68,113,383.0,43279.0,2026-04-16,186588205,418,Premier Securities Company Ltd.,Elite Stock House Limited,2026-04-16 11:54:20.641726,Jyoti Bikas Bank Limited
+2026041603001726,JBBL,32,57,387,383.0,148221.0,2026-04-16,186588618,418,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 11:54:49.279353,Jyoti Bikas Bank Limited
+2026041603001732,JBBL,32,57,113,383.0,43279.0,2026-04-16,186588735,418,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 11:54:56.222495,Jyoti Bikas Bank Limited
+2026041603001733,JBBL,32,25,24,383.0,9192.0,2026-04-16,186588737,418,Premier Securities Company Ltd.,Sweta Securities Private Limited,2026-04-16 11:54:56.222805,Jyoti Bikas Bank Limited
+2026041603001735,JBBL,32,45,363,383.0,139029.0,2026-04-16,186588818,418,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:55:02.455825,Jyoti Bikas Bank Limited
+2026041603001736,JBBL,11,45,500,382.0,191000.0,2026-04-16,186588820,418,Malla & Malla Stock Broking Company Pvt. Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:55:02.456118,Jyoti Bikas Bank Limited
+2026041603001737,JBBL,33,45,500,382.0,191000.0,2026-04-16,186588822,418,Dakshinkali Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:55:02.456291,Jyoti Bikas Bank Limited
+2026041603001739,JBBL,32,45,500,380.6,190300.0,2026-04-16,186588832,418,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:55:03.712781,Jyoti Bikas Bank Limited
+2026041603001745,JBBL,32,45,137,380.6,52142.2,2026-04-16,186589023,418,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 11:55:15.370951,Jyoti Bikas Bank Limited
+2026041603001816,JBBL,58,6,10,383.0,3830.0,2026-04-16,186591374,418,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 11:57:57.874836,Jyoti Bikas Bank Limited
+2026041603001844,JBBL,57,6,10,383.0,3830.0,2026-04-16,186592770,418,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-16 11:59:29.396852,Jyoti Bikas Bank Limited
+2026041603001845,JBBL,75,8,2500,381.5,953750.0,2026-04-16,186592794,418,N.I.M.B. Stock Markets Limited,Brilliant Securities Pvt. Ltd.,2026-04-16 11:59:31.577210,Jyoti Bikas Bank Limited
+2026041603001846,JBBL,84,8,250,381.4,95350.0,2026-04-16,186592796,418,MILKY WAY SHARE BROKER COMPANY LTD ,Brilliant Securities Pvt. Ltd.,2026-04-16 11:59:31.577367,Jyoti Bikas Bank Limited
+2026041603001847,JBBL,57,8,1500,381.2,571800.0,2026-04-16,186592798,418,Aryatara Investment & Securities,Brilliant Securities Pvt. Ltd.,2026-04-16 11:59:31.577440,Jyoti Bikas Bank Limited
+2026041603001848,JBBL,50,8,240,381.1,91464.0,2026-04-16,186592799,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 11:59:31.577511,Jyoti Bikas Bank Limited
+2026041603001865,JBBL,32,8,10,381.5,3815.0,2026-04-16,186593079,418,Premier Securities Company Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 11:59:51.583242,Jyoti Bikas Bank Limited
+2026041603001868,JBBL,32,49,17,381.5,6485.5,2026-04-16,186593133,418,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-16 11:59:57.856299,Jyoti Bikas Bank Limited
+2026041603001894,JBBL,45,6,10,383.0,3830.0,2026-04-16,186593856,418,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:00:57.141035,Jyoti Bikas Bank Limited
+2026041603001920,JBBL,56,44,500,381.6,190800.0,2026-04-16,186594224,418,Sri Hari Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:01:21.269248,Jyoti Bikas Bank Limited
+2026041603001923,JBBL,52,44,500,381.6,190800.0,2026-04-16,186594300,418,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:01:28.834016,Jyoti Bikas Bank Limited
+2026041603001927,JBBL,32,42,200,381.5,76300.0,2026-04-16,186594375,418,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 12:01:37.702334,Jyoti Bikas Bank Limited
+2026041603001934,JBBL,56,44,15,381.6,5724.0,2026-04-16,186594601,418,Sri Hari Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 12:01:54.708439,Jyoti Bikas Bank Limited
+2026041603001966,JBBL,36,6,170,383.0,65110.0,2026-04-16,186595589,418,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:03:10.085362,Jyoti Bikas Bank Limited
+2026041603001967,JBBL,36,58,10,383.0,3830.0,2026-04-16,186595593,418,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:03:10.085735,Jyoti Bikas Bank Limited
+2026041603001968,JBBL,36,39,10,383.0,3830.0,2026-04-16,186595595,418,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:03:10.085965,Jyoti Bikas Bank Limited
+2026041603001969,JBBL,36,101,1500,383.0,574500.0,2026-04-16,186595597,418,Secured Securities Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-16 12:03:10.086194,Jyoti Bikas Bank Limited
+2026041603001970,JBBL,36,40,50,383.0,19150.0,2026-04-16,186595599,418,Secured Securities Ltd.,Creative Securities Pvt Ltd,2026-04-16 12:03:10.086401,Jyoti Bikas Bank Limited
+2026041603001971,JBBL,36,38,260,383.9,99814.0,2026-04-16,186595602,418,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:03:10.086617,Jyoti Bikas Bank Limited
+2026041603002003,JBBL,57,38,200,383.9,76780.0,2026-04-16,186595940,418,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:03:43.921751,Jyoti Bikas Bank Limited
+2026041603002031,JBBL,49,62,102,382.0,38964.0,2026-04-16,186596416,418,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 12:04:30.783526,Jyoti Bikas Bank Limited
+2026041603002032,JBBL,32,62,1773,382.0,677286.0,2026-04-16,186596418,418,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-16 12:04:30.783707,Jyoti Bikas Bank Limited
+2026041603002033,JBBL,46,62,100,382.0,38200.0,2026-04-16,186596420,418,Kalika Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 12:04:30.783800,Jyoti Bikas Bank Limited
+2026041603002095,JBBL,50,62,15,381.1,5716.5,2026-04-16,186597794,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 12:06:31.480988,Jyoti Bikas Bank Limited
+2026041603002096,JBBL,63,62,10,381.1,3811.0,2026-04-16,186597795,418,Himalayan Brokerage Company Limited,Capital Max Securities Ltd,2026-04-16 12:06:31.481245,Jyoti Bikas Bank Limited
+2026041603002097,JBBL,63,32,90,381.1,34299.0,2026-04-16,186597808,418,Himalayan Brokerage Company Limited,Premier Securities Company Ltd.,2026-04-16 12:06:32.707601,Jyoti Bikas Bank Limited
+2026041603002098,JBBL,46,32,710,381.0,270510.0,2026-04-16,186597809,418,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:06:32.707809,Jyoti Bikas Bank Limited
+2026041603002119,JBBL,46,32,290,381.0,110490.0,2026-04-16,186598166,418,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:06:59.853159,Jyoti Bikas Bank Limited
+2026041603002120,JBBL,41,32,10,381.0,3810.0,2026-04-16,186598167,418,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-16 12:06:59.853368,Jyoti Bikas Bank Limited
+2026041603002143,JBBL,41,32,300,381.0,114300.0,2026-04-16,186598623,418,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-16 12:07:27.070939,Jyoti Bikas Bank Limited
+2026041603002147,JBBL,41,59,190,381.0,72390.0,2026-04-16,186598756,418,Linch Stock Market Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 12:07:39.652146,Jyoti Bikas Bank Limited
+2026041603002157,JBBL,25,59,110,381.0,41910.0,2026-04-16,186599109,418,Sweta Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 12:08:05.008224,Jyoti Bikas Bank Limited
+2026041603002167,JBBL,60,59,100,381.3,38130.0,2026-04-16,186599447,418,Nagarik Stock Dealer ,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 12:08:25.132775,Jyoti Bikas Bank Limited
+2026041603002177,JBBL,60,42,42,381.3,16014.6,2026-04-16,186599866,418,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-16 12:08:50.956438,Jyoti Bikas Bank Limited
+2026041603002178,JBBL,25,42,458,381.0,174498.0,2026-04-16,186599867,418,Sweta Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 12:08:50.956809,Jyoti Bikas Bank Limited
+2026041603002191,JBBL,25,7,300,381.0,114300.0,2026-04-16,186600547,418,Sweta Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-16 12:09:34.389194,Jyoti Bikas Bank Limited
+2026041603002193,JBBL,49,72,1000,381.1,381100.0,2026-04-16,186600673,418,Online Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-16 12:09:42.584691,Jyoti Bikas Bank Limited
+2026041603002220,JBBL,25,45,132,381.0,50292.0,2026-04-16,186601280,418,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:10:28.418488,Jyoti Bikas Bank Limited
+2026041603002221,JBBL,35,45,368,381.0,140208.0,2026-04-16,186601281,418,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:10:28.418538,Jyoti Bikas Bank Limited
+2026041603002230,JBBL,35,6,125,381.0,47625.0,2026-04-16,186601507,418,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 12:10:43.369838,Jyoti Bikas Bank Limited
+2026041603002237,JBBL,51,80,50,381.0,19050.0,2026-04-16,186602016,418,Oxford Securities Pvt. Ltd.,Indira securities pvt. ltd,2026-04-16 12:11:13.227212,Jyoti Bikas Bank Limited
+2026041603002239,JBBL,71,49,50,380.7,19035.0,2026-04-16,186602255,418,SHUBHAKAMANA SECURITIES PVT. LTD,Online Securities Pvt. Ltd.,2026-04-16 12:11:31.075304,Jyoti Bikas Bank Limited
+2026041603002261,JBBL,71,62,450,380.7,171315.0,2026-04-16,186602733,418,SHUBHAKAMANA SECURITIES PVT. LTD,Capital Max Securities Ltd,2026-04-16 12:12:12.031324,Jyoti Bikas Bank Limited
+2026041603002265,JBBL,50,17,50,380.3,19015.0,2026-04-16,186602787,418,Cristal Kanchanjanga Securites Pvt. Ltd.,ABC Securities Private Limited,2026-04-16 12:12:16.222709,Jyoti Bikas Bank Limited
+2026041603002270,JBBL,50,45,305,380.3,115991.5,2026-04-16,186602878,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:12:26.094235,Jyoti Bikas Bank Limited
+2026041603002285,JBBL,92,45,393,380.0,149340.0,2026-04-16,186603124,418,Roadshow securities limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:12:45.524523,Jyoti Bikas Bank Limited
+2026041603002286,JBBL,17,45,150,380.0,57000.0,2026-04-16,186603126,418,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:12:45.524725,Jyoti Bikas Bank Limited
+2026041603002289,JBBL,46,45,577,379.0,218683.0,2026-04-16,186603299,418,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 12:12:58.133133,Jyoti Bikas Bank Limited
+2026041603002309,JBBL,43,59,500,380.3,190150.0,2026-04-16,186603951,418,South Asian Bulls Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 12:13:52.503241,Jyoti Bikas Bank Limited
+2026041603002326,JBBL,43,32,300,380.3,114090.0,2026-04-16,186604219,418,South Asian Bulls Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 12:14:13.882237,Jyoti Bikas Bank Limited
+2026041603002380,JBBL,43,34,50,380.3,19015.0,2026-04-16,186605499,418,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:16:23.318134,Jyoti Bikas Bank Limited
+2026041603002388,JBBL,43,10,100,380.3,38030.0,2026-04-16,186605659,418,South Asian Bulls Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-16 12:16:37.239226,Jyoti Bikas Bank Limited
+2026041603002432,JBBL,43,10,50,380.3,19015.0,2026-04-16,186606197,418,South Asian Bulls Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-16 12:17:22.683958,Jyoti Bikas Bank Limited
+2026041603002514,JBBL,35,10,150,380.8,57120.0,2026-04-16,186607539,418,Kohinoor Investment & Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-16 12:19:03.209081,Jyoti Bikas Bank Limited
+2026041603002515,JBBL,35,13,107,380.9,40756.3,2026-04-16,186607542,418,Kohinoor Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 12:19:03.209448,Jyoti Bikas Bank Limited
+2026041603002544,JBBL,5,62,1000,379.2,379200.0,2026-04-16,186608141,418,Market Securities & Exchange (PVT) Ltd.,Capital Max Securities Ltd,2026-04-16 12:19:55.227910,Jyoti Bikas Bank Limited
+2026041603002627,JBBL,77,42,200,379.2,75840.0,2026-04-16,186610033,418,Nabil Stock Dealer Ltd.,Sani Securities Company Ltd.,2026-04-16 12:22:36.262579,Jyoti Bikas Bank Limited
+2026041603002716,JBBL,1,11,100,380.0,38000.0,2026-04-16,186611749,418,Kumari Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 12:24:37.830448,Jyoti Bikas Bank Limited
+2026041603002717,JBBL,1,35,427,380.0,162260.0,2026-04-16,186611751,418,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 12:24:37.830636,Jyoti Bikas Bank Limited
+2026041603002737,JBBL,1,32,400,380.0,152000.0,2026-04-16,186612053,418,Kumari Securities Private Limited,Premier Securities Company Ltd.,2026-04-16 12:24:55.186315,Jyoti Bikas Bank Limited
+2026041603002739,JBBL,1,34,73,380.0,27740.0,2026-04-16,186612110,418,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 12:24:59.926356,Jyoti Bikas Bank Limited
+2026041603002740,JBBL,25,34,427,379.1,161875.7,2026-04-16,186612111,418,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-16 12:24:59.926732,Jyoti Bikas Bank Limited
+2026041603002803,JBBL,17,13,50,380.9,19045.0,2026-04-16,186613716,418,ABC Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 12:26:55.276995,Jyoti Bikas Bank Limited
+2026041603002830,JBBL,60,13,143,380.9,54468.7,2026-04-16,186614303,418,Nagarik Stock Dealer ,Thrive Brokerage House Pvt. Ltd,2026-04-16 12:27:45.819424,Jyoti Bikas Bank Limited
+2026041603002831,JBBL,60,58,82,380.9,31233.8,2026-04-16,186614305,418,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-16 12:27:45.819814,Jyoti Bikas Bank Limited
+2026041603002832,JBBL,60,58,275,380.9,104747.5,2026-04-16,186614308,418,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-16 12:27:45.820216,Jyoti Bikas Bank Limited
+2026041603002856,JBBL,49,11,60,380.0,22800.0,2026-04-16,186615114,418,Online Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 12:28:56.175309,Jyoti Bikas Bank Limited
+2026041603002857,JBBL,1,11,440,380.0,167200.0,2026-04-16,186615115,418,Kumari Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 12:28:56.175708,Jyoti Bikas Bank Limited
+2026041603002870,JBBL,1,11,500,380.0,190000.0,2026-04-16,186615407,418,Kumari Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 12:29:23.876967,Jyoti Bikas Bank Limited
+2026041603002957,JBBL,57,58,225,380.9,85702.5,2026-04-16,186618613,418,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 12:34:06.868301,Jyoti Bikas Bank Limited
+2026041603002958,JBBL,57,58,75,380.9,28567.5,2026-04-16,186618616,418,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-16 12:34:06.868517,Jyoti Bikas Bank Limited
+2026041603002990,JBBL,1,90,60,380.0,22800.0,2026-04-16,186619208,418,Kumari Securities Private Limited,Sajilo Broker Limited,2026-04-16 12:34:56.749924,Jyoti Bikas Bank Limited
+2026041603002991,JBBL,39,90,340,380.0,129200.0,2026-04-16,186619209,418,Sumeru Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-16 12:34:56.750171,Jyoti Bikas Bank Limited
+2026041603003010,JBBL,32,58,175,380.9,66657.5,2026-04-16,186619935,418,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:35:55.533066,Jyoti Bikas Bank Limited
+2026041603003011,JBBL,32,64,25,380.9,9522.5,2026-04-16,186619938,418,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-16 12:35:55.533321,Jyoti Bikas Bank Limited
+2026041603003024,JBBL,39,58,610,380.0,231800.0,2026-04-16,186620222,418,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:36:23.383386,Jyoti Bikas Bank Limited
+2026041603003025,JBBL,32,58,390,380.0,148200.0,2026-04-16,186620223,418,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:36:23.383584,Jyoti Bikas Bank Limited
+2026041603003038,JBBL,32,64,75,380.9,28567.5,2026-04-16,186620315,418,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-16 12:36:30.807071,Jyoti Bikas Bank Limited
+2026041603003039,JBBL,32,36,70,380.9,26663.0,2026-04-16,186620317,418,Premier Securities Company Ltd.,Secured Securities Ltd.,2026-04-16 12:36:30.807453,Jyoti Bikas Bank Limited
+2026041603003052,JBBL,32,80,50,381.0,19050.0,2026-04-16,186620569,418,Premier Securities Company Ltd.,Indira securities pvt. ltd,2026-04-16 12:37:02.949772,Jyoti Bikas Bank Limited
+2026041603003053,JBBL,32,52,450,381.0,171450.0,2026-04-16,186620572,418,Premier Securities Company Ltd.,Sundhara Securities Limited,2026-04-16 12:37:02.950039,Jyoti Bikas Bank Limited
+2026041603003054,JBBL,16,52,500,381.0,190500.0,2026-04-16,186620816,418,Primo Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-16 12:37:25.950292,Jyoti Bikas Bank Limited
+2026041603003074,JBBL,32,52,50,381.0,19050.0,2026-04-16,186621069,418,Premier Securities Company Ltd.,Sundhara Securities Limited,2026-04-16 12:37:51.291817,Jyoti Bikas Bank Limited
+2026041603003086,JBBL,25,58,73,382.0,27886.0,2026-04-16,186621440,418,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 12:38:33.698390,Jyoti Bikas Bank Limited
+2026041603003149,JBBL,32,95,150,381.0,57150.0,2026-04-16,186622681,418,Premier Securities Company Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 12:40:39.802379,Jyoti Bikas Bank Limited
+2026041603003162,JBBL,32,77,50,380.9,19045.0,2026-04-16,186623051,418,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 12:41:11.718695,Jyoti Bikas Bank Limited
+2026041603003237,JBBL,44,95,148,381.5,56462.0,2026-04-16,186625468,418,Dynamic Money Managers Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 12:44:28.945295,Jyoti Bikas Bank Limited
+2026041603003263,JBBL,16,58,124,382.0,47368.0,2026-04-16,186626255,418,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:45:44.228463,Jyoti Bikas Bank Limited
+2026041603003264,JBBL,16,54,50,382.0,19100.0,2026-04-16,186626257,418,Primo Securities (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-16 12:45:44.228666,Jyoti Bikas Bank Limited
+2026041603003265,JBBL,16,59,226,382.0,86332.0,2026-04-16,186626260,418,Primo Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 12:45:44.228756,Jyoti Bikas Bank Limited
+2026041603003268,JBBL,44,59,10,382.0,3820.0,2026-04-16,186626306,418,Dynamic Money Managers Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 12:45:51.459912,Jyoti Bikas Bank Limited
+2026041603003284,JBBL,44,59,250,382.0,95500.0,2026-04-16,186626736,418,Dynamic Money Managers Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 12:46:32.227716,Jyoti Bikas Bank Limited
+2026041603003295,JBBL,44,57,110,382.0,42020.0,2026-04-16,186627204,418,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 12:47:06.994438,Jyoti Bikas Bank Limited
+2026041603003352,JBBL,43,58,50,381.1,19055.0,2026-04-16,186628995,418,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:49:53.166514,Jyoti Bikas Bank Limited
+2026041603003363,JBBL,95,38,500,381.5,190750.0,2026-04-16,186629303,418,Magnet Securities and Investment Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 12:50:21.838009,Jyoti Bikas Bank Limited
+2026041603003365,JBBL,43,57,18,382.0,6876.0,2026-04-16,186629401,418,South Asian Bulls Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 12:50:29.768177,Jyoti Bikas Bank Limited
+2026041603003366,JBBL,43,52,432,382.0,165024.0,2026-04-16,186629404,418,South Asian Bulls Pvt. Ltd.,Sundhara Securities Limited,2026-04-16 12:50:29.768429,Jyoti Bikas Bank Limited
+2026041603003382,JBBL,58,29,10,381.1,3811.0,2026-04-16,186630060,418,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 12:51:28.969049,Jyoti Bikas Bank Limited
+2026041603003383,JBBL,81,29,240,381.0,91440.0,2026-04-16,186630061,418,Aakashbhairab Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 12:51:28.969157,Jyoti Bikas Bank Limited
+2026041603003443,JBBL,81,82,760,381.0,289560.0,2026-04-16,186631558,418,Aakashbhairab Securities Ltd.,N.M.B. SECURITIES LIMITED,2026-04-16 12:53:48.955894,Jyoti Bikas Bank Limited
+2026041603003444,JBBL,32,82,305,380.9,116174.5,2026-04-16,186631560,418,Premier Securities Company Ltd.,N.M.B. SECURITIES LIMITED,2026-04-16 12:53:48.956362,Jyoti Bikas Bank Limited
+2026041603003445,JBBL,45,82,990,380.1,376299.0,2026-04-16,186631562,418,Imperial Securities Company Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-16 12:53:48.956709,Jyoti Bikas Bank Limited
+2026041603003446,JBBL,50,82,1000,380.1,380100.0,2026-04-16,186631564,418,Cristal Kanchanjanga Securites Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-16 12:53:48.957005,Jyoti Bikas Bank Limited
+2026041603003447,JBBL,32,82,110,380.0,41800.0,2026-04-16,186631566,418,Premier Securities Company Ltd.,N.M.B. SECURITIES LIMITED,2026-04-16 12:53:48.957334,Jyoti Bikas Bank Limited
+2026041603003448,JBBL,33,82,1000,380.0,380000.0,2026-04-16,186631568,418,Dakshinkali Investment & Securities Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-16 12:53:48.957590,Jyoti Bikas Bank Limited
+2026041603003449,JBBL,49,82,835,380.0,317300.0,2026-04-16,186631569,418,Online Securities Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-16 12:53:48.957907,Jyoti Bikas Bank Limited
+2026041603003521,JBBL,16,29,50,381.0,19050.0,2026-04-16,186633810,418,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 12:57:10.673177,Jyoti Bikas Bank Limited
+2026041603003547,JBBL,14,34,500,380.1,190050.0,2026-04-16,186634575,418,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 12:58:48.474342,Jyoti Bikas Bank Limited
+2026041603003677,JBBL,45,21,600,380.1,228060.0,2026-04-16,186637753,418,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:03:52.716808,Jyoti Bikas Bank Limited
+2026041603003721,JBBL,45,45,390,380.1,148239.0,2026-04-16,186638828,418,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:05:45.786577,Jyoti Bikas Bank Limited
+2026041603003722,JBBL,49,45,610,380.0,231800.0,2026-04-16,186638829,418,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:05:45.786681,Jyoti Bikas Bank Limited
+2026041603003729,JBBL,49,38,555,380.0,210900.0,2026-04-16,186638988,418,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:05:58.511385,Jyoti Bikas Bank Limited
+2026041603003730,JBBL,17,38,200,380.0,76000.0,2026-04-16,186638990,418,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:05:58.511798,Jyoti Bikas Bank Limited
+2026041603003731,JBBL,81,38,285,380.0,108300.0,2026-04-16,186638991,418,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:05:58.512083,Jyoti Bikas Bank Limited
+2026041603003766,JBBL,81,8,215,380.0,81700.0,2026-04-16,186640226,418,Aakashbhairab Securities Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:06:53.094185,Jyoti Bikas Bank Limited
+2026041603003767,JBBL,1,8,475,380.0,180500.0,2026-04-16,186640227,418,Kumari Securities Private Limited,Brilliant Securities Pvt. Ltd.,2026-04-16 13:06:53.094580,Jyoti Bikas Bank Limited
+2026041603003793,JBBL,1,36,300,380.0,114000.0,2026-04-16,186640919,418,Kumari Securities Private Limited,Secured Securities Ltd.,2026-04-16 13:07:49.864986,Jyoti Bikas Bank Limited
+2026041603003803,JBBL,1,35,1225,380.0,465500.0,2026-04-16,186641164,418,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:08:11.859946,Jyoti Bikas Bank Limited
+2026041603003804,JBBL,81,35,25,380.0,9500.0,2026-04-16,186641165,418,Aakashbhairab Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:08:11.860012,Jyoti Bikas Bank Limited
+2026041603003840,JBBL,81,43,200,380.0,76000.0,2026-04-16,186641905,418,Aakashbhairab Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 13:09:03.969594,Jyoti Bikas Bank Limited
+2026041603003868,JBBL,81,34,275,380.0,104500.0,2026-04-16,186642600,418,Aakashbhairab Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:09:39.432324,Jyoti Bikas Bank Limited
+2026041603004003,JBBL,77,26,50,379.1,18955.0,2026-04-16,186645594,418,Nabil Stock Dealer Ltd.,Asian Securities Private Ltd.,2026-04-16 13:12:08.393070,Jyoti Bikas Bank Limited
+2026041603004004,JBBL,46,26,100,379.1,37910.0,2026-04-16,186645596,418,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:12:08.393139,Jyoti Bikas Bank Limited
+2026041603004005,JBBL,46,26,243,379.0,92097.0,2026-04-16,186645598,418,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:12:08.393187,Jyoti Bikas Bank Limited
+2026041603004006,JBBL,94,26,265,379.0,100435.0,2026-04-16,186645600,418,K.B.L. Securities Limited ,Asian Securities Private Ltd.,2026-04-16 13:12:08.393217,Jyoti Bikas Bank Limited
+2026041603004007,JBBL,58,26,300,379.0,113700.0,2026-04-16,186645602,418,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:12:08.393243,Jyoti Bikas Bank Limited
+2026041603004008,JBBL,77,26,42,378.3,15888.6,2026-04-16,186645603,418,Nabil Stock Dealer Ltd.,Asian Securities Private Ltd.,2026-04-16 13:12:08.393271,Jyoti Bikas Bank Limited
+2026041603004064,JBBL,77,41,58,378.3,21941.4,2026-04-16,186646534,418,Nabil Stock Dealer Ltd.,Linch Stock Market Ltd.,2026-04-16 13:13:02.590222,Jyoti Bikas Bank Limited
+2026041603004065,JBBL,50,41,342,378.3,129378.6,2026-04-16,186646535,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 13:13:02.590641,Jyoti Bikas Bank Limited
+2026041603004138,JBBL,50,3,200,378.3,75660.0,2026-04-16,186647783,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 13:14:03.302250,Jyoti Bikas Bank Limited
+2026041603004149,JBBL,50,50,80,378.3,30264.0,2026-04-16,186648369,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 13:14:36.280436,Jyoti Bikas Bank Limited
+2026041603004150,JBBL,50,32,300,378.3,113490.0,2026-04-16,186648373,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 13:14:36.722186,Jyoti Bikas Bank Limited
+2026041603004153,JBBL,50,3,78,378.3,29507.4,2026-04-16,186648438,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 13:14:40.149193,Jyoti Bikas Bank Limited
+2026041603004213,JBBL,44,74,60,378.2,22692.0,2026-04-16,186650039,418,Dynamic Money Managers Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:16:00.571554,Jyoti Bikas Bank Limited
+2026041603004277,JBBL,44,34,550,378.2,208010.0,2026-04-16,186651279,418,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:17:04.400468,Jyoti Bikas Bank Limited
+2026041603004330,JBBL,44,57,600,378.2,226920.0,2026-04-16,186651811,418,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 13:17:33.030794,Jyoti Bikas Bank Limited
+2026041603004393,JBBL,45,3,22,378.3,8322.6,2026-04-16,186653101,418,Imperial Securities Company Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 13:18:19.656774,Jyoti Bikas Bank Limited
+2026041603004472,JBBL,45,50,600,378.3,226980.0,2026-04-16,186654061,418,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 13:19:06.599644,Jyoti Bikas Bank Limited
+2026041603004498,JBBL,45,35,368,378.3,139214.4,2026-04-16,186654704,418,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:19:39.027227,Jyoti Bikas Bank Limited
+2026041603004499,JBBL,1,35,132,378.3,49935.6,2026-04-16,186654705,418,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 13:19:39.027653,Jyoti Bikas Bank Limited
+2026041603004506,JBBL,1,45,309,378.3,116894.7,2026-04-16,186654741,418,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:19:41.833898,Jyoti Bikas Bank Limited
+2026041603004641,JBBL,1,57,375,378.3,141862.5,2026-04-16,186655705,418,Kumari Securities Private Limited,Aryatara Investment & Securities,2026-04-16 13:20:23.802590,Jyoti Bikas Bank Limited
+2026041603004697,JBBL,1,99,184,378.3,69607.2,2026-04-16,186657412,418,Kumari Securities Private Limited,Prabhu Stock Market Limited,2026-04-16 13:21:39.869878,Jyoti Bikas Bank Limited
+2026041603004698,JBBL,44,99,290,378.2,109678.0,2026-04-16,186657414,418,Dynamic Money Managers Securities Pvt. Ltd.,Prabhu Stock Market Limited,2026-04-16 13:21:39.870108,Jyoti Bikas Bank Limited
+2026041603004699,JBBL,58,99,726,378.1,274500.6,2026-04-16,186657415,418,Naasa Securities Co. Ltd.,Prabhu Stock Market Limited,2026-04-16 13:21:39.870208,Jyoti Bikas Bank Limited
+2026041603004755,JBBL,58,44,500,378.1,189050.0,2026-04-16,186658557,418,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 13:22:36.041804,Jyoti Bikas Bank Limited
+2026041603004862,JBBL,58,19,1774,378.1,670749.4,2026-04-16,186659842,418,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:23:46.671407,Jyoti Bikas Bank Limited
+2026041603004863,JBBL,17,19,500,378.1,189050.0,2026-04-16,186659844,418,ABC Securities Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:23:46.671649,Jyoti Bikas Bank Limited
+2026041603004864,JBBL,43,19,1000,378.1,378100.0,2026-04-16,186659846,418,South Asian Bulls Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:23:46.671760,Jyoti Bikas Bank Limited
+2026041603004865,JBBL,50,19,1000,378.1,378100.0,2026-04-16,186659848,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:23:46.671854,Jyoti Bikas Bank Limited
+2026041603004866,JBBL,58,19,1726,378.0,652428.0,2026-04-16,186659849,418,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:23:46.671947,Jyoti Bikas Bank Limited
+2026041603004875,JBBL,58,58,3500,378.0,1323000.0,2026-04-16,186660177,418,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:24:05.785175,Jyoti Bikas Bank Limited
+2026041603004882,JBBL,58,19,100,378.0,37800.0,2026-04-16,186660394,418,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:24:18.376995,Jyoti Bikas Bank Limited
+2026041603004883,JBBL,16,19,1000,378.0,378000.0,2026-04-16,186660396,418,Primo Securities (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:24:18.377240,Jyoti Bikas Bank Limited
+2026041603004884,JBBL,8,19,900,378.0,340200.0,2026-04-16,186660397,418,Brilliant Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:24:18.377336,Jyoti Bikas Bank Limited
+2026041603004897,JBBL,8,32,100,378.0,37800.0,2026-04-16,186661030,418,Brilliant Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-16 13:24:56.167686,Jyoti Bikas Bank Limited
+2026041603004898,JBBL,57,32,400,378.0,151200.0,2026-04-16,186661031,418,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-16 13:24:56.167968,Jyoti Bikas Bank Limited
+2026041603004921,JBBL,57,22,100,378.0,37800.0,2026-04-16,186661660,418,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-16 13:25:28.610200,Jyoti Bikas Bank Limited
+2026041603005035,JBBL,1,41,20,378.0,7560.0,2026-04-16,186663793,418,Kumari Securities Private Limited,Linch Stock Market Ltd.,2026-04-16 13:27:47.997748,Jyoti Bikas Bank Limited
+2026041603005036,JBBL,1,91,80,378.0,30240.0,2026-04-16,186663796,418,Kumari Securities Private Limited,Citizens Share Broker Limited,2026-04-16 13:27:47.998257,Jyoti Bikas Bank Limited
+2026041603005110,JBBL,57,1,100,377.6,37760.0,2026-04-16,186664896,418,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-16 13:29:20.515483,Jyoti Bikas Bank Limited
+2026041603005138,JBBL,78,1,300,377.5,113250.0,2026-04-16,186665187,418,Garima Securities Limited,Kumari Securities Private Limited,2026-04-16 13:29:37.830019,Jyoti Bikas Bank Limited
+2026041603005164,JBBL,78,38,700,377.5,264250.0,2026-04-16,186665732,418,Garima Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:30:14.440446,Jyoti Bikas Bank Limited
+2026041603005165,JBBL,77,38,50,377.5,18875.0,2026-04-16,186665733,418,Nabil Stock Dealer Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:30:14.440693,Jyoti Bikas Bank Limited
+2026041603005207,JBBL,58,63,1000,377.4,377400.0,2026-04-16,186666724,418,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-16 13:31:14.984134,Jyoti Bikas Bank Limited
+2026041603005208,JBBL,58,63,129,377.4,48684.6,2026-04-16,186666725,418,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-16 13:31:14.984388,Jyoti Bikas Bank Limited
+2026041603005212,JBBL,58,33,871,377.4,328715.4,2026-04-16,186666952,418,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 13:31:29.174942,Jyoti Bikas Bank Limited
+2026041603005213,JBBL,58,33,629,377.3,237321.7,2026-04-16,186666953,418,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 13:31:29.175199,Jyoti Bikas Bank Limited
+2026041603005224,JBBL,58,21,500,377.3,188650.0,2026-04-16,186667119,418,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:31:41.233632,Jyoti Bikas Bank Limited
+2026041603005409,JBBL,47,42,100,377.4,37740.0,2026-04-16,186670568,418,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:34:51.302995,Jyoti Bikas Bank Limited
+2026041603005410,JBBL,43,42,300,377.4,113220.0,2026-04-16,186670569,418,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:34:51.303468,Jyoti Bikas Bank Limited
+2026041603005426,JBBL,43,46,686,377.4,258896.4,2026-04-16,186670759,418,South Asian Bulls Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 13:35:00.638521,Jyoti Bikas Bank Limited
+2026041603005431,JBBL,43,38,14,377.4,5283.6,2026-04-16,186670878,418,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:35:07.829323,Jyoti Bikas Bank Limited
+2026041603005466,JBBL,58,17,100,377.3,37730.0,2026-04-16,186672225,418,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-16 13:36:25.096391,Jyoti Bikas Bank Limited
+2026041603005475,JBBL,58,58,600,377.3,226380.0,2026-04-16,186672697,418,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:36:47.224391,Jyoti Bikas Bank Limited
+2026041603005485,JBBL,58,38,86,377.3,32447.8,2026-04-16,186672963,418,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:37:08.313299,Jyoti Bikas Bank Limited
+2026041603005530,JBBL,1,38,50,377.4,18870.0,2026-04-16,186673414,418,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:37:26.400635,Jyoti Bikas Bank Limited
+2026041603005537,JBBL,22,38,36,377.4,13586.4,2026-04-16,186673703,418,Siprabi Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:37:42.293474,Jyoti Bikas Bank Limited
+2026041603005538,JBBL,22,91,20,377.4,7548.0,2026-04-16,186673815,418,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 13:37:48.717870,Jyoti Bikas Bank Limited
+2026041603005551,JBBL,22,39,19,377.4,7170.6,2026-04-16,186674365,418,Siprabi Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 13:38:11.938919,Jyoti Bikas Bank Limited
+2026041603005565,JBBL,51,52,15,378.0,5670.0,2026-04-16,186674480,418,Oxford Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-16 13:38:16.065420,Jyoti Bikas Bank Limited
+2026041603005571,JBBL,58,3,200,377.3,75460.0,2026-04-16,186674671,418,Naasa Securities Co. Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 13:38:25.959883,Jyoti Bikas Bank Limited
+2026041603005680,JBBL,98,75,500,377.5,188750.0,2026-04-16,186677077,418,Trademow Securities Private Limited,N.I.M.B. Stock Markets Limited,2026-04-16 13:40:43.590542,Jyoti Bikas Bank Limited
+2026041603005709,JBBL,49,7,200,377.4,75480.0,2026-04-16,186677646,418,Online Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 13:41:23.104918,Jyoti Bikas Bank Limited
+2026041603005710,JBBL,78,7,300,377.4,113220.0,2026-04-16,186677647,418,Garima Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-16 13:41:23.105153,Jyoti Bikas Bank Limited
+2026041603005723,JBBL,47,52,500,378.0,189000.0,2026-04-16,186678244,418,Neev Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-16 13:42:01.141742,Jyoti Bikas Bank Limited
+2026041603005734,JBBL,78,25,1000,377.4,377400.0,2026-04-16,186678407,418,Garima Securities Limited,Sweta Securities Private Limited,2026-04-16 13:42:12.805877,Jyoti Bikas Bank Limited
+2026041603005857,JBBL,58,52,53,378.0,20034.0,2026-04-16,186680849,418,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-16 13:45:26.718867,Jyoti Bikas Bank Limited
+2026041603005858,JBBL,58,22,30,378.0,11340.0,2026-04-16,186680851,418,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 13:45:26.719411,Jyoti Bikas Bank Limited
+2026041603005859,JBBL,58,77,50,378.0,18900.0,2026-04-16,186680853,418,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-16 13:45:26.719841,Jyoti Bikas Bank Limited
+2026041603005860,JBBL,58,38,100,378.0,37800.0,2026-04-16,186680855,418,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:45:26.720241,Jyoti Bikas Bank Limited
+2026041603005861,JBBL,58,38,500,378.0,189000.0,2026-04-16,186680857,418,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:45:26.720624,Jyoti Bikas Bank Limited
+2026041603005881,JBBL,81,38,200,378.8,75760.0,2026-04-16,186681174,418,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:45:56.332811,Jyoti Bikas Bank Limited
+2026041603005959,JBBL,58,38,119,378.8,45077.2,2026-04-16,186682359,418,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:47:36.746604,Jyoti Bikas Bank Limited
+2026041603005960,JBBL,58,26,270,378.8,102276.0,2026-04-16,186682361,418,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:47:36.747081,Jyoti Bikas Bank Limited
+2026041603005961,JBBL,58,52,60,378.9,22734.0,2026-04-16,186682363,418,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-16 13:47:36.747398,Jyoti Bikas Bank Limited
+2026041603005962,JBBL,58,41,200,378.9,75780.0,2026-04-16,186682365,418,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 13:47:36.747697,Jyoti Bikas Bank Limited
+2026041603005963,JBBL,58,71,1000,378.9,378900.0,2026-04-16,186682367,418,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-16 13:47:36.748006,Jyoti Bikas Bank Limited
+2026041603005964,JBBL,58,60,250,379.0,94750.0,2026-04-16,186682369,418,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-16 13:47:36.748335,Jyoti Bikas Bank Limited
+2026041603005965,JBBL,58,57,2000,379.0,758000.0,2026-04-16,186682371,418,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 13:47:36.748626,Jyoti Bikas Bank Limited
+2026041603005970,JBBL,34,38,500,379.8,189900.0,2026-04-16,186682622,418,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:47:59.996846,Jyoti Bikas Bank Limited
+2026041603005989,JBBL,34,38,300,379.8,113940.0,2026-04-16,186682900,418,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:48:23.391427,Jyoti Bikas Bank Limited
+2026041603005999,JBBL,60,38,200,379.8,75960.0,2026-04-16,186683224,418,Nagarik Stock Dealer ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:48:56.289316,Jyoti Bikas Bank Limited
+2026041603006007,JBBL,34,58,100,379.8,37980.0,2026-04-16,186683461,418,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:49:11.526730,Jyoti Bikas Bank Limited
+2026041603006028,JBBL,40,43,300,379.9,113970.0,2026-04-16,186683810,418,Creative Securities Pvt Ltd,South Asian Bulls Pvt. Ltd.,2026-04-16 13:49:41.407190,Jyoti Bikas Bank Limited
+2026041603006029,JBBL,40,34,25,380.0,9500.0,2026-04-16,186683814,418,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-16 13:49:41.407661,Jyoti Bikas Bank Limited
+2026041603006030,JBBL,40,38,675,380.0,256500.0,2026-04-16,186683820,418,Creative Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:49:41.407960,Jyoti Bikas Bank Limited
+2026041603006032,JBBL,42,38,325,380.0,123500.0,2026-04-16,186683861,418,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:49:46.738303,Jyoti Bikas Bank Limited
+2026041603006033,JBBL,42,16,675,380.0,256500.0,2026-04-16,186683864,418,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 13:49:46.738749,Jyoti Bikas Bank Limited
+2026041603006036,JBBL,57,16,925,380.0,351500.0,2026-04-16,186683971,418,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-16 13:49:54.469137,Jyoti Bikas Bank Limited
+2026041603006037,JBBL,57,19,75,380.0,28500.0,2026-04-16,186683974,418,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:49:54.469580,Jyoti Bikas Bank Limited
+2026041603006041,JBBL,34,19,25,380.0,9500.0,2026-04-16,186684027,418,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:50:00.687512,Jyoti Bikas Bank Limited
+2026041603006042,JBBL,34,32,20,380.0,7600.0,2026-04-16,186684029,418,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-16 13:50:00.687954,Jyoti Bikas Bank Limited
+2026041603006043,JBBL,34,49,55,380.0,20900.0,2026-04-16,186684032,418,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-16 13:50:00.688253,Jyoti Bikas Bank Limited
+2026041603006052,JBBL,58,49,45,380.0,17100.0,2026-04-16,186684417,418,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 13:50:46.190709,Jyoti Bikas Bank Limited
+2026041603006053,JBBL,58,45,55,380.0,20900.0,2026-04-16,186684420,418,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:50:46.191183,Jyoti Bikas Bank Limited
+2026041603006075,JBBL,99,45,45,380.0,17100.0,2026-04-16,186685027,418,Prabhu Stock Market Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 13:51:44.486695,Jyoti Bikas Bank Limited
+2026041603006076,JBBL,99,41,100,380.0,38000.0,2026-04-16,186685029,418,Prabhu Stock Market Limited,Linch Stock Market Ltd.,2026-04-16 13:51:44.487182,Jyoti Bikas Bank Limited
+2026041603006077,JBBL,99,26,200,380.0,76000.0,2026-04-16,186685031,418,Prabhu Stock Market Limited,Asian Securities Private Ltd.,2026-04-16 13:51:44.487480,Jyoti Bikas Bank Limited
+2026041603006078,JBBL,99,39,295,380.0,112100.0,2026-04-16,186685034,418,Prabhu Stock Market Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 13:51:44.487769,Jyoti Bikas Bank Limited
+2026041603006079,JBBL,42,21,420,379.9,159558.0,2026-04-16,186685124,418,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:51:52.721102,Jyoti Bikas Bank Limited
+2026041603006081,JBBL,32,34,10,379.1,3791.0,2026-04-16,186685182,418,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:52:00.661617,Jyoti Bikas Bank Limited
+2026041603006082,JBBL,32,34,10,379.1,3791.0,2026-04-16,186685184,418,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:52:00.661835,Jyoti Bikas Bank Limited
+2026041603006083,JBBL,58,34,37,379.0,14023.0,2026-04-16,186685185,418,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:52:00.661930,Jyoti Bikas Bank Limited
+2026041603006099,JBBL,34,21,200,379.0,75800.0,2026-04-16,186685680,418,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 13:52:53.223296,Jyoti Bikas Bank Limited
+2026041603006107,JBBL,58,21,1000,379.0,379000.0,2026-04-16,186686034,418,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 13:53:23.044446,Jyoti Bikas Bank Limited
+2026041603006114,JBBL,32,16,80,378.4,30272.0,2026-04-16,186686378,418,Premier Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-16 13:53:57.282601,Jyoti Bikas Bank Limited
+2026041603006139,JBBL,40,16,420,378.4,158928.0,2026-04-16,186687109,418,Creative Securities Pvt Ltd,Primo Securities (PVT) Ltd.,2026-04-16 13:55:01.521799,Jyoti Bikas Bank Limited
+2026041603006140,JBBL,40,21,380,379.0,144020.0,2026-04-16,186687111,418,Creative Securities Pvt Ltd,Midas Stock Broking Company Private Limited,2026-04-16 13:55:01.522269,Jyoti Bikas Bank Limited
+2026041603006143,JBBL,40,53,200,379.1,75820.0,2026-04-16,186687170,418,Creative Securities Pvt Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:55:08.332895,Jyoti Bikas Bank Limited
+2026041603006144,JBBL,67,53,800,378.3,302640.0,2026-04-16,186687172,418,Property Wiard Limited,Investment Management Nepal Pvt. Ltd.,2026-04-16 13:55:08.333186,Jyoti Bikas Bank Limited
+2026041603006153,JBBL,67,50,25,378.3,9457.5,2026-04-16,186687341,418,Property Wiard Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 13:55:29.343059,Jyoti Bikas Bank Limited
+2026041603006316,JBBL,43,58,800,379.2,303360.0,2026-04-16,186690427,418,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:00:43.798110,Jyoti Bikas Bank Limited
+2026041603006317,JBBL,43,56,200,379.3,75860.0,2026-04-16,186690429,418,South Asian Bulls Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:00:43.798374,Jyoti Bikas Bank Limited
+2026041603006318,JBBL,43,21,500,379.4,189700.0,2026-04-16,186690431,418,South Asian Bulls Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:00:43.798511,Jyoti Bikas Bank Limited
+2026041603006319,JBBL,43,42,500,379.5,189750.0,2026-04-16,186690434,418,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:00:43.798610,Jyoti Bikas Bank Limited
+2026041603006421,JBBL,50,34,500,378.6,189300.0,2026-04-16,186693052,418,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:04:16.522921,Jyoti Bikas Bank Limited
+2026041603006437,JBBL,32,10,200,378.5,75700.0,2026-04-16,186693661,418,Premier Securities Company Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-16 14:05:05.538000,Jyoti Bikas Bank Limited
+2026041603006465,JBBL,32,34,500,378.5,189250.0,2026-04-16,186694151,418,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:05:31.738561,Jyoti Bikas Bank Limited
+2026041603006482,JBBL,32,38,1000,378.5,378500.0,2026-04-16,186694425,418,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:05:52.774618,Jyoti Bikas Bank Limited
+2026041603006525,JBBL,32,51,300,378.5,113550.0,2026-04-16,186695718,418,Premier Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:07:37.098094,Jyoti Bikas Bank Limited
+2026041603006526,JBBL,43,51,1000,378.4,378400.0,2026-04-16,186695720,418,South Asian Bulls Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:07:37.098331,Jyoti Bikas Bank Limited
+2026041603006527,JBBL,51,51,13,378.4,4919.2,2026-04-16,186695721,418,Oxford Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:07:37.098433,Jyoti Bikas Bank Limited
+2026041603006584,JBBL,51,57,87,378.5,32929.5,2026-04-16,186696584,418,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 14:09:07.196345,Jyoti Bikas Bank Limited
+2026041603006585,JBBL,67,57,175,378.3,66202.5,2026-04-16,186696586,418,Property Wiard Limited,Aryatara Investment & Securities,2026-04-16 14:09:07.196389,Jyoti Bikas Bank Limited
+2026041603006586,JBBL,17,57,238,378.2,90011.6,2026-04-16,186696587,418,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-16 14:09:07.196418,Jyoti Bikas Bank Limited
+2026041603006595,JBBL,43,95,562,378.3,212604.6,2026-04-16,186697121,418,South Asian Bulls Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 14:09:47.296861,Jyoti Bikas Bank Limited
+2026041603006599,JBBL,43,45,250,378.3,94575.0,2026-04-16,186697303,418,South Asian Bulls Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:10:04.968952,Jyoti Bikas Bank Limited
+2026041603006600,JBBL,43,95,20,378.3,7566.0,2026-04-16,186697355,418,South Asian Bulls Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 14:10:09.098775,Jyoti Bikas Bank Limited
+2026041603006634,JBBL,43,59,150,378.3,56745.0,2026-04-16,186698469,418,South Asian Bulls Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:11:46.965976,Jyoti Bikas Bank Limited
+2026041603006720,JBBL,43,95,18,378.3,6809.4,2026-04-16,186700196,418,South Asian Bulls Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 14:14:18.253409,Jyoti Bikas Bank Limited
+2026041603006721,JBBL,53,95,200,378.3,75660.0,2026-04-16,186700198,418,Investment Management Nepal Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 14:14:18.253879,Jyoti Bikas Bank Limited
+2026041603006731,JBBL,17,43,500,378.2,189100.0,2026-04-16,186700585,418,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:15:02.311641,Jyoti Bikas Bank Limited
+2026041603006738,JBBL,17,43,262,378.2,99088.4,2026-04-16,186700704,418,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:15:16.834313,Jyoti Bikas Bank Limited
+2026041603006739,JBBL,17,43,738,378.1,279037.8,2026-04-16,186700705,418,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:15:16.834546,Jyoti Bikas Bank Limited
+2026041603006762,JBBL,17,43,262,378.1,99062.2,2026-04-16,186701226,418,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:15:54.677576,Jyoti Bikas Bank Limited
+2026041603006763,JBBL,49,43,238,378.1,89987.8,2026-04-16,186701227,418,Online Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:15:54.677806,Jyoti Bikas Bank Limited
+2026041603006783,JBBL,49,43,762,378.1,288112.2,2026-04-16,186701396,418,Online Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:16:12.829926,Jyoti Bikas Bank Limited
+2026041603006784,JBBL,58,43,20,378.0,7560.0,2026-04-16,186701398,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:16:12.830382,Jyoti Bikas Bank Limited
+2026041603006785,JBBL,58,43,218,378.0,82404.0,2026-04-16,186701399,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:16:12.830684,Jyoti Bikas Bank Limited
+2026041603006796,JBBL,58,38,50,378.0,18900.0,2026-04-16,186701475,418,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:16:22.048394,Jyoti Bikas Bank Limited
+2026041603006804,JBBL,58,43,1000,378.0,378000.0,2026-04-16,186701677,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:16:44.963795,Jyoti Bikas Bank Limited
+2026041603006805,JBBL,58,43,1000,378.0,378000.0,2026-04-16,186701785,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:16:57.000991,Jyoti Bikas Bank Limited
+2026041603006810,JBBL,5,57,200,378.5,75700.0,2026-04-16,186701904,418,Market Securities & Exchange (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 14:17:09.311454,Jyoti Bikas Bank Limited
+2026041603006811,JBBL,86,43,500,378.1,189050.0,2026-04-16,186701912,418,Stoxkarts Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:17:10.981824,Jyoti Bikas Bank Limited
+2026041603006812,JBBL,58,43,500,378.0,189000.0,2026-04-16,186701913,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:17:10.982291,Jyoti Bikas Bank Limited
+2026041603006821,JBBL,58,43,1000,378.0,378000.0,2026-04-16,186702217,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:17:40.812078,Jyoti Bikas Bank Limited
+2026041603006826,JBBL,58,44,100,378.8,37880.0,2026-04-16,186702447,418,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-16 14:18:09.941459,Jyoti Bikas Bank Limited
+2026041603006827,JBBL,58,35,20,378.9,7578.0,2026-04-16,186702449,418,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:18:09.941932,Jyoti Bikas Bank Limited
+2026041603006828,JBBL,58,46,248,379.0,93992.0,2026-04-16,186702451,418,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 14:18:09.942260,Jyoti Bikas Bank Limited
+2026041603006829,JBBL,58,41,500,379.0,189500.0,2026-04-16,186702453,418,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:18:09.942565,Jyoti Bikas Bank Limited
+2026041603006830,JBBL,58,58,217,379.0,82243.0,2026-04-16,186702455,418,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:18:09.942865,Jyoti Bikas Bank Limited
+2026041603006831,JBBL,58,21,2500,379.0,947500.0,2026-04-16,186702457,418,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 14:18:09.943178,Jyoti Bikas Bank Limited
+2026041603006858,JBBL,58,52,1000,379.0,379000.0,2026-04-16,186703291,418,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-16 14:19:38.420775,Jyoti Bikas Bank Limited
+2026041603006860,JBBL,58,43,1000,379.0,379000.0,2026-04-16,186703369,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:19:50.510473,Jyoti Bikas Bank Limited
+2026041603006868,JBBL,58,42,310,379.0,117490.0,2026-04-16,186703503,418,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:20:08.022065,Jyoti Bikas Bank Limited
+2026041603006879,JBBL,58,34,75,379.0,28425.0,2026-04-16,186703609,418,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:20:21.720536,Jyoti Bikas Bank Limited
+2026041603006882,JBBL,58,95,382,379.0,144778.0,2026-04-16,186703659,418,Naasa Securities Co. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-16 14:20:25.894401,Jyoti Bikas Bank Limited
+2026041603006904,JBBL,58,43,1000,379.0,379000.0,2026-04-16,186703959,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:20:56.577304,Jyoti Bikas Bank Limited
+2026041603006955,JBBL,58,43,895,379.0,339205.0,2026-04-16,186704849,418,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-16 14:22:00.681341,Jyoti Bikas Bank Limited
+2026041603007052,JBBL,58,49,500,379.0,189500.0,2026-04-16,186706285,418,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:24:26.920250,Jyoti Bikas Bank Limited
+2026041603007069,JBBL,58,42,80,379.0,30320.0,2026-04-16,186706599,418,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:24:59.285190,Jyoti Bikas Bank Limited
+2026041603007079,JBBL,58,34,25,379.0,9475.0,2026-04-16,186706693,418,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:25:05.059086,Jyoti Bikas Bank Limited
+2026041603007082,JBBL,78,56,150,379.4,56910.0,2026-04-16,186706836,418,Garima Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:25:17.424794,Jyoti Bikas Bank Limited
+2026041603007169,JBBL,58,49,503,379.0,190637.0,2026-04-16,186710013,418,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:28:00.163727,Jyoti Bikas Bank Limited
+2026041603007183,JBBL,58,57,100,379.0,37900.0,2026-04-16,186710231,418,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 14:28:12.129222,Jyoti Bikas Bank Limited
+2026041603007201,JBBL,74,56,150,379.4,56910.0,2026-04-16,186711353,418,KALASH STOCK MARKET PVT. LTD.,Sri Hari Securities Pvt. Ltd.,2026-04-16 14:29:12.780204,Jyoti Bikas Bank Limited
+2026041603007202,JBBL,74,47,130,379.4,49322.0,2026-04-16,186711356,418,KALASH STOCK MARKET PVT. LTD.,Neev Securities Pvt. Ltd.,2026-04-16 14:29:12.780440,Jyoti Bikas Bank Limited
+2026041603007209,JBBL,36,47,20,379.4,7588.0,2026-04-16,186711465,418,Secured Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-16 14:29:27.239169,Jyoti Bikas Bank Limited
+2026041603007251,JBBL,34,39,100,380.0,38000.0,2026-04-16,186712014,418,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 14:30:05.600623,Jyoti Bikas Bank Limited
+2026041603007257,JBBL,36,17,10,379.4,3794.0,2026-04-16,186712100,418,Secured Securities Ltd.,ABC Securities Private Limited,2026-04-16 14:30:12.459375,Jyoti Bikas Bank Limited
+2026041603007258,JBBL,58,17,545,379.0,206555.0,2026-04-16,186712102,418,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-16 14:30:12.459636,Jyoti Bikas Bank Limited
+2026041603007289,JBBL,46,39,105,380.0,39900.0,2026-04-16,186713389,418,Kalika Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 14:31:08.491582,Jyoti Bikas Bank Limited
+2026041603007290,JBBL,46,25,50,380.0,19000.0,2026-04-16,186713391,418,Kalika Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-16 14:31:08.491900,Jyoti Bikas Bank Limited
+2026041603007291,JBBL,46,41,128,380.0,48640.0,2026-04-16,186713393,418,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:31:08.492021,Jyoti Bikas Bank Limited
+2026041603007292,JBBL,46,45,60,380.0,22800.0,2026-04-16,186713395,418,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:31:08.492132,Jyoti Bikas Bank Limited
+2026041603007293,JBBL,46,22,308,380.0,117040.0,2026-04-16,186713397,418,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:31:08.492234,Jyoti Bikas Bank Limited
+2026041603007294,JBBL,46,49,58,380.0,22040.0,2026-04-16,186713399,418,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:31:08.492337,Jyoti Bikas Bank Limited
+2026041603007295,JBBL,46,49,1140,380.0,433200.0,2026-04-16,186713401,418,Kalika Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:31:08.492539,Jyoti Bikas Bank Limited
+2026041603007296,JBBL,46,71,75,380.0,28500.0,2026-04-16,186713403,418,Kalika Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-16 14:31:08.492642,Jyoti Bikas Bank Limited
+2026041603007297,JBBL,46,34,150,380.0,57000.0,2026-04-16,186713405,418,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-16 14:31:08.492744,Jyoti Bikas Bank Limited
+2026041603007298,JBBL,46,29,300,380.0,114000.0,2026-04-16,186713407,418,Kalika Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:31:08.492844,Jyoti Bikas Bank Limited
+2026041603007299,JBBL,46,26,400,380.0,152000.0,2026-04-16,186713409,418,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-16 14:31:08.492941,Jyoti Bikas Bank Limited
+2026041603007300,JBBL,46,7,200,380.0,76000.0,2026-04-16,186713411,418,Kalika Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 14:31:08.493057,Jyoti Bikas Bank Limited
+2026041603007304,JBBL,46,46,100,380.0,38000.0,2026-04-16,186713531,418,Kalika Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-16 14:31:17.987667,Jyoti Bikas Bank Limited
+2026041603007311,JBBL,98,29,50,381.0,19050.0,2026-04-16,186713867,418,Trademow Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-16 14:31:36.069133,Jyoti Bikas Bank Limited
+2026041603007312,JBBL,98,48,1000,381.0,381000.0,2026-04-16,186713869,418,Trademow Securities Private Limited,Trishakti Securities Public Limited,2026-04-16 14:31:36.069247,Jyoti Bikas Bank Limited
+2026041603007313,JBBL,98,39,114,381.0,43434.0,2026-04-16,186713871,418,Trademow Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 14:31:36.069321,Jyoti Bikas Bank Limited
+2026041603007314,JBBL,98,43,500,381.0,190500.0,2026-04-16,186713873,418,Trademow Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:31:36.069393,Jyoti Bikas Bank Limited
+2026041603007315,JBBL,98,57,100,381.0,38100.0,2026-04-16,186713875,418,Trademow Securities Private Limited,Aryatara Investment & Securities,2026-04-16 14:31:36.069466,Jyoti Bikas Bank Limited
+2026041603007316,JBBL,98,13,50,381.7,19085.0,2026-04-16,186713877,418,Trademow Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:31:36.069546,Jyoti Bikas Bank Limited
+2026041603007317,JBBL,98,33,158,381.8,60324.4,2026-04-16,186713879,418,Trademow Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:31:36.069609,Jyoti Bikas Bank Limited
+2026041603007318,JBBL,98,13,20,382.0,7640.0,2026-04-16,186713881,418,Trademow Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-16 14:31:36.069681,Jyoti Bikas Bank Limited
+2026041603007404,JBBL,49,45,161,380.0,61180.0,2026-04-16,186716690,418,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:34:36.817171,Jyoti Bikas Bank Limited
+2026041603007408,JBBL,34,45,339,380.0,128820.0,2026-04-16,186716825,418,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:34:48.418366,Jyoti Bikas Bank Limited
+2026041603007431,JBBL,34,48,661,380.0,251180.0,2026-04-16,186717790,418,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-16 14:35:55.668516,Jyoti Bikas Bank Limited
+2026041603007432,JBBL,36,48,139,380.0,52820.0,2026-04-16,186717791,418,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-16 14:35:55.668761,Jyoti Bikas Bank Limited
+2026041603007433,JBBL,36,49,120,380.0,45600.0,2026-04-16,186717841,418,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:36:01.523190,Jyoti Bikas Bank Limited
+2026041603007452,JBBL,58,49,20,380.5,7610.0,2026-04-16,186718556,418,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:36:49.433894,Jyoti Bikas Bank Limited
+2026041603007453,JBBL,4,49,1000,380.1,380100.0,2026-04-16,186718558,418,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:36:49.434392,Jyoti Bikas Bank Limited
+2026041603007454,JBBL,36,49,480,380.0,182400.0,2026-04-16,186718559,418,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:36:49.434698,Jyoti Bikas Bank Limited
+2026041603007457,JBBL,36,59,200,380.0,76000.0,2026-04-16,186718611,418,Secured Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-16 14:36:54.092735,Jyoti Bikas Bank Limited
+2026041603007497,JBBL,37,57,200,380.6,76120.0,2026-04-16,186719719,418,Swarna Laxmi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 14:38:12.726268,Jyoti Bikas Bank Limited
+2026041603007546,JBBL,37,57,600,380.6,228360.0,2026-04-16,186720778,418,Swarna Laxmi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 14:39:21.701732,Jyoti Bikas Bank Limited
+2026041603007562,JBBL,36,58,10,380.0,3800.0,2026-04-16,186721401,418,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:39:53.162253,Jyoti Bikas Bank Limited
+2026041603007636,JBBL,36,3,18,380.0,6840.0,2026-04-16,186723197,418,Secured Securities Ltd.,Arun Securities (PVT) Ltd.,2026-04-16 14:41:38.284965,Jyoti Bikas Bank Limited
+2026041603007655,JBBL,34,57,100,380.6,38060.0,2026-04-16,186723576,418,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 14:42:05.716493,Jyoti Bikas Bank Limited
+2026041603007708,JBBL,36,35,22,380.0,8360.0,2026-04-16,186725493,418,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:43:49.865712,Jyoti Bikas Bank Limited
+2026041603007732,JBBL,36,76,11,380.0,4180.0,2026-04-16,186725830,418,Secured Securities Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:44:09.226832,Jyoti Bikas Bank Limited
+2026041603007733,JBBL,4,76,46,379.5,17457.0,2026-04-16,186725831,418,Opal Securities Investment (PVT) Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:44:09.226893,Jyoti Bikas Bank Limited
+2026041603007738,JBBL,4,45,954,379.5,362043.0,2026-04-16,186726106,418,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:44:19.008911,Jyoti Bikas Bank Limited
+2026041603007739,JBBL,58,45,796,379.5,302082.0,2026-04-16,186726107,418,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:44:19.009396,Jyoti Bikas Bank Limited
+2026041603007744,JBBL,58,76,10,379.5,3795.0,2026-04-16,186726161,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:44:22.137248,Jyoti Bikas Bank Limited
+2026041603007759,JBBL,58,33,494,379.5,187473.0,2026-04-16,186726910,418,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:44:54.427745,Jyoti Bikas Bank Limited
+2026041603007760,JBBL,56,33,500,379.1,189550.0,2026-04-16,186726912,418,Sri Hari Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:44:54.428242,Jyoti Bikas Bank Limited
+2026041603007761,JBBL,51,33,5000,379.1,1895500.0,2026-04-16,186726914,418,Oxford Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:44:54.428557,Jyoti Bikas Bank Limited
+2026041603007762,JBBL,57,33,150,379.0,56850.0,2026-04-16,186726916,418,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:44:54.428862,Jyoti Bikas Bank Limited
+2026041603007763,JBBL,58,33,4356,379.0,1650924.0,2026-04-16,186726917,418,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:44:54.429171,Jyoti Bikas Bank Limited
+2026041603007788,JBBL,58,40,30,379.0,11370.0,2026-04-16,186727423,418,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-16 14:45:21.108443,Jyoti Bikas Bank Limited
+2026041603007938,JBBL,58,49,310,379.0,117490.0,2026-04-16,186730209,418,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:47:48.166509,Jyoti Bikas Bank Limited
+2026041603007962,JBBL,11,41,20,380.0,7600.0,2026-04-16,186730598,418,Malla & Malla Stock Broking Company Pvt. Limited,Linch Stock Market Ltd.,2026-04-16 14:48:08.954168,Jyoti Bikas Bank Limited
+2026041603008055,JBBL,58,63,304,379.0,115216.0,2026-04-16,186732439,418,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-16 14:49:36.510989,Jyoti Bikas Bank Limited
+2026041603008056,JBBL,58,63,391,379.0,148189.0,2026-04-16,186732441,418,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-16 14:49:36.511039,Jyoti Bikas Bank Limited
+2026041603008128,JBBL,58,41,100,379.0,37900.0,2026-04-16,186734343,418,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-16 14:51:07.863454,Jyoti Bikas Bank Limited
+2026041603008151,JBBL,58,76,109,379.0,41311.0,2026-04-16,186734627,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:51:21.548198,Jyoti Bikas Bank Limited
+2026041603008157,JBBL,58,76,10,379.0,3790.0,2026-04-16,186734681,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:51:25.818734,Jyoti Bikas Bank Limited
+2026041603008176,JBBL,58,76,763,379.0,289177.0,2026-04-16,186734969,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:51:41.131312,Jyoti Bikas Bank Limited
+2026041603008199,JBBL,58,76,700,379.0,265300.0,2026-04-16,186735371,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:51:58.479154,Jyoti Bikas Bank Limited
+2026041603008215,JBBL,58,58,195,379.0,73905.0,2026-04-16,186735829,418,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:52:22.110390,Jyoti Bikas Bank Limited
+2026041603008262,JBBL,58,35,50,379.0,18950.0,2026-04-16,186737268,418,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:53:12.712761,Jyoti Bikas Bank Limited
+2026041603008277,JBBL,58,76,20,379.0,7580.0,2026-04-16,186737743,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:53:31.331200,Jyoti Bikas Bank Limited
+2026041603008290,JBBL,58,76,113,379.0,42827.0,2026-04-16,186737985,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:53:39.463991,Jyoti Bikas Bank Limited
+2026041603008299,JBBL,17,76,204,379.1,77336.4,2026-04-16,186738231,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:53:49.803057,Jyoti Bikas Bank Limited
+2026041603008301,JBBL,17,76,10,379.1,3791.0,2026-04-16,186738323,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:53:52.973575,Jyoti Bikas Bank Limited
+2026041603008306,JBBL,17,16,500,379.1,189550.0,2026-04-16,186738357,418,ABC Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-16 14:53:55.274824,Jyoti Bikas Bank Limited
+2026041603008309,JBBL,17,58,200,379.1,75820.0,2026-04-16,186738517,418,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 14:54:02.247060,Jyoti Bikas Bank Limited
+2026041603008322,JBBL,17,76,10,379.1,3791.0,2026-04-16,186739271,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:54:10.887848,Jyoti Bikas Bank Limited
+2026041603008329,JBBL,17,76,38,379.1,14405.8,2026-04-16,186739433,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:54:18.391225,Jyoti Bikas Bank Limited
+2026041603008330,JBBL,17,38,1000,379.1,379100.0,2026-04-16,186739443,418,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:54:18.963727,Jyoti Bikas Bank Limited
+2026041603008334,JBBL,17,76,38,379.1,14405.8,2026-04-16,186739656,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:54:26.267958,Jyoti Bikas Bank Limited
+2026041603008335,JBBL,58,76,152,379.0,57608.0,2026-04-16,186739657,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:54:26.268005,Jyoti Bikas Bank Limited
+2026041603008336,JBBL,58,76,10,379.0,3790.0,2026-04-16,186739799,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:54:30.855652,Jyoti Bikas Bank Limited
+2026041603008354,JBBL,58,76,298,379.0,112942.0,2026-04-16,186740001,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:54:38.532901,Jyoti Bikas Bank Limited
+2026041603008377,JBBL,58,76,208,379.0,78832.0,2026-04-16,186740173,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:54:46.089414,Jyoti Bikas Bank Limited
+2026041603008386,JBBL,41,76,50,379.1,18955.0,2026-04-16,186740410,418,Linch Stock Market Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:54:54.571704,Jyoti Bikas Bank Limited
+2026041603008387,JBBL,58,76,100,379.0,37900.0,2026-04-16,186740411,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:54:54.571776,Jyoti Bikas Bank Limited
+2026041603008400,JBBL,58,76,95,379.0,36005.0,2026-04-16,186740535,418,Naasa Securities Co. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:55:00.206046,Jyoti Bikas Bank Limited
+2026041603008415,JBBL,17,76,440,379.1,166804.0,2026-04-16,186740773,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:55:08.777851,Jyoti Bikas Bank Limited
+2026041603008416,JBBL,17,49,100,379.1,37910.0,2026-04-16,186740835,418,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 14:55:09.948907,Jyoti Bikas Bank Limited
+2026041603008417,JBBL,17,57,51,379.1,19334.1,2026-04-16,186740837,418,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-16 14:55:10.054519,Jyoti Bikas Bank Limited
+2026041603008431,JBBL,17,76,36,379.1,13647.6,2026-04-16,186740964,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:55:16.671348,Jyoti Bikas Bank Limited
+2026041603008442,JBBL,17,76,30,379.1,11373.0,2026-04-16,186741133,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:55:23.413200,Jyoti Bikas Bank Limited
+2026041603008455,JBBL,17,76,32,379.1,12131.2,2026-04-16,186741333,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:55:31.188299,Jyoti Bikas Bank Limited
+2026041603008467,JBBL,17,76,25,379.1,9477.5,2026-04-16,186741521,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:55:37.813353,Jyoti Bikas Bank Limited
+2026041603008480,JBBL,17,76,52,379.1,19713.2,2026-04-16,186741717,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:55:45.685274,Jyoti Bikas Bank Limited
+2026041603008482,JBBL,17,43,46,379.1,17438.6,2026-04-16,186741789,418,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:55:47.628159,Jyoti Bikas Bank Limited
+2026041603008486,JBBL,17,76,100,379.1,37910.0,2026-04-16,186741913,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:55:52.364656,Jyoti Bikas Bank Limited
+2026041603008505,JBBL,17,76,699,379.1,264990.9,2026-04-16,186742194,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:56:01.887117,Jyoti Bikas Bank Limited
+2026041603008514,JBBL,60,58,400,379.9,151960.0,2026-04-16,186742289,418,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-16 14:56:06.085193,Jyoti Bikas Bank Limited
+2026041603008515,JBBL,60,49,11,379.9,4178.9,2026-04-16,186742291,418,Nagarik Stock Dealer ,Online Securities Pvt. Ltd.,2026-04-16 14:56:06.085491,Jyoti Bikas Bank Limited
+2026041603008516,JBBL,60,41,180,380.0,68400.0,2026-04-16,186742293,418,Nagarik Stock Dealer ,Linch Stock Market Ltd.,2026-04-16 14:56:06.085601,Jyoti Bikas Bank Limited
+2026041603008517,JBBL,60,51,100,380.0,38000.0,2026-04-16,186742295,418,Nagarik Stock Dealer ,Oxford Securities Pvt. Ltd.,2026-04-16 14:56:06.085708,Jyoti Bikas Bank Limited
+2026041603008518,JBBL,60,29,309,380.0,117420.0,2026-04-16,186742298,418,Nagarik Stock Dealer ,Trisul Securities & Invt. Ltd.,2026-04-16 14:56:06.085811,Jyoti Bikas Bank Limited
+2026041603008522,JBBL,17,76,250,379.1,94775.0,2026-04-16,186742341,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:56:07.587975,Jyoti Bikas Bank Limited
+2026041603008540,JBBL,17,76,109,379.1,41321.9,2026-04-16,186742467,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:56:15.753316,Jyoti Bikas Bank Limited
+2026041603008560,JBBL,17,76,30,379.1,11373.0,2026-04-16,186742686,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:56:23.763748,Jyoti Bikas Bank Limited
+2026041603008561,JBBL,22,76,97,379.1,36772.7,2026-04-16,186742687,418,Siprabi Securities Pvt. Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:56:23.763844,Jyoti Bikas Bank Limited
+2026041603008592,JBBL,22,38,200,379.1,75820.0,2026-04-16,186743359,418,Siprabi Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:56:48.074649,Jyoti Bikas Bank Limited
+2026041603008600,JBBL,16,29,191,380.0,72580.0,2026-04-16,186743549,418,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:56:53.118633,Jyoti Bikas Bank Limited
+2026041603008601,JBBL,16,29,133,380.0,50540.0,2026-04-16,186743551,418,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:56:53.119138,Jyoti Bikas Bank Limited
+2026041603008602,JBBL,16,57,100,380.0,38000.0,2026-04-16,186743553,418,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-16 14:56:53.119563,Jyoti Bikas Bank Limited
+2026041603008603,JBBL,16,29,1576,380.0,598880.0,2026-04-16,186743556,418,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 14:56:53.119929,Jyoti Bikas Bank Limited
+2026041603008686,JBBL,22,68,50,379.1,18955.0,2026-04-16,186745261,418,Siprabi Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-16 14:57:41.602292,Jyoti Bikas Bank Limited
+2026041603008725,JBBL,68,8,100,379.9,37990.0,2026-04-16,186746333,418,Elite Stock House Limited,Brilliant Securities Pvt. Ltd.,2026-04-16 14:58:12.112990,Jyoti Bikas Bank Limited
+2026041603008726,JBBL,68,29,424,380.0,161120.0,2026-04-16,186746335,418,Elite Stock House Limited,Trisul Securities & Invt. Ltd.,2026-04-16 14:58:12.113499,Jyoti Bikas Bank Limited
+2026041603008727,JBBL,68,1,300,380.0,114000.0,2026-04-16,186746337,418,Elite Stock House Limited,Kumari Securities Private Limited,2026-04-16 14:58:12.113875,Jyoti Bikas Bank Limited
+2026041603008837,JBBL,68,11,140,380.0,53200.0,2026-04-16,186746677,418,Elite Stock House Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:58:15.509108,Jyoti Bikas Bank Limited
+2026041603008850,JBBL,68,37,500,380.0,190000.0,2026-04-16,186746975,418,Elite Stock House Limited,Swarna Laxmi Securities Pvt. Ltd.,2026-04-16 14:58:20.648351,Jyoti Bikas Bank Limited
+2026041603008861,JBBL,68,42,34,380.0,12920.0,2026-04-16,186747613,418,Elite Stock House Limited,Sani Securities Company Ltd.,2026-04-16 14:58:31.023672,Jyoti Bikas Bank Limited
+2026041603008865,JBBL,17,49,1000,380.5,380500.0,2026-04-16,186747772,418,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-16 14:58:35.558384,Jyoti Bikas Bank Limited
+2026041603008891,JBBL,57,57,100,380.6,38060.0,2026-04-16,186748139,418,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-16 14:58:44.130848,Jyoti Bikas Bank Limited
+2026041603008892,JBBL,57,29,120,380.6,45672.0,2026-04-16,186748141,418,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-16 14:58:44.131119,Jyoti Bikas Bank Limited
+2026041603008985,JBBL,57,45,80,380.6,30448.0,2026-04-16,186749078,418,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:59:00.685180,Jyoti Bikas Bank Limited
+2026041603008986,JBBL,22,45,415,380.6,157949.0,2026-04-16,186749080,418,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:59:00.685405,Jyoti Bikas Bank Limited
+2026041603009001,JBBL,68,76,246,380.0,93480.0,2026-04-16,186749227,418,Elite Stock House Limited,Machhapuchchhre Securities Limited,2026-04-16 14:59:03.240295,Jyoti Bikas Bank Limited
+2026041603009002,JBBL,68,80,710,380.0,269800.0,2026-04-16,186749229,418,Elite Stock House Limited,Indira securities pvt. ltd,2026-04-16 14:59:03.306928,Jyoti Bikas Bank Limited
+2026041603009012,JBBL,68,11,546,380.0,207480.0,2026-04-16,186749378,418,Elite Stock House Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:59:05.719462,Jyoti Bikas Bank Limited
+2026041603009013,JBBL,8,11,100,380.0,38000.0,2026-04-16,186749380,418,Brilliant Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:59:05.719994,Jyoti Bikas Bank Limited
+2026041603009014,JBBL,29,11,600,380.0,228000.0,2026-04-16,186749382,418,Trisul Securities & Invt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:59:05.720356,Jyoti Bikas Bank Limited
+2026041603009023,JBBL,52,11,500,380.0,190000.0,2026-04-16,186749622,418,Sundhara Securities Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:59:11.508556,Jyoti Bikas Bank Limited
+2026041603009029,JBBL,13,11,50,380.0,19000.0,2026-04-16,186749716,418,Thrive Brokerage House Pvt. Ltd,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:59:13.293640,Jyoti Bikas Bank Limited
+2026041603009038,JBBL,1,11,704,380.0,267520.0,2026-04-16,186749896,418,Kumari Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 14:59:17.085583,Jyoti Bikas Bank Limited
+2026041603009039,JBBL,1,43,200,380.0,76000.0,2026-04-16,186749898,418,Kumari Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-16 14:59:17.085826,Jyoti Bikas Bank Limited
+2026041603009042,JBBL,1,76,96,380.0,36480.0,2026-04-16,186749933,418,Kumari Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:59:17.627708,Jyoti Bikas Bank Limited
+2026041603009043,JBBL,14,76,11,379.2,4171.2,2026-04-16,186749934,418,Nepal Stock House (PVT) Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:59:17.627748,Jyoti Bikas Bank Limited
+2026041603009095,JBBL,14,76,69,379.2,26164.8,2026-04-16,186750766,418,Nepal Stock House (PVT) Ltd.,Machhapuchchhre Securities Limited,2026-04-16 14:59:27.813027,Jyoti Bikas Bank Limited
+2026041603009096,JBBL,17,76,31,379.2,11755.2,2026-04-16,186750767,418,ABC Securities Private Limited,Machhapuchchhre Securities Limited,2026-04-16 14:59:27.813069,Jyoti Bikas Bank Limited
+2026041603009128,JBBL,17,35,100,380.0,38000.0,2026-04-16,186751429,418,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:35.886000,Jyoti Bikas Bank Limited
+2026041603009187,JBBL,17,45,500,380.0,190000.0,2026-04-16,186752137,418,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:59:43.810541,Jyoti Bikas Bank Limited
+2026041603009188,JBBL,17,42,1000,380.0,380000.0,2026-04-16,186752605,418,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-16 14:59:44.132931,Jyoti Bikas Bank Limited
