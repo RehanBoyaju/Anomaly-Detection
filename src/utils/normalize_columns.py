@@ -3,6 +3,7 @@ from pathlib import Path
 import pandas as pd
 from datetime import date
 import sys
+import re
 
 
 # today = str(date.today())
@@ -78,6 +79,7 @@ def normalize_intraday_test_columns(input,output) :
         date = date_folder.name
 
         output_dir = Path(output) / date
+
         output_dir.mkdir(parents=True,exist_ok=True)
 
 
@@ -105,18 +107,37 @@ def normalize_intraday_test_columns(input,output) :
 # normalize_intraday_columns(f"{BASE_DIR}NEPSE_API/data/intraday/2026-04-10","../data/intraday/2026-04-10")
 
 
-latest_daily_data = Path(f"{BASE_DIR}/NEPSE_API/data/intraday");
+# latest_daily_data = Path(f"{BASE_DIR}/NEPSE_API/data/intraday");
 
-for date_folder in latest_daily_data.iterdir() :
-    if not date_folder.is_dir(): continue
+# for date_folder in latest_daily_data.iterdir() :
+#     if not date_folder.is_dir(): continue
 
-    date = date_folder.name
+#     date = date_folder.name
     
-    normalize_intraday_columns(date_folder,f"{BASE_DIR}/AnomalyEngine/data/intraday/{date}");
+#     normalize_intraday_columns(date_folder,f"{BASE_DIR}/AnomalyEngine/data/intraday/{date}");
     
+def normalize_scraped_floor_data(input="./floor-2026-04-28.csv",output="./../../data/intraday/2026-04-28"):
     
+    df = pd.read_csv(Path(input))
+
+    output_dir = Path(output)
+    output_dir.mkdir(parents=True,exist_ok=True)
 
 
+    tickers = df["Symbol"].unique()
+
+    for ticker in tickers:
+
+        ticker_df = df[df["Symbol"] == ticker]
+        # Replace any character that is not a letter, number, underscore, or dash with underscore
+        safe_ticker = re.sub(r'[^A-Za-z0-9_\-]', '_', ticker)
+
+
+        ticker_df.to_csv(output_dir / f"{safe_ticker}.csv", index=False)
+
+
+
+normalize_scraped_floor_data()
 
 
 
