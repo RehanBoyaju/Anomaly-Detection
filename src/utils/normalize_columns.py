@@ -116,19 +116,54 @@ def normalize_intraday_test_columns(input,output) :
     
 #     normalize_intraday_columns(date_folder,f"{BASE_DIR}/AnomalyEngine/data/intraday/{date}");
     
-def normalize_scraped_floor_data(input="./floor-2026-04-28.csv",output="./../../data/intraday/2026-04-28"):
+def normalize_scraped_floor_data(input="./floorsheet/floor-2026-04-28.csv",output="./../../data/intraday/2026-04-28"):
     
-    df = pd.read_csv(Path(input))
+    
+    df = pd.read_csv(Path(input), engine="python")
 
     output_dir = Path(output)
-    output_dir.mkdir(parents=True,exist_ok=True)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
+    df["transaction_time"] = df["transaction_time"].astype(str)
 
-    tickers = df["Symbol"].unique()
+    # 1. remove commas
+    df["transaction_time"] = df["transaction_time"].str.replace(",", "", regex=False)
+
+    # 2. fix ms safely using function
+    def fix_ms(ts):
+        match = re.match(r"(.*:\d{2}:\d{2}):(\d{1,3}) (AM|PM)", ts)
+        if match:
+            base = match.group(1)
+            ms = match.group(2)
+
+            # normalize to 3 digits safely
+            ms = ms.zfill(3)
+
+            return f"{base}.{ms} {match.group(3)}"
+
+        return ts
+
+    df["transaction_time"] = df["transaction_time"].apply(fix_ms)
+
+    # 3. parse datetime
+    df["transaction_time"] = pd.to_datetime(df["transaction_time"], errors="coerce")
+
+    # bad_rows = df[df["transaction_time"].isna()]
+    # print(bad_rows.head(20))
+    
+    df= df.rename(columns={
+        "Symbol":"stockSymbol",
+        "volume":"quantity",
+        "Contract ID":"contractId",
+        
+    })
+    
+
+    tickers = df["stockSymbol"].unique()
 
     for ticker in tickers:
 
-        ticker_df = df[df["Symbol"] == ticker]
+        ticker_df = df[df["stockSymbol"] == ticker]
         # Replace any character that is not a letter, number, underscore, or dash with underscore
         safe_ticker = re.sub(r'[^A-Za-z0-9_\-]', '_', ticker)
 
