@@ -1,0 +1,68 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042703000002,NLICL,3,20,10,571.0,5710.0,2026-04-27,187953255,178,Arun Securities (PVT) Ltd.,Sipla Securities Private Limited,2026-04-27 10:46:00.016620,National Life Insurance Co. Ltd.
+2026042703000029,NLICL,20,20,10,588.1,5881.0,2026-04-27,187953629,178,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-27 11:00:17.952199,National Life Insurance Co. Ltd.
+2026042703000031,NLICL,20,20,10,605.7,6057.0,2026-04-27,187953674,178,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-27 11:00:24.391301,National Life Insurance Co. Ltd.
+2026042703000039,NLICL,20,36,93,588.0,54684.0,2026-04-27,187953837,178,Sipla Securities Private Limited,Secured Securities Ltd.,2026-04-27 11:00:37.421847,National Life Insurance Co. Ltd.
+2026042703000040,NLICL,20,20,14907,623.8,9298986.6,2026-04-27,187953840,178,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-27 11:00:37.421939,National Life Insurance Co. Ltd.
+2026042703000041,NLICL,20,20,93,623.8,58013.4,2026-04-27,187954023,178,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-27 11:00:53.450675,National Life Insurance Co. Ltd.
+2026042703000046,NLICL,3,17,10,576.0,5760.0,2026-04-27,187954149,178,Arun Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-27 11:01:04.154543,National Life Insurance Co. Ltd.
+2026042703000051,NLICL,20,20,180,593.2,106776.0,2026-04-27,187954640,178,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-27 11:01:43.662785,National Life Insurance Co. Ltd.
+2026042703000071,NLICL,20,47,20,605.0,12100.0,2026-04-27,187955497,178,Sipla Securities Private Limited,Neev Securities Pvt. Ltd.,2026-04-27 11:03:01.384180,National Life Insurance Co. Ltd.
+2026042703000072,NLICL,20,40,100,609.8,60980.0,2026-04-27,187955500,178,Sipla Securities Private Limited,Creative Securities Pvt Ltd,2026-04-27 11:03:01.384230,National Life Insurance Co. Ltd.
+2026042703000128,NLICL,20,52,40,598.0,23920.0,2026-04-27,187958065,178,Sipla Securities Private Limited,Sundhara Securities Limited,2026-04-27 11:06:37.539386,National Life Insurance Co. Ltd.
+2026042703000129,NLICL,20,58,60,598.9,35934.0,2026-04-27,187958068,178,Sipla Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-27 11:06:37.539544,National Life Insurance Co. Ltd.
+2026042703000156,NLICL,21,58,10,592.0,5920.0,2026-04-27,187959492,178,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-27 11:08:10.536894,National Life Insurance Co. Ltd.
+2026042703000157,NLICL,57,58,10,592.0,5920.0,2026-04-27,187959493,178,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-27 11:08:10.537065,National Life Insurance Co. Ltd.
+2026042703000472,NLICL,20,49,118,578.7,68286.6,2026-04-27,187969603,178,Sipla Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-27 11:19:06.979732,National Life Insurance Co. Ltd.
+2026042703000680,NLICL,34,47,100,580.0,58000.0,2026-04-27,187975980,178,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-27 11:27:09.958038,National Life Insurance Co. Ltd.
+2026042703000681,NLICL,33,47,100,580.0,58000.0,2026-04-27,187975981,178,Dakshinkali Investment & Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 11:27:09.958158,National Life Insurance Co. Ltd.
+2026042703001019,NLICL,54,36,10,580.0,5800.0,2026-04-27,187985000,178,Sewa Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 11:39:03.925831,National Life Insurance Co. Ltd.
+2026042703001025,NLICL,20,4,50,579.3,28965.0,2026-04-27,187985233,178,Sipla Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-27 11:39:26.093319,National Life Insurance Co. Ltd.
+2026042703001102,NLICL,75,36,120,580.0,69600.0,2026-04-27,187986534,178,N.I.M.B. Stock Markets Limited,Secured Securities Ltd.,2026-04-27 11:41:28.881589,National Life Insurance Co. Ltd.
+2026042703001118,NLICL,20,4,17,579.3,9848.1,2026-04-27,187987061,178,Sipla Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-27 11:42:05.711777,National Life Insurance Co. Ltd.
+2026042703001325,NLICL,57,36,10,580.0,5800.0,2026-04-27,187992586,178,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-27 11:51:06.739300,National Life Insurance Co. Ltd.
+2026042703001388,NLICL,42,36,50,580.0,29000.0,2026-04-27,187994760,178,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-27 11:53:30.763867,National Life Insurance Co. Ltd.
+2026042703001431,NLICL,20,36,20,580.0,11600.0,2026-04-27,187995579,178,Sipla Securities Private Limited,Secured Securities Ltd.,2026-04-27 11:54:59.941651,National Life Insurance Co. Ltd.
+2026042703001432,NLICL,20,56,21,580.0,12180.0,2026-04-27,187995581,178,Sipla Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-27 11:54:59.941746,National Life Insurance Co. Ltd.
+2026042703001684,NLICL,36,6,50,580.0,29000.0,2026-04-27,188002732,178,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 12:08:30.447594,National Life Insurance Co. Ltd.
+2026042703001685,NLICL,82,6,150,580.0,87000.0,2026-04-27,188002734,178,N.M.B. SECURITIES LIMITED,Agrawal Securities (PVT) Ltd.,2026-04-27 12:08:30.447817,National Life Insurance Co. Ltd.
+2026042703001686,NLICL,8,6,20,580.0,11600.0,2026-04-27,188002735,178,Brilliant Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 12:08:30.447954,National Life Insurance Co. Ltd.
+2026042703002114,NLICL,45,6,10,580.0,5800.0,2026-04-27,188013204,178,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 12:28:19.475009,National Life Insurance Co. Ltd.
+2026042703002115,NLICL,33,6,1000,580.0,580000.0,2026-04-27,188013205,178,Dakshinkali Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 12:28:19.475167,National Life Insurance Co. Ltd.
+2026042703002385,NLICL,46,26,10,579.5,5795.0,2026-04-27,188018764,178,Kalika Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-27 12:39:52.517168,National Life Insurance Co. Ltd.
+2026042703002405,NLICL,54,38,10,579.3,5793.0,2026-04-27,188019098,178,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 12:40:18.105826,National Life Insurance Co. Ltd.
+2026042703002406,NLICL,56,38,44,579.3,25489.2,2026-04-27,188019099,178,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 12:40:18.105874,National Life Insurance Co. Ltd.
+2026042703002615,NLICL,94,6,13,580.0,7540.0,2026-04-27,188022924,178,K.B.L. Securities Limited ,Agrawal Securities (PVT) Ltd.,2026-04-27 12:48:11.017297,National Life Insurance Co. Ltd.
+2026042703002616,NLICL,33,6,16,580.0,9280.0,2026-04-27,188022925,178,Dakshinkali Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 12:48:11.017519,National Life Insurance Co. Ltd.
+2026042703002676,NLICL,33,36,150,580.0,87000.0,2026-04-27,188023887,178,Dakshinkali Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 12:50:11.993727,National Life Insurance Co. Ltd.
+2026042703003022,NLICL,6,44,20,587.9,11758.0,2026-04-27,188028590,178,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 12:59:52.594433,National Life Insurance Co. Ltd.
+2026042703004045,NLICL,14,34,10,586.0,5860.0,2026-04-27,188049028,178,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-27 13:36:59.614268,National Life Insurance Co. Ltd.
+2026042703004580,NLICL,20,54,272,581.1,158059.2,2026-04-27,188058925,178,Sipla Securities Private Limited,Sewa Securities Pvt. Ltd.,2026-04-27 13:54:58.165491,National Life Insurance Co. Ltd.
+2026042703004587,NLICL,57,16,50,581.0,29050.0,2026-04-27,188059057,178,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-27 13:55:20.567776,National Life Insurance Co. Ltd.
+2026042703004594,NLICL,57,50,109,581.0,63329.0,2026-04-27,188059163,178,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:55:32.320324,National Life Insurance Co. Ltd.
+2026042703004596,NLICL,57,32,41,581.0,23821.0,2026-04-27,188059292,178,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-27 13:55:49.627147,National Life Insurance Co. Ltd.
+2026042703004597,NLICL,26,32,20,580.1,11602.0,2026-04-27,188059294,178,Asian Securities Private Ltd.,Premier Securities Company Ltd.,2026-04-27 13:55:49.627324,National Life Insurance Co. Ltd.
+2026042703004598,NLICL,33,32,644,580.0,373520.0,2026-04-27,188059295,178,Dakshinkali Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 13:55:49.627412,National Life Insurance Co. Ltd.
+2026042703004807,NLICL,42,49,48,585.0,28080.0,2026-04-27,188063117,178,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:03:45.156779,National Life Insurance Co. Ltd.
+2026042703004971,NLICL,56,42,26,579.3,15061.8,2026-04-27,188066278,178,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 14:09:11.279186,National Life Insurance Co. Ltd.
+2026042703005167,NLICL,33,65,20,585.0,11700.0,2026-04-27,188070365,178,Dakshinkali Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-27 14:15:50.559628,National Life Insurance Co. Ltd.
+2026042703005168,NLICL,33,39,53,585.0,31005.0,2026-04-27,188070367,178,Dakshinkali Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-27 14:15:50.559768,National Life Insurance Co. Ltd.
+2026042703005169,NLICL,33,34,90,586.0,52740.0,2026-04-27,188070369,178,Dakshinkali Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:15:50.559826,National Life Insurance Co. Ltd.
+2026042703005170,NLICL,33,33,211,586.8,123814.8,2026-04-27,188070371,178,Dakshinkali Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-27 14:15:50.559907,National Life Insurance Co. Ltd.
+2026042703005171,NLICL,33,51,426,586.9,250019.4,2026-04-27,188070374,178,Dakshinkali Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-27 14:15:50.560006,National Life Insurance Co. Ltd.
+2026042703005333,NLICL,42,14,2,586.8,1173.6,2026-04-27,188073159,178,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:20:28.594151,National Life Insurance Co. Ltd.
+2026042703005338,NLICL,57,58,50,586.8,29340.0,2026-04-27,188073318,178,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-27 14:20:43.541300,National Life Insurance Co. Ltd.
+2026042703005341,NLICL,20,14,2,581.1,1162.2,2026-04-27,188073427,178,Sipla Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-27 14:20:49.672365,National Life Insurance Co. Ltd.
+2026042703006050,NLICL,35,47,50,583.5,29175.0,2026-04-27,188087556,178,Kohinoor Investment & Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 14:39:50.089881,National Life Insurance Co. Ltd.
+2026042703006051,NLICL,57,47,100,582.0,58200.0,2026-04-27,188087558,178,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,2026-04-27 14:39:50.090056,National Life Insurance Co. Ltd.
+2026042703006052,NLICL,26,47,20,580.1,11602.0,2026-04-27,188087560,178,Asian Securities Private Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 14:39:50.090115,National Life Insurance Co. Ltd.
+2026042703006053,NLICL,65,47,130,580.0,75400.0,2026-04-27,188087561,178,Sharepro Securities Private Limited,Neev Securities Pvt. Ltd.,2026-04-27 14:39:50.090181,National Life Insurance Co. Ltd.
+2026042703006071,NLICL,4,82,20,585.0,11700.0,2026-04-27,188088228,178,Opal Securities Investment (PVT) Ltd.,N.M.B. SECURITIES LIMITED,2026-04-27 14:40:26.311375,National Life Insurance Co. Ltd.
+2026042703006639,NLICL,47,82,45,585.0,26325.0,2026-04-27,188098609,178,Neev Securities Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-27 14:51:29.152848,National Life Insurance Co. Ltd.
+2026042703006640,NLICL,47,36,150,585.0,87750.0,2026-04-27,188098611,178,Neev Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 14:51:29.153200,National Life Insurance Co. Ltd.
+2026042703006641,NLICL,35,41,50,585.0,29250.0,2026-04-27,188098614,178,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 14:51:29.223896,National Life Insurance Co. Ltd.
+2026042703006737,NLICL,57,58,15,586.5,8797.5,2026-04-27,188100470,178,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-27 14:53:06.933755,National Life Insurance Co. Ltd.
+2026042703006824,NLICL,47,7,105,585.0,61425.0,2026-04-27,188102475,178,Neev Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:54:40.124252,National Life Insurance Co. Ltd.
+2026042703007258,NLICL,47,58,30,582.0,17460.0,2026-04-27,188111587,178,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:59:26.563235,National Life Insurance Co. Ltd.
+2026042703007285,NLICL,47,16,50,583.0,29150.0,2026-04-27,188112371,178,Neev Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:59:35.418830,National Life Insurance Co. Ltd.
+2026042703007366,NLICL,47,7,210,584.0,122640.0,2026-04-27,188114194,178,Neev Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:59:56.618308,National Life Insurance Co. Ltd.

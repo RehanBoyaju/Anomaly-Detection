@@ -1,0 +1,98 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042203000448,MDB,65,42,100,592.3,59230.0,2026-04-22,187384660,371,Sharepro Securities Private Limited,Sani Securities Company Ltd.,2026-04-22 11:12:22.587238,Miteri Development Bank Limited
+2026042203000449,MDB,29,42,200,592.2,118440.0,2026-04-22,187384661,371,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-22 11:12:22.587279,Miteri Development Bank Limited
+2026042203000616,MDB,34,49,160,593.1,94896.0,2026-04-22,187390188,371,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-22 11:16:30.611789,Miteri Development Bank Limited
+2026042203000617,MDB,32,49,840,593.0,498120.0,2026-04-22,187390189,371,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-22 11:16:30.611945,Miteri Development Bank Limited
+2026042203000858,MDB,34,34,500,594.0,297000.0,2026-04-22,187398881,371,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-22 11:22:12.309606,Miteri Development Bank Limited
+2026042203001418,MDB,43,42,20,600.0,12000.0,2026-04-22,187413166,371,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-22 11:35:37.595757,Miteri Development Bank Limited
+2026042203001436,MDB,42,42,35,600.0,21000.0,2026-04-22,187413813,371,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-22 11:36:20.941631,Miteri Development Bank Limited
+2026042203001437,MDB,42,14,51,600.0,30600.0,2026-04-22,187413816,371,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-22 11:36:20.941712,Miteri Development Bank Limited
+2026042203001468,MDB,33,14,158,600.0,94800.0,2026-04-22,187415163,371,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-22 11:37:46.999381,Miteri Development Bank Limited
+2026042203001469,MDB,33,33,42,600.0,25200.0,2026-04-22,187415166,371,Dakshinkali Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:37:46.999556,Miteri Development Bank Limited
+2026042203001490,MDB,21,33,100,600.0,60000.0,2026-04-22,187415634,371,Midas Stock Broking Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:38:11.706977,Miteri Development Bank Limited
+2026042203001784,MDB,17,33,10,598.0,5980.0,2026-04-22,187420966,371,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.661508,Miteri Development Bank Limited
+2026042203001785,MDB,51,33,62,596.1,36958.2,2026-04-22,187420968,371,Oxford Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.661727,Miteri Development Bank Limited
+2026042203001786,MDB,84,33,99,596.1,59013.9,2026-04-22,187420970,371,MILKY WAY SHARE BROKER COMPANY LTD ,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.661837,Miteri Development Bank Limited
+2026042203001787,MDB,49,33,200,596.0,119200.0,2026-04-22,187420972,371,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.661946,Miteri Development Bank Limited
+2026042203001788,MDB,32,33,85,596.0,50660.0,2026-04-22,187420974,371,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662062,Miteri Development Bank Limited
+2026042203001789,MDB,59,33,300,596.0,178800.0,2026-04-22,187420976,371,Deevyaa Securities & Stock House Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662160,Miteri Development Bank Limited
+2026042203001790,MDB,44,33,80,595.0,47600.0,2026-04-22,187420978,371,Dynamic Money Managers Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662262,Miteri Development Bank Limited
+2026042203001791,MDB,49,33,100,595.0,59500.0,2026-04-22,187420980,371,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662356,Miteri Development Bank Limited
+2026042203001792,MDB,43,33,60,595.0,35700.0,2026-04-22,187420982,371,South Asian Bulls Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662457,Miteri Development Bank Limited
+2026042203001793,MDB,45,33,100,594.1,59410.0,2026-04-22,187420984,371,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662567,Miteri Development Bank Limited
+2026042203001794,MDB,58,33,50,594.1,29705.0,2026-04-22,187420986,371,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662668,Miteri Development Bank Limited
+2026042203001795,MDB,29,33,54,594.1,32081.4,2026-04-22,187420987,371,Trisul Securities & Invt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:43:29.662761,Miteri Development Bank Limited
+2026042203001828,MDB,29,33,58,594.1,34457.8,2026-04-22,187422051,371,Trisul Securities & Invt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:44:27.733738,Miteri Development Bank Limited
+2026042203002686,MDB,17,21,500,599.1,299550.0,2026-04-22,187447184,371,ABC Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-22 12:06:13.348138,Miteri Development Bank Limited
+2026042203002687,MDB,1,21,120,598.0,71760.0,2026-04-22,187447186,371,Kumari Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-22 12:06:13.348178,Miteri Development Bank Limited
+2026042203002688,MDB,43,21,13,595.0,7735.0,2026-04-22,187447188,371,South Asian Bulls Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-22 12:06:13.348209,Miteri Development Bank Limited
+2026042203002689,MDB,29,21,65,595.0,38675.0,2026-04-22,187447189,371,Trisul Securities & Invt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-22 12:06:13.348237,Miteri Development Bank Limited
+2026042203002827,MDB,17,35,200,596.0,119200.0,2026-04-22,187451540,371,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-22 12:09:55.253269,Miteri Development Bank Limited
+2026042203002855,MDB,29,35,35,595.0,20825.0,2026-04-22,187452444,371,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-22 12:10:51.682687,Miteri Development Bank Limited
+2026042203002856,MDB,19,35,100,595.0,59500.0,2026-04-22,187452446,371,Nepal Investment And Securities Trading Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-22 12:10:51.682808,Miteri Development Bank Limited
+2026042203002870,MDB,64,35,100,594.3,59430.0,2026-04-22,187453064,371,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-22 12:11:19.963123,Miteri Development Bank Limited
+2026042203002871,MDB,49,35,65,594.3,38629.5,2026-04-22,187453065,371,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-22 12:11:19.963214,Miteri Development Bank Limited
+2026042203002931,MDB,57,53,101,594.5,60044.5,2026-04-22,187455010,371,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:12:52.348982,Miteri Development Bank Limited
+2026042203002932,MDB,49,53,35,594.3,20800.5,2026-04-22,187455012,371,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:12:52.349185,Miteri Development Bank Limited
+2026042203002933,MDB,49,53,100,594.2,59420.0,2026-04-22,187455014,371,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:12:52.349295,Miteri Development Bank Limited
+2026042203002934,MDB,32,53,500,594.2,297100.0,2026-04-22,187455016,371,Premier Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:12:52.349399,Miteri Development Bank Limited
+2026042203002935,MDB,16,53,50,594.0,29700.0,2026-04-22,187455018,371,Primo Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:12:52.349503,Miteri Development Bank Limited
+2026042203002936,MDB,1,53,100,594.0,59400.0,2026-04-22,187455020,371,Kumari Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:12:52.349656,Miteri Development Bank Limited
+2026042203002937,MDB,34,53,50,594.0,29700.0,2026-04-22,187455022,371,Vision Securities Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:12:52.349755,Miteri Development Bank Limited
+2026042203002944,MDB,42,53,64,593.3,37971.2,2026-04-22,187455195,371,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-22 12:13:01.049930,Miteri Development Bank Limited
+2026042203003426,MDB,16,42,150,593.5,89025.0,2026-04-22,187466325,371,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-22 12:23:14.755314,Miteri Development Bank Limited
+2026042203004499,MDB,17,65,100,594.6,59460.0,2026-04-22,187492935,371,ABC Securities Private Limited,Sharepro Securities Private Limited,2026-04-22 12:49:23.255281,Miteri Development Bank Limited
+2026042203004576,MDB,32,43,10,594.7,5947.0,2026-04-22,187494895,371,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-22 12:52:29.530017,Miteri Development Bank Limited
+2026042203004938,MDB,17,34,30,596.1,17883.0,2026-04-22,187502983,371,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-22 13:04:52.994618,Miteri Development Bank Limited
+2026042203005041,MDB,28,74,100,596.5,59650.0,2026-04-22,187505545,371,Shree Krishna Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:08:57.651919,Miteri Development Bank Limited
+2026042203005054,MDB,17,74,100,596.1,59610.0,2026-04-22,187505835,371,ABC Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:09:22.186854,Miteri Development Bank Limited
+2026042203005068,MDB,17,74,70,596.1,41727.0,2026-04-22,187506200,371,ABC Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:09:51.636885,Miteri Development Bank Limited
+2026042203005069,MDB,65,74,200,596.1,119220.0,2026-04-22,187506201,371,Sharepro Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:09:51.636996,Miteri Development Bank Limited
+2026042203005469,MDB,32,74,230,598.0,137540.0,2026-04-22,187517429,371,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:27:20.024868,Miteri Development Bank Limited
+2026042203005470,MDB,32,34,50,599.0,29950.0,2026-04-22,187517431,371,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-22 13:27:20.025140,Miteri Development Bank Limited
+2026042203005471,MDB,32,16,50,599.9,29995.0,2026-04-22,187517433,371,Premier Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-22 13:27:20.025296,Miteri Development Bank Limited
+2026042203005472,MDB,32,58,10,600.0,6000.0,2026-04-22,187517435,371,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-22 13:27:20.025436,Miteri Development Bank Limited
+2026042203005473,MDB,32,60,960,600.0,576000.0,2026-04-22,187517438,371,Premier Securities Company Ltd.,Nagarik Stock Dealer ,2026-04-22 13:27:20.025574,Miteri Development Bank Limited
+2026042203005533,MDB,36,60,25,600.0,15000.0,2026-04-22,187518776,371,Secured Securities Ltd.,Nagarik Stock Dealer ,2026-04-22 13:29:34.002274,Miteri Development Bank Limited
+2026042203005739,MDB,34,60,15,600.0,9000.0,2026-04-22,187523405,371,Vision Securities Pvt. Ltd,Nagarik Stock Dealer ,2026-04-22 13:37:24.852156,Miteri Development Bank Limited
+2026042203005778,MDB,34,34,35,600.0,21000.0,2026-04-22,187524572,371,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-22 13:39:23.357353,Miteri Development Bank Limited
+2026042203005779,MDB,45,34,100,597.1,59710.0,2026-04-22,187524574,371,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-22 13:39:23.357463,Miteri Development Bank Limited
+2026042203005780,MDB,32,34,65,597.0,38805.0,2026-04-22,187524575,371,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-22 13:39:23.357527,Miteri Development Bank Limited
+2026042203005855,MDB,32,33,435,597.0,259695.0,2026-04-22,187526544,371,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:42:50.677650,Miteri Development Bank Limited
+2026042203005856,MDB,42,33,10,596.1,5961.0,2026-04-22,187526546,371,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:42:50.677953,Miteri Development Bank Limited
+2026042203005857,MDB,40,33,500,596.1,298050.0,2026-04-22,187526548,371,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:42:50.678127,Miteri Development Bank Limited
+2026042203005858,MDB,41,33,70,596.0,41720.0,2026-04-22,187526550,371,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:42:50.678278,Miteri Development Bank Limited
+2026042203005859,MDB,32,33,985,596.0,587060.0,2026-04-22,187526551,371,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:42:50.678422,Miteri Development Bank Limited
+2026042203006209,MDB,32,33,90,596.2,53658.0,2026-04-22,187534066,371,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.420809,Miteri Development Bank Limited
+2026042203006210,MDB,58,33,10,596.2,5962.0,2026-04-22,187534068,371,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.420932,Miteri Development Bank Limited
+2026042203006211,MDB,17,33,100,596.1,59610.0,2026-04-22,187534070,371,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.420996,Miteri Development Bank Limited
+2026042203006212,MDB,57,33,50,596.1,29805.0,2026-04-22,187534072,371,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.421057,Miteri Development Bank Limited
+2026042203006213,MDB,32,33,215,596.0,128140.0,2026-04-22,187534074,371,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.421110,Miteri Development Bank Limited
+2026042203006214,MDB,32,33,160,596.0,95360.0,2026-04-22,187534076,371,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.421161,Miteri Development Bank Limited
+2026042203006215,MDB,17,33,300,595.5,178650.0,2026-04-22,187534078,371,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.421293,Miteri Development Bank Limited
+2026042203006216,MDB,17,33,75,595.4,44655.0,2026-04-22,187534079,371,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:25.421435,Miteri Development Bank Limited
+2026042203006227,MDB,17,33,25,595.4,14885.0,2026-04-22,187534326,371,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:48.152989,Miteri Development Bank Limited
+2026042203006228,MDB,32,33,500,595.2,297600.0,2026-04-22,187534328,371,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:48.153257,Miteri Development Bank Limited
+2026042203006229,MDB,85,33,10,595.0,5950.0,2026-04-22,187534330,371,Capital Hub P. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:48.153397,Miteri Development Bank Limited
+2026042203006230,MDB,65,33,100,595.0,59500.0,2026-04-22,187534332,371,Sharepro Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:48.153523,Miteri Development Bank Limited
+2026042203006231,MDB,65,33,65,595.0,38675.0,2026-04-22,187534333,371,Sharepro Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 13:56:48.153654,Miteri Development Bank Limited
+2026042203007192,MDB,26,19,10,596.0,5960.0,2026-04-22,187556237,371,Asian Securities Private Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 14:29:03.297088,Miteri Development Bank Limited
+2026042203007220,MDB,26,48,190,596.0,113240.0,2026-04-22,187556734,371,Asian Securities Private Ltd.,Trishakti Securities Public Limited,2026-04-22 14:29:40.115773,Miteri Development Bank Limited
+2026042203007272,MDB,65,48,300,596.0,178800.0,2026-04-22,187557812,371,Sharepro Securities Private Limited,Trishakti Securities Public Limited,2026-04-22 14:31:02.076391,Miteri Development Bank Limited
+2026042203007305,MDB,36,48,10,596.0,5960.0,2026-04-22,187558242,371,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-22 14:31:33.968513,Miteri Development Bank Limited
+2026042203007767,MDB,42,14,35,601.0,21035.0,2026-04-22,187571220,371,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-22 14:41:08.391226,Miteri Development Bank Limited
+2026042203008073,MDB,17,14,265,601.0,159265.0,2026-04-22,187579015,371,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-22 14:44:10.946090,Miteri Development Bank Limited
+2026042203008074,MDB,17,11,235,603.0,141705.0,2026-04-22,187579018,371,ABC Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-22 14:44:10.946225,Miteri Development Bank Limited
+2026042203008098,MDB,17,11,265,603.0,159795.0,2026-04-22,187579486,371,ABC Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-22 14:44:21.665345,Miteri Development Bank Limited
+2026042203008742,MDB,25,21,10,604.0,6040.0,2026-04-22,187592649,371,Sweta Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-22 14:50:14.631755,Miteri Development Bank Limited
+2026042203008789,MDB,25,34,90,604.9,54441.0,2026-04-22,187593458,371,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-22 14:50:45.881262,Miteri Development Bank Limited
+2026042203008822,MDB,42,34,100,604.9,60490.0,2026-04-22,187594382,371,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-22 14:51:09.772332,Miteri Development Bank Limited
+2026042203008928,MDB,29,34,310,604.5,187395.0,2026-04-22,187595869,371,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-22 14:52:02.659771,Miteri Development Bank Limited
+2026042203009031,MDB,29,45,100,605.0,60500.0,2026-04-22,187597911,371,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:53:17.091537,Miteri Development Bank Limited
+2026042203009032,MDB,29,51,100,607.2,60720.0,2026-04-22,187597914,371,Trisul Securities & Invt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-22 14:53:17.091789,Miteri Development Bank Limited
+2026042203009056,MDB,29,51,200,607.2,121440.0,2026-04-22,187598670,371,Trisul Securities & Invt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-22 14:53:45.155526,Miteri Development Bank Limited
+2026042203009250,MDB,25,51,100,607.2,60720.0,2026-04-22,187603118,371,Sweta Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-22 14:55:59.078886,Miteri Development Bank Limited
+2026042203009252,MDB,41,51,100,607.2,60720.0,2026-04-22,187603163,371,Linch Stock Market Ltd.,Oxford Securities Pvt. Ltd.,2026-04-22 14:56:01.080280,Miteri Development Bank Limited
+2026042203009253,MDB,41,44,400,607.4,242960.0,2026-04-22,187603166,371,Linch Stock Market Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 14:56:01.080526,Miteri Development Bank Limited
+2026042203009281,MDB,17,44,600,607.4,364440.0,2026-04-22,187603850,371,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 14:56:17.743788,Miteri Development Bank Limited
+2026042203009432,MDB,17,58,100,610.0,61000.0,2026-04-22,187606400,371,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-22 14:57:22.462927,Miteri Development Bank Limited

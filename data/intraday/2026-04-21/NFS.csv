@@ -1,0 +1,107 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042103000531,NFS,56,49,100,612.0,61200.0,2026-04-21,187211903,194,Sri Hari Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-21 11:36:40.314747,Nepal Finance Ltd.
+2026042103000640,NFS,56,35,20,612.0,12240.0,2026-04-21,187216791,194,Sri Hari Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 11:43:20.499560,Nepal Finance Ltd.
+2026042103001107,NFS,28,19,100,613.0,61300.0,2026-04-21,187233291,194,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 12:04:47.163061,Nepal Finance Ltd.
+2026042103001331,NFS,50,26,60,613.0,36780.0,2026-04-21,187238968,194,Cristal Kanchanjanga Securites Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-21 12:15:49.263412,Nepal Finance Ltd.
+2026042103001399,NFS,56,58,15,612.0,9180.0,2026-04-21,187240669,194,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 12:19:13.062307,Nepal Finance Ltd.
+2026042103001477,NFS,56,42,65,612.0,39780.0,2026-04-21,187243018,194,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 12:23:54.845452,Nepal Finance Ltd.
+2026042103001478,NFS,38,42,100,612.0,61200.0,2026-04-21,187243020,194,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-21 12:23:54.845665,Nepal Finance Ltd.
+2026042103001479,NFS,42,42,307,612.0,187884.0,2026-04-21,187243022,194,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-21 12:23:54.845802,Nepal Finance Ltd.
+2026042103001480,NFS,58,42,21,612.0,12852.0,2026-04-21,187243024,194,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-21 12:23:54.845921,Nepal Finance Ltd.
+2026042103001540,NFS,42,42,60,612.0,36720.0,2026-04-21,187244015,194,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-21 12:25:52.810298,Nepal Finance Ltd.
+2026042103001546,NFS,44,42,200,611.0,122200.0,2026-04-21,187244184,194,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 12:26:26.127564,Nepal Finance Ltd.
+2026042103001547,NFS,39,42,390,611.0,238290.0,2026-04-21,187244185,194,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 12:26:26.127767,Nepal Finance Ltd.
+2026042103001576,NFS,51,34,100,610.0,61000.0,2026-04-21,187244672,194,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 12:27:28.101703,Nepal Finance Ltd.
+2026042103001577,NFS,43,34,100,610.0,61000.0,2026-04-21,187244674,194,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 12:27:28.101900,Nepal Finance Ltd.
+2026042103001578,NFS,57,34,200,610.0,122000.0,2026-04-21,187244675,194,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-21 12:27:28.102047,Nepal Finance Ltd.
+2026042103001600,NFS,57,42,300,610.0,183000.0,2026-04-21,187245649,194,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-21 12:29:01.667608,Nepal Finance Ltd.
+2026042103001988,NFS,58,26,40,610.0,24400.0,2026-04-21,187255797,194,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-21 12:47:15.984085,Nepal Finance Ltd.
+2026042103002185,NFS,58,44,10,610.0,6100.0,2026-04-21,187260004,194,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:54:45.650583,Nepal Finance Ltd.
+2026042103002186,NFS,58,44,18,609.1,10963.8,2026-04-21,187260006,194,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:54:45.650700,Nepal Finance Ltd.
+2026042103002187,NFS,11,44,10,609.0,6090.0,2026-04-21,187260008,194,Malla & Malla Stock Broking Company Pvt. Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:54:45.650749,Nepal Finance Ltd.
+2026042103002188,NFS,48,44,50,609.0,30450.0,2026-04-21,187260010,194,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:54:45.650794,Nepal Finance Ltd.
+2026042103002189,NFS,57,44,10,609.0,6090.0,2026-04-21,187260012,194,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:54:45.650839,Nepal Finance Ltd.
+2026042103002190,NFS,49,44,50,608.1,30405.0,2026-04-21,187260014,194,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:54:45.650901,Nepal Finance Ltd.
+2026042103002191,NFS,59,44,52,608.0,31616.0,2026-04-21,187260015,194,Deevyaa Securities & Stock House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:54:45.650946,Nepal Finance Ltd.
+2026042103002215,NFS,59,39,19,608.0,11552.0,2026-04-21,187260193,194,Deevyaa Securities & Stock House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-21 12:55:05.596306,Nepal Finance Ltd.
+2026042103002619,NFS,57,58,10,612.0,6120.0,2026-04-21,187275236,194,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-21 13:16:20.828725,Nepal Finance Ltd.
+2026042103002654,NFS,66,58,10,612.0,6120.0,2026-04-21,187276312,194,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-21 13:18:31.969179,Nepal Finance Ltd.
+2026042103002721,NFS,49,57,30,612.0,18360.0,2026-04-21,187278760,194,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-21 13:22:55.834601,Nepal Finance Ltd.
+2026042103002825,NFS,44,32,10,612.9,6129.0,2026-04-21,187281313,194,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-21 13:27:18.171750,Nepal Finance Ltd.
+2026042103002838,NFS,44,48,18,614.0,11052.0,2026-04-21,187281522,194,Dynamic Money Managers Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-21 13:27:42.077803,Nepal Finance Ltd.
+2026042103004121,NFS,42,22,50,611.0,30550.0,2026-04-21,187305631,194,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 14:09:56.932604,Nepal Finance Ltd.
+2026042103004515,NFS,21,22,30,610.5,18315.0,2026-04-21,187315087,194,Midas Stock Broking Company Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-21 14:22:17.529518,Nepal Finance Ltd.
+2026042103004549,NFS,21,14,30,610.5,18315.0,2026-04-21,187315364,194,Midas Stock Broking Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 14:22:32.713818,Nepal Finance Ltd.
+2026042103004550,NFS,57,48,15,610.4,9156.0,2026-04-21,187315428,194,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-21 14:22:39.705398,Nepal Finance Ltd.
+2026042103004551,NFS,44,48,20,610.3,12206.0,2026-04-21,187315430,194,Dynamic Money Managers Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-21 14:22:39.705646,Nepal Finance Ltd.
+2026042103004552,NFS,42,48,47,610.3,28684.1,2026-04-21,187315431,194,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-21 14:22:39.705798,Nepal Finance Ltd.
+2026042103004571,NFS,49,14,30,610.0,18300.0,2026-04-21,187315928,194,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 14:23:12.601758,Nepal Finance Ltd.
+2026042103004572,NFS,49,14,10,610.0,6100.0,2026-04-21,187315930,194,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 14:23:12.602016,Nepal Finance Ltd.
+2026042103004581,NFS,38,14,40,609.0,24360.0,2026-04-21,187316075,194,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 14:23:23.592312,Nepal Finance Ltd.
+2026042103004601,NFS,38,58,10,609.0,6090.0,2026-04-21,187316514,194,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-21 14:23:56.211706,Nepal Finance Ltd.
+2026042103004602,NFS,34,58,25,609.0,15225.0,2026-04-21,187316515,194,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-21 14:23:56.211972,Nepal Finance Ltd.
+2026042103004674,NFS,34,19,16,609.0,9744.0,2026-04-21,187318365,194,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:25:21.647150,Nepal Finance Ltd.
+2026042103004701,NFS,34,22,159,609.0,96831.0,2026-04-21,187318664,194,Vision Securities Pvt. Ltd,Siprabi Securities Pvt. Ltd.,2026-04-21 14:25:40.828884,Nepal Finance Ltd.
+2026042103004702,NFS,22,22,37,609.0,22533.0,2026-04-21,187318666,194,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 14:25:40.829041,Nepal Finance Ltd.
+2026042103004703,NFS,58,22,17,609.0,10353.0,2026-04-21,187318668,194,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 14:25:40.829091,Nepal Finance Ltd.
+2026042103004704,NFS,58,22,87,609.0,52983.0,2026-04-21,187318669,194,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 14:25:40.829140,Nepal Finance Ltd.
+2026042103004719,NFS,58,22,100,609.0,60900.0,2026-04-21,187319289,194,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 14:26:05.948285,Nepal Finance Ltd.
+2026042103004956,NFS,66,17,10,610.0,6100.0,2026-04-21,187325324,194,Miyo Securities Pvt Ltd,ABC Securities Private Limited,2026-04-21 14:31:46.275645,Nepal Finance Ltd.
+2026042103005217,NFS,49,34,100,609.1,60910.0,2026-04-21,187331460,194,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:37:33.103517,Nepal Finance Ltd.
+2026042103005218,NFS,56,34,10,609.1,6091.0,2026-04-21,187331462,194,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:37:33.103636,Nepal Finance Ltd.
+2026042103005219,NFS,42,34,13,609.1,7918.3,2026-04-21,187331464,194,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:37:33.103684,Nepal Finance Ltd.
+2026042103005220,NFS,58,34,13,609.0,7917.0,2026-04-21,187331466,194,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:37:33.103735,Nepal Finance Ltd.
+2026042103005221,NFS,45,34,137,609.0,83433.0,2026-04-21,187331468,194,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:37:33.103784,Nepal Finance Ltd.
+2026042103005222,NFS,58,34,55,609.0,33495.0,2026-04-21,187331470,194,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:37:33.103834,Nepal Finance Ltd.
+2026042103005239,NFS,49,34,10,609.0,6090.0,2026-04-21,187331960,194,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:38:00.650357,Nepal Finance Ltd.
+2026042103005266,NFS,34,34,50,609.0,30450.0,2026-04-21,187333080,194,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:39:09.371997,Nepal Finance Ltd.
+2026042103005649,NFS,45,35,65,608.5,39552.5,2026-04-21,187340471,194,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 14:44:39.443634,Nepal Finance Ltd.
+2026042103005651,NFS,45,62,35,608.5,21297.5,2026-04-21,187340482,194,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 14:44:41.014120,Nepal Finance Ltd.
+2026042103005942,NFS,59,6,29,608.0,17632.0,2026-04-21,187343964,194,Deevyaa Securities & Stock House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-21 14:46:45.878151,Nepal Finance Ltd.
+2026042103005943,NFS,34,6,11,608.0,6688.0,2026-04-21,187343965,194,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-21 14:46:45.878379,Nepal Finance Ltd.
+2026042103005984,NFS,34,52,14,608.0,8512.0,2026-04-21,187345292,194,Vision Securities Pvt. Ltd,Sundhara Securities Limited,2026-04-21 14:47:41.216095,Nepal Finance Ltd.
+2026042103005985,NFS,57,52,30,608.0,18240.0,2026-04-21,187345294,194,Aryatara Investment & Securities,Sundhara Securities Limited,2026-04-21 14:47:41.216249,Nepal Finance Ltd.
+2026042103005986,NFS,34,52,50,608.0,30400.0,2026-04-21,187345296,194,Vision Securities Pvt. Ltd,Sundhara Securities Limited,2026-04-21 14:47:41.216303,Nepal Finance Ltd.
+2026042103006061,NFS,49,62,10,608.0,6080.0,2026-04-21,187346580,194,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 14:48:32.363327,Nepal Finance Ltd.
+2026042103006062,NFS,58,62,41,608.0,24928.0,2026-04-21,187346582,194,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-21 14:48:32.363388,Nepal Finance Ltd.
+2026042103006063,NFS,48,62,50,608.0,30400.0,2026-04-21,187346584,194,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-21 14:48:32.363416,Nepal Finance Ltd.
+2026042103006064,NFS,49,62,300,607.1,182130.0,2026-04-21,187346586,194,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 14:48:32.363446,Nepal Finance Ltd.
+2026042103006065,NFS,32,62,99,607.1,60102.9,2026-04-21,187346587,194,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-21 14:48:32.363476,Nepal Finance Ltd.
+2026042103006104,NFS,44,34,30,608.5,18255.0,2026-04-21,187347686,194,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:49:09.421094,Nepal Finance Ltd.
+2026042103006130,NFS,42,34,270,608.0,164160.0,2026-04-21,187347935,194,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:49:17.094222,Nepal Finance Ltd.
+2026042103006181,NFS,42,87,265,608.5,161252.5,2026-04-21,187349933,194,Sani Securities Company Ltd.,S.P.S.A. Securities Limited,2026-04-21 14:50:24.290906,Nepal Finance Ltd.
+2026042103006202,NFS,42,4,490,608.5,298165.0,2026-04-21,187350644,194,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-21 14:50:43.948894,Nepal Finance Ltd.
+2026042103006271,NFS,32,1,51,607.1,30962.1,2026-04-21,187351762,194,Premier Securities Company Ltd.,Kumari Securities Private Limited,2026-04-21 14:51:27.848600,Nepal Finance Ltd.
+2026042103006272,NFS,58,1,100,607.0,60700.0,2026-04-21,187351764,194,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-21 14:51:27.848694,Nepal Finance Ltd.
+2026042103006273,NFS,58,1,20,607.0,12140.0,2026-04-21,187351766,194,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-21 14:51:27.848766,Nepal Finance Ltd.
+2026042103006274,NFS,45,1,50,606.0,30300.0,2026-04-21,187351768,194,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:51:27.848843,Nepal Finance Ltd.
+2026042103006275,NFS,49,1,777,606.0,470862.0,2026-04-21,187351770,194,Online Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:51:27.848919,Nepal Finance Ltd.
+2026042103006276,NFS,54,1,40,606.0,24240.0,2026-04-21,187351772,194,Sewa Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:51:27.848991,Nepal Finance Ltd.
+2026042103006277,NFS,35,1,12,606.0,7272.0,2026-04-21,187351773,194,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:51:27.849101,Nepal Finance Ltd.
+2026042103006404,NFS,35,1,18,606.0,10908.0,2026-04-21,187354408,194,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:53:09.370491,Nepal Finance Ltd.
+2026042103006405,NFS,57,1,32,605.9,19388.8,2026-04-21,187354409,194,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-21 14:53:09.370529,Nepal Finance Ltd.
+2026042103006526,NFS,42,25,500,607.0,303500.0,2026-04-21,187356574,194,Sani Securities Company Ltd.,Sweta Securities Private Limited,2026-04-21 14:54:28.887258,Nepal Finance Ltd.
+2026042103006560,NFS,13,39,25,607.0,15175.0,2026-04-21,187357251,194,Thrive Brokerage House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-21 14:54:52.363313,Nepal Finance Ltd.
+2026042103006561,NFS,56,39,40,606.0,24240.0,2026-04-21,187357253,194,Sri Hari Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-21 14:54:52.363358,Nepal Finance Ltd.
+2026042103006562,NFS,42,39,25,606.0,15150.0,2026-04-21,187357255,194,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-21 14:54:52.363384,Nepal Finance Ltd.
+2026042103006563,NFS,57,39,10,606.0,6060.0,2026-04-21,187357257,194,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-21 14:54:52.363408,Nepal Finance Ltd.
+2026042103006564,NFS,22,39,30,606.0,18180.0,2026-04-21,187357259,194,Siprabi Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-21 14:54:52.363434,Nepal Finance Ltd.
+2026042103006565,NFS,57,39,18,605.9,10906.2,2026-04-21,187357261,194,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-21 14:54:52.363456,Nepal Finance Ltd.
+2026042103006566,NFS,44,39,300,605.0,181500.0,2026-04-21,187357263,194,Dynamic Money Managers Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-21 14:54:52.363479,Nepal Finance Ltd.
+2026042103006655,NFS,56,58,20,606.0,12120.0,2026-04-21,187359277,194,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 14:55:52.103583,Nepal Finance Ltd.
+2026042103006887,NFS,45,4,12,608.5,7302.0,2026-04-21,187363646,194,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-21 14:57:45.228427,Nepal Finance Ltd.
+2026042103006969,NFS,45,62,20,608.9,12178.0,2026-04-21,187364782,194,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 14:58:12.773958,Nepal Finance Ltd.
+2026042103007041,NFS,62,14,100,608.0,60800.0,2026-04-21,187366156,194,Capital Max Securities Ltd,Nepal Stock House (PVT) Ltd.,2026-04-21 14:58:45.934290,Nepal Finance Ltd.
+2026042103007044,NFS,13,38,10,606.5,6065.0,2026-04-21,187366206,194,Thrive Brokerage House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:58:47.606597,Nepal Finance Ltd.
+2026042103007045,NFS,45,38,20,606.5,12130.0,2026-04-21,187366208,194,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:58:47.606639,Nepal Finance Ltd.
+2026042103007046,NFS,45,38,20,606.0,12120.0,2026-04-21,187366210,194,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:58:47.606666,Nepal Finance Ltd.
+2026042103007047,NFS,42,38,250,605.0,151250.0,2026-04-21,187366211,194,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:58:47.606702,Nepal Finance Ltd.
+2026042103007080,NFS,57,14,50,608.0,30400.0,2026-04-21,187366909,194,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-21 14:59:03.970543,Nepal Finance Ltd.
+2026042103007142,NFS,41,34,267,607.0,162069.0,2026-04-21,187368447,194,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:59:27.959686,Nepal Finance Ltd.
+2026042103007143,NFS,41,14,10,608.0,6080.0,2026-04-21,187368449,194,Linch Stock Market Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 14:59:27.959734,Nepal Finance Ltd.
+2026042103007144,NFS,41,49,223,608.8,135762.4,2026-04-21,187368452,194,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,2026-04-21 14:59:27.959763,Nepal Finance Ltd.
+2026042103007171,NFS,40,38,10,605.5,6055.0,2026-04-21,187369249,194,Creative Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:59:35.573331,Nepal Finance Ltd.
+2026042103007183,NFS,45,49,10,608.8,6088.0,2026-04-21,187369664,194,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-21 14:59:41.883653,Nepal Finance Ltd.
+2026042103007213,NFS,40,58,17,605.5,10293.5,2026-04-21,187369988,194,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-21 14:59:46.322981,Nepal Finance Ltd.
+2026042103007214,NFS,45,58,10,605.1,6051.0,2026-04-21,187369990,194,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 14:59:46.323092,Nepal Finance Ltd.
+2026042103007215,NFS,34,58,50,605.1,30255.0,2026-04-21,187369991,194,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-21 14:59:46.323141,Nepal Finance Ltd.

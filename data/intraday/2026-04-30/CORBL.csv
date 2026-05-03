@@ -1,0 +1,511 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026043003000002,CORBL,96,20,50,2544.1,127205.0,2026-04-30,188625986,450,Himalayan Securities Limited,Sipla Securities Private Limited,2026-04-30 10:46:00.054147,Corporate Development Bank Limited
+2026043003000003,CORBL,88,20,20,2544.1,50882.0,2026-04-30,188625989,450,Blue Chip Securities Ltd,Sipla Securities Private Limited,2026-04-30 10:46:00.054181,Corporate Development Bank Limited
+2026043003000004,CORBL,17,20,100,2544.1,254410.0,2026-04-30,188625992,450,ABC Securities Private Limited,Sipla Securities Private Limited,2026-04-30 10:46:00.054211,Corporate Development Bank Limited
+2026043003000005,CORBL,58,20,95,2544.1,241689.5,2026-04-30,188625994,450,Naasa Securities Co. Ltd.,Sipla Securities Private Limited,2026-04-30 10:46:00.054238,Corporate Development Bank Limited
+2026043003000015,CORBL,87,72,10,2468.0,24680.0,2026-04-30,188626108,450,S.P.S.A. Securities Limited,Hatemalo Financial Services Private Limited,2026-04-30 11:00:08.339617,Corporate Development Bank Limited
+2026043003000016,CORBL,87,72,10,2394.0,23940.0,2026-04-30,188626114,450,S.P.S.A. Securities Limited,Hatemalo Financial Services Private Limited,2026-04-30 11:00:12.542569,Corporate Development Bank Limited
+2026043003000018,CORBL,58,87,10,2322.2,23222.0,2026-04-30,188626281,450,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:00:47.244587,Corporate Development Bank Limited
+2026043003000019,CORBL,42,72,10,2322.2,23222.0,2026-04-30,188626291,450,Sani Securities Company Ltd.,Hatemalo Financial Services Private Limited,2026-04-30 11:00:50.061141,Corporate Development Bank Limited
+2026043003000032,CORBL,48,87,10,2323.0,23230.0,2026-04-30,188626442,450,Trishakti Securities Public Limited,S.P.S.A. Securities Limited,2026-04-30 11:01:05.060861,Corporate Development Bank Limited
+2026043003000060,CORBL,42,46,100,2323.0,232300.0,2026-04-30,188627274,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:02:24.079863,Corporate Development Bank Limited
+2026043003000061,CORBL,58,46,10,2322.3,23223.0,2026-04-30,188627276,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:02:24.079931,Corporate Development Bank Limited
+2026043003000062,CORBL,57,46,100,2322.2,232220.0,2026-04-30,188627278,450,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-30 11:02:24.079955,Corporate Development Bank Limited
+2026043003000063,CORBL,42,46,10,2285.0,22850.0,2026-04-30,188627279,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:02:24.079978,Corporate Development Bank Limited
+2026043003000090,CORBL,58,98,10,2290.0,22900.0,2026-04-30,188628554,450,Naasa Securities Co. Ltd.,Trademow Securities Private Limited,2026-04-30 11:04:08.486777,Corporate Development Bank Limited
+2026043003000091,CORBL,58,98,10,2286.0,22860.0,2026-04-30,188628556,450,Naasa Securities Co. Ltd.,Trademow Securities Private Limited,2026-04-30 11:04:08.486906,Corporate Development Bank Limited
+2026043003000092,CORBL,5,98,80,2285.5,182840.0,2026-04-30,188628557,450,Market Securities & Exchange (PVT) Ltd.,Trademow Securities Private Limited,2026-04-30 11:04:08.486951,Corporate Development Bank Limited
+2026043003000096,CORBL,42,46,50,2300.0,115000.0,2026-04-30,188628774,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:04:24.343587,Corporate Development Bank Limited
+2026043003000099,CORBL,35,46,20,2300.0,46000.0,2026-04-30,188628998,450,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:04:43.159128,Corporate Development Bank Limited
+2026043003000150,CORBL,44,46,100,2300.0,230000.0,2026-04-30,188630588,450,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:07:02.607624,Corporate Development Bank Limited
+2026043003000161,CORBL,17,46,500,2300.0,1150000.0,2026-04-30,188631046,450,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:07:38.896115,Corporate Development Bank Limited
+2026043003000164,CORBL,38,46,500,2300.0,1150000.0,2026-04-30,188631108,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:07:45.073999,Corporate Development Bank Limited
+2026043003000171,CORBL,38,46,20,2300.0,46000.0,2026-04-30,188631308,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:08:07.615485,Corporate Development Bank Limited
+2026043003000173,CORBL,64,46,30,2300.0,69000.0,2026-04-30,188631358,450,SUN SECURITIES PVT LTD,Kalika Securities Pvt. Ltd.,2026-04-30 11:08:13.428429,Corporate Development Bank Limited
+2026043003000182,CORBL,26,46,10,2300.0,23000.0,2026-04-30,188631548,450,Asian Securities Private Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:08:31.097991,Corporate Development Bank Limited
+2026043003000196,CORBL,35,46,100,2300.0,230000.0,2026-04-30,188632180,450,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:09:25.731414,Corporate Development Bank Limited
+2026043003000197,CORBL,70,46,1000,2300.0,2300000.0,2026-04-30,188632182,450,Infinity Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:09:26.064470,Corporate Development Bank Limited
+2026043003000201,CORBL,39,46,10,2300.0,23000.0,2026-04-30,188632274,450,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:09:35.163205,Corporate Development Bank Limited
+2026043003000208,CORBL,70,46,100,2300.0,230000.0,2026-04-30,188632630,450,Infinity Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:10:01.353568,Corporate Development Bank Limited
+2026043003000211,CORBL,26,46,30,2300.0,69000.0,2026-04-30,188632694,450,Asian Securities Private Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:10:05.584474,Corporate Development Bank Limited
+2026043003000224,CORBL,58,46,10,2300.0,23000.0,2026-04-30,188633002,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:10:37.084817,Corporate Development Bank Limited
+2026043003000227,CORBL,38,46,20,2300.0,46000.0,2026-04-30,188633110,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:10:46.778222,Corporate Development Bank Limited
+2026043003000260,CORBL,19,46,20,2300.0,46000.0,2026-04-30,188633514,450,Nepal Investment And Securities Trading Private Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:11:16.495817,Corporate Development Bank Limited
+2026043003000295,CORBL,5,46,200,2300.0,460000.0,2026-04-30,188634500,450,Market Securities & Exchange (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:12:14.952962,Corporate Development Bank Limited
+2026043003000305,CORBL,58,46,10,2300.0,23000.0,2026-04-30,188634844,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:12:42.803154,Corporate Development Bank Limited
+2026043003000340,CORBL,58,46,35,2300.0,80500.0,2026-04-30,188635434,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:13:27.081938,Corporate Development Bank Limited
+2026043003000344,CORBL,36,46,20,2300.0,46000.0,2026-04-30,188635546,450,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:13:32.819779,Corporate Development Bank Limited
+2026043003000353,CORBL,58,46,10,2300.0,23000.0,2026-04-30,188636024,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:14:02.143940,Corporate Development Bank Limited
+2026043003000365,CORBL,3,46,200,2300.0,460000.0,2026-04-30,188636336,450,Arun Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:14:17.617894,Corporate Development Bank Limited
+2026043003000374,CORBL,49,50,10,2300.0,23000.0,2026-04-30,188636662,450,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 11:14:36.464703,Corporate Development Bank Limited
+2026043003000412,CORBL,26,50,20,2300.0,46000.0,2026-04-30,188637361,450,Asian Securities Private Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 11:15:21.624429,Corporate Development Bank Limited
+2026043003000413,CORBL,26,46,30,2300.0,69000.0,2026-04-30,188637364,450,Asian Securities Private Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:15:21.624638,Corporate Development Bank Limited
+2026043003000425,CORBL,5,46,20,2300.0,46000.0,2026-04-30,188637582,450,Market Securities & Exchange (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:15:33.942455,Corporate Development Bank Limited
+2026043003000436,CORBL,58,41,10,2295.2,22952.0,2026-04-30,188638275,450,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-30 11:16:24.473290,Corporate Development Bank Limited
+2026043003000444,CORBL,44,46,50,2300.0,115000.0,2026-04-30,188638462,450,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:16:41.335339,Corporate Development Bank Limited
+2026043003000469,CORBL,42,46,10,2300.0,23000.0,2026-04-30,188639054,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:17:11.231605,Corporate Development Bank Limited
+2026043003000528,CORBL,17,46,100,2300.0,230000.0,2026-04-30,188640500,450,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:18:46.668518,Corporate Development Bank Limited
+2026043003000568,CORBL,7,46,100,2300.0,230000.0,2026-04-30,188641240,450,J.F. Securites (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:19:36.950946,Corporate Development Bank Limited
+2026043003000593,CORBL,62,46,20,2300.0,46000.0,2026-04-30,188642106,450,Capital Max Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 11:20:34.186709,Corporate Development Bank Limited
+2026043003000603,CORBL,36,46,200,2300.0,460000.0,2026-04-30,188642534,450,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:20:58.906571,Corporate Development Bank Limited
+2026043003000618,CORBL,60,46,100,2300.0,230000.0,2026-04-30,188642930,450,Nagarik Stock Dealer ,Kalika Securities Pvt. Ltd.,2026-04-30 11:21:21.895037,Corporate Development Bank Limited
+2026043003000625,CORBL,58,49,10,2295.3,22953.0,2026-04-30,188643157,450,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 11:21:34.393855,Corporate Development Bank Limited
+2026043003000756,CORBL,87,46,170,2300.0,391000.0,2026-04-30,188647027,450,S.P.S.A. Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:25:23.291554,Corporate Development Bank Limited
+2026043003000757,CORBL,87,46,260,2300.0,598000.0,2026-04-30,188647030,450,S.P.S.A. Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:25:23.291789,Corporate Development Bank Limited
+2026043003000799,CORBL,58,46,21,2300.0,48300.0,2026-04-30,188648126,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:26:32.629334,Corporate Development Bank Limited
+2026043003000810,CORBL,89,46,10,2300.0,23000.0,2026-04-30,188648296,450,Global IME Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:26:47.020980,Corporate Development Bank Limited
+2026043003000928,CORBL,26,46,40,2300.0,92000.0,2026-04-30,188651590,450,Asian Securities Private Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:30:37.627650,Corporate Development Bank Limited
+2026043003000939,CORBL,58,46,12,2300.0,27600.0,2026-04-30,188651872,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:30:54.653633,Corporate Development Bank Limited
+2026043003000957,CORBL,34,46,10,2300.0,23000.0,2026-04-30,188652306,450,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 11:31:26.217505,Corporate Development Bank Limited
+2026043003000976,CORBL,34,46,10,2300.0,23000.0,2026-04-30,188652826,450,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 11:32:02.628914,Corporate Development Bank Limited
+2026043003000978,CORBL,87,32,200,2295.3,459060.0,2026-04-30,188652867,450,S.P.S.A. Securities Limited,Premier Securities Company Ltd.,2026-04-30 11:32:07.714101,Corporate Development Bank Limited
+2026043003000985,CORBL,87,32,200,2295.3,459060.0,2026-04-30,188653039,450,S.P.S.A. Securities Limited,Premier Securities Company Ltd.,2026-04-30 11:32:21.407899,Corporate Development Bank Limited
+2026043003000991,CORBL,87,32,200,2295.3,459060.0,2026-04-30,188653127,450,S.P.S.A. Securities Limited,Premier Securities Company Ltd.,2026-04-30 11:32:31.055943,Corporate Development Bank Limited
+2026043003001013,CORBL,39,46,18,2300.0,41400.0,2026-04-30,188653268,450,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:32:40.415324,Corporate Development Bank Limited
+2026043003001041,CORBL,57,32,30,2295.2,68856.0,2026-04-30,188653470,450,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-30 11:32:55.985642,Corporate Development Bank Limited
+2026043003001042,CORBL,58,32,10,2295.1,22951.0,2026-04-30,188653472,450,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-30 11:32:55.985855,Corporate Development Bank Limited
+2026043003001043,CORBL,44,32,20,2295.1,45902.0,2026-04-30,188653474,450,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-30 11:32:55.985994,Corporate Development Bank Limited
+2026043003001044,CORBL,87,32,140,2295.0,321300.0,2026-04-30,188653475,450,S.P.S.A. Securities Limited,Premier Securities Company Ltd.,2026-04-30 11:32:55.986157,Corporate Development Bank Limited
+2026043003001051,CORBL,87,32,200,2295.0,459000.0,2026-04-30,188653615,450,S.P.S.A. Securities Limited,Premier Securities Company Ltd.,2026-04-30 11:33:07.245726,Corporate Development Bank Limited
+2026043003001054,CORBL,49,46,10,2300.0,23000.0,2026-04-30,188653656,450,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:33:12.286509,Corporate Development Bank Limited
+2026043003001181,CORBL,74,34,20,2300.0,46000.0,2026-04-30,188656882,450,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-30 11:37:47.945160,Corporate Development Bank Limited
+2026043003001185,CORBL,34,87,20,2295.0,45900.0,2026-04-30,188656909,450,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-30 11:37:51.777179,Corporate Development Bank Limited
+2026043003001229,CORBL,42,34,80,2300.0,184000.0,2026-04-30,188658170,450,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-30 11:39:42.059703,Corporate Development Bank Limited
+2026043003001257,CORBL,42,46,100,2300.0,230000.0,2026-04-30,188658860,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:40:43.242169,Corporate Development Bank Limited
+2026043003001311,CORBL,16,88,200,2300.0,460000.0,2026-04-30,188659830,450,Primo Securities (PVT) Ltd.,Blue Chip Securities Ltd,2026-04-30 11:42:16.227515,Corporate Development Bank Limited
+2026043003001323,CORBL,42,88,10,2300.0,23000.0,2026-04-30,188660226,450,Sani Securities Company Ltd.,Blue Chip Securities Ltd,2026-04-30 11:42:47.124721,Corporate Development Bank Limited
+2026043003001324,CORBL,34,51,10,2296.0,22960.0,2026-04-30,188660261,450,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-30 11:42:50.510525,Corporate Development Bank Limited
+2026043003001337,CORBL,16,88,150,2300.0,345000.0,2026-04-30,188660331,450,Primo Securities (PVT) Ltd.,Blue Chip Securities Ltd,2026-04-30 11:42:56.916481,Corporate Development Bank Limited
+2026043003001338,CORBL,16,43,10,2300.0,23000.0,2026-04-30,188660333,450,Primo Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 11:42:56.916586,Corporate Development Bank Limited
+2026043003001342,CORBL,89,46,157,2310.0,362670.0,2026-04-30,188660478,450,Global IME Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:43:12.430133,Corporate Development Bank Limited
+2026043003001343,CORBL,16,46,40,2300.0,92000.0,2026-04-30,188660480,450,Primo Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:43:12.430369,Corporate Development Bank Limited
+2026043003001455,CORBL,39,46,100,2300.0,230000.0,2026-04-30,188663492,450,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:47:15.293872,Corporate Development Bank Limited
+2026043003001536,CORBL,49,46,50,2300.0,115000.0,2026-04-30,188665198,450,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:49:21.536822,Corporate Development Bank Limited
+2026043003001593,CORBL,35,46,50,2300.0,115000.0,2026-04-30,188666079,450,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:50:35.414285,Corporate Development Bank Limited
+2026043003001594,CORBL,35,43,10,2340.0,23400.0,2026-04-30,188666081,450,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 11:50:35.414524,Corporate Development Bank Limited
+2026043003001595,CORBL,35,43,10,2345.0,23450.0,2026-04-30,188666083,450,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 11:50:35.414670,Corporate Development Bank Limited
+2026043003001596,CORBL,35,87,10,2346.0,23460.0,2026-04-30,188666085,450,Kohinoor Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:50:35.414809,Corporate Development Bank Limited
+2026043003001597,CORBL,35,87,10,2347.0,23470.0,2026-04-30,188666087,450,Kohinoor Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:50:35.414967,Corporate Development Bank Limited
+2026043003001598,CORBL,35,87,10,2348.0,23480.0,2026-04-30,188666090,450,Kohinoor Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:50:35.415118,Corporate Development Bank Limited
+2026043003001609,CORBL,5,46,50,2300.0,115000.0,2026-04-30,188666312,450,Market Securities & Exchange (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:50:56.692809,Corporate Development Bank Limited
+2026043003001626,CORBL,58,46,14,2300.0,32200.0,2026-04-30,188666594,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:51:18.898689,Corporate Development Bank Limited
+2026043003001627,CORBL,42,46,10,2300.0,23000.0,2026-04-30,188666672,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:51:25.313648,Corporate Development Bank Limited
+2026043003001631,CORBL,1,46,10,2300.0,23000.0,2026-04-30,188666866,450,Kumari Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:51:36.406264,Corporate Development Bank Limited
+2026043003001656,CORBL,36,87,50,2300.0,115000.0,2026-04-30,188667474,450,Secured Securities Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:52:31.798091,Corporate Development Bank Limited
+2026043003001697,CORBL,5,46,50,2295.2,114760.0,2026-04-30,188668192,450,Market Securities & Exchange (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:53:27.843509,Corporate Development Bank Limited
+2026043003001698,CORBL,41,46,19,2294.0,43586.0,2026-04-30,188668194,450,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:53:27.843627,Corporate Development Bank Limited
+2026043003001699,CORBL,58,46,10,2293.1,22931.0,2026-04-30,188668196,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:53:27.843680,Corporate Development Bank Limited
+2026043003001700,CORBL,21,46,10,2290.0,22900.0,2026-04-30,188668198,450,Midas Stock Broking Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:53:27.843732,Corporate Development Bank Limited
+2026043003001703,CORBL,25,46,10,2290.0,22900.0,2026-04-30,188668362,450,Sweta Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-30 11:53:42.080509,Corporate Development Bank Limited
+2026043003001740,CORBL,58,46,10,2290.0,22900.0,2026-04-30,188669358,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:54:40.892179,Corporate Development Bank Limited
+2026043003001777,CORBL,3,46,40,2290.0,91600.0,2026-04-30,188670244,450,Arun Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:56:06.148302,Corporate Development Bank Limited
+2026043003001842,CORBL,58,46,15,2290.0,34350.0,2026-04-30,188673044,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:00:07.998291,Corporate Development Bank Limited
+2026043003001843,CORBL,77,46,20,2290.0,45800.0,2026-04-30,188673048,450,Nabil Stock Dealer Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:00:09.120908,Corporate Development Bank Limited
+2026043003001878,CORBL,3,87,10,2288.9,22889.0,2026-04-30,188674080,450,Arun Securities (PVT) Ltd.,S.P.S.A. Securities Limited,2026-04-30 12:02:02.546491,Corporate Development Bank Limited
+2026043003001880,CORBL,5,42,20,2285.5,45710.0,2026-04-30,188674163,450,Market Securities & Exchange (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-30 12:02:09.906802,Corporate Development Bank Limited
+2026043003001891,CORBL,6,42,20,2285.6,45712.0,2026-04-30,188674381,450,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-30 12:02:36.731353,Corporate Development Bank Limited
+2026043003001922,CORBL,89,46,10,2290.0,22900.0,2026-04-30,188675740,450,Global IME Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 12:04:45.000659,Corporate Development Bank Limited
+2026043003001953,CORBL,34,87,10,2282.0,22820.0,2026-04-30,188676589,450,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-30 12:06:11.535662,Corporate Development Bank Limited
+2026043003002019,CORBL,58,53,1,2276.3,2276.3,2026-04-30,188678433,450,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-30 12:09:06.511863,Corporate Development Bank Limited
+2026043003002061,CORBL,36,46,350,2290.0,801500.0,2026-04-30,188679020,450,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:09:56.624143,Corporate Development Bank Limited
+2026043003002102,CORBL,58,58,9,2281.0,20529.0,2026-04-30,188680161,450,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 12:11:40.041190,Corporate Development Bank Limited
+2026043003002155,CORBL,58,62,9,2276.3,20486.7,2026-04-30,188681701,450,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-30 12:14:05.389080,Corporate Development Bank Limited
+2026043003002179,CORBL,58,38,100,2282.0,228200.0,2026-04-30,188682483,450,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:15:14.093639,Corporate Development Bank Limited
+2026043003002198,CORBL,19,87,20,2281.0,45620.0,2026-04-30,188682923,450,Nepal Investment And Securities Trading Private Limited,S.P.S.A. Securities Limited,2026-04-30 12:15:56.569501,Corporate Development Bank Limited
+2026043003002203,CORBL,58,38,10,2282.0,22820.0,2026-04-30,188683126,450,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.951857,Corporate Development Bank Limited
+2026043003002204,CORBL,38,38,10,2280.0,22800.0,2026-04-30,188683128,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.951977,Corporate Development Bank Limited
+2026043003002205,CORBL,59,38,10,2280.0,22800.0,2026-04-30,188683130,450,Deevyaa Securities & Stock House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952048,Corporate Development Bank Limited
+2026043003002206,CORBL,36,38,50,2279.0,113950.0,2026-04-30,188683132,450,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952104,Corporate Development Bank Limited
+2026043003002207,CORBL,62,38,10,2278.0,22780.0,2026-04-30,188683134,450,Capital Max Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952157,Corporate Development Bank Limited
+2026043003002208,CORBL,58,38,50,2277.5,113875.0,2026-04-30,188683136,450,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952212,Corporate Development Bank Limited
+2026043003002209,CORBL,62,38,10,2277.0,22770.0,2026-04-30,188683138,450,Capital Max Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952266,Corporate Development Bank Limited
+2026043003002210,CORBL,45,38,50,2277.0,113850.0,2026-04-30,188683140,450,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952319,Corporate Development Bank Limited
+2026043003002211,CORBL,49,38,90,2277.0,204930.0,2026-04-30,188683142,450,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952370,Corporate Development Bank Limited
+2026043003002212,CORBL,17,38,20,2277.0,45540.0,2026-04-30,188683144,450,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952424,Corporate Development Bank Limited
+2026043003002213,CORBL,35,38,10,2277.0,22770.0,2026-04-30,188683146,450,Kohinoor Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952475,Corporate Development Bank Limited
+2026043003002214,CORBL,16,38,45,2277.0,102465.0,2026-04-30,188683148,450,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952529,Corporate Development Bank Limited
+2026043003002215,CORBL,49,38,30,2277.0,68310.0,2026-04-30,188683150,450,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952582,Corporate Development Bank Limited
+2026043003002216,CORBL,25,38,105,2277.0,239085.0,2026-04-30,188683151,450,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:12.952630,Corporate Development Bank Limited
+2026043003002217,CORBL,25,87,10,2277.0,22770.0,2026-04-30,188683237,450,Sweta Securities Private Limited,S.P.S.A. Securities Limited,2026-04-30 12:16:21.137752,Corporate Development Bank Limited
+2026043003002218,CORBL,25,87,85,2277.0,193545.0,2026-04-30,188683250,450,Sweta Securities Private Limited,S.P.S.A. Securities Limited,2026-04-30 12:16:22.919332,Corporate Development Bank Limited
+2026043003002219,CORBL,87,87,435,2277.0,990495.0,2026-04-30,188683251,450,S.P.S.A. Securities Limited,S.P.S.A. Securities Limited,2026-04-30 12:16:22.919502,Corporate Development Bank Limited
+2026043003002220,CORBL,87,38,540,2277.0,1229580.0,2026-04-30,188683329,450,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:28.556199,Corporate Development Bank Limited
+2026043003002228,CORBL,87,21,10,2290.0,22900.0,2026-04-30,188683511,450,S.P.S.A. Securities Limited,Midas Stock Broking Company Private Limited,2026-04-30 12:16:45.668169,Corporate Development Bank Limited
+2026043003002229,CORBL,87,38,10,2300.0,23000.0,2026-04-30,188683514,450,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:16:45.668215,Corporate Development Bank Limited
+2026043003002238,CORBL,83,87,10,2277.0,22770.0,2026-04-30,188683726,450,Sanima Securities Limited,S.P.S.A. Securities Limited,2026-04-30 12:17:05.789147,Corporate Development Bank Limited
+2026043003002239,CORBL,21,87,64,2277.0,145728.0,2026-04-30,188683728,450,Midas Stock Broking Company Private Limited,S.P.S.A. Securities Limited,2026-04-30 12:17:05.789233,Corporate Development Bank Limited
+2026043003002240,CORBL,58,87,16,2276.5,36424.0,2026-04-30,188683730,450,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-30 12:17:05.789307,Corporate Development Bank Limited
+2026043003002241,CORBL,41,87,219,2276.5,498553.5,2026-04-30,188683732,450,Linch Stock Market Ltd.,S.P.S.A. Securities Limited,2026-04-30 12:17:05.789376,Corporate Development Bank Limited
+2026043003002242,CORBL,87,87,40,2276.5,91060.0,2026-04-30,188683733,450,S.P.S.A. Securities Limited,S.P.S.A. Securities Limited,2026-04-30 12:17:05.789442,Corporate Development Bank Limited
+2026043003002247,CORBL,87,38,10,2300.0,23000.0,2026-04-30,188683920,450,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:17:28.308019,Corporate Development Bank Limited
+2026043003002338,CORBL,41,88,50,2290.0,114500.0,2026-04-30,188686406,450,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-30 12:20:53.312013,Corporate Development Bank Limited
+2026043003002340,CORBL,35,88,100,2290.0,229000.0,2026-04-30,188686440,450,Kohinoor Investment & Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-30 12:21:02.771517,Corporate Development Bank Limited
+2026043003002431,CORBL,41,88,20,2290.0,45800.0,2026-04-30,188688212,450,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-30 12:24:09.936863,Corporate Development Bank Limited
+2026043003002445,CORBL,41,88,30,2290.0,68700.0,2026-04-30,188688512,450,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-30 12:24:48.380398,Corporate Development Bank Limited
+2026043003002455,CORBL,87,88,10,2295.0,22950.0,2026-04-30,188688682,450,S.P.S.A. Securities Limited,Blue Chip Securities Ltd,2026-04-30 12:25:10.316039,Corporate Development Bank Limited
+2026043003002469,CORBL,41,88,20,2295.0,45900.0,2026-04-30,188688972,450,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-30 12:25:23.275183,Corporate Development Bank Limited
+2026043003002518,CORBL,39,88,129,2295.0,296055.0,2026-04-30,188689850,450,Sumeru Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-30 12:27:01.088410,Corporate Development Bank Limited
+2026043003002524,CORBL,87,38,10,2300.0,23000.0,2026-04-30,188689956,450,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:27:10.829284,Corporate Development Bank Limited
+2026043003002894,CORBL,87,34,4000,2289.1,9156400.0,2026-04-30,188697598,450,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-30 12:42:43.220739,Corporate Development Bank Limited
+2026043003002895,CORBL,16,34,10,2289.1,22891.0,2026-04-30,188697600,450,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:42:43.220958,Corporate Development Bank Limited
+2026043003002896,CORBL,87,34,500,2288.0,1144000.0,2026-04-30,188697602,450,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-30 12:42:43.221131,Corporate Development Bank Limited
+2026043003002897,CORBL,87,34,985,2285.0,2250725.0,2026-04-30,188697604,450,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-30 12:42:43.221271,Corporate Development Bank Limited
+2026043003002898,CORBL,58,34,40,2280.2,91208.0,2026-04-30,188697606,450,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:42:43.221407,Corporate Development Bank Limited
+2026043003002899,CORBL,39,34,100,2280.1,228010.0,2026-04-30,188697608,450,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:42:43.221654,Corporate Development Bank Limited
+2026043003002900,CORBL,17,34,10,2280.0,22800.0,2026-04-30,188697610,450,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-30 12:42:43.221832,Corporate Development Bank Limited
+2026043003002911,CORBL,45,34,55,2280.0,125400.0,2026-04-30,188698311,450,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:43:46.607714,Corporate Development Bank Limited
+2026043003002915,CORBL,87,38,10,2300.0,23000.0,2026-04-30,188698490,450,S.P.S.A. Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:44:02.504745,Corporate Development Bank Limited
+2026043003002998,CORBL,43,42,20,2299.9,45998.0,2026-04-30,188700261,450,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:46:48.247925,Corporate Development Bank Limited
+2026043003002999,CORBL,43,38,80,2300.0,184000.0,2026-04-30,188700264,450,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 12:46:48.248153,Corporate Development Bank Limited
+2026043003003016,CORBL,45,34,81,2291.0,185571.0,2026-04-30,188700623,450,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:47:50.328756,Corporate Development Bank Limited
+2026043003003020,CORBL,87,42,10,2299.9,22999.0,2026-04-30,188700780,450,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,2026-04-30 12:48:03.676365,Corporate Development Bank Limited
+2026043003003050,CORBL,39,34,200,2292.0,458400.0,2026-04-30,188701428,450,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:49:23.066093,Corporate Development Bank Limited
+2026043003003051,CORBL,45,34,19,2291.0,43529.0,2026-04-30,188701430,450,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:49:23.066369,Corporate Development Bank Limited
+2026043003003052,CORBL,34,34,15,2290.0,34350.0,2026-04-30,188701432,450,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-30 12:49:23.066519,Corporate Development Bank Limited
+2026043003003053,CORBL,11,34,100,2290.0,229000.0,2026-04-30,188701434,450,Malla & Malla Stock Broking Company Pvt. Limited,Vision Securities Pvt. Ltd,2026-04-30 12:49:23.066647,Corporate Development Bank Limited
+2026043003003128,CORBL,16,34,10,2290.0,22900.0,2026-04-30,188703162,450,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:52:55.982196,Corporate Development Bank Limited
+2026043003003139,CORBL,58,42,10,2289.9,22899.0,2026-04-30,188703531,450,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:53:43.866759,Corporate Development Bank Limited
+2026043003003140,CORBL,58,34,40,2290.0,91600.0,2026-04-30,188703534,450,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:53:43.866962,Corporate Development Bank Limited
+2026043003003143,CORBL,36,34,116,2290.0,265640.0,2026-04-30,188703707,450,Secured Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:54:09.200161,Corporate Development Bank Limited
+2026043003003146,CORBL,36,46,50,2290.0,114500.0,2026-04-30,188703768,450,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207040,Corporate Development Bank Limited
+2026043003003147,CORBL,45,46,45,2280.0,102600.0,2026-04-30,188703770,450,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207182,Corporate Development Bank Limited
+2026043003003148,CORBL,6,46,100,2280.0,228000.0,2026-04-30,188703772,450,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207233,Corporate Development Bank Limited
+2026043003003149,CORBL,44,46,50,2279.0,113950.0,2026-04-30,188703774,450,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207280,Corporate Development Bank Limited
+2026043003003150,CORBL,36,46,50,2278.0,113900.0,2026-04-30,188703776,450,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207327,Corporate Development Bank Limited
+2026043003003151,CORBL,38,46,30,2278.0,68340.0,2026-04-30,188703778,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207371,Corporate Development Bank Limited
+2026043003003152,CORBL,29,46,1000,2277.1,2277100.0,2026-04-30,188703780,450,Trisul Securities & Invt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207421,Corporate Development Bank Limited
+2026043003003153,CORBL,48,46,10,2277.0,22770.0,2026-04-30,188703782,450,Trishakti Securities Public Limited,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207469,Corporate Development Bank Limited
+2026043003003154,CORBL,58,46,10,2276.4,22764.0,2026-04-30,188703784,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207522,Corporate Development Bank Limited
+2026043003003155,CORBL,63,46,100,2276.4,227640.0,2026-04-30,188703786,450,Himalayan Brokerage Company Limited,Kalika Securities Pvt. Ltd.,2026-04-30 12:54:21.207566,Corporate Development Bank Limited
+2026043003003166,CORBL,38,71,20,2276.3,45526.0,2026-04-30,188704100,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 12:55:00.317854,Corporate Development Bank Limited
+2026043003003167,CORBL,58,71,10,2276.3,22763.0,2026-04-30,188704102,450,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 12:55:00.317947,Corporate Development Bank Limited
+2026043003003168,CORBL,58,71,100,2276.3,227630.0,2026-04-30,188704104,450,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 12:55:00.318013,Corporate Development Bank Limited
+2026043003003169,CORBL,57,71,30,2276.3,68289.0,2026-04-30,188704106,450,Aryatara Investment & Securities,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 12:55:00.318108,Corporate Development Bank Limited
+2026043003003170,CORBL,5,71,100,2276.3,227630.0,2026-04-30,188704108,450,Market Securities & Exchange (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 12:55:00.318176,Corporate Development Bank Limited
+2026043003003171,CORBL,50,71,240,2276.3,546312.0,2026-04-30,188704109,450,Cristal Kanchanjanga Securites Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 12:55:00.318242,Corporate Development Bank Limited
+2026043003003182,CORBL,50,42,755,2276.3,1718606.5,2026-04-30,188704267,450,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:55:21.506751,Corporate Development Bank Limited
+2026043003003188,CORBL,29,46,1500,2276.4,3414600.0,2026-04-30,188704564,450,Trisul Securities & Invt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:55:53.638777,Corporate Development Bank Limited
+2026043003003196,CORBL,36,46,156,2276.4,355118.4,2026-04-30,188705122,450,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:56:27.949177,Corporate Development Bank Limited
+2026043003003209,CORBL,44,46,105,2276.4,239022.0,2026-04-30,188705350,450,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 12:56:41.899358,Corporate Development Bank Limited
+2026043003003214,CORBL,57,46,100,2276.4,227640.0,2026-04-30,188705448,450,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-30 12:56:53.424341,Corporate Development Bank Limited
+2026043003003217,CORBL,70,46,100,2276.4,227640.0,2026-04-30,188705492,450,Infinity Securities Limited,Kalika Securities Pvt. Ltd.,2026-04-30 12:56:59.988859,Corporate Development Bank Limited
+2026043003003227,CORBL,50,8,1005,2276.3,2287681.5,2026-04-30,188705848,450,Cristal Kanchanjanga Securites Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.029991,Corporate Development Bank Limited
+2026043003003228,CORBL,66,8,10,2276.3,22763.0,2026-04-30,188705850,450,Miyo Securities Pvt Ltd,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.030200,Corporate Development Bank Limited
+2026043003003229,CORBL,71,8,40,2276.3,91052.0,2026-04-30,188705852,450,SHUBHAKAMANA SECURITIES PVT. LTD,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.030329,Corporate Development Bank Limited
+2026043003003230,CORBL,57,8,30,2276.3,68289.0,2026-04-30,188705854,450,Aryatara Investment & Securities,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.030468,Corporate Development Bank Limited
+2026043003003231,CORBL,42,8,20,2276.3,45526.0,2026-04-30,188705856,450,Sani Securities Company Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.030587,Corporate Development Bank Limited
+2026043003003232,CORBL,32,8,10,2276.3,22763.0,2026-04-30,188705858,450,Premier Securities Company Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.030707,Corporate Development Bank Limited
+2026043003003233,CORBL,58,8,49,2276.3,111538.7,2026-04-30,188705860,450,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.030828,Corporate Development Bank Limited
+2026043003003234,CORBL,49,8,10,2276.3,22763.0,2026-04-30,188705862,450,Online Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.030939,Corporate Development Bank Limited
+2026043003003235,CORBL,42,8,10,2276.3,22763.0,2026-04-30,188705864,450,Sani Securities Company Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.031060,Corporate Development Bank Limited
+2026043003003236,CORBL,50,8,1740,2276.3,3960762.0,2026-04-30,188705865,450,Cristal Kanchanjanga Securites Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 12:57:24.031180,Corporate Development Bank Limited
+2026043003003269,CORBL,35,63,100,2280.0,228000.0,2026-04-30,188707781,450,Kohinoor Investment & Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-30 12:59:12.353787,Corporate Development Bank Limited
+2026043003003270,CORBL,28,34,150,2277.0,341550.0,2026-04-30,188707784,450,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:59:12.449078,Corporate Development Bank Limited
+2026043003003271,CORBL,28,34,20,2277.0,45540.0,2026-04-30,188707786,450,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:59:12.449180,Corporate Development Bank Limited
+2026043003003272,CORBL,50,34,260,2276.3,591838.0,2026-04-30,188707788,450,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:59:12.449262,Corporate Development Bank Limited
+2026043003003273,CORBL,41,34,214,2276.3,487128.2,2026-04-30,188707790,450,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:59:12.449308,Corporate Development Bank Limited
+2026043003003274,CORBL,37,34,100,2276.3,227630.0,2026-04-30,188707792,450,Swarna Laxmi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:59:12.449362,Corporate Development Bank Limited
+2026043003003275,CORBL,98,34,201,2276.3,457536.3,2026-04-30,188707793,450,Trademow Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-30 12:59:12.449399,Corporate Development Bank Limited
+2026043003003297,CORBL,87,42,10,2299.9,22999.0,2026-04-30,188708157,450,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,2026-04-30 12:59:52.741990,Corporate Development Bank Limited
+2026043003003298,CORBL,87,88,10,2300.0,23000.0,2026-04-30,188708160,450,S.P.S.A. Securities Limited,Blue Chip Securities Ltd,2026-04-30 12:59:52.742061,Corporate Development Bank Limited
+2026043003003301,CORBL,49,88,22,2300.0,50600.0,2026-04-30,188708208,450,Online Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-30 12:59:57.763791,Corporate Development Bank Limited
+2026043003003337,CORBL,49,46,76,2277.0,173052.0,2026-04-30,188709576,450,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:01:55.487955,Corporate Development Bank Limited
+2026043003003347,CORBL,58,46,73,2276.8,166206.4,2026-04-30,188709734,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:02:13.726464,Corporate Development Bank Limited
+2026043003003359,CORBL,6,46,100,2276.8,227680.0,2026-04-30,188709938,450,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:02:38.837885,Corporate Development Bank Limited
+2026043003003420,CORBL,28,80,40,2276.5,91060.0,2026-04-30,188711418,450,Shree Krishna Securities Ltd.,Indira securities pvt. ltd,2026-04-30 13:04:15.519521,Corporate Development Bank Limited
+2026043003003421,CORBL,58,80,60,2276.5,136590.0,2026-04-30,188711419,450,Naasa Securities Co. Ltd.,Indira securities pvt. ltd,2026-04-30 13:04:15.519617,Corporate Development Bank Limited
+2026043003003437,CORBL,58,61,250,2276.5,569125.0,2026-04-30,188711767,450,Naasa Securities Co. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-30 13:04:40.324776,Corporate Development Bank Limited
+2026043003003438,CORBL,49,46,480,2276.8,1092864.0,2026-04-30,188711856,450,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:04:42.576268,Corporate Development Bank Limited
+2026043003003462,CORBL,57,46,100,2276.8,227680.0,2026-04-30,188712618,450,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-30 13:05:33.260487,Corporate Development Bank Limited
+2026043003003499,CORBL,74,46,30,2276.8,68304.0,2026-04-30,188714482,450,KALASH STOCK MARKET PVT. LTD.,Kalika Securities Pvt. Ltd.,2026-04-30 13:07:10.307951,Corporate Development Bank Limited
+2026043003003503,CORBL,38,46,10,2276.8,22768.0,2026-04-30,188714540,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:07:14.001056,Corporate Development Bank Limited
+2026043003003506,CORBL,58,46,78,2276.8,177590.4,2026-04-30,188714726,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:07:20.949719,Corporate Development Bank Limited
+2026043003003507,CORBL,58,46,150,2276.8,341520.0,2026-04-30,188714764,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:07:25.370498,Corporate Development Bank Limited
+2026043003003510,CORBL,58,46,10,2276.8,22768.0,2026-04-30,188714830,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:07:33.096115,Corporate Development Bank Limited
+2026043003003522,CORBL,34,80,10,2276.4,22764.0,2026-04-30,188715316,450,Vision Securities Pvt. Ltd,Indira securities pvt. ltd,2026-04-30 13:08:04.424886,Corporate Development Bank Limited
+2026043003003523,CORBL,57,80,50,2276.4,113820.0,2026-04-30,188715318,450,Aryatara Investment & Securities,Indira securities pvt. ltd,2026-04-30 13:08:04.425018,Corporate Development Bank Limited
+2026043003003524,CORBL,98,80,440,2276.3,1001572.0,2026-04-30,188715319,450,Trademow Securities Private Limited,Indira securities pvt. ltd,2026-04-30 13:08:04.425070,Corporate Development Bank Limited
+2026043003003529,CORBL,80,46,500,2276.8,1138400.0,2026-04-30,188715524,450,Indira securities pvt. ltd,Kalika Securities Pvt. Ltd.,2026-04-30 13:08:29.241208,Corporate Development Bank Limited
+2026043003003541,CORBL,59,46,100,2276.8,227680.0,2026-04-30,188715876,450,Deevyaa Securities & Stock House Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 13:08:51.047750,Corporate Development Bank Limited
+2026043003003546,CORBL,80,46,100,2276.8,227680.0,2026-04-30,188715982,450,Indira securities pvt. ltd,Kalika Securities Pvt. Ltd.,2026-04-30 13:09:05.423293,Corporate Development Bank Limited
+2026043003003583,CORBL,41,46,30,2276.8,68304.0,2026-04-30,188717226,450,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:10:18.844118,Corporate Development Bank Limited
+2026043003003591,CORBL,34,47,6,2276.3,13657.8,2026-04-30,188717617,450,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-30 13:10:52.716321,Corporate Development Bank Limited
+2026043003003592,CORBL,58,50,1,2282.0,2282.0,2026-04-30,188717707,450,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 13:10:58.631251,Corporate Development Bank Limited
+2026043003003635,CORBL,46,46,1000,2276.8,2276800.0,2026-04-30,188718524,450,Kalika Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:11:54.232611,Corporate Development Bank Limited
+2026043003003656,CORBL,88,46,1500,2276.8,3415200.0,2026-04-30,188719042,450,Blue Chip Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 13:12:24.920314,Corporate Development Bank Limited
+2026043003003661,CORBL,4,46,10,2276.8,22768.0,2026-04-30,188719140,450,Opal Securities Investment (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:12:35.768185,Corporate Development Bank Limited
+2026043003003671,CORBL,53,46,10,2276.8,22768.0,2026-04-30,188719306,450,Investment Management Nepal Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:12:51.072519,Corporate Development Bank Limited
+2026043003003682,CORBL,74,46,40,2276.8,91072.0,2026-04-30,188719750,450,KALASH STOCK MARKET PVT. LTD.,Kalika Securities Pvt. Ltd.,2026-04-30 13:13:13.079093,Corporate Development Bank Limited
+2026043003003689,CORBL,58,46,10,2276.8,22768.0,2026-04-30,188719818,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:13:20.911533,Corporate Development Bank Limited
+2026043003003704,CORBL,58,46,13,2276.8,29598.4,2026-04-30,188720004,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:13:37.063731,Corporate Development Bank Limited
+2026043003003709,CORBL,42,46,20,2276.8,45536.0,2026-04-30,188720136,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:13:49.557737,Corporate Development Bank Limited
+2026043003003711,CORBL,42,46,10,2276.8,22768.0,2026-04-30,188720170,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:13:52.137135,Corporate Development Bank Limited
+2026043003003765,CORBL,45,46,20,2277.0,45540.0,2026-04-30,188721194,450,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:15:21.655949,Corporate Development Bank Limited
+2026043003003766,CORBL,42,46,15,2277.0,34155.0,2026-04-30,188721202,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:15:22.947815,Corporate Development Bank Limited
+2026043003003780,CORBL,42,46,32,2277.0,72864.0,2026-04-30,188721706,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:16:00.708606,Corporate Development Bank Limited
+2026043003003791,CORBL,45,46,50,2277.0,113850.0,2026-04-30,188721916,450,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:16:15.121949,Corporate Development Bank Limited
+2026043003003929,CORBL,87,42,10,2299.9,22999.0,2026-04-30,188724228,450,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,2026-04-30 13:19:24.202195,Corporate Development Bank Limited
+2026043003003958,CORBL,21,88,10,2300.0,23000.0,2026-04-30,188725040,450,Midas Stock Broking Company Private Limited,Blue Chip Securities Ltd,2026-04-30 13:19:59.528533,Corporate Development Bank Limited
+2026043003004021,CORBL,22,88,10,2300.0,23000.0,2026-04-30,188726762,450,Siprabi Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-30 13:21:30.848569,Corporate Development Bank Limited
+2026043003004100,CORBL,36,88,130,2300.0,299000.0,2026-04-30,188728226,450,Secured Securities Ltd.,Blue Chip Securities Ltd,2026-04-30 13:23:31.502783,Corporate Development Bank Limited
+2026043003004197,CORBL,34,88,10,2300.0,23000.0,2026-04-30,188729730,450,Vision Securities Pvt. Ltd,Blue Chip Securities Ltd,2026-04-30 13:26:41.027235,Corporate Development Bank Limited
+2026043003004218,CORBL,58,43,10,2300.0,23000.0,2026-04-30,188730283,450,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 13:28:02.921290,Corporate Development Bank Limited
+2026043003004219,CORBL,58,22,30,2300.0,69000.0,2026-04-30,188730285,450,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-30 13:28:02.921477,Corporate Development Bank Limited
+2026043003004225,CORBL,58,46,60,2300.0,138000.0,2026-04-30,188730390,450,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:28:22.545240,Corporate Development Bank Limited
+2026043003004226,CORBL,49,46,10,2278.0,22780.0,2026-04-30,188730392,450,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:28:22.545359,Corporate Development Bank Limited
+2026043003004227,CORBL,34,46,10,2278.0,22780.0,2026-04-30,188730394,450,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 13:28:22.545406,Corporate Development Bank Limited
+2026043003004228,CORBL,6,46,50,2277.0,113850.0,2026-04-30,188730396,450,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:28:22.545445,Corporate Development Bank Limited
+2026043003004229,CORBL,42,46,50,2277.0,113850.0,2026-04-30,188730398,450,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:28:22.545483,Corporate Development Bank Limited
+2026043003004238,CORBL,14,46,10,2277.0,22770.0,2026-04-30,188730568,450,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:28:48.092296,Corporate Development Bank Limited
+2026043003004259,CORBL,52,33,175,2276.6,398405.0,2026-04-30,188730832,450,Sundhara Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:29:37.520991,Corporate Development Bank Limited
+2026043003004260,CORBL,6,33,25,2276.5,56912.5,2026-04-30,188730833,450,Agrawal Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:29:37.521213,Corporate Development Bank Limited
+2026043003004270,CORBL,29,46,10,2277.0,22770.0,2026-04-30,188730960,450,Trisul Securities & Invt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:29:55.068214,Corporate Development Bank Limited
+2026043003004273,CORBL,41,46,215,2277.0,489555.0,2026-04-30,188730992,450,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:30:04.461188,Corporate Development Bank Limited
+2026043003004275,CORBL,6,33,25,2276.5,56912.5,2026-04-30,188731066,450,Agrawal Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:10.984970,Corporate Development Bank Limited
+2026043003004276,CORBL,41,33,13,2276.5,29594.5,2026-04-30,188731068,450,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:10.985066,Corporate Development Bank Limited
+2026043003004277,CORBL,57,33,50,2276.4,113820.0,2026-04-30,188731070,450,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:10.985121,Corporate Development Bank Limited
+2026043003004278,CORBL,8,33,10,2276.4,22764.0,2026-04-30,188731072,450,Brilliant Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:10.985169,Corporate Development Bank Limited
+2026043003004279,CORBL,6,33,50,2276.4,113820.0,2026-04-30,188731074,450,Agrawal Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:10.985206,Corporate Development Bank Limited
+2026043003004280,CORBL,11,33,10,2276.4,22764.0,2026-04-30,188731076,450,Malla & Malla Stock Broking Company Pvt. Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:10.985242,Corporate Development Bank Limited
+2026043003004281,CORBL,98,33,42,2276.3,95604.6,2026-04-30,188731077,450,Trademow Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:10.985280,Corporate Development Bank Limited
+2026043003004285,CORBL,41,46,215,2277.0,489555.0,2026-04-30,188731122,450,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 13:30:19.721040,Corporate Development Bank Limited
+2026043003004292,CORBL,98,33,55,2276.3,125196.5,2026-04-30,188731195,450,Trademow Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:30:34.288308,Corporate Development Bank Limited
+2026043003004293,CORBL,39,42,10,2340.0,23400.0,2026-04-30,188731242,450,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 13:30:42.418158,Corporate Development Bank Limited
+2026043003004297,CORBL,98,87,10,2276.3,22763.0,2026-04-30,188731455,450,Trademow Securities Private Limited,S.P.S.A. Securities Limited,2026-04-30 13:31:15.556792,Corporate Development Bank Limited
+2026043003004306,CORBL,98,74,752,2276.3,1711777.6,2026-04-30,188731553,450,Trademow Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-30 13:31:41.679573,Corporate Development Bank Limited
+2026043003004326,CORBL,14,58,10,2276.4,22764.0,2026-04-30,188731854,450,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-30 13:32:34.829405,Corporate Development Bank Limited
+2026043003004327,CORBL,98,58,190,2276.3,432497.0,2026-04-30,188731855,450,Trademow Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-30 13:32:34.829598,Corporate Development Bank Limited
+2026043003004374,CORBL,7,28,80,2276.4,182112.0,2026-04-30,188732367,450,J.F. Securites (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:02.647884,Corporate Development Bank Limited
+2026043003004396,CORBL,57,60,30,2277.1,68313.0,2026-04-30,188732686,450,Aryatara Investment & Securities,Nagarik Stock Dealer ,2026-04-30 13:34:50.851982,Corporate Development Bank Limited
+2026043003004397,CORBL,41,60,183,2277.0,416691.0,2026-04-30,188732688,450,Linch Stock Market Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852049,Corporate Development Bank Limited
+2026043003004398,CORBL,7,60,20,2276.4,45528.0,2026-04-30,188732690,450,J.F. Securites (PVT) Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852069,Corporate Development Bank Limited
+2026043003004399,CORBL,98,60,310,2276.3,705653.0,2026-04-30,188732692,450,Trademow Securities Private Limited,Nagarik Stock Dealer ,2026-04-30 13:34:50.852088,Corporate Development Bank Limited
+2026043003004400,CORBL,68,60,100,2276.3,227630.0,2026-04-30,188732694,450,Elite Stock House Limited,Nagarik Stock Dealer ,2026-04-30 13:34:50.852120,Corporate Development Bank Limited
+2026043003004401,CORBL,16,60,10,2276.3,22763.0,2026-04-30,188732696,450,Primo Securities (PVT) Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852141,Corporate Development Bank Limited
+2026043003004402,CORBL,5,60,100,2276.3,227630.0,2026-04-30,188732698,450,Market Securities & Exchange (PVT) Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852160,Corporate Development Bank Limited
+2026043003004403,CORBL,17,60,20,2276.3,45526.0,2026-04-30,188732700,450,ABC Securities Private Limited,Nagarik Stock Dealer ,2026-04-30 13:34:50.852180,Corporate Development Bank Limited
+2026043003004404,CORBL,60,60,100,2276.3,227630.0,2026-04-30,188732702,450,Nagarik Stock Dealer ,Nagarik Stock Dealer ,2026-04-30 13:34:50.852198,Corporate Development Bank Limited
+2026043003004405,CORBL,42,60,10,2276.3,22763.0,2026-04-30,188732704,450,Sani Securities Company Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852218,Corporate Development Bank Limited
+2026043003004406,CORBL,58,60,10,2276.3,22763.0,2026-04-30,188732706,450,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852239,Corporate Development Bank Limited
+2026043003004407,CORBL,34,60,15,2276.3,34144.5,2026-04-30,188732708,450,Vision Securities Pvt. Ltd,Nagarik Stock Dealer ,2026-04-30 13:34:50.852256,Corporate Development Bank Limited
+2026043003004408,CORBL,45,60,10,2276.3,22763.0,2026-04-30,188732710,450,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852276,Corporate Development Bank Limited
+2026043003004409,CORBL,44,60,43,2276.3,97880.9,2026-04-30,188732712,450,Dynamic Money Managers Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-30 13:34:50.852296,Corporate Development Bank Limited
+2026043003004410,CORBL,17,60,39,2276.3,88775.7,2026-04-30,188732713,450,ABC Securities Private Limited,Nagarik Stock Dealer ,2026-04-30 13:34:50.852316,Corporate Development Bank Limited
+2026043003004421,CORBL,59,58,25,2276.4,56910.0,2026-04-30,188733058,450,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-30 13:35:31.827510,Corporate Development Bank Limited
+2026043003004422,CORBL,17,58,45,2276.3,102433.5,2026-04-30,188733059,450,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-30 13:35:31.827695,Corporate Development Bank Limited
+2026043003004429,CORBL,87,91,10,2300.0,23000.0,2026-04-30,188733166,450,S.P.S.A. Securities Limited,Citizens Share Broker Limited,2026-04-30 13:35:52.074537,Corporate Development Bank Limited
+2026043003004458,CORBL,58,91,100,2300.0,230000.0,2026-04-30,188733726,450,Naasa Securities Co. Ltd.,Citizens Share Broker Limited,2026-04-30 13:37:16.520651,Corporate Development Bank Limited
+2026043003004466,CORBL,58,47,1,2282.0,2282.0,2026-04-30,188733935,450,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-30 13:38:09.197032,Corporate Development Bank Limited
+2026043003004532,CORBL,41,7,10,2276.5,22765.0,2026-04-30,188735688,450,Linch Stock Market Ltd.,J.F. Securites (PVT) Ltd.,2026-04-30 13:42:26.090630,Corporate Development Bank Limited
+2026043003004533,CORBL,34,7,10,2276.5,22765.0,2026-04-30,188735690,450,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-30 13:42:26.090847,Corporate Development Bank Limited
+2026043003004534,CORBL,72,7,100,2276.4,227640.0,2026-04-30,188735692,450,Hatemalo Financial Services Private Limited,J.F. Securites (PVT) Ltd.,2026-04-30 13:42:26.090986,Corporate Development Bank Limited
+2026043003004535,CORBL,17,7,30,2276.3,68289.0,2026-04-30,188735693,450,ABC Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-30 13:42:26.091140,Corporate Development Bank Limited
+2026043003004536,CORBL,87,42,10,2299.9,22999.0,2026-04-30,188735740,450,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,2026-04-30 13:42:35.168551,Corporate Development Bank Limited
+2026043003004663,CORBL,48,42,10,2298.0,22980.0,2026-04-30,188738591,450,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-30 13:49:55.493571,Corporate Development Bank Limited
+2026043003004664,CORBL,48,26,10,2298.8,22988.0,2026-04-30,188738594,450,Trishakti Securities Public Limited,Asian Securities Private Ltd.,2026-04-30 13:49:55.493765,Corporate Development Bank Limited
+2026043003004668,CORBL,58,50,3,2344.0,7032.0,2026-04-30,188738639,450,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 13:50:04.072105,Corporate Development Bank Limited
+2026043003004717,CORBL,47,42,10,2277.0,22770.0,2026-04-30,188739725,450,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 13:52:05.271558,Corporate Development Bank Limited
+2026043003004737,CORBL,47,42,10,2277.0,22770.0,2026-04-30,188740097,450,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 13:52:58.790537,Corporate Development Bank Limited
+2026043003004794,CORBL,17,45,16,2276.3,36420.8,2026-04-30,188740752,450,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-30 13:54:33.986072,Corporate Development Bank Limited
+2026043003004795,CORBL,56,45,40,2276.3,91052.0,2026-04-30,188740754,450,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 13:54:33.986255,Corporate Development Bank Limited
+2026043003004796,CORBL,38,45,20,2276.3,45526.0,2026-04-30,188740756,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 13:54:33.986387,Corporate Development Bank Limited
+2026043003004797,CORBL,57,45,20,2276.3,45526.0,2026-04-30,188740758,450,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-30 13:54:33.986511,Corporate Development Bank Limited
+2026043003004826,CORBL,59,42,10,2277.0,22770.0,2026-04-30,188741231,450,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-30 13:55:34.522555,Corporate Development Bank Limited
+2026043003004852,CORBL,87,42,10,2295.0,22950.0,2026-04-30,188741594,450,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,2026-04-30 13:56:37.671854,Corporate Development Bank Limited
+2026043003004983,CORBL,39,42,10,2281.1,22811.0,2026-04-30,188744577,450,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:03:25.997694,Corporate Development Bank Limited
+2026043003004986,CORBL,46,52,200,2281.0,456200.0,2026-04-30,188744707,450,Kalika Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-30 14:03:39.243442,Corporate Development Bank Limited
+2026043003004992,CORBL,46,42,10,2281.0,22810.0,2026-04-30,188744929,450,Kalika Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:03:59.220061,Corporate Development Bank Limited
+2026043003004993,CORBL,87,42,10,2294.0,22940.0,2026-04-30,188744932,450,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,2026-04-30 14:03:59.263441,Corporate Development Bank Limited
+2026043003004996,CORBL,46,42,10,2281.0,22810.0,2026-04-30,188745139,450,Kalika Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:04:33.847367,Corporate Development Bank Limited
+2026043003005037,CORBL,46,42,10,2281.0,22810.0,2026-04-30,188745357,450,Kalika Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:05:03.386791,Corporate Development Bank Limited
+2026043003005045,CORBL,5,42,10,2281.0,22810.0,2026-04-30,188745575,450,Market Securities & Exchange (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-30 14:05:30.170839,Corporate Development Bank Limited
+2026043003005060,CORBL,58,42,40,2278.0,91120.0,2026-04-30,188745943,450,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:06:10.552896,Corporate Development Bank Limited
+2026043003005067,CORBL,58,28,11,2277.0,25047.0,2026-04-30,188745996,450,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300173,Corporate Development Bank Limited
+2026043003005068,CORBL,14,28,55,2276.4,125202.0,2026-04-30,188745998,450,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300281,Corporate Development Bank Limited
+2026043003005069,CORBL,34,28,10,2276.3,22763.0,2026-04-30,188746000,450,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300341,Corporate Development Bank Limited
+2026043003005070,CORBL,17,28,20,2276.3,45526.0,2026-04-30,188746002,450,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300407,Corporate Development Bank Limited
+2026043003005071,CORBL,48,28,100,2276.3,227630.0,2026-04-30,188746004,450,Trishakti Securities Public Limited,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300479,Corporate Development Bank Limited
+2026043003005072,CORBL,33,28,50,2276.3,113815.0,2026-04-30,188746006,450,Dakshinkali Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300532,Corporate Development Bank Limited
+2026043003005073,CORBL,47,28,55,2276.3,125196.5,2026-04-30,188746008,450,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300582,Corporate Development Bank Limited
+2026043003005074,CORBL,67,28,190,2276.3,432497.0,2026-04-30,188746009,450,Property Wiard Limited,Shree Krishna Securities Ltd.,2026-04-30 14:06:18.300636,Corporate Development Bank Limited
+2026043003005076,CORBL,67,57,10,2276.3,22763.0,2026-04-30,188746046,450,Property Wiard Limited,Aryatara Investment & Securities,2026-04-30 14:06:22.922536,Corporate Development Bank Limited
+2026043003005109,CORBL,45,57,10,2276.3,22763.0,2026-04-30,188746388,450,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-30 14:07:24.221463,Corporate Development Bank Limited
+2026043003005126,CORBL,45,57,10,2276.3,22763.0,2026-04-30,188746674,450,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-30 14:08:14.886128,Corporate Development Bank Limited
+2026043003005149,CORBL,95,29,50,2276.3,113815.0,2026-04-30,188747238,450,Magnet Securities and Investment Company Private Limited,Trisul Securities & Invt. Ltd.,2026-04-30 14:09:57.570813,Corporate Development Bank Limited
+2026043003005194,CORBL,45,29,10,2276.3,22763.0,2026-04-30,188747816,450,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:11:19.650524,Corporate Development Bank Limited
+2026043003005220,CORBL,14,29,30,2276.3,68289.0,2026-04-30,188748404,450,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:12:21.545817,Corporate Development Bank Limited
+2026043003005259,CORBL,58,29,40,2276.3,91052.0,2026-04-30,188748890,450,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:13:30.210210,Corporate Development Bank Limited
+2026043003005301,CORBL,49,29,60,2276.3,136578.0,2026-04-30,188749286,450,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:14:31.888957,Corporate Development Bank Limited
+2026043003005340,CORBL,58,29,34,2276.3,77394.2,2026-04-30,188749916,450,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:16:07.325375,Corporate Development Bank Limited
+2026043003005344,CORBL,36,29,10,2276.3,22763.0,2026-04-30,188750030,450,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:16:18.731922,Corporate Development Bank Limited
+2026043003005397,CORBL,58,29,14,2276.3,31868.2,2026-04-30,188751152,450,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:19:07.045603,Corporate Development Bank Limited
+2026043003005417,CORBL,99,29,20,2276.3,45526.0,2026-04-30,188751554,450,Prabhu Stock Market Limited,Trisul Securities & Invt. Ltd.,2026-04-30 14:20:11.330409,Corporate Development Bank Limited
+2026043003005421,CORBL,58,45,4,2276.3,9105.2,2026-04-30,188751777,450,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:20:21.350345,Corporate Development Bank Limited
+2026043003005430,CORBL,99,29,50,2276.3,113815.0,2026-04-30,188752008,450,Prabhu Stock Market Limited,Trisul Securities & Invt. Ltd.,2026-04-30 14:20:50.233873,Corporate Development Bank Limited
+2026043003005450,CORBL,16,29,12,2276.3,27315.6,2026-04-30,188752332,450,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:21:39.575486,Corporate Development Bank Limited
+2026043003005489,CORBL,42,29,10,2276.3,22763.0,2026-04-30,188753604,450,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:22:54.899182,Corporate Development Bank Limited
+2026043003005493,CORBL,44,29,10,2276.3,22763.0,2026-04-30,188753730,450,Dynamic Money Managers Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:23:04.754898,Corporate Development Bank Limited
+2026043003005496,CORBL,56,29,50,2276.3,113815.0,2026-04-30,188753804,450,Sri Hari Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:23:12.720392,Corporate Development Bank Limited
+2026043003005617,CORBL,29,29,10,2276.3,22763.0,2026-04-30,188756108,450,Trisul Securities & Invt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:27:18.560535,Corporate Development Bank Limited
+2026043003005679,CORBL,3,29,20,2276.3,45526.0,2026-04-30,188757328,450,Arun Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:29:12.664518,Corporate Development Bank Limited
+2026043003005720,CORBL,29,29,10,2276.3,22763.0,2026-04-30,188758274,450,Trisul Securities & Invt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:30:30.240225,Corporate Development Bank Limited
+2026043003005756,CORBL,4,29,25,2276.3,56907.5,2026-04-30,188758878,450,Opal Securities Investment (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:31:29.774212,Corporate Development Bank Limited
+2026043003005933,CORBL,1,29,10,2276.3,22763.0,2026-04-30,188762172,450,Kumari Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-30 14:36:27.797164,Corporate Development Bank Limited
+2026043003005937,CORBL,70,29,10,2276.3,22763.0,2026-04-30,188762268,450,Infinity Securities Limited,Trisul Securities & Invt. Ltd.,2026-04-30 14:36:32.505647,Corporate Development Bank Limited
+2026043003006057,CORBL,4,29,15,2276.3,34144.5,2026-04-30,188765523,450,Opal Securities Investment (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:40:57.873688,Corporate Development Bank Limited
+2026043003006058,CORBL,4,77,10,2276.3,22763.0,2026-04-30,188765525,450,Opal Securities Investment (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-30 14:40:57.873925,Corporate Development Bank Limited
+2026043003006059,CORBL,4,89,21,2276.3,47802.3,2026-04-30,188765527,450,Opal Securities Investment (PVT) Ltd.,Global IME Securities Limited,2026-04-30 14:40:57.874125,Corporate Development Bank Limited
+2026043003006060,CORBL,4,42,10,2276.3,22763.0,2026-04-30,188765529,450,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-30 14:40:57.874285,Corporate Development Bank Limited
+2026043003006061,CORBL,4,29,44,2276.3,100157.2,2026-04-30,188765532,450,Opal Securities Investment (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:40:57.874419,Corporate Development Bank Limited
+2026043003006078,CORBL,36,29,50,2276.3,113815.0,2026-04-30,188765674,450,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:41:11.014061,Corporate Development Bank Limited
+2026043003006095,CORBL,36,29,406,2276.3,924177.8,2026-04-30,188766049,450,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:41:41.375411,Corporate Development Bank Limited
+2026043003006096,CORBL,36,29,247,2276.3,562246.1,2026-04-30,188766051,450,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:41:41.375507,Corporate Development Bank Limited
+2026043003006097,CORBL,36,3,170,2276.3,386971.0,2026-04-30,188766053,450,Secured Securities Ltd.,Arun Securities (PVT) Ltd.,2026-04-30 14:41:41.375559,Corporate Development Bank Limited
+2026043003006098,CORBL,36,42,10,2276.3,22763.0,2026-04-30,188766055,450,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:41:41.375604,Corporate Development Bank Limited
+2026043003006099,CORBL,36,42,10,2276.3,22763.0,2026-04-30,188766057,450,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:41:41.375649,Corporate Development Bank Limited
+2026043003006100,CORBL,36,50,32,2276.3,72841.6,2026-04-30,188766060,450,Secured Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:41:41.375691,Corporate Development Bank Limited
+2026043003006147,CORBL,17,42,10,2294.0,22940.0,2026-04-30,188767095,450,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-30 14:42:57.844702,Corporate Development Bank Limited
+2026043003006148,CORBL,17,29,120,2294.0,275280.0,2026-04-30,188767098,450,ABC Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-30 14:42:57.844907,Corporate Development Bank Limited
+2026043003006169,CORBL,34,87,10,2276.3,22763.0,2026-04-30,188767665,450,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-30 14:43:49.142479,Corporate Development Bank Limited
+2026043003006194,CORBL,34,72,20,2276.4,45528.0,2026-04-30,188768048,450,Vision Securities Pvt. Ltd,Hatemalo Financial Services Private Limited,2026-04-30 14:44:34.660472,Corporate Development Bank Limited
+2026043003006197,CORBL,38,4,51,2276.3,116091.3,2026-04-30,188768085,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-30 14:44:40.835684,Corporate Development Bank Limited
+2026043003006218,CORBL,38,42,10,2276.3,22763.0,2026-04-30,188768425,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-30 14:45:18.789834,Corporate Development Bank Limited
+2026043003006348,CORBL,63,72,5,2276.3,11381.5,2026-04-30,188770231,450,Himalayan Brokerage Company Limited,Hatemalo Financial Services Private Limited,2026-04-30 14:47:59.754889,Corporate Development Bank Limited
+2026043003006358,CORBL,58,34,10,2278.0,22780.0,2026-04-30,188770408,450,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:48:14.037508,Corporate Development Bank Limited
+2026043003006380,CORBL,6,34,50,2278.0,113900.0,2026-04-30,188770642,450,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:48:36.417703,Corporate Development Bank Limited
+2026043003006386,CORBL,45,34,30,2278.0,68340.0,2026-04-30,188770792,450,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:48:49.879448,Corporate Development Bank Limited
+2026043003006449,CORBL,53,34,10,2278.0,22780.0,2026-04-30,188771433,450,Investment Management Nepal Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:49:33.905081,Corporate Development Bank Limited
+2026043003006450,CORBL,53,42,10,2294.0,22940.0,2026-04-30,188771436,450,Investment Management Nepal Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:49:33.905150,Corporate Development Bank Limited
+2026043003006546,CORBL,43,57,10,2294.0,22940.0,2026-04-30,188772727,450,South Asian Bulls Pvt. Ltd.,Aryatara Investment & Securities,2026-04-30 14:51:18.134363,Corporate Development Bank Limited
+2026043003006547,CORBL,43,49,10,2294.7,22947.0,2026-04-30,188772730,450,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 14:51:18.134473,Corporate Development Bank Limited
+2026043003006565,CORBL,17,42,10,2294.0,22940.0,2026-04-30,188773121,450,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-30 14:51:44.828456,Corporate Development Bank Limited
+2026043003006598,CORBL,42,50,50,2294.0,114700.0,2026-04-30,188774038,450,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.087458,Corporate Development Bank Limited
+2026043003006599,CORBL,41,50,50,2280.0,114000.0,2026-04-30,188774040,450,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.087700,Corporate Development Bank Limited
+2026043003006600,CORBL,38,50,20,2277.0,45540.0,2026-04-30,188774042,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.087849,Corporate Development Bank Limited
+2026043003006601,CORBL,36,50,50,2276.5,113825.0,2026-04-30,188774044,450,Secured Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.087990,Corporate Development Bank Limited
+2026043003006602,CORBL,38,50,139,2276.3,316405.7,2026-04-30,188774046,450,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.088148,Corporate Development Bank Limited
+2026043003006603,CORBL,49,50,50,2276.3,113815.0,2026-04-30,188774048,450,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.088303,Corporate Development Bank Limited
+2026043003006604,CORBL,4,50,40,2276.3,91052.0,2026-04-30,188774050,450,Opal Securities Investment (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.088457,Corporate Development Bank Limited
+2026043003006605,CORBL,17,50,40,2276.3,91052.0,2026-04-30,188774052,450,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.088610,Corporate Development Bank Limited
+2026043003006606,CORBL,67,50,31,2276.3,70565.3,2026-04-30,188774053,450,Property Wiard Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:52:53.088746,Corporate Development Bank Limited
+2026043003006630,CORBL,67,50,10,2276.3,22763.0,2026-04-30,188774493,450,Property Wiard Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:53:20.972613,Corporate Development Bank Limited
+2026043003006686,CORBL,60,4,10,2293.0,22930.0,2026-04-30,188775765,450,Nagarik Stock Dealer ,Opal Securities Investment (PVT) Ltd.,2026-04-30 14:54:32.126083,Corporate Development Bank Limited
+2026043003006687,CORBL,60,42,10,2294.0,22940.0,2026-04-30,188775767,450,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-30 14:54:32.126193,Corporate Development Bank Limited
+2026043003006688,CORBL,60,58,10,2294.0,22940.0,2026-04-30,188775769,450,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-30 14:54:32.126265,Corporate Development Bank Limited
+2026043003006689,CORBL,60,49,10,2294.7,22947.0,2026-04-30,188775771,450,Nagarik Stock Dealer ,Online Securities Pvt. Ltd.,2026-04-30 14:54:32.126333,Corporate Development Bank Limited
+2026043003006690,CORBL,60,42,10,2294.9,22949.0,2026-04-30,188775773,450,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-30 14:54:32.126405,Corporate Development Bank Limited
+2026043003006691,CORBL,60,42,10,2298.0,22980.0,2026-04-30,188775775,450,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-30 14:54:32.126478,Corporate Development Bank Limited
+2026043003006692,CORBL,60,42,10,2298.9,22989.0,2026-04-30,188775778,450,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-30 14:54:32.126549,Corporate Development Bank Limited
+2026043003006720,CORBL,42,5,15,2278.0,34170.0,2026-04-30,188775984,450,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-30 14:54:42.825745,Corporate Development Bank Limited
+2026043003006721,CORBL,67,5,55,2276.3,125196.5,2026-04-30,188775985,450,Property Wiard Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-30 14:54:42.825959,Corporate Development Bank Limited
+2026043003006748,CORBL,60,42,10,2299.0,22990.0,2026-04-30,188776379,450,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-30 14:55:05.054425,Corporate Development Bank Limited
+2026043003006749,CORBL,60,48,10,2299.0,22990.0,2026-04-30,188776382,450,Nagarik Stock Dealer ,Trishakti Securities Public Limited,2026-04-30 14:55:05.054512,Corporate Development Bank Limited
+2026043003006839,CORBL,17,28,10,2277.0,22770.0,2026-04-30,188777707,450,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:56:17.046284,Corporate Development Bank Limited
+2026043003006844,CORBL,49,39,100,2297.0,229700.0,2026-04-30,188777746,450,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:56:19.751894,Corporate Development Bank Limited
+2026043003006872,CORBL,60,39,10,2297.0,22970.0,2026-04-30,188778172,450,Nagarik Stock Dealer ,Sumeru Securities Pvt. Ltd.,2026-04-30 14:56:32.725617,Corporate Development Bank Limited
+2026043003006876,CORBL,58,4,20,2296.0,45920.0,2026-04-30,188778215,450,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-30 14:56:35.036625,Corporate Development Bank Limited
+2026043003006877,CORBL,58,39,30,2297.0,68910.0,2026-04-30,188778218,450,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:56:35.036751,Corporate Development Bank Limited
+2026043003006931,CORBL,60,5,20,2296.7,45934.0,2026-04-30,188779070,450,Nagarik Stock Dealer ,Market Securities & Exchange (PVT) Ltd.,2026-04-30 14:57:08.327313,Corporate Development Bank Limited
+2026043003006941,CORBL,28,42,10,2296.9,22969.0,2026-04-30,188779325,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561478,Corporate Development Bank Limited
+2026043003006942,CORBL,28,39,60,2297.0,137820.0,2026-04-30,188779327,450,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:57:18.561518,Corporate Development Bank Limited
+2026043003006943,CORBL,28,42,10,2297.0,22970.0,2026-04-30,188779329,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561539,Corporate Development Bank Limited
+2026043003006944,CORBL,28,5,10,2297.6,22976.0,2026-04-30,188779331,450,Shree Krishna Securities Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-30 14:57:18.561562,Corporate Development Bank Limited
+2026043003006945,CORBL,28,42,10,2297.9,22979.0,2026-04-30,188779334,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561581,Corporate Development Bank Limited
+2026043003006946,CORBL,28,42,10,2298.0,22980.0,2026-04-30,188779337,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561602,Corporate Development Bank Limited
+2026043003006947,CORBL,28,42,10,2298.9,22989.0,2026-04-30,188779339,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561625,Corporate Development Bank Limited
+2026043003006948,CORBL,28,42,191,2299.0,439109.0,2026-04-30,188779341,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561645,Corporate Development Bank Limited
+2026043003006949,CORBL,28,42,10,2299.7,22997.0,2026-04-30,188779343,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561665,Corporate Development Bank Limited
+2026043003006950,CORBL,28,91,140,2300.0,322000.0,2026-04-30,188779345,450,Shree Krishna Securities Ltd.,Citizens Share Broker Limited,2026-04-30 14:57:18.561690,Corporate Development Bank Limited
+2026043003006951,CORBL,28,88,119,2330.0,277270.0,2026-04-30,188779347,450,Shree Krishna Securities Ltd.,Blue Chip Securities Ltd,2026-04-30 14:57:18.561713,Corporate Development Bank Limited
+2026043003006952,CORBL,28,42,10,2339.0,23390.0,2026-04-30,188779349,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561759,Corporate Development Bank Limited
+2026043003006953,CORBL,28,45,38,2340.0,88920.0,2026-04-30,188779351,450,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:57:18.561784,Corporate Development Bank Limited
+2026043003006954,CORBL,28,5,100,2340.0,234000.0,2026-04-30,188779353,450,Shree Krishna Securities Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-30 14:57:18.561808,Corporate Development Bank Limited
+2026043003006955,CORBL,28,5,30,2340.0,70200.0,2026-04-30,188779355,450,Shree Krishna Securities Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-30 14:57:18.561830,Corporate Development Bank Limited
+2026043003006956,CORBL,28,42,50,2340.0,117000.0,2026-04-30,188779357,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561853,Corporate Development Bank Limited
+2026043003006957,CORBL,28,42,10,2343.0,23430.0,2026-04-30,188779359,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561878,Corporate Development Bank Limited
+2026043003006958,CORBL,28,92,20,2343.9,46878.0,2026-04-30,188779361,450,Shree Krishna Securities Ltd.,Roadshow securities limited,2026-04-30 14:57:18.561902,Corporate Development Bank Limited
+2026043003006959,CORBL,28,42,10,2344.0,23440.0,2026-04-30,188779363,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.561925,Corporate Development Bank Limited
+2026043003006960,CORBL,28,39,100,2344.0,234400.0,2026-04-30,188779365,450,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:57:18.561950,Corporate Development Bank Limited
+2026043003006961,CORBL,28,35,103,2344.0,241432.0,2026-04-30,188779367,450,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-30 14:57:18.561974,Corporate Development Bank Limited
+2026043003006962,CORBL,28,49,50,2344.0,117200.0,2026-04-30,188779369,450,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-30 14:57:18.561994,Corporate Development Bank Limited
+2026043003006963,CORBL,28,6,35,2344.0,82040.0,2026-04-30,188779371,450,Shree Krishna Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-30 14:57:18.562016,Corporate Development Bank Limited
+2026043003006964,CORBL,28,49,20,2344.4,46888.0,2026-04-30,188779373,450,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-30 14:57:18.562043,Corporate Development Bank Limited
+2026043003006965,CORBL,28,74,10,2344.5,23445.0,2026-04-30,188779375,450,Shree Krishna Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-30 14:57:18.562067,Corporate Development Bank Limited
+2026043003006966,CORBL,28,29,50,2344.5,117225.0,2026-04-30,188779377,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:57:18.562089,Corporate Development Bank Limited
+2026043003006967,CORBL,28,74,10,2344.5,23445.0,2026-04-30,188779379,450,Shree Krishna Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-30 14:57:18.562112,Corporate Development Bank Limited
+2026043003006968,CORBL,28,43,10,2345.0,23450.0,2026-04-30,188779381,450,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 14:57:18.562130,Corporate Development Bank Limited
+2026043003006969,CORBL,28,87,10,2347.0,23470.0,2026-04-30,188779383,450,Shree Krishna Securities Ltd.,S.P.S.A. Securities Limited,2026-04-30 14:57:18.562164,Corporate Development Bank Limited
+2026043003006970,CORBL,28,87,10,2348.0,23480.0,2026-04-30,188779385,450,Shree Krishna Securities Ltd.,S.P.S.A. Securities Limited,2026-04-30 14:57:18.562190,Corporate Development Bank Limited
+2026043003006971,CORBL,28,87,10,2349.0,23490.0,2026-04-30,188779387,450,Shree Krishna Securities Ltd.,S.P.S.A. Securities Limited,2026-04-30 14:57:18.562266,Corporate Development Bank Limited
+2026043003006972,CORBL,28,38,100,2350.0,235000.0,2026-04-30,188779389,450,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 14:57:18.562288,Corporate Development Bank Limited
+2026043003006973,CORBL,28,43,20,2350.0,47000.0,2026-04-30,188779391,450,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 14:57:18.562307,Corporate Development Bank Limited
+2026043003006974,CORBL,28,57,200,2353.0,470600.0,2026-04-30,188779393,450,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-30 14:57:18.562328,Corporate Development Bank Limited
+2026043003006975,CORBL,28,29,200,2358.0,471600.0,2026-04-30,188779395,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:57:18.562352,Corporate Development Bank Limited
+2026043003006976,CORBL,28,25,200,2358.7,471740.0,2026-04-30,188779397,450,Shree Krishna Securities Ltd.,Sweta Securities Private Limited,2026-04-30 14:57:18.562381,Corporate Development Bank Limited
+2026043003006977,CORBL,28,57,20,2358.7,47174.0,2026-04-30,188779399,450,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-30 14:57:18.562406,Corporate Development Bank Limited
+2026043003006978,CORBL,28,48,10,2360.0,23600.0,2026-04-30,188779401,450,Shree Krishna Securities Ltd.,Trishakti Securities Public Limited,2026-04-30 14:57:18.562427,Corporate Development Bank Limited
+2026043003006979,CORBL,28,26,99,2360.0,233640.0,2026-04-30,188779403,450,Shree Krishna Securities Ltd.,Asian Securities Private Ltd.,2026-04-30 14:57:18.562447,Corporate Development Bank Limited
+2026043003006980,CORBL,28,5,60,2360.0,141600.0,2026-04-30,188779405,450,Shree Krishna Securities Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-30 14:57:18.562468,Corporate Development Bank Limited
+2026043003006981,CORBL,28,39,100,2362.0,236200.0,2026-04-30,188779407,450,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:57:18.562490,Corporate Development Bank Limited
+2026043003006982,CORBL,28,42,50,2362.0,118100.0,2026-04-30,188779409,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:57:18.562509,Corporate Development Bank Limited
+2026043003006983,CORBL,28,49,50,2362.0,118100.0,2026-04-30,188779411,450,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-30 14:57:18.562532,Corporate Development Bank Limited
+2026043003006984,CORBL,28,50,18,2362.8,42530.4,2026-04-30,188779413,450,Shree Krishna Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:57:18.562553,Corporate Development Bank Limited
+2026043003006985,CORBL,28,58,20,2362.8,47256.0,2026-04-30,188779415,450,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-30 14:57:18.562575,Corporate Development Bank Limited
+2026043003006986,CORBL,28,19,97,2362.8,229191.6,2026-04-30,188779417,450,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-30 14:57:18.562597,Corporate Development Bank Limited
+2026043003006987,CORBL,28,51,220,2362.8,519816.0,2026-04-30,188779419,450,Shree Krishna Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-30 14:57:18.562641,Corporate Development Bank Limited
+2026043003006988,CORBL,28,17,300,2362.8,708840.0,2026-04-30,188779421,450,Shree Krishna Securities Ltd.,ABC Securities Private Limited,2026-04-30 14:57:18.562669,Corporate Development Bank Limited
+2026043003006989,CORBL,28,29,600,2363.0,1417800.0,2026-04-30,188779423,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:57:18.562691,Corporate Development Bank Limited
+2026043003006990,CORBL,28,71,20,2363.5,47270.0,2026-04-30,188779425,450,Shree Krishna Securities Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 14:57:18.562714,Corporate Development Bank Limited
+2026043003006991,CORBL,28,88,200,2365.0,473000.0,2026-04-30,188779427,450,Shree Krishna Securities Ltd.,Blue Chip Securities Ltd,2026-04-30 14:57:18.562741,Corporate Development Bank Limited
+2026043003006992,CORBL,28,45,75,2365.0,177375.0,2026-04-30,188779429,450,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:57:18.562777,Corporate Development Bank Limited
+2026043003006993,CORBL,28,25,75,2365.9,177442.5,2026-04-30,188779432,450,Shree Krishna Securities Ltd.,Sweta Securities Private Limited,2026-04-30 14:57:18.562799,Corporate Development Bank Limited
+2026043003006996,CORBL,34,46,10,2276.4,22764.0,2026-04-30,188779447,450,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 14:57:19.296742,Corporate Development Bank Limited
+2026043003007012,CORBL,17,42,10,2276.3,22763.0,2026-04-30,188779728,450,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-30 14:57:30.541388,Corporate Development Bank Limited
+2026043003007013,CORBL,59,42,10,2276.3,22763.0,2026-04-30,188779729,450,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-30 14:57:30.541561,Corporate Development Bank Limited
+2026043003007032,CORBL,59,46,10,2276.3,22763.0,2026-04-30,188780039,450,Deevyaa Securities & Stock House Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 14:57:43.889317,Corporate Development Bank Limited
+2026043003007082,CORBL,28,58,10,2344.5,23445.0,2026-04-30,188780675,450,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-30 14:58:07.905402,Corporate Development Bank Limited
+2026043003007083,CORBL,28,25,25,2365.9,59147.5,2026-04-30,188780677,450,Shree Krishna Securities Ltd.,Sweta Securities Private Limited,2026-04-30 14:58:07.905450,Corporate Development Bank Limited
+2026043003007084,CORBL,28,29,1180,2365.9,2791762.0,2026-04-30,188780679,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:58:07.905475,Corporate Development Bank Limited
+2026043003007085,CORBL,28,39,100,2367.0,236700.0,2026-04-30,188780681,450,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:58:07.905499,Corporate Development Bank Limited
+2026043003007086,CORBL,28,57,10,2367.9,23679.0,2026-04-30,188780683,450,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-30 14:58:07.905521,Corporate Development Bank Limited
+2026043003007087,CORBL,28,49,24,2367.9,56829.6,2026-04-30,188780685,450,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-30 14:58:07.905544,Corporate Development Bank Limited
+2026043003007088,CORBL,28,29,651,2367.9,1541502.9,2026-04-30,188780688,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:58:07.905575,Corporate Development Bank Limited
+2026043003007090,CORBL,59,46,10,2276.3,22763.0,2026-04-30,188780747,450,Deevyaa Securities & Stock House Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 14:58:09.199590,Corporate Development Bank Limited
+2026043003007201,CORBL,58,49,20,2276.4,45528.0,2026-04-30,188782444,450,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 14:59:01.291192,Corporate Development Bank Limited
+2026043003007202,CORBL,59,49,30,2276.3,68289.0,2026-04-30,188782445,450,Deevyaa Securities & Stock House Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-30 14:59:01.291295,Corporate Development Bank Limited
+2026043003007250,CORBL,21,35,20,2277.0,45540.0,2026-04-30,188782907,450,Midas Stock Broking Company Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-30 14:59:13.320788,Corporate Development Bank Limited
+2026043003007255,CORBL,59,92,30,2276.3,68289.0,2026-04-30,188782963,450,Deevyaa Securities & Stock House Pvt. Ltd,Roadshow securities limited,2026-04-30 14:59:14.696533,Corporate Development Bank Limited
+2026043003007362,CORBL,58,41,10,2277.0,22770.0,2026-04-30,188784760,450,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-30 14:59:42.838416,Corporate Development Bank Limited
+2026043003007413,CORBL,59,46,10,2276.3,22763.0,2026-04-30,188785980,450,Deevyaa Securities & Stock House Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-30 14:59:55.701617,Corporate Development Bank Limited
+2026043003007414,CORBL,5,46,50,2276.3,113815.0,2026-04-30,188785982,450,Market Securities & Exchange (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 14:59:55.701651,Corporate Development Bank Limited
+2026043003007415,CORBL,8,46,20,2276.3,45526.0,2026-04-30,188785984,450,Brilliant Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 14:59:55.701676,Corporate Development Bank Limited
+2026043003007416,CORBL,17,46,35,2276.3,79670.5,2026-04-30,188785986,450,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-30 14:59:55.701702,Corporate Development Bank Limited
+2026043003007417,CORBL,56,46,10,2276.3,22763.0,2026-04-30,188785988,450,Sri Hari Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 14:59:55.701721,Corporate Development Bank Limited
+2026043003007418,CORBL,6,46,21,2276.3,47802.3,2026-04-30,188785990,450,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 14:59:55.701742,Corporate Development Bank Limited
+2026043003007423,CORBL,28,42,10,2341.0,23410.0,2026-04-30,188786111,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:59:56.376965,Corporate Development Bank Limited
+2026043003007424,CORBL,28,28,20,2342.0,46840.0,2026-04-30,188786113,450,Shree Krishna Securities Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:56.377001,Corporate Development Bank Limited
+2026043003007425,CORBL,28,42,10,2343.0,23430.0,2026-04-30,188786115,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:59:56.377039,Corporate Development Bank Limited
+2026043003007426,CORBL,28,92,20,2343.0,46860.0,2026-04-30,188786117,450,Shree Krishna Securities Ltd.,Roadshow securities limited,2026-04-30 14:59:56.377068,Corporate Development Bank Limited
+2026043003007427,CORBL,28,92,30,2343.3,70299.0,2026-04-30,188786119,450,Shree Krishna Securities Ltd.,Roadshow securities limited,2026-04-30 14:59:56.377091,Corporate Development Bank Limited
+2026043003007428,CORBL,28,57,200,2344.0,468800.0,2026-04-30,188786121,450,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-30 14:59:56.377115,Corporate Development Bank Limited
+2026043003007429,CORBL,28,57,200,2344.0,468800.0,2026-04-30,188786123,450,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-30 14:59:56.377137,Corporate Development Bank Limited
+2026043003007430,CORBL,28,11,30,2344.0,70320.0,2026-04-30,188786125,450,Shree Krishna Securities Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 14:59:56.377159,Corporate Development Bank Limited
+2026043003007431,CORBL,28,44,40,2344.0,93760.0,2026-04-30,188786127,450,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-30 14:59:56.377181,Corporate Development Bank Limited
+2026043003007432,CORBL,28,49,50,2344.5,117225.0,2026-04-30,188786129,450,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-30 14:59:56.377203,Corporate Development Bank Limited
+2026043003007433,CORBL,28,29,849,2367.9,2010347.1,2026-04-30,188786131,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:59:56.377226,Corporate Development Bank Limited
+2026043003007434,CORBL,28,38,40,2368.0,94720.0,2026-04-30,188786133,450,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 14:59:56.377248,Corporate Development Bank Limited
+2026043003007435,CORBL,28,45,30,2368.0,71040.0,2026-04-30,188786135,450,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:59:56.377269,Corporate Development Bank Limited
+2026043003007436,CORBL,28,26,10,2368.8,23688.0,2026-04-30,188786137,450,Shree Krishna Securities Ltd.,Asian Securities Private Ltd.,2026-04-30 14:59:56.377291,Corporate Development Bank Limited
+2026043003007437,CORBL,28,50,50,2369.0,118450.0,2026-04-30,188786139,450,Shree Krishna Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:59:56.377327,Corporate Development Bank Limited
+2026043003007438,CORBL,28,43,100,2369.0,236900.0,2026-04-30,188786143,450,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 14:59:56.377351,Corporate Development Bank Limited
+2026043003007439,CORBL,28,29,200,2369.0,473800.0,2026-04-30,188786145,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:59:56.377374,Corporate Development Bank Limited
+2026043003007440,CORBL,28,42,100,2369.0,236900.0,2026-04-30,188786147,450,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-30 14:59:56.377403,Corporate Development Bank Limited
+2026043003007441,CORBL,28,29,50,2369.0,118450.0,2026-04-30,188786149,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:59:56.377429,Corporate Development Bank Limited
+2026043003007442,CORBL,28,29,100,2369.0,236900.0,2026-04-30,188786151,450,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 14:59:56.377450,Corporate Development Bank Limited
+2026043003007443,CORBL,28,57,10,2369.0,23690.0,2026-04-30,188786153,450,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-30 14:59:56.377472,Corporate Development Bank Limited
+2026043003007444,CORBL,28,39,200,2369.0,473800.0,2026-04-30,188786155,450,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:59:56.377499,Corporate Development Bank Limited
+2026043003007445,CORBL,28,39,200,2369.0,473800.0,2026-04-30,188786157,450,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:59:56.377526,Corporate Development Bank Limited
+2026043003007446,CORBL,28,7,10,2369.0,23690.0,2026-04-30,188786159,450,Shree Krishna Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-30 14:59:56.377554,Corporate Development Bank Limited
+2026043003007447,CORBL,28,43,91,2369.0,215579.0,2026-04-30,188786161,450,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 14:59:56.377581,Corporate Development Bank Limited
+2026043003007448,CORBL,28,39,350,2410.0,843500.0,2026-04-30,188786164,450,Shree Krishna Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:59:56.377604,Corporate Development Bank Limited
+2026043003007493,CORBL,50,60,100,2400.0,240000.0,2026-04-30,188786808,450,Cristal Kanchanjanga Securites Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-30 14:59:59.771985,Corporate Development Bank Limited

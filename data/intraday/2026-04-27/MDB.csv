@@ -1,0 +1,44 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042703000573,MDB,21,54,40,600.0,24000.0,2026-04-27,187972553,371,Midas Stock Broking Company Private Limited,Sewa Securities Pvt. Ltd.,2026-04-27 11:22:43.900559,Miteri Development Bank Limited
+2026042703000574,MDB,21,43,200,600.0,120000.0,2026-04-27,187972555,371,Midas Stock Broking Company Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-27 11:22:43.900686,Miteri Development Bank Limited
+2026042703000642,MDB,21,45,162,600.0,97200.0,2026-04-27,187974734,371,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:25:34.443038,Miteri Development Bank Limited
+2026042703000643,MDB,7,45,70,600.0,42000.0,2026-04-27,187974736,371,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:25:34.443100,Miteri Development Bank Limited
+2026042703000870,MDB,58,45,200,594.0,118800.0,2026-04-27,187981536,371,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:34:24.906228,Miteri Development Bank Limited
+2026042703000871,MDB,48,45,68,593.0,40324.0,2026-04-27,187981537,371,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:34:24.906375,Miteri Development Bank Limited
+2026042703002403,MDB,43,62,3,575.3,1725.9,2026-04-27,188019085,371,South Asian Bulls Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 12:40:16.675468,Miteri Development Bank Limited
+2026042703002445,MDB,45,34,50,594.1,29705.0,2026-04-27,188020156,371,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 12:42:26.522517,Miteri Development Bank Limited
+2026042703002446,MDB,26,34,40,594.0,23760.0,2026-04-27,188020158,371,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-27 12:42:26.522636,Miteri Development Bank Limited
+2026042703002447,MDB,25,34,10,594.0,5940.0,2026-04-27,188020159,371,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-27 12:42:26.522677,Miteri Development Bank Limited
+2026042703002568,MDB,34,34,100,600.0,60000.0,2026-04-27,188022320,371,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-27 12:46:43.301373,Miteri Development Bank Limited
+2026042703002633,MDB,34,50,100,597.0,59700.0,2026-04-27,188023216,371,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 12:48:40.875275,Miteri Development Bank Limited
+2026042703002680,MDB,65,50,100,597.0,59700.0,2026-04-27,188023936,371,Sharepro Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 12:50:18.175364,Miteri Development Bank Limited
+2026042703002743,MDB,34,34,100,600.0,60000.0,2026-04-27,188024888,371,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-27 12:52:31.900868,Miteri Development Bank Limited
+2026042703002771,MDB,49,34,100,600.0,60000.0,2026-04-27,188025422,371,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 12:53:49.276840,Miteri Development Bank Limited
+2026042703002812,MDB,34,34,100,600.0,60000.0,2026-04-27,188025906,371,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-27 12:54:48.551344,Miteri Development Bank Limited
+2026042703002815,MDB,3,34,142,600.0,85200.0,2026-04-27,188025941,371,Arun Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-27 12:54:53.299109,Miteri Development Bank Limited
+2026042703002816,MDB,3,1,18,600.0,10800.0,2026-04-27,188025944,371,Arun Securities (PVT) Ltd.,Kumari Securities Private Limited,2026-04-27 12:54:53.299303,Miteri Development Bank Limited
+2026042703002880,MDB,34,1,100,600.0,60000.0,2026-04-27,188026558,371,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,2026-04-27 12:56:05.274313,Miteri Development Bank Limited
+2026042703003466,MDB,65,1,12,600.0,7200.0,2026-04-27,188034745,371,Sharepro Securities Private Limited,Kumari Securities Private Limited,2026-04-27 13:12:05.117844,Miteri Development Bank Limited
+2026042703003467,MDB,65,34,88,600.0,52800.0,2026-04-27,188034748,371,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-27 13:12:05.118083,Miteri Development Bank Limited
+2026042703003488,MDB,65,34,200,600.0,120000.0,2026-04-27,188035280,371,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-27 13:13:14.525364,Miteri Development Bank Limited
+2026042703004680,MDB,65,34,82,600.0,49200.0,2026-04-27,188060421,371,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-27 13:58:17.096924,Miteri Development Bank Limited
+2026042703004681,MDB,65,32,18,600.0,10800.0,2026-04-27,188060426,371,Sharepro Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 13:58:17.097256,Miteri Development Bank Limited
+2026042703004742,MDB,65,32,200,600.0,120000.0,2026-04-27,188061760,371,Sharepro Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:00:53.488697,Miteri Development Bank Limited
+2026042703005036,MDB,21,32,32,600.0,19200.0,2026-04-27,188067693,371,Midas Stock Broking Company Private Limited,Premier Securities Company Ltd.,2026-04-27 14:11:43.101312,Miteri Development Bank Limited
+2026042703005037,MDB,21,32,18,600.0,10800.0,2026-04-27,188067696,371,Midas Stock Broking Company Private Limited,Premier Securities Company Ltd.,2026-04-27 14:11:43.101553,Miteri Development Bank Limited
+2026042703005093,MDB,21,49,21,597.1,12539.1,2026-04-27,188068881,371,Midas Stock Broking Company Private Limited,Online Securities Pvt. Ltd.,2026-04-27 14:13:15.105852,Miteri Development Bank Limited
+2026042703005290,MDB,65,32,200,600.0,120000.0,2026-04-27,188072484,371,Sharepro Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:19:20.889440,Miteri Development Bank Limited
+2026042703005469,MDB,49,32,32,600.0,19200.0,2026-04-27,188076109,371,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:24:16.275661,Miteri Development Bank Limited
+2026042703005470,MDB,49,42,68,600.0,40800.0,2026-04-27,188076112,371,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 14:24:16.275885,Miteri Development Bank Limited
+2026042703005957,MDB,49,42,200,600.0,120000.0,2026-04-27,188085338,371,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 14:36:43.314737,Miteri Development Bank Limited
+2026042703006072,MDB,59,42,100,600.0,60000.0,2026-04-27,188088236,371,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-27 14:40:26.799175,Miteri Development Bank Limited
+2026042703006081,MDB,21,42,29,600.0,17400.0,2026-04-27,188088514,371,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-27 14:40:50.635664,Miteri Development Bank Limited
+2026042703006093,MDB,45,42,100,600.0,60000.0,2026-04-27,188088664,371,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 14:40:59.107624,Miteri Development Bank Limited
+2026042703006532,MDB,29,74,10,598.1,5981.0,2026-04-27,188096635,371,Trisul Securities & Invt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:49:52.919426,Miteri Development Bank Limited
+2026042703006545,MDB,29,58,190,598.1,113639.0,2026-04-27,188096824,371,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:50:04.527759,Miteri Development Bank Limited
+2026042703006546,MDB,42,58,50,598.0,29900.0,2026-04-27,188096826,371,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:50:04.527901,Miteri Development Bank Limited
+2026042703006547,MDB,16,58,50,598.0,29900.0,2026-04-27,188096828,371,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:50:04.527993,Miteri Development Bank Limited
+2026042703006548,MDB,65,58,21,598.0,12558.0,2026-04-27,188096830,371,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-27 14:50:04.528071,Miteri Development Bank Limited
+2026042703006624,MDB,58,34,50,597.2,29860.0,2026-04-27,188098176,371,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:51:18.463258,Miteri Development Bank Limited
+2026042703006653,MDB,43,34,10,597.2,5972.0,2026-04-27,188098728,371,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:51:36.855170,Miteri Development Bank Limited
+2026042703006674,MDB,95,57,100,597.0,59700.0,2026-04-27,188099163,371,Magnet Securities and Investment Company Private Limited,Aryatara Investment & Securities,2026-04-27 14:51:58.932782,Miteri Development Bank Limited

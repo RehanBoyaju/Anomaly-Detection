@@ -1,0 +1,473 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026043003000014,SAPDBL,87,72,10,791.0,7910.0,2026-04-30,188626052,2860,S.P.S.A. Securities Limited,Hatemalo Financial Services Private Limited,2026-04-30 10:46:00.119096,Saptakoshi Development Bank Ltd
+2026043003000021,SAPDBL,56,72,50,814.7,40735.0,2026-04-30,188626336,2860,Sri Hari Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-30 11:00:54.233780,Saptakoshi Development Bank Ltd
+2026043003000022,SAPDBL,1,72,40,814.7,32588.0,2026-04-30,188626337,2860,Kumari Securities Private Limited,Hatemalo Financial Services Private Limited,2026-04-30 11:00:54.233820,Saptakoshi Development Bank Ltd
+2026043003000029,SAPDBL,1,58,60,814.7,48882.0,2026-04-30,188626414,2860,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-30 11:01:01.738719,Saptakoshi Development Bank Ltd
+2026043003000030,SAPDBL,45,58,25,811.0,20275.0,2026-04-30,188626416,2860,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 11:01:01.738775,Saptakoshi Development Bank Ltd
+2026043003000031,SAPDBL,35,58,15,811.0,12165.0,2026-04-30,188626417,2860,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 11:01:01.738797,Saptakoshi Development Bank Ltd
+2026043003000044,SAPDBL,72,66,20,814.8,16296.0,2026-04-30,188627086,2860,Hatemalo Financial Services Private Limited,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673474,Saptakoshi Development Bank Ltd
+2026043003000045,SAPDBL,42,66,100,814.7,81470.0,2026-04-30,188627088,2860,Sani Securities Company Ltd.,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673580,Saptakoshi Development Bank Ltd
+2026043003000046,SAPDBL,74,66,100,813.0,81300.0,2026-04-30,188627090,2860,KALASH STOCK MARKET PVT. LTD.,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673631,Saptakoshi Development Bank Ltd
+2026043003000047,SAPDBL,1,66,30,812.0,24360.0,2026-04-30,188627092,2860,Kumari Securities Private Limited,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673680,Saptakoshi Development Bank Ltd
+2026043003000048,SAPDBL,74,66,100,812.0,81200.0,2026-04-30,188627094,2860,KALASH STOCK MARKET PVT. LTD.,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673729,Saptakoshi Development Bank Ltd
+2026043003000049,SAPDBL,35,66,35,811.0,28385.0,2026-04-30,188627096,2860,Kohinoor Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673776,Saptakoshi Development Bank Ltd
+2026043003000050,SAPDBL,65,66,200,810.1,162020.0,2026-04-30,188627098,2860,Sharepro Securities Private Limited,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673825,Saptakoshi Development Bank Ltd
+2026043003000051,SAPDBL,42,66,20,810.0,16200.0,2026-04-30,188627100,2860,Sani Securities Company Ltd.,Miyo Securities Pvt Ltd,2026-04-30 11:02:06.673873,Saptakoshi Development Bank Ltd
+2026043003000058,SAPDBL,44,66,10,810.0,8100.0,2026-04-30,188627242,2860,Dynamic Money Managers Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-30 11:02:22.290607,Saptakoshi Development Bank Ltd
+2026043003000064,SAPDBL,56,66,20,810.0,16200.0,2026-04-30,188627310,2860,Sri Hari Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-30 11:02:28.526815,Saptakoshi Development Bank Ltd
+2026043003000119,SAPDBL,58,50,10,830.0,8300.0,2026-04-30,188629624,2860,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 11:05:36.855119,Saptakoshi Development Bank Ltd
+2026043003000128,SAPDBL,14,50,11,830.0,9130.0,2026-04-30,188630120,2860,Nepal Stock House (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 11:06:19.361673,Saptakoshi Development Bank Ltd
+2026043003000129,SAPDBL,41,87,10,816.0,8160.0,2026-04-30,188630215,2860,Linch Stock Market Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:06:25.734831,Saptakoshi Development Bank Ltd
+2026043003000144,SAPDBL,1,1,10,815.1,8151.0,2026-04-30,188630570,2860,Kumari Securities Private Limited,Kumari Securities Private Limited,2026-04-30 11:07:01.104740,Saptakoshi Development Bank Ltd
+2026043003000145,SAPDBL,62,1,10,815.0,8150.0,2026-04-30,188630572,2860,Capital Max Securities Ltd,Kumari Securities Private Limited,2026-04-30 11:07:01.104787,Saptakoshi Development Bank Ltd
+2026043003000146,SAPDBL,14,1,100,815.0,81500.0,2026-04-30,188630574,2860,Nepal Stock House (PVT) Ltd.,Kumari Securities Private Limited,2026-04-30 11:07:01.104812,Saptakoshi Development Bank Ltd
+2026043003000147,SAPDBL,74,1,25,813.1,20327.5,2026-04-30,188630576,2860,KALASH STOCK MARKET PVT. LTD.,Kumari Securities Private Limited,2026-04-30 11:07:01.104833,Saptakoshi Development Bank Ltd
+2026043003000148,SAPDBL,44,1,10,813.1,8131.0,2026-04-30,188630578,2860,Dynamic Money Managers Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-30 11:07:01.104852,Saptakoshi Development Bank Ltd
+2026043003000149,SAPDBL,1,1,45,813.0,36585.0,2026-04-30,188630579,2860,Kumari Securities Private Limited,Kumari Securities Private Limited,2026-04-30 11:07:01.104877,Saptakoshi Development Bank Ltd
+2026043003000218,SAPDBL,34,14,100,816.0,81600.0,2026-04-30,188632974,2860,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-30 11:10:33.502723,Saptakoshi Development Bank Ltd
+2026043003000219,SAPDBL,25,14,100,816.0,81600.0,2026-04-30,188632976,2860,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-30 11:10:33.502894,Saptakoshi Development Bank Ltd
+2026043003000220,SAPDBL,32,14,50,815.1,40755.0,2026-04-30,188632978,2860,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:10:33.502964,Saptakoshi Development Bank Ltd
+2026043003000221,SAPDBL,38,14,200,815.1,163020.0,2026-04-30,188632980,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:10:33.503060,Saptakoshi Development Bank Ltd
+2026043003000222,SAPDBL,58,14,150,815.0,122250.0,2026-04-30,188632981,2860,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:10:33.503129,Saptakoshi Development Bank Ltd
+2026043003000336,SAPDBL,58,35,10,816.1,8161.0,2026-04-30,188635291,2860,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-30 11:13:16.421937,Saptakoshi Development Bank Ltd
+2026043003000347,SAPDBL,14,35,11,816.0,8976.0,2026-04-30,188635621,2860,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-30 11:13:38.013979,Saptakoshi Development Bank Ltd
+2026043003000380,SAPDBL,58,87,57,816.0,46512.0,2026-04-30,188636765,2860,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:14:42.164972,Saptakoshi Development Bank Ltd
+2026043003000645,SAPDBL,58,52,10,819.2,8192.0,2026-04-30,188643489,2860,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-30 11:21:53.818600,Saptakoshi Development Bank Ltd
+2026043003000653,SAPDBL,44,36,100,819.0,81900.0,2026-04-30,188643639,2860,Dynamic Money Managers Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-30 11:22:04.149869,Saptakoshi Development Bank Ltd
+2026043003000690,SAPDBL,44,21,50,819.0,40950.0,2026-04-30,188644908,2860,Dynamic Money Managers Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-30 11:23:18.253346,Saptakoshi Development Bank Ltd
+2026043003000691,SAPDBL,58,21,110,819.0,90090.0,2026-04-30,188644909,2860,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-30 11:23:18.253547,Saptakoshi Development Bank Ltd
+2026043003000758,SAPDBL,22,57,100,820.1,82010.0,2026-04-30,188647059,2860,Siprabi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-30 11:25:27.016616,Saptakoshi Development Bank Ltd
+2026043003000843,SAPDBL,53,1,10,827.9,8279.0,2026-04-30,188649187,2860,Investment Management Nepal Pvt. Ltd.,Kumari Securities Private Limited,2026-04-30 11:27:42.339776,Saptakoshi Development Bank Ltd
+2026043003000856,SAPDBL,53,98,40,828.0,33120.0,2026-04-30,188649605,2860,Investment Management Nepal Pvt. Ltd.,Trademow Securities Private Limited,2026-04-30 11:28:11.671526,Saptakoshi Development Bank Ltd
+2026043003000891,SAPDBL,21,21,50,828.0,41400.0,2026-04-30,188650754,2860,Midas Stock Broking Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-30 11:29:29.293363,Saptakoshi Development Bank Ltd
+2026043003000896,SAPDBL,58,87,10,821.6,8216.0,2026-04-30,188651051,2860,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-30 11:29:50.778532,Saptakoshi Development Bank Ltd
+2026043003000948,SAPDBL,34,29,100,822.0,82200.0,2026-04-30,188651986,2860,Vision Securities Pvt. Ltd,Trisul Securities & Invt. Ltd.,2026-04-30 11:31:02.505000,Saptakoshi Development Bank Ltd
+2026043003000949,SAPDBL,62,29,200,821.5,164300.0,2026-04-30,188651988,2860,Capital Max Securities Ltd,Trisul Securities & Invt. Ltd.,2026-04-30 11:31:02.505388,Saptakoshi Development Bank Ltd
+2026043003000950,SAPDBL,44,29,200,821.0,164200.0,2026-04-30,188651990,2860,Dynamic Money Managers Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 11:31:02.505631,Saptakoshi Development Bank Ltd
+2026043003000951,SAPDBL,22,29,100,820.1,82010.0,2026-04-30,188651992,2860,Siprabi Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 11:31:02.505879,Saptakoshi Development Bank Ltd
+2026043003000952,SAPDBL,42,29,350,820.1,287035.0,2026-04-30,188651993,2860,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 11:31:02.506137,Saptakoshi Development Bank Ltd
+2026043003001209,SAPDBL,58,14,10,822.3,8223.0,2026-04-30,188657624,2860,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:38:50.226497,Saptakoshi Development Bank Ltd
+2026043003001210,SAPDBL,22,14,10,822.2,8222.0,2026-04-30,188657626,2860,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:38:50.226890,Saptakoshi Development Bank Ltd
+2026043003001211,SAPDBL,45,14,25,822.0,20550.0,2026-04-30,188657628,2860,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:38:50.227168,Saptakoshi Development Bank Ltd
+2026043003001212,SAPDBL,53,14,100,820.3,82030.0,2026-04-30,188657630,2860,Investment Management Nepal Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:38:50.227418,Saptakoshi Development Bank Ltd
+2026043003001213,SAPDBL,51,14,45,820.2,36909.0,2026-04-30,188657631,2860,Oxford Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:38:50.227672,Saptakoshi Development Bank Ltd
+2026043003001221,SAPDBL,53,14,50,827.0,41350.0,2026-04-30,188657871,2860,Investment Management Nepal Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:39:17.097620,Saptakoshi Development Bank Ltd
+2026043003001225,SAPDBL,74,87,10,819.0,8190.0,2026-04-30,188658045,2860,KALASH STOCK MARKET PVT. LTD.,S.P.S.A. Securities Limited,2026-04-30 11:39:34.023624,Saptakoshi Development Bank Ltd
+2026043003001277,SAPDBL,58,14,10,819.1,8191.0,2026-04-30,188659404,2860,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:34.913155,Saptakoshi Development Bank Ltd
+2026043003001278,SAPDBL,74,14,90,819.0,73710.0,2026-04-30,188659406,2860,KALASH STOCK MARKET PVT. LTD.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:34.913559,Saptakoshi Development Bank Ltd
+2026043003001279,SAPDBL,45,14,50,819.0,40950.0,2026-04-30,188659408,2860,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:34.913825,Saptakoshi Development Bank Ltd
+2026043003001280,SAPDBL,39,14,50,818.1,40905.0,2026-04-30,188659410,2860,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:34.914094,Saptakoshi Development Bank Ltd
+2026043003001281,SAPDBL,39,14,20,818.1,16362.0,2026-04-30,188659412,2860,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:34.914345,Saptakoshi Development Bank Ltd
+2026043003001282,SAPDBL,42,14,500,818.1,409050.0,2026-04-30,188659414,2860,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:34.914595,Saptakoshi Development Bank Ltd
+2026043003001283,SAPDBL,53,14,100,818.0,81800.0,2026-04-30,188659416,2860,Investment Management Nepal Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:34.914842,Saptakoshi Development Bank Ltd
+2026043003001293,SAPDBL,49,14,30,818.0,24540.0,2026-04-30,188659475,2860,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:41:40.249880,Saptakoshi Development Bank Ltd
+2026043003001366,SAPDBL,49,14,50,820.0,41000.0,2026-04-30,188660777,2860,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:43:40.433116,Saptakoshi Development Bank Ltd
+2026043003001396,SAPDBL,49,14,60,820.0,49200.0,2026-04-30,188661441,2860,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 11:44:34.835416,Saptakoshi Development Bank Ltd
+2026043003001445,SAPDBL,58,34,10,820.2,8202.0,2026-04-30,188663074,2860,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 11:46:35.478951,Saptakoshi Development Bank Ltd
+2026043003001446,SAPDBL,58,34,50,820.1,41005.0,2026-04-30,188663076,2860,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 11:46:35.479383,Saptakoshi Development Bank Ltd
+2026043003001447,SAPDBL,49,34,240,820.0,196800.0,2026-04-30,188663077,2860,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 11:46:35.479653,Saptakoshi Development Bank Ltd
+2026043003001476,SAPDBL,49,35,20,820.0,16400.0,2026-04-30,188664019,2860,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-30 11:47:49.182667,Saptakoshi Development Bank Ltd
+2026043003001606,SAPDBL,58,57,10,820.1,8201.0,2026-04-30,188666285,2860,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-30 11:50:53.085687,Saptakoshi Development Bank Ltd
+2026043003001658,SAPDBL,49,38,500,820.0,410000.0,2026-04-30,188667539,2860,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 11:52:36.447582,Saptakoshi Development Bank Ltd
+2026043003001872,SAPDBL,49,64,68,820.0,55760.0,2026-04-30,188673795,2860,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-30 12:01:35.973796,Saptakoshi Development Bank Ltd
+2026043003001945,SAPDBL,49,26,32,820.0,26240.0,2026-04-30,188676438,2860,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-30 12:05:54.282640,Saptakoshi Development Bank Ltd
+2026043003001946,SAPDBL,91,26,18,820.0,14760.0,2026-04-30,188676439,2860,Citizens Share Broker Limited,Asian Securities Private Ltd.,2026-04-30 12:05:54.283087,Saptakoshi Development Bank Ltd
+2026043003001995,SAPDBL,91,56,32,820.0,26240.0,2026-04-30,188677664,2860,Citizens Share Broker Limited,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:05.705957,Saptakoshi Development Bank Ltd
+2026043003001996,SAPDBL,58,56,20,820.0,16400.0,2026-04-30,188677666,2860,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:05.706425,Saptakoshi Development Bank Ltd
+2026043003001997,SAPDBL,17,56,10,820.0,8200.0,2026-04-30,188677668,2860,ABC Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:05.706718,Saptakoshi Development Bank Ltd
+2026043003001998,SAPDBL,32,56,50,820.0,41000.0,2026-04-30,188677670,2860,Premier Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:05.707021,Saptakoshi Development Bank Ltd
+2026043003001999,SAPDBL,59,56,50,820.0,41000.0,2026-04-30,188677672,2860,Deevyaa Securities & Stock House Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:05.707304,Saptakoshi Development Bank Ltd
+2026043003002000,SAPDBL,4,56,20,820.0,16400.0,2026-04-30,188677674,2860,Opal Securities Investment (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:05.707578,Saptakoshi Development Bank Ltd
+2026043003002004,SAPDBL,14,56,17,820.0,13940.0,2026-04-30,188677820,2860,Nepal Stock House (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:19.352387,Saptakoshi Development Bank Ltd
+2026043003002080,SAPDBL,45,49,10,818.0,8180.0,2026-04-30,188679281,2860,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 12:10:25.720380,Saptakoshi Development Bank Ltd
+2026043003002332,SAPDBL,87,50,10,824.7,8247.0,2026-04-30,188686242,2860,S.P.S.A. Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 12:20:39.406657,Saptakoshi Development Bank Ltd
+2026043003002655,SAPDBL,49,26,500,824.0,412000.0,2026-04-30,188691952,2860,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-30 12:31:23.178823,Saptakoshi Development Bank Ltd
+2026043003002705,SAPDBL,49,26,24,824.0,19776.0,2026-04-30,188693217,2860,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-30 12:33:22.662358,Saptakoshi Development Bank Ltd
+2026043003002706,SAPDBL,49,50,90,824.7,74223.0,2026-04-30,188693219,2860,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 12:33:22.662860,Saptakoshi Development Bank Ltd
+2026043003002707,SAPDBL,49,25,200,824.8,164960.0,2026-04-30,188693221,2860,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-30 12:33:22.663209,Saptakoshi Development Bank Ltd
+2026043003002708,SAPDBL,49,14,100,827.0,82700.0,2026-04-30,188693223,2860,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 12:33:22.663508,Saptakoshi Development Bank Ltd
+2026043003002710,SAPDBL,49,56,86,827.0,71122.0,2026-04-30,188693348,2860,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:33:38.612574,Saptakoshi Development Bank Ltd
+2026043003002792,SAPDBL,84,56,715,825.8,590447.0,2026-04-30,188695193,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:37:26.839066,Saptakoshi Development Bank Ltd
+2026043003002793,SAPDBL,84,60,1085,826.0,896210.0,2026-04-30,188695196,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Nagarik Stock Dealer ,2026-04-30 12:37:26.839355,Saptakoshi Development Bank Ltd
+2026043003002963,SAPDBL,25,60,150,826.0,123900.0,2026-04-30,188699580,2860,Sweta Securities Private Limited,Nagarik Stock Dealer ,2026-04-30 12:45:31.776868,Saptakoshi Development Bank Ltd
+2026043003002983,SAPDBL,87,1,10,827.4,8274.0,2026-04-30,188699830,2860,S.P.S.A. Securities Limited,Kumari Securities Private Limited,2026-04-30 12:46:01.408031,Saptakoshi Development Bank Ltd
+2026043003003006,SAPDBL,34,50,25,827.9,20697.5,2026-04-30,188700368,2860,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 12:47:03.704781,Saptakoshi Development Bank Ltd
+2026043003003011,SAPDBL,58,50,20,827.9,16558.0,2026-04-30,188700460,2860,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 12:47:17.436693,Saptakoshi Development Bank Ltd
+2026043003003220,SAPDBL,21,58,50,821.0,41050.0,2026-04-30,188705673,2860,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-30 12:57:10.436584,Saptakoshi Development Bank Ltd
+2026043003003221,SAPDBL,60,58,500,821.0,410500.0,2026-04-30,188705675,2860,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-30 12:57:10.436866,Saptakoshi Development Bank Ltd
+2026043003003254,SAPDBL,87,50,10,827.9,8279.0,2026-04-30,188707122,2860,S.P.S.A. Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 12:58:27.697496,Saptakoshi Development Bank Ltd
+2026043003003261,SAPDBL,36,91,89,821.0,73069.0,2026-04-30,188707711,2860,Secured Securities Ltd.,Citizens Share Broker Limited,2026-04-30 12:59:06.037509,Saptakoshi Development Bank Ltd
+2026043003003309,SAPDBL,87,56,10,827.0,8270.0,2026-04-30,188708514,2860,S.P.S.A. Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-30 13:00:36.879136,Saptakoshi Development Bank Ltd
+2026043003003313,SAPDBL,36,58,20,821.0,16420.0,2026-04-30,188709037,2860,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-30 13:01:06.933867,Saptakoshi Development Bank Ltd
+2026043003003315,SAPDBL,87,50,10,827.9,8279.0,2026-04-30,188709102,2860,S.P.S.A. Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 13:01:15.275566,Saptakoshi Development Bank Ltd
+2026043003003363,SAPDBL,44,50,35,827.9,28976.5,2026-04-30,188710003,2860,Dynamic Money Managers Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 13:02:46.748754,Saptakoshi Development Bank Ltd
+2026043003003385,SAPDBL,44,47,50,827.9,41395.0,2026-04-30,188710583,2860,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-30 13:03:19.203442,Saptakoshi Development Bank Ltd
+2026043003003386,SAPDBL,87,47,10,828.8,8288.0,2026-04-30,188710746,2860,S.P.S.A. Securities Limited,Neev Securities Pvt. Ltd.,2026-04-30 13:03:28.102750,Saptakoshi Development Bank Ltd
+2026043003003394,SAPDBL,58,47,30,828.8,24864.0,2026-04-30,188711068,2860,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-30 13:03:46.127720,Saptakoshi Development Bank Ltd
+2026043003003409,SAPDBL,87,47,10,828.8,8288.0,2026-04-30,188711189,2860,S.P.S.A. Securities Limited,Neev Securities Pvt. Ltd.,2026-04-30 13:03:59.908782,Saptakoshi Development Bank Ltd
+2026043003003410,SAPDBL,87,33,10,829.0,8290.0,2026-04-30,188711191,2860,S.P.S.A. Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-30 13:03:59.908874,Saptakoshi Development Bank Ltd
+2026043003003411,SAPDBL,87,50,10,830.0,8300.0,2026-04-30,188711194,2860,S.P.S.A. Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 13:03:59.908908,Saptakoshi Development Bank Ltd
+2026043003003413,SAPDBL,84,50,469,830.0,389270.0,2026-04-30,188711233,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 13:04:03.669317,Saptakoshi Development Bank Ltd
+2026043003003414,SAPDBL,84,47,200,830.0,166000.0,2026-04-30,188711235,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Neev Securities Pvt. Ltd.,2026-04-30 13:04:03.669807,Saptakoshi Development Bank Ltd
+2026043003003415,SAPDBL,84,16,50,830.0,41500.0,2026-04-30,188711237,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Primo Securities (PVT) Ltd.,2026-04-30 13:04:03.670158,Saptakoshi Development Bank Ltd
+2026043003003442,SAPDBL,87,42,11,834.0,9174.0,2026-04-30,188711950,2860,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,2026-04-30 13:04:50.243547,Saptakoshi Development Bank Ltd
+2026043003003479,SAPDBL,84,28,30,830.0,24900.0,2026-04-30,188713716,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Shree Krishna Securities Ltd.,2026-04-30 13:06:29.666728,Saptakoshi Development Bank Ltd
+2026043003003480,SAPDBL,44,28,15,827.9,12418.5,2026-04-30,188713718,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:06:29.666873,Saptakoshi Development Bank Ltd
+2026043003003481,SAPDBL,92,28,10,821.2,8212.0,2026-04-30,188713719,2860,Roadshow securities limited,Shree Krishna Securities Ltd.,2026-04-30 13:06:29.666958,Saptakoshi Development Bank Ltd
+2026043003003515,SAPDBL,87,58,10,835.0,8350.0,2026-04-30,188715114,2860,S.P.S.A. Securities Limited,Naasa Securities Co. Ltd.,2026-04-30 13:07:47.905321,Saptakoshi Development Bank Ltd
+2026043003003818,SAPDBL,72,87,68,830.0,56440.0,2026-04-30,188722354,2860,Hatemalo Financial Services Private Limited,S.P.S.A. Securities Limited,2026-04-30 13:16:53.757132,Saptakoshi Development Bank Ltd
+2026043003003819,SAPDBL,46,87,100,830.0,83000.0,2026-04-30,188722356,2860,Kalika Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-30 13:16:53.757273,Saptakoshi Development Bank Ltd
+2026043003003820,SAPDBL,57,87,10,823.0,8230.0,2026-04-30,188722357,2860,Aryatara Investment & Securities,S.P.S.A. Securities Limited,2026-04-30 13:16:53.757346,Saptakoshi Development Bank Ltd
+2026043003003904,SAPDBL,87,25,10,830.0,8300.0,2026-04-30,188723794,2860,S.P.S.A. Securities Limited,Sweta Securities Private Limited,2026-04-30 13:18:56.791346,Saptakoshi Development Bank Ltd
+2026043003004117,SAPDBL,58,66,10,824.0,8240.0,2026-04-30,188728554,2860,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-30 13:24:04.280792,Saptakoshi Development Bank Ltd
+2026043003004118,SAPDBL,42,66,10,823.3,8233.0,2026-04-30,188728556,2860,Sani Securities Company Ltd.,Miyo Securities Pvt Ltd,2026-04-30 13:24:04.281397,Saptakoshi Development Bank Ltd
+2026043003004119,SAPDBL,4,66,20,823.2,16464.0,2026-04-30,188728558,2860,Opal Securities Investment (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-30 13:24:04.281877,Saptakoshi Development Bank Ltd
+2026043003004120,SAPDBL,57,66,40,823.0,32920.0,2026-04-30,188728560,2860,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-30 13:24:04.282396,Saptakoshi Development Bank Ltd
+2026043003004121,SAPDBL,14,66,25,823.0,20575.0,2026-04-30,188728561,2860,Nepal Stock House (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-30 13:24:04.282806,Saptakoshi Development Bank Ltd
+2026043003004154,SAPDBL,58,42,20,824.0,16480.0,2026-04-30,188729190,2860,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-30 13:25:15.894565,Saptakoshi Development Bank Ltd
+2026043003004155,SAPDBL,84,42,988,823.5,813618.0,2026-04-30,188729191,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-30 13:25:15.895097,Saptakoshi Development Bank Ltd
+2026043003004216,SAPDBL,84,41,12,823.5,9882.0,2026-04-30,188730252,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Linch Stock Market Ltd.,2026-04-30 13:27:56.971978,Saptakoshi Development Bank Ltd
+2026043003004217,SAPDBL,44,41,228,823.1,187666.8,2026-04-30,188730253,2860,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-30 13:27:56.972309,Saptakoshi Development Bank Ltd
+2026043003004240,SAPDBL,87,1,10,827.5,8275.0,2026-04-30,188730626,2860,S.P.S.A. Securities Limited,Kumari Securities Private Limited,2026-04-30 13:28:55.859757,Saptakoshi Development Bank Ltd
+2026043003004377,SAPDBL,84,28,1000,823.2,823200.0,2026-04-30,188732528,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.535539,Saptakoshi Development Bank Ltd
+2026043003004378,SAPDBL,44,28,164,823.1,134988.4,2026-04-30,188732530,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.536134,Saptakoshi Development Bank Ltd
+2026043003004379,SAPDBL,14,28,25,823.0,20575.0,2026-04-30,188732532,2860,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.536508,Saptakoshi Development Bank Ltd
+2026043003004380,SAPDBL,58,28,100,823.0,82300.0,2026-04-30,188732534,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.536867,Saptakoshi Development Bank Ltd
+2026043003004381,SAPDBL,35,28,150,822.0,123300.0,2026-04-30,188732536,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.537271,Saptakoshi Development Bank Ltd
+2026043003004382,SAPDBL,56,28,60,822.0,49320.0,2026-04-30,188732538,2860,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.537703,Saptakoshi Development Bank Ltd
+2026043003004383,SAPDBL,34,28,20,822.0,16440.0,2026-04-30,188732540,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.538123,Saptakoshi Development Bank Ltd
+2026043003004384,SAPDBL,92,28,140,821.4,114996.0,2026-04-30,188732542,2860,Roadshow securities limited,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.538474,Saptakoshi Development Bank Ltd
+2026043003004385,SAPDBL,60,28,240,821.1,197064.0,2026-04-30,188732544,2860,Nagarik Stock Dealer ,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.538896,Saptakoshi Development Bank Ltd
+2026043003004386,SAPDBL,60,28,500,821.1,410550.0,2026-04-30,188732546,2860,Nagarik Stock Dealer ,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.539366,Saptakoshi Development Bank Ltd
+2026043003004387,SAPDBL,36,28,91,821.0,74711.0,2026-04-30,188732548,2860,Secured Securities Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.539741,Saptakoshi Development Bank Ltd
+2026043003004388,SAPDBL,22,28,105,821.0,86205.0,2026-04-30,188732550,2860,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.540102,Saptakoshi Development Bank Ltd
+2026043003004389,SAPDBL,56,28,10,820.0,8200.0,2026-04-30,188732552,2860,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.540585,Saptakoshi Development Bank Ltd
+2026043003004390,SAPDBL,38,28,100,820.0,82000.0,2026-04-30,188732554,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.540994,Saptakoshi Development Bank Ltd
+2026043003004391,SAPDBL,44,28,100,820.0,82000.0,2026-04-30,188732556,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.541437,Saptakoshi Development Bank Ltd
+2026043003004392,SAPDBL,67,28,500,820.0,410000.0,2026-04-30,188732558,2860,Property Wiard Limited,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.541779,Saptakoshi Development Bank Ltd
+2026043003004393,SAPDBL,58,28,100,820.0,82000.0,2026-04-30,188732560,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:34:26.542220,Saptakoshi Development Bank Ltd
+2026043003004440,SAPDBL,44,45,100,818.2,81820.0,2026-04-30,188733334,2860,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 13:36:10.030903,Saptakoshi Development Bank Ltd
+2026043003004441,SAPDBL,46,45,50,818.2,40910.0,2026-04-30,188733346,2860,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 13:36:13.532173,Saptakoshi Development Bank Ltd
+2026043003004450,SAPDBL,46,45,30,818.2,24546.0,2026-04-30,188733464,2860,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 13:36:39.574295,Saptakoshi Development Bank Ltd
+2026043003004501,SAPDBL,87,21,10,827.9,8279.0,2026-04-30,188734774,2860,S.P.S.A. Securities Limited,Midas Stock Broking Company Private Limited,2026-04-30 13:40:13.567380,Saptakoshi Development Bank Ltd
+2026043003004521,SAPDBL,32,28,50,820.1,41005.0,2026-04-30,188735408,2860,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:41:44.361283,Saptakoshi Development Bank Ltd
+2026043003004522,SAPDBL,47,28,50,820.1,41005.0,2026-04-30,188735410,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:41:44.361335,Saptakoshi Development Bank Ltd
+2026043003004523,SAPDBL,32,28,190,820.0,155800.0,2026-04-30,188735411,2860,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:41:44.361359,Saptakoshi Development Bank Ltd
+2026043003004543,SAPDBL,47,28,50,820.1,41005.0,2026-04-30,188735886,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:43:05.746832,Saptakoshi Development Bank Ltd
+2026043003004544,SAPDBL,58,28,65,820.0,53300.0,2026-04-30,188735888,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:43:05.747385,Saptakoshi Development Bank Ltd
+2026043003004545,SAPDBL,42,28,590,820.0,483800.0,2026-04-30,188735890,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:43:05.747802,Saptakoshi Development Bank Ltd
+2026043003004547,SAPDBL,74,28,230,820.0,188600.0,2026-04-30,188736020,2860,KALASH STOCK MARKET PVT. LTD.,Shree Krishna Securities Ltd.,2026-04-30 13:43:28.870153,Saptakoshi Development Bank Ltd
+2026043003004549,SAPDBL,44,28,700,820.0,574000.0,2026-04-30,188736116,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:43:45.702275,Saptakoshi Development Bank Ltd
+2026043003004572,SAPDBL,5,28,30,820.0,24600.0,2026-04-30,188736682,2860,Market Securities & Exchange (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:45:15.275318,Saptakoshi Development Bank Ltd
+2026043003004580,SAPDBL,47,28,100,820.0,82000.0,2026-04-30,188736790,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:45:34.460641,Saptakoshi Development Bank Ltd
+2026043003004590,SAPDBL,5,28,50,820.0,41000.0,2026-04-30,188736910,2860,Market Securities & Exchange (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:45:51.249400,Saptakoshi Development Bank Ltd
+2026043003004599,SAPDBL,49,28,100,820.0,82000.0,2026-04-30,188737102,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:46:08.610650,Saptakoshi Development Bank Ltd
+2026043003004606,SAPDBL,1,28,30,820.0,24600.0,2026-04-30,188737192,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 13:46:24.305433,Saptakoshi Development Bank Ltd
+2026043003004643,SAPDBL,84,28,250,820.0,205000.0,2026-04-30,188737934,2860,MILKY WAY SHARE BROKER COMPANY LTD ,Shree Krishna Securities Ltd.,2026-04-30 13:48:12.301765,Saptakoshi Development Bank Ltd
+2026043003004660,SAPDBL,5,28,50,820.0,41000.0,2026-04-30,188738356,2860,Market Securities & Exchange (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:49:29.092133,Saptakoshi Development Bank Ltd
+2026043003004661,SAPDBL,47,28,100,820.0,82000.0,2026-04-30,188738444,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:49:44.746604,Saptakoshi Development Bank Ltd
+2026043003004669,SAPDBL,3,28,173,820.0,141860.0,2026-04-30,188738667,2860,Arun Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:50:06.720613,Saptakoshi Development Bank Ltd
+2026043003004678,SAPDBL,87,1,10,828.0,8280.0,2026-04-30,188738965,2860,S.P.S.A. Securities Limited,Kumari Securities Private Limited,2026-04-30 13:50:38.049972,Saptakoshi Development Bank Ltd
+2026043003004679,SAPDBL,87,1,10,829.5,8295.0,2026-04-30,188738967,2860,S.P.S.A. Securities Limited,Kumari Securities Private Limited,2026-04-30 13:50:38.050071,Saptakoshi Development Bank Ltd
+2026043003004680,SAPDBL,87,74,10,833.7,8337.0,2026-04-30,188738970,2860,S.P.S.A. Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-30 13:50:38.050150,Saptakoshi Development Bank Ltd
+2026043003004728,SAPDBL,3,28,87,820.0,71340.0,2026-04-30,188739928,2860,Arun Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 13:52:32.136831,Saptakoshi Development Bank Ltd
+2026043003004736,SAPDBL,64,28,40,820.0,32800.0,2026-04-30,188740066,2860,SUN SECURITIES PVT LTD,Shree Krishna Securities Ltd.,2026-04-30 13:52:53.002291,Saptakoshi Development Bank Ltd
+2026043003004914,SAPDBL,35,28,10,818.6,8186.0,2026-04-30,188743076,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890098,Saptakoshi Development Bank Ltd
+2026043003004915,SAPDBL,47,28,50,818.5,40925.0,2026-04-30,188743078,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890177,Saptakoshi Development Bank Ltd
+2026043003004916,SAPDBL,35,28,10,818.5,8185.0,2026-04-30,188743080,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890199,Saptakoshi Development Bank Ltd
+2026043003004917,SAPDBL,85,28,500,818.4,409200.0,2026-04-30,188743082,2860,Capital Hub P. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890240,Saptakoshi Development Bank Ltd
+2026043003004918,SAPDBL,47,28,50,818.3,40915.0,2026-04-30,188743084,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890264,Saptakoshi Development Bank Ltd
+2026043003004919,SAPDBL,14,28,50,818.3,40915.0,2026-04-30,188743086,2860,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890304,Saptakoshi Development Bank Ltd
+2026043003004920,SAPDBL,49,28,200,818.1,163620.0,2026-04-30,188743088,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890338,Saptakoshi Development Bank Ltd
+2026043003004921,SAPDBL,45,28,40,818.0,32720.0,2026-04-30,188743090,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890363,Saptakoshi Development Bank Ltd
+2026043003004922,SAPDBL,53,28,50,818.0,40900.0,2026-04-30,188743092,2860,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890404,Saptakoshi Development Bank Ltd
+2026043003004923,SAPDBL,17,28,30,818.0,24540.0,2026-04-30,188743094,2860,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890426,Saptakoshi Development Bank Ltd
+2026043003004924,SAPDBL,46,28,10,818.0,8180.0,2026-04-30,188743095,2860,Kalika Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:31.890446,Saptakoshi Development Bank Ltd
+2026043003004929,SAPDBL,47,28,50,818.7,40935.0,2026-04-30,188743210,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977161,Saptakoshi Development Bank Ltd
+2026043003004930,SAPDBL,46,28,10,818.0,8180.0,2026-04-30,188743212,2860,Kalika Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977275,Saptakoshi Development Bank Ltd
+2026043003004931,SAPDBL,34,28,10,818.0,8180.0,2026-04-30,188743214,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977348,Saptakoshi Development Bank Ltd
+2026043003004932,SAPDBL,45,28,60,818.0,49080.0,2026-04-30,188743216,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977434,Saptakoshi Development Bank Ltd
+2026043003004933,SAPDBL,49,28,50,818.0,40900.0,2026-04-30,188743218,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977507,Saptakoshi Development Bank Ltd
+2026043003004934,SAPDBL,51,28,200,816.2,163240.0,2026-04-30,188743220,2860,Oxford Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977582,Saptakoshi Development Bank Ltd
+2026043003004935,SAPDBL,49,28,67,816.0,54672.0,2026-04-30,188743222,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977661,Saptakoshi Development Bank Ltd
+2026043003004936,SAPDBL,34,28,10,816.0,8160.0,2026-04-30,188743224,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977732,Saptakoshi Development Bank Ltd
+2026043003004937,SAPDBL,58,28,43,815.0,35045.0,2026-04-30,188743225,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:00:40.977805,Saptakoshi Development Bank Ltd
+2026043003005001,SAPDBL,47,28,50,815.3,40765.0,2026-04-30,188745164,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006216,Saptakoshi Development Bank Ltd
+2026043003005002,SAPDBL,22,28,10,815.3,8153.0,2026-04-30,188745166,2860,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006289,Saptakoshi Development Bank Ltd
+2026043003005003,SAPDBL,32,28,100,815.2,81520.0,2026-04-30,188745168,2860,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006317,Saptakoshi Development Bank Ltd
+2026043003005004,SAPDBL,47,28,50,815.1,40755.0,2026-04-30,188745170,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006339,Saptakoshi Development Bank Ltd
+2026043003005005,SAPDBL,58,28,117,815.0,95355.0,2026-04-30,188745172,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006361,Saptakoshi Development Bank Ltd
+2026043003005006,SAPDBL,53,28,100,815.0,81500.0,2026-04-30,188745174,2860,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006384,Saptakoshi Development Bank Ltd
+2026043003005007,SAPDBL,45,28,20,815.0,16300.0,2026-04-30,188745176,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006406,Saptakoshi Development Bank Ltd
+2026043003005008,SAPDBL,26,28,10,815.0,8150.0,2026-04-30,188745178,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006426,Saptakoshi Development Bank Ltd
+2026043003005009,SAPDBL,17,28,10,815.0,8150.0,2026-04-30,188745180,2860,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006451,Saptakoshi Development Bank Ltd
+2026043003005010,SAPDBL,16,28,20,815.0,16300.0,2026-04-30,188745182,2860,Primo Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006474,Saptakoshi Development Bank Ltd
+2026043003005011,SAPDBL,38,28,100,815.0,81500.0,2026-04-30,188745184,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006495,Saptakoshi Development Bank Ltd
+2026043003005012,SAPDBL,47,28,50,815.0,40750.0,2026-04-30,188745186,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006519,Saptakoshi Development Bank Ltd
+2026043003005013,SAPDBL,6,28,20,815.0,16300.0,2026-04-30,188745188,2860,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006539,Saptakoshi Development Bank Ltd
+2026043003005014,SAPDBL,53,28,20,815.0,16300.0,2026-04-30,188745190,2860,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006558,Saptakoshi Development Bank Ltd
+2026043003005015,SAPDBL,19,28,30,815.0,24450.0,2026-04-30,188745192,2860,Nepal Investment And Securities Trading Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006577,Saptakoshi Development Bank Ltd
+2026043003005016,SAPDBL,14,28,500,813.2,406600.0,2026-04-30,188745194,2860,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006600,Saptakoshi Development Bank Ltd
+2026043003005017,SAPDBL,53,28,100,813.0,81300.0,2026-04-30,188745196,2860,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006623,Saptakoshi Development Bank Ltd
+2026043003005018,SAPDBL,58,28,10,813.0,8130.0,2026-04-30,188745198,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006645,Saptakoshi Development Bank Ltd
+2026043003005019,SAPDBL,34,28,30,811.2,24336.0,2026-04-30,188745200,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006666,Saptakoshi Development Bank Ltd
+2026043003005020,SAPDBL,17,28,100,811.1,81110.0,2026-04-30,188745202,2860,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006690,Saptakoshi Development Bank Ltd
+2026043003005021,SAPDBL,65,28,200,810.1,162020.0,2026-04-30,188745204,2860,Sharepro Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006711,Saptakoshi Development Bank Ltd
+2026043003005022,SAPDBL,22,28,30,810.0,24300.0,2026-04-30,188745206,2860,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006734,Saptakoshi Development Bank Ltd
+2026043003005023,SAPDBL,45,28,11,810.0,8910.0,2026-04-30,188745208,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006756,Saptakoshi Development Bank Ltd
+2026043003005024,SAPDBL,58,28,30,810.0,24300.0,2026-04-30,188745210,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006795,Saptakoshi Development Bank Ltd
+2026043003005025,SAPDBL,59,28,10,810.0,8100.0,2026-04-30,188745212,2860,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006831,Saptakoshi Development Bank Ltd
+2026043003005026,SAPDBL,49,28,70,810.0,56700.0,2026-04-30,188745214,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006850,Saptakoshi Development Bank Ltd
+2026043003005027,SAPDBL,38,28,202,810.0,163620.0,2026-04-30,188745215,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:43.006870,Saptakoshi Development Bank Ltd
+2026043003005030,SAPDBL,53,28,20,815.3,16306.0,2026-04-30,188745310,2860,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:57.301631,Saptakoshi Development Bank Ltd
+2026043003005031,SAPDBL,38,28,298,810.0,241380.0,2026-04-30,188745312,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:57.301891,Saptakoshi Development Bank Ltd
+2026043003005032,SAPDBL,34,28,50,810.0,40500.0,2026-04-30,188745314,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:04:57.302000,Saptakoshi Development Bank Ltd
+2026043003005033,SAPDBL,44,28,20,810.0,16200.0,2026-04-30,188745316,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:57.302123,Saptakoshi Development Bank Ltd
+2026043003005034,SAPDBL,47,28,50,810.0,40500.0,2026-04-30,188745318,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:04:57.302228,Saptakoshi Development Bank Ltd
+2026043003005110,SAPDBL,87,48,10,829.0,8290.0,2026-04-30,188746390,2860,S.P.S.A. Securities Limited,Trishakti Securities Public Limited,2026-04-30 14:07:24.471053,Saptakoshi Development Bank Ltd
+2026043003005152,SAPDBL,74,28,60,815.0,48900.0,2026-04-30,188747292,2860,KALASH STOCK MARKET PVT. LTD.,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.196890,Saptakoshi Development Bank Ltd
+2026043003005153,SAPDBL,34,28,100,814.0,81400.0,2026-04-30,188747294,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.197233,Saptakoshi Development Bank Ltd
+2026043003005154,SAPDBL,56,28,10,813.0,8130.0,2026-04-30,188747296,2860,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.197349,Saptakoshi Development Bank Ltd
+2026043003005155,SAPDBL,57,28,30,813.0,24390.0,2026-04-30,188747298,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.197461,Saptakoshi Development Bank Ltd
+2026043003005156,SAPDBL,45,28,50,812.2,40610.0,2026-04-30,188747300,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.197571,Saptakoshi Development Bank Ltd
+2026043003005157,SAPDBL,34,28,100,812.1,81210.0,2026-04-30,188747302,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.197684,Saptakoshi Development Bank Ltd
+2026043003005158,SAPDBL,4,28,100,812.0,81200.0,2026-04-30,188747304,2860,Opal Securities Investment (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.197817,Saptakoshi Development Bank Ltd
+2026043003005159,SAPDBL,6,28,20,811.0,16220.0,2026-04-30,188747306,2860,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.197929,Saptakoshi Development Bank Ltd
+2026043003005160,SAPDBL,65,28,100,810.1,81010.0,2026-04-30,188747308,2860,Sharepro Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.198045,Saptakoshi Development Bank Ltd
+2026043003005161,SAPDBL,74,28,42,810.0,34020.0,2026-04-30,188747310,2860,KALASH STOCK MARKET PVT. LTD.,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.198156,Saptakoshi Development Bank Ltd
+2026043003005162,SAPDBL,13,28,50,810.0,40500.0,2026-04-30,188747312,2860,Thrive Brokerage House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.198308,Saptakoshi Development Bank Ltd
+2026043003005163,SAPDBL,59,28,200,810.0,162000.0,2026-04-30,188747314,2860,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.198423,Saptakoshi Development Bank Ltd
+2026043003005164,SAPDBL,58,28,75,810.0,60750.0,2026-04-30,188747316,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:10:07.198539,Saptakoshi Development Bank Ltd
+2026043003005166,SAPDBL,44,28,10,810.0,8100.0,2026-04-30,188747372,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:10:16.909717,Saptakoshi Development Bank Ltd
+2026043003005175,SAPDBL,1,28,30,810.0,24300.0,2026-04-30,188747504,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:10:34.734362,Saptakoshi Development Bank Ltd
+2026043003005176,SAPDBL,57,28,23,810.0,18630.0,2026-04-30,188747519,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:10:37.786681,Saptakoshi Development Bank Ltd
+2026043003005182,SAPDBL,57,28,27,810.0,21870.0,2026-04-30,188747630,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:10:54.353070,Saptakoshi Development Bank Ltd
+2026043003005183,SAPDBL,96,28,20,810.0,16200.0,2026-04-30,188747632,2860,Himalayan Securities Limited,Shree Krishna Securities Ltd.,2026-04-30 14:10:54.353392,Saptakoshi Development Bank Ltd
+2026043003005184,SAPDBL,34,28,200,810.0,162000.0,2026-04-30,188747650,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:10:57.684268,Saptakoshi Development Bank Ltd
+2026043003005185,SAPDBL,45,28,100,810.0,81000.0,2026-04-30,188747690,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:11:00.088795,Saptakoshi Development Bank Ltd
+2026043003005193,SAPDBL,47,28,500,810.0,405000.0,2026-04-30,188747804,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:11:16.729574,Saptakoshi Development Bank Ltd
+2026043003005199,SAPDBL,59,28,10,810.0,8100.0,2026-04-30,188747874,2860,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:11:29.258530,Saptakoshi Development Bank Ltd
+2026043003005201,SAPDBL,45,28,50,810.0,40500.0,2026-04-30,188747890,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:11:31.049952,Saptakoshi Development Bank Ltd
+2026043003005202,SAPDBL,85,28,93,810.0,75330.0,2026-04-30,188747899,2860,Capital Hub P. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:11:32.265729,Saptakoshi Development Bank Ltd
+2026043003005203,SAPDBL,85,28,407,810.0,329670.0,2026-04-30,188747902,2860,Capital Hub P. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:11:32.266237,Saptakoshi Development Bank Ltd
+2026043003005204,SAPDBL,34,28,40,810.0,32400.0,2026-04-30,188747920,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:11:33.315870,Saptakoshi Development Bank Ltd
+2026043003005209,SAPDBL,53,28,20,810.0,16200.0,2026-04-30,188747964,2860,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:11:42.517726,Saptakoshi Development Bank Ltd
+2026043003005217,SAPDBL,22,28,50,810.0,40500.0,2026-04-30,188748102,2860,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:12:05.911835,Saptakoshi Development Bank Ltd
+2026043003005218,SAPDBL,74,28,60,810.0,48600.0,2026-04-30,188748328,2860,KALASH STOCK MARKET PVT. LTD.,Shree Krishna Securities Ltd.,2026-04-30 14:12:11.788846,Saptakoshi Development Bank Ltd
+2026043003005219,SAPDBL,47,28,100,810.0,81000.0,2026-04-30,188748362,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:12:16.632943,Saptakoshi Development Bank Ltd
+2026043003005221,SAPDBL,6,28,23,810.0,18630.0,2026-04-30,188748421,2860,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:12:25.767511,Saptakoshi Development Bank Ltd
+2026043003005222,SAPDBL,6,28,77,810.0,62370.0,2026-04-30,188748424,2860,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:12:25.767799,Saptakoshi Development Bank Ltd
+2026043003005223,SAPDBL,35,28,100,810.0,81000.0,2026-04-30,188748432,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:12:27.528356,Saptakoshi Development Bank Ltd
+2026043003005226,SAPDBL,32,28,50,810.0,40500.0,2026-04-30,188748514,2860,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:12:37.500775,Saptakoshi Development Bank Ltd
+2026043003005251,SAPDBL,47,28,473,810.0,383130.0,2026-04-30,188748795,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:13:19.406256,Saptakoshi Development Bank Ltd
+2026043003005252,SAPDBL,47,28,27,810.0,21870.0,2026-04-30,188748798,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:13:19.406798,Saptakoshi Development Bank Ltd
+2026043003005263,SAPDBL,45,28,100,810.0,81000.0,2026-04-30,188748938,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:13:39.376859,Saptakoshi Development Bank Ltd
+2026043003005271,SAPDBL,99,28,10,810.0,8100.0,2026-04-30,188749080,2860,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-30 14:14:03.060421,Saptakoshi Development Bank Ltd
+2026043003005281,SAPDBL,47,28,100,810.0,81000.0,2026-04-30,188749166,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:14:15.871760,Saptakoshi Development Bank Ltd
+2026043003005298,SAPDBL,42,28,100,810.0,81000.0,2026-04-30,188749232,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:14:22.080677,Saptakoshi Development Bank Ltd
+2026043003005337,SAPDBL,34,50,10,808.4,8084.0,2026-04-30,188749830,2860,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:15:56.874984,Saptakoshi Development Bank Ltd
+2026043003005338,SAPDBL,36,50,16,808.3,12932.8,2026-04-30,188749831,2860,Secured Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 14:15:56.875576,Saptakoshi Development Bank Ltd
+2026043003005354,SAPDBL,35,28,100,810.0,81000.0,2026-04-30,188750278,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:17:00.405705,Saptakoshi Development Bank Ltd
+2026043003005366,SAPDBL,99,28,20,810.0,16200.0,2026-04-30,188750570,2860,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-30 14:17:52.854109,Saptakoshi Development Bank Ltd
+2026043003005373,SAPDBL,45,28,20,810.0,16200.0,2026-04-30,188750738,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:18:15.957287,Saptakoshi Development Bank Ltd
+2026043003005390,SAPDBL,72,28,23,810.0,18630.0,2026-04-30,188750913,2860,Hatemalo Financial Services Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:18:38.966885,Saptakoshi Development Bank Ltd
+2026043003005391,SAPDBL,72,28,37,810.0,29970.0,2026-04-30,188750916,2860,Hatemalo Financial Services Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:18:38.967219,Saptakoshi Development Bank Ltd
+2026043003005393,SAPDBL,99,28,10,810.0,8100.0,2026-04-30,188750980,2860,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-30 14:18:47.211098,Saptakoshi Development Bank Ltd
+2026043003005395,SAPDBL,35,28,109,810.0,88290.0,2026-04-30,188751042,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:18:54.372221,Saptakoshi Development Bank Ltd
+2026043003005396,SAPDBL,59,28,50,810.0,40500.0,2026-04-30,188751092,2860,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:19:00.242540,Saptakoshi Development Bank Ltd
+2026043003005402,SAPDBL,6,28,200,810.0,162000.0,2026-04-30,188751286,2860,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:19:28.469707,Saptakoshi Development Bank Ltd
+2026043003005406,SAPDBL,49,28,10,810.0,8100.0,2026-04-30,188751362,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:19:40.220963,Saptakoshi Development Bank Ltd
+2026043003005415,SAPDBL,42,28,50,810.0,40500.0,2026-04-30,188751536,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:20:06.537289,Saptakoshi Development Bank Ltd
+2026043003005423,SAPDBL,32,28,50,810.0,40500.0,2026-04-30,188751856,2860,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:20:29.039726,Saptakoshi Development Bank Ltd
+2026043003005424,SAPDBL,59,28,50,810.0,40500.0,2026-04-30,188751898,2860,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:20:35.027540,Saptakoshi Development Bank Ltd
+2026043003005427,SAPDBL,35,28,34,810.0,27540.0,2026-04-30,188751919,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:20:39.294376,Saptakoshi Development Bank Ltd
+2026043003005428,SAPDBL,35,28,66,810.0,53460.0,2026-04-30,188751922,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:20:39.294695,Saptakoshi Development Bank Ltd
+2026043003005437,SAPDBL,25,28,134,810.0,108540.0,2026-04-30,188752120,2860,Sweta Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:21:07.317883,Saptakoshi Development Bank Ltd
+2026043003005446,SAPDBL,36,34,30,810.0,24300.0,2026-04-30,188752241,2860,Secured Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:21:23.849723,Saptakoshi Development Bank Ltd
+2026043003005449,SAPDBL,26,28,100,810.0,81000.0,2026-04-30,188752322,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:21:37.681298,Saptakoshi Development Bank Ltd
+2026043003005457,SAPDBL,1,28,10,811.0,8110.0,2026-04-30,188752523,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:21:53.120093,Saptakoshi Development Bank Ltd
+2026043003005458,SAPDBL,1,28,10,812.0,8120.0,2026-04-30,188752525,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:21:53.120387,Saptakoshi Development Bank Ltd
+2026043003005459,SAPDBL,1,28,280,812.0,227360.0,2026-04-30,188752528,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:21:53.999188,Saptakoshi Development Bank Ltd
+2026043003005462,SAPDBL,99,28,20,810.0,16200.0,2026-04-30,188752590,2860,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-30 14:21:59.530605,Saptakoshi Development Bank Ltd
+2026043003005472,SAPDBL,99,28,10,810.0,8100.0,2026-04-30,188752738,2860,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-30 14:22:15.675938,Saptakoshi Development Bank Ltd
+2026043003005476,SAPDBL,45,28,150,810.0,121500.0,2026-04-30,188753376,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:22:27.521474,Saptakoshi Development Bank Ltd
+2026043003005479,SAPDBL,49,28,20,810.0,16200.0,2026-04-30,188753468,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:22:35.387716,Saptakoshi Development Bank Ltd
+2026043003005487,SAPDBL,58,28,10,810.0,8100.0,2026-04-30,188753600,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:22:53.998984,Saptakoshi Development Bank Ltd
+2026043003005491,SAPDBL,85,28,409,810.0,331290.0,2026-04-30,188753697,2860,Capital Hub P. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:23:01.453477,Saptakoshi Development Bank Ltd
+2026043003005503,SAPDBL,67,28,10,810.1,8101.0,2026-04-30,188753862,2860,Property Wiard Limited,Shree Krishna Securities Ltd.,2026-04-30 14:23:17.315220,Saptakoshi Development Bank Ltd
+2026043003005504,SAPDBL,42,28,493,810.0,399330.0,2026-04-30,188753864,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:23:17.315650,Saptakoshi Development Bank Ltd
+2026043003005515,SAPDBL,13,28,200,810.0,162000.0,2026-04-30,188753982,2860,Thrive Brokerage House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:23:27.497427,Saptakoshi Development Bank Ltd
+2026043003005518,SAPDBL,58,28,10,810.0,8100.0,2026-04-30,188753992,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:23:29.177627,Saptakoshi Development Bank Ltd
+2026043003005519,SAPDBL,1,28,10,810.0,8100.0,2026-04-30,188753994,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:23:29.685425,Saptakoshi Development Bank Ltd
+2026043003005521,SAPDBL,47,28,500,810.0,405000.0,2026-04-30,188754038,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:23:40.496597,Saptakoshi Development Bank Ltd
+2026043003005522,SAPDBL,62,28,30,810.0,24300.0,2026-04-30,188754076,2860,Capital Max Securities Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:23:46.523637,Saptakoshi Development Bank Ltd
+2026043003005523,SAPDBL,35,28,10,810.0,8100.0,2026-04-30,188754086,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:23:47.903819,Saptakoshi Development Bank Ltd
+2026043003005532,SAPDBL,74,28,26,810.0,21060.0,2026-04-30,188754268,2860,KALASH STOCK MARKET PVT. LTD.,Shree Krishna Securities Ltd.,2026-04-30 14:24:10.624489,Saptakoshi Development Bank Ltd
+2026043003005533,SAPDBL,3,28,111,810.0,89910.0,2026-04-30,188754285,2860,Arun Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:24:11.824053,Saptakoshi Development Bank Ltd
+2026043003005534,SAPDBL,3,28,179,810.0,144990.0,2026-04-30,188754288,2860,Arun Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:24:11.824598,Saptakoshi Development Bank Ltd
+2026043003005547,SAPDBL,22,28,100,810.0,81000.0,2026-04-30,188754714,2860,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:24:43.115905,Saptakoshi Development Bank Ltd
+2026043003005557,SAPDBL,49,28,50,810.0,40500.0,2026-04-30,188754810,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:24:57.478099,Saptakoshi Development Bank Ltd
+2026043003005559,SAPDBL,45,28,20,810.0,16200.0,2026-04-30,188754850,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:25:04.364216,Saptakoshi Development Bank Ltd
+2026043003005566,SAPDBL,42,28,100,810.0,81000.0,2026-04-30,188755022,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:25:29.293169,Saptakoshi Development Bank Ltd
+2026043003005568,SAPDBL,57,28,50,810.0,40500.0,2026-04-30,188755066,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:25:35.216906,Saptakoshi Development Bank Ltd
+2026043003005573,SAPDBL,13,28,300,810.0,243000.0,2026-04-30,188755138,2860,Thrive Brokerage House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:25:42.549389,Saptakoshi Development Bank Ltd
+2026043003005574,SAPDBL,1,28,1,810.0,810.0,2026-04-30,188755139,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:25:42.549889,Saptakoshi Development Bank Ltd
+2026043003005578,SAPDBL,87,17,10,825.9,8259.0,2026-04-30,188755232,2860,S.P.S.A. Securities Limited,ABC Securities Private Limited,2026-04-30 14:25:53.407656,Saptakoshi Development Bank Ltd
+2026043003005603,SAPDBL,86,28,10,809.6,8096.0,2026-04-30,188755645,2860,Stoxkarts Securities Limited,Shree Krishna Securities Ltd.,2026-04-30 14:26:33.538078,Saptakoshi Development Bank Ltd
+2026043003005613,SAPDBL,5,28,50,810.0,40500.0,2026-04-30,188756008,2860,Market Securities & Exchange (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:27:04.620476,Saptakoshi Development Bank Ltd
+2026043003005620,SAPDBL,5,28,50,810.0,40500.0,2026-04-30,188756182,2860,Market Securities & Exchange (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:27:28.470911,Saptakoshi Development Bank Ltd
+2026043003005628,SAPDBL,45,28,20,810.0,16200.0,2026-04-30,188756308,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:27:41.695137,Saptakoshi Development Bank Ltd
+2026043003005629,SAPDBL,16,28,175,810.0,141750.0,2026-04-30,188756310,2860,Primo Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:27:41.695772,Saptakoshi Development Bank Ltd
+2026043003005639,SAPDBL,25,28,50,810.0,40500.0,2026-04-30,188756596,2860,Sweta Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:28:10.829928,Saptakoshi Development Bank Ltd
+2026043003005652,SAPDBL,45,28,100,810.0,81000.0,2026-04-30,188756726,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:28:22.730343,Saptakoshi Development Bank Ltd
+2026043003005653,SAPDBL,22,28,30,810.0,24300.0,2026-04-30,188756728,2860,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:28:22.887011,Saptakoshi Development Bank Ltd
+2026043003005660,SAPDBL,65,28,100,810.0,81000.0,2026-04-30,188756856,2860,Sharepro Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:28:31.402097,Saptakoshi Development Bank Ltd
+2026043003005661,SAPDBL,26,28,100,810.0,81000.0,2026-04-30,188756892,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:28:36.772536,Saptakoshi Development Bank Ltd
+2026043003005669,SAPDBL,57,28,100,810.0,81000.0,2026-04-30,188756924,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:28:40.201513,Saptakoshi Development Bank Ltd
+2026043003005670,SAPDBL,86,28,165,810.0,133650.0,2026-04-30,188757020,2860,Stoxkarts Securities Limited,Shree Krishna Securities Ltd.,2026-04-30 14:28:45.164964,Saptakoshi Development Bank Ltd
+2026043003005676,SAPDBL,45,28,100,810.0,81000.0,2026-04-30,188757224,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:29:02.274510,Saptakoshi Development Bank Ltd
+2026043003005677,SAPDBL,26,28,100,810.0,81000.0,2026-04-30,188757240,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:29:03.140191,Saptakoshi Development Bank Ltd
+2026043003005680,SAPDBL,26,28,60,810.0,48600.0,2026-04-30,188757374,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:29:16.845952,Saptakoshi Development Bank Ltd
+2026043003005699,SAPDBL,45,28,25,812.0,20300.0,2026-04-30,188758040,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:30:08.653987,Saptakoshi Development Bank Ltd
+2026043003005700,SAPDBL,45,28,140,810.1,113414.0,2026-04-30,188758042,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:30:08.654630,Saptakoshi Development Bank Ltd
+2026043003005701,SAPDBL,16,28,100,810.1,81010.0,2026-04-30,188758044,2860,Primo Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:30:08.655121,Saptakoshi Development Bank Ltd
+2026043003005702,SAPDBL,99,28,60,810.0,48600.0,2026-04-30,188758046,2860,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-30 14:30:08.655532,Saptakoshi Development Bank Ltd
+2026043003005723,SAPDBL,60,28,200,810.0,162000.0,2026-04-30,188758332,2860,Nagarik Stock Dealer ,Shree Krishna Securities Ltd.,2026-04-30 14:30:32.879298,Saptakoshi Development Bank Ltd
+2026043003005724,SAPDBL,101,28,100,810.0,81000.0,2026-04-30,188758396,2860,APPLE SECURITIES PRIVATE LIMITED,Shree Krishna Securities Ltd.,2026-04-30 14:30:38.848290,Saptakoshi Development Bank Ltd
+2026043003005731,SAPDBL,37,28,100,810.0,81000.0,2026-04-30,188758514,2860,Swarna Laxmi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:30:54.633548,Saptakoshi Development Bank Ltd
+2026043003005739,SAPDBL,60,28,50,810.0,40500.0,2026-04-30,188758566,2860,Nagarik Stock Dealer ,Shree Krishna Securities Ltd.,2026-04-30 14:30:59.091240,Saptakoshi Development Bank Ltd
+2026043003005743,SAPDBL,41,28,200,810.0,162000.0,2026-04-30,188758728,2860,Linch Stock Market Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:31:14.169437,Saptakoshi Development Bank Ltd
+2026043003005750,SAPDBL,58,28,25,810.0,20250.0,2026-04-30,188758767,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:31:19.471466,Saptakoshi Development Bank Ltd
+2026043003005754,SAPDBL,58,28,21,810.0,17010.0,2026-04-30,188758848,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:31:26.697752,Saptakoshi Development Bank Ltd
+2026043003005762,SAPDBL,57,28,10,810.0,8100.0,2026-04-30,188759060,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:31:44.564888,Saptakoshi Development Bank Ltd
+2026043003005763,SAPDBL,60,28,25,810.0,20250.0,2026-04-30,188759076,2860,Nagarik Stock Dealer ,Shree Krishna Securities Ltd.,2026-04-30 14:31:47.054435,Saptakoshi Development Bank Ltd
+2026043003005766,SAPDBL,57,28,10,810.0,8100.0,2026-04-30,188759142,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:31:54.775537,Saptakoshi Development Bank Ltd
+2026043003005787,SAPDBL,46,28,20,810.0,16200.0,2026-04-30,188759472,2860,Kalika Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:32:22.346731,Saptakoshi Development Bank Ltd
+2026043003005789,SAPDBL,1,28,100,810.0,81000.0,2026-04-30,188759528,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:32:28.037998,Saptakoshi Development Bank Ltd
+2026043003005798,SAPDBL,1,28,50,810.0,40500.0,2026-04-30,188759804,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:32:52.970683,Saptakoshi Development Bank Ltd
+2026043003005809,SAPDBL,26,28,250,810.0,202500.0,2026-04-30,188759924,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:32:57.797580,Saptakoshi Development Bank Ltd
+2026043003005810,SAPDBL,47,28,497,810.0,402570.0,2026-04-30,188760046,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:33:07.705726,Saptakoshi Development Bank Ltd
+2026043003005811,SAPDBL,57,28,17,810.0,13770.0,2026-04-30,188760101,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:33:11.273945,Saptakoshi Development Bank Ltd
+2026043003005815,SAPDBL,57,45,83,810.0,67230.0,2026-04-30,188760220,2860,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:33:23.403251,Saptakoshi Development Bank Ltd
+2026043003005816,SAPDBL,6,45,50,810.0,40500.0,2026-04-30,188760222,2860,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:33:23.403306,Saptakoshi Development Bank Ltd
+2026043003005817,SAPDBL,67,45,10,809.9,8099.0,2026-04-30,188760224,2860,Property Wiard Limited,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:33:23.403328,Saptakoshi Development Bank Ltd
+2026043003005818,SAPDBL,58,45,100,809.9,80990.0,2026-04-30,188760226,2860,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:33:23.403350,Saptakoshi Development Bank Ltd
+2026043003005819,SAPDBL,57,45,100,809.8,80980.0,2026-04-30,188760228,2860,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:33:23.403373,Saptakoshi Development Bank Ltd
+2026043003005820,SAPDBL,46,45,12,809.7,9716.4,2026-04-30,188760230,2860,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:33:23.403395,Saptakoshi Development Bank Ltd
+2026043003005821,SAPDBL,87,45,345,809.7,279346.5,2026-04-30,188760231,2860,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:33:23.403435,Saptakoshi Development Bank Ltd
+2026043003005832,SAPDBL,28,28,100,810.1,81010.0,2026-04-30,188760516,2860,Shree Krishna Securities Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:33:50.140461,Saptakoshi Development Bank Ltd
+2026043003005833,SAPDBL,87,28,200,810.0,162000.0,2026-04-30,188760517,2860,S.P.S.A. Securities Limited,Shree Krishna Securities Ltd.,2026-04-30 14:33:50.140786,Saptakoshi Development Bank Ltd
+2026043003005874,SAPDBL,75,17,90,824.9,74241.0,2026-04-30,188760839,2860,N.I.M.B. Stock Markets Limited,ABC Securities Private Limited,2026-04-30 14:34:12.177700,Saptakoshi Development Bank Ltd
+2026043003005875,SAPDBL,75,22,267,824.9,220248.3,2026-04-30,188760841,2860,N.I.M.B. Stock Markets Limited,Siprabi Securities Pvt. Ltd.,2026-04-30 14:34:12.177975,Saptakoshi Development Bank Ltd
+2026043003005881,SAPDBL,75,28,143,824.9,117960.7,2026-04-30,188760938,2860,N.I.M.B. Stock Markets Limited,Shree Krishna Securities Ltd.,2026-04-30 14:34:19.438645,Saptakoshi Development Bank Ltd
+2026043003005882,SAPDBL,57,28,10,810.0,8100.0,2026-04-30,188760939,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:34:19.438765,Saptakoshi Development Bank Ltd
+2026043003005900,SAPDBL,57,28,180,810.0,145800.0,2026-04-30,188761328,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:34:55.923889,Saptakoshi Development Bank Ltd
+2026043003005901,SAPDBL,42,28,530,810.0,429300.0,2026-04-30,188761329,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:34:55.924263,Saptakoshi Development Bank Ltd
+2026043003005939,SAPDBL,34,87,100,811.0,81100.0,2026-04-30,188762400,2860,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-30 14:36:42.330419,Saptakoshi Development Bank Ltd
+2026043003005940,SAPDBL,34,87,20,810.1,16202.0,2026-04-30,188762402,2860,Vision Securities Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-30 14:36:42.330977,Saptakoshi Development Bank Ltd
+2026043003005941,SAPDBL,87,87,180,810.0,145800.0,2026-04-30,188762403,2860,S.P.S.A. Securities Limited,S.P.S.A. Securities Limited,2026-04-30 14:36:42.331373,Saptakoshi Development Bank Ltd
+2026043003005944,SAPDBL,87,16,10,824.0,8240.0,2026-04-30,188762470,2860,S.P.S.A. Securities Limited,Primo Securities (PVT) Ltd.,2026-04-30 14:36:47.021525,Saptakoshi Development Bank Ltd
+2026043003006041,SAPDBL,74,7,30,810.2,24306.0,2026-04-30,188765214,2860,KALASH STOCK MARKET PVT. LTD.,J.F. Securites (PVT) Ltd.,2026-04-30 14:40:33.384775,Saptakoshi Development Bank Ltd
+2026043003006042,SAPDBL,48,7,470,810.1,380747.0,2026-04-30,188765215,2860,Trishakti Securities Public Limited,J.F. Securites (PVT) Ltd.,2026-04-30 14:40:33.385084,Saptakoshi Development Bank Ltd
+2026043003006064,SAPDBL,26,28,100,810.3,81030.0,2026-04-30,188765552,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087550,Saptakoshi Development Bank Ltd
+2026043003006065,SAPDBL,48,28,30,810.1,24303.0,2026-04-30,188765554,2860,Trishakti Securities Public Limited,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087612,Saptakoshi Development Bank Ltd
+2026043003006066,SAPDBL,87,28,20,810.0,16200.0,2026-04-30,188765556,2860,S.P.S.A. Securities Limited,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087646,Saptakoshi Development Bank Ltd
+2026043003006067,SAPDBL,35,28,20,810.0,16200.0,2026-04-30,188765558,2860,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087688,Saptakoshi Development Bank Ltd
+2026043003006068,SAPDBL,22,28,64,810.0,51840.0,2026-04-30,188765560,2860,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087712,Saptakoshi Development Bank Ltd
+2026043003006069,SAPDBL,3,28,500,810.0,405000.0,2026-04-30,188765562,2860,Arun Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087735,Saptakoshi Development Bank Ltd
+2026043003006070,SAPDBL,32,28,40,810.0,32400.0,2026-04-30,188765564,2860,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087758,Saptakoshi Development Bank Ltd
+2026043003006071,SAPDBL,59,28,200,810.0,162000.0,2026-04-30,188765565,2860,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:41:00.087781,Saptakoshi Development Bank Ltd
+2026043003006092,SAPDBL,11,28,70,810.1,56707.0,2026-04-30,188765886,2860,Malla & Malla Stock Broking Company Pvt. Limited,Shree Krishna Securities Ltd.,2026-04-30 14:41:34.744123,Saptakoshi Development Bank Ltd
+2026043003006101,SAPDBL,75,28,50,810.0,40500.0,2026-04-30,188766118,2860,N.I.M.B. Stock Markets Limited,Shree Krishna Securities Ltd.,2026-04-30 14:41:45.557438,Saptakoshi Development Bank Ltd
+2026043003006103,SAPDBL,26,28,50,810.0,40500.0,2026-04-30,188766136,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:47.222889,Saptakoshi Development Bank Ltd
+2026043003006109,SAPDBL,49,28,50,810.0,40500.0,2026-04-30,188766292,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:56.278203,Saptakoshi Development Bank Ltd
+2026043003006111,SAPDBL,36,28,10,810.0,8100.0,2026-04-30,188766302,2860,Secured Securities Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:41:57.808724,Saptakoshi Development Bank Ltd
+2026043003006122,SAPDBL,75,28,50,810.0,40500.0,2026-04-30,188766576,2860,N.I.M.B. Stock Markets Limited,Shree Krishna Securities Ltd.,2026-04-30 14:42:22.072231,Saptakoshi Development Bank Ltd
+2026043003006130,SAPDBL,42,48,100,809.8,80980.0,2026-04-30,188766648,2860,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-30 14:42:28.316592,Saptakoshi Development Bank Ltd
+2026043003006131,SAPDBL,57,48,90,809.2,72828.0,2026-04-30,188766649,2860,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-30 14:42:28.317174,Saptakoshi Development Bank Ltd
+2026043003006138,SAPDBL,91,28,5000,810.0,4050000.0,2026-04-30,188766874,2860,Citizens Share Broker Limited,Shree Krishna Securities Ltd.,2026-04-30 14:42:43.094483,Saptakoshi Development Bank Ltd
+2026043003006153,SAPDBL,57,48,150,809.2,121380.0,2026-04-30,188767318,2860,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-30 14:43:14.623710,Saptakoshi Development Bank Ltd
+2026043003006220,SAPDBL,57,58,10,809.2,8092.0,2026-04-30,188768486,2860,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-30 14:45:22.868578,Saptakoshi Development Bank Ltd
+2026043003006221,SAPDBL,38,58,10,809.2,8092.0,2026-04-30,188768488,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-30 14:45:22.868897,Saptakoshi Development Bank Ltd
+2026043003006222,SAPDBL,45,58,20,809.2,16184.0,2026-04-30,188768490,2860,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 14:45:22.869034,Saptakoshi Development Bank Ltd
+2026043003006249,SAPDBL,91,58,20,809.2,16184.0,2026-04-30,188768797,2860,Citizens Share Broker Limited,Naasa Securities Co. Ltd.,2026-04-30 14:45:55.166593,Saptakoshi Development Bank Ltd
+2026043003006250,SAPDBL,91,28,980,810.0,793800.0,2026-04-30,188768800,2860,Citizens Share Broker Limited,Shree Krishna Securities Ltd.,2026-04-30 14:45:55.166875,Saptakoshi Development Bank Ltd
+2026043003006275,SAPDBL,50,28,200,810.0,162000.0,2026-04-30,188769218,2860,Cristal Kanchanjanga Securites Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:46:35.426670,Saptakoshi Development Bank Ltd
+2026043003006292,SAPDBL,38,28,500,810.0,405000.0,2026-04-30,188769512,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:46:59.007291,Saptakoshi Development Bank Ltd
+2026043003006293,SAPDBL,60,28,110,810.0,89100.0,2026-04-30,188769514,2860,Nagarik Stock Dealer ,Shree Krishna Securities Ltd.,2026-04-30 14:46:59.037530,Saptakoshi Development Bank Ltd
+2026043003006301,SAPDBL,34,28,30,810.0,24300.0,2026-04-30,188769536,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:47:00.201016,Saptakoshi Development Bank Ltd
+2026043003006303,SAPDBL,64,28,40,810.0,32400.0,2026-04-30,188769552,2860,SUN SECURITIES PVT LTD,Shree Krishna Securities Ltd.,2026-04-30 14:47:01.436750,Saptakoshi Development Bank Ltd
+2026043003006305,SAPDBL,16,28,300,810.0,243000.0,2026-04-30,188769558,2860,Primo Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:47:02.148130,Saptakoshi Development Bank Ltd
+2026043003006327,SAPDBL,64,28,10,810.0,8100.0,2026-04-30,188769912,2860,SUN SECURITIES PVT LTD,Shree Krishna Securities Ltd.,2026-04-30 14:47:26.017212,Saptakoshi Development Bank Ltd
+2026043003006445,SAPDBL,45,28,100,810.0,81000.0,2026-04-30,188771366,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:49:28.199901,Saptakoshi Development Bank Ltd
+2026043003006483,SAPDBL,26,28,100,810.0,81000.0,2026-04-30,188772100,2860,Asian Securities Private Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:50:27.825811,Saptakoshi Development Bank Ltd
+2026043003006535,SAPDBL,1,7,50,809.1,40455.0,2026-04-30,188772644,2860,Kumari Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-30 14:51:11.827404,Saptakoshi Development Bank Ltd
+2026043003006536,SAPDBL,14,7,50,809.1,40455.0,2026-04-30,188772646,2860,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-30 14:51:11.827709,Saptakoshi Development Bank Ltd
+2026043003006537,SAPDBL,57,7,100,809.0,80900.0,2026-04-30,188772648,2860,Aryatara Investment & Securities,J.F. Securites (PVT) Ltd.,2026-04-30 14:51:11.827863,Saptakoshi Development Bank Ltd
+2026043003006538,SAPDBL,13,7,100,809.0,80900.0,2026-04-30,188772649,2860,Thrive Brokerage House Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-30 14:51:11.828038,Saptakoshi Development Bank Ltd
+2026043003006539,SAPDBL,58,28,13,810.0,10530.0,2026-04-30,188772660,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:51:13.262242,Saptakoshi Development Bank Ltd
+2026043003006609,SAPDBL,56,59,100,809.8,80980.0,2026-04-30,188774095,2860,Sri Hari Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-30 14:52:54.860876,Saptakoshi Development Bank Ltd
+2026043003006610,SAPDBL,56,48,100,809.9,80990.0,2026-04-30,188774097,2860,Sri Hari Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-30 14:52:54.861711,Saptakoshi Development Bank Ltd
+2026043003006611,SAPDBL,56,28,800,810.0,648000.0,2026-04-30,188774100,2860,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:52:54.862419,Saptakoshi Development Bank Ltd
+2026043003006618,SAPDBL,1,28,100,810.0,81000.0,2026-04-30,188774206,2860,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:53:02.424451,Saptakoshi Development Bank Ltd
+2026043003006628,SAPDBL,57,28,500,810.0,405000.0,2026-04-30,188774332,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:53:10.539996,Saptakoshi Development Bank Ltd
+2026043003006700,SAPDBL,57,28,100,810.0,81000.0,2026-04-30,188775834,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:54:36.002676,Saptakoshi Development Bank Ltd
+2026043003006747,SAPDBL,7,28,600,810.0,486000.0,2026-04-30,188776370,2860,J.F. Securites (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:55:04.461290,Saptakoshi Development Bank Ltd
+2026043003006787,SAPDBL,45,28,70,810.0,56700.0,2026-04-30,188777050,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:55:41.932636,Saptakoshi Development Bank Ltd
+2026043003006833,SAPDBL,34,48,40,809.9,32396.0,2026-04-30,188777556,2860,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-30 14:56:07.917463,Saptakoshi Development Bank Ltd
+2026043003006837,SAPDBL,57,48,20,809.9,16198.0,2026-04-30,188777699,2860,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-30 14:56:16.774001,Saptakoshi Development Bank Ltd
+2026043003006838,SAPDBL,57,28,480,810.0,388800.0,2026-04-30,188777702,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:56:16.774439,Saptakoshi Development Bank Ltd
+2026043003006878,SAPDBL,58,28,300,810.0,243000.0,2026-04-30,188778236,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:56:35.843806,Saptakoshi Development Bank Ltd
+2026043003006899,SAPDBL,42,40,50,809.3,40465.0,2026-04-30,188778575,2860,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-30 14:56:50.180783,Saptakoshi Development Bank Ltd
+2026043003006900,SAPDBL,44,16,70,809.2,56644.0,2026-04-30,188778593,2860,Dynamic Money Managers Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-30 14:56:50.382175,Saptakoshi Development Bank Ltd
+2026043003006929,SAPDBL,44,48,30,809.2,24276.0,2026-04-30,188779050,2860,Dynamic Money Managers Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-30 14:57:07.777630,Saptakoshi Development Bank Ltd
+2026043003006930,SAPDBL,49,48,20,809.0,16180.0,2026-04-30,188779051,2860,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-30 14:57:07.777730,Saptakoshi Development Bank Ltd
+2026043003007010,SAPDBL,33,57,100,809.0,80900.0,2026-04-30,188779677,2860,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-30 14:57:28.641590,Saptakoshi Development Bank Ltd
+2026043003007034,SAPDBL,47,36,50,809.1,40455.0,2026-04-30,188780092,2860,Neev Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-30 14:57:46.818968,Saptakoshi Development Bank Ltd
+2026043003007035,SAPDBL,58,36,50,809.0,40450.0,2026-04-30,188780094,2860,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-30 14:57:46.819272,Saptakoshi Development Bank Ltd
+2026043003007036,SAPDBL,57,36,50,808.7,40435.0,2026-04-30,188780096,2860,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-30 14:57:46.819412,Saptakoshi Development Bank Ltd
+2026043003007037,SAPDBL,47,36,50,808.5,40425.0,2026-04-30,188780098,2860,Neev Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-30 14:57:46.819571,Saptakoshi Development Bank Ltd
+2026043003007038,SAPDBL,53,36,20,808.5,16170.0,2026-04-30,188780100,2860,Investment Management Nepal Pvt. Ltd.,Secured Securities Ltd.,2026-04-30 14:57:46.819716,Saptakoshi Development Bank Ltd
+2026043003007039,SAPDBL,87,36,280,808.5,226380.0,2026-04-30,188780101,2860,S.P.S.A. Securities Limited,Secured Securities Ltd.,2026-04-30 14:57:46.819848,Saptakoshi Development Bank Ltd
+2026043003007141,SAPDBL,58,7,30,808.7,24261.0,2026-04-30,188781568,2860,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-30 14:58:37.333492,Saptakoshi Development Bank Ltd
+2026043003007142,SAPDBL,65,7,100,808.6,80860.0,2026-04-30,188781570,2860,Sharepro Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-30 14:58:37.333792,Saptakoshi Development Bank Ltd
+2026043003007143,SAPDBL,87,7,670,808.5,541695.0,2026-04-30,188781571,2860,S.P.S.A. Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-30 14:58:37.333931,Saptakoshi Development Bank Ltd
+2026043003007153,SAPDBL,36,19,50,809.0,40450.0,2026-04-30,188781764,2860,Secured Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-30 14:58:40.947443,Saptakoshi Development Bank Ltd
+2026043003007181,SAPDBL,62,45,10,809.0,8090.0,2026-04-30,188782186,2860,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:58:55.417290,Saptakoshi Development Bank Ltd
+2026043003007182,SAPDBL,47,45,40,808.3,32332.0,2026-04-30,188782187,2860,Neev Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-30 14:58:55.417392,Saptakoshi Development Bank Ltd
+2026043003007208,SAPDBL,42,58,50,808.6,40430.0,2026-04-30,188782515,2860,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-30 14:59:05.338998,Saptakoshi Development Bank Ltd
+2026043003007218,SAPDBL,42,28,150,808.6,121290.0,2026-04-30,188782820,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.345727,Saptakoshi Development Bank Ltd
+2026043003007219,SAPDBL,47,28,10,808.3,8083.0,2026-04-30,188782822,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.345834,Saptakoshi Development Bank Ltd
+2026043003007220,SAPDBL,42,28,35,808.3,28290.5,2026-04-30,188782824,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.345909,Saptakoshi Development Bank Ltd
+2026043003007221,SAPDBL,47,28,50,808.1,40405.0,2026-04-30,188782826,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346004,Saptakoshi Development Bank Ltd
+2026043003007222,SAPDBL,44,28,10,808.0,8080.0,2026-04-30,188782828,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346130,Saptakoshi Development Bank Ltd
+2026043003007223,SAPDBL,6,28,20,808.0,16160.0,2026-04-30,188782830,2860,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346233,Saptakoshi Development Bank Ltd
+2026043003007224,SAPDBL,38,28,500,808.0,404000.0,2026-04-30,188782832,2860,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346332,Saptakoshi Development Bank Ltd
+2026043003007225,SAPDBL,62,28,10,808.0,8080.0,2026-04-30,188782834,2860,Capital Max Securities Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346434,Saptakoshi Development Bank Ltd
+2026043003007226,SAPDBL,49,28,100,808.0,80800.0,2026-04-30,188782836,2860,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346532,Saptakoshi Development Bank Ltd
+2026043003007227,SAPDBL,34,28,10,808.0,8080.0,2026-04-30,188782838,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346627,Saptakoshi Development Bank Ltd
+2026043003007228,SAPDBL,19,28,10,807.1,8071.0,2026-04-30,188782840,2860,Nepal Investment And Securities Trading Private Limited,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346731,Saptakoshi Development Bank Ltd
+2026043003007229,SAPDBL,34,28,50,807.0,40350.0,2026-04-30,188782842,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346837,Saptakoshi Development Bank Ltd
+2026043003007230,SAPDBL,57,28,100,806.0,80600.0,2026-04-30,188782844,2860,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.346946,Saptakoshi Development Bank Ltd
+2026043003007231,SAPDBL,8,28,30,805.1,24153.0,2026-04-30,188782846,2860,Brilliant Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347072,Saptakoshi Development Bank Ltd
+2026043003007232,SAPDBL,34,28,50,805.1,40255.0,2026-04-30,188782848,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347196,Saptakoshi Development Bank Ltd
+2026043003007233,SAPDBL,34,28,200,805.1,161020.0,2026-04-30,188782850,2860,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347300,Saptakoshi Development Bank Ltd
+2026043003007234,SAPDBL,42,28,20,805.0,16100.0,2026-04-30,188782852,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347402,Saptakoshi Development Bank Ltd
+2026043003007235,SAPDBL,59,28,20,805.0,16100.0,2026-04-30,188782854,2860,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347505,Saptakoshi Development Bank Ltd
+2026043003007236,SAPDBL,42,28,20,805.0,16100.0,2026-04-30,188782856,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347608,Saptakoshi Development Bank Ltd
+2026043003007237,SAPDBL,3,28,100,805.0,80500.0,2026-04-30,188782858,2860,Arun Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347710,Saptakoshi Development Bank Ltd
+2026043003007238,SAPDBL,14,28,10,805.0,8050.0,2026-04-30,188782860,2860,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347812,Saptakoshi Development Bank Ltd
+2026043003007239,SAPDBL,41,28,20,805.0,16100.0,2026-04-30,188782862,2860,Linch Stock Market Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.347949,Saptakoshi Development Bank Ltd
+2026043003007240,SAPDBL,58,28,20,805.0,16100.0,2026-04-30,188782864,2860,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.348072,Saptakoshi Development Bank Ltd
+2026043003007241,SAPDBL,47,28,100,805.0,80500.0,2026-04-30,188782866,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.348177,Saptakoshi Development Bank Ltd
+2026043003007242,SAPDBL,42,28,200,805.0,161000.0,2026-04-30,188782868,2860,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.348291,Saptakoshi Development Bank Ltd
+2026043003007243,SAPDBL,47,28,100,805.0,80500.0,2026-04-30,188782870,2860,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.348405,Saptakoshi Development Bank Ltd
+2026043003007244,SAPDBL,45,28,20,805.0,16100.0,2026-04-30,188782872,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.348507,Saptakoshi Development Bank Ltd
+2026043003007245,SAPDBL,44,28,10,805.0,8050.0,2026-04-30,188782874,2860,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.348612,Saptakoshi Development Bank Ltd
+2026043003007246,SAPDBL,45,28,25,804.2,20105.0,2026-04-30,188782875,2860,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-30 14:59:12.348720,Saptakoshi Development Bank Ltd
+2026043003007279,SAPDBL,28,14,10,815.0,8150.0,2026-04-30,188783185,2860,Shree Krishna Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 14:59:18.761121,Saptakoshi Development Bank Ltd
+2026043003007280,SAPDBL,28,57,10,819.0,8190.0,2026-04-30,188783188,2860,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-30 14:59:18.761163,Saptakoshi Development Bank Ltd
+2026043003007286,SAPDBL,56,64,10,810.0,8100.0,2026-04-30,188783344,2860,Sri Hari Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-30 14:59:21.782659,Saptakoshi Development Bank Ltd
+2026043003007287,SAPDBL,45,64,75,804.2,60315.0,2026-04-30,188783346,2860,Imperial Securities Company Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-30 14:59:21.782940,Saptakoshi Development Bank Ltd
+2026043003007288,SAPDBL,59,64,115,804.0,92460.0,2026-04-30,188783347,2860,Deevyaa Securities & Stock House Pvt. Ltd,SUN SECURITIES PVT LTD,2026-04-30 14:59:21.783098,Saptakoshi Development Bank Ltd
+2026043003007419,SAPDBL,34,34,20,815.0,16300.0,2026-04-30,188786006,2860,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-30 14:59:55.848961,Saptakoshi Development Bank Ltd

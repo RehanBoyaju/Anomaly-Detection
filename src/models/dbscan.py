@@ -9,7 +9,7 @@ class Point:
         self.cluster_id = 0  # 0 = unclassified, -1 = noise
 
 
-class DBSCANModel:
+class DBSCAN:
     def __init__(self, eps: float = 0.5, min_pts: int = 5):
         self.eps = eps
         self.min_pts = min_pts
@@ -81,11 +81,7 @@ class DBSCANModel:
     def get_labels(self):
         return [p.cluster_id for p in self.points]
 
-    # -------------------------
-    # OPTIONAL: SIMPLE PREDICT
-    # (just reruns logic on new data)
-    # -------------------------
-    def predict(self, X):
-        temp = DBSCANModel(self.eps, self.min_pts)
-        temp.fit(X)
-        return temp.get_labels()
+    
+    def fit_predict(self,X):
+        self.fit(X);
+        return self.get_labels()

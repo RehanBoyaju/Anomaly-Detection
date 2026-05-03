@@ -1,0 +1,75 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042403000431,GBBL,40,17,100,402.4,40240.0,2026-04-24,187816742,417,Creative Securities Pvt Ltd,ABC Securities Private Limited,2026-04-24 11:18:38.820831,Garima Bikas Bank Limited
+2026042403000432,GBBL,6,17,4900,402.3,1971270.0,2026-04-24,187816743,417,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-24 11:18:38.820911,Garima Bikas Bank Limited
+2026042403000561,GBBL,57,1,31,403.1,12496.1,2026-04-24,187820794,417,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-24 11:24:27.945239,Garima Bikas Bank Limited
+2026042403000562,GBBL,59,1,39,403.1,15720.9,2026-04-24,187820795,417,Deevyaa Securities & Stock House Pvt. Ltd,Kumari Securities Private Limited,2026-04-24 11:24:27.945421,Garima Bikas Bank Limited
+2026042403000599,GBBL,32,14,100,404.0,40400.0,2026-04-24,187821737,417,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 11:25:36.066156,Garima Bikas Bank Limited
+2026042403000771,GBBL,48,57,31,407.0,12617.0,2026-04-24,187827318,417,Trishakti Securities Public Limited,Aryatara Investment & Securities,2026-04-24 11:34:35.946765,Garima Bikas Bank Limited
+2026042403000843,GBBL,47,59,176,406.0,71456.0,2026-04-24,187828972,417,Neev Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112478,Garima Bikas Bank Limited
+2026042403000844,GBBL,22,59,10,405.5,4055.0,2026-04-24,187828974,417,Siprabi Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112587,Garima Bikas Bank Limited
+2026042403000845,GBBL,17,59,200,405.1,81020.0,2026-04-24,187828976,417,ABC Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112647,Garima Bikas Bank Limited
+2026042403000846,GBBL,58,59,24,405.1,9722.4,2026-04-24,187828980,417,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112694,Garima Bikas Bank Limited
+2026042403000847,GBBL,42,59,200,405.0,81000.0,2026-04-24,187828982,417,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112740,Garima Bikas Bank Limited
+2026042403000848,GBBL,32,59,54,404.0,21816.0,2026-04-24,187828984,417,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112786,Garima Bikas Bank Limited
+2026042403000849,GBBL,58,59,30,404.0,12120.0,2026-04-24,187828986,417,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112831,Garima Bikas Bank Limited
+2026042403000850,GBBL,57,59,126,404.0,50904.0,2026-04-24,187828987,417,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:37:01.112874,Garima Bikas Bank Limited
+2026042403001372,GBBL,82,58,50,405.0,20250.0,2026-04-24,187842167,417,N.M.B. SECURITIES LIMITED,Naasa Securities Co. Ltd.,2026-04-24 12:03:45.961087,Garima Bikas Bank Limited
+2026042403001522,GBBL,48,7,1,400.0,400.0,2026-04-24,187846935,417,Trishakti Securities Public Limited,J.F. Securites (PVT) Ltd.,2026-04-24 12:13:09.316167,Garima Bikas Bank Limited
+2026042403001643,GBBL,4,29,10,407.0,4070.0,2026-04-24,187850344,417,Opal Securities Investment (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-24 12:20:16.024145,Garima Bikas Bank Limited
+2026042403002021,GBBL,6,20,405,405.2,164106.0,2026-04-24,187859163,417,Agrawal Securities (PVT) Ltd.,Sipla Securities Private Limited,2026-04-24 12:37:03.336112,Garima Bikas Bank Limited
+2026042403002068,GBBL,6,17,95,409.0,38855.0,2026-04-24,187860792,417,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-24 12:39:58.646589,Garima Bikas Bank Limited
+2026042403002227,GBBL,3,41,100,408.9,40890.0,2026-04-24,187864436,417,Arun Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-24 12:47:04.013800,Garima Bikas Bank Limited
+2026042403002291,GBBL,58,17,97,409.0,39673.0,2026-04-24,187866222,417,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-24 12:50:11.249526,Garima Bikas Bank Limited
+2026042403002351,GBBL,3,13,200,407.5,81500.0,2026-04-24,187867953,417,Arun Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-24 12:53:10.714102,Garima Bikas Bank Limited
+2026042403002449,GBBL,17,13,200,407.4,81480.0,2026-04-24,187869662,417,ABC Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-24 12:55:36.295464,Garima Bikas Bank Limited
+2026042403002450,GBBL,1,13,100,407.3,40730.0,2026-04-24,187869663,417,Kumari Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-24 12:55:36.295761,Garima Bikas Bank Limited
+2026042403002595,GBBL,77,48,150,407.2,61080.0,2026-04-24,187872277,417,Nabil Stock Dealer Ltd.,Trishakti Securities Public Limited,2026-04-24 13:00:53.369111,Garima Bikas Bank Limited
+2026042403002649,GBBL,77,16,90,407.2,36648.0,2026-04-24,187873272,417,Nabil Stock Dealer Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:03:35.093325,Garima Bikas Bank Limited
+2026042403003306,GBBL,34,4,1000,407.0,407000.0,2026-04-24,187891232,417,Vision Securities Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-24 13:44:25.613975,Garima Bikas Bank Limited
+2026042403003392,GBBL,51,16,47,407.2,19138.4,2026-04-24,187894534,417,Oxford Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:51:18.275681,Garima Bikas Bank Limited
+2026042403003639,GBBL,59,13,66,406.8,26848.8,2026-04-24,187900300,417,Deevyaa Securities & Stock House Pvt. Ltd,Thrive Brokerage House Pvt. Ltd,2026-04-24 14:02:57.049784,Garima Bikas Bank Limited
+2026042403003640,GBBL,6,13,434,406.6,176464.4,2026-04-24,187900301,417,Agrawal Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-24 14:02:57.050148,Garima Bikas Bank Limited
+2026042403003653,GBBL,6,1,100,408.0,40800.0,2026-04-24,187900481,417,Agrawal Securities (PVT) Ltd.,Kumari Securities Private Limited,2026-04-24 14:03:28.010868,Garima Bikas Bank Limited
+2026042403003654,GBBL,6,17,808,409.0,330472.0,2026-04-24,187900483,417,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-24 14:03:28.011216,Garima Bikas Bank Limited
+2026042403003655,GBBL,6,54,53,409.0,21677.0,2026-04-24,187900485,417,Agrawal Securities (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-24 14:03:28.011428,Garima Bikas Bank Limited
+2026042403003656,GBBL,6,29,39,409.0,15951.0,2026-04-24,187900488,417,Agrawal Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-24 14:03:28.011644,Garima Bikas Bank Limited
+2026042403004101,GBBL,6,46,848,408.9,346747.2,2026-04-24,187908515,417,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-24 14:17:53.252454,Garima Bikas Bank Limited
+2026042403004102,GBBL,6,29,213,409.0,87117.0,2026-04-24,187908517,417,Agrawal Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-24 14:17:53.252618,Garima Bikas Bank Limited
+2026042403004103,GBBL,6,1,319,409.0,130471.0,2026-04-24,187908519,417,Agrawal Securities (PVT) Ltd.,Kumari Securities Private Limited,2026-04-24 14:17:53.252688,Garima Bikas Bank Limited
+2026042403004104,GBBL,6,57,120,409.0,49080.0,2026-04-24,187908522,417,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-24 14:17:53.252783,Garima Bikas Bank Limited
+2026042403004300,GBBL,65,57,31,408.0,12648.0,2026-04-24,187912831,417,Sharepro Securities Private Limited,Aryatara Investment & Securities,2026-04-24 14:23:09.251320,Garima Bikas Bank Limited
+2026042403004301,GBBL,65,42,60,408.0,24480.0,2026-04-24,187912834,417,Sharepro Securities Private Limited,Sani Securities Company Ltd.,2026-04-24 14:23:09.251638,Garima Bikas Bank Limited
+2026042403004445,GBBL,4,11,200,406.7,81340.0,2026-04-24,187916143,417,Opal Securities Investment (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-24 14:28:22.198813,Garima Bikas Bank Limited
+2026042403004484,GBBL,58,71,15,407.0,6105.0,2026-04-24,187916926,417,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:29:41.807362,Garima Bikas Bank Limited
+2026042403004492,GBBL,58,71,500,407.0,203500.0,2026-04-24,187917094,417,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:30:02.593100,Garima Bikas Bank Limited
+2026042403004555,GBBL,57,71,10,407.0,4070.0,2026-04-24,187918790,417,Aryatara Investment & Securities,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:32:31.337826,Garima Bikas Bank Limited
+2026042403004574,GBBL,45,71,10,407.0,4070.0,2026-04-24,187919086,417,Imperial Securities Company Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:33:01.695013,Garima Bikas Bank Limited
+2026042403004588,GBBL,6,11,50,406.6,20330.0,2026-04-24,187919461,417,Agrawal Securities (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-24 14:33:30.659626,Garima Bikas Bank Limited
+2026042403004604,GBBL,45,71,10,407.0,4070.0,2026-04-24,187919630,417,Imperial Securities Company Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:33:46.720325,Garima Bikas Bank Limited
+2026042403004676,GBBL,42,98,1,401.0,401.0,2026-04-24,187920581,417,Sani Securities Company Ltd.,Trademow Securities Private Limited,2026-04-24 14:35:15.353817,Garima Bikas Bank Limited
+2026042403004783,GBBL,6,42,16,406.6,6505.6,2026-04-24,187922232,417,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-24 14:37:34.231099,Garima Bikas Bank Limited
+2026042403004784,GBBL,41,42,130,406.6,52858.0,2026-04-24,187922234,417,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-24 14:37:34.231436,Garima Bikas Bank Limited
+2026042403004785,GBBL,58,42,10,406.5,4065.0,2026-04-24,187922236,417,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:37:34.231651,Garima Bikas Bank Limited
+2026042403004786,GBBL,17,42,258,406.3,104825.4,2026-04-24,187922237,417,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-24 14:37:34.231860,Garima Bikas Bank Limited
+2026042403004997,GBBL,6,42,130,406.9,52897.0,2026-04-24,187927171,417,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-24 14:44:09.436318,Garima Bikas Bank Limited
+2026042403004998,GBBL,6,71,370,407.0,150590.0,2026-04-24,187927177,417,Agrawal Securities (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:44:09.436651,Garima Bikas Bank Limited
+2026042403005154,GBBL,41,71,30,407.0,12210.0,2026-04-24,187930233,417,Linch Stock Market Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:47:00.557229,Garima Bikas Bank Limited
+2026042403005303,GBBL,34,71,20,407.0,8140.0,2026-04-24,187933606,417,Vision Securities Pvt. Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:49:48.973989,Garima Bikas Bank Limited
+2026042403005342,GBBL,11,71,25,407.0,10175.0,2026-04-24,187935356,417,Malla & Malla Stock Broking Company Pvt. Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:50:52.606076,Garima Bikas Bank Limited
+2026042403005539,GBBL,58,71,10,407.0,4070.0,2026-04-24,187938919,417,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:53:43.917513,Garima Bikas Bank Limited
+2026042403005540,GBBL,58,42,20,407.0,8140.0,2026-04-24,187938921,417,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:53:43.917839,Garima Bikas Bank Limited
+2026042403005547,GBBL,58,42,10,408.0,4080.0,2026-04-24,187939160,417,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:53:53.710757,Garima Bikas Bank Limited
+2026042403005559,GBBL,53,42,680,408.0,277440.0,2026-04-24,187939541,417,Investment Management Nepal Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:54:08.654990,Garima Bikas Bank Limited
+2026042403005560,GBBL,53,45,10,408.0,4080.0,2026-04-24,187939543,417,Investment Management Nepal Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:54:08.655176,Garima Bikas Bank Limited
+2026042403005561,GBBL,53,57,880,409.0,359920.0,2026-04-24,187939545,417,Investment Management Nepal Pvt. Ltd.,Aryatara Investment & Securities,2026-04-24 14:54:08.655250,Garima Bikas Bank Limited
+2026042403005562,GBBL,53,71,1000,409.0,409000.0,2026-04-24,187939547,417,Investment Management Nepal Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:54:08.655319,Garima Bikas Bank Limited
+2026042403005563,GBBL,53,81,430,409.8,176214.0,2026-04-24,187939550,417,Investment Management Nepal Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-24 14:54:08.655387,Garima Bikas Bank Limited
+2026042403005663,GBBL,58,6,10,407.0,4070.0,2026-04-24,187941169,417,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 14:55:13.436555,Garima Bikas Bank Limited
+2026042403005706,GBBL,34,81,50,409.8,20490.0,2026-04-24,187941586,417,Vision Securities Pvt. Ltd,Aakashbhairab Securities Ltd.,2026-04-24 14:55:29.879155,Garima Bikas Bank Limited
+2026042403005918,GBBL,42,1,50,409.0,20450.0,2026-04-24,187944800,417,Sani Securities Company Ltd.,Kumari Securities Private Limited,2026-04-24 14:57:24.251270,Garima Bikas Bank Limited
+2026042403006020,GBBL,58,1,150,407.0,61050.0,2026-04-24,187946879,417,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-24 14:58:24.827961,Garima Bikas Bank Limited
+2026042403006075,GBBL,26,81,20,409.8,8196.0,2026-04-24,187948108,417,Asian Securities Private Ltd.,Aakashbhairab Securities Ltd.,2026-04-24 14:58:54.570363,Garima Bikas Bank Limited
+2026042403006153,GBBL,66,39,200,408.0,81600.0,2026-04-24,187949626,417,Miyo Securities Pvt Ltd,Sumeru Securities Pvt. Ltd.,2026-04-24 14:59:22.269879,Garima Bikas Bank Limited
+2026042403006154,GBBL,58,39,60,407.0,24420.0,2026-04-24,187949629,417,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:59:22.270034,Garima Bikas Bank Limited
+2026042403006155,GBBL,59,39,10,407.0,4070.0,2026-04-24,187949632,417,Deevyaa Securities & Stock House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-24 14:59:22.270109,Garima Bikas Bank Limited
+2026042403006191,GBBL,36,39,200,407.0,81400.0,2026-04-24,187950076,417,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:59:26.749874,Garima Bikas Bank Limited

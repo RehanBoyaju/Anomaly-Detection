@@ -1,0 +1,76 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042903000108,BFC,45,22,10,455.0,4550.0,2026-04-29,188421866,227,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 11:03:44.074585,Best Finance Company Ltd.
+2026042903000109,BFC,45,22,10,450.0,4500.0,2026-04-29,188421868,227,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 11:03:44.074693,Best Finance Company Ltd.
+2026042903000110,BFC,81,22,80,450.0,36000.0,2026-04-29,188421869,227,Aakashbhairab Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 11:03:44.074765,Best Finance Company Ltd.
+2026042903000514,BFC,49,57,10,454.1,4541.0,2026-04-29,188451991,227,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-29 11:25:40.164353,Best Finance Company Ltd.
+2026042903000702,BFC,88,48,10,463.9,4639.0,2026-04-29,188459395,227,Blue Chip Securities Ltd,Trishakti Securities Public Limited,2026-04-29 11:32:46.205143,Best Finance Company Ltd.
+2026042903001032,BFC,42,58,400,458.0,183200.0,2026-04-29,188472773,227,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:46:43.466278,Best Finance Company Ltd.
+2026042903001045,BFC,74,58,10,458.0,4580.0,2026-04-29,188473656,227,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,2026-04-29 11:47:37.427524,Best Finance Company Ltd.
+2026042903001084,BFC,7,49,250,455.0,113750.0,2026-04-29,188475041,227,J.F. Securites (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 11:49:29.043522,Best Finance Company Ltd.
+2026042903001089,BFC,7,51,75,455.0,34125.0,2026-04-29,188475325,227,J.F. Securites (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-29 11:49:50.710334,Best Finance Company Ltd.
+2026042903001091,BFC,7,58,75,455.0,34125.0,2026-04-29,188475590,227,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:50:03.446397,Best Finance Company Ltd.
+2026042903001092,BFC,45,58,100,455.0,45500.0,2026-04-29,188475592,227,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:50:03.446594,Best Finance Company Ltd.
+2026042903001093,BFC,14,58,100,455.0,45500.0,2026-04-29,188475594,227,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:50:03.446728,Best Finance Company Ltd.
+2026042903001120,BFC,49,58,90,453.6,40824.0,2026-04-29,188477056,227,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:51:32.179649,Best Finance Company Ltd.
+2026042903001121,BFC,26,58,410,453.5,185935.0,2026-04-29,188477057,227,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:51:32.179859,Best Finance Company Ltd.
+2026042903001147,BFC,6,58,20,453.6,9072.0,2026-04-29,188477686,227,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:52:14.991418,Best Finance Company Ltd.
+2026042903001148,BFC,26,58,70,453.5,31745.0,2026-04-29,188477687,227,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:52:14.991534,Best Finance Company Ltd.
+2026042903001230,BFC,26,58,20,453.5,9070.0,2026-04-29,188479639,227,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:54:05.407958,Best Finance Company Ltd.
+2026042903001233,BFC,28,58,100,453.1,45310.0,2026-04-29,188479842,227,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:54:22.187709,Best Finance Company Ltd.
+2026042903001245,BFC,48,58,50,453.0,22650.0,2026-04-29,188480080,227,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-29 11:54:36.479171,Best Finance Company Ltd.
+2026042903001246,BFC,52,58,50,453.0,22650.0,2026-04-29,188480082,227,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-29 11:54:36.479275,Best Finance Company Ltd.
+2026042903001427,BFC,14,58,20,452.5,9050.0,2026-04-29,188486292,227,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 12:00:44.419395,Best Finance Company Ltd.
+2026042903001428,BFC,81,58,500,452.2,226100.0,2026-04-29,188486294,227,Aakashbhairab Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-29 12:00:44.419532,Best Finance Company Ltd.
+2026042903001444,BFC,62,58,46,451.5,20769.0,2026-04-29,188486581,227,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-29 12:01:07.211911,Best Finance Company Ltd.
+2026042903001462,BFC,62,58,190,451.5,85785.0,2026-04-29,188487033,227,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-29 12:01:39.908490,Best Finance Company Ltd.
+2026042903001489,BFC,62,58,100,451.5,45150.0,2026-04-29,188487749,227,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-29 12:02:28.926214,Best Finance Company Ltd.
+2026042903001491,BFC,62,57,14,451.5,6321.0,2026-04-29,188487828,227,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-29 12:02:36.540754,Best Finance Company Ltd.
+2026042903001492,BFC,14,57,76,451.2,34291.2,2026-04-29,188487829,227,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-29 12:02:36.540944,Best Finance Company Ltd.
+2026042903001502,BFC,14,58,500,451.2,225600.0,2026-04-29,188488157,227,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 12:03:01.115555,Best Finance Company Ltd.
+2026042903001507,BFC,14,58,25,451.2,11280.0,2026-04-29,188488354,227,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 12:03:14.135697,Best Finance Company Ltd.
+2026042903001720,BFC,34,34,100,452.0,45200.0,2026-04-29,188495546,227,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-29 12:11:24.104416,Best Finance Company Ltd.
+2026042903001721,BFC,34,34,95,451.3,42873.5,2026-04-29,188495547,227,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-29 12:11:24.104650,Best Finance Company Ltd.
+2026042903001865,BFC,34,58,10,451.3,4513.0,2026-04-29,188500455,227,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 12:17:24.642637,Best Finance Company Ltd.
+2026042903002655,BFC,4,14,10,452.1,4521.0,2026-04-29,188526235,227,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 12:53:54.356684,Best Finance Company Ltd.
+2026042903003057,BFC,14,45,25,452.3,11307.5,2026-04-29,188538692,227,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:14:32.936943,Best Finance Company Ltd.
+2026042903003058,BFC,6,45,100,452.2,45220.0,2026-04-29,188538694,227,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:14:32.937126,Best Finance Company Ltd.
+2026042903003059,BFC,48,45,50,452.2,22610.0,2026-04-29,188538696,227,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:14:32.937184,Best Finance Company Ltd.
+2026042903003060,BFC,4,45,90,452.1,40689.0,2026-04-29,188538698,227,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:14:32.937344,Best Finance Company Ltd.
+2026042903003061,BFC,41,45,100,452.1,45210.0,2026-04-29,188538700,227,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:14:32.937407,Best Finance Company Ltd.
+2026042903003062,BFC,46,45,200,452.0,90400.0,2026-04-29,188538702,227,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:14:32.937464,Best Finance Company Ltd.
+2026042903003063,BFC,58,45,50,452.0,22600.0,2026-04-29,188538704,227,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:14:32.937516,Best Finance Company Ltd.
+2026042903003115,BFC,45,45,11,452.0,4972.0,2026-04-29,188539498,227,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:16:03.530704,Best Finance Company Ltd.
+2026042903003172,BFC,11,45,290,452.0,131080.0,2026-04-29,188540324,227,Malla & Malla Stock Broking Company Pvt. Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:17:49.584179,Best Finance Company Ltd.
+2026042903003205,BFC,34,4,395,451.3,178263.5,2026-04-29,188541016,227,Vision Securities Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-29 13:19:09.453401,Best Finance Company Ltd.
+2026042903003206,BFC,45,4,10,451.3,4513.0,2026-04-29,188541018,227,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-29 13:19:09.453641,Best Finance Company Ltd.
+2026042903003207,BFC,14,4,245,451.2,110544.0,2026-04-29,188541019,227,Nepal Stock House (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-29 13:19:09.453800,Best Finance Company Ltd.
+2026042903003325,BFC,57,45,84,452.0,37968.0,2026-04-29,188543533,227,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:23:08.403110,Best Finance Company Ltd.
+2026042903003326,BFC,57,45,66,452.0,29832.0,2026-04-29,188543536,227,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:23:08.403306,Best Finance Company Ltd.
+2026042903003522,BFC,25,45,100,452.0,45200.0,2026-04-29,188547156,227,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:29:31.382999,Best Finance Company Ltd.
+2026042903003541,BFC,38,45,100,452.0,45200.0,2026-04-29,188547844,227,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:30:29.295937,Best Finance Company Ltd.
+2026042903003559,BFC,41,45,100,452.0,45200.0,2026-04-29,188548448,227,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:31:23.796129,Best Finance Company Ltd.
+2026042903003780,BFC,21,45,20,452.0,9040.0,2026-04-29,188551796,227,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:37:29.725880,Best Finance Company Ltd.
+2026042903003802,BFC,33,45,100,452.0,45200.0,2026-04-29,188552480,227,Dakshinkali Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:39:09.838410,Best Finance Company Ltd.
+2026042903003874,BFC,62,45,14,452.0,6328.0,2026-04-29,188553837,227,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:41:54.445158,Best Finance Company Ltd.
+2026042903003875,BFC,62,45,286,452.0,129272.0,2026-04-29,188553840,227,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:41:54.445306,Best Finance Company Ltd.
+2026042903003984,BFC,49,45,214,451.7,96663.8,2026-04-29,188556767,227,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:46:41.198387,Best Finance Company Ltd.
+2026042903004131,BFC,49,44,46,451.7,20778.2,2026-04-29,188560214,227,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 13:52:44.920224,Best Finance Company Ltd.
+2026042903004818,BFC,38,51,200,452.0,90400.0,2026-04-29,188573575,227,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-29 14:15:32.912856,Best Finance Company Ltd.
+2026042903005287,BFC,21,46,200,454.9,90980.0,2026-04-29,188583918,227,Midas Stock Broking Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-29 14:28:47.660605,Best Finance Company Ltd.
+2026042903005662,BFC,44,46,100,454.9,45490.0,2026-04-29,188592048,227,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-29 14:37:11.439212,Best Finance Company Ltd.
+2026042903005677,BFC,44,46,100,454.9,45490.0,2026-04-29,188592413,227,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-29 14:37:36.487767,Best Finance Company Ltd.
+2026042903005689,BFC,44,46,75,454.9,34117.5,2026-04-29,188592737,227,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-29 14:37:55.064121,Best Finance Company Ltd.
+2026042903005781,BFC,62,45,10,455.0,4550.0,2026-04-29,188594929,227,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:39:47.003200,Best Finance Company Ltd.
+2026042903005782,BFC,62,46,48,455.0,21840.0,2026-04-29,188594931,227,Capital Max Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-29 14:39:47.003468,Best Finance Company Ltd.
+2026042903005783,BFC,62,58,10,455.0,4550.0,2026-04-29,188594933,227,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-29 14:39:47.003526,Best Finance Company Ltd.
+2026042903005784,BFC,62,46,42,455.0,19110.0,2026-04-29,188594936,227,Capital Max Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-29 14:39:47.003587,Best Finance Company Ltd.
+2026042903005976,BFC,44,34,25,454.9,11372.5,2026-04-29,188599271,227,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 14:43:45.473059,Best Finance Company Ltd.
+2026042903006021,BFC,29,13,65,452.6,29419.0,2026-04-29,188600051,227,Trisul Securities & Invt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-29 14:44:33.174057,Best Finance Company Ltd.
+2026042903006053,BFC,29,34,25,452.6,11315.0,2026-04-29,188600691,227,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 14:45:08.195931,Best Finance Company Ltd.
+2026042903006101,BFC,56,58,16,452.7,7243.2,2026-04-29,188601940,227,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:46:09.256575,Best Finance Company Ltd.
+2026042903006102,BFC,29,58,110,452.6,49786.0,2026-04-29,188601942,227,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:46:09.256715,Best Finance Company Ltd.
+2026042903006103,BFC,53,58,24,452.5,10860.0,2026-04-29,188601943,227,Investment Management Nepal Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:46:09.256775,Best Finance Company Ltd.
+2026042903006127,BFC,53,48,86,452.5,38915.0,2026-04-29,188602254,227,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-29 14:46:22.713172,Best Finance Company Ltd.
+2026042903006316,BFC,21,48,14,452.5,6335.0,2026-04-29,188605885,227,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-29 14:49:25.260945,Best Finance Company Ltd.
+2026042903006412,BFC,49,46,50,455.0,22750.0,2026-04-29,188608044,227,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-29 14:51:05.937910,Best Finance Company Ltd.
+2026042903006498,BFC,58,48,40,453.0,18120.0,2026-04-29,188609579,227,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-29 14:52:09.659185,Best Finance Company Ltd.

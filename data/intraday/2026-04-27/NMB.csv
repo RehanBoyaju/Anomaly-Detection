@@ -1,0 +1,103 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042701000005,NMB,7,62,10,257.0,2570.0,2026-04-27,187953270,238,J.F. Securites (PVT) Ltd.,Capital Max Securities Ltd,2026-04-27 10:46:00.070013,NMB Bank Limited
+2026042701000006,NMB,7,62,20,257.0,5140.0,2026-04-27,187953272,238,J.F. Securites (PVT) Ltd.,Capital Max Securities Ltd,2026-04-27 10:46:00.070048,NMB Bank Limited
+2026042701000120,NMB,41,62,970,250.0,242500.0,2026-04-27,187953667,238,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-27 11:00:24.144121,NMB Bank Limited
+2026042701000121,NMB,41,46,13,252.2,3278.6,2026-04-27,187953669,238,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-27 11:00:24.144241,NMB Bank Limited
+2026042701000122,NMB,41,42,17,255.0,4335.0,2026-04-27,187953672,238,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-27 11:00:24.144326,NMB Bank Limited
+2026042701000241,NMB,42,58,10,240.6,2406.0,2026-04-27,187953993,238,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-27 11:00:50.783030,NMB Bank Limited
+2026042701001054,NMB,7,34,10,247.8,2478.0,2026-04-27,187956134,238,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-27 11:03:52.868355,NMB Bank Limited
+2026042701001237,NMB,22,4,100,241.0,24100.0,2026-04-27,187956607,238,Siprabi Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-27 11:04:29.728074,NMB Bank Limited
+2026042701001471,NMB,76,34,10,247.8,2478.0,2026-04-27,187957304,238,Machhapuchchhre Securities Limited,Vision Securities Pvt. Ltd,2026-04-27 11:05:31.089183,NMB Bank Limited
+2026042701001894,NMB,51,36,10,241.2,2412.0,2026-04-27,187958437,238,Oxford Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 11:07:05.626169,NMB Bank Limited
+2026042701002911,NMB,76,43,10,247.8,2478.0,2026-04-27,187960926,238,Machhapuchchhre Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-27 11:09:29.783995,NMB Bank Limited
+2026042701003641,NMB,51,43,40,247.7,9908.0,2026-04-27,187962750,238,Oxford Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-27 11:11:08.273310,NMB Bank Limited
+2026042701007353,NMB,17,33,60,246.9,14814.0,2026-04-27,187974064,238,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-27 11:24:37.002977,NMB Bank Limited
+2026042701009035,NMB,50,14,40,245.4,9816.0,2026-04-27,187980100,238,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 11:32:32.130902,NMB Bank Limited
+2026042701009086,NMB,11,11,62,245.1,15196.2,2026-04-27,187980291,238,Malla & Malla Stock Broking Company Pvt. Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-27 11:32:50.598517,NMB Bank Limited
+2026042701009190,NMB,11,43,38,245.1,9313.8,2026-04-27,187980684,238,Malla & Malla Stock Broking Company Pvt. Limited,South Asian Bulls Pvt. Ltd.,2026-04-27 11:33:18.962381,NMB Bank Limited
+2026042701009191,NMB,51,43,50,245.1,12255.0,2026-04-27,187980686,238,Oxford Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-27 11:33:18.962498,NMB Bank Limited
+2026042701009253,NMB,47,33,500,245.0,122500.0,2026-04-27,187980899,238,Neev Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-27 11:33:35.367452,NMB Bank Limited
+2026042701009304,NMB,47,28,200,245.0,49000.0,2026-04-27,187981069,238,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-27 11:33:46.608405,NMB Bank Limited
+2026042701010056,NMB,42,6,100,243.0,24300.0,2026-04-27,187983784,238,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 11:37:21.105326,NMB Bank Limited
+2026042701010057,NMB,51,6,400,243.0,97200.0,2026-04-27,187983786,238,Oxford Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 11:37:21.105475,NMB Bank Limited
+2026042701011035,NMB,52,6,73,243.0,17739.0,2026-04-27,187987087,238,Sundhara Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-27 11:42:08.537769,NMB Bank Limited
+2026042701011183,NMB,57,42,241,244.0,58804.0,2026-04-27,187987654,238,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-27 11:43:09.276163,NMB Bank Limited
+2026042701012974,NMB,52,77,20,243.0,4860.0,2026-04-27,187993285,238,Sundhara Securities Limited,Nabil Stock Dealer Ltd.,2026-04-27 11:51:45.473617,NMB Bank Limited
+2026042701014110,NMB,16,42,10,244.0,2440.0,2026-04-27,187996866,238,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-27 11:57:10.868258,NMB Bank Limited
+2026042701014942,NMB,58,42,10,244.0,2440.0,2026-04-27,187999548,238,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-27 12:01:56.917012,NMB Bank Limited
+2026042701015012,NMB,49,19,20,243.0,4860.0,2026-04-27,187999764,238,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:02:27.071291,NMB Bank Limited
+2026042701015013,NMB,35,19,38,242.0,9196.0,2026-04-27,187999765,238,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:02:27.071612,NMB Bank Limited
+2026042701015959,NMB,76,42,10,244.0,2440.0,2026-04-27,188003038,238,Machhapuchchhre Securities Limited,Sani Securities Company Ltd.,2026-04-27 12:08:57.383284,NMB Bank Limited
+2026042701018445,NMB,45,42,100,242.2,24220.0,2026-04-27,188011704,238,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 12:25:19.174220,NMB Bank Limited
+2026042701018484,NMB,42,42,100,242.2,24220.0,2026-04-27,188011820,238,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-27 12:25:32.735360,NMB Bank Limited
+2026042701018915,NMB,42,32,40,242.1,9684.0,2026-04-27,188013344,238,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 12:28:35.059151,NMB Bank Limited
+2026042701018916,NMB,35,32,106,242.0,25652.0,2026-04-27,188013346,238,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 12:28:35.059465,NMB Bank Limited
+2026042701018917,NMB,52,32,235,242.0,56870.0,2026-04-27,188013347,238,Sundhara Securities Limited,Premier Securities Company Ltd.,2026-04-27 12:28:35.059665,NMB Bank Limited
+2026042701019135,NMB,52,57,50,242.0,12100.0,2026-04-27,188013977,238,Sundhara Securities Limited,Aryatara Investment & Securities,2026-04-27 12:29:51.398511,NMB Bank Limited
+2026042701019252,NMB,52,42,274,242.0,66308.0,2026-04-27,188014369,238,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-27 12:30:47.160404,NMB Bank Limited
+2026042701019372,NMB,52,45,112,242.0,27104.0,2026-04-27,188014785,238,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 12:31:44.504800,NMB Bank Limited
+2026042701019713,NMB,44,34,39,244.0,9516.0,2026-04-27,188016012,238,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 12:34:18.760064,NMB Bank Limited
+2026042701021646,NMB,52,14,11,242.0,2662.0,2026-04-27,188023263,238,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-27 12:48:48.000171,NMB Bank Limited
+2026042701022729,NMB,21,34,20,244.0,4880.0,2026-04-27,188027728,238,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-27 12:58:31.522941,NMB Bank Limited
+2026042701023240,NMB,51,88,20,243.0,4860.0,2026-04-27,188029708,238,Oxford Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-27 13:01:53.570150,NMB Bank Limited
+2026042701023532,NMB,45,88,20,242.1,4842.0,2026-04-27,188030969,238,Imperial Securities Company Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-27 13:04:19.104581,NMB Bank Limited
+2026042701024649,NMB,42,48,20,242.3,4846.0,2026-04-27,188035463,238,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-27 13:13:48.815000,NMB Bank Limited
+2026042701026610,NMB,25,51,45,242.3,10903.5,2026-04-27,188042388,238,Sweta Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-27 13:25:04.875652,NMB Bank Limited
+2026042701026611,NMB,45,51,22,242.2,5328.4,2026-04-27,188042389,238,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-27 13:25:04.875813,NMB Bank Limited
+2026042701026771,NMB,22,34,41,244.0,10004.0,2026-04-27,188043029,238,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 13:26:11.691297,NMB Bank Limited
+2026042701026772,NMB,22,41,35,244.0,8540.0,2026-04-27,188043031,238,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:26:11.691649,NMB Bank Limited
+2026042701026773,NMB,22,43,242,244.0,59048.0,2026-04-27,188043033,238,Siprabi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-27 13:26:11.691883,NMB Bank Limited
+2026042701026774,NMB,22,48,21,244.0,5124.0,2026-04-27,188043035,238,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-27 13:26:11.692131,NMB Bank Limited
+2026042701026775,NMB,22,21,116,244.0,28304.0,2026-04-27,188043037,238,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-27 13:26:11.692366,NMB Bank Limited
+2026042701026776,NMB,22,38,50,244.0,12200.0,2026-04-27,188043039,238,Siprabi Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 13:26:11.692581,NMB Bank Limited
+2026042701026777,NMB,22,14,10,244.5,2445.0,2026-04-27,188043042,238,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 13:26:11.692792,NMB Bank Limited
+2026042701028995,NMB,22,58,37,242.3,8965.1,2026-04-27,188051409,238,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:41:50.347856,NMB Bank Limited
+2026042701029181,NMB,53,62,17,242.4,4120.8,2026-04-27,188052145,238,Investment Management Nepal Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 13:43:12.691541,NMB Bank Limited
+2026042701030127,NMB,89,32,45,243.0,10935.0,2026-04-27,188055992,238,Global IME Securities Limited,Premier Securities Company Ltd.,2026-04-27 13:49:39.420942,NMB Bank Limited
+2026042701030128,NMB,11,32,100,243.0,24300.0,2026-04-27,188055994,238,Malla & Malla Stock Broking Company Pvt. Limited,Premier Securities Company Ltd.,2026-04-27 13:49:39.421304,NMB Bank Limited
+2026042701030129,NMB,38,32,500,243.0,121500.0,2026-04-27,188055996,238,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-27 13:49:39.421544,NMB Bank Limited
+2026042701030285,NMB,32,32,100,242.5,24250.0,2026-04-27,188056624,238,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 13:50:46.378083,NMB Bank Limited
+2026042701030286,NMB,22,32,255,242.3,61786.5,2026-04-27,188056625,238,Siprabi Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 13:50:46.378249,NMB Bank Limited
+2026042701031553,NMB,58,14,20,243.5,4870.0,2026-04-27,188061540,238,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:00:31.491841,NMB Bank Limited
+2026042701032391,NMB,14,14,70,243.5,17045.0,2026-04-27,188064663,238,Nepal Stock House (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:06:04.521977,NMB Bank Limited
+2026042701033394,NMB,58,52,80,243.6,19488.0,2026-04-27,188068573,238,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-27 14:12:44.908875,NMB Bank Limited
+2026042701034069,NMB,58,19,20,243.6,4872.0,2026-04-27,188071428,238,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 14:17:37.211460,NMB Bank Limited
+2026042701034070,NMB,14,19,132,243.5,32142.0,2026-04-27,188071430,238,Nepal Stock House (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 14:17:37.211796,NMB Bank Limited
+2026042701034071,NMB,34,19,348,243.5,84738.0,2026-04-27,188071431,238,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-27 14:17:37.212041,NMB Bank Limited
+2026042701035024,NMB,34,7,112,243.5,27272.0,2026-04-27,188075385,238,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-27 14:23:21.658361,NMB Bank Limited
+2026042701035039,NMB,34,58,20,243.5,4870.0,2026-04-27,188075419,238,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-27 14:23:24.780534,NMB Bank Limited
+2026042701035173,NMB,34,58,20,243.5,4870.0,2026-04-27,188075838,238,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-27 14:23:55.045489,NMB Bank Limited
+2026042701035174,NMB,57,58,20,243.5,4870.0,2026-04-27,188075840,238,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-27 14:23:55.045862,NMB Bank Limited
+2026042701035175,NMB,75,58,15,243.5,3652.5,2026-04-27,188075841,238,N.I.M.B. Stock Markets Limited,Naasa Securities Co. Ltd.,2026-04-27 14:23:55.046130,NMB Bank Limited
+2026042701035188,NMB,75,43,30,243.5,7305.0,2026-04-27,188075957,238,N.I.M.B. Stock Markets Limited,South Asian Bulls Pvt. Ltd.,2026-04-27 14:24:04.678836,NMB Bank Limited
+2026042701035833,NMB,42,5,10,244.0,2440.0,2026-04-27,188078996,238,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-27 14:27:30.998582,NMB Bank Limited
+2026042701036048,NMB,41,5,50,244.0,12200.0,2026-04-27,188079842,238,Linch Stock Market Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-27 14:28:36.938258,NMB Bank Limited
+2026042701036916,NMB,58,5,40,244.0,9760.0,2026-04-27,188083324,238,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-27 14:33:51.510313,NMB Bank Limited
+2026042701037031,NMB,22,5,57,244.0,13908.0,2026-04-27,188083765,238,Siprabi Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-27 14:34:26.668392,NMB Bank Limited
+2026042701037032,NMB,22,14,60,244.2,14652.0,2026-04-27,188083767,238,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:34:26.668837,NMB Bank Limited
+2026042701037033,NMB,22,13,214,244.2,52258.8,2026-04-27,188083769,238,Siprabi Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:34:26.669180,NMB Bank Limited
+2026042701037034,NMB,22,7,13,244.9,3183.7,2026-04-27,188083771,238,Siprabi Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:34:26.669420,NMB Bank Limited
+2026042701037035,NMB,22,50,100,244.9,24490.0,2026-04-27,188083773,238,Siprabi Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 14:34:26.669661,NMB Bank Limited
+2026042701037036,NMB,22,85,300,244.9,73470.0,2026-04-27,188083775,238,Siprabi Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-27 14:34:26.669986,NMB Bank Limited
+2026042701037037,NMB,22,85,200,244.9,48980.0,2026-04-27,188083777,238,Siprabi Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-27 14:34:26.670239,NMB Bank Limited
+2026042701037038,NMB,22,16,56,245.0,13720.0,2026-04-27,188083780,238,Siprabi Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:34:26.670539,NMB Bank Limited
+2026042701039071,NMB,46,21,50,244.6,12230.0,2026-04-27,188091357,238,Kalika Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-27 14:44:17.337663,NMB Bank Limited
+2026042701039174,NMB,46,7,297,244.6,72646.2,2026-04-27,188091726,238,Kalika Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:44:50.700235,NMB Bank Limited
+2026042701039961,NMB,14,7,100,244.0,24400.0,2026-04-27,188094870,238,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:48:05.895537,NMB Bank Limited
+2026042701040116,NMB,75,43,13,243.5,3165.5,2026-04-27,188095592,238,N.I.M.B. Stock Markets Limited,South Asian Bulls Pvt. Ltd.,2026-04-27 14:48:48.119844,NMB Bank Limited
+2026042701040282,NMB,22,52,130,243.5,31655.0,2026-04-27,188096395,238,Siprabi Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-27 14:49:36.005963,NMB Bank Limited
+2026042701040283,NMB,22,7,10,244.0,2440.0,2026-04-27,188096398,238,Siprabi Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:49:36.006370,NMB Bank Limited
+2026042701040800,NMB,36,57,168,243.0,40824.0,2026-04-27,188098671,238,Secured Securities Ltd.,Aryatara Investment & Securities,2026-04-27 14:51:33.121073,NMB Bank Limited
+2026042701040801,NMB,36,7,82,244.0,20008.0,2026-04-27,188098674,238,Secured Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:51:33.121483,NMB Bank Limited
+2026042701041079,NMB,33,21,50,243.0,12150.0,2026-04-27,188100129,238,Dakshinkali Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-27 14:52:50.586188,NMB Bank Limited
+2026042701041080,NMB,33,7,303,243.9,73901.7,2026-04-27,188100131,238,Dakshinkali Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:52:50.586421,NMB Bank Limited
+2026042701041081,NMB,33,7,1147,244.0,279868.0,2026-04-27,188100134,238,Dakshinkali Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:52:50.586536,NMB Bank Limited
+2026042701041131,NMB,33,48,490,243.0,119070.0,2026-04-27,188100287,238,Dakshinkali Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-27 14:52:59.192938,NMB Bank Limited
+2026042701041257,NMB,33,48,490,243.0,119070.0,2026-04-27,188100999,238,Dakshinkali Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-27 14:53:28.978826,NMB Bank Limited
+2026042701041376,NMB,33,48,490,243.0,119070.0,2026-04-27,188101519,238,Dakshinkali Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-27 14:53:56.124935,NMB Bank Limited
+2026042701041665,NMB,33,48,388,243.0,94284.0,2026-04-27,188102977,238,Dakshinkali Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-27 14:55:03.539462,NMB Bank Limited
+2026042701041693,NMB,42,5,1,235.8,235.8,2026-04-27,188103089,238,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-27 14:55:08.602354,NMB Bank Limited
+2026042701042004,NMB,33,7,161,244.0,39284.0,2026-04-27,188104393,238,Dakshinkali Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:56:03.956200,NMB Bank Limited
+2026042701042005,NMB,33,37,1000,244.0,244000.0,2026-04-27,188104396,238,Dakshinkali Investment & Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 14:56:03.956552,NMB Bank Limited
+2026042701043159,NMB,22,41,50,244.6,12230.0,2026-04-27,188109719,238,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 14:58:46.690643,NMB Bank Limited
+2026042701043160,NMB,22,16,10,245.0,2450.0,2026-04-27,188109722,238,Siprabi Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:58:46.690718,NMB Bank Limited

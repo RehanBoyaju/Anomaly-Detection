@@ -1,0 +1,313 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042904000003,AKPL,51,47,500,285.4,142700.0,2026-04-29,188418026,2757,Oxford Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-29 10:46:00.069886,Arun Kabeli Power Ltd.
+2026042904000023,AKPL,47,17,10,270.1,2701.0,2026-04-29,188418839,2757,Neev Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-29 11:01:12.498357,Arun Kabeli Power Ltd.
+2026042904000029,AKPL,47,71,440,270.1,118844.0,2026-04-29,188419420,2757,Neev Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 11:01:42.057244,Arun Kabeli Power Ltd.
+2026042904000030,AKPL,47,71,1000,266.7,266700.0,2026-04-29,188419422,2757,Neev Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 11:01:42.057353,Arun Kabeli Power Ltd.
+2026042904000031,AKPL,11,71,1000,266.6,266600.0,2026-04-29,188419424,2757,Malla & Malla Stock Broking Company Pvt. Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 11:01:42.057404,Arun Kabeli Power Ltd.
+2026042904000032,AKPL,49,71,99,266.5,26383.5,2026-04-29,188419426,2757,Online Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 11:01:42.057454,Arun Kabeli Power Ltd.
+2026042904000033,AKPL,41,71,100,266.0,26600.0,2026-04-29,188419428,2757,Linch Stock Market Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 11:01:42.057506,Arun Kabeli Power Ltd.
+2026042904000037,AKPL,33,71,361,266.0,96026.0,2026-04-29,188419665,2757,Dakshinkali Investment & Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 11:01:55.784166,Arun Kabeli Power Ltd.
+2026042904000055,AKPL,58,51,200,271.0,54200.0,2026-04-29,188420574,2757,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-29 11:02:39.651216,Arun Kabeli Power Ltd.
+2026042904000056,AKPL,38,51,30,270.1,8103.0,2026-04-29,188420576,2757,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-29 11:02:39.651368,Arun Kabeli Power Ltd.
+2026042904000057,AKPL,34,51,100,266.5,26650.0,2026-04-29,188420579,2757,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-29 11:02:39.651426,Arun Kabeli Power Ltd.
+2026042904000058,AKPL,32,51,170,266.1,45237.0,2026-04-29,188420581,2757,Premier Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-29 11:02:39.651476,Arun Kabeli Power Ltd.
+2026042904000063,AKPL,38,57,10,270.0,2700.0,2026-04-29,188421109,2757,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-29 11:03:00.912760,Arun Kabeli Power Ltd.
+2026042904000104,AKPL,46,36,23,273.0,6279.0,2026-04-29,188423318,2757,Kalika Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-29 11:04:48.953750,Arun Kabeli Power Ltd.
+2026042904000140,AKPL,38,44,190,270.0,51300.0,2026-04-29,188424347,2757,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:05:41.998610,Arun Kabeli Power Ltd.
+2026042904000356,AKPL,36,48,690,271.1,187059.0,2026-04-29,188430102,2757,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-29 11:10:12.560676,Arun Kabeli Power Ltd.
+2026042904000357,AKPL,14,48,92,271.0,24932.0,2026-04-29,188430103,2757,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-29 11:10:12.561006,Arun Kabeli Power Ltd.
+2026042904000361,AKPL,14,80,208,271.0,56368.0,2026-04-29,188430502,2757,Nepal Stock House (PVT) Ltd.,Indira securities pvt. ltd,2026-04-29 11:10:36.899844,Arun Kabeli Power Ltd.
+2026042904000362,AKPL,19,80,200,271.0,54200.0,2026-04-29,188430504,2757,Nepal Investment And Securities Trading Private Limited,Indira securities pvt. ltd,2026-04-29 11:10:36.900027,Arun Kabeli Power Ltd.
+2026042904000363,AKPL,43,80,200,270.0,54000.0,2026-04-29,188430506,2757,South Asian Bulls Pvt. Ltd.,Indira securities pvt. ltd,2026-04-29 11:10:36.900101,Arun Kabeli Power Ltd.
+2026042904000364,AKPL,41,80,392,270.0,105840.0,2026-04-29,188430507,2757,Linch Stock Market Ltd.,Indira securities pvt. ltd,2026-04-29 11:10:36.900173,Arun Kabeli Power Ltd.
+2026042904000473,AKPL,41,80,88,270.0,23760.0,2026-04-29,188434318,2757,Linch Stock Market Ltd.,Indira securities pvt. ltd,2026-04-29 11:13:06.449192,Arun Kabeli Power Ltd.
+2026042904000474,AKPL,36,80,200,269.0,53800.0,2026-04-29,188434320,2757,Secured Securities Ltd.,Indira securities pvt. ltd,2026-04-29 11:13:06.449514,Arun Kabeli Power Ltd.
+2026042904000510,AKPL,42,80,185,269.0,49765.0,2026-04-29,188436176,2757,Sani Securities Company Ltd.,Indira securities pvt. ltd,2026-04-29 11:14:26.531663,Arun Kabeli Power Ltd.
+2026042904000525,AKPL,41,80,27,269.0,7263.0,2026-04-29,188436649,2757,Linch Stock Market Ltd.,Indira securities pvt. ltd,2026-04-29 11:14:43.443560,Arun Kabeli Power Ltd.
+2026042904000804,AKPL,49,44,65,270.0,17550.0,2026-04-29,188446504,2757,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:21:37.955073,Arun Kabeli Power Ltd.
+2026042904000898,AKPL,45,44,208,270.0,56160.0,2026-04-29,188449147,2757,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:23:28.617791,Arun Kabeli Power Ltd.
+2026042904000899,AKPL,45,58,12,270.0,3240.0,2026-04-29,188449149,2757,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:23:28.618220,Arun Kabeli Power Ltd.
+2026042904000900,AKPL,45,90,175,270.0,47250.0,2026-04-29,188449151,2757,Imperial Securities Company Pvt. Ltd.,Sajilo Broker Limited,2026-04-29 11:23:28.618500,Arun Kabeli Power Ltd.
+2026042904001278,AKPL,54,4,200,270.1,54020.0,2026-04-29,188459489,2757,Sewa Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-29 11:32:54.073153,Arun Kabeli Power Ltd.
+2026042904001282,AKPL,8,60,74,271.0,20054.0,2026-04-29,188459742,2757,Brilliant Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-29 11:33:03.633788,Arun Kabeli Power Ltd.
+2026042904001345,AKPL,32,44,100,270.1,27010.0,2026-04-29,188462294,2757,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:35:12.856110,Arun Kabeli Power Ltd.
+2026042904001346,AKPL,45,44,105,270.0,28350.0,2026-04-29,188462296,2757,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:35:12.856572,Arun Kabeli Power Ltd.
+2026042904001347,AKPL,51,44,200,270.0,54000.0,2026-04-29,188462298,2757,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:35:12.856851,Arun Kabeli Power Ltd.
+2026042904001348,AKPL,43,44,195,270.0,52650.0,2026-04-29,188462299,2757,South Asian Bulls Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:35:12.857123,Arun Kabeli Power Ltd.
+2026042904001574,AKPL,43,38,30,270.0,8100.0,2026-04-29,188466171,2757,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 11:39:16.071661,Arun Kabeli Power Ltd.
+2026042904001779,AKPL,43,4,10,270.0,2700.0,2026-04-29,188469941,2757,South Asian Bulls Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-29 11:43:27.549881,Arun Kabeli Power Ltd.
+2026042904001781,AKPL,43,13,65,270.0,17550.0,2026-04-29,188469974,2757,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-29 11:43:30.663250,Arun Kabeli Power Ltd.
+2026042904001782,AKPL,100,13,10,270.0,2700.0,2026-04-29,188469976,2757,Sunrise Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-29 11:43:30.663542,Arun Kabeli Power Ltd.
+2026042904001783,AKPL,19,13,25,270.0,6750.0,2026-04-29,188469977,2757,Nepal Investment And Securities Trading Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-29 11:43:30.663664,Arun Kabeli Power Ltd.
+2026042904001816,AKPL,19,32,25,270.0,6750.0,2026-04-29,188470648,2757,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,2026-04-29 11:44:23.272654,Arun Kabeli Power Ltd.
+2026042904001833,AKPL,14,94,1000,269.4,269400.0,2026-04-29,188470879,2757,Nepal Stock House (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-29 11:44:36.359677,Arun Kabeli Power Ltd.
+2026042904002069,AKPL,41,32,50,270.0,13500.0,2026-04-29,188474368,2757,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-29 11:48:37.501672,Arun Kabeli Power Ltd.
+2026042904002079,AKPL,19,32,10,270.0,2700.0,2026-04-29,188474602,2757,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,2026-04-29 11:48:57.409724,Arun Kabeli Power Ltd.
+2026042904002103,AKPL,1,41,100,269.0,26900.0,2026-04-29,188475045,2757,Kumari Securities Private Limited,Linch Stock Market Ltd.,2026-04-29 11:49:30.428699,Arun Kabeli Power Ltd.
+2026042904002115,AKPL,36,17,10,269.5,2695.0,2026-04-29,188475322,2757,Secured Securities Ltd.,ABC Securities Private Limited,2026-04-29 11:49:50.630240,Arun Kabeli Power Ltd.
+2026042904002196,AKPL,51,34,100,269.0,26900.0,2026-04-29,188475823,2757,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 11:50:23.580428,Arun Kabeli Power Ltd.
+2026042904002526,AKPL,51,17,100,269.0,26900.0,2026-04-29,188481947,2757,Oxford Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-29 11:56:39.910435,Arun Kabeli Power Ltd.
+2026042904002628,AKPL,38,44,50,269.0,13450.0,2026-04-29,188483099,2757,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303010,Arun Kabeli Power Ltd.
+2026042904002629,AKPL,49,44,10,269.0,2690.0,2026-04-29,188483101,2757,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303275,Arun Kabeli Power Ltd.
+2026042904002630,AKPL,13,44,500,268.5,134250.0,2026-04-29,188483103,2757,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303400,Arun Kabeli Power Ltd.
+2026042904002631,AKPL,47,44,50,268.1,13405.0,2026-04-29,188483105,2757,Neev Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303512,Arun Kabeli Power Ltd.
+2026042904002632,AKPL,6,44,50,268.0,13400.0,2026-04-29,188483107,2757,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303621,Arun Kabeli Power Ltd.
+2026042904002633,AKPL,48,44,100,268.0,26800.0,2026-04-29,188483109,2757,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303733,Arun Kabeli Power Ltd.
+2026042904002634,AKPL,52,44,500,268.0,134000.0,2026-04-29,188483111,2757,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303852,Arun Kabeli Power Ltd.
+2026042904002635,AKPL,14,44,50,268.0,13400.0,2026-04-29,188483113,2757,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.303963,Arun Kabeli Power Ltd.
+2026042904002636,AKPL,59,44,150,268.0,40200.0,2026-04-29,188483115,2757,Deevyaa Securities & Stock House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.304071,Arun Kabeli Power Ltd.
+2026042904002637,AKPL,58,44,200,268.0,53600.0,2026-04-29,188483117,2757,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.304178,Arun Kabeli Power Ltd.
+2026042904002638,AKPL,41,44,473,268.0,126764.0,2026-04-29,188483119,2757,Linch Stock Market Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.304288,Arun Kabeli Power Ltd.
+2026042904002639,AKPL,19,44,867,268.0,232356.0,2026-04-29,188483120,2757,Nepal Investment And Securities Trading Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:57:37.304402,Arun Kabeli Power Ltd.
+2026042904002713,AKPL,19,22,34,268.0,9112.0,2026-04-29,188484765,2757,Nepal Investment And Securities Trading Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-29 11:59:08.267088,Arun Kabeli Power Ltd.
+2026042904002749,AKPL,19,58,99,268.0,26532.0,2026-04-29,188485364,2757,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-29 11:59:42.323649,Arun Kabeli Power Ltd.
+2026042904002854,AKPL,58,29,100,268.0,26800.0,2026-04-29,188487128,2757,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-29 12:01:48.092676,Arun Kabeli Power Ltd.
+2026042904002855,AKPL,8,29,10,268.0,2680.0,2026-04-29,188487130,2757,Brilliant Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-29 12:01:48.092739,Arun Kabeli Power Ltd.
+2026042904002856,AKPL,4,29,890,267.7,238253.0,2026-04-29,188487131,2757,Opal Securities Investment (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-29 12:01:48.092763,Arun Kabeli Power Ltd.
+2026042904002941,AKPL,74,57,100,268.0,26800.0,2026-04-29,188489380,2757,KALASH STOCK MARKET PVT. LTD.,Aryatara Investment & Securities,2026-04-29 12:04:11.251754,Arun Kabeli Power Ltd.
+2026042904003038,AKPL,49,17,36,269.0,9684.0,2026-04-29,188491702,2757,Online Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-29 12:07:00.277918,Arun Kabeli Power Ltd.
+2026042904003041,AKPL,39,32,1490,268.0,399320.0,2026-04-29,188491772,2757,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-29 12:07:05.195943,Arun Kabeli Power Ltd.
+2026042904003088,AKPL,45,34,500,267.8,133900.0,2026-04-29,188492812,2757,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:07.365304,Arun Kabeli Power Ltd.
+2026042904003089,AKPL,4,34,955,267.7,255653.5,2026-04-29,188492814,2757,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:07.365610,Arun Kabeli Power Ltd.
+2026042904003090,AKPL,43,34,200,267.7,53540.0,2026-04-29,188492816,2757,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:07.365731,Arun Kabeli Power Ltd.
+2026042904003091,AKPL,39,34,1000,267.7,267700.0,2026-04-29,188492818,2757,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:07.365846,Arun Kabeli Power Ltd.
+2026042904003092,AKPL,36,34,345,267.6,92322.0,2026-04-29,188492819,2757,Secured Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:07.365958,Arun Kabeli Power Ltd.
+2026042904003123,AKPL,36,34,155,267.6,41478.0,2026-04-29,188493202,2757,Secured Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:38.636112,Arun Kabeli Power Ltd.
+2026042904003124,AKPL,42,34,40,267.5,10700.0,2026-04-29,188493204,2757,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:38.636672,Arun Kabeli Power Ltd.
+2026042904003125,AKPL,8,34,200,267.2,53440.0,2026-04-29,188493206,2757,Brilliant Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:38.637027,Arun Kabeli Power Ltd.
+2026042904003126,AKPL,21,34,200,267.2,53440.0,2026-04-29,188493208,2757,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-29 12:08:38.637471,Arun Kabeli Power Ltd.
+2026042904003127,AKPL,49,34,185,267.2,49432.0,2026-04-29,188493210,2757,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:38.637854,Arun Kabeli Power Ltd.
+2026042904003128,AKPL,45,34,100,267.1,26710.0,2026-04-29,188493212,2757,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:38.638249,Arun Kabeli Power Ltd.
+2026042904003129,AKPL,32,34,120,267.0,32040.0,2026-04-29,188493213,2757,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:08:38.638620,Arun Kabeli Power Ltd.
+2026042904003184,AKPL,63,32,70,268.0,18760.0,2026-04-29,188493966,2757,Himalayan Brokerage Company Limited,Premier Securities Company Ltd.,2026-04-29 12:09:32.846196,Arun Kabeli Power Ltd.
+2026042904003216,AKPL,59,41,150,267.1,40065.0,2026-04-29,188494640,2757,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-29 12:10:19.837965,Arun Kabeli Power Ltd.
+2026042904003217,AKPL,74,41,50,267.1,13355.0,2026-04-29,188494642,2757,KALASH STOCK MARKET PVT. LTD.,Linch Stock Market Ltd.,2026-04-29 12:10:19.838262,Arun Kabeli Power Ltd.
+2026042904003218,AKPL,45,41,300,267.1,80130.0,2026-04-29,188494643,2757,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-29 12:10:19.838410,Arun Kabeli Power Ltd.
+2026042904003219,AKPL,45,58,10,267.1,2671.0,2026-04-29,188494671,2757,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 12:10:22.955044,Arun Kabeli Power Ltd.
+2026042904003245,AKPL,45,41,190,267.1,50749.0,2026-04-29,188495090,2757,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-29 12:10:51.424411,Arun Kabeli Power Ltd.
+2026042904003246,AKPL,26,41,314,267.1,83869.4,2026-04-29,188495091,2757,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-29 12:10:51.424675,Arun Kabeli Power Ltd.
+2026042904003372,AKPL,26,36,1186,267.1,316780.6,2026-04-29,188498316,2757,Asian Securities Private Ltd.,Secured Securities Ltd.,2026-04-29 12:14:44.999195,Arun Kabeli Power Ltd.
+2026042904003373,AKPL,32,36,180,267.0,48060.0,2026-04-29,188498318,2757,Premier Securities Company Ltd.,Secured Securities Ltd.,2026-04-29 12:14:44.999514,Arun Kabeli Power Ltd.
+2026042904003374,AKPL,6,36,100,267.0,26700.0,2026-04-29,188498320,2757,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-29 12:14:44.999645,Arun Kabeli Power Ltd.
+2026042904003375,AKPL,71,36,2000,267.0,534000.0,2026-04-29,188498322,2757,SHUBHAKAMANA SECURITIES PVT. LTD,Secured Securities Ltd.,2026-04-29 12:14:44.999765,Arun Kabeli Power Ltd.
+2026042904003376,AKPL,14,36,500,267.0,133500.0,2026-04-29,188498324,2757,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,2026-04-29 12:14:44.999880,Arun Kabeli Power Ltd.
+2026042904003377,AKPL,58,36,100,267.0,26700.0,2026-04-29,188498326,2757,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.000006,Arun Kabeli Power Ltd.
+2026042904003378,AKPL,40,36,50,267.0,13350.0,2026-04-29,188498328,2757,Creative Securities Pvt Ltd,Secured Securities Ltd.,2026-04-29 12:14:45.000176,Arun Kabeli Power Ltd.
+2026042904003379,AKPL,36,36,10,267.0,2670.0,2026-04-29,188498330,2757,Secured Securities Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.000319,Arun Kabeli Power Ltd.
+2026042904003380,AKPL,6,36,100,266.5,26650.0,2026-04-29,188498332,2757,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.000436,Arun Kabeli Power Ltd.
+2026042904003381,AKPL,32,36,830,266.1,220863.0,2026-04-29,188498334,2757,Premier Securities Company Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.000548,Arun Kabeli Power Ltd.
+2026042904003382,AKPL,36,36,150,266.1,39915.0,2026-04-29,188498336,2757,Secured Securities Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.000664,Arun Kabeli Power Ltd.
+2026042904003383,AKPL,58,36,69,266.1,18360.9,2026-04-29,188498338,2757,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.000785,Arun Kabeli Power Ltd.
+2026042904003384,AKPL,14,36,600,266.0,159600.0,2026-04-29,188498340,2757,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.000897,Arun Kabeli Power Ltd.
+2026042904003385,AKPL,59,36,33,266.0,8778.0,2026-04-29,188498343,2757,Deevyaa Securities & Stock House Pvt. Ltd,Secured Securities Ltd.,2026-04-29 12:14:45.001009,Arun Kabeli Power Ltd.
+2026042904003386,AKPL,45,36,500,266.0,133000.0,2026-04-29,188498346,2757,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.001119,Arun Kabeli Power Ltd.
+2026042904003387,AKPL,52,36,500,266.0,133000.0,2026-04-29,188498348,2757,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-29 12:14:45.001224,Arun Kabeli Power Ltd.
+2026042904003388,AKPL,32,36,1000,266.0,266000.0,2026-04-29,188498350,2757,Premier Securities Company Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.001365,Arun Kabeli Power Ltd.
+2026042904003389,AKPL,57,36,250,266.0,66500.0,2026-04-29,188498352,2757,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-29 12:14:45.001476,Arun Kabeli Power Ltd.
+2026042904003390,AKPL,45,36,100,266.0,26600.0,2026-04-29,188498354,2757,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.001588,Arun Kabeli Power Ltd.
+2026042904003391,AKPL,36,36,1090,266.0,289940.0,2026-04-29,188498355,2757,Secured Securities Ltd.,Secured Securities Ltd.,2026-04-29 12:14:45.001703,Arun Kabeli Power Ltd.
+2026042904003476,AKPL,29,32,25,268.0,6700.0,2026-04-29,188499563,2757,Trisul Securities & Invt. Ltd.,Premier Securities Company Ltd.,2026-04-29 12:16:24.030397,Arun Kabeli Power Ltd.
+2026042904003545,AKPL,29,42,20,268.0,5360.0,2026-04-29,188501176,2757,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-29 12:18:17.155617,Arun Kabeli Power Ltd.
+2026042904003546,AKPL,38,42,50,268.0,13400.0,2026-04-29,188501178,2757,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-29 12:18:17.155933,Arun Kabeli Power Ltd.
+2026042904003610,AKPL,42,42,10,268.0,2680.0,2026-04-29,188502296,2757,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-29 12:19:43.142745,Arun Kabeli Power Ltd.
+2026042904003633,AKPL,3,42,50,268.0,13400.0,2026-04-29,188502732,2757,Arun Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-29 12:20:15.673045,Arun Kabeli Power Ltd.
+2026042904003639,AKPL,37,38,19,267.0,5073.0,2026-04-29,188502935,2757,Swarna Laxmi Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 12:20:35.950072,Arun Kabeli Power Ltd.
+2026042904003697,AKPL,74,42,50,268.0,13400.0,2026-04-29,188503918,2757,KALASH STOCK MARKET PVT. LTD.,Sani Securities Company Ltd.,2026-04-29 12:21:46.484196,Arun Kabeli Power Ltd.
+2026042904003865,AKPL,56,42,50,268.0,13400.0,2026-04-29,188507210,2757,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 12:25:32.569842,Arun Kabeli Power Ltd.
+2026042904003876,AKPL,37,42,10,267.0,2670.0,2026-04-29,188507545,2757,Swarna Laxmi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 12:25:52.765794,Arun Kabeli Power Ltd.
+2026042904004125,AKPL,58,17,32,269.0,8608.0,2026-04-29,188512052,2757,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-29 12:31:38.286171,Arun Kabeli Power Ltd.
+2026042904004158,AKPL,51,17,40,269.0,10760.0,2026-04-29,188513294,2757,Oxford Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-29 12:32:49.685052,Arun Kabeli Power Ltd.
+2026042904004178,AKPL,58,17,10,269.0,2690.0,2026-04-29,188513480,2757,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-29 12:33:12.880797,Arun Kabeli Power Ltd.
+2026042904004179,AKPL,45,17,72,269.0,19368.0,2026-04-29,188513592,2757,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-29 12:33:16.497122,Arun Kabeli Power Ltd.
+2026042904004180,AKPL,45,57,210,269.0,56490.0,2026-04-29,188513595,2757,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-29 12:33:16.497526,Arun Kabeli Power Ltd.
+2026042904004267,AKPL,45,16,18,269.0,4842.0,2026-04-29,188516212,2757,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 12:36:38.557603,Arun Kabeli Power Ltd.
+2026042904004664,AKPL,82,4,55,268.1,14745.5,2026-04-29,188521727,2757,N.M.B. SECURITIES LIMITED,Opal Securities Investment (PVT) Ltd.,2026-04-29 12:45:37.023273,Arun Kabeli Power Ltd.
+2026042904004827,AKPL,63,16,982,269.0,264158.0,2026-04-29,188524351,2757,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,2026-04-29 12:50:36.102070,Arun Kabeli Power Ltd.
+2026042904004922,AKPL,14,42,10,269.9,2699.0,2026-04-29,188525219,2757,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-29 12:51:59.257799,Arun Kabeli Power Ltd.
+2026042904004923,AKPL,14,33,1790,269.9,483121.0,2026-04-29,188525222,2757,Nepal Stock House (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 12:51:59.258429,Arun Kabeli Power Ltd.
+2026042904004928,AKPL,14,33,200,269.9,53980.0,2026-04-29,188525288,2757,Nepal Stock House (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 12:52:06.625585,Arun Kabeli Power Ltd.
+2026042904004953,AKPL,63,17,50,269.0,13450.0,2026-04-29,188525711,2757,Himalayan Brokerage Company Limited,ABC Securities Private Limited,2026-04-29 12:52:55.544159,Arun Kabeli Power Ltd.
+2026042904004987,AKPL,35,32,20,270.0,5400.0,2026-04-29,188526198,2757,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-29 12:53:50.628487,Arun Kabeli Power Ltd.
+2026042904005082,AKPL,7,34,100,270.0,27000.0,2026-04-29,188527602,2757,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:56:16.982825,Arun Kabeli Power Ltd.
+2026042904005341,AKPL,63,52,33,269.0,8877.0,2026-04-29,188529983,2757,Himalayan Brokerage Company Limited,Sundhara Securities Limited,2026-04-29 13:00:24.715889,Arun Kabeli Power Ltd.
+2026042904005379,AKPL,13,44,10,269.2,2692.0,2026-04-29,188530798,2757,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 13:01:45.002103,Arun Kabeli Power Ltd.
+2026042904005380,AKPL,44,44,37,269.1,9956.7,2026-04-29,188530800,2757,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 13:01:45.002849,Arun Kabeli Power Ltd.
+2026042904005381,AKPL,63,44,1408,269.0,378752.0,2026-04-29,188530801,2757,Himalayan Brokerage Company Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 13:01:45.003307,Arun Kabeli Power Ltd.
+2026042904005403,AKPL,63,34,27,269.0,7263.0,2026-04-29,188531008,2757,Himalayan Brokerage Company Limited,Vision Securities Pvt. Ltd,2026-04-29 13:02:10.410735,Arun Kabeli Power Ltd.
+2026042904005404,AKPL,35,34,20,269.0,5380.0,2026-04-29,188531010,2757,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:02:10.411448,Arun Kabeli Power Ltd.
+2026042904005425,AKPL,43,39,33,268.2,8850.6,2026-04-29,188531445,2757,South Asian Bulls Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 13:02:55.241376,Arun Kabeli Power Ltd.
+2026042904005452,AKPL,43,34,967,268.2,259349.4,2026-04-29,188531804,2757,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:03:37.108660,Arun Kabeli Power Ltd.
+2026042904005453,AKPL,57,34,800,268.2,214560.0,2026-04-29,188531806,2757,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-29 13:03:37.109374,Arun Kabeli Power Ltd.
+2026042904005454,AKPL,51,34,100,268.2,26820.0,2026-04-29,188531807,2757,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:03:37.109782,Arun Kabeli Power Ltd.
+2026042904005473,AKPL,82,38,200,268.1,53620.0,2026-04-29,188532137,2757,N.M.B. SECURITIES LIMITED,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 13:04:07.308968,Arun Kabeli Power Ltd.
+2026042904005491,AKPL,49,34,100,270.0,27000.0,2026-04-29,188532466,2757,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:04:39.890829,Arun Kabeli Power Ltd.
+2026042904005777,AKPL,52,45,500,269.0,134500.0,2026-04-29,188538064,2757,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:13:45.641390,Arun Kabeli Power Ltd.
+2026042904005815,AKPL,82,48,50,268.1,13405.0,2026-04-29,188538721,2757,N.M.B. SECURITIES LIMITED,Trishakti Securities Public Limited,2026-04-29 13:14:35.819242,Arun Kabeli Power Ltd.
+2026042904005881,AKPL,34,49,94,268.5,25239.0,2026-04-29,188539583,2757,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-29 13:16:15.335295,Arun Kabeli Power Ltd.
+2026042904005888,AKPL,82,49,10,268.1,2681.0,2026-04-29,188539641,2757,N.M.B. SECURITIES LIMITED,Online Securities Pvt. Ltd.,2026-04-29 13:16:23.838091,Arun Kabeli Power Ltd.
+2026042904005989,AKPL,82,49,112,268.1,30027.2,2026-04-29,188541811,2757,N.M.B. SECURITIES LIMITED,Online Securities Pvt. Ltd.,2026-04-29 13:20:26.268669,Arun Kabeli Power Ltd.
+2026042904006016,AKPL,82,3,127,268.1,34048.7,2026-04-29,188542241,2757,N.M.B. SECURITIES LIMITED,Arun Securities (PVT) Ltd.,2026-04-29 13:21:13.638532,Arun Kabeli Power Ltd.
+2026042904006021,AKPL,41,45,80,269.0,21520.0,2026-04-29,188542292,2757,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:21:17.674050,Arun Kabeli Power Ltd.
+2026042904006120,AKPL,34,58,1,262.0,262.0,2026-04-29,188544269,2757,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 13:24:17.651886,Arun Kabeli Power Ltd.
+2026042904006201,AKPL,59,45,100,269.0,26900.0,2026-04-29,188544984,2757,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:25:32.159894,Arun Kabeli Power Ltd.
+2026042904006586,AKPL,56,45,20,269.0,5380.0,2026-04-29,188550596,2757,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:35:02.835205,Arun Kabeli Power Ltd.
+2026042904006795,AKPL,82,45,50,269.0,13450.0,2026-04-29,188553998,2757,N.M.B. SECURITIES LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:42:19.144612,Arun Kabeli Power Ltd.
+2026042904006798,AKPL,58,21,2,268.0,536.0,2026-04-29,188554019,2757,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-29 13:42:21.831652,Arun Kabeli Power Ltd.
+2026042904006852,AKPL,10,45,100,269.0,26900.0,2026-04-29,188555276,2757,Pragyan Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:44:11.210220,Arun Kabeli Power Ltd.
+2026042904007069,AKPL,49,34,50,268.5,13425.0,2026-04-29,188558602,2757,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:49:59.713485,Arun Kabeli Power Ltd.
+2026042904007097,AKPL,49,34,40,268.4,10736.0,2026-04-29,188558876,2757,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:50:27.980907,Arun Kabeli Power Ltd.
+2026042904007098,AKPL,32,34,550,268.3,147565.0,2026-04-29,188558878,2757,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:50:27.981716,Arun Kabeli Power Ltd.
+2026042904007109,AKPL,61,34,360,268.2,96552.0,2026-04-29,188559033,2757,BHOLE GANESH SECURITIES LTD,Vision Securities Pvt. Ltd,2026-04-29 13:50:45.992604,Arun Kabeli Power Ltd.
+2026042904007147,AKPL,61,38,200,268.2,53640.0,2026-04-29,188559601,2757,BHOLE GANESH SECURITIES LTD,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 13:51:43.153912,Arun Kabeli Power Ltd.
+2026042904007151,AKPL,21,45,150,269.0,40350.0,2026-04-29,188559693,2757,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 13:51:55.342425,Arun Kabeli Power Ltd.
+2026042904007152,AKPL,21,14,64,269.0,17216.0,2026-04-29,188559695,2757,Midas Stock Broking Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-29 13:51:55.342801,Arun Kabeli Power Ltd.
+2026042904007153,AKPL,21,42,20,269.0,5380.0,2026-04-29,188559697,2757,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-29 13:51:55.343013,Arun Kabeli Power Ltd.
+2026042904007154,AKPL,21,40,63,269.0,16947.0,2026-04-29,188559700,2757,Midas Stock Broking Company Private Limited,Creative Securities Pvt Ltd,2026-04-29 13:51:55.343196,Arun Kabeli Power Ltd.
+2026042904007182,AKPL,61,58,440,268.2,118008.0,2026-04-29,188560060,2757,BHOLE GANESH SECURITIES LTD,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.668132,Arun Kabeli Power Ltd.
+2026042904007183,AKPL,82,58,446,268.1,119572.6,2026-04-29,188560062,2757,N.M.B. SECURITIES LIMITED,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.668915,Arun Kabeli Power Ltd.
+2026042904007184,AKPL,41,58,300,268.1,80430.0,2026-04-29,188560064,2757,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.669442,Arun Kabeli Power Ltd.
+2026042904007185,AKPL,32,58,50,268.1,13405.0,2026-04-29,188560066,2757,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.669915,Arun Kabeli Power Ltd.
+2026042904007186,AKPL,17,58,2000,268.0,536000.0,2026-04-29,188560068,2757,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.670414,Arun Kabeli Power Ltd.
+2026042904007187,AKPL,37,58,300,268.0,80400.0,2026-04-29,188560070,2757,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.670891,Arun Kabeli Power Ltd.
+2026042904007188,AKPL,34,58,100,268.0,26800.0,2026-04-29,188560072,2757,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.671360,Arun Kabeli Power Ltd.
+2026042904007189,AKPL,35,58,15,268.0,4020.0,2026-04-29,188560074,2757,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.671837,Arun Kabeli Power Ltd.
+2026042904007190,AKPL,17,58,20,268.0,5360.0,2026-04-29,188560076,2757,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.672295,Arun Kabeli Power Ltd.
+2026042904007191,AKPL,33,58,144,268.0,38592.0,2026-04-29,188560078,2757,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.672781,Arun Kabeli Power Ltd.
+2026042904007192,AKPL,34,58,50,268.0,13400.0,2026-04-29,188560080,2757,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.673247,Arun Kabeli Power Ltd.
+2026042904007193,AKPL,49,58,135,268.0,36180.0,2026-04-29,188560081,2757,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 13:52:24.673727,Arun Kabeli Power Ltd.
+2026042904007284,AKPL,49,41,25,268.0,6700.0,2026-04-29,188561174,2757,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-29 13:54:03.328336,Arun Kabeli Power Ltd.
+2026042904007285,AKPL,19,41,100,268.0,26800.0,2026-04-29,188561176,2757,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-29 13:54:03.328670,Arun Kabeli Power Ltd.
+2026042904007292,AKPL,58,41,200,268.0,53600.0,2026-04-29,188561290,2757,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-29 13:54:13.628157,Arun Kabeli Power Ltd.
+2026042904007340,AKPL,21,34,186,267.5,49755.0,2026-04-29,188561752,2757,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-29 13:54:43.911992,Arun Kabeli Power Ltd.
+2026042904007341,AKPL,57,34,134,267.3,35818.2,2026-04-29,188561753,2757,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-29 13:54:43.912737,Arun Kabeli Power Ltd.
+2026042904007343,AKPL,57,41,675,267.3,180427.5,2026-04-29,188561791,2757,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-29 13:54:49.077230,Arun Kabeli Power Ltd.
+2026042904007350,AKPL,48,34,50,268.0,13400.0,2026-04-29,188561982,2757,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-29 13:55:09.519766,Arun Kabeli Power Ltd.
+2026042904007351,AKPL,57,34,150,267.3,40095.0,2026-04-29,188561983,2757,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-29 13:55:09.520154,Arun Kabeli Power Ltd.
+2026042904007363,AKPL,57,34,41,267.3,10959.3,2026-04-29,188562168,2757,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-29 13:55:35.412283,Arun Kabeli Power Ltd.
+2026042904007364,AKPL,51,34,100,267.3,26730.0,2026-04-29,188562170,2757,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:55:35.412716,Arun Kabeli Power Ltd.
+2026042904007365,AKPL,94,34,10,267.2,2672.0,2026-04-29,188562171,2757,K.B.L. Securities Limited ,Vision Securities Pvt. Ltd,2026-04-29 13:55:35.412882,Arun Kabeli Power Ltd.
+2026042904007574,AKPL,94,42,490,267.2,130928.0,2026-04-29,188564088,2757,K.B.L. Securities Limited ,Sani Securities Company Ltd.,2026-04-29 13:59:22.995949,Arun Kabeli Power Ltd.
+2026042904007575,AKPL,35,42,500,267.2,133600.0,2026-04-29,188564090,2757,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 13:59:22.996693,Arun Kabeli Power Ltd.
+2026042904007576,AKPL,33,42,10,267.1,2671.0,2026-04-29,188564091,2757,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 13:59:22.997169,Arun Kabeli Power Ltd.
+2026042904007611,AKPL,33,63,290,267.1,77459.0,2026-04-29,188564390,2757,Dakshinkali Investment & Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.719009,Arun Kabeli Power Ltd.
+2026042904007612,AKPL,37,63,61,267.0,16287.0,2026-04-29,188564392,2757,Swarna Laxmi Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.719770,Arun Kabeli Power Ltd.
+2026042904007613,AKPL,14,63,115,267.0,30705.0,2026-04-29,188564394,2757,Nepal Stock House (PVT) Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.720250,Arun Kabeli Power Ltd.
+2026042904007614,AKPL,26,63,200,267.0,53400.0,2026-04-29,188564396,2757,Asian Securities Private Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.720767,Arun Kabeli Power Ltd.
+2026042904007615,AKPL,58,63,25,267.0,6675.0,2026-04-29,188564398,2757,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.721264,Arun Kabeli Power Ltd.
+2026042904007616,AKPL,22,63,195,267.0,52065.0,2026-04-29,188564400,2757,Siprabi Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.721752,Arun Kabeli Power Ltd.
+2026042904007617,AKPL,54,63,200,267.0,53400.0,2026-04-29,188564402,2757,Sewa Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.722245,Arun Kabeli Power Ltd.
+2026042904007618,AKPL,45,63,500,267.0,133500.0,2026-04-29,188564404,2757,Imperial Securities Company Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.722748,Arun Kabeli Power Ltd.
+2026042904007619,AKPL,17,63,900,267.0,240300.0,2026-04-29,188564406,2757,ABC Securities Private Limited,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.723208,Arun Kabeli Power Ltd.
+2026042904007620,AKPL,58,63,10,267.0,2670.0,2026-04-29,188564408,2757,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:59:51.723379,Arun Kabeli Power Ltd.
+2026042904007685,AKPL,13,25,10,267.0,2670.0,2026-04-29,188565508,2757,Thrive Brokerage House Pvt. Ltd,Sweta Securities Private Limited,2026-04-29 14:01:25.899701,Arun Kabeli Power Ltd.
+2026042904007686,AKPL,58,25,46,267.0,12282.0,2026-04-29,188565509,2757,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-29 14:01:25.900399,Arun Kabeli Power Ltd.
+2026042904007885,AKPL,28,40,200,267.1,53420.0,2026-04-29,188567052,2757,Shree Krishna Securities Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.243564,Arun Kabeli Power Ltd.
+2026042904007886,AKPL,58,40,154,267.0,41118.0,2026-04-29,188567054,2757,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.243942,Arun Kabeli Power Ltd.
+2026042904007887,AKPL,34,40,200,267.0,53400.0,2026-04-29,188567056,2757,Vision Securities Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-29 14:04:08.244103,Arun Kabeli Power Ltd.
+2026042904007888,AKPL,34,40,100,267.0,26700.0,2026-04-29,188567058,2757,Vision Securities Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-29 14:04:08.244277,Arun Kabeli Power Ltd.
+2026042904007889,AKPL,19,40,100,267.0,26700.0,2026-04-29,188567060,2757,Nepal Investment And Securities Trading Private Limited,Creative Securities Pvt Ltd,2026-04-29 14:04:08.244455,Arun Kabeli Power Ltd.
+2026042904007890,AKPL,51,40,100,267.0,26700.0,2026-04-29,188567062,2757,Oxford Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.244608,Arun Kabeli Power Ltd.
+2026042904007891,AKPL,6,40,100,266.5,26650.0,2026-04-29,188567064,2757,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.244768,Arun Kabeli Power Ltd.
+2026042904007892,AKPL,51,40,100,266.5,26650.0,2026-04-29,188567066,2757,Oxford Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.244936,Arun Kabeli Power Ltd.
+2026042904007893,AKPL,59,40,28,266.1,7450.8,2026-04-29,188567068,2757,Deevyaa Securities & Stock House Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-29 14:04:08.245089,Arun Kabeli Power Ltd.
+2026042904007894,AKPL,4,40,100,266.1,26610.0,2026-04-29,188567070,2757,Opal Securities Investment (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.245240,Arun Kabeli Power Ltd.
+2026042904007895,AKPL,58,40,560,266.1,149016.0,2026-04-29,188567072,2757,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.245398,Arun Kabeli Power Ltd.
+2026042904007896,AKPL,36,40,258,266.0,68628.0,2026-04-29,188567073,2757,Secured Securities Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:04:08.245549,Arun Kabeli Power Ltd.
+2026042904007936,AKPL,58,45,1,260.0,260.0,2026-04-29,188567367,2757,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:04:34.504679,Arun Kabeli Power Ltd.
+2026042904008069,AKPL,13,25,200,266.3,53260.0,2026-04-29,188568415,2757,Thrive Brokerage House Pvt. Ltd,Sweta Securities Private Limited,2026-04-29 14:06:23.424137,Arun Kabeli Power Ltd.
+2026042904008203,AKPL,13,17,10,266.3,2663.0,2026-04-29,188569355,2757,Thrive Brokerage House Pvt. Ltd,ABC Securities Private Limited,2026-04-29 14:08:05.135858,Arun Kabeli Power Ltd.
+2026042904008337,AKPL,13,11,200,266.7,53340.0,2026-04-29,188571461,2757,Thrive Brokerage House Pvt. Ltd,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-29 14:12:17.428738,Arun Kabeli Power Ltd.
+2026042904008489,AKPL,42,40,100,269.0,26900.0,2026-04-29,188573804,2757,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:15:59.440396,Arun Kabeli Power Ltd.
+2026042904008503,AKPL,13,58,405,268.0,108540.0,2026-04-29,188574215,2757,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 14:16:31.238424,Arun Kabeli Power Ltd.
+2026042904008594,AKPL,59,40,337,269.0,90653.0,2026-04-29,188575477,2757,Deevyaa Securities & Stock House Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-29 14:18:54.831525,Arun Kabeli Power Ltd.
+2026042904008595,AKPL,59,58,12,269.0,3228.0,2026-04-29,188575479,2757,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 14:18:54.831939,Arun Kabeli Power Ltd.
+2026042904008609,AKPL,59,38,168,269.0,45192.0,2026-04-29,188575583,2757,Deevyaa Securities & Stock House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 14:19:04.701544,Arun Kabeli Power Ltd.
+2026042904008767,AKPL,59,42,183,269.0,49227.0,2026-04-29,188576916,2757,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-29 14:20:49.430343,Arun Kabeli Power Ltd.
+2026042904008768,AKPL,49,42,100,269.0,26900.0,2026-04-29,188576918,2757,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 14:20:49.431115,Arun Kabeli Power Ltd.
+2026042904008823,AKPL,39,42,110,269.0,29590.0,2026-04-29,188577354,2757,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 14:21:30.231964,Arun Kabeli Power Ltd.
+2026042904008912,AKPL,11,42,607,269.0,163283.0,2026-04-29,188578413,2757,Malla & Malla Stock Broking Company Pvt. Limited,Sani Securities Company Ltd.,2026-04-29 14:22:54.065383,Arun Kabeli Power Ltd.
+2026042904008956,AKPL,11,70,940,269.0,252860.0,2026-04-29,188578747,2757,Malla & Malla Stock Broking Company Pvt. Limited,Infinity Securities Limited,2026-04-29 14:23:19.737866,Arun Kabeli Power Ltd.
+2026042904009071,AKPL,11,80,100,269.0,26900.0,2026-04-29,188579855,2757,Malla & Malla Stock Broking Company Pvt. Limited,Indira securities pvt. ltd,2026-04-29 14:24:39.286353,Arun Kabeli Power Ltd.
+2026042904009072,AKPL,11,39,250,269.0,67250.0,2026-04-29,188579861,2757,Malla & Malla Stock Broking Company Pvt. Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:24:40.019765,Arun Kabeli Power Ltd.
+2026042904009154,AKPL,11,45,103,269.0,27707.0,2026-04-29,188580400,2757,Malla & Malla Stock Broking Company Pvt. Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:25:17.931616,Arun Kabeli Power Ltd.
+2026042904009223,AKPL,13,39,185,268.0,49580.0,2026-04-29,188581348,2757,Thrive Brokerage House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-29 14:26:28.208051,Arun Kabeli Power Ltd.
+2026042904009224,AKPL,32,39,200,268.0,53600.0,2026-04-29,188581350,2757,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:26:28.209014,Arun Kabeli Power Ltd.
+2026042904009225,AKPL,39,39,15,268.0,4020.0,2026-04-29,188581351,2757,Sumeru Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:26:28.209561,Arun Kabeli Power Ltd.
+2026042904009660,AKPL,26,45,20,268.0,5360.0,2026-04-29,188585064,2757,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:29:35.278042,Arun Kabeli Power Ltd.
+2026042904009661,AKPL,58,45,70,268.0,18760.0,2026-04-29,188585066,2757,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:29:35.278440,Arun Kabeli Power Ltd.
+2026042904009688,AKPL,45,17,500,267.2,133600.0,2026-04-29,188585346,2757,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-29 14:29:50.238232,Arun Kabeli Power Ltd.
+2026042904009689,AKPL,1,17,100,267.2,26720.0,2026-04-29,188585347,2757,Kumari Securities Private Limited,ABC Securities Private Limited,2026-04-29 14:29:50.238967,Arun Kabeli Power Ltd.
+2026042904009831,AKPL,1,40,200,267.2,53440.0,2026-04-29,188586668,2757,Kumari Securities Private Limited,Creative Securities Pvt Ltd,2026-04-29 14:31:28.447572,Arun Kabeli Power Ltd.
+2026042904009832,AKPL,32,40,100,267.1,26710.0,2026-04-29,188586669,2757,Premier Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-29 14:31:28.447980,Arun Kabeli Power Ltd.
+2026042904009934,AKPL,32,32,28,267.1,7478.8,2026-04-29,188587179,2757,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-29 14:31:58.137619,Arun Kabeli Power Ltd.
+2026042904009969,AKPL,32,26,200,267.1,53420.0,2026-04-29,188587403,2757,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-29 14:32:12.707318,Arun Kabeli Power Ltd.
+2026042904009997,AKPL,32,45,107,267.1,28579.7,2026-04-29,188587793,2757,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:32:32.418465,Arun Kabeli Power Ltd.
+2026042904010260,AKPL,32,50,300,267.1,80130.0,2026-04-29,188590379,2757,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-29 14:35:21.640118,Arun Kabeli Power Ltd.
+2026042904010319,AKPL,32,43,265,267.1,70781.5,2026-04-29,188590922,2757,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-29 14:35:58.014846,Arun Kabeli Power Ltd.
+2026042904010320,AKPL,41,43,50,267.1,13355.0,2026-04-29,188590924,2757,Linch Stock Market Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-29 14:35:58.015237,Arun Kabeli Power Ltd.
+2026042904010321,AKPL,32,43,50,267.1,13355.0,2026-04-29,188590926,2757,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-29 14:35:58.015420,Arun Kabeli Power Ltd.
+2026042904010432,AKPL,52,43,35,267.1,9348.5,2026-04-29,188592220,2757,Sundhara Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-29 14:37:25.253708,Arun Kabeli Power Ltd.
+2026042904010836,AKPL,52,48,2,266.1,532.2,2026-04-29,188596231,2757,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-29 14:40:55.879475,Arun Kabeli Power Ltd.
+2026042904011259,AKPL,38,8,20,268.0,5360.0,2026-04-29,188599827,2757,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-29 14:44:20.066727,Arun Kabeli Power Ltd.
+2026042904011284,AKPL,26,50,30,268.9,8067.0,2026-04-29,188600074,2757,Asian Securities Private Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-29 14:44:35.503929,Arun Kabeli Power Ltd.
+2026042904011381,AKPL,47,50,15,268.9,4033.5,2026-04-29,188600637,2757,Neev Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-29 14:45:04.787374,Arun Kabeli Power Ltd.
+2026042904011382,AKPL,47,41,85,269.0,22865.0,2026-04-29,188600640,2757,Neev Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-29 14:45:04.787473,Arun Kabeli Power Ltd.
+2026042904011549,AKPL,41,36,10,268.0,2680.0,2026-04-29,188602522,2757,Linch Stock Market Ltd.,Secured Securities Ltd.,2026-04-29 14:46:40.803259,Arun Kabeli Power Ltd.
+2026042904011550,AKPL,62,36,290,268.0,77720.0,2026-04-29,188602523,2757,Capital Max Securities Ltd,Secured Securities Ltd.,2026-04-29 14:46:40.803376,Arun Kabeli Power Ltd.
+2026042904011810,AKPL,62,36,500,268.0,134000.0,2026-04-29,188604685,2757,Capital Max Securities Ltd,Secured Securities Ltd.,2026-04-29 14:48:26.115985,Arun Kabeli Power Ltd.
+2026042904011914,AKPL,62,72,210,268.0,56280.0,2026-04-29,188605534,2757,Capital Max Securities Ltd,Hatemalo Financial Services Private Limited,2026-04-29 14:49:11.386658,Arun Kabeli Power Ltd.
+2026042904011915,AKPL,35,72,100,268.0,26800.0,2026-04-29,188605536,2757,Kohinoor Investment & Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-29 14:49:11.387426,Arun Kabeli Power Ltd.
+2026042904011948,AKPL,58,45,75,267.9,20092.5,2026-04-29,188606011,2757,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:49:27.124846,Arun Kabeli Power Ltd.
+2026042904011972,AKPL,50,72,100,268.0,26800.0,2026-04-29,188606076,2757,Cristal Kanchanjanga Securites Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-29 14:49:29.354581,Arun Kabeli Power Ltd.
+2026042904012026,AKPL,32,72,90,268.0,24120.0,2026-04-29,188606751,2757,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,2026-04-29 14:50:01.589266,Arun Kabeli Power Ltd.
+2026042904012027,AKPL,32,50,350,268.0,93800.0,2026-04-29,188606753,2757,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-29 14:50:01.590036,Arun Kabeli Power Ltd.
+2026042904012054,AKPL,32,39,500,268.0,134000.0,2026-04-29,188606865,2757,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:50:07.067003,Arun Kabeli Power Ltd.
+2026042904012137,AKPL,32,58,60,268.0,16080.0,2026-04-29,188607460,2757,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:33.636791,Arun Kabeli Power Ltd.
+2026042904012171,AKPL,58,58,247,267.9,66171.3,2026-04-29,188607736,2757,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.855066,Arun Kabeli Power Ltd.
+2026042904012172,AKPL,25,58,30,267.4,8022.0,2026-04-29,188607738,2757,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.855472,Arun Kabeli Power Ltd.
+2026042904012173,AKPL,60,58,500,267.3,133650.0,2026-04-29,188607740,2757,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.855659,Arun Kabeli Power Ltd.
+2026042904012174,AKPL,54,58,100,267.1,26710.0,2026-04-29,188607742,2757,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.855839,Arun Kabeli Power Ltd.
+2026042904012175,AKPL,45,58,100,267.1,26710.0,2026-04-29,188607744,2757,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.856027,Arun Kabeli Power Ltd.
+2026042904012176,AKPL,67,58,200,267.0,53400.0,2026-04-29,188607746,2757,Property Wiard Limited,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.856200,Arun Kabeli Power Ltd.
+2026042904012177,AKPL,45,58,200,267.0,53400.0,2026-04-29,188607748,2757,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.856375,Arun Kabeli Power Ltd.
+2026042904012178,AKPL,45,58,200,267.0,53400.0,2026-04-29,188607750,2757,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.856538,Arun Kabeli Power Ltd.
+2026042904012179,AKPL,51,58,10,267.0,2670.0,2026-04-29,188607752,2757,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.856708,Arun Kabeli Power Ltd.
+2026042904012180,AKPL,45,58,353,267.0,94251.0,2026-04-29,188607753,2757,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:50:50.856874,Arun Kabeli Power Ltd.
+2026042904012209,AKPL,45,62,647,267.0,172749.0,2026-04-29,188607926,2757,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 14:51:01.280707,Arun Kabeli Power Ltd.
+2026042904012210,AKPL,14,62,500,267.0,133500.0,2026-04-29,188607928,2757,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,2026-04-29 14:51:01.280771,Arun Kabeli Power Ltd.
+2026042904012211,AKPL,11,62,200,267.0,53400.0,2026-04-29,188607930,2757,Malla & Malla Stock Broking Company Pvt. Limited,Capital Max Securities Ltd,2026-04-29 14:51:01.280799,Arun Kabeli Power Ltd.
+2026042904012212,AKPL,48,62,29,267.0,7743.0,2026-04-29,188607932,2757,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-29 14:51:01.280823,Arun Kabeli Power Ltd.
+2026042904012213,AKPL,22,62,187,267.0,49929.0,2026-04-29,188607934,2757,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 14:51:01.280847,Arun Kabeli Power Ltd.
+2026042904012214,AKPL,8,62,80,267.0,21360.0,2026-04-29,188607936,2757,Brilliant Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 14:51:01.280874,Arun Kabeli Power Ltd.
+2026042904012215,AKPL,36,62,207,266.9,55248.3,2026-04-29,188607937,2757,Secured Securities Ltd.,Capital Max Securities Ltd,2026-04-29 14:51:01.280899,Arun Kabeli Power Ltd.
+2026042904012298,AKPL,34,41,100,267.0,26700.0,2026-04-29,188609012,2757,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,2026-04-29 14:51:45.127431,Arun Kabeli Power Ltd.
+2026042904012299,AKPL,57,41,10,267.0,2670.0,2026-04-29,188609014,2757,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-29 14:51:45.127800,Arun Kabeli Power Ltd.
+2026042904012373,AKPL,49,5,100,267.0,26700.0,2026-04-29,188609936,2757,Online Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-29 14:52:28.698594,Arun Kabeli Power Ltd.
+2026042904012374,AKPL,36,5,293,266.9,78201.7,2026-04-29,188609938,2757,Secured Securities Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-29 14:52:28.698709,Arun Kabeli Power Ltd.
+2026042904012375,AKPL,16,5,607,266.8,161947.6,2026-04-29,188609939,2757,Primo Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-29 14:52:28.698791,Arun Kabeli Power Ltd.
+2026042904012783,AKPL,57,67,10,267.0,2670.0,2026-04-29,188613407,2757,Aryatara Investment & Securities,Property Wiard Limited,2026-04-29 14:54:51.042666,Arun Kabeli Power Ltd.
+2026042904012916,AKPL,62,21,35,267.5,9362.5,2026-04-29,188614576,2757,Capital Max Securities Ltd,Midas Stock Broking Company Private Limited,2026-04-29 14:55:33.959731,Arun Kabeli Power Ltd.
+2026042904013034,AKPL,13,21,15,267.5,4012.5,2026-04-29,188615669,2757,Thrive Brokerage House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-29 14:56:14.276821,Arun Kabeli Power Ltd.
+2026042904013035,AKPL,13,14,185,267.5,49487.5,2026-04-29,188615672,2757,Thrive Brokerage House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-29 14:56:14.277195,Arun Kabeli Power Ltd.
+2026042904013059,AKPL,4,14,20,267.5,5350.0,2026-04-29,188615820,2757,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 14:56:21.918102,Arun Kabeli Power Ltd.
+2026042904013075,AKPL,34,14,485,267.5,129737.5,2026-04-29,188615939,2757,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-29 14:56:28.054258,Arun Kabeli Power Ltd.
+2026042904013217,AKPL,38,63,4,267.0,1068.0,2026-04-29,188617495,2757,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Himalayan Brokerage Company Limited,2026-04-29 14:57:22.614983,Arun Kabeli Power Ltd.
+2026042904013375,AKPL,1,46,200,267.7,53540.0,2026-04-29,188619108,2757,Kumari Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-29 14:58:11.989937,Arun Kabeli Power Ltd.
+2026042904013376,AKPL,74,46,100,267.6,26760.0,2026-04-29,188619110,2757,KALASH STOCK MARKET PVT. LTD.,Kalika Securities Pvt. Ltd.,2026-04-29 14:58:11.990274,Arun Kabeli Power Ltd.
+2026042904013377,AKPL,13,46,20,267.6,5352.0,2026-04-29,188619112,2757,Thrive Brokerage House Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-29 14:58:11.990458,Arun Kabeli Power Ltd.
+2026042904013378,AKPL,34,46,515,267.5,137762.5,2026-04-29,188619114,2757,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-29 14:58:11.990672,Arun Kabeli Power Ltd.
+2026042904013379,AKPL,21,46,212,267.1,56625.2,2026-04-29,188619115,2757,Midas Stock Broking Company Private Limited,Kalika Securities Pvt. Ltd.,2026-04-29 14:58:11.990874,Arun Kabeli Power Ltd.
+2026042904013576,AKPL,13,49,20,267.7,5354.0,2026-04-29,188620558,2757,Thrive Brokerage House Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-29 14:58:52.425453,Arun Kabeli Power Ltd.
+2026042904013650,AKPL,21,42,38,267.1,10149.8,2026-04-29,188621254,2757,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-29 14:59:08.306236,Arun Kabeli Power Ltd.
+2026042904013651,AKPL,28,42,175,267.1,46742.5,2026-04-29,188621256,2757,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-29 14:59:08.307002,Arun Kabeli Power Ltd.
+2026042904013652,AKPL,41,42,100,267.0,26700.0,2026-04-29,188621258,2757,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-29 14:59:08.307521,Arun Kabeli Power Ltd.
+2026042904013653,AKPL,51,42,87,267.0,23229.0,2026-04-29,188621259,2757,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 14:59:08.308044,Arun Kabeli Power Ltd.
+2026042904013688,AKPL,51,33,113,267.0,30171.0,2026-04-29,188621440,2757,Oxford Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 14:59:10.373021,Arun Kabeli Power Ltd.
+2026042904013689,AKPL,75,33,50,267.0,13350.0,2026-04-29,188621442,2757,N.I.M.B. Stock Markets Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 14:59:10.373381,Arun Kabeli Power Ltd.
+2026042904013690,AKPL,56,33,337,267.0,89979.0,2026-04-29,188621443,2757,Sri Hari Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 14:59:10.373561,Arun Kabeli Power Ltd.
+2026042904013906,AKPL,14,49,50,267.7,13385.0,2026-04-29,188623824,2757,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:59:49.009576,Arun Kabeli Power Ltd.
+2026042904013911,AKPL,40,49,80,267.7,21416.0,2026-04-29,188623885,2757,Creative Securities Pvt Ltd,Online Securities Pvt. Ltd.,2026-04-29 14:59:49.759049,Arun Kabeli Power Ltd.
+2026042904013918,AKPL,40,1,420,267.7,112434.0,2026-04-29,188623928,2757,Creative Securities Pvt Ltd,Kumari Securities Private Limited,2026-04-29 14:59:50.352702,Arun Kabeli Power Ltd.
+2026042904013919,AKPL,36,1,500,267.2,133600.0,2026-04-29,188623930,2757,Secured Securities Ltd.,Kumari Securities Private Limited,2026-04-29 14:59:50.353036,Arun Kabeli Power Ltd.
+2026042904013920,AKPL,41,1,80,267.2,21376.0,2026-04-29,188623931,2757,Linch Stock Market Ltd.,Kumari Securities Private Limited,2026-04-29 14:59:50.353208,Arun Kabeli Power Ltd.
+2026042904013932,AKPL,41,62,200,267.2,53440.0,2026-04-29,188624031,2757,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-29 14:59:52.014438,Arun Kabeli Power Ltd.

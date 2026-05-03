@@ -1,0 +1,165 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042903000075,LBBL,40,58,70,482.0,33740.0,2026-04-29,188419950,358,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-29 11:02:11.389889,Lumbini Bikas Bank Ltd.
+2026042903000076,LBBL,34,58,30,480.0,14400.0,2026-04-29,188419951,358,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 11:02:11.389934,Lumbini Bikas Bank Ltd.
+2026042903000266,LBBL,50,46,50,483.1,24155.0,2026-04-29,188435624,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-29 11:14:00.850503,Lumbini Bikas Bank Ltd.
+2026042903000267,LBBL,63,46,50,483.1,24155.0,2026-04-29,188435625,358,Himalayan Brokerage Company Limited,Kalika Securities Pvt. Ltd.,2026-04-29 11:14:00.850585,Lumbini Bikas Bank Ltd.
+2026042903000361,LBBL,59,6,50,485.0,24250.0,2026-04-29,188443202,358,Deevyaa Securities & Stock House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-29 11:18:55.431525,Lumbini Bikas Bank Ltd.
+2026042903000367,LBBL,58,6,37,485.0,17945.0,2026-04-29,188443431,358,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-29 11:19:08.564663,Lumbini Bikas Bank Ltd.
+2026042903000368,LBBL,58,58,73,485.0,35405.0,2026-04-29,188443434,358,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:19:08.564747,Lumbini Bikas Bank Ltd.
+2026042903000388,LBBL,63,58,50,485.0,24250.0,2026-04-29,188444756,358,Himalayan Brokerage Company Limited,Naasa Securities Co. Ltd.,2026-04-29 11:20:12.862749,Lumbini Bikas Bank Ltd.
+2026042903000399,LBBL,63,11,8,480.0,3840.0,2026-04-29,188445415,358,Himalayan Brokerage Company Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-29 11:20:44.350170,Lumbini Bikas Bank Ltd.
+2026042903000509,LBBL,74,34,10,485.0,4850.0,2026-04-29,188451600,358,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-29 11:25:19.371558,Lumbini Bikas Bank Ltd.
+2026042903000521,LBBL,51,44,20,484.1,9682.0,2026-04-29,188452498,358,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:26:05.334918,Lumbini Bikas Bank Ltd.
+2026042903000522,LBBL,50,44,100,484.0,48400.0,2026-04-29,188452500,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:26:05.335020,Lumbini Bikas Bank Ltd.
+2026042903000523,LBBL,50,44,50,484.0,24200.0,2026-04-29,188452502,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:26:05.335086,Lumbini Bikas Bank Ltd.
+2026042903000524,LBBL,13,44,25,484.0,12100.0,2026-04-29,188452504,358,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:26:05.335134,Lumbini Bikas Bank Ltd.
+2026042903000529,LBBL,51,74,100,483.2,48320.0,2026-04-29,188452576,358,Oxford Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 11:26:10.096317,Lumbini Bikas Bank Ltd.
+2026042903000530,LBBL,50,74,50,483.2,24160.0,2026-04-29,188452578,358,Cristal Kanchanjanga Securites Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 11:26:10.096418,Lumbini Bikas Bank Ltd.
+2026042903000531,LBBL,57,74,300,483.2,144960.0,2026-04-29,188452580,358,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,2026-04-29 11:26:10.096462,Lumbini Bikas Bank Ltd.
+2026042903000532,LBBL,63,74,50,483.1,24155.0,2026-04-29,188452581,358,Himalayan Brokerage Company Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-29 11:26:10.096510,Lumbini Bikas Bank Ltd.
+2026042903000545,LBBL,85,34,195,483.1,94204.5,2026-04-29,188453083,358,Capital Hub P. Ltd,Vision Securities Pvt. Ltd,2026-04-29 11:26:40.350097,Lumbini Bikas Bank Ltd.
+2026042903000549,LBBL,91,44,105,483.2,50736.0,2026-04-29,188453401,358,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 11:26:55.721454,Lumbini Bikas Bank Ltd.
+2026042903000741,LBBL,91,36,145,483.2,70064.0,2026-04-29,188460482,358,Citizens Share Broker Limited,Secured Securities Ltd.,2026-04-29 11:33:46.101945,Lumbini Bikas Bank Ltd.
+2026042903000742,LBBL,50,36,50,483.2,24160.0,2026-04-29,188460484,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Secured Securities Ltd.,2026-04-29 11:33:46.102184,Lumbini Bikas Bank Ltd.
+2026042903000743,LBBL,7,36,305,483.2,147376.0,2026-04-29,188460485,358,J.F. Securites (PVT) Ltd.,Secured Securities Ltd.,2026-04-29 11:33:46.102308,Lumbini Bikas Bank Ltd.
+2026042903000940,LBBL,7,58,95,483.2,45904.0,2026-04-29,188469168,358,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:42:25.156473,Lumbini Bikas Bank Ltd.
+2026042903000941,LBBL,7,58,300,483.2,144960.0,2026-04-29,188469170,358,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:42:25.156602,Lumbini Bikas Bank Ltd.
+2026042903000942,LBBL,50,58,50,483.2,24160.0,2026-04-29,188469172,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:42:25.156646,Lumbini Bikas Bank Ltd.
+2026042903000943,LBBL,85,58,305,483.1,147345.5,2026-04-29,188469174,358,Capital Hub P. Ltd,Naasa Securities Co. Ltd.,2026-04-29 11:42:25.156691,Lumbini Bikas Bank Ltd.
+2026042903000944,LBBL,49,58,196,483.0,94668.0,2026-04-29,188469175,358,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:42:25.156736,Lumbini Bikas Bank Ltd.
+2026042903000953,LBBL,49,58,3000,483.0,1449000.0,2026-04-29,188469694,358,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:43:07.912600,Lumbini Bikas Bank Ltd.
+2026042903000956,LBBL,49,36,304,483.0,146832.0,2026-04-29,188469886,358,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-29 11:43:23.467923,Lumbini Bikas Bank Ltd.
+2026042903000957,LBBL,45,36,96,483.0,46368.0,2026-04-29,188469887,358,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-29 11:43:23.468017,Lumbini Bikas Bank Ltd.
+2026042903000958,LBBL,58,81,103,483.0,49749.0,2026-04-29,188469940,358,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-29 11:43:27.442753,Lumbini Bikas Bank Ltd.
+2026042903000979,LBBL,7,81,50,483.0,24150.0,2026-04-29,188470844,358,J.F. Securites (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-29 11:44:33.711169,Lumbini Bikas Bank Ltd.
+2026042903001234,LBBL,34,58,138,482.9,66640.2,2026-04-29,188479858,358,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 11:54:23.571443,Lumbini Bikas Bank Ltd.
+2026042903001310,LBBL,42,16,20,482.0,9640.0,2026-04-29,188482806,358,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 11:57:25.497952,Lumbini Bikas Bank Ltd.
+2026042903001466,LBBL,58,16,15,482.9,7243.5,2026-04-29,188487088,358,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 12:01:44.867414,Lumbini Bikas Bank Ltd.
+2026042903001493,LBBL,58,16,965,482.9,465998.5,2026-04-29,188487895,358,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 12:02:41.365338,Lumbini Bikas Bank Ltd.
+2026042903001494,LBBL,58,81,35,483.0,16905.0,2026-04-29,188487898,358,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-29 12:02:41.365445,Lumbini Bikas Bank Ltd.
+2026042903001624,LBBL,58,81,112,483.0,54096.0,2026-04-29,188492579,358,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-29 12:07:53.246863,Lumbini Bikas Bank Ltd.
+2026042903001625,LBBL,58,58,50,483.0,24150.0,2026-04-29,188492581,358,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 12:07:53.247117,Lumbini Bikas Bank Ltd.
+2026042903001644,LBBL,58,32,838,483.0,404754.0,2026-04-29,188492886,358,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-29 12:08:10.879731,Lumbini Bikas Bank Ltd.
+2026042903001648,LBBL,29,32,200,483.0,96600.0,2026-04-29,188493054,358,Trisul Securities & Invt. Ltd.,Premier Securities Company Ltd.,2026-04-29 12:08:25.578782,Lumbini Bikas Bank Ltd.
+2026042903001649,LBBL,6,49,87,482.1,41942.7,2026-04-29,188493065,358,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:08:27.396728,Lumbini Bikas Bank Ltd.
+2026042903001694,LBBL,29,32,100,483.0,48300.0,2026-04-29,188494686,358,Trisul Securities & Invt. Ltd.,Premier Securities Company Ltd.,2026-04-29 12:10:24.023067,Lumbini Bikas Bank Ltd.
+2026042903001709,LBBL,49,44,150,482.5,72375.0,2026-04-29,188495136,358,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 12:10:54.249984,Lumbini Bikas Bank Ltd.
+2026042903001710,LBBL,6,44,25,482.1,12052.5,2026-04-29,188495137,358,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 12:10:54.250221,Lumbini Bikas Bank Ltd.
+2026042903001894,LBBL,1,36,69,482.2,33271.8,2026-04-29,188502041,358,Kumari Securities Private Limited,Secured Securities Ltd.,2026-04-29 12:19:24.695977,Lumbini Bikas Bank Ltd.
+2026042903001967,LBBL,1,44,31,482.2,14948.2,2026-04-29,188505020,358,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 12:22:56.846762,Lumbini Bikas Bank Ltd.
+2026042903001968,LBBL,6,44,117,482.1,56405.7,2026-04-29,188505021,358,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 12:22:56.847010,Lumbini Bikas Bank Ltd.
+2026042903001972,LBBL,39,16,98,482.9,47324.2,2026-04-29,188505284,358,Sumeru Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 12:23:18.904579,Lumbini Bikas Bank Ltd.
+2026042903002009,LBBL,32,16,237,482.9,114447.3,2026-04-29,188507096,358,Premier Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 12:25:24.052890,Lumbini Bikas Bank Ltd.
+2026042903002019,LBBL,32,32,362,483.0,174846.0,2026-04-29,188507531,358,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-29 12:25:51.740260,Lumbini Bikas Bank Ltd.
+2026042903002020,LBBL,32,5,20,483.0,9660.0,2026-04-29,188507534,358,Premier Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-29 12:25:51.740533,Lumbini Bikas Bank Ltd.
+2026042903002260,LBBL,36,47,100,486.0,48600.0,2026-04-29,188516410,358,Secured Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-29 12:37:02.277183,Lumbini Bikas Bank Ltd.
+2026042903002422,LBBL,62,66,200,483.3,96660.0,2026-04-29,188520006,358,Capital Max Securities Ltd,Miyo Securities Pvt Ltd,2026-04-29 12:42:19.663300,Lumbini Bikas Bank Ltd.
+2026042903002423,LBBL,50,66,50,483.1,24155.0,2026-04-29,188520007,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-29 12:42:19.663465,Lumbini Bikas Bank Ltd.
+2026042903002449,LBBL,58,25,26,483.2,12563.2,2026-04-29,188520802,358,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-29 12:43:45.497070,Lumbini Bikas Bank Ltd.
+2026042903002450,LBBL,49,25,84,483.0,40572.0,2026-04-29,188520803,358,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-29 12:43:45.497255,Lumbini Bikas Bank Ltd.
+2026042903002620,LBBL,1,44,50,483.2,24160.0,2026-04-29,188524182,358,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 12:50:13.828332,Lumbini Bikas Bank Ltd.
+2026042903002621,LBBL,49,44,50,483.1,24155.0,2026-04-29,188524184,358,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 12:50:13.828517,Lumbini Bikas Bank Ltd.
+2026042903002622,LBBL,49,44,740,483.0,357420.0,2026-04-29,188524185,358,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 12:50:13.828576,Lumbini Bikas Bank Ltd.
+2026042903002690,LBBL,49,34,1000,483.0,483000.0,2026-04-29,188527737,358,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:56:30.114957,Lumbini Bikas Bank Ltd.
+2026042903002697,LBBL,49,34,1176,483.0,568008.0,2026-04-29,188528088,358,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:57:08.572755,Lumbini Bikas Bank Ltd.
+2026042903002698,LBBL,50,34,324,483.0,156492.0,2026-04-29,188528089,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:57:08.573003,Lumbini Bikas Bank Ltd.
+2026042903002753,LBBL,50,63,200,482.2,96440.0,2026-04-29,188529845,358,Cristal Kanchanjanga Securites Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-29 13:00:03.622519,Lumbini Bikas Bank Ltd.
+2026042903002882,LBBL,6,39,300,482.1,144630.0,2026-04-29,188533351,358,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 13:06:03.605080,Lumbini Bikas Bank Ltd.
+2026042903003091,LBBL,3,33,300,482.2,144660.0,2026-04-29,188539149,358,Arun Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 13:15:13.897523,Lumbini Bikas Bank Ltd.
+2026042903003144,LBBL,3,14,250,482.2,120550.0,2026-04-29,188539937,358,Arun Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 13:17:03.080895,Lumbini Bikas Bank Ltd.
+2026042903003186,LBBL,3,62,450,482.2,216990.0,2026-04-29,188540676,358,Arun Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-29 13:18:27.647847,Lumbini Bikas Bank Ltd.
+2026042903003187,LBBL,42,62,1000,482.2,482200.0,2026-04-29,188540678,358,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-29 13:18:27.648015,Lumbini Bikas Bank Ltd.
+2026042903003196,LBBL,6,62,400,482.1,192840.0,2026-04-29,188540823,358,Agrawal Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-29 13:18:42.798413,Lumbini Bikas Bank Ltd.
+2026042903003532,LBBL,5,57,100,482.2,48220.0,2026-04-29,188547632,358,Market Securities & Exchange (PVT) Ltd.,Aryatara Investment & Securities,2026-04-29 13:30:06.201085,Lumbini Bikas Bank Ltd.
+2026042903003533,LBBL,26,57,30,482.2,14466.0,2026-04-29,188547633,358,Asian Securities Private Ltd.,Aryatara Investment & Securities,2026-04-29 13:30:06.201241,Lumbini Bikas Bank Ltd.
+2026042903003691,LBBL,5,52,100,483.0,48300.0,2026-04-29,188549584,358,Market Securities & Exchange (PVT) Ltd.,Sundhara Securities Limited,2026-04-29 13:33:12.231712,Lumbini Bikas Bank Ltd.
+2026042903003925,LBBL,19,52,400,483.0,193200.0,2026-04-29,188555064,358,Nepal Investment And Securities Trading Private Limited,Sundhara Securities Limited,2026-04-29 13:43:50.832683,Lumbini Bikas Bank Ltd.
+2026042903003948,LBBL,6,26,1000,483.9,483900.0,2026-04-29,188555827,358,Agrawal Securities (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-29 13:44:50.158257,Lumbini Bikas Bank Ltd.
+2026042903003949,LBBL,6,34,1000,484.0,484000.0,2026-04-29,188555829,358,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-29 13:44:50.158536,Lumbini Bikas Bank Ltd.
+2026042903003950,LBBL,6,49,1000,485.0,485000.0,2026-04-29,188555831,358,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 13:44:50.158716,Lumbini Bikas Bank Ltd.
+2026042903003951,LBBL,6,26,745,485.0,361325.0,2026-04-29,188555833,358,Agrawal Securities (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-29 13:44:50.158879,Lumbini Bikas Bank Ltd.
+2026042903003952,LBBL,6,47,13,486.0,6318.0,2026-04-29,188555835,358,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-29 13:44:50.159089,Lumbini Bikas Bank Ltd.
+2026042903003953,LBBL,6,47,500,486.0,243000.0,2026-04-29,188555837,358,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-29 13:44:50.159250,Lumbini Bikas Bank Ltd.
+2026042903003954,LBBL,6,47,500,486.0,243000.0,2026-04-29,188555839,358,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-29 13:44:50.159393,Lumbini Bikas Bank Ltd.
+2026042903003955,LBBL,6,22,100,486.0,48600.0,2026-04-29,188555841,358,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 13:44:50.159560,Lumbini Bikas Bank Ltd.
+2026042903003956,LBBL,6,74,1000,486.0,486000.0,2026-04-29,188555843,358,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 13:44:50.159723,Lumbini Bikas Bank Ltd.
+2026042903003957,LBBL,6,22,100,487.0,48700.0,2026-04-29,188555845,358,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 13:44:50.159891,Lumbini Bikas Bank Ltd.
+2026042903003958,LBBL,6,22,42,487.0,20454.0,2026-04-29,188555848,358,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 13:44:50.160189,Lumbini Bikas Bank Ltd.
+2026042903004023,LBBL,6,82,100,483.0,48300.0,2026-04-29,188557423,358,Agrawal Securities (PVT) Ltd.,N.M.B. SECURITIES LIMITED,2026-04-29 13:47:53.369061,Lumbini Bikas Bank Ltd.
+2026042903004490,LBBL,35,94,150,486.0,72900.0,2026-04-29,188565740,358,Kohinoor Investment & Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-29 14:01:54.667894,Lumbini Bikas Bank Ltd.
+2026042903004616,LBBL,6,36,500,485.0,242500.0,2026-04-29,188569144,358,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-29 14:07:40.051351,Lumbini Bikas Bank Ltd.
+2026042903004618,LBBL,6,94,110,486.0,53460.0,2026-04-29,188569285,358,Agrawal Securities (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-29 14:07:56.285537,Lumbini Bikas Bank Ltd.
+2026042903004619,LBBL,6,56,250,486.0,121500.0,2026-04-29,188569287,358,Agrawal Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 14:07:56.285694,Lumbini Bikas Bank Ltd.
+2026042903004620,LBBL,6,62,120,486.0,58320.0,2026-04-29,188569289,358,Agrawal Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-29 14:07:56.285764,Lumbini Bikas Bank Ltd.
+2026042903004621,LBBL,6,45,2000,486.0,972000.0,2026-04-29,188569292,358,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:07:56.285821,Lumbini Bikas Bank Ltd.
+2026042903004673,LBBL,6,45,500,486.0,243000.0,2026-04-29,188571017,358,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:11:24.874490,Lumbini Bikas Bank Ltd.
+2026042903004706,LBBL,62,22,58,487.0,28246.0,2026-04-29,188571875,358,Capital Max Securities Ltd,Siprabi Securities Pvt. Ltd.,2026-04-29 14:12:54.229622,Lumbini Bikas Bank Ltd.
+2026042903004707,LBBL,62,34,142,487.0,69154.0,2026-04-29,188571878,358,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-29 14:12:54.229721,Lumbini Bikas Bank Ltd.
+2026042903004877,LBBL,62,17,104,486.0,50544.0,2026-04-29,188575191,358,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-29 14:18:28.677112,Lumbini Bikas Bank Ltd.
+2026042903004878,LBBL,62,34,196,487.0,95452.0,2026-04-29,188575194,358,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-29 14:18:28.677146,Lumbini Bikas Bank Ltd.
+2026042903004893,LBBL,14,58,146,486.0,70956.0,2026-04-29,188575406,358,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:18:51.989388,Lumbini Bikas Bank Ltd.
+2026042903004894,LBBL,52,58,95,485.1,46084.5,2026-04-29,188575408,358,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-29 14:18:51.989518,Lumbini Bikas Bank Ltd.
+2026042903004895,LBBL,34,58,70,485.0,33950.0,2026-04-29,188575410,358,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 14:18:51.989598,Lumbini Bikas Bank Ltd.
+2026042903004896,LBBL,57,58,100,484.5,48450.0,2026-04-29,188575412,358,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-29 14:18:51.989681,Lumbini Bikas Bank Ltd.
+2026042903004897,LBBL,6,58,89,484.0,43076.0,2026-04-29,188575413,358,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:18:51.989758,Lumbini Bikas Bank Ltd.
+2026042903005059,LBBL,6,52,482,484.0,233288.0,2026-04-29,188578066,358,Agrawal Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-29 14:22:25.805474,Lumbini Bikas Bank Ltd.
+2026042903005060,LBBL,26,52,18,484.0,8712.0,2026-04-29,188578067,358,Asian Securities Private Ltd.,Sundhara Securities Limited,2026-04-29 14:22:25.805742,Lumbini Bikas Bank Ltd.
+2026042903005097,LBBL,26,34,82,484.0,39688.0,2026-04-29,188579178,358,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-29 14:23:52.460162,Lumbini Bikas Bank Ltd.
+2026042903005098,LBBL,1,34,118,484.0,57112.0,2026-04-29,188579179,358,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-29 14:23:52.460312,Lumbini Bikas Bank Ltd.
+2026042903005364,LBBL,1,42,94,484.0,45496.0,2026-04-29,188585134,358,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-29 14:29:38.549830,Lumbini Bikas Bank Ltd.
+2026042903005661,LBBL,4,65,23,486.8,11196.4,2026-04-29,188591996,358,Opal Securities Investment (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-29 14:37:09.077144,Lumbini Bikas Bank Ltd.
+2026042903005770,LBBL,44,65,11,486.8,5354.8,2026-04-29,188594794,358,Dynamic Money Managers Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-29 14:39:38.723724,Lumbini Bikas Bank Ltd.
+2026042903005805,LBBL,6,65,66,486.8,32128.8,2026-04-29,188595621,358,Agrawal Securities (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-29 14:40:24.981636,Lumbini Bikas Bank Ltd.
+2026042903005806,LBBL,6,16,500,486.9,243450.0,2026-04-29,188595623,358,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 14:40:24.981820,Lumbini Bikas Bank Ltd.
+2026042903005807,LBBL,6,34,662,487.0,322394.0,2026-04-29,188595625,358,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-29 14:40:24.981893,Lumbini Bikas Bank Ltd.
+2026042903005808,LBBL,6,45,500,487.0,243500.0,2026-04-29,188595627,358,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:40:24.981953,Lumbini Bikas Bank Ltd.
+2026042903005809,LBBL,6,5,200,487.0,97400.0,2026-04-29,188595629,358,Agrawal Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-29 14:40:24.982014,Lumbini Bikas Bank Ltd.
+2026042903005810,LBBL,6,39,72,487.0,35064.0,2026-04-29,188595632,358,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:40:24.982076,Lumbini Bikas Bank Ltd.
+2026042903005998,LBBL,33,16,30,484.5,14535.0,2026-04-29,188599540,358,Dakshinkali Investment & Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 14:44:00.472142,Lumbini Bikas Bank Ltd.
+2026042903005999,LBBL,38,16,470,484.2,227574.0,2026-04-29,188599541,358,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 14:44:00.472300,Lumbini Bikas Bank Ltd.
+2026042903006134,LBBL,38,49,400,484.2,193680.0,2026-04-29,188602390,358,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:46:32.313646,Lumbini Bikas Bank Ltd.
+2026042903006135,LBBL,6,49,50,484.2,24210.0,2026-04-29,188602392,358,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:46:32.313785,Lumbini Bikas Bank Ltd.
+2026042903006136,LBBL,100,49,50,484.2,24210.0,2026-04-29,188602393,358,Sunrise Securities Limited,Online Securities Pvt. Ltd.,2026-04-29 14:46:32.313842,Lumbini Bikas Bank Ltd.
+2026042903006252,LBBL,100,74,50,484.2,24210.0,2026-04-29,188604976,358,Sunrise Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:48:42.046040,Lumbini Bikas Bank Ltd.
+2026042903006253,LBBL,34,74,100,484.2,48420.0,2026-04-29,188604978,358,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:48:42.046316,Lumbini Bikas Bank Ltd.
+2026042903006254,LBBL,86,74,100,484.1,48410.0,2026-04-29,188604980,358,Stoxkarts Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:48:42.046490,Lumbini Bikas Bank Ltd.
+2026042903006255,LBBL,1,74,38,484.0,18392.0,2026-04-29,188604982,358,Kumari Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:48:42.046668,Lumbini Bikas Bank Ltd.
+2026042903006256,LBBL,26,74,100,484.0,48400.0,2026-04-29,188604984,358,Asian Securities Private Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:48:42.046824,Lumbini Bikas Bank Ltd.
+2026042903006257,LBBL,6,74,612,484.0,296208.0,2026-04-29,188604985,358,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:48:42.046986,Lumbini Bikas Bank Ltd.
+2026042903006416,LBBL,6,49,1000,484.0,484000.0,2026-04-29,188608099,358,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:51:08.848874,Lumbini Bikas Bank Ltd.
+2026042903006419,LBBL,6,41,1000,484.0,484000.0,2026-04-29,188608195,358,Agrawal Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-29 14:51:14.408923,Lumbini Bikas Bank Ltd.
+2026042903006548,LBBL,6,45,150,484.0,72600.0,2026-04-29,188610519,358,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:52:51.042409,Lumbini Bikas Bank Ltd.
+2026042903006640,LBBL,21,39,30,484.5,14535.0,2026-04-29,188612430,358,Midas Stock Broking Company Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:54:13.248926,Lumbini Bikas Bank Ltd.
+2026042903006741,LBBL,21,39,30,484.5,14535.0,2026-04-29,188614449,358,Midas Stock Broking Company Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:55:27.761047,Lumbini Bikas Bank Ltd.
+2026042903006754,LBBL,21,39,30,484.5,14535.0,2026-04-29,188614687,358,Midas Stock Broking Company Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:55:39.318755,Lumbini Bikas Bank Ltd.
+2026042903006811,LBBL,59,35,100,485.0,48500.0,2026-04-29,188615430,358,Deevyaa Securities & Stock House Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-29 14:56:07.817925,Lumbini Bikas Bank Ltd.
+2026042903006823,LBBL,21,39,30,484.5,14535.0,2026-04-29,188615719,358,Midas Stock Broking Company Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:56:17.224165,Lumbini Bikas Bank Ltd.
+2026042903006870,LBBL,21,39,180,484.5,87210.0,2026-04-29,188616340,358,Midas Stock Broking Company Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:56:46.933147,Lumbini Bikas Bank Ltd.
+2026042903006871,LBBL,6,39,20,484.1,9682.0,2026-04-29,188616342,358,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:56:46.933218,Lumbini Bikas Bank Ltd.
+2026042903006872,LBBL,6,39,18,484.0,8712.0,2026-04-29,188616343,358,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:56:46.933246,Lumbini Bikas Bank Ltd.
+2026042903006886,LBBL,45,35,100,485.0,48500.0,2026-04-29,188616834,358,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-29 14:56:58.632098,Lumbini Bikas Bank Ltd.
+2026042903006937,LBBL,6,39,30,484.0,14520.0,2026-04-29,188617829,358,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:57:34.463894,Lumbini Bikas Bank Ltd.
+2026042903007101,LBBL,34,35,25,485.0,12125.0,2026-04-29,188622262,358,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-29 14:59:23.995099,Lumbini Bikas Bank Ltd.
+2026042903007102,LBBL,34,25,150,485.0,72750.0,2026-04-29,188622264,358,Vision Securities Pvt. Ltd,Sweta Securities Private Limited,2026-04-29 14:59:23.995237,Lumbini Bikas Bank Ltd.
+2026042903007103,LBBL,34,39,50,485.0,24250.0,2026-04-29,188622266,358,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-29 14:59:23.995303,Lumbini Bikas Bank Ltd.
+2026042903007104,LBBL,34,32,21,486.9,10224.9,2026-04-29,188622268,358,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-29 14:59:23.995368,Lumbini Bikas Bank Ltd.
+2026042903007105,LBBL,34,39,28,487.0,13636.0,2026-04-29,188622270,358,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-29 14:59:23.995435,Lumbini Bikas Bank Ltd.
+2026042903007106,LBBL,34,58,81,487.0,39447.0,2026-04-29,188622272,358,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-29 14:59:23.995500,Lumbini Bikas Bank Ltd.
+2026042903007107,LBBL,34,16,460,488.0,224480.0,2026-04-29,188622275,358,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-29 14:59:23.995573,Lumbini Bikas Bank Ltd.
+2026042903007126,LBBL,49,54,10,484.1,4841.0,2026-04-29,188622465,358,Online Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-29 14:59:27.792724,Lumbini Bikas Bank Ltd.
+2026042903007188,LBBL,49,49,40,484.1,19364.0,2026-04-29,188623438,358,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:59:42.503604,Lumbini Bikas Bank Ltd.
+2026042903007205,LBBL,34,49,100,484.1,48410.0,2026-04-29,188623642,358,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-29 14:59:46.680843,Lumbini Bikas Bank Ltd.
+2026042903007231,LBBL,26,49,860,484.1,416326.0,2026-04-29,188624092,358,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:59:52.920618,Lumbini Bikas Bank Ltd.
+2026042903007232,LBBL,26,16,40,488.0,19520.0,2026-04-29,188624096,358,Asian Securities Private Ltd.,Primo Securities (PVT) Ltd.,2026-04-29 14:59:52.920788,Lumbini Bikas Bank Ltd.
+2026042903007233,LBBL,26,44,150,488.6,73290.0,2026-04-29,188624100,358,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:59:52.920859,Lumbini Bikas Bank Ltd.
+2026042903007234,LBBL,26,4,758,488.7,370434.6,2026-04-29,188624104,358,Asian Securities Private Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-29 14:59:52.920935,Lumbini Bikas Bank Ltd.
+2026042903007235,LBBL,26,45,1000,488.8,488800.0,2026-04-29,188624108,358,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:59:52.921058,Lumbini Bikas Bank Ltd.
+2026042903007236,LBBL,26,58,1000,489.0,489000.0,2026-04-29,188624112,358,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:59:52.921126,Lumbini Bikas Bank Ltd.
+2026042903007237,LBBL,26,85,500,489.9,244950.0,2026-04-29,188624116,358,Asian Securities Private Ltd.,Capital Hub P. Ltd,2026-04-29 14:59:52.921216,Lumbini Bikas Bank Ltd.
+2026042903007238,LBBL,26,58,28,490.0,13720.0,2026-04-29,188624120,358,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:59:52.921304,Lumbini Bikas Bank Ltd.
+2026042903007239,LBBL,26,34,400,490.0,196000.0,2026-04-29,188624124,358,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,2026-04-29 14:59:52.921384,Lumbini Bikas Bank Ltd.
+2026042903007240,LBBL,26,91,200,490.0,98000.0,2026-04-29,188624128,358,Asian Securities Private Ltd.,Citizens Share Broker Limited,2026-04-29 14:59:52.921461,Lumbini Bikas Bank Ltd.
+2026042903007241,LBBL,26,22,64,490.0,31360.0,2026-04-29,188624134,358,Asian Securities Private Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 14:59:52.921543,Lumbini Bikas Bank Ltd.
+2026042903007257,LBBL,58,22,36,490.0,17640.0,2026-04-29,188624393,358,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 14:59:55.204344,Lumbini Bikas Bank Ltd.
+2026042903007258,LBBL,58,14,25,490.0,12250.0,2026-04-29,188624395,358,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 14:59:55.204466,Lumbini Bikas Bank Ltd.
+2026042903007259,LBBL,58,58,939,491.0,461049.0,2026-04-29,188624398,358,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:59:55.204560,Lumbini Bikas Bank Ltd.

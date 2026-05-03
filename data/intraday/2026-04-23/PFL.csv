@@ -1,0 +1,48 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042303000046,PFL,88,42,10,390.0,3900.0,2026-04-23,187618100,236,Blue Chip Securities Ltd,Sani Securities Company Ltd.,2026-04-23 11:03:25.849424,Pokhara Finance Ltd.
+2026042303000132,PFL,58,88,47,389.0,18283.0,2026-04-23,187621673,236,Naasa Securities Co. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:07:09.444209,Pokhara Finance Ltd.
+2026042303000406,PFL,45,4,500,381.5,190750.0,2026-04-23,187633453,236,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 11:18:23.710596,Pokhara Finance Ltd.
+2026042303000796,PFL,47,47,150,382.0,57300.0,2026-04-23,187650787,236,Neev Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 11:33:22.029175,Pokhara Finance Ltd.
+2026042303000821,PFL,50,47,10,381.6,3816.0,2026-04-23,187651473,236,Cristal Kanchanjanga Securites Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 11:34:16.032244,Pokhara Finance Ltd.
+2026042303000832,PFL,22,47,201,381.5,76681.5,2026-04-23,187651688,236,Siprabi Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 11:34:35.347883,Pokhara Finance Ltd.
+2026042303000833,PFL,46,47,49,381.5,18693.5,2026-04-23,187651690,236,Kalika Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 11:34:35.348057,Pokhara Finance Ltd.
+2026042303000834,PFL,49,47,10,381.5,3815.0,2026-04-23,187651691,236,Online Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 11:34:35.348144,Pokhara Finance Ltd.
+2026042303001607,PFL,6,39,28,382.0,10696.0,2026-04-23,187679629,236,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 12:08:04.743445,Pokhara Finance Ltd.
+2026042303001631,PFL,6,47,12,382.0,4584.0,2026-04-23,187680844,236,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:10:06.106530,Pokhara Finance Ltd.
+2026042303001698,PFL,48,47,90,382.0,34380.0,2026-04-23,187682684,236,Trishakti Securities Public Limited,Neev Securities Pvt. Ltd.,2026-04-23 12:12:46.938865,Pokhara Finance Ltd.
+2026042303001819,PFL,44,47,98,382.0,37436.0,2026-04-23,187686702,236,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:18:36.338681,Pokhara Finance Ltd.
+2026042303001857,PFL,58,1,20,381.6,7632.0,2026-04-23,187688094,236,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-23 12:20:23.917469,Pokhara Finance Ltd.
+2026042303001858,PFL,22,1,80,381.3,30504.0,2026-04-23,187688095,236,Siprabi Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 12:20:23.917557,Pokhara Finance Ltd.
+2026042303001982,PFL,22,14,920,381.3,350796.0,2026-04-23,187693234,236,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 12:28:30.090067,Pokhara Finance Ltd.
+2026042303001983,PFL,65,14,50,381.0,19050.0,2026-04-23,187693236,236,Sharepro Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 12:28:30.090239,Pokhara Finance Ltd.
+2026042303001993,PFL,57,14,30,381.0,11430.0,2026-04-23,187693670,236,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-23 12:29:35.693436,Pokhara Finance Ltd.
+2026042303002136,PFL,44,14,75,381.0,28575.0,2026-04-23,187697458,236,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 12:36:05.844971,Pokhara Finance Ltd.
+2026042303002214,PFL,44,14,10,381.0,3810.0,2026-04-23,187699278,236,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 12:38:36.136943,Pokhara Finance Ltd.
+2026042303002355,PFL,58,25,25,380.1,9502.5,2026-04-23,187702942,236,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 12:45:30.550190,Pokhara Finance Ltd.
+2026042303002541,PFL,21,47,40,380.9,15236.0,2026-04-23,187706094,236,Midas Stock Broking Company Private Limited,Neev Securities Pvt. Ltd.,2026-04-23 12:50:40.313492,Pokhara Finance Ltd.
+2026042303002683,PFL,49,47,120,380.9,45708.0,2026-04-23,187709210,236,Online Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:55:58.030850,Pokhara Finance Ltd.
+2026042303002758,PFL,58,47,40,380.9,15236.0,2026-04-23,187712018,236,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:59:43.372646,Pokhara Finance Ltd.
+2026042303002913,PFL,58,14,130,381.0,49530.0,2026-04-23,187716262,236,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:04:25.240614,Pokhara Finance Ltd.
+2026042303002926,PFL,58,14,60,381.0,22860.0,2026-04-23,187716648,236,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:04:47.639807,Pokhara Finance Ltd.
+2026042303003098,PFL,94,14,100,381.0,38100.0,2026-04-23,187719774,236,K.B.L. Securities Limited ,Nepal Stock House (PVT) Ltd.,2026-04-23 13:10:13.003540,Pokhara Finance Ltd.
+2026042303003147,PFL,47,17,1,369.6,369.6,2026-04-23,187721209,236,Neev Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 13:11:53.391315,Pokhara Finance Ltd.
+2026042303003222,PFL,44,14,100,381.0,38100.0,2026-04-23,187722998,236,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:15:16.202716,Pokhara Finance Ltd.
+2026042303003277,PFL,36,14,100,381.0,38100.0,2026-04-23,187725032,236,Secured Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:18:11.733660,Pokhara Finance Ltd.
+2026042303003282,PFL,52,14,260,381.0,99060.0,2026-04-23,187725088,236,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 13:18:18.165943,Pokhara Finance Ltd.
+2026042303003285,PFL,8,14,65,381.0,24765.0,2026-04-23,187725217,236,Brilliant Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:18:28.024210,Pokhara Finance Ltd.
+2026042303003286,PFL,8,41,85,381.0,32385.0,2026-04-23,187725220,236,Brilliant Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 13:18:28.024389,Pokhara Finance Ltd.
+2026042303003361,PFL,50,41,60,381.0,22860.0,2026-04-23,187726964,236,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 13:21:25.944205,Pokhara Finance Ltd.
+2026042303003417,PFL,8,41,75,381.0,28575.0,2026-04-23,187728430,236,Brilliant Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 13:24:11.936553,Pokhara Finance Ltd.
+2026042303003425,PFL,58,58,25,385.0,9625.0,2026-04-23,187728768,236,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:24:30.398809,Pokhara Finance Ltd.
+2026042303004214,PFL,58,16,23,381.0,8763.0,2026-04-23,187746439,236,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 13:56:53.192150,Pokhara Finance Ltd.
+2026042303004216,PFL,58,16,10,380.2,3802.0,2026-04-23,187746495,236,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 13:57:00.400400,Pokhara Finance Ltd.
+2026042303004421,PFL,58,3,10,380.3,3803.0,2026-04-23,187751268,236,Naasa Securities Co. Ltd.,Arun Securities (PVT) Ltd.,2026-04-23 14:06:44.668166,Pokhara Finance Ltd.
+2026042303004422,PFL,58,3,140,380.2,53228.0,2026-04-23,187751270,236,Naasa Securities Co. Ltd.,Arun Securities (PVT) Ltd.,2026-04-23 14:06:44.668388,Pokhara Finance Ltd.
+2026042303004423,PFL,22,3,50,380.1,19005.0,2026-04-23,187751272,236,Siprabi Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-23 14:06:44.668508,Pokhara Finance Ltd.
+2026042303004424,PFL,58,3,280,380.0,106400.0,2026-04-23,187751273,236,Naasa Securities Co. Ltd.,Arun Securities (PVT) Ltd.,2026-04-23 14:06:44.668620,Pokhara Finance Ltd.
+2026042303005392,PFL,40,45,50,380.5,19025.0,2026-04-23,187773993,236,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:42:30.177419,Pokhara Finance Ltd.
+2026042303005447,PFL,58,89,10,381.0,3810.0,2026-04-23,187774901,236,Naasa Securities Co. Ltd.,Global IME Securities Limited,2026-04-23 14:43:41.263374,Pokhara Finance Ltd.
+2026042303006362,PFL,58,49,10,381.0,3810.0,2026-04-23,187793928,236,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:57:26.692100,Pokhara Finance Ltd.
+2026042303006363,PFL,34,49,30,381.0,11430.0,2026-04-23,187793929,236,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 14:57:26.692208,Pokhara Finance Ltd.
+2026042303006513,PFL,88,32,10,384.0,3840.0,2026-04-23,187796770,236,Blue Chip Securities Ltd,Premier Securities Company Ltd.,2026-04-23 14:58:33.273191,Pokhara Finance Ltd.
+2026042303006758,PFL,47,25,4,380.0,1520.0,2026-04-23,187801305,236,Neev Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 14:59:48.125372,Pokhara Finance Ltd.

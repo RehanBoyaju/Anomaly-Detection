@@ -1,0 +1,754 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042304000048,UPPER,44,62,100,210.0,21000.0,2026-04-23,187616808,2792,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 11:02:07.944137,Upper Tamakoshi Hydropower Ltd
+2026042304000060,UPPER,58,62,200,210.0,42000.0,2026-04-23,187617121,2792,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 11:02:30.100999,Upper Tamakoshi Hydropower Ltd
+2026042304000075,UPPER,57,83,20,210.0,4200.0,2026-04-23,187617961,2792,Aryatara Investment & Securities,Sanima Securities Limited,2026-04-23 11:03:16.099431,Upper Tamakoshi Hydropower Ltd
+2026042304000133,UPPER,61,4,50,211.1,10555.0,2026-04-23,187619119,2792,BHOLE GANESH SECURITIES LTD,Opal Securities Investment (PVT) Ltd.,2026-04-23 11:04:39.023762,Upper Tamakoshi Hydropower Ltd
+2026042304000167,UPPER,14,57,68,212.0,14416.0,2026-04-23,187619745,2792,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 11:05:11.436025,Upper Tamakoshi Hydropower Ltd
+2026042304000185,UPPER,50,33,55,212.9,11709.5,2026-04-23,187619954,2792,Cristal Kanchanjanga Securites Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:05:31.754800,Upper Tamakoshi Hydropower Ltd
+2026042304000215,UPPER,5,33,195,212.9,41515.5,2026-04-23,187620443,2792,Market Securities & Exchange (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:05:57.337797,Upper Tamakoshi Hydropower Ltd
+2026042304000241,UPPER,58,57,100,212.8,21280.0,2026-04-23,187620913,2792,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:06:19.660045,Upper Tamakoshi Hydropower Ltd
+2026042304000242,UPPER,58,25,30,212.9,6387.0,2026-04-23,187620916,2792,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 11:06:19.660309,Upper Tamakoshi Hydropower Ltd
+2026042304000244,UPPER,14,25,32,212.0,6784.0,2026-04-23,187620966,2792,Nepal Stock House (PVT) Ltd.,Sweta Securities Private Limited,2026-04-23 11:06:21.587575,Upper Tamakoshi Hydropower Ltd
+2026042304000245,UPPER,4,25,168,212.0,35616.0,2026-04-23,187620967,2792,Opal Securities Investment (PVT) Ltd.,Sweta Securities Private Limited,2026-04-23 11:06:21.587815,Upper Tamakoshi Hydropower Ltd
+2026042304000264,UPPER,58,25,40,212.9,8516.0,2026-04-23,187621080,2792,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 11:06:28.818509,Upper Tamakoshi Hydropower Ltd
+2026042304000267,UPPER,4,48,205,212.0,43460.0,2026-04-23,187621087,2792,Opal Securities Investment (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 11:06:29.231115,Upper Tamakoshi Hydropower Ltd
+2026042304000271,UPPER,4,34,127,212.0,26924.0,2026-04-23,187621158,2792,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:06:34.437639,Upper Tamakoshi Hydropower Ltd
+2026042304000272,UPPER,42,34,373,212.0,79076.0,2026-04-23,187621159,2792,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:06:34.437790,Upper Tamakoshi Hydropower Ltd
+2026042304000280,UPPER,42,34,40,212.0,8480.0,2026-04-23,187621253,2792,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:06:38.939335,Upper Tamakoshi Hydropower Ltd
+2026042304000287,UPPER,42,85,87,212.0,18444.0,2026-04-23,187621306,2792,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 11:06:42.486783,Upper Tamakoshi Hydropower Ltd
+2026042304000288,UPPER,49,85,210,212.0,44520.0,2026-04-23,187621308,2792,Online Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 11:06:42.486941,Upper Tamakoshi Hydropower Ltd
+2026042304000289,UPPER,58,85,26,212.0,5512.0,2026-04-23,187621310,2792,Naasa Securities Co. Ltd.,Capital Hub P. Ltd,2026-04-23 11:06:42.487001,Upper Tamakoshi Hydropower Ltd
+2026042304000300,UPPER,61,34,25,211.1,5277.5,2026-04-23,187621476,2792,BHOLE GANESH SECURITIES LTD,Vision Securities Pvt. Ltd,2026-04-23 11:06:54.567756,Upper Tamakoshi Hydropower Ltd
+2026042304000301,UPPER,58,34,11,211.1,2322.1,2026-04-23,187621478,2792,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:06:54.567878,Upper Tamakoshi Hydropower Ltd
+2026042304000302,UPPER,25,34,150,211.0,31650.0,2026-04-23,187621480,2792,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 11:06:54.567940,Upper Tamakoshi Hydropower Ltd
+2026042304000307,UPPER,57,34,180,210.0,37800.0,2026-04-23,187621614,2792,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 11:07:04.247184,Upper Tamakoshi Hydropower Ltd
+2026042304000308,UPPER,45,34,500,210.0,105000.0,2026-04-23,187621616,2792,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:07:04.247304,Upper Tamakoshi Hydropower Ltd
+2026042304000309,UPPER,42,34,134,210.0,28140.0,2026-04-23,187621617,2792,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:07:04.247377,Upper Tamakoshi Hydropower Ltd
+2026042304000341,UPPER,32,85,177,212.0,37524.0,2026-04-23,187621943,2792,Premier Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 11:07:22.831754,Upper Tamakoshi Hydropower Ltd
+2026042304000342,UPPER,32,29,123,212.0,26076.0,2026-04-23,187621946,2792,Premier Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 11:07:22.831894,Upper Tamakoshi Hydropower Ltd
+2026042304000368,UPPER,51,34,200,211.0,42200.0,2026-04-23,187622507,2792,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:07:45.627673,Upper Tamakoshi Hydropower Ltd
+2026042304000384,UPPER,58,41,40,211.9,8476.0,2026-04-23,187622728,2792,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:07:57.653242,Upper Tamakoshi Hydropower Ltd
+2026042304000392,UPPER,52,59,500,211.5,105750.0,2026-04-23,187622789,2792,Sundhara Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:08:04.084380,Upper Tamakoshi Hydropower Ltd
+2026042304000393,UPPER,52,41,160,211.9,33904.0,2026-04-23,187622791,2792,Sundhara Securities Limited,Linch Stock Market Ltd.,2026-04-23 11:08:04.084516,Upper Tamakoshi Hydropower Ltd
+2026042304000394,UPPER,52,29,70,212.0,14840.0,2026-04-23,187622794,2792,Sundhara Securities Limited,Trisul Securities & Invt. Ltd.,2026-04-23 11:08:04.084573,Upper Tamakoshi Hydropower Ltd
+2026042304000404,UPPER,51,42,273,211.0,57603.0,2026-04-23,187622956,2792,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:08:12.294733,Upper Tamakoshi Hydropower Ltd
+2026042304000410,UPPER,58,42,227,211.0,47897.0,2026-04-23,187623183,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:08:23.025195,Upper Tamakoshi Hydropower Ltd
+2026042304000419,UPPER,58,48,51,211.9,10806.9,2026-04-23,187623384,2792,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 11:08:35.517273,Upper Tamakoshi Hydropower Ltd
+2026042304000546,UPPER,74,58,100,210.1,21010.0,2026-04-23,187625367,2792,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,2026-04-23 11:10:38.808322,Upper Tamakoshi Hydropower Ltd
+2026042304000556,UPPER,14,1,19,210.0,3990.0,2026-04-23,187625752,2792,Nepal Stock House (PVT) Ltd.,Kumari Securities Private Limited,2026-04-23 11:11:04.322885,Upper Tamakoshi Hydropower Ltd
+2026042304000557,UPPER,56,1,30,210.0,6300.0,2026-04-23,187625754,2792,Sri Hari Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 11:11:04.323203,Upper Tamakoshi Hydropower Ltd
+2026042304000558,UPPER,58,1,50,210.0,10500.0,2026-04-23,187625756,2792,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-23 11:11:04.323441,Upper Tamakoshi Hydropower Ltd
+2026042304000564,UPPER,46,25,10,210.0,2100.0,2026-04-23,187625790,2792,Kalika Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 11:11:06.635218,Upper Tamakoshi Hydropower Ltd
+2026042304000565,UPPER,56,25,200,210.0,42000.0,2026-04-23,187625792,2792,Sri Hari Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 11:11:06.635395,Upper Tamakoshi Hydropower Ltd
+2026042304000566,UPPER,42,25,10,210.0,2100.0,2026-04-23,187625794,2792,Sani Securities Company Ltd.,Sweta Securities Private Limited,2026-04-23 11:11:06.635582,Upper Tamakoshi Hydropower Ltd
+2026042304000567,UPPER,7,25,20,210.0,4200.0,2026-04-23,187625796,2792,J.F. Securites (PVT) Ltd.,Sweta Securities Private Limited,2026-04-23 11:11:06.635788,Upper Tamakoshi Hydropower Ltd
+2026042304000582,UPPER,36,25,50,210.0,10500.0,2026-04-23,187625936,2792,Secured Securities Ltd.,Sweta Securities Private Limited,2026-04-23 11:11:17.823023,Upper Tamakoshi Hydropower Ltd
+2026042304000586,UPPER,58,25,10,210.0,2100.0,2026-04-23,187626038,2792,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 11:11:24.944737,Upper Tamakoshi Hydropower Ltd
+2026042304000618,UPPER,58,58,10,210.0,2100.0,2026-04-23,187626777,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:12:18.609917,Upper Tamakoshi Hydropower Ltd
+2026042304000633,UPPER,34,1,1,210.0,210.0,2026-04-23,187627241,2792,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,2026-04-23 11:12:47.752245,Upper Tamakoshi Hydropower Ltd
+2026042304000670,UPPER,49,35,60,208.1,12486.0,2026-04-23,187628422,2792,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 11:13:53.951344,Upper Tamakoshi Hydropower Ltd
+2026042304000671,UPPER,43,35,36,208.0,7488.0,2026-04-23,187628423,2792,South Asian Bulls Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 11:13:53.951568,Upper Tamakoshi Hydropower Ltd
+2026042304000676,UPPER,62,57,50,210.0,10500.0,2026-04-23,187628554,2792,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-23 11:14:01.603407,Upper Tamakoshi Hydropower Ltd
+2026042304000690,UPPER,43,13,14,208.0,2912.0,2026-04-23,187628876,2792,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 11:14:21.713275,Upper Tamakoshi Hydropower Ltd
+2026042304000691,UPPER,56,13,36,208.0,7488.0,2026-04-23,187628877,2792,Sri Hari Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 11:14:21.713503,Upper Tamakoshi Hydropower Ltd
+2026042304000736,UPPER,56,51,25,208.0,5200.0,2026-04-23,187629699,2792,Sri Hari Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:15:12.825094,Upper Tamakoshi Hydropower Ltd
+2026042304000745,UPPER,19,57,10,210.0,2100.0,2026-04-23,187629788,2792,Nepal Investment And Securities Trading Private Limited,Aryatara Investment & Securities,2026-04-23 11:15:18.500245,Upper Tamakoshi Hydropower Ltd
+2026042304000809,UPPER,42,57,50,210.0,10500.0,2026-04-23,187630970,2792,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-23 11:16:24.898520,Upper Tamakoshi Hydropower Ltd
+2026042304000826,UPPER,58,57,30,210.0,6300.0,2026-04-23,187631156,2792,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:16:34.712024,Upper Tamakoshi Hydropower Ltd
+2026042304000846,UPPER,49,58,30,208.1,6243.0,2026-04-23,187632095,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:17:18.613350,Upper Tamakoshi Hydropower Ltd
+2026042304000901,UPPER,34,58,1,210.0,210.0,2026-04-23,187633367,2792,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 11:18:19.343654,Upper Tamakoshi Hydropower Ltd
+2026042304000915,UPPER,45,57,30,210.0,6300.0,2026-04-23,187633802,2792,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 11:18:44.229870,Upper Tamakoshi Hydropower Ltd
+2026042304000916,UPPER,58,58,241,209.0,50369.0,2026-04-23,187633806,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:18:44.414054,Upper Tamakoshi Hydropower Ltd
+2026042304000917,UPPER,49,58,159,208.1,33087.9,2026-04-23,187633807,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:18:44.414123,Upper Tamakoshi Hydropower Ltd
+2026042304000932,UPPER,52,57,330,210.0,69300.0,2026-04-23,187634307,2792,Sundhara Securities Limited,Aryatara Investment & Securities,2026-04-23 11:19:10.588556,Upper Tamakoshi Hydropower Ltd
+2026042304000933,UPPER,52,34,170,210.0,35700.0,2026-04-23,187634310,2792,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-23 11:19:10.589003,Upper Tamakoshi Hydropower Ltd
+2026042304000946,UPPER,54,34,10,210.0,2100.0,2026-04-23,187634746,2792,Sewa Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:19:37.909473,Upper Tamakoshi Hydropower Ltd
+2026042304000969,UPPER,40,34,500,210.0,105000.0,2026-04-23,187635236,2792,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:20:04.348594,Upper Tamakoshi Hydropower Ltd
+2026042304001035,UPPER,38,34,220,210.0,46200.0,2026-04-23,187636621,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:21:14.061360,Upper Tamakoshi Hydropower Ltd
+2026042304001036,UPPER,38,38,48,210.0,10080.0,2026-04-23,187636623,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:21:14.061642,Upper Tamakoshi Hydropower Ltd
+2026042304001037,UPPER,38,13,70,210.0,14700.0,2026-04-23,187636625,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 11:21:14.061750,Upper Tamakoshi Hydropower Ltd
+2026042304001038,UPPER,38,49,10,210.0,2100.0,2026-04-23,187636627,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:21:14.061853,Upper Tamakoshi Hydropower Ltd
+2026042304001039,UPPER,38,49,50,210.0,10500.0,2026-04-23,187636629,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:21:14.062049,Upper Tamakoshi Hydropower Ltd
+2026042304001040,UPPER,38,29,267,210.0,56070.0,2026-04-23,187636631,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 11:21:14.062225,Upper Tamakoshi Hydropower Ltd
+2026042304001071,UPPER,38,58,200,210.0,42000.0,2026-04-23,187637023,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:21:33.131503,Upper Tamakoshi Hydropower Ltd
+2026042304001088,UPPER,58,32,10,210.5,2105.0,2026-04-23,187637662,2792,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-23 11:21:48.427034,Upper Tamakoshi Hydropower Ltd
+2026042304001180,UPPER,38,58,10,210.0,2100.0,2026-04-23,187639101,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:23:10.344397,Upper Tamakoshi Hydropower Ltd
+2026042304001185,UPPER,38,50,125,210.0,26250.0,2026-04-23,187639238,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:23:19.088050,Upper Tamakoshi Hydropower Ltd
+2026042304001186,UPPER,42,50,25,210.0,5250.0,2026-04-23,187639239,2792,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:23:19.088544,Upper Tamakoshi Hydropower Ltd
+2026042304001211,UPPER,42,50,27,210.0,5670.0,2026-04-23,187639400,2792,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:23:28.715220,Upper Tamakoshi Hydropower Ltd
+2026042304001264,UPPER,1,57,10,209.0,2090.0,2026-04-23,187640448,2792,Kumari Securities Private Limited,Aryatara Investment & Securities,2026-04-23 11:24:27.959839,Upper Tamakoshi Hydropower Ltd
+2026042304001265,UPPER,45,57,290,209.0,60610.0,2026-04-23,187640449,2792,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 11:24:27.960104,Upper Tamakoshi Hydropower Ltd
+2026042304001267,UPPER,42,50,10,210.0,2100.0,2026-04-23,187640548,2792,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:24:31.998380,Upper Tamakoshi Hydropower Ltd
+2026042304001278,UPPER,46,50,80,210.0,16800.0,2026-04-23,187640918,2792,Kalika Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:24:44.782564,Upper Tamakoshi Hydropower Ltd
+2026042304001283,UPPER,45,34,210,209.0,43890.0,2026-04-23,187641104,2792,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:24:56.961816,Upper Tamakoshi Hydropower Ltd
+2026042304001284,UPPER,58,34,10,209.0,2090.0,2026-04-23,187641106,2792,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:24:56.962353,Upper Tamakoshi Hydropower Ltd
+2026042304001334,UPPER,44,34,10,209.0,2090.0,2026-04-23,187642126,2792,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:25:56.642178,Upper Tamakoshi Hydropower Ltd
+2026042304001344,UPPER,49,19,11,208.1,2289.1,2026-04-23,187642466,2792,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:26:18.086965,Upper Tamakoshi Hydropower Ltd
+2026042304001345,UPPER,5,19,89,208.1,18520.9,2026-04-23,187642467,2792,Market Securities & Exchange (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:26:18.087620,Upper Tamakoshi Hydropower Ltd
+2026042304001380,UPPER,5,49,111,208.1,23099.1,2026-04-23,187643188,2792,Market Securities & Exchange (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.183620,Upper Tamakoshi Hydropower Ltd
+2026042304001381,UPPER,56,49,139,208.0,28912.0,2026-04-23,187643190,2792,Sri Hari Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.184197,Upper Tamakoshi Hydropower Ltd
+2026042304001382,UPPER,42,49,35,208.0,7280.0,2026-04-23,187643192,2792,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.184577,Upper Tamakoshi Hydropower Ltd
+2026042304001383,UPPER,42,49,50,208.0,10400.0,2026-04-23,187643194,2792,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.184929,Upper Tamakoshi Hydropower Ltd
+2026042304001384,UPPER,38,49,50,208.0,10400.0,2026-04-23,187643196,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.185292,Upper Tamakoshi Hydropower Ltd
+2026042304001385,UPPER,59,49,50,208.0,10400.0,2026-04-23,187643198,2792,Deevyaa Securities & Stock House Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.185631,Upper Tamakoshi Hydropower Ltd
+2026042304001386,UPPER,89,49,50,207.5,10375.0,2026-04-23,187643200,2792,Global IME Securities Limited,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.185990,Upper Tamakoshi Hydropower Ltd
+2026042304001387,UPPER,58,49,50,207.5,10375.0,2026-04-23,187643202,2792,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.186324,Upper Tamakoshi Hydropower Ltd
+2026042304001388,UPPER,77,49,10,207.5,2075.0,2026-04-23,187643204,2792,Nabil Stock Dealer Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.186671,Upper Tamakoshi Hydropower Ltd
+2026042304001389,UPPER,34,49,10,207.2,2072.0,2026-04-23,187643206,2792,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.186833,Upper Tamakoshi Hydropower Ltd
+2026042304001390,UPPER,58,49,140,207.1,28994.0,2026-04-23,187643208,2792,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.186949,Upper Tamakoshi Hydropower Ltd
+2026042304001391,UPPER,49,49,240,207.0,49680.0,2026-04-23,187643210,2792,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.187057,Upper Tamakoshi Hydropower Ltd
+2026042304001392,UPPER,57,49,65,207.0,13455.0,2026-04-23,187643211,2792,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-23 11:27:01.187160,Upper Tamakoshi Hydropower Ltd
+2026042304001398,UPPER,40,34,10,209.0,2090.0,2026-04-23,187643420,2792,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:27:06.198642,Upper Tamakoshi Hydropower Ltd
+2026042304001464,UPPER,56,6,236,207.6,48993.6,2026-04-23,187645014,2792,Sri Hari Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 11:28:10.897523,Upper Tamakoshi Hydropower Ltd
+2026042304001465,UPPER,57,6,135,207.0,27945.0,2026-04-23,187645016,2792,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-23 11:28:10.898006,Upper Tamakoshi Hydropower Ltd
+2026042304001466,UPPER,35,6,39,207.0,8073.0,2026-04-23,187645017,2792,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 11:28:10.898304,Upper Tamakoshi Hydropower Ltd
+2026042304001522,UPPER,35,28,100,207.0,20700.0,2026-04-23,187646285,2792,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:29:04.737890,Upper Tamakoshi Hydropower Ltd
+2026042304001583,UPPER,45,34,27,209.0,5643.0,2026-04-23,187647524,2792,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:30:20.853570,Upper Tamakoshi Hydropower Ltd
+2026042304001584,UPPER,7,51,10,208.0,2080.0,2026-04-23,187647580,2792,J.F. Securites (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:30:23.364652,Upper Tamakoshi Hydropower Ltd
+2026042304001603,UPPER,74,51,100,208.0,20800.0,2026-04-23,187647788,2792,KALASH STOCK MARKET PVT. LTD.,Oxford Securities Pvt. Ltd.,2026-04-23 11:30:38.648562,Upper Tamakoshi Hydropower Ltd
+2026042304001612,UPPER,57,51,30,208.0,6240.0,2026-04-23,187648104,2792,Aryatara Investment & Securities,Oxford Securities Pvt. Ltd.,2026-04-23 11:30:49.213456,Upper Tamakoshi Hydropower Ltd
+2026042304001620,UPPER,38,51,50,208.0,10400.0,2026-04-23,187648204,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:30:55.379065,Upper Tamakoshi Hydropower Ltd
+2026042304001627,UPPER,58,51,95,208.0,19760.0,2026-04-23,187648262,2792,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:31:00.536676,Upper Tamakoshi Hydropower Ltd
+2026042304001660,UPPER,58,51,37,208.0,7696.0,2026-04-23,187648798,2792,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:31:28.670940,Upper Tamakoshi Hydropower Ltd
+2026042304001680,UPPER,39,51,250,208.0,52000.0,2026-04-23,187649224,2792,Sumeru Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:31:55.007541,Upper Tamakoshi Hydropower Ltd
+2026042304001714,UPPER,45,51,500,208.0,104000.0,2026-04-23,187649738,2792,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:32:24.918614,Upper Tamakoshi Hydropower Ltd
+2026042304001732,UPPER,38,51,10,208.0,2080.0,2026-04-23,187650086,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:32:41.075465,Upper Tamakoshi Hydropower Ltd
+2026042304001734,UPPER,13,51,1000,208.0,208000.0,2026-04-23,187650094,2792,Thrive Brokerage House Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 11:32:41.754975,Upper Tamakoshi Hydropower Ltd
+2026042304001751,UPPER,6,51,20,208.0,4160.0,2026-04-23,187650390,2792,Agrawal Securities (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:33:03.882807,Upper Tamakoshi Hydropower Ltd
+2026042304001753,UPPER,21,51,500,208.0,104000.0,2026-04-23,187650542,2792,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:33:12.343947,Upper Tamakoshi Hydropower Ltd
+2026042304001776,UPPER,17,51,300,208.0,62400.0,2026-04-23,187650920,2792,ABC Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:33:30.884725,Upper Tamakoshi Hydropower Ltd
+2026042304001799,UPPER,13,38,114,208.1,23723.4,2026-04-23,187651323,2792,Thrive Brokerage House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:34:01.910644,Upper Tamakoshi Hydropower Ltd
+2026042304001800,UPPER,13,34,133,209.0,27797.0,2026-04-23,187651325,2792,Thrive Brokerage House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:34:01.911227,Upper Tamakoshi Hydropower Ltd
+2026042304001801,UPPER,13,8,3000,209.0,627000.0,2026-04-23,187651327,2792,Thrive Brokerage House Pvt. Ltd,Brilliant Securities Pvt. Ltd.,2026-04-23 11:34:01.911652,Upper Tamakoshi Hydropower Ltd
+2026042304001802,UPPER,13,41,40,209.0,8360.0,2026-04-23,187651330,2792,Thrive Brokerage House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-23 11:34:01.912064,Upper Tamakoshi Hydropower Ltd
+2026042304001860,UPPER,51,50,50,208.0,10400.0,2026-04-23,187653114,2792,Oxford Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:35:57.079990,Upper Tamakoshi Hydropower Ltd
+2026042304001861,UPPER,58,50,50,208.0,10400.0,2026-04-23,187653115,2792,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:35:57.080299,Upper Tamakoshi Hydropower Ltd
+2026042304001926,UPPER,16,8,90,209.7,18873.0,2026-04-23,187654993,2792,Primo Securities (PVT) Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 11:38:05.798814,Upper Tamakoshi Hydropower Ltd
+2026042304001927,UPPER,16,3,100,209.8,20980.0,2026-04-23,187654995,2792,Primo Securities (PVT) Ltd.,Arun Securities (PVT) Ltd.,2026-04-23 11:38:05.799137,Upper Tamakoshi Hydropower Ltd
+2026042304001928,UPPER,16,59,104,210.0,21840.0,2026-04-23,187654997,2792,Primo Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:38:05.799274,Upper Tamakoshi Hydropower Ltd
+2026042304001929,UPPER,16,58,50,210.0,10500.0,2026-04-23,187654999,2792,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:38:05.799417,Upper Tamakoshi Hydropower Ltd
+2026042304001930,UPPER,16,57,100,210.0,21000.0,2026-04-23,187655001,2792,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 11:38:05.799547,Upper Tamakoshi Hydropower Ltd
+2026042304001931,UPPER,16,57,56,210.0,11760.0,2026-04-23,187655004,2792,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 11:38:05.799677,Upper Tamakoshi Hydropower Ltd
+2026042304002021,UPPER,58,8,10,209.9,2099.0,2026-04-23,187656358,2792,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 11:40:00.164742,Upper Tamakoshi Hydropower Ltd
+2026042304002028,UPPER,58,57,10,210.0,2100.0,2026-04-23,187656848,2792,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:40:23.128177,Upper Tamakoshi Hydropower Ltd
+2026042304002095,UPPER,42,58,40,209.0,8360.0,2026-04-23,187658127,2792,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:42:03.829160,Upper Tamakoshi Hydropower Ltd
+2026042304002109,UPPER,42,42,115,209.0,24035.0,2026-04-23,187658510,2792,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 11:42:27.564573,Upper Tamakoshi Hydropower Ltd
+2026042304002110,UPPER,58,42,35,209.0,7315.0,2026-04-23,187658511,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:42:27.564951,Upper Tamakoshi Hydropower Ltd
+2026042304002130,UPPER,58,33,30,209.1,6273.0,2026-04-23,187658800,2792,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:42:50.516930,Upper Tamakoshi Hydropower Ltd
+2026042304002131,UPPER,58,33,15,209.0,3135.0,2026-04-23,187658802,2792,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:42:50.517275,Upper Tamakoshi Hydropower Ltd
+2026042304002132,UPPER,7,33,15,209.0,3135.0,2026-04-23,187658804,2792,J.F. Securites (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:42:50.517438,Upper Tamakoshi Hydropower Ltd
+2026042304002184,UPPER,58,33,40,209.0,8360.0,2026-04-23,187659309,2792,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:43:26.707395,Upper Tamakoshi Hydropower Ltd
+2026042304002277,UPPER,52,42,30,209.0,6270.0,2026-04-23,187660174,2792,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-23 11:44:35.469055,Upper Tamakoshi Hydropower Ltd
+2026042304002278,UPPER,34,42,470,208.6,98042.0,2026-04-23,187660175,2792,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 11:44:35.469430,Upper Tamakoshi Hydropower Ltd
+2026042304002329,UPPER,58,4,10,209.0,2090.0,2026-04-23,187660854,2792,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 11:45:26.957249,Upper Tamakoshi Hydropower Ltd
+2026042304002360,UPPER,40,4,70,209.0,14630.0,2026-04-23,187661350,2792,Creative Securities Pvt Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-23 11:46:00.749635,Upper Tamakoshi Hydropower Ltd
+2026042304002385,UPPER,34,88,30,208.6,6258.0,2026-04-23,187661836,2792,Vision Securities Pvt. Ltd,Blue Chip Securities Ltd,2026-04-23 11:46:41.080873,Upper Tamakoshi Hydropower Ltd
+2026042304002386,UPPER,42,88,475,208.5,99037.5,2026-04-23,187661838,2792,Sani Securities Company Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.080945,Upper Tamakoshi Hydropower Ltd
+2026042304002387,UPPER,58,88,200,208.0,41600.0,2026-04-23,187661840,2792,Naasa Securities Co. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.080973,Upper Tamakoshi Hydropower Ltd
+2026042304002388,UPPER,65,88,20,208.0,4160.0,2026-04-23,187661842,2792,Sharepro Securities Private Limited,Blue Chip Securities Ltd,2026-04-23 11:46:41.080998,Upper Tamakoshi Hydropower Ltd
+2026042304002389,UPPER,58,88,24,208.0,4992.0,2026-04-23,187661844,2792,Naasa Securities Co. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.081024,Upper Tamakoshi Hydropower Ltd
+2026042304002390,UPPER,51,88,50,208.0,10400.0,2026-04-23,187661846,2792,Oxford Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.081058,Upper Tamakoshi Hydropower Ltd
+2026042304002391,UPPER,52,88,500,208.0,104000.0,2026-04-23,187661848,2792,Sundhara Securities Limited,Blue Chip Securities Ltd,2026-04-23 11:46:41.081087,Upper Tamakoshi Hydropower Ltd
+2026042304002392,UPPER,14,88,21,208.0,4368.0,2026-04-23,187661850,2792,Nepal Stock House (PVT) Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.081135,Upper Tamakoshi Hydropower Ltd
+2026042304002393,UPPER,28,88,503,207.9,104573.7,2026-04-23,187661852,2792,Shree Krishna Securities Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.081176,Upper Tamakoshi Hydropower Ltd
+2026042304002394,UPPER,58,88,20,207.5,4150.0,2026-04-23,187661854,2792,Naasa Securities Co. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.081225,Upper Tamakoshi Hydropower Ltd
+2026042304002395,UPPER,41,88,157,207.5,32577.5,2026-04-23,187661855,2792,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:41.081252,Upper Tamakoshi Hydropower Ltd
+2026042304002417,UPPER,41,88,43,207.5,8922.5,2026-04-23,187662100,2792,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628368,Upper Tamakoshi Hydropower Ltd
+2026042304002418,UPPER,42,88,26,207.3,5389.8,2026-04-23,187662102,2792,Sani Securities Company Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628428,Upper Tamakoshi Hydropower Ltd
+2026042304002419,UPPER,82,88,1000,207.3,207300.0,2026-04-23,187662104,2792,N.M.B. SECURITIES LIMITED,Blue Chip Securities Ltd,2026-04-23 11:46:59.628453,Upper Tamakoshi Hydropower Ltd
+2026042304002420,UPPER,58,88,20,207.2,4144.0,2026-04-23,187662106,2792,Naasa Securities Co. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628483,Upper Tamakoshi Hydropower Ltd
+2026042304002421,UPPER,62,88,500,207.1,103550.0,2026-04-23,187662108,2792,Capital Max Securities Ltd,Blue Chip Securities Ltd,2026-04-23 11:46:59.628510,Upper Tamakoshi Hydropower Ltd
+2026042304002422,UPPER,85,88,200,207.1,41420.0,2026-04-23,187662111,2792,Capital Hub P. Ltd,Blue Chip Securities Ltd,2026-04-23 11:46:59.628559,Upper Tamakoshi Hydropower Ltd
+2026042304002423,UPPER,35,88,61,207.0,12627.0,2026-04-23,187662114,2792,Kohinoor Investment & Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628579,Upper Tamakoshi Hydropower Ltd
+2026042304002424,UPPER,47,88,100,207.0,20700.0,2026-04-23,187662116,2792,Neev Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628603,Upper Tamakoshi Hydropower Ltd
+2026042304002425,UPPER,49,88,100,207.0,20700.0,2026-04-23,187662118,2792,Online Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628623,Upper Tamakoshi Hydropower Ltd
+2026042304002426,UPPER,45,88,300,207.0,62100.0,2026-04-23,187662120,2792,Imperial Securities Company Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628645,Upper Tamakoshi Hydropower Ltd
+2026042304002427,UPPER,50,88,100,207.0,20700.0,2026-04-23,187662122,2792,Cristal Kanchanjanga Securites Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628667,Upper Tamakoshi Hydropower Ltd
+2026042304002428,UPPER,7,88,30,207.0,6210.0,2026-04-23,187662124,2792,J.F. Securites (PVT) Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628688,Upper Tamakoshi Hydropower Ltd
+2026042304002429,UPPER,42,88,50,207.0,10350.0,2026-04-23,187662126,2792,Sani Securities Company Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628711,Upper Tamakoshi Hydropower Ltd
+2026042304002430,UPPER,38,88,1000,207.0,207000.0,2026-04-23,187662128,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628731,Upper Tamakoshi Hydropower Ltd
+2026042304002431,UPPER,51,88,200,207.0,41400.0,2026-04-23,187662130,2792,Oxford Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628752,Upper Tamakoshi Hydropower Ltd
+2026042304002432,UPPER,1,88,500,207.0,103500.0,2026-04-23,187662132,2792,Kumari Securities Private Limited,Blue Chip Securities Ltd,2026-04-23 11:46:59.628773,Upper Tamakoshi Hydropower Ltd
+2026042304002433,UPPER,58,88,50,207.0,10350.0,2026-04-23,187662134,2792,Naasa Securities Co. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628834,Upper Tamakoshi Hydropower Ltd
+2026042304002434,UPPER,41,88,181,207.0,37467.0,2026-04-23,187662136,2792,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628857,Upper Tamakoshi Hydropower Ltd
+2026042304002435,UPPER,56,88,100,207.0,20700.0,2026-04-23,187662138,2792,Sri Hari Securities Pvt. Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628877,Upper Tamakoshi Hydropower Ltd
+2026042304002436,UPPER,41,88,22,207.0,4554.0,2026-04-23,187662140,2792,Linch Stock Market Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628898,Upper Tamakoshi Hydropower Ltd
+2026042304002437,UPPER,59,88,100,207.0,20700.0,2026-04-23,187662142,2792,Deevyaa Securities & Stock House Pvt. Ltd,Blue Chip Securities Ltd,2026-04-23 11:46:59.628979,Upper Tamakoshi Hydropower Ltd
+2026042304002438,UPPER,26,88,317,207.0,65619.0,2026-04-23,187662143,2792,Asian Securities Private Ltd.,Blue Chip Securities Ltd,2026-04-23 11:46:59.628999,Upper Tamakoshi Hydropower Ltd
+2026042304002489,UPPER,51,58,10,209.0,2090.0,2026-04-23,187662850,2792,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:47:47.856909,Upper Tamakoshi Hydropower Ltd
+2026042304002510,UPPER,58,58,30,209.0,6270.0,2026-04-23,187663388,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:48:31.398420,Upper Tamakoshi Hydropower Ltd
+2026042304002546,UPPER,58,58,20,209.0,4180.0,2026-04-23,187664076,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:49:31.524556,Upper Tamakoshi Hydropower Ltd
+2026042304002549,UPPER,42,58,10,209.0,2090.0,2026-04-23,187664159,2792,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:49:40.525057,Upper Tamakoshi Hydropower Ltd
+2026042304002550,UPPER,42,42,90,209.0,18810.0,2026-04-23,187664162,2792,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 11:49:40.525443,Upper Tamakoshi Hydropower Ltd
+2026042304002575,UPPER,34,42,200,208.0,41600.0,2026-04-23,187664341,2792,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 11:49:57.083302,Upper Tamakoshi Hydropower Ltd
+2026042304002637,UPPER,13,21,20,208.9,4178.0,2026-04-23,187664915,2792,Thrive Brokerage House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-23 11:50:41.424552,Upper Tamakoshi Hydropower Ltd
+2026042304002638,UPPER,41,57,100,208.0,20800.0,2026-04-23,187664985,2792,Linch Stock Market Ltd.,Aryatara Investment & Securities,2026-04-23 11:50:42.055830,Upper Tamakoshi Hydropower Ltd
+2026042304002656,UPPER,34,57,350,207.6,72660.0,2026-04-23,187665497,2792,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 11:51:11.208304,Upper Tamakoshi Hydropower Ltd
+2026042304002658,UPPER,51,34,49,208.0,10192.0,2026-04-23,187665526,2792,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:51:14.879195,Upper Tamakoshi Hydropower Ltd
+2026042304002659,UPPER,49,58,400,207.1,82840.0,2026-04-23,187665559,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:51:17.789818,Upper Tamakoshi Hydropower Ltd
+2026042304002680,UPPER,42,58,10,207.3,2073.0,2026-04-23,187665868,2792,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:51:43.110885,Upper Tamakoshi Hydropower Ltd
+2026042304002681,UPPER,49,58,390,207.1,80769.0,2026-04-23,187665869,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:51:43.111212,Upper Tamakoshi Hydropower Ltd
+2026042304002688,UPPER,62,34,20,208.0,4160.0,2026-04-23,187666004,2792,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:51:54.861961,Upper Tamakoshi Hydropower Ltd
+2026042304002771,UPPER,13,34,31,208.0,6448.0,2026-04-23,187666839,2792,Thrive Brokerage House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:53:04.700674,Upper Tamakoshi Hydropower Ltd
+2026042304002772,UPPER,13,53,45,208.0,9360.0,2026-04-23,187666843,2792,Thrive Brokerage House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-23 11:53:04.701540,Upper Tamakoshi Hydropower Ltd
+2026042304002773,UPPER,13,38,114,208.0,23712.0,2026-04-23,187666845,2792,Thrive Brokerage House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:53:04.702055,Upper Tamakoshi Hydropower Ltd
+2026042304002774,UPPER,13,57,50,208.0,10400.0,2026-04-23,187666847,2792,Thrive Brokerage House Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 11:53:04.702597,Upper Tamakoshi Hydropower Ltd
+2026042304002775,UPPER,13,6,100,208.0,20800.0,2026-04-23,187666857,2792,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-23 11:53:05.453850,Upper Tamakoshi Hydropower Ltd
+2026042304002788,UPPER,13,32,500,208.0,104000.0,2026-04-23,187666963,2792,Thrive Brokerage House Pvt. Ltd,Premier Securities Company Ltd.,2026-04-23 11:53:11.734097,Upper Tamakoshi Hydropower Ltd
+2026042304002847,UPPER,13,39,68,208.0,14144.0,2026-04-23,187667871,2792,Thrive Brokerage House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-23 11:54:22.347851,Upper Tamakoshi Hydropower Ltd
+2026042304002850,UPPER,13,21,76,208.0,15808.0,2026-04-23,187667925,2792,Thrive Brokerage House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-23 11:54:26.547710,Upper Tamakoshi Hydropower Ltd
+2026042304002888,UPPER,13,42,16,208.0,3328.0,2026-04-23,187668770,2792,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 11:55:28.176937,Upper Tamakoshi Hydropower Ltd
+2026042304002889,UPPER,40,42,190,208.0,39520.0,2026-04-23,187668772,2792,Creative Securities Pvt Ltd,Sani Securities Company Ltd.,2026-04-23 11:55:28.177696,Upper Tamakoshi Hydropower Ltd
+2026042304002890,UPPER,58,42,53,208.0,11024.0,2026-04-23,187668774,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:55:28.178195,Upper Tamakoshi Hydropower Ltd
+2026042304002896,UPPER,42,42,10,208.0,2080.0,2026-04-23,187668838,2792,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 11:55:32.678391,Upper Tamakoshi Hydropower Ltd
+2026042304002897,UPPER,41,42,50,208.0,10400.0,2026-04-23,187668864,2792,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-23 11:55:35.949094,Upper Tamakoshi Hydropower Ltd
+2026042304002898,UPPER,58,42,10,208.0,2080.0,2026-04-23,187668876,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:55:37.179219,Upper Tamakoshi Hydropower Ltd
+2026042304002908,UPPER,40,42,10,208.0,2080.0,2026-04-23,187669062,2792,Creative Securities Pvt Ltd,Sani Securities Company Ltd.,2026-04-23 11:55:49.992772,Upper Tamakoshi Hydropower Ltd
+2026042304002909,UPPER,58,42,20,208.0,4160.0,2026-04-23,187669148,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:55:56.122485,Upper Tamakoshi Hydropower Ltd
+2026042304002910,UPPER,17,42,50,208.0,10400.0,2026-04-23,187669158,2792,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 11:55:57.281266,Upper Tamakoshi Hydropower Ltd
+2026042304002947,UPPER,49,57,72,207.1,14911.2,2026-04-23,187669641,2792,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 11:56:32.241651,Upper Tamakoshi Hydropower Ltd
+2026042304003032,UPPER,36,18,500,208.0,104000.0,2026-04-23,187670759,2792,Secured Securities Ltd.,Sagarmatha Securities Private Limited,2026-04-23 11:57:41.435565,Upper Tamakoshi Hydropower Ltd
+2026042304003045,UPPER,49,45,138,207.1,28579.8,2026-04-23,187671058,2792,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353653,Upper Tamakoshi Hydropower Ltd
+2026042304003046,UPPER,41,45,20,207.1,4142.0,2026-04-23,187671060,2792,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353763,Upper Tamakoshi Hydropower Ltd
+2026042304003047,UPPER,26,45,683,207.0,141381.0,2026-04-23,187671062,2792,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353800,Upper Tamakoshi Hydropower Ltd
+2026042304003048,UPPER,49,45,50,207.0,10350.0,2026-04-23,187671064,2792,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353849,Upper Tamakoshi Hydropower Ltd
+2026042304003049,UPPER,51,45,200,207.0,41400.0,2026-04-23,187671066,2792,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353870,Upper Tamakoshi Hydropower Ltd
+2026042304003050,UPPER,45,45,15,207.0,3105.0,2026-04-23,187671068,2792,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353906,Upper Tamakoshi Hydropower Ltd
+2026042304003051,UPPER,32,45,100,207.0,20700.0,2026-04-23,187671070,2792,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353946,Upper Tamakoshi Hydropower Ltd
+2026042304003052,UPPER,58,45,469,207.0,97083.0,2026-04-23,187671072,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.353971,Upper Tamakoshi Hydropower Ltd
+2026042304003053,UPPER,74,45,2000,207.0,414000.0,2026-04-23,187671074,2792,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354011,Upper Tamakoshi Hydropower Ltd
+2026042304003054,UPPER,7,45,50,207.0,10350.0,2026-04-23,187671076,2792,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354048,Upper Tamakoshi Hydropower Ltd
+2026042304003055,UPPER,13,45,1000,207.0,207000.0,2026-04-23,187671078,2792,Thrive Brokerage House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354090,Upper Tamakoshi Hydropower Ltd
+2026042304003056,UPPER,46,45,20,207.0,4140.0,2026-04-23,187671080,2792,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354124,Upper Tamakoshi Hydropower Ltd
+2026042304003057,UPPER,88,45,25,207.0,5175.0,2026-04-23,187671082,2792,Blue Chip Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354149,Upper Tamakoshi Hydropower Ltd
+2026042304003058,UPPER,38,45,20,207.0,4140.0,2026-04-23,187671084,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354169,Upper Tamakoshi Hydropower Ltd
+2026042304003059,UPPER,13,45,50,207.0,10350.0,2026-04-23,187671086,2792,Thrive Brokerage House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354225,Upper Tamakoshi Hydropower Ltd
+2026042304003060,UPPER,28,45,483,207.0,99981.0,2026-04-23,187671088,2792,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354250,Upper Tamakoshi Hydropower Ltd
+2026042304003061,UPPER,45,45,30,207.0,6210.0,2026-04-23,187671090,2792,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354269,Upper Tamakoshi Hydropower Ltd
+2026042304003062,UPPER,41,45,40,207.0,8280.0,2026-04-23,187671092,2792,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354289,Upper Tamakoshi Hydropower Ltd
+2026042304003063,UPPER,42,45,10,206.6,2066.0,2026-04-23,187671094,2792,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354337,Upper Tamakoshi Hydropower Ltd
+2026042304003064,UPPER,58,45,10,206.6,2066.0,2026-04-23,187671096,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354366,Upper Tamakoshi Hydropower Ltd
+2026042304003065,UPPER,14,45,85,206.0,17510.0,2026-04-23,187671098,2792,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354433,Upper Tamakoshi Hydropower Ltd
+2026042304003066,UPPER,34,45,100,206.0,20600.0,2026-04-23,187671100,2792,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354473,Upper Tamakoshi Hydropower Ltd
+2026042304003067,UPPER,59,45,500,206.0,103000.0,2026-04-23,187671102,2792,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354506,Upper Tamakoshi Hydropower Ltd
+2026042304003068,UPPER,58,45,100,206.0,20600.0,2026-04-23,187671104,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354551,Upper Tamakoshi Hydropower Ltd
+2026042304003069,UPPER,4,45,100,206.0,20600.0,2026-04-23,187671106,2792,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354588,Upper Tamakoshi Hydropower Ltd
+2026042304003070,UPPER,58,45,10,206.0,2060.0,2026-04-23,187671108,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354622,Upper Tamakoshi Hydropower Ltd
+2026042304003071,UPPER,57,45,100,206.0,20600.0,2026-04-23,187671110,2792,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354661,Upper Tamakoshi Hydropower Ltd
+2026042304003072,UPPER,56,45,1880,206.0,387280.0,2026-04-23,187671112,2792,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354693,Upper Tamakoshi Hydropower Ltd
+2026042304003073,UPPER,39,45,50,206.0,10300.0,2026-04-23,187671114,2792,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354713,Upper Tamakoshi Hydropower Ltd
+2026042304003074,UPPER,77,45,10,206.0,2060.0,2026-04-23,187671116,2792,Nabil Stock Dealer Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354782,Upper Tamakoshi Hydropower Ltd
+2026042304003075,UPPER,62,45,152,206.0,31312.0,2026-04-23,187671117,2792,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:58:03.354819,Upper Tamakoshi Hydropower Ltd
+2026042304003154,UPPER,85,18,100,206.1,20610.0,2026-04-23,187672012,2792,Capital Hub P. Ltd,Sagarmatha Securities Private Limited,2026-04-23 11:59:15.956939,Upper Tamakoshi Hydropower Ltd
+2026042304003155,UPPER,28,18,200,206.1,41220.0,2026-04-23,187672013,2792,Shree Krishna Securities Ltd.,Sagarmatha Securities Private Limited,2026-04-23 11:59:15.957759,Upper Tamakoshi Hydropower Ltd
+2026042304003167,UPPER,14,39,25,207.0,5175.0,2026-04-23,187672136,2792,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 11:59:27.096994,Upper Tamakoshi Hydropower Ltd
+2026042304003209,UPPER,62,39,89,207.0,18423.0,2026-04-23,187673018,2792,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,2026-04-23 12:00:21.384774,Upper Tamakoshi Hydropower Ltd
+2026042304003230,UPPER,4,42,50,207.0,10350.0,2026-04-23,187673286,2792,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 12:00:36.985718,Upper Tamakoshi Hydropower Ltd
+2026042304003232,UPPER,42,17,10,206.2,2062.0,2026-04-23,187673300,2792,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-23 12:00:40.185117,Upper Tamakoshi Hydropower Ltd
+2026042304003233,UPPER,85,17,80,206.1,16488.0,2026-04-23,187673301,2792,Capital Hub P. Ltd,ABC Securities Private Limited,2026-04-23 12:00:40.185513,Upper Tamakoshi Hydropower Ltd
+2026042304003248,UPPER,62,42,11,207.0,2277.0,2026-04-23,187673662,2792,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-23 12:01:12.908896,Upper Tamakoshi Hydropower Ltd
+2026042304003269,UPPER,40,42,10,207.0,2070.0,2026-04-23,187673988,2792,Creative Securities Pvt Ltd,Sani Securities Company Ltd.,2026-04-23 12:01:35.053053,Upper Tamakoshi Hydropower Ltd
+2026042304003271,UPPER,64,42,29,207.0,6003.0,2026-04-23,187673997,2792,SUN SECURITIES PVT LTD,Sani Securities Company Ltd.,2026-04-23 12:01:35.700910,Upper Tamakoshi Hydropower Ltd
+2026042304003282,UPPER,64,48,100,207.0,20700.0,2026-04-23,187674331,2792,SUN SECURITIES PVT LTD,Trishakti Securities Public Limited,2026-04-23 12:01:52.408103,Upper Tamakoshi Hydropower Ltd
+2026042304003288,UPPER,64,18,59,207.0,12213.0,2026-04-23,187674483,2792,SUN SECURITIES PVT LTD,Sagarmatha Securities Private Limited,2026-04-23 12:02:07.372468,Upper Tamakoshi Hydropower Ltd
+2026042304003317,UPPER,64,58,12,207.0,2484.0,2026-04-23,187675077,2792,SUN SECURITIES PVT LTD,Naasa Securities Co. Ltd.,2026-04-23 12:02:58.958378,Upper Tamakoshi Hydropower Ltd
+2026042304003318,UPPER,41,58,13,207.0,2691.0,2026-04-23,187675078,2792,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:02:58.958498,Upper Tamakoshi Hydropower Ltd
+2026042304003346,UPPER,4,42,20,208.7,4174.0,2026-04-23,187675726,2792,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 12:03:50.829188,Upper Tamakoshi Hydropower Ltd
+2026042304003353,UPPER,11,16,10,207.0,2070.0,2026-04-23,187676072,2792,Malla & Malla Stock Broking Company Pvt. Limited,Primo Securities (PVT) Ltd.,2026-04-23 12:04:12.282372,Upper Tamakoshi Hydropower Ltd
+2026042304003354,UPPER,41,16,27,207.0,5589.0,2026-04-23,187676074,2792,Linch Stock Market Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:04:12.283136,Upper Tamakoshi Hydropower Ltd
+2026042304003355,UPPER,34,16,10,207.0,2070.0,2026-04-23,187676076,2792,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-23 12:04:12.283678,Upper Tamakoshi Hydropower Ltd
+2026042304003436,UPPER,48,16,10,207.0,2070.0,2026-04-23,187677758,2792,Trishakti Securities Public Limited,Primo Securities (PVT) Ltd.,2026-04-23 12:05:52.192931,Upper Tamakoshi Hydropower Ltd
+2026042304003484,UPPER,34,16,11,207.0,2277.0,2026-04-23,187678027,2792,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-23 12:06:15.206502,Upper Tamakoshi Hydropower Ltd
+2026042304003557,UPPER,7,64,1000,207.8,207800.0,2026-04-23,187678950,2792,J.F. Securites (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-23 12:07:24.346990,Upper Tamakoshi Hydropower Ltd
+2026042304003560,UPPER,36,64,500,207.8,103900.0,2026-04-23,187679004,2792,Secured Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-23 12:07:29.418689,Upper Tamakoshi Hydropower Ltd
+2026042304003590,UPPER,58,64,10,207.8,2078.0,2026-04-23,187680012,2792,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 12:08:36.451070,Upper Tamakoshi Hydropower Ltd
+2026042304003600,UPPER,41,64,50,207.8,10390.0,2026-04-23,187680176,2792,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,2026-04-23 12:08:46.295719,Upper Tamakoshi Hydropower Ltd
+2026042304003608,UPPER,41,45,50,207.0,10350.0,2026-04-23,187680296,2792,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:08:59.967100,Upper Tamakoshi Hydropower Ltd
+2026042304003609,UPPER,58,45,25,207.0,5175.0,2026-04-23,187680298,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:08:59.967582,Upper Tamakoshi Hydropower Ltd
+2026042304003610,UPPER,58,45,15,206.5,3097.5,2026-04-23,187680300,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:08:59.967784,Upper Tamakoshi Hydropower Ltd
+2026042304003611,UPPER,57,45,10,206.5,2065.0,2026-04-23,187680301,2792,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:08:59.967980,Upper Tamakoshi Hydropower Ltd
+2026042304003657,UPPER,44,64,133,207.8,27637.4,2026-04-23,187680811,2792,Dynamic Money Managers Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 12:10:00.527195,Upper Tamakoshi Hydropower Ltd
+2026042304003658,UPPER,44,50,47,207.8,9766.6,2026-04-23,187680814,2792,Dynamic Money Managers Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:10:00.528055,Upper Tamakoshi Hydropower Ltd
+2026042304003689,UPPER,42,4,15,207.3,3109.5,2026-04-23,187681412,2792,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 12:10:58.290484,Upper Tamakoshi Hydropower Ltd
+2026042304003697,UPPER,41,45,50,207.1,10355.0,2026-04-23,187681555,2792,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:11:14.472065,Upper Tamakoshi Hydropower Ltd
+2026042304003710,UPPER,41,4,50,207.1,10355.0,2026-04-23,187681689,2792,Linch Stock Market Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 12:11:27.013929,Upper Tamakoshi Hydropower Ltd
+2026042304003734,UPPER,49,44,50,207.1,10355.0,2026-04-23,187681871,2792,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:11:46.444398,Upper Tamakoshi Hydropower Ltd
+2026042304003735,UPPER,49,42,11,207.3,2280.3,2026-04-23,187681873,2792,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 12:11:46.444827,Upper Tamakoshi Hydropower Ltd
+2026042304003756,UPPER,49,4,25,207.6,5190.0,2026-04-23,187682069,2792,Online Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 12:12:04.386895,Upper Tamakoshi Hydropower Ltd
+2026042304003758,UPPER,57,50,53,207.8,11013.4,2026-04-23,187682121,2792,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:12:10.392039,Upper Tamakoshi Hydropower Ltd
+2026042304003769,UPPER,57,45,40,207.8,8312.0,2026-04-23,187682169,2792,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:12:12.909548,Upper Tamakoshi Hydropower Ltd
+2026042304003784,UPPER,49,74,200,208.0,41600.0,2026-04-23,187682438,2792,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:12:31.765112,Upper Tamakoshi Hydropower Ltd
+2026042304003806,UPPER,57,74,110,208.0,22880.0,2026-04-23,187682744,2792,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:12:49.620838,Upper Tamakoshi Hydropower Ltd
+2026042304003896,UPPER,3,42,60,207.9,12474.0,2026-04-23,187684581,2792,Arun Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 12:15:24.996412,Upper Tamakoshi Hydropower Ltd
+2026042304003897,UPPER,3,74,432,208.0,89856.0,2026-04-23,187684584,2792,Arun Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:15:24.996925,Upper Tamakoshi Hydropower Ltd
+2026042304003940,UPPER,42,42,240,207.9,49896.0,2026-04-23,187685428,2792,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 12:16:35.839795,Upper Tamakoshi Hydropower Ltd
+2026042304004053,UPPER,82,39,50,207.3,10365.0,2026-04-23,187686327,2792,N.M.B. SECURITIES LIMITED,Sumeru Securities Pvt. Ltd.,2026-04-23 12:18:02.502764,Upper Tamakoshi Hydropower Ltd
+2026042304004057,UPPER,42,42,50,207.9,10395.0,2026-04-23,187686408,2792,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 12:18:05.037997,Upper Tamakoshi Hydropower Ltd
+2026042304004063,UPPER,82,39,50,207.3,10365.0,2026-04-23,187686487,2792,N.M.B. SECURITIES LIMITED,Sumeru Securities Pvt. Ltd.,2026-04-23 12:18:14.405239,Upper Tamakoshi Hydropower Ltd
+2026042304004067,UPPER,45,41,40,207.8,8312.0,2026-04-23,187686531,2792,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 12:18:20.400013,Upper Tamakoshi Hydropower Ltd
+2026042304004068,UPPER,45,42,10,207.9,2079.0,2026-04-23,187686534,2792,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 12:18:20.400494,Upper Tamakoshi Hydropower Ltd
+2026042304004070,UPPER,49,42,65,207.9,13513.5,2026-04-23,187686538,2792,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 12:18:21.671849,Upper Tamakoshi Hydropower Ltd
+2026042304004080,UPPER,82,39,40,207.3,8292.0,2026-04-23,187686649,2792,N.M.B. SECURITIES LIMITED,Sumeru Securities Pvt. Ltd.,2026-04-23 12:18:29.775349,Upper Tamakoshi Hydropower Ltd
+2026042304004109,UPPER,47,42,35,207.9,7276.5,2026-04-23,187687367,2792,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 12:19:16.506618,Upper Tamakoshi Hydropower Ltd
+2026042304004120,UPPER,47,25,65,207.9,13513.5,2026-04-23,187687648,2792,Neev Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 12:19:38.302635,Upper Tamakoshi Hydropower Ltd
+2026042304004139,UPPER,57,25,35,207.9,7276.5,2026-04-23,187688017,2792,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-23 12:20:14.760591,Upper Tamakoshi Hydropower Ltd
+2026042304004147,UPPER,57,42,100,207.9,20790.0,2026-04-23,187688117,2792,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 12:20:26.934021,Upper Tamakoshi Hydropower Ltd
+2026042304004160,UPPER,43,74,20,208.0,4160.0,2026-04-23,187688346,2792,South Asian Bulls Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:20:43.313229,Upper Tamakoshi Hydropower Ltd
+2026042304004172,UPPER,4,74,1000,208.0,208000.0,2026-04-23,187688750,2792,Opal Securities Investment (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:21:20.483023,Upper Tamakoshi Hydropower Ltd
+2026042304004178,UPPER,62,74,240,208.0,49920.0,2026-04-23,187688942,2792,Capital Max Securities Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:21:36.427833,Upper Tamakoshi Hydropower Ltd
+2026042304004179,UPPER,3,74,396,208.0,82368.0,2026-04-23,187688968,2792,Arun Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:21:39.643481,Upper Tamakoshi Hydropower Ltd
+2026042304004183,UPPER,49,74,153,208.0,31824.0,2026-04-23,187688986,2792,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:21:41.911576,Upper Tamakoshi Hydropower Ltd
+2026042304004203,UPPER,34,74,149,208.0,30992.0,2026-04-23,187689179,2792,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:21:54.392613,Upper Tamakoshi Hydropower Ltd
+2026042304004204,UPPER,34,49,50,208.0,10400.0,2026-04-23,187689181,2792,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 12:21:54.393103,Upper Tamakoshi Hydropower Ltd
+2026042304004205,UPPER,34,38,396,208.0,82368.0,2026-04-23,187689183,2792,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 12:21:54.393325,Upper Tamakoshi Hydropower Ltd
+2026042304004327,UPPER,58,17,10,208.6,2086.0,2026-04-23,187691345,2792,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-23 12:25:27.965362,Upper Tamakoshi Hydropower Ltd
+2026042304004328,UPPER,58,26,60,208.9,12534.0,2026-04-23,187691348,2792,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-23 12:25:27.965847,Upper Tamakoshi Hydropower Ltd
+2026042304004347,UPPER,49,51,4,207.0,828.0,2026-04-23,187691773,2792,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 12:26:21.354755,Upper Tamakoshi Hydropower Ltd
+2026042304004354,UPPER,58,26,55,208.9,11489.5,2026-04-23,187691938,2792,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-23 12:26:31.494798,Upper Tamakoshi Hydropower Ltd
+2026042304004359,UPPER,49,58,5,207.3,1036.5,2026-04-23,187692055,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:26:40.231211,Upper Tamakoshi Hydropower Ltd
+2026042304004398,UPPER,49,51,34,208.5,7089.0,2026-04-23,187692823,2792,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 12:27:53.054662,Upper Tamakoshi Hydropower Ltd
+2026042304004419,UPPER,53,26,400,208.9,83560.0,2026-04-23,187693458,2792,Investment Management Nepal Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 12:29:05.613683,Upper Tamakoshi Hydropower Ltd
+2026042304004427,UPPER,49,57,466,208.5,97161.0,2026-04-23,187693596,2792,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 12:29:24.045721,Upper Tamakoshi Hydropower Ltd
+2026042304004428,UPPER,34,57,34,208.0,7072.0,2026-04-23,187693597,2792,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 12:29:24.046647,Upper Tamakoshi Hydropower Ltd
+2026042304004553,UPPER,34,89,30,208.0,6240.0,2026-04-23,187695189,2792,Vision Securities Pvt. Ltd,Global IME Securities Limited,2026-04-23 12:32:32.417102,Upper Tamakoshi Hydropower Ltd
+2026042304004590,UPPER,58,58,10,208.2,2082.0,2026-04-23,187695599,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:33:18.873681,Upper Tamakoshi Hydropower Ltd
+2026042304004621,UPPER,58,16,40,208.2,8328.0,2026-04-23,187695884,2792,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:34:01.078911,Upper Tamakoshi Hydropower Ltd
+2026042304004632,UPPER,34,32,100,208.0,20800.0,2026-04-23,187696257,2792,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-23 12:34:37.539538,Upper Tamakoshi Hydropower Ltd
+2026042304004635,UPPER,39,16,10,208.2,2082.0,2026-04-23,187696346,2792,Sumeru Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:34:46.254075,Upper Tamakoshi Hydropower Ltd
+2026042304004700,UPPER,34,35,50,208.0,10400.0,2026-04-23,187697517,2792,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:36:08.860852,Upper Tamakoshi Hydropower Ltd
+2026042304004701,UPPER,14,16,16,208.2,3331.2,2026-04-23,187697535,2792,Nepal Stock House (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:36:11.979172,Upper Tamakoshi Hydropower Ltd
+2026042304004702,UPPER,14,58,50,208.2,10410.0,2026-04-23,187697537,2792,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:36:11.980178,Upper Tamakoshi Hydropower Ltd
+2026042304004754,UPPER,47,26,485,208.9,101316.5,2026-04-23,187698411,2792,Neev Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 12:37:14.863390,Upper Tamakoshi Hydropower Ltd
+2026042304004755,UPPER,47,58,15,208.9,3133.5,2026-04-23,187698414,2792,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:37:14.864560,Upper Tamakoshi Hydropower Ltd
+2026042304004769,UPPER,58,58,19,208.9,3969.1,2026-04-23,187698715,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:37:42.853094,Upper Tamakoshi Hydropower Ltd
+2026042304004770,UPPER,58,74,981,209.0,205029.0,2026-04-23,187698718,2792,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:37:42.854081,Upper Tamakoshi Hydropower Ltd
+2026042304004772,UPPER,49,58,2,208.0,416.0,2026-04-23,187698819,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:37:55.439557,Upper Tamakoshi Hydropower Ltd
+2026042304004807,UPPER,58,74,19,209.0,3971.0,2026-04-23,187699237,2792,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 12:38:30.724920,Upper Tamakoshi Hydropower Ltd
+2026042304004808,UPPER,58,50,10,209.0,2090.0,2026-04-23,187699258,2792,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:38:33.124407,Upper Tamakoshi Hydropower Ltd
+2026042304004822,UPPER,44,50,35,209.0,7315.0,2026-04-23,187699362,2792,Dynamic Money Managers Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:38:49.276378,Upper Tamakoshi Hydropower Ltd
+2026042304004866,UPPER,7,49,240,209.0,50160.0,2026-04-23,187699784,2792,J.F. Securites (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:39:35.963504,Upper Tamakoshi Hydropower Ltd
+2026042304004883,UPPER,42,49,295,209.0,61655.0,2026-04-23,187699968,2792,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:40:04.538519,Upper Tamakoshi Hydropower Ltd
+2026042304005004,UPPER,21,49,465,209.0,97185.0,2026-04-23,187701117,2792,Midas Stock Broking Company Private Limited,Online Securities Pvt. Ltd.,2026-04-23 12:42:39.747088,Upper Tamakoshi Hydropower Ltd
+2026042304005005,UPPER,21,51,10,209.0,2090.0,2026-04-23,187701119,2792,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 12:42:39.747626,Upper Tamakoshi Hydropower Ltd
+2026042304005006,UPPER,21,52,64,209.0,13376.0,2026-04-23,187701121,2792,Midas Stock Broking Company Private Limited,Sundhara Securities Limited,2026-04-23 12:42:39.747949,Upper Tamakoshi Hydropower Ltd
+2026042304005007,UPPER,21,58,100,209.0,20900.0,2026-04-23,187701123,2792,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-23 12:42:39.748259,Upper Tamakoshi Hydropower Ltd
+2026042304005017,UPPER,34,50,3,209.0,627.0,2026-04-23,187701309,2792,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:43:02.602166,Upper Tamakoshi Hydropower Ltd
+2026042304005022,UPPER,21,36,1000,209.0,209000.0,2026-04-23,187701465,2792,Midas Stock Broking Company Private Limited,Secured Securities Ltd.,2026-04-23 12:43:15.402603,Upper Tamakoshi Hydropower Ltd
+2026042304005053,UPPER,21,7,40,209.0,8360.0,2026-04-23,187701765,2792,Midas Stock Broking Company Private Limited,J.F. Securites (PVT) Ltd.,2026-04-23 12:43:50.065079,Upper Tamakoshi Hydropower Ltd
+2026042304005073,UPPER,21,52,68,209.0,14212.0,2026-04-23,187702297,2792,Midas Stock Broking Company Private Limited,Sundhara Securities Limited,2026-04-23 12:44:17.278447,Upper Tamakoshi Hydropower Ltd
+2026042304005090,UPPER,42,42,20,209.5,4190.0,2026-04-23,187702510,2792,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 12:44:42.718785,Upper Tamakoshi Hydropower Ltd
+2026042304005092,UPPER,21,36,553,209.0,115577.0,2026-04-23,187702586,2792,Midas Stock Broking Company Private Limited,Secured Securities Ltd.,2026-04-23 12:44:46.597454,Upper Tamakoshi Hydropower Ltd
+2026042304005093,UPPER,86,36,50,209.0,10450.0,2026-04-23,187702588,2792,Stoxkarts Securities Limited,Secured Securities Ltd.,2026-04-23 12:44:46.597985,Upper Tamakoshi Hydropower Ltd
+2026042304005119,UPPER,51,36,10,209.0,2090.0,2026-04-23,187703052,2792,Oxford Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 12:45:41.341679,Upper Tamakoshi Hydropower Ltd
+2026042304005148,UPPER,59,36,10,209.0,2090.0,2026-04-23,187704300,2792,Deevyaa Securities & Stock House Pvt. Ltd,Secured Securities Ltd.,2026-04-23 12:47:00.564927,Upper Tamakoshi Hydropower Ltd
+2026042304005153,UPPER,38,7,52,208.6,10847.2,2026-04-23,187704403,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 12:47:12.231772,Upper Tamakoshi Hydropower Ltd
+2026042304005169,UPPER,34,52,68,209.0,14212.0,2026-04-23,187704801,2792,Vision Securities Pvt. Ltd,Sundhara Securities Limited,2026-04-23 12:48:05.104788,Upper Tamakoshi Hydropower Ltd
+2026042304005170,UPPER,34,42,410,209.0,85690.0,2026-04-23,187704803,2792,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 12:48:05.105994,Upper Tamakoshi Hydropower Ltd
+2026042304005171,UPPER,34,7,80,209.0,16720.0,2026-04-23,187704813,2792,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-23 12:48:06.286995,Upper Tamakoshi Hydropower Ltd
+2026042304005182,UPPER,34,57,100,209.0,20900.0,2026-04-23,187704995,2792,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 12:48:39.637358,Upper Tamakoshi Hydropower Ltd
+2026042304005240,UPPER,34,52,68,209.0,14212.0,2026-04-23,187705675,2792,Vision Securities Pvt. Ltd,Sundhara Securities Limited,2026-04-23 12:49:58.891718,Upper Tamakoshi Hydropower Ltd
+2026042304005245,UPPER,34,34,10,209.0,2090.0,2026-04-23,187705745,2792,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-23 12:50:08.863144,Upper Tamakoshi Hydropower Ltd
+2026042304005287,UPPER,45,42,38,209.5,7961.0,2026-04-23,187706633,2792,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 12:51:39.424421,Upper Tamakoshi Hydropower Ltd
+2026042304005300,UPPER,45,41,162,209.5,33939.0,2026-04-23,187706706,2792,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 12:51:47.796776,Upper Tamakoshi Hydropower Ltd
+2026042304005301,UPPER,34,41,264,209.0,55176.0,2026-04-23,187706708,2792,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,2026-04-23 12:51:47.797833,Upper Tamakoshi Hydropower Ltd
+2026042304005302,UPPER,21,41,370,209.0,77330.0,2026-04-23,187706710,2792,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 12:51:47.798609,Upper Tamakoshi Hydropower Ltd
+2026042304005303,UPPER,58,41,20,209.0,4180.0,2026-04-23,187706712,2792,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-23 12:51:47.799351,Upper Tamakoshi Hydropower Ltd
+2026042304005304,UPPER,59,41,634,209.0,132506.0,2026-04-23,187706713,2792,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-23 12:51:47.800104,Upper Tamakoshi Hydropower Ltd
+2026042304005324,UPPER,59,28,100,209.0,20900.0,2026-04-23,187707003,2792,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-23 12:52:14.918816,Upper Tamakoshi Hydropower Ltd
+2026042304005524,UPPER,21,17,10,209.7,2097.0,2026-04-23,187709950,2792,Midas Stock Broking Company Private Limited,ABC Securities Private Limited,2026-04-23 12:56:32.941657,Upper Tamakoshi Hydropower Ltd
+2026042304005525,UPPER,21,7,10,209.8,2098.0,2026-04-23,187709952,2792,Midas Stock Broking Company Private Limited,J.F. Securites (PVT) Ltd.,2026-04-23 12:56:32.941732,Upper Tamakoshi Hydropower Ltd
+2026042304005526,UPPER,21,57,184,210.0,38640.0,2026-04-23,187709954,2792,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-23 12:56:32.941767,Upper Tamakoshi Hydropower Ltd
+2026042304005527,UPPER,21,41,144,210.0,30240.0,2026-04-23,187709956,2792,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 12:56:32.941817,Upper Tamakoshi Hydropower Ltd
+2026042304005528,UPPER,21,25,300,210.0,63000.0,2026-04-23,187709958,2792,Midas Stock Broking Company Private Limited,Sweta Securities Private Limited,2026-04-23 12:56:32.941846,Upper Tamakoshi Hydropower Ltd
+2026042304005529,UPPER,21,34,404,210.0,84840.0,2026-04-23,187709960,2792,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-23 12:56:32.941884,Upper Tamakoshi Hydropower Ltd
+2026042304005530,UPPER,21,21,22,210.0,4620.0,2026-04-23,187709962,2792,Midas Stock Broking Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-23 12:56:32.941908,Upper Tamakoshi Hydropower Ltd
+2026042304005531,UPPER,21,58,20,210.0,4200.0,2026-04-23,187709964,2792,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-23 12:56:32.941929,Upper Tamakoshi Hydropower Ltd
+2026042304005532,UPPER,21,41,50,210.0,10500.0,2026-04-23,187709966,2792,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 12:56:32.941949,Upper Tamakoshi Hydropower Ltd
+2026042304005533,UPPER,21,14,450,210.0,94500.0,2026-04-23,187709968,2792,Midas Stock Broking Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 12:56:32.941984,Upper Tamakoshi Hydropower Ltd
+2026042304005534,UPPER,21,51,68,210.0,14280.0,2026-04-23,187709970,2792,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 12:56:32.942006,Upper Tamakoshi Hydropower Ltd
+2026042304005535,UPPER,21,57,100,210.0,21000.0,2026-04-23,187709972,2792,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-23 12:56:32.942031,Upper Tamakoshi Hydropower Ltd
+2026042304005536,UPPER,21,58,77,210.0,16170.0,2026-04-23,187709974,2792,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-23 12:56:32.942062,Upper Tamakoshi Hydropower Ltd
+2026042304005537,UPPER,21,58,10,210.0,2100.0,2026-04-23,187709976,2792,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-23 12:56:32.942080,Upper Tamakoshi Hydropower Ltd
+2026042304005538,UPPER,21,34,128,210.0,26880.0,2026-04-23,187709978,2792,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-23 12:56:32.942170,Upper Tamakoshi Hydropower Ltd
+2026042304005539,UPPER,21,34,23,210.0,4830.0,2026-04-23,187709981,2792,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-23 12:56:32.942198,Upper Tamakoshi Hydropower Ltd
+2026042304005546,UPPER,34,42,10,209.1,2091.0,2026-04-23,187710121,2792,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 12:56:44.433553,Upper Tamakoshi Hydropower Ltd
+2026042304005567,UPPER,45,34,37,210.0,7770.0,2026-04-23,187710411,2792,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:57:05.109933,Upper Tamakoshi Hydropower Ltd
+2026042304005568,UPPER,45,41,63,210.0,13230.0,2026-04-23,187710414,2792,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 12:57:05.110548,Upper Tamakoshi Hydropower Ltd
+2026042304005578,UPPER,71,41,37,210.0,7770.0,2026-04-23,187710594,2792,SHUBHAKAMANA SECURITIES PVT. LTD,Linch Stock Market Ltd.,2026-04-23 12:57:24.681567,Upper Tamakoshi Hydropower Ltd
+2026042304005579,UPPER,71,1,10,210.0,2100.0,2026-04-23,187710597,2792,SHUBHAKAMANA SECURITIES PVT. LTD,Kumari Securities Private Limited,2026-04-23 12:57:24.682719,Upper Tamakoshi Hydropower Ltd
+2026042304005580,UPPER,71,52,40,210.0,8400.0,2026-04-23,187710599,2792,SHUBHAKAMANA SECURITIES PVT. LTD,Sundhara Securities Limited,2026-04-23 12:57:24.683599,Upper Tamakoshi Hydropower Ltd
+2026042304005639,UPPER,58,34,5,210.0,1050.0,2026-04-23,187711453,2792,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:58:52.029122,Upper Tamakoshi Hydropower Ltd
+2026042304005641,UPPER,58,65,60,210.2,12612.0,2026-04-23,187711517,2792,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-23 12:58:58.875380,Upper Tamakoshi Hydropower Ltd
+2026042304005642,UPPER,58,35,25,210.9,5272.5,2026-04-23,187711530,2792,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:59:00.229455,Upper Tamakoshi Hydropower Ltd
+2026042304005768,UPPER,16,35,475,210.9,100177.5,2026-04-23,187714023,2792,Primo Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:01:57.902572,Upper Tamakoshi Hydropower Ltd
+2026042304005769,UPPER,16,25,300,210.9,63270.0,2026-04-23,187714025,2792,Primo Securities (PVT) Ltd.,Sweta Securities Private Limited,2026-04-23 13:01:57.903151,Upper Tamakoshi Hydropower Ltd
+2026042304005770,UPPER,16,58,50,211.0,10550.0,2026-04-23,187714027,2792,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:01:57.903434,Upper Tamakoshi Hydropower Ltd
+2026042304005771,UPPER,16,57,942,211.0,198762.0,2026-04-23,187714029,2792,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 13:01:57.903719,Upper Tamakoshi Hydropower Ltd
+2026042304005772,UPPER,16,41,200,211.0,42200.0,2026-04-23,187714031,2792,Primo Securities (PVT) Ltd.,Linch Stock Market Ltd.,2026-04-23 13:01:57.903974,Upper Tamakoshi Hydropower Ltd
+2026042304005773,UPPER,16,52,20,211.0,4220.0,2026-04-23,187714033,2792,Primo Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-23 13:01:57.904282,Upper Tamakoshi Hydropower Ltd
+2026042304005774,UPPER,16,5,1000,211.0,211000.0,2026-04-23,187714035,2792,Primo Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:01:57.904551,Upper Tamakoshi Hydropower Ltd
+2026042304005780,UPPER,16,58,13,211.0,2743.0,2026-04-23,187714246,2792,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:02:08.801462,Upper Tamakoshi Hydropower Ltd
+2026042304005904,UPPER,3,58,37,211.0,7807.0,2026-04-23,187715697,2792,Arun Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:03:44.643975,Upper Tamakoshi Hydropower Ltd
+2026042304006019,UPPER,3,7,10,211.0,2110.0,2026-04-23,187717049,2792,Arun Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 13:05:29.079900,Upper Tamakoshi Hydropower Ltd
+2026042304006028,UPPER,21,57,100,210.9,21090.0,2026-04-23,187717291,2792,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,2026-04-23 13:05:52.233308,Upper Tamakoshi Hydropower Ltd
+2026042304006222,UPPER,74,36,300,211.0,63300.0,2026-04-23,187719102,2792,KALASH STOCK MARKET PVT. LTD.,Secured Securities Ltd.,2026-04-23 13:09:04.471096,Upper Tamakoshi Hydropower Ltd
+2026042304006228,UPPER,58,34,10,210.9,2109.0,2026-04-23,187719206,2792,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:09:16.794941,Upper Tamakoshi Hydropower Ltd
+2026042304006229,UPPER,38,34,100,210.5,21050.0,2026-04-23,187719208,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:09:16.795450,Upper Tamakoshi Hydropower Ltd
+2026042304006230,UPPER,14,34,70,210.3,14721.0,2026-04-23,187719210,2792,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:09:16.795753,Upper Tamakoshi Hydropower Ltd
+2026042304006231,UPPER,58,34,420,210.2,88284.0,2026-04-23,187719211,2792,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:09:16.796042,Upper Tamakoshi Hydropower Ltd
+2026042304006345,UPPER,4,58,250,210.5,52625.0,2026-04-23,187721366,2792,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:12:09.555566,Upper Tamakoshi Hydropower Ltd
+2026042304006346,UPPER,58,58,64,210.5,13472.0,2026-04-23,187721367,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:12:09.556127,Upper Tamakoshi Hydropower Ltd
+2026042304006375,UPPER,49,58,3,210.0,630.0,2026-04-23,187721937,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:12:59.560547,Upper Tamakoshi Hydropower Ltd
+2026042304006405,UPPER,58,36,60,211.0,12660.0,2026-04-23,187722782,2792,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 13:14:41.360572,Upper Tamakoshi Hydropower Ltd
+2026042304006408,UPPER,49,34,3,210.0,630.0,2026-04-23,187722849,2792,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:14:48.298613,Upper Tamakoshi Hydropower Ltd
+2026042304006436,UPPER,58,36,50,211.0,10550.0,2026-04-23,187723078,2792,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 13:15:26.272968,Upper Tamakoshi Hydropower Ltd
+2026042304006455,UPPER,52,36,1090,211.0,229990.0,2026-04-23,187723583,2792,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-23 13:15:53.756006,Upper Tamakoshi Hydropower Ltd
+2026042304006456,UPPER,52,45,80,211.0,16880.0,2026-04-23,187723585,2792,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:15:53.757122,Upper Tamakoshi Hydropower Ltd
+2026042304006457,UPPER,52,41,30,211.0,6330.0,2026-04-23,187723587,2792,Sundhara Securities Limited,Linch Stock Market Ltd.,2026-04-23 13:15:53.757969,Upper Tamakoshi Hydropower Ltd
+2026042304006478,UPPER,58,10,60,211.6,12696.0,2026-04-23,187723887,2792,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-23 13:16:25.205771,Upper Tamakoshi Hydropower Ltd
+2026042304006479,UPPER,58,28,140,211.6,29624.0,2026-04-23,187723890,2792,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 13:16:25.206893,Upper Tamakoshi Hydropower Ltd
+2026042304006485,UPPER,52,14,200,211.0,42200.0,2026-04-23,187723939,2792,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 13:16:35.614324,Upper Tamakoshi Hydropower Ltd
+2026042304006489,UPPER,52,58,10,211.0,2110.0,2026-04-23,187724179,2792,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-23 13:16:48.197092,Upper Tamakoshi Hydropower Ltd
+2026042304006510,UPPER,42,45,13,211.5,2749.5,2026-04-23,187724400,2792,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:17:20.594914,Upper Tamakoshi Hydropower Ltd
+2026042304006636,UPPER,52,32,40,211.4,8456.0,2026-04-23,187726603,2792,Sundhara Securities Limited,Premier Securities Company Ltd.,2026-04-23 13:20:35.402880,Upper Tamakoshi Hydropower Ltd
+2026042304006637,UPPER,52,45,487,211.5,103000.5,2026-04-23,187726605,2792,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:20:35.403507,Upper Tamakoshi Hydropower Ltd
+2026042304006652,UPPER,52,75,300,211.5,63450.0,2026-04-23,187726759,2792,Sundhara Securities Limited,N.I.M.B. Stock Markets Limited,2026-04-23 13:20:57.666760,Upper Tamakoshi Hydropower Ltd
+2026042304006697,UPPER,58,28,70,211.6,14812.0,2026-04-23,187727116,2792,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 13:21:43.920388,Upper Tamakoshi Hydropower Ltd
+2026042304006717,UPPER,52,38,68,211.5,14382.0,2026-04-23,187727449,2792,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:22:21.833583,Upper Tamakoshi Hydropower Ltd
+2026042304006732,UPPER,52,36,21,211.5,4441.5,2026-04-23,187727615,2792,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-23 13:22:49.351115,Upper Tamakoshi Hydropower Ltd
+2026042304006744,UPPER,52,38,74,211.5,15651.0,2026-04-23,187727706,2792,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:22:59.177692,Upper Tamakoshi Hydropower Ltd
+2026042304006745,UPPER,58,38,15,211.5,3172.5,2026-04-23,187727708,2792,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:22:59.178800,Upper Tamakoshi Hydropower Ltd
+2026042304006747,UPPER,58,28,427,211.6,90353.2,2026-04-23,187727922,2792,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 13:23:08.512744,Upper Tamakoshi Hydropower Ltd
+2026042304006755,UPPER,28,38,68,211.4,14375.2,2026-04-23,187728149,2792,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:23:36.079959,Upper Tamakoshi Hydropower Ltd
+2026042304006757,UPPER,38,17,20,211.0,4220.0,2026-04-23,187728218,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,2026-04-23 13:23:43.084021,Upper Tamakoshi Hydropower Ltd
+2026042304006758,UPPER,35,17,10,211.0,2110.0,2026-04-23,187728219,2792,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 13:23:43.084117,Upper Tamakoshi Hydropower Ltd
+2026042304006777,UPPER,35,5,90,211.0,18990.0,2026-04-23,187728398,2792,Kohinoor Investment & Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:24:07.331065,Upper Tamakoshi Hydropower Ltd
+2026042304006828,UPPER,42,5,100,211.0,21100.0,2026-04-23,187729426,2792,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:25:32.395123,Upper Tamakoshi Hydropower Ltd
+2026042304006870,UPPER,58,45,100,210.7,21070.0,2026-04-23,187729991,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:26:38.194709,Upper Tamakoshi Hydropower Ltd
+2026042304006954,UPPER,58,45,40,210.7,8428.0,2026-04-23,187730613,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:27:34.891933,Upper Tamakoshi Hydropower Ltd
+2026042304007017,UPPER,56,5,40,211.0,8440.0,2026-04-23,187731112,2792,Sri Hari Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:28:04.428429,Upper Tamakoshi Hydropower Ltd
+2026042304007055,UPPER,58,38,231,210.5,48625.5,2026-04-23,187731334,2792,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:28:19.257996,Upper Tamakoshi Hydropower Ltd
+2026042304007056,UPPER,42,38,10,210.5,2105.0,2026-04-23,187731336,2792,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:28:19.259240,Upper Tamakoshi Hydropower Ltd
+2026042304007057,UPPER,38,38,300,210.5,63150.0,2026-04-23,187731337,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:28:19.260192,Upper Tamakoshi Hydropower Ltd
+2026042304007077,UPPER,58,51,20,210.2,4204.0,2026-04-23,187731460,2792,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 13:28:26.548265,Upper Tamakoshi Hydropower Ltd
+2026042304007078,UPPER,56,51,1000,210.1,210100.0,2026-04-23,187731462,2792,Sri Hari Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 13:28:26.548860,Upper Tamakoshi Hydropower Ltd
+2026042304007079,UPPER,44,51,35,210.0,7350.0,2026-04-23,187731464,2792,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 13:28:26.549150,Upper Tamakoshi Hydropower Ltd
+2026042304007080,UPPER,16,51,145,210.0,30450.0,2026-04-23,187731465,2792,Primo Securities (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 13:28:26.549434,Upper Tamakoshi Hydropower Ltd
+2026042304007113,UPPER,16,38,68,210.0,14280.0,2026-04-23,187731739,2792,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:28:48.949033,Upper Tamakoshi Hydropower Ltd
+2026042304007114,UPPER,16,32,95,210.5,19997.5,2026-04-23,187731746,2792,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-23 13:28:49.629668,Upper Tamakoshi Hydropower Ltd
+2026042304007121,UPPER,58,32,40,210.5,8420.0,2026-04-23,187731884,2792,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-23 13:28:57.668558,Upper Tamakoshi Hydropower Ltd
+2026042304007177,UPPER,16,96,787,210.0,165270.0,2026-04-23,187732498,2792,Primo Securities (PVT) Ltd.,Himalayan Securities Limited,2026-04-23 13:29:40.435892,Upper Tamakoshi Hydropower Ltd
+2026042304007178,UPPER,28,96,100,210.0,21000.0,2026-04-23,187732500,2792,Shree Krishna Securities Ltd.,Himalayan Securities Limited,2026-04-23 13:29:40.436458,Upper Tamakoshi Hydropower Ltd
+2026042304007179,UPPER,45,96,1504,210.0,315840.0,2026-04-23,187732502,2792,Imperial Securities Company Pvt. Ltd.,Himalayan Securities Limited,2026-04-23 13:29:40.436740,Upper Tamakoshi Hydropower Ltd
+2026042304007180,UPPER,49,96,20,210.0,4200.0,2026-04-23,187732504,2792,Online Securities Pvt. Ltd.,Himalayan Securities Limited,2026-04-23 13:29:40.437009,Upper Tamakoshi Hydropower Ltd
+2026042304007181,UPPER,48,96,70,210.0,14700.0,2026-04-23,187732506,2792,Trishakti Securities Public Limited,Himalayan Securities Limited,2026-04-23 13:29:40.437291,Upper Tamakoshi Hydropower Ltd
+2026042304007182,UPPER,16,96,19,210.0,3990.0,2026-04-23,187732507,2792,Primo Securities (PVT) Ltd.,Himalayan Securities Limited,2026-04-23 13:29:40.437573,Upper Tamakoshi Hydropower Ltd
+2026042304007206,UPPER,16,6,81,210.0,17010.0,2026-04-23,187732752,2792,Primo Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:30:00.930948,Upper Tamakoshi Hydropower Ltd
+2026042304007207,UPPER,58,6,300,210.0,63000.0,2026-04-23,187732754,2792,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:30:00.932134,Upper Tamakoshi Hydropower Ltd
+2026042304007224,UPPER,35,6,50,210.0,10500.0,2026-04-23,187732862,2792,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:30:11.079366,Upper Tamakoshi Hydropower Ltd
+2026042304007238,UPPER,39,6,10,210.0,2100.0,2026-04-23,187733310,2792,Sumeru Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:30:19.003304,Upper Tamakoshi Hydropower Ltd
+2026042304007242,UPPER,58,44,50,209.5,10475.0,2026-04-23,187733329,2792,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:30:21.397802,Upper Tamakoshi Hydropower Ltd
+2026042304007328,UPPER,58,44,50,209.5,10475.0,2026-04-23,187734258,2792,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:31:45.476177,Upper Tamakoshi Hydropower Ltd
+2026042304007401,UPPER,6,44,50,209.2,10460.0,2026-04-23,187734879,2792,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:32:45.699694,Upper Tamakoshi Hydropower Ltd
+2026042304007435,UPPER,16,38,400,209.5,83800.0,2026-04-23,187735300,2792,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:33:36.510026,Upper Tamakoshi Hydropower Ltd
+2026042304007454,UPPER,6,58,50,209.2,10460.0,2026-04-23,187735708,2792,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:34:00.955760,Upper Tamakoshi Hydropower Ltd
+2026042304007455,UPPER,34,58,450,209.1,94095.0,2026-04-23,187735709,2792,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 13:34:00.956331,Upper Tamakoshi Hydropower Ltd
+2026042304007491,UPPER,34,58,500,209.1,104550.0,2026-04-23,187736057,2792,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 13:34:43.390161,Upper Tamakoshi Hydropower Ltd
+2026042304007534,UPPER,34,58,40,209.1,8364.0,2026-04-23,187736464,2792,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 13:35:22.900399,Upper Tamakoshi Hydropower Ltd
+2026042304007535,UPPER,59,58,266,209.0,55594.0,2026-04-23,187736466,2792,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 13:35:22.901033,Upper Tamakoshi Hydropower Ltd
+2026042304007536,UPPER,49,58,10,209.0,2090.0,2026-04-23,187736468,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:35:22.901371,Upper Tamakoshi Hydropower Ltd
+2026042304007537,UPPER,42,58,184,209.0,38456.0,2026-04-23,187736469,2792,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:35:22.901679,Upper Tamakoshi Hydropower Ltd
+2026042304007565,UPPER,42,50,16,209.0,3344.0,2026-04-23,187736760,2792,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:35:49.642100,Upper Tamakoshi Hydropower Ltd
+2026042304007566,UPPER,42,50,75,209.0,15675.0,2026-04-23,187736762,2792,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:35:49.642696,Upper Tamakoshi Hydropower Ltd
+2026042304007567,UPPER,54,50,603,209.0,126027.0,2026-04-23,187736764,2792,Sewa Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:35:49.642988,Upper Tamakoshi Hydropower Ltd
+2026042304007568,UPPER,58,50,80,209.0,16720.0,2026-04-23,187736766,2792,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:35:49.643274,Upper Tamakoshi Hydropower Ltd
+2026042304007569,UPPER,45,50,40,209.0,8360.0,2026-04-23,187736768,2792,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:35:49.643562,Upper Tamakoshi Hydropower Ltd
+2026042304007570,UPPER,58,50,50,209.0,10450.0,2026-04-23,187736770,2792,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:35:49.643863,Upper Tamakoshi Hydropower Ltd
+2026042304007585,UPPER,16,50,136,209.0,28424.0,2026-04-23,187737018,2792,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:36:21.152136,Upper Tamakoshi Hydropower Ltd
+2026042304007589,UPPER,56,45,250,208.8,52200.0,2026-04-23,187737055,2792,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:36:26.663123,Upper Tamakoshi Hydropower Ltd
+2026042304007613,UPPER,16,57,82,209.0,17138.0,2026-04-23,187737422,2792,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 13:37:05.876654,Upper Tamakoshi Hydropower Ltd
+2026042304007695,UPPER,36,46,20,209.0,4180.0,2026-04-23,187738670,2792,Secured Securities Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:39:39.104893,Upper Tamakoshi Hydropower Ltd
+2026042304007718,UPPER,58,46,30,209.0,6270.0,2026-04-23,187738976,2792,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:40:12.055132,Upper Tamakoshi Hydropower Ltd
+2026042304007754,UPPER,1,34,40,208.9,8356.0,2026-04-23,187739483,2792,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 13:41:01.860476,Upper Tamakoshi Hydropower Ltd
+2026042304007759,UPPER,1,34,144,208.9,30081.6,2026-04-23,187739649,2792,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 13:41:12.553803,Upper Tamakoshi Hydropower Ltd
+2026042304007766,UPPER,16,46,950,209.0,198550.0,2026-04-23,187739842,2792,Primo Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:41:32.058990,Upper Tamakoshi Hydropower Ltd
+2026042304007780,UPPER,1,52,116,208.9,24232.4,2026-04-23,187740062,2792,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-23 13:41:57.539412,Upper Tamakoshi Hydropower Ltd
+2026042304007781,UPPER,56,52,384,208.8,80179.2,2026-04-23,187740063,2792,Sri Hari Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-23 13:41:57.540021,Upper Tamakoshi Hydropower Ltd
+2026042304007783,UPPER,58,48,95,208.9,19845.5,2026-04-23,187740152,2792,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 13:42:14.770730,Upper Tamakoshi Hydropower Ltd
+2026042304007784,UPPER,56,48,366,208.8,76420.8,2026-04-23,187740154,2792,Sri Hari Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 13:42:14.771359,Upper Tamakoshi Hydropower Ltd
+2026042304007785,UPPER,34,48,1031,208.8,215272.8,2026-04-23,187740155,2792,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-23 13:42:14.771665,Upper Tamakoshi Hydropower Ltd
+2026042304007817,UPPER,58,6,23,210.0,4830.0,2026-04-23,187740616,2792,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:26.849896,Upper Tamakoshi Hydropower Ltd
+2026042304007818,UPPER,58,6,45,210.0,9450.0,2026-04-23,187740680,2792,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:38.217692,Upper Tamakoshi Hydropower Ltd
+2026042304007845,UPPER,58,52,150,209.0,31350.0,2026-04-23,187741068,2792,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-23 13:44:45.639306,Upper Tamakoshi Hydropower Ltd
+2026042304007846,UPPER,34,52,320,208.8,66816.0,2026-04-23,187741069,2792,Vision Securities Pvt. Ltd,Sundhara Securities Limited,2026-04-23 13:44:45.639900,Upper Tamakoshi Hydropower Ltd
+2026042304007862,UPPER,63,32,10,209.9,2099.0,2026-04-23,187741278,2792,Himalayan Brokerage Company Limited,Premier Securities Company Ltd.,2026-04-23 13:45:08.710865,Upper Tamakoshi Hydropower Ltd
+2026042304007880,UPPER,26,32,30,209.9,6297.0,2026-04-23,187741568,2792,Asian Securities Private Ltd.,Premier Securities Company Ltd.,2026-04-23 13:45:52.988176,Upper Tamakoshi Hydropower Ltd
+2026042304007889,UPPER,42,32,46,209.9,9655.4,2026-04-23,187741702,2792,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 13:46:12.190012,Upper Tamakoshi Hydropower Ltd
+2026042304007942,UPPER,36,32,37,209.9,7766.3,2026-04-23,187742466,2792,Secured Securities Ltd.,Premier Securities Company Ltd.,2026-04-23 13:47:45.263737,Upper Tamakoshi Hydropower Ltd
+2026042304007944,UPPER,36,42,20,209.0,4180.0,2026-04-23,187742510,2792,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-23 13:47:51.698761,Upper Tamakoshi Hydropower Ltd
+2026042304007945,UPPER,58,42,36,209.0,7524.0,2026-04-23,187742512,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:47:51.700058,Upper Tamakoshi Hydropower Ltd
+2026042304007946,UPPER,57,42,300,209.0,62700.0,2026-04-23,187742514,2792,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 13:47:51.701003,Upper Tamakoshi Hydropower Ltd
+2026042304007947,UPPER,58,42,50,208.9,10445.0,2026-04-23,187742516,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:47:51.701956,Upper Tamakoshi Hydropower Ltd
+2026042304007948,UPPER,34,42,649,208.8,135511.2,2026-04-23,187742518,2792,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 13:47:51.702890,Upper Tamakoshi Hydropower Ltd
+2026042304007949,UPPER,58,42,50,208.8,10440.0,2026-04-23,187742520,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:47:51.703803,Upper Tamakoshi Hydropower Ltd
+2026042304007950,UPPER,19,42,10,208.8,2088.0,2026-04-23,187742522,2792,Nepal Investment And Securities Trading Private Limited,Sani Securities Company Ltd.,2026-04-23 13:47:51.704405,Upper Tamakoshi Hydropower Ltd
+2026042304007951,UPPER,34,42,214,208.7,44661.8,2026-04-23,187742523,2792,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 13:47:51.704716,Upper Tamakoshi Hydropower Ltd
+2026042304007954,UPPER,35,32,10,209.9,2099.0,2026-04-23,187742576,2792,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 13:47:57.535222,Upper Tamakoshi Hydropower Ltd
+2026042304007973,UPPER,34,58,500,208.7,104350.0,2026-04-23,187743097,2792,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 13:48:51.539879,Upper Tamakoshi Hydropower Ltd
+2026042304008072,UPPER,77,8,325,209.1,67957.5,2026-04-23,187745285,2792,Nabil Stock Dealer Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 13:53:56.330309,Upper Tamakoshi Hydropower Ltd
+2026042304008091,UPPER,77,34,75,209.1,15682.5,2026-04-23,187745527,2792,Nabil Stock Dealer Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:54:45.831436,Upper Tamakoshi Hydropower Ltd
+2026042304008095,UPPER,57,32,300,209.9,62970.0,2026-04-23,187745632,2792,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-23 13:55:05.219607,Upper Tamakoshi Hydropower Ltd
+2026042304008149,UPPER,77,18,50,209.1,10455.0,2026-04-23,187746275,2792,Nabil Stock Dealer Ltd.,Sagarmatha Securities Private Limited,2026-04-23 13:56:37.415301,Upper Tamakoshi Hydropower Ltd
+2026042304008160,UPPER,77,32,32,209.1,6691.2,2026-04-23,187746583,2792,Nabil Stock Dealer Ltd.,Premier Securities Company Ltd.,2026-04-23 13:57:12.850365,Upper Tamakoshi Hydropower Ltd
+2026042304008166,UPPER,47,6,20,210.0,4200.0,2026-04-23,187746642,2792,Neev Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:57:19.029597,Upper Tamakoshi Hydropower Ltd
+2026042304008186,UPPER,58,45,43,209.5,9008.5,2026-04-23,187747158,2792,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:58:26.674616,Upper Tamakoshi Hydropower Ltd
+2026042304008191,UPPER,36,45,40,209.5,8380.0,2026-04-23,187747234,2792,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:58:34.176412,Upper Tamakoshi Hydropower Ltd
+2026042304008214,UPPER,77,35,718,209.1,150133.8,2026-04-23,187747444,2792,Nabil Stock Dealer Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:59:08.219384,Upper Tamakoshi Hydropower Ltd
+2026042304008215,UPPER,36,35,50,209.0,10450.0,2026-04-23,187747446,2792,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:59:08.220758,Upper Tamakoshi Hydropower Ltd
+2026042304008216,UPPER,58,35,102,209.0,21318.0,2026-04-23,187747447,2792,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:59:08.221805,Upper Tamakoshi Hydropower Ltd
+2026042304008264,UPPER,40,45,67,209.5,14036.5,2026-04-23,187747993,2792,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:00:23.554707,Upper Tamakoshi Hydropower Ltd
+2026042304008265,UPPER,40,6,10,210.0,2100.0,2026-04-23,187747996,2792,Creative Securities Pvt Ltd,Agrawal Securities (PVT) Ltd.,2026-04-23 14:00:23.556052,Upper Tamakoshi Hydropower Ltd
+2026042304008272,UPPER,58,50,25,209.0,5225.0,2026-04-23,187748095,2792,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:00:45.383646,Upper Tamakoshi Hydropower Ltd
+2026042304008379,UPPER,1,42,45,209.1,9409.5,2026-04-23,187749086,2792,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 14:02:42.603798,Upper Tamakoshi Hydropower Ltd
+2026042304008380,UPPER,58,42,113,209.0,23617.0,2026-04-23,187749088,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 14:02:42.604579,Upper Tamakoshi Hydropower Ltd
+2026042304008381,UPPER,42,42,230,209.0,48070.0,2026-04-23,187749090,2792,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 14:02:42.605129,Upper Tamakoshi Hydropower Ltd
+2026042304008382,UPPER,34,42,1286,208.7,268388.2,2026-04-23,187749092,2792,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 14:02:42.605584,Upper Tamakoshi Hydropower Ltd
+2026042304008383,UPPER,58,42,50,208.7,10435.0,2026-04-23,187749094,2792,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 14:02:42.606079,Upper Tamakoshi Hydropower Ltd
+2026042304008384,UPPER,1,42,10,208.7,2087.0,2026-04-23,187749096,2792,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 14:02:42.606564,Upper Tamakoshi Hydropower Ltd
+2026042304008385,UPPER,52,42,266,208.7,55514.2,2026-04-23,187749097,2792,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-23 14:02:42.607048,Upper Tamakoshi Hydropower Ltd
+2026042304008455,UPPER,35,6,30,210.0,6300.0,2026-04-23,187750020,2792,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:04:15.396737,Upper Tamakoshi Hydropower Ltd
+2026042304008457,UPPER,52,34,34,208.7,7095.8,2026-04-23,187750048,2792,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-23 14:04:19.784679,Upper Tamakoshi Hydropower Ltd
+2026042304008458,UPPER,45,34,466,208.7,97254.2,2026-04-23,187750049,2792,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:04:19.785402,Upper Tamakoshi Hydropower Ltd
+2026042304008521,UPPER,58,58,10,209.0,2090.0,2026-04-23,187750686,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:05:43.056023,Upper Tamakoshi Hydropower Ltd
+2026042304008522,UPPER,58,58,23,208.7,4800.1,2026-04-23,187750688,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:05:43.057358,Upper Tamakoshi Hydropower Ltd
+2026042304008523,UPPER,49,58,20,208.7,4174.0,2026-04-23,187750690,2792,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:05:43.058339,Upper Tamakoshi Hydropower Ltd
+2026042304008524,UPPER,38,58,48,208.6,10012.8,2026-04-23,187750692,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:05:43.059293,Upper Tamakoshi Hydropower Ltd
+2026042304008525,UPPER,34,58,399,208.6,83231.4,2026-04-23,187750693,2792,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 14:05:43.060346,Upper Tamakoshi Hydropower Ltd
+2026042304008559,UPPER,34,38,601,208.6,125368.6,2026-04-23,187751032,2792,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978228,Upper Tamakoshi Hydropower Ltd
+2026042304008560,UPPER,58,38,40,208.5,8340.0,2026-04-23,187751034,2792,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978364,Upper Tamakoshi Hydropower Ltd
+2026042304008561,UPPER,14,38,634,208.2,131998.8,2026-04-23,187751036,2792,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978446,Upper Tamakoshi Hydropower Ltd
+2026042304008562,UPPER,45,38,480,208.2,99936.0,2026-04-23,187751038,2792,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978521,Upper Tamakoshi Hydropower Ltd
+2026042304008563,UPPER,51,38,50,208.2,10410.0,2026-04-23,187751040,2792,Oxford Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978599,Upper Tamakoshi Hydropower Ltd
+2026042304008564,UPPER,11,38,50,208.1,10405.0,2026-04-23,187751042,2792,Malla & Malla Stock Broking Company Pvt. Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978674,Upper Tamakoshi Hydropower Ltd
+2026042304008565,UPPER,11,38,30,208.1,6243.0,2026-04-23,187751044,2792,Malla & Malla Stock Broking Company Pvt. Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978765,Upper Tamakoshi Hydropower Ltd
+2026042304008566,UPPER,34,38,191,208.0,39728.0,2026-04-23,187751046,2792,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978845,Upper Tamakoshi Hydropower Ltd
+2026042304008567,UPPER,29,38,50,208.0,10400.0,2026-04-23,187751048,2792,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978922,Upper Tamakoshi Hydropower Ltd
+2026042304008568,UPPER,49,38,192,208.0,39936.0,2026-04-23,187751050,2792,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.978998,Upper Tamakoshi Hydropower Ltd
+2026042304008569,UPPER,57,38,491,208.0,102128.0,2026-04-23,187751052,2792,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.979067,Upper Tamakoshi Hydropower Ltd
+2026042304008570,UPPER,36,38,191,208.0,39728.0,2026-04-23,187751053,2792,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:06:16.979143,Upper Tamakoshi Hydropower Ltd
+2026042304008662,UPPER,58,14,14,209.0,2926.0,2026-04-23,187752454,2792,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:08:44.705931,Upper Tamakoshi Hydropower Ltd
+2026042304008663,UPPER,42,14,200,208.6,41720.0,2026-04-23,187752456,2792,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:08:44.706616,Upper Tamakoshi Hydropower Ltd
+2026042304008664,UPPER,16,14,100,208.1,20810.0,2026-04-23,187752458,2792,Primo Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:08:44.706952,Upper Tamakoshi Hydropower Ltd
+2026042304008665,UPPER,34,14,400,208.0,83200.0,2026-04-23,187752460,2792,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-23 14:08:44.707271,Upper Tamakoshi Hydropower Ltd
+2026042304008666,UPPER,58,14,10,208.0,2080.0,2026-04-23,187752462,2792,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:08:44.707602,Upper Tamakoshi Hydropower Ltd
+2026042304008667,UPPER,4,14,160,208.0,33280.0,2026-04-23,187752464,2792,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:08:44.707918,Upper Tamakoshi Hydropower Ltd
+2026042304008668,UPPER,38,14,16,208.0,3328.0,2026-04-23,187752465,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:08:44.708233,Upper Tamakoshi Hydropower Ltd
+2026042304008687,UPPER,45,13,30,208.0,6240.0,2026-04-23,187752724,2792,Imperial Securities Company Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.958943,Upper Tamakoshi Hydropower Ltd
+2026042304008688,UPPER,56,13,50,208.0,10400.0,2026-04-23,187752726,2792,Sri Hari Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.960262,Upper Tamakoshi Hydropower Ltd
+2026042304008689,UPPER,58,13,70,208.0,14560.0,2026-04-23,187752728,2792,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.961225,Upper Tamakoshi Hydropower Ltd
+2026042304008690,UPPER,58,13,254,208.0,52832.0,2026-04-23,187752730,2792,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.962146,Upper Tamakoshi Hydropower Ltd
+2026042304008691,UPPER,58,13,243,208.0,50544.0,2026-04-23,187752732,2792,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.963099,Upper Tamakoshi Hydropower Ltd
+2026042304008692,UPPER,52,13,25,208.0,5200.0,2026-04-23,187752734,2792,Sundhara Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.964046,Upper Tamakoshi Hydropower Ltd
+2026042304008693,UPPER,68,13,118,208.0,24544.0,2026-04-23,187752736,2792,Elite Stock House Limited,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.965001,Upper Tamakoshi Hydropower Ltd
+2026042304008694,UPPER,42,13,190,208.0,39520.0,2026-04-23,187752738,2792,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.965945,Upper Tamakoshi Hydropower Ltd
+2026042304008695,UPPER,42,13,100,208.0,20800.0,2026-04-23,187752740,2792,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.966881,Upper Tamakoshi Hydropower Ltd
+2026042304008696,UPPER,57,13,15,208.0,3120.0,2026-04-23,187752742,2792,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.967822,Upper Tamakoshi Hydropower Ltd
+2026042304008697,UPPER,38,13,50,208.0,10400.0,2026-04-23,187752744,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.968379,Upper Tamakoshi Hydropower Ltd
+2026042304008698,UPPER,42,13,200,208.0,41600.0,2026-04-23,187752746,2792,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.968689,Upper Tamakoshi Hydropower Ltd
+2026042304008699,UPPER,21,13,20,208.0,4160.0,2026-04-23,187752748,2792,Midas Stock Broking Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.968997,Upper Tamakoshi Hydropower Ltd
+2026042304008700,UPPER,38,13,635,208.0,132080.0,2026-04-23,187752749,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:09:16.969304,Upper Tamakoshi Hydropower Ltd
+2026042304008701,UPPER,45,28,10,209.8,2098.0,2026-04-23,187752792,2792,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 14:09:22.497516,Upper Tamakoshi Hydropower Ltd
+2026042304008721,UPPER,58,19,10,208.1,2081.0,2026-04-23,187753072,2792,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:09:51.348356,Upper Tamakoshi Hydropower Ltd
+2026042304008738,UPPER,38,45,65,208.0,13520.0,2026-04-23,187753400,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:10:21.823879,Upper Tamakoshi Hydropower Ltd
+2026042304008739,UPPER,51,45,30,208.0,6240.0,2026-04-23,187753402,2792,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:10:21.825164,Upper Tamakoshi Hydropower Ltd
+2026042304008740,UPPER,42,45,105,208.0,21840.0,2026-04-23,187753403,2792,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:10:21.826144,Upper Tamakoshi Hydropower Ltd
+2026042304008759,UPPER,42,74,395,208.0,82160.0,2026-04-23,187753570,2792,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:10:34.225474,Upper Tamakoshi Hydropower Ltd
+2026042304008760,UPPER,58,74,15,208.0,3120.0,2026-04-23,187753572,2792,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:10:34.226746,Upper Tamakoshi Hydropower Ltd
+2026042304008761,UPPER,13,74,10,208.0,2080.0,2026-04-23,187753574,2792,Thrive Brokerage House Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:10:34.227720,Upper Tamakoshi Hydropower Ltd
+2026042304008762,UPPER,45,74,20,208.0,4160.0,2026-04-23,187753575,2792,Imperial Securities Company Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:10:34.228687,Upper Tamakoshi Hydropower Ltd
+2026042304008763,UPPER,45,44,68,208.0,14144.0,2026-04-23,187753577,2792,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:10:34.688078,Upper Tamakoshi Hydropower Ltd
+2026042304008798,UPPER,45,13,70,208.0,14560.0,2026-04-23,187754019,2792,Imperial Securities Company Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:11:21.876755,Upper Tamakoshi Hydropower Ltd
+2026042304008852,UPPER,45,19,182,208.0,37856.0,2026-04-23,187754574,2792,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:12:37.246757,Upper Tamakoshi Hydropower Ltd
+2026042304008853,UPPER,80,19,118,208.0,24544.0,2026-04-23,187754575,2792,Indira securities pvt. ltd,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:12:37.248056,Upper Tamakoshi Hydropower Ltd
+2026042304008889,UPPER,80,57,50,208.0,10400.0,2026-04-23,187754943,2792,Indira securities pvt. ltd,Aryatara Investment & Securities,2026-04-23 14:13:26.554954,Upper Tamakoshi Hydropower Ltd
+2026042304008901,UPPER,80,32,17,208.0,3536.0,2026-04-23,187755098,2792,Indira securities pvt. ltd,Premier Securities Company Ltd.,2026-04-23 14:13:39.500402,Upper Tamakoshi Hydropower Ltd
+2026042304008902,UPPER,49,32,10,208.0,2080.0,2026-04-23,187755100,2792,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 14:13:39.501658,Upper Tamakoshi Hydropower Ltd
+2026042304008903,UPPER,58,32,73,208.0,15184.0,2026-04-23,187755101,2792,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-23 14:13:39.502611,Upper Tamakoshi Hydropower Ltd
+2026042304009057,UPPER,56,50,48,209.0,10032.0,2026-04-23,187756355,2792,Sri Hari Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:15:55.036907,Upper Tamakoshi Hydropower Ltd
+2026042304009058,UPPER,56,38,952,209.0,198968.0,2026-04-23,187756360,2792,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:15:55.037503,Upper Tamakoshi Hydropower Ltd
+2026042304009077,UPPER,13,41,80,208.0,16640.0,2026-04-23,187756485,2792,Thrive Brokerage House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-23 14:16:09.458231,Upper Tamakoshi Hydropower Ltd
+2026042304009152,UPPER,13,1,220,208.0,45760.0,2026-04-23,187757162,2792,Thrive Brokerage House Pvt. Ltd,Kumari Securities Private Limited,2026-04-23 14:17:12.612595,Upper Tamakoshi Hydropower Ltd
+2026042304009153,UPPER,8,1,280,208.0,58240.0,2026-04-23,187757163,2792,Brilliant Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 14:17:12.613927,Upper Tamakoshi Hydropower Ltd
+2026042304009154,UPPER,8,1,400,208.0,83200.0,2026-04-23,187757205,2792,Brilliant Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 14:17:18.144504,Upper Tamakoshi Hydropower Ltd
+2026042304009198,UPPER,8,6,100,208.0,20800.0,2026-04-23,187757999,2792,Brilliant Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:18:39.493208,Upper Tamakoshi Hydropower Ltd
+2026042304009299,UPPER,34,34,10,208.1,2081.0,2026-04-23,187759126,2792,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-23 14:20:36.381720,Upper Tamakoshi Hydropower Ltd
+2026042304009300,UPPER,8,34,40,208.0,8320.0,2026-04-23,187759127,2792,Brilliant Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:20:36.382326,Upper Tamakoshi Hydropower Ltd
+2026042304009455,UPPER,8,19,80,208.0,16640.0,2026-04-23,187761265,2792,Brilliant Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:24:23.592254,Upper Tamakoshi Hydropower Ltd
+2026042304009663,UPPER,58,34,25,208.3,5207.5,2026-04-23,187764121,2792,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:29:06.616384,Upper Tamakoshi Hydropower Ltd
+2026042304009682,UPPER,58,58,16,208.3,3332.8,2026-04-23,187764392,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:29:34.285725,Upper Tamakoshi Hydropower Ltd
+2026042304009683,UPPER,42,58,19,208.3,3957.7,2026-04-23,187764393,2792,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:29:34.286370,Upper Tamakoshi Hydropower Ltd
+2026042304009722,UPPER,22,39,20,208.2,4164.0,2026-04-23,187764937,2792,Siprabi Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 14:30:08.605576,Upper Tamakoshi Hydropower Ltd
+2026042304009726,UPPER,22,36,80,208.2,16656.0,2026-04-23,187765038,2792,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:30:18.345392,Upper Tamakoshi Hydropower Ltd
+2026042304009730,UPPER,58,58,65,208.1,13526.5,2026-04-23,187765181,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:30:27.905589,Upper Tamakoshi Hydropower Ltd
+2026042304009737,UPPER,38,36,60,208.2,12492.0,2026-04-23,187765268,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Secured Securities Ltd.,2026-04-23 14:30:37.503366,Upper Tamakoshi Hydropower Ltd
+2026042304009812,UPPER,45,4,10,208.1,2081.0,2026-04-23,187765982,2792,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 14:31:30.526005,Upper Tamakoshi Hydropower Ltd
+2026042304009813,UPPER,8,4,190,208.0,39520.0,2026-04-23,187765983,2792,Brilliant Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 14:31:30.527430,Upper Tamakoshi Hydropower Ltd
+2026042304009822,UPPER,51,62,750,208.1,156075.0,2026-04-23,187766230,2792,Oxford Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:32:02.202713,Upper Tamakoshi Hydropower Ltd
+2026042304009830,UPPER,8,35,7000,208.0,1456000.0,2026-04-23,187766453,2792,Brilliant Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:32:25.691893,Upper Tamakoshi Hydropower Ltd
+2026042304009831,UPPER,35,62,240,208.1,49944.0,2026-04-23,187766474,2792,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:32:28.193924,Upper Tamakoshi Hydropower Ltd
+2026042304009863,UPPER,8,33,1000,208.0,208000.0,2026-04-23,187766745,2792,Brilliant Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:32:44.946337,Upper Tamakoshi Hydropower Ltd
+2026042304009864,UPPER,8,63,550,208.0,114400.0,2026-04-23,187766787,2792,Brilliant Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-23 14:32:48.157625,Upper Tamakoshi Hydropower Ltd
+2026042304009872,UPPER,8,35,500,208.0,104000.0,2026-04-23,187766873,2792,Brilliant Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:32:57.755663,Upper Tamakoshi Hydropower Ltd
+2026042304009875,UPPER,8,36,80,208.0,16640.0,2026-04-23,187766913,2792,Brilliant Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:33:03.191079,Upper Tamakoshi Hydropower Ltd
+2026042304009881,UPPER,8,38,1225,208.0,254800.0,2026-04-23,187767025,2792,Brilliant Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:33:14.154489,Upper Tamakoshi Hydropower Ltd
+2026042304009908,UPPER,46,62,10,208.1,2081.0,2026-04-23,187767190,2792,Kalika Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:33:27.293551,Upper Tamakoshi Hydropower Ltd
+2026042304009978,UPPER,8,34,2000,208.0,416000.0,2026-04-23,187767569,2792,Brilliant Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:34:04.883734,Upper Tamakoshi Hydropower Ltd
+2026042304010030,UPPER,49,11,90,208.8,18792.0,2026-04-23,187767962,2792,Online Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:34:38.573066,Upper Tamakoshi Hydropower Ltd
+2026042304010053,UPPER,8,19,20,208.0,4160.0,2026-04-23,187768367,2792,Brilliant Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:35:20.823938,Upper Tamakoshi Hydropower Ltd
+2026042304010055,UPPER,49,11,10,208.8,2088.0,2026-04-23,187768403,2792,Online Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:35:24.550422,Upper Tamakoshi Hydropower Ltd
+2026042304010056,UPPER,49,38,48,209.0,10032.0,2026-04-23,187768405,2792,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:35:24.551784,Upper Tamakoshi Hydropower Ltd
+2026042304010057,UPPER,49,50,42,209.0,8778.0,2026-04-23,187768408,2792,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:35:24.552777,Upper Tamakoshi Hydropower Ltd
+2026042304010140,UPPER,8,29,20,208.0,4160.0,2026-04-23,187769497,2792,Brilliant Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:36:33.795954,Upper Tamakoshi Hydropower Ltd
+2026042304010141,UPPER,44,7,10,209.5,2095.0,2026-04-23,187769516,2792,Dynamic Money Managers Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:36:35.707361,Upper Tamakoshi Hydropower Ltd
+2026042304010166,UPPER,46,7,20,209.5,4190.0,2026-04-23,187769918,2792,Kalika Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:37:03.875983,Upper Tamakoshi Hydropower Ltd
+2026042304010207,UPPER,44,7,50,209.5,10475.0,2026-04-23,187770346,2792,Dynamic Money Managers Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:37:43.207610,Upper Tamakoshi Hydropower Ltd
+2026042304010214,UPPER,51,16,10,208.8,2088.0,2026-04-23,187770380,2792,Oxford Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:37:45.097717,Upper Tamakoshi Hydropower Ltd
+2026042304010215,UPPER,38,16,58,208.1,12069.8,2026-04-23,187770381,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:37:45.099040,Upper Tamakoshi Hydropower Ltd
+2026042304010227,UPPER,46,7,100,209.5,20950.0,2026-04-23,187770556,2792,Kalika Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:37:58.333673,Upper Tamakoshi Hydropower Ltd
+2026042304010273,UPPER,58,7,97,209.5,20321.5,2026-04-23,187771409,2792,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:39:07.164440,Upper Tamakoshi Hydropower Ltd
+2026042304010281,UPPER,49,46,100,208.3,20830.0,2026-04-23,187771547,2792,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 14:39:19.678672,Upper Tamakoshi Hydropower Ltd
+2026042304010396,UPPER,63,32,40,208.2,8328.0,2026-04-23,187773463,2792,Himalayan Brokerage Company Limited,Premier Securities Company Ltd.,2026-04-23 14:41:47.101755,Upper Tamakoshi Hydropower Ltd
+2026042304010491,UPPER,58,51,239,208.5,49831.5,2026-04-23,187774498,2792,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:43:12.523055,Upper Tamakoshi Hydropower Ltd
+2026042304010492,UPPER,38,51,47,208.3,9790.1,2026-04-23,187774499,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:43:12.524548,Upper Tamakoshi Hydropower Ltd
+2026042304010702,UPPER,7,33,20,208.9,4178.0,2026-04-23,187775912,2792,J.F. Securites (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:44:38.936505,Upper Tamakoshi Hydropower Ltd
+2026042304010713,UPPER,38,21,100,208.3,20830.0,2026-04-23,187776037,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 14:44:46.676891,Upper Tamakoshi Hydropower Ltd
+2026042304010714,UPPER,48,33,50,208.9,10445.0,2026-04-23,187776188,2792,Trishakti Securities Public Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:44:54.723075,Upper Tamakoshi Hydropower Ltd
+2026042304010726,UPPER,38,45,40,208.3,8332.0,2026-04-23,187776373,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:45:07.266444,Upper Tamakoshi Hydropower Ltd
+2026042304010766,UPPER,34,33,50,208.9,10445.0,2026-04-23,187776942,2792,Vision Securities Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:45:44.901578,Upper Tamakoshi Hydropower Ltd
+2026042304010775,UPPER,58,33,20,208.9,4178.0,2026-04-23,187777096,2792,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:45:56.541689,Upper Tamakoshi Hydropower Ltd
+2026042304010815,UPPER,41,42,326,208.5,67971.0,2026-04-23,187777550,2792,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-23 14:46:16.501429,Upper Tamakoshi Hydropower Ltd
+2026042304010816,UPPER,38,42,174,208.3,36244.2,2026-04-23,187777551,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-23 14:46:16.502076,Upper Tamakoshi Hydropower Ltd
+2026042304010818,UPPER,14,33,23,208.9,4804.7,2026-04-23,187777587,2792,Nepal Stock House (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:46:19.720473,Upper Tamakoshi Hydropower Ltd
+2026042304010852,UPPER,18,33,67,208.9,13996.3,2026-04-23,187777835,2792,Sagarmatha Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:46:39.635898,Upper Tamakoshi Hydropower Ltd
+2026042304010853,UPPER,18,52,70,208.9,14623.0,2026-04-23,187777837,2792,Sagarmatha Securities Private Limited,Sundhara Securities Limited,2026-04-23 14:46:39.637327,Upper Tamakoshi Hydropower Ltd
+2026042304010854,UPPER,18,58,150,209.0,31350.0,2026-04-23,187777839,2792,Sagarmatha Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 14:46:39.638643,Upper Tamakoshi Hydropower Ltd
+2026042304010855,UPPER,18,58,96,209.0,20064.0,2026-04-23,187777841,2792,Sagarmatha Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 14:46:39.640037,Upper Tamakoshi Hydropower Ltd
+2026042304010856,UPPER,18,45,1048,209.0,219032.0,2026-04-23,187777844,2792,Sagarmatha Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:46:39.641440,Upper Tamakoshi Hydropower Ltd
+2026042304010950,UPPER,3,38,10,208.9,2089.0,2026-04-23,187778602,2792,Arun Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:47:16.513896,Upper Tamakoshi Hydropower Ltd
+2026042304010951,UPPER,49,38,390,208.9,81471.0,2026-04-23,187778603,2792,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:47:16.514574,Upper Tamakoshi Hydropower Ltd
+2026042304010966,UPPER,49,38,60,208.9,12534.0,2026-04-23,187778898,2792,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:47:35.491199,Upper Tamakoshi Hydropower Ltd
+2026042304010997,UPPER,34,38,10,208.9,2089.0,2026-04-23,187778986,2792,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:47:40.347756,Upper Tamakoshi Hydropower Ltd
+2026042304011093,UPPER,58,38,36,208.9,7520.4,2026-04-23,187779860,2792,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:48:20.380818,Upper Tamakoshi Hydropower Ltd
+2026042304011155,UPPER,58,38,37,208.9,7729.3,2026-04-23,187780332,2792,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:48:39.165963,Upper Tamakoshi Hydropower Ltd
+2026042304011166,UPPER,38,35,84,208.3,17497.2,2026-04-23,187780548,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.796584,Upper Tamakoshi Hydropower Ltd
+2026042304011167,UPPER,58,35,100,208.3,20830.0,2026-04-23,187780550,2792,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.797203,Upper Tamakoshi Hydropower Ltd
+2026042304011168,UPPER,34,35,100,208.3,20830.0,2026-04-23,187780552,2792,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.797538,Upper Tamakoshi Hydropower Ltd
+2026042304011169,UPPER,57,35,100,208.1,20810.0,2026-04-23,187780554,2792,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.798009,Upper Tamakoshi Hydropower Ltd
+2026042304011170,UPPER,8,35,515,208.0,107120.0,2026-04-23,187780556,2792,Brilliant Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.798579,Upper Tamakoshi Hydropower Ltd
+2026042304011171,UPPER,17,35,101,208.0,21008.0,2026-04-23,187780558,2792,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.799149,Upper Tamakoshi Hydropower Ltd
+2026042304011172,UPPER,43,35,10,208.0,2080.0,2026-04-23,187780560,2792,South Asian Bulls Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.799609,Upper Tamakoshi Hydropower Ltd
+2026042304011173,UPPER,42,35,12,208.0,2496.0,2026-04-23,187780562,2792,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.800001,Upper Tamakoshi Hydropower Ltd
+2026042304011174,UPPER,14,35,485,208.0,100880.0,2026-04-23,187780564,2792,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.800396,Upper Tamakoshi Hydropower Ltd
+2026042304011175,UPPER,58,35,20,208.0,4160.0,2026-04-23,187780566,2792,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.800784,Upper Tamakoshi Hydropower Ltd
+2026042304011176,UPPER,74,35,70,208.0,14560.0,2026-04-23,187780568,2792,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.801192,Upper Tamakoshi Hydropower Ltd
+2026042304011177,UPPER,58,35,50,208.0,10400.0,2026-04-23,187780570,2792,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.801647,Upper Tamakoshi Hydropower Ltd
+2026042304011178,UPPER,64,35,35,208.0,7280.0,2026-04-23,187780572,2792,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.802044,Upper Tamakoshi Hydropower Ltd
+2026042304011179,UPPER,4,35,48,208.0,9984.0,2026-04-23,187780574,2792,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.802411,Upper Tamakoshi Hydropower Ltd
+2026042304011180,UPPER,37,35,10,208.0,2080.0,2026-04-23,187780576,2792,Swarna Laxmi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.802828,Upper Tamakoshi Hydropower Ltd
+2026042304011181,UPPER,38,35,235,208.0,48880.0,2026-04-23,187780578,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.803217,Upper Tamakoshi Hydropower Ltd
+2026042304011182,UPPER,42,35,1900,208.0,395200.0,2026-04-23,187780580,2792,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.803580,Upper Tamakoshi Hydropower Ltd
+2026042304011183,UPPER,57,35,1000,208.0,208000.0,2026-04-23,187780582,2792,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.803969,Upper Tamakoshi Hydropower Ltd
+2026042304011184,UPPER,58,35,40,208.0,8320.0,2026-04-23,187780584,2792,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.804361,Upper Tamakoshi Hydropower Ltd
+2026042304011185,UPPER,58,35,53,208.0,11024.0,2026-04-23,187780586,2792,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.804738,Upper Tamakoshi Hydropower Ltd
+2026042304011186,UPPER,48,35,32,208.0,6656.0,2026-04-23,187780587,2792,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:48:47.805126,Upper Tamakoshi Hydropower Ltd
+2026042304011187,UPPER,18,38,57,208.9,11907.3,2026-04-23,187780593,2792,Sagarmatha Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:48:48.472537,Upper Tamakoshi Hydropower Ltd
+2026042304011188,UPPER,18,45,52,209.0,10868.0,2026-04-23,187780595,2792,Sagarmatha Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:48:48.473110,Upper Tamakoshi Hydropower Ltd
+2026042304011189,UPPER,18,6,41,209.0,8569.0,2026-04-23,187780598,2792,Sagarmatha Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 14:48:48.473558,Upper Tamakoshi Hydropower Ltd
+2026042304011265,UPPER,48,36,968,208.0,201344.0,2026-04-23,187781212,2792,Trishakti Securities Public Limited,Secured Securities Ltd.,2026-04-23 14:49:15.206124,Upper Tamakoshi Hydropower Ltd
+2026042304011266,UPPER,42,36,275,208.0,57200.0,2026-04-23,187781214,2792,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-23 14:49:15.206758,Upper Tamakoshi Hydropower Ltd
+2026042304011267,UPPER,25,36,113,208.0,23504.0,2026-04-23,187781216,2792,Sweta Securities Private Limited,Secured Securities Ltd.,2026-04-23 14:49:15.207103,Upper Tamakoshi Hydropower Ltd
+2026042304011268,UPPER,13,36,500,208.0,104000.0,2026-04-23,187781218,2792,Thrive Brokerage House Pvt. Ltd,Secured Securities Ltd.,2026-04-23 14:49:15.207432,Upper Tamakoshi Hydropower Ltd
+2026042304011269,UPPER,38,36,10,208.0,2080.0,2026-04-23,187781220,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Secured Securities Ltd.,2026-04-23 14:49:15.207748,Upper Tamakoshi Hydropower Ltd
+2026042304011270,UPPER,45,36,48,208.0,9984.0,2026-04-23,187781222,2792,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:49:15.208067,Upper Tamakoshi Hydropower Ltd
+2026042304011271,UPPER,35,36,100,208.0,20800.0,2026-04-23,187781224,2792,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:49:15.208388,Upper Tamakoshi Hydropower Ltd
+2026042304011272,UPPER,58,36,150,208.0,31200.0,2026-04-23,187781225,2792,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 14:49:15.208715,Upper Tamakoshi Hydropower Ltd
+2026042304011309,UPPER,58,74,10,208.0,2080.0,2026-04-23,187781626,2792,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:49:30.242904,Upper Tamakoshi Hydropower Ltd
+2026042304011367,UPPER,17,48,12,207.9,2494.8,2026-04-23,187782050,2792,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-23 14:49:43.898165,Upper Tamakoshi Hydropower Ltd
+2026042304011368,UPPER,57,48,88,207.8,18286.4,2026-04-23,187782051,2792,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-23 14:49:43.899485,Upper Tamakoshi Hydropower Ltd
+2026042304011379,UPPER,57,36,152,207.8,31585.6,2026-04-23,187782138,2792,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-23 14:49:49.553927,Upper Tamakoshi Hydropower Ltd
+2026042304011380,UPPER,19,36,500,207.6,103800.0,2026-04-23,187782140,2792,Nepal Investment And Securities Trading Private Limited,Secured Securities Ltd.,2026-04-23 14:49:49.554580,Upper Tamakoshi Hydropower Ltd
+2026042304011381,UPPER,22,36,28,207.5,5810.0,2026-04-23,187782142,2792,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:49:49.554992,Upper Tamakoshi Hydropower Ltd
+2026042304011382,UPPER,22,36,2222,207.5,461065.0,2026-04-23,187782144,2792,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:49:49.555416,Upper Tamakoshi Hydropower Ltd
+2026042304011383,UPPER,25,36,250,207.5,51875.0,2026-04-23,187782146,2792,Sweta Securities Private Limited,Secured Securities Ltd.,2026-04-23 14:49:49.555807,Upper Tamakoshi Hydropower Ltd
+2026042304011384,UPPER,34,36,90,207.5,18675.0,2026-04-23,187782148,2792,Vision Securities Pvt. Ltd,Secured Securities Ltd.,2026-04-23 14:49:49.556190,Upper Tamakoshi Hydropower Ltd
+2026042304011385,UPPER,82,36,160,207.3,33168.0,2026-04-23,187782150,2792,N.M.B. SECURITIES LIMITED,Secured Securities Ltd.,2026-04-23 14:49:49.556618,Upper Tamakoshi Hydropower Ltd
+2026042304011386,UPPER,82,36,235,207.3,48715.5,2026-04-23,187782152,2792,N.M.B. SECURITIES LIMITED,Secured Securities Ltd.,2026-04-23 14:49:49.557023,Upper Tamakoshi Hydropower Ltd
+2026042304011387,UPPER,58,36,18,207.2,3729.6,2026-04-23,187782154,2792,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 14:49:49.557465,Upper Tamakoshi Hydropower Ltd
+2026042304011388,UPPER,41,36,50,207.1,10355.0,2026-04-23,187782156,2792,Linch Stock Market Ltd.,Secured Securities Ltd.,2026-04-23 14:49:49.557854,Upper Tamakoshi Hydropower Ltd
+2026042304011389,UPPER,45,36,1631,207.1,337780.1,2026-04-23,187782157,2792,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:49:49.558273,Upper Tamakoshi Hydropower Ltd
+2026042304011592,UPPER,4,74,51,208.0,10608.0,2026-04-23,187783332,2792,Opal Securities Investment (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:50:32.765749,Upper Tamakoshi Hydropower Ltd
+2026042304011597,UPPER,45,58,50,207.1,10355.0,2026-04-23,187783381,2792,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:50:36.274721,Upper Tamakoshi Hydropower Ltd
+2026042304011627,UPPER,40,74,10,208.0,2080.0,2026-04-23,187783700,2792,Creative Securities Pvt Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:50:51.017366,Upper Tamakoshi Hydropower Ltd
+2026042304011658,UPPER,45,41,100,207.1,20710.0,2026-04-23,187783919,2792,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 14:51:00.156857,Upper Tamakoshi Hydropower Ltd
+2026042304011728,UPPER,46,74,100,208.0,20800.0,2026-04-23,187784502,2792,Kalika Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:51:22.827437,Upper Tamakoshi Hydropower Ltd
+2026042304011891,UPPER,42,32,15,207.5,3112.5,2026-04-23,187785941,2792,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 14:52:26.654847,Upper Tamakoshi Hydropower Ltd
+2026042304011892,UPPER,42,74,69,208.0,14352.0,2026-04-23,187785943,2792,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:52:26.655551,Upper Tamakoshi Hydropower Ltd
+2026042304011893,UPPER,42,25,200,208.0,41600.0,2026-04-23,187785945,2792,Sani Securities Company Ltd.,Sweta Securities Private Limited,2026-04-23 14:52:26.655886,Upper Tamakoshi Hydropower Ltd
+2026042304011894,UPPER,42,50,716,208.0,148928.0,2026-04-23,187785948,2792,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:52:26.656209,Upper Tamakoshi Hydropower Ltd
+2026042304011899,UPPER,36,50,50,208.0,10400.0,2026-04-23,187786140,2792,Secured Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:52:35.292850,Upper Tamakoshi Hydropower Ltd
+2026042304011980,UPPER,63,7,80,207.5,16600.0,2026-04-23,187787207,2792,Himalayan Brokerage Company Limited,J.F. Securites (PVT) Ltd.,2026-04-23 14:53:18.724070,Upper Tamakoshi Hydropower Ltd
+2026042304012017,UPPER,62,98,56,207.6,11625.6,2026-04-23,187787576,2792,Capital Max Securities Ltd,Trademow Securities Private Limited,2026-04-23 14:53:37.727595,Upper Tamakoshi Hydropower Ltd
+2026042304012018,UPPER,63,98,44,207.5,9130.0,2026-04-23,187787577,2792,Himalayan Brokerage Company Limited,Trademow Securities Private Limited,2026-04-23 14:53:37.728246,Upper Tamakoshi Hydropower Ltd
+2026042304012087,UPPER,13,22,40,207.6,8304.0,2026-04-23,187788074,2792,Thrive Brokerage House Pvt. Ltd,Siprabi Securities Pvt. Ltd.,2026-04-23 14:53:55.243635,Upper Tamakoshi Hydropower Ltd
+2026042304012109,UPPER,58,50,20,208.0,4160.0,2026-04-23,187788266,2792,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:54:01.714692,Upper Tamakoshi Hydropower Ltd
+2026042304012224,UPPER,57,22,100,207.7,20770.0,2026-04-23,187789325,2792,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-23 14:54:42.709665,Upper Tamakoshi Hydropower Ltd
+2026042304012241,UPPER,57,35,50,207.7,10385.0,2026-04-23,187789548,2792,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:54:53.292541,Upper Tamakoshi Hydropower Ltd
+2026042304012242,UPPER,21,35,89,207.7,18485.3,2026-04-23,187789550,2792,Midas Stock Broking Company Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:54:53.293871,Upper Tamakoshi Hydropower Ltd
+2026042304012243,UPPER,13,35,160,207.6,33216.0,2026-04-23,187789552,2792,Thrive Brokerage House Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:54:53.294872,Upper Tamakoshi Hydropower Ltd
+2026042304012244,UPPER,42,35,701,207.6,145527.6,2026-04-23,187789553,2792,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:54:53.295846,Upper Tamakoshi Hydropower Ltd
+2026042304012335,UPPER,58,58,100,207.7,20770.0,2026-04-23,187790893,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:55:48.411034,Upper Tamakoshi Hydropower Ltd
+2026042304012464,UPPER,46,50,100,208.0,20800.0,2026-04-23,187791348,2792,Kalika Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:55:58.484725,Upper Tamakoshi Hydropower Ltd
+2026042304012478,UPPER,34,50,60,208.0,12480.0,2026-04-23,187791470,2792,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:03.777534,Upper Tamakoshi Hydropower Ltd
+2026042304012489,UPPER,38,50,15,208.0,3120.0,2026-04-23,187791558,2792,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:08.299103,Upper Tamakoshi Hydropower Ltd
+2026042304012528,UPPER,63,36,300,207.8,62340.0,2026-04-23,187791793,2792,Himalayan Brokerage Company Limited,Secured Securities Ltd.,2026-04-23 14:56:16.061828,Upper Tamakoshi Hydropower Ltd
+2026042304012537,UPPER,59,50,39,208.0,8112.0,2026-04-23,187791937,2792,Deevyaa Securities & Stock House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:21.865084,Upper Tamakoshi Hydropower Ltd
+2026042304012538,UPPER,59,28,71,208.0,14768.0,2026-04-23,187791940,2792,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-23 14:56:21.866545,Upper Tamakoshi Hydropower Ltd
+2026042304012550,UPPER,63,28,130,207.8,27014.0,2026-04-23,187792057,2792,Himalayan Brokerage Company Limited,Shree Krishna Securities Ltd.,2026-04-23 14:56:25.489955,Upper Tamakoshi Hydropower Ltd
+2026042304012578,UPPER,63,19,406,207.8,84366.8,2026-04-23,187792390,2792,Himalayan Brokerage Company Limited,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:56:36.434449,Upper Tamakoshi Hydropower Ltd
+2026042304012579,UPPER,58,19,94,207.7,19523.8,2026-04-23,187792391,2792,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:56:36.435080,Upper Tamakoshi Hydropower Ltd
+2026042304012588,UPPER,25,38,50,207.8,10390.0,2026-04-23,187792470,2792,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:56:40.169782,Upper Tamakoshi Hydropower Ltd
+2026042304012589,UPPER,1,38,350,207.8,72730.0,2026-04-23,187792482,2792,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:56:40.423345,Upper Tamakoshi Hydropower Ltd
+2026042304012590,UPPER,1,28,69,208.0,14352.0,2026-04-23,187792485,2792,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-23 14:56:40.424106,Upper Tamakoshi Hydropower Ltd
+2026042304012591,UPPER,1,33,100,208.0,20800.0,2026-04-23,187792487,2792,Kumari Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:56:40.424606,Upper Tamakoshi Hydropower Ltd
+2026042304012592,UPPER,1,21,200,208.0,41600.0,2026-04-23,187792489,2792,Kumari Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-23 14:56:40.425010,Upper Tamakoshi Hydropower Ltd
+2026042304012593,UPPER,1,14,1000,208.0,208000.0,2026-04-23,187792491,2792,Kumari Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 14:56:40.425382,Upper Tamakoshi Hydropower Ltd
+2026042304012594,UPPER,1,52,236,208.0,49088.0,2026-04-23,187792493,2792,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-23 14:56:40.425713,Upper Tamakoshi Hydropower Ltd
+2026042304012595,UPPER,1,58,184,208.0,38272.0,2026-04-23,187792495,2792,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 14:56:40.426032,Upper Tamakoshi Hydropower Ltd
+2026042304012596,UPPER,1,52,100,208.0,20800.0,2026-04-23,187792497,2792,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-23 14:56:40.426365,Upper Tamakoshi Hydropower Ltd
+2026042304012597,UPPER,1,74,500,208.0,104000.0,2026-04-23,187792499,2792,Kumari Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:56:40.426691,Upper Tamakoshi Hydropower Ltd
+2026042304012627,UPPER,1,36,406,208.0,84448.0,2026-04-23,187792723,2792,Kumari Securities Private Limited,Secured Securities Ltd.,2026-04-23 14:56:47.619017,Upper Tamakoshi Hydropower Ltd
+2026042304012643,UPPER,1,42,50,208.0,10400.0,2026-04-23,187792831,2792,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 14:56:50.526273,Upper Tamakoshi Hydropower Ltd
+2026042304012666,UPPER,1,6,1445,208.0,300560.0,2026-04-23,187793037,2792,Kumari Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 14:56:56.846787,Upper Tamakoshi Hydropower Ltd
+2026042304012685,UPPER,32,19,10,208.6,2086.0,2026-04-23,187793165,2792,Premier Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:57:01.897846,Upper Tamakoshi Hydropower Ltd
+2026042304012686,UPPER,32,32,190,208.6,39634.0,2026-04-23,187793168,2792,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 14:57:01.899307,Upper Tamakoshi Hydropower Ltd
+2026042304012712,UPPER,1,38,360,208.0,74880.0,2026-04-23,187793366,2792,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:57:09.169905,Upper Tamakoshi Hydropower Ltd
+2026042304012713,UPPER,42,38,640,208.0,133120.0,2026-04-23,187793367,2792,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:57:09.170582,Upper Tamakoshi Hydropower Ltd
+2026042304012752,UPPER,13,43,100,208.1,20810.0,2026-04-23,187794014,2792,Thrive Brokerage House Pvt. Ltd,South Asian Bulls Pvt. Ltd.,2026-04-23 14:57:28.686741,Upper Tamakoshi Hydropower Ltd
+2026042304012753,UPPER,42,43,360,208.0,74880.0,2026-04-23,187794016,2792,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:57:28.687376,Upper Tamakoshi Hydropower Ltd
+2026042304012781,UPPER,58,58,206,207.7,42786.2,2026-04-23,187794320,2792,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:57:33.890087,Upper Tamakoshi Hydropower Ltd
+2026042304012782,UPPER,51,58,337,207.7,69994.9,2026-04-23,187794322,2792,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:57:33.890809,Upper Tamakoshi Hydropower Ltd
+2026042304012783,UPPER,42,58,487,207.6,101101.2,2026-04-23,187794323,2792,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:57:33.891367,Upper Tamakoshi Hydropower Ltd
+2026042304012843,UPPER,13,43,50,207.7,10385.0,2026-04-23,187795240,2792,Thrive Brokerage House Pvt. Ltd,South Asian Bulls Pvt. Ltd.,2026-04-23 14:57:59.321172,Upper Tamakoshi Hydropower Ltd
+2026042304012844,UPPER,42,43,450,207.6,93420.0,2026-04-23,187795241,2792,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:57:59.321816,Upper Tamakoshi Hydropower Ltd
+2026042304012894,UPPER,42,19,362,207.6,75151.2,2026-04-23,187795663,2792,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:58:12.583688,Upper Tamakoshi Hydropower Ltd
+2026042304012895,UPPER,56,19,130,207.6,26988.0,2026-04-23,187795665,2792,Sri Hari Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:58:12.584303,Upper Tamakoshi Hydropower Ltd
+2026042304013071,UPPER,8,32,100,208.0,20800.0,2026-04-23,187797443,2792,Brilliant Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 14:58:52.228370,Upper Tamakoshi Hydropower Ltd
+2026042304013337,UPPER,8,36,671,208.0,139568.0,2026-04-23,187799655,2792,Brilliant Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:59:24.152008,Upper Tamakoshi Hydropower Ltd
+2026042304013338,UPPER,20,20,1,211.3,211.3,2026-04-23,187799659,2792,Sipla Securities Private Limited,Sipla Securities Private Limited,2026-04-23 14:59:24.399147,Upper Tamakoshi Hydropower Ltd
+2026042304013357,UPPER,49,50,6,209.0,1254.0,2026-04-23,187799765,2792,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:59:25.684606,Upper Tamakoshi Hydropower Ltd
+2026042304013392,UPPER,8,34,195,208.0,40560.0,2026-04-23,187800177,2792,Brilliant Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:59:32.682079,Upper Tamakoshi Hydropower Ltd
+2026042304013421,UPPER,8,57,34,208.0,7072.0,2026-04-23,187800324,2792,Brilliant Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 14:59:35.153071,Upper Tamakoshi Hydropower Ltd
+2026042304013422,UPPER,42,57,11,208.0,2288.0,2026-04-23,187800325,2792,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-23 14:59:35.153673,Upper Tamakoshi Hydropower Ltd
+2026042304013611,UPPER,35,17,150,208.4,31260.0,2026-04-23,187802239,2792,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:59:57.674695,Upper Tamakoshi Hydropower Ltd
+2026042304013612,UPPER,35,33,350,208.5,72975.0,2026-04-23,187802242,2792,Kohinoor Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:59:57.674744,Upper Tamakoshi Hydropower Ltd
+2026042304013666,UPPER,58,33,20,208.5,4170.0,2026-04-23,187802588,2792,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:59:59.840854,Upper Tamakoshi Hydropower Ltd

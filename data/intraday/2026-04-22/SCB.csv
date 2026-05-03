@@ -1,0 +1,81 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042201001542,SCB,62,58,60,650.0,39000.0,2026-04-22,187377532,133,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-22 11:06:43.700645,Standard Chartered Bank Limited
+2026042201001873,SCB,58,25,10,645.0,6450.0,2026-04-22,187378898,133,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-22 11:07:55.552313,Standard Chartered Bank Limited
+2026042201001874,SCB,75,25,105,634.1,66580.5,2026-04-22,187378899,133,N.I.M.B. Stock Markets Limited,Sweta Securities Private Limited,2026-04-22 11:07:55.552368,Standard Chartered Bank Limited
+2026042201007720,SCB,57,46,20,641.3,12826.0,2026-04-22,187397368,133,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-22 11:21:04.346647,Standard Chartered Bank Limited
+2026042201007721,SCB,58,46,20,641.3,12826.0,2026-04-22,187397370,133,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-22 11:21:04.346750,Standard Chartered Bank Limited
+2026042201008070,SCB,56,46,39,641.3,25010.7,2026-04-22,187398424,133,Sri Hari Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-22 11:21:52.150712,Standard Chartered Bank Limited
+2026042201009890,SCB,57,36,20,643.1,12862.0,2026-04-22,187404474,133,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-22 11:27:15.197711,Standard Chartered Bank Limited
+2026042201009891,SCB,52,36,42,643.0,27006.0,2026-04-22,187404475,133,Sundhara Securities Limited,Secured Securities Ltd.,2026-04-22 11:27:15.197932,Standard Chartered Bank Limited
+2026042201012060,SCB,42,29,30,645.0,19350.0,2026-04-22,187411546,133,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.952602,Standard Chartered Bank Limited
+2026042201012061,SCB,13,29,100,645.0,64500.0,2026-04-22,187411548,133,Thrive Brokerage House Pvt. Ltd,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.952733,Standard Chartered Bank Limited
+2026042201012062,SCB,3,29,12,645.0,7740.0,2026-04-22,187411550,133,Arun Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.952814,Standard Chartered Bank Limited
+2026042201012063,SCB,45,29,254,643.2,163372.8,2026-04-22,187411552,133,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.952881,Standard Chartered Bank Limited
+2026042201012064,SCB,57,29,20,643.1,12862.0,2026-04-22,187411554,133,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.952932,Standard Chartered Bank Limited
+2026042201012065,SCB,21,29,23,643.1,14791.3,2026-04-22,187411556,133,Midas Stock Broking Company Private Limited,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.952979,Standard Chartered Bank Limited
+2026042201012066,SCB,52,29,458,643.0,294494.0,2026-04-22,187411558,133,Sundhara Securities Limited,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.953035,Standard Chartered Bank Limited
+2026042201012067,SCB,21,29,65,643.0,41795.0,2026-04-22,187411560,133,Midas Stock Broking Company Private Limited,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.953086,Standard Chartered Bank Limited
+2026042201012068,SCB,41,29,500,643.0,321500.0,2026-04-22,187411562,133,Linch Stock Market Ltd.,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.953133,Standard Chartered Bank Limited
+2026042201012069,SCB,52,29,493,643.0,316999.0,2026-04-22,187411563,133,Sundhara Securities Limited,Trisul Securities & Invt. Ltd.,2026-04-22 11:34:08.953180,Standard Chartered Bank Limited
+2026042201015288,SCB,58,49,122,645.0,78690.0,2026-04-22,187423041,133,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-22 11:45:26.218361,Standard Chartered Bank Limited
+2026042201015596,SCB,76,7,10,649.7,6497.0,2026-04-22,187424066,133,Machhapuchchhre Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-22 11:46:32.690892,Standard Chartered Bank Limited
+2026042201015883,SCB,51,7,10,649.7,6497.0,2026-04-22,187424938,133,Oxford Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-22 11:47:28.062556,Standard Chartered Bank Limited
+2026042201017407,SCB,66,7,200,649.7,129940.0,2026-04-22,187429966,133,Miyo Securities Pvt Ltd,J.F. Securites (PVT) Ltd.,2026-04-22 11:52:03.976046,Standard Chartered Bank Limited
+2026042201019873,SCB,42,58,20,649.6,12992.0,2026-04-22,187438746,133,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-22 11:59:14.830390,Standard Chartered Bank Limited
+2026042201022762,SCB,58,36,78,645.0,50310.0,2026-04-22,187449562,133,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-22 12:08:13.970941,Standard Chartered Bank Limited
+2026042201022763,SCB,58,36,15,645.0,9675.0,2026-04-22,187449564,133,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-22 12:08:13.971287,Standard Chartered Bank Limited
+2026042201023022,SCB,13,7,10,645.0,6450.0,2026-04-22,187450541,133,Thrive Brokerage House Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-22 12:09:01.587421,Standard Chartered Bank Limited
+2026042201023340,SCB,57,5,16,643.1,10289.6,2026-04-22,187451559,133,Aryatara Investment & Securities,Market Securities & Exchange (PVT) Ltd.,2026-04-22 12:09:56.718941,Standard Chartered Bank Limited
+2026042201024074,SCB,44,5,5,660.0,3300.0,2026-04-22,187454611,133,Dynamic Money Managers Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-22 12:12:34.316467,Standard Chartered Bank Limited
+2026042201024602,SCB,22,44,25,648.0,16200.0,2026-04-22,187456684,133,Siprabi Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:14:27.973291,Standard Chartered Bank Limited
+2026042201026658,SCB,22,3,25,645.0,16125.0,2026-04-22,187464840,133,Siprabi Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-22 12:21:44.927991,Standard Chartered Bank Limited
+2026042201026659,SCB,57,3,20,644.1,12882.0,2026-04-22,187464842,133,Aryatara Investment & Securities,Arun Securities (PVT) Ltd.,2026-04-22 12:21:44.928145,Standard Chartered Bank Limited
+2026042201027658,SCB,22,3,160,644.1,103056.0,2026-04-22,187468780,133,Siprabi Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-22 12:25:24.802568,Standard Chartered Bank Limited
+2026042201028489,SCB,43,36,93,643.1,59808.3,2026-04-22,187471591,133,South Asian Bulls Pvt. Ltd.,Secured Securities Ltd.,2026-04-22 12:27:49.377521,Standard Chartered Bank Limited
+2026042201028917,SCB,76,7,10,649.5,6495.0,2026-04-22,187473238,133,Machhapuchchhre Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-22 12:29:18.465614,Standard Chartered Bank Limited
+2026042201030150,SCB,25,91,10,649.5,6495.0,2026-04-22,187477232,133,Sweta Securities Private Limited,Citizens Share Broker Limited,2026-04-22 12:32:22.870428,Standard Chartered Bank Limited
+2026042201033079,SCB,54,58,55,649.1,35700.5,2026-04-22,187487450,133,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-22 12:42:57.454281,Standard Chartered Bank Limited
+2026042201037988,SCB,49,11,10,648.7,6487.0,2026-04-22,187506646,133,Online Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-22 13:10:49.582358,Standard Chartered Bank Limited
+2026042201038004,SCB,58,25,25,644.0,16100.0,2026-04-22,187506739,133,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-22 13:10:55.850134,Standard Chartered Bank Limited
+2026042201040227,SCB,25,49,50,647.0,32350.0,2026-04-22,187515175,133,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-22 13:24:33.751631,Standard Chartered Bank Limited
+2026042201041148,SCB,22,77,10,644.1,6441.0,2026-04-22,187518865,133,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-22 13:29:47.506968,Standard Chartered Bank Limited
+2026042201042092,SCB,45,58,10,647.9,6479.0,2026-04-22,187522670,133,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-22 13:35:54.648789,Standard Chartered Bank Limited
+2026042201042775,SCB,25,56,11,647.8,7125.8,2026-04-22,187525382,133,Sweta Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-22 13:40:47.704396,Standard Chartered Bank Limited
+2026042201043878,SCB,42,50,40,645.0,25800.0,2026-04-22,187529404,133,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 13:48:30.424738,Standard Chartered Bank Limited
+2026042201043879,SCB,41,50,10,645.0,6450.0,2026-04-22,187529406,133,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 13:48:30.424957,Standard Chartered Bank Limited
+2026042201044377,SCB,35,58,10,644.2,6442.0,2026-04-22,187531255,133,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-22 13:51:20.204649,Standard Chartered Bank Limited
+2026042201044501,SCB,25,50,50,645.0,32250.0,2026-04-22,187531655,133,Sweta Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 13:52:12.017771,Standard Chartered Bank Limited
+2026042201044717,SCB,25,49,106,645.0,68370.0,2026-04-22,187532431,133,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-22 13:53:37.555352,Standard Chartered Bank Limited
+2026042201044947,SCB,11,41,20,644.5,12890.0,2026-04-22,187533365,133,Malla & Malla Stock Broking Company Pvt. Limited,Linch Stock Market Ltd.,2026-04-22 13:55:09.901316,Standard Chartered Bank Limited
+2026042201045675,SCB,48,56,10,647.8,6478.0,2026-04-22,187536046,133,Trishakti Securities Public Limited,Sri Hari Securities Pvt. Ltd.,2026-04-22 13:59:41.399578,Standard Chartered Bank Limited
+2026042201049508,SCB,35,41,50,647.0,32350.0,2026-04-22,187550578,133,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-22 14:22:10.508318,Standard Chartered Bank Limited
+2026042201049714,SCB,35,41,40,647.0,25880.0,2026-04-22,187551496,133,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-22 14:23:25.670202,Standard Chartered Bank Limited
+2026042201050634,SCB,17,41,60,647.0,38820.0,2026-04-22,187554718,133,ABC Securities Private Limited,Linch Stock Market Ltd.,2026-04-22 14:27:26.997672,Standard Chartered Bank Limited
+2026042201051027,SCB,17,40,90,644.7,58023.0,2026-04-22,187556276,133,ABC Securities Private Limited,Creative Securities Pvt Ltd,2026-04-22 14:29:05.742002,Standard Chartered Bank Limited
+2026042201051028,SCB,28,40,10,644.6,6446.0,2026-04-22,187556277,133,Shree Krishna Securities Ltd.,Creative Securities Pvt Ltd,2026-04-22 14:29:05.742374,Standard Chartered Bank Limited
+2026042201051632,SCB,28,19,16,644.6,10313.6,2026-04-22,187558649,133,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 14:32:00.631150,Standard Chartered Bank Limited
+2026042201051697,SCB,28,19,234,644.6,150836.4,2026-04-22,187558956,133,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 14:32:22.544812,Standard Chartered Bank Limited
+2026042201051698,SCB,41,19,16,644.5,10312.0,2026-04-22,187558957,133,Linch Stock Market Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 14:32:22.545160,Standard Chartered Bank Limited
+2026042201053185,SCB,38,58,50,645.0,32250.0,2026-04-22,187565092,133,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-22 14:38:06.888073,Standard Chartered Bank Limited
+2026042201053186,SCB,58,58,100,645.0,64500.0,2026-04-22,187565093,133,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-22 14:38:06.888250,Standard Chartered Bank Limited
+2026042201057215,SCB,58,33,10,647.6,6476.0,2026-04-22,187581832,133,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 14:45:02.865170,Standard Chartered Bank Limited
+2026042201058236,SCB,66,33,40,647.6,25904.0,2026-04-22,187586351,133,Miyo Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 14:47:06.013700,Standard Chartered Bank Limited
+2026042201058237,SCB,66,58,300,647.6,194280.0,2026-04-22,187586353,133,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-22 14:47:06.013802,Standard Chartered Bank Limited
+2026042201058238,SCB,66,58,415,647.7,268795.5,2026-04-22,187586355,133,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,2026-04-22 14:47:06.013885,Standard Chartered Bank Limited
+2026042201058239,SCB,66,56,21,647.8,13603.8,2026-04-22,187586357,133,Miyo Securities Pvt Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-22 14:47:06.013963,Standard Chartered Bank Limited
+2026042201058240,SCB,66,49,500,647.8,323900.0,2026-04-22,187586359,133,Miyo Securities Pvt Ltd,Online Securities Pvt. Ltd.,2026-04-22 14:47:06.014056,Standard Chartered Bank Limited
+2026042201058241,SCB,66,49,724,647.9,469079.6,2026-04-22,187586362,133,Miyo Securities Pvt Ltd,Online Securities Pvt. Ltd.,2026-04-22 14:47:06.014143,Standard Chartered Bank Limited
+2026042201058666,SCB,41,74,25,645.5,16137.5,2026-04-22,187588277,133,Linch Stock Market Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 14:48:02.250822,Standard Chartered Bank Limited
+2026042201060070,SCB,58,49,10,647.9,6479.0,2026-04-22,187594544,133,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-22 14:51:16.103682,Standard Chartered Bank Limited
+2026042201060324,SCB,43,49,100,647.9,64790.0,2026-04-22,187595792,133,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-22 14:51:59.523806,Standard Chartered Bank Limited
+2026042201061020,SCB,41,49,59,647.9,38226.1,2026-04-22,187598970,133,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,2026-04-22 14:53:55.546079,Standard Chartered Bank Limited
+2026042201061664,SCB,14,49,10,647.9,6479.0,2026-04-22,187602116,133,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-22 14:55:32.123631,Standard Chartered Bank Limited
+2026042201062144,SCB,50,49,20,647.9,12958.0,2026-04-22,187604456,133,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-22 14:56:32.984056,Standard Chartered Bank Limited
+2026042201062971,SCB,35,49,77,647.9,49888.3,2026-04-22,187608679,133,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-22 14:58:07.122143,Standard Chartered Bank Limited
+2026042201062972,SCB,35,49,500,648.0,324000.0,2026-04-22,187608681,133,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-22 14:58:07.122321,Standard Chartered Bank Limited
+2026042201062973,SCB,35,1,31,648.0,20088.0,2026-04-22,187608683,133,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-22 14:58:07.122394,Standard Chartered Bank Limited
+2026042201062974,SCB,35,21,53,648.0,34344.0,2026-04-22,187608685,133,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-22 14:58:07.122465,Standard Chartered Bank Limited
+2026042201062975,SCB,35,13,10,648.0,6480.0,2026-04-22,187608687,133,Kohinoor Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-22 14:58:07.122535,Standard Chartered Bank Limited
+2026042201063492,SCB,35,45,15,648.0,9720.0,2026-04-22,187610717,133,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:58:46.471696,Standard Chartered Bank Limited
+2026042201063781,SCB,25,39,20,648.1,12962.0,2026-04-22,187612174,133,Sweta Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-22 14:59:24.908593,Standard Chartered Bank Limited
+2026042201064160,SCB,35,13,10,648.0,6480.0,2026-04-22,187613930,133,Kohinoor Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-22 14:59:55.860694,Standard Chartered Bank Limited

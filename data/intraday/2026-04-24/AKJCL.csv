@@ -1,0 +1,803 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042404000014,AKJCL,29,6,10,390.0,3900.0,2026-04-24,187802880,2788,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089156,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000015,AKJCL,7,6,10,390.0,3900.0,2026-04-24,187802882,2788,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089184,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000016,AKJCL,7,6,10,390.0,3900.0,2026-04-24,187802884,2788,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089204,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000017,AKJCL,7,6,10,390.0,3900.0,2026-04-24,187802886,2788,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089225,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000018,AKJCL,32,6,10,390.0,3900.0,2026-04-24,187802888,2788,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089248,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000019,AKJCL,32,6,10,390.0,3900.0,2026-04-24,187802890,2788,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089269,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000020,AKJCL,7,6,10,390.0,3900.0,2026-04-24,187802892,2788,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089297,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000021,AKJCL,7,6,10,390.0,3900.0,2026-04-24,187802894,2788,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089322,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000022,AKJCL,43,6,10,390.0,3900.0,2026-04-24,187802897,2788,South Asian Bulls Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089342,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000023,AKJCL,57,6,210,390.0,81900.0,2026-04-24,187802899,2788,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-24 10:46:00.089359,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000024,AKJCL,57,56,290,390.0,113100.0,2026-04-24,187802904,2788,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2026-04-24 10:46:00.089383,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000037,AKJCL,7,56,800,385.0,308000.0,2026-04-24,187803267,2788,J.F. Securites (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:00:06.420414,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000044,AKJCL,7,56,200,385.0,77000.0,2026-04-24,187803302,2788,J.F. Securites (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:00:20.415230,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000045,AKJCL,58,56,20,385.0,7700.0,2026-04-24,187803304,2788,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:00:20.415389,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000077,AKJCL,60,72,2500,387.0,967500.0,2026-04-24,187803648,2788,Nagarik Stock Dealer ,Hatemalo Financial Services Private Limited,2026-04-24 11:01:03.068054,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000078,AKJCL,66,77,1000,388.9,388900.0,2026-04-24,187803697,2788,Miyo Securities Pvt Ltd,Nabil Stock Dealer Ltd.,2026-04-24 11:01:09.791683,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000079,AKJCL,66,56,490,389.0,190610.0,2026-04-24,187803699,2788,Miyo Securities Pvt Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:01:09.791851,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000080,AKJCL,66,26,1000,389.0,389000.0,2026-04-24,187803701,2788,Miyo Securities Pvt Ltd,Asian Securities Private Ltd.,2026-04-24 11:01:09.791958,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000081,AKJCL,66,34,510,390.0,198900.0,2026-04-24,187803704,2788,Miyo Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-24 11:01:09.792071,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000083,AKJCL,60,34,490,390.0,191100.0,2026-04-24,187803761,2788,Nagarik Stock Dealer ,Vision Securities Pvt. Ltd,2026-04-24 11:01:16.883913,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000084,AKJCL,60,56,1000,390.0,390000.0,2026-04-24,187803763,2788,Nagarik Stock Dealer ,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:01:16.884008,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000085,AKJCL,60,64,1000,390.0,390000.0,2026-04-24,187803765,2788,Nagarik Stock Dealer ,SUN SECURITIES PVT LTD,2026-04-24 11:01:16.884047,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000103,AKJCL,6,38,1000,390.0,390000.0,2026-04-24,187804058,2788,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:01:39.061197,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000116,AKJCL,60,26,2000,389.0,778000.0,2026-04-24,187804289,2788,Nagarik Stock Dealer ,Asian Securities Private Ltd.,2026-04-24 11:01:55.636669,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000117,AKJCL,60,38,1000,390.0,390000.0,2026-04-24,187804292,2788,Nagarik Stock Dealer ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:01:55.636888,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000130,AKJCL,64,56,500,385.0,192500.0,2026-04-24,187804466,2788,SUN SECURITIES PVT LTD,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:02:04.424439,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000131,AKJCL,14,56,12,385.0,4620.0,2026-04-24,187804467,2788,Nepal Stock House (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:02:04.424523,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000133,AKJCL,14,39,100,385.0,38500.0,2026-04-24,187804483,2788,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 11:02:05.320833,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000151,AKJCL,14,71,221,385.0,85085.0,2026-04-24,187804636,2788,Nepal Stock House (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 11:02:11.809420,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000152,AKJCL,77,71,779,384.1,299213.9,2026-04-24,187804637,2788,Nabil Stock Dealer Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 11:02:11.809520,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000175,AKJCL,58,33,15,388.0,5820.0,2026-04-24,187804888,2788,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 11:02:27.632090,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000182,AKJCL,60,33,35,388.0,13580.0,2026-04-24,187804995,2788,Nagarik Stock Dealer ,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 11:02:35.723170,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000183,AKJCL,60,58,400,388.0,155200.0,2026-04-24,187804997,2788,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-24 11:02:35.723297,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000184,AKJCL,60,14,500,388.0,194000.0,2026-04-24,187804999,2788,Nagarik Stock Dealer ,Nepal Stock House (PVT) Ltd.,2026-04-24 11:02:35.723367,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000185,AKJCL,60,42,500,390.0,195000.0,2026-04-24,187805001,2788,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-24 11:02:35.723415,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000186,AKJCL,60,34,500,390.0,195000.0,2026-04-24,187805003,2788,Nagarik Stock Dealer ,Vision Securities Pvt. Ltd,2026-04-24 11:02:35.723511,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000187,AKJCL,60,50,50,390.0,19500.0,2026-04-24,187805005,2788,Nagarik Stock Dealer ,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:02:35.723553,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000188,AKJCL,60,60,2515,390.0,980850.0,2026-04-24,187805008,2788,Nagarik Stock Dealer ,Nagarik Stock Dealer ,2026-04-24 11:02:35.723599,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000208,AKJCL,50,64,100,385.2,38520.0,2026-04-24,187805580,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:03:22.970184,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000209,AKJCL,3,64,500,385.1,192550.0,2026-04-24,187805582,2788,Arun Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:03:22.970320,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000212,AKJCL,60,62,2000,385.0,770000.0,2026-04-24,187805630,2788,Nagarik Stock Dealer ,Capital Max Securities Ltd,2026-04-24 11:03:28.320738,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000213,AKJCL,74,62,750,385.0,288750.0,2026-04-24,187805632,2788,KALASH STOCK MARKET PVT. LTD.,Capital Max Securities Ltd,2026-04-24 11:03:28.320952,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000214,AKJCL,64,62,500,384.2,192100.0,2026-04-24,187805634,2788,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-24 11:03:28.321103,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000215,AKJCL,77,62,221,384.1,84886.1,2026-04-24,187805636,2788,Nabil Stock Dealer Ltd.,Capital Max Securities Ltd,2026-04-24 11:03:28.321259,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000216,AKJCL,42,62,1529,384.0,587136.0,2026-04-24,187805637,2788,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-24 11:03:28.321423,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000217,AKJCL,28,64,10,385.1,3851.0,2026-04-24,187805734,2788,Shree Krishna Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:03:37.491168,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000224,AKJCL,51,64,390,385.1,150189.0,2026-04-24,187805849,2788,Oxford Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:03:48.582424,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000226,AKJCL,51,42,128,385.5,49344.0,2026-04-24,187805902,2788,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 11:03:52.709286,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000250,AKJCL,60,42,372,385.0,143220.0,2026-04-24,187806113,2788,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-24 11:04:10.698072,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000259,AKJCL,7,14,500,389.0,194500.0,2026-04-24,187806316,2788,J.F. Securites (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 11:04:28.829596,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000276,AKJCL,59,32,20,389.0,7780.0,2026-04-24,187806440,2788,Deevyaa Securities & Stock House Pvt. Ltd,Premier Securities Company Ltd.,2026-04-24 11:04:35.497257,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000295,AKJCL,3,10,389,385.2,149842.8,2026-04-24,187806723,2788,Arun Securities (PVT) Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-24 11:04:59.771270,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000312,AKJCL,3,45,111,385.2,42757.2,2026-04-24,187807050,2788,Arun Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 11:05:30.716903,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000313,AKJCL,94,45,133,385.1,51218.3,2026-04-24,187807051,2788,K.B.L. Securities Limited ,Imperial Securities Company Pvt. Ltd.,2026-04-24 11:05:30.717238,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000445,AKJCL,58,42,10,386.0,3860.0,2026-04-24,187808570,2788,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-24 11:06:56.198582,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000446,AKJCL,62,42,20,386.0,7720.0,2026-04-24,187808571,2788,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-24 11:06:56.198827,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000457,AKJCL,80,64,10,389.0,3890.0,2026-04-24,187808740,2788,Indira securities pvt. ltd,SUN SECURITIES PVT LTD,2026-04-24 11:07:14.505573,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000514,AKJCL,58,64,290,389.0,112810.0,2026-04-24,187809553,2788,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:08:18.568983,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000515,AKJCL,58,74,425,389.0,165325.0,2026-04-24,187809555,2788,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 11:08:18.569124,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000571,AKJCL,7,59,12,389.5,4674.0,2026-04-24,187809954,2788,J.F. Securites (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:08:49.530196,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000600,AKJCL,42,48,50,387.0,19350.0,2026-04-24,187810213,2788,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 11:09:18.008392,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000637,AKJCL,64,48,100,386.2,38620.0,2026-04-24,187810629,2788,SUN SECURITIES PVT LTD,Trishakti Securities Public Limited,2026-04-24 11:09:45.052958,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000654,AKJCL,74,62,300,386.1,115830.0,2026-04-24,187810804,2788,KALASH STOCK MARKET PVT. LTD.,Capital Max Securities Ltd,2026-04-24 11:10:01.674916,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000655,AKJCL,62,62,4700,386.0,1814200.0,2026-04-24,187810805,2788,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-24 11:10:01.675051,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000664,AKJCL,62,65,600,386.0,231600.0,2026-04-24,187810893,2788,Capital Max Securities Ltd,Sharepro Securities Private Limited,2026-04-24 11:10:09.565365,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000676,AKJCL,94,38,500,386.2,193100.0,2026-04-24,187810972,2788,K.B.L. Securities Limited ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:10:17.730762,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000677,AKJCL,62,38,680,386.0,262480.0,2026-04-24,187810974,2788,Capital Max Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:10:17.731050,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000678,AKJCL,57,38,21,386.0,8106.0,2026-04-24,187810976,2788,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:10:17.731242,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000680,AKJCL,58,38,799,386.0,308414.0,2026-04-24,187810983,2788,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:10:19.219083,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000682,AKJCL,58,65,201,387.0,77787.0,2026-04-24,187811024,2788,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-24 11:10:23.273526,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000793,AKJCL,38,53,100,386.1,38610.0,2026-04-24,187812230,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-24 11:11:59.859564,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000794,AKJCL,62,53,400,386.0,154400.0,2026-04-24,187812231,2788,Capital Max Securities Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-24 11:11:59.859598,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000828,AKJCL,6,47,700,387.9,271530.0,2026-04-24,187812638,2788,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-24 11:12:36.892110,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000829,AKJCL,62,48,100,386.0,38600.0,2026-04-24,187812645,2788,Capital Max Securities Ltd,Trishakti Securities Public Limited,2026-04-24 11:12:37.869891,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000879,AKJCL,62,59,500,386.0,193000.0,2026-04-24,187813183,2788,Capital Max Securities Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:13:18.921019,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000966,AKJCL,62,47,300,387.9,116370.0,2026-04-24,187814181,2788,Capital Max Securities Ltd,Neev Securities Pvt. Ltd.,2026-04-24 11:14:43.341974,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000967,AKJCL,62,67,200,388.0,77600.0,2026-04-24,187814184,2788,Capital Max Securities Ltd,Property Wiard Limited,2026-04-24 11:14:43.342134,Ankhu Khola Jalvidhyut Company Ltd
+2026042404000968,AKJCL,38,10,111,386.1,42857.1,2026-04-24,187814191,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-24 11:14:44.747826,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001072,AKJCL,86,58,100,386.2,38620.0,2026-04-24,187815103,2788,Stoxkarts Securities Limited,Naasa Securities Co. Ltd.,2026-04-24 11:16:12.978843,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001137,AKJCL,42,56,200,386.3,77260.0,2026-04-24,187815848,2788,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:17:14.585343,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001138,AKJCL,86,56,1800,386.2,695160.0,2026-04-24,187815849,2788,Stoxkarts Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:17:14.585778,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001170,AKJCL,42,42,50,388.0,19400.0,2026-04-24,187816194,2788,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-24 11:17:44.047757,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001171,AKJCL,100,64,1000,386.4,386400.0,2026-04-24,187816229,2788,Sunrise Securities Limited,SUN SECURITIES PVT LTD,2026-04-24 11:17:48.221203,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001201,AKJCL,100,59,38,386.6,14690.8,2026-04-24,187816597,2788,Sunrise Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:18:22.609808,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001205,AKJCL,94,58,1000,386.7,386700.0,2026-04-24,187816639,2788,K.B.L. Securities Limited ,Naasa Securities Co. Ltd.,2026-04-24 11:18:28.196699,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001227,AKJCL,42,42,100,388.0,38800.0,2026-04-24,187816970,2788,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-24 11:19:03.345249,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001243,AKJCL,59,42,30,388.0,11640.0,2026-04-24,187817132,2788,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-24 11:19:21.971571,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001253,AKJCL,42,42,250,388.0,97000.0,2026-04-24,187817266,2788,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-24 11:19:36.796620,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001278,AKJCL,33,64,1000,387.3,387300.0,2026-04-24,187817563,2788,Dakshinkali Investment & Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:20:07.397561,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001288,AKJCL,45,42,10,388.0,3880.0,2026-04-24,187817678,2788,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 11:20:20.505548,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001336,AKJCL,33,64,1000,387.3,387300.0,2026-04-24,187818384,2788,Dakshinkali Investment & Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:21:26.307205,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001337,AKJCL,29,64,8000,387.2,3097600.0,2026-04-24,187818386,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:21:26.307559,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001350,AKJCL,58,64,22,387.2,8518.4,2026-04-24,187818536,2788,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:21:37.309044,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001359,AKJCL,51,64,250,387.2,96800.0,2026-04-24,187818682,2788,Oxford Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:21:42.013911,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001361,AKJCL,86,65,799,387.0,309213.0,2026-04-24,187818687,2788,Stoxkarts Securities Limited,Sharepro Securities Private Limited,2026-04-24 11:21:42.843161,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001363,AKJCL,58,64,20,387.2,7744.0,2026-04-24,187818718,2788,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:21:44.700026,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001396,AKJCL,86,49,1525,387.0,590175.0,2026-04-24,187818869,2788,Stoxkarts Securities Limited,Online Securities Pvt. Ltd.,2026-04-24 11:21:58.663482,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001422,AKJCL,86,38,160,387.0,61920.0,2026-04-24,187819023,2788,Stoxkarts Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:22:10.172905,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001425,AKJCL,86,60,5000,387.0,1935000.0,2026-04-24,187819063,2788,Stoxkarts Securities Limited,Nagarik Stock Dealer ,2026-04-24 11:22:16.575430,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001427,AKJCL,86,62,616,387.0,238392.0,2026-04-24,187819082,2788,Stoxkarts Securities Limited,Capital Max Securities Ltd,2026-04-24 11:22:18.693043,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001428,AKJCL,45,62,10,386.4,3864.0,2026-04-24,187819084,2788,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 11:22:18.693399,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001429,AKJCL,63,62,2000,386.2,772400.0,2026-04-24,187819086,2788,Himalayan Brokerage Company Limited,Capital Max Securities Ltd,2026-04-24 11:22:18.693622,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001430,AKJCL,38,62,389,386.1,150192.9,2026-04-24,187819088,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,2026-04-24 11:22:18.693843,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001431,AKJCL,60,62,5000,386.1,1930500.0,2026-04-24,187819090,2788,Nagarik Stock Dealer ,Capital Max Securities Ltd,2026-04-24 11:22:18.694054,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001451,AKJCL,62,58,1000,387.0,387000.0,2026-04-24,187819432,2788,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-24 11:22:47.962573,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001459,AKJCL,6,64,500,387.2,193600.0,2026-04-24,187819488,2788,Agrawal Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:22:50.040506,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001479,AKJCL,94,64,200,387.2,77440.0,2026-04-24,187819716,2788,K.B.L. Securities Limited ,SUN SECURITIES PVT LTD,2026-04-24 11:23:09.961476,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001484,AKJCL,17,1,100,387.1,38710.0,2026-04-24,187819997,2788,ABC Securities Private Limited,Kumari Securities Private Limited,2026-04-24 11:23:29.669543,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001493,AKJCL,100,42,60,388.0,23280.0,2026-04-24,187820135,2788,Sunrise Securities Limited,Sani Securities Company Ltd.,2026-04-24 11:23:39.558607,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001494,AKJCL,100,62,800,388.0,310400.0,2026-04-24,187820137,2788,Sunrise Securities Limited,Capital Max Securities Ltd,2026-04-24 11:23:39.558957,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001495,AKJCL,100,67,1000,388.1,388100.0,2026-04-24,187820139,2788,Sunrise Securities Limited,Property Wiard Limited,2026-04-24 11:23:39.559189,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001496,AKJCL,100,25,473,388.5,183760.5,2026-04-24,187820141,2788,Sunrise Securities Limited,Sweta Securities Private Limited,2026-04-24 11:23:39.559418,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001497,AKJCL,100,62,1000,388.9,388900.0,2026-04-24,187820143,2788,Sunrise Securities Limited,Capital Max Securities Ltd,2026-04-24 11:23:39.559631,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001498,AKJCL,100,87,2560,389.0,995840.0,2026-04-24,187820145,2788,Sunrise Securities Limited,S.P.S.A. Securities Limited,2026-04-24 11:23:39.559855,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001522,AKJCL,62,5,2000,389.3,778600.0,2026-04-24,187820381,2788,Capital Max Securities Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-24 11:23:58.555301,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001523,AKJCL,62,71,150,390.0,58500.0,2026-04-24,187820383,2788,Capital Max Securities Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 11:23:58.555530,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001524,AKJCL,62,6,250,390.0,97500.0,2026-04-24,187820385,2788,Capital Max Securities Ltd,Agrawal Securities (PVT) Ltd.,2026-04-24 11:23:58.555633,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001525,AKJCL,62,95,300,390.0,117000.0,2026-04-24,187820387,2788,Capital Max Securities Ltd,Magnet Securities and Investment Company Private Limited,2026-04-24 11:23:58.555709,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001526,AKJCL,62,64,56,390.0,21840.0,2026-04-24,187820389,2788,Capital Max Securities Ltd,SUN SECURITIES PVT LTD,2026-04-24 11:23:58.555784,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001527,AKJCL,62,49,2000,390.0,780000.0,2026-04-24,187820391,2788,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,2026-04-24 11:23:58.555855,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001528,AKJCL,62,60,5485,390.0,2139150.0,2026-04-24,187820393,2788,Capital Max Securities Ltd,Nagarik Stock Dealer ,2026-04-24 11:23:58.555927,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001529,AKJCL,62,56,1759,390.0,686010.0,2026-04-24,187820396,2788,Capital Max Securities Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:23:58.555998,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001552,AKJCL,100,56,241,390.0,93990.0,2026-04-24,187820553,2788,Sunrise Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:24:11.811556,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001553,AKJCL,100,58,100,392.0,39200.0,2026-04-24,187820555,2788,Sunrise Securities Limited,Naasa Securities Co. Ltd.,2026-04-24 11:24:11.811883,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001554,AKJCL,100,56,2000,392.0,784000.0,2026-04-24,187820557,2788,Sunrise Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:24:11.812105,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001555,AKJCL,100,56,728,392.0,285376.0,2026-04-24,187820560,2788,Sunrise Securities Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:24:11.812351,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001639,AKJCL,38,64,65,389.1,25291.5,2026-04-24,187821306,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:24:55.543368,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001642,AKJCL,32,64,1000,389.0,389000.0,2026-04-24,187821346,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:25:00.752402,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001649,AKJCL,60,64,2935,389.0,1141715.0,2026-04-24,187821503,2788,Nagarik Stock Dealer ,SUN SECURITIES PVT LTD,2026-04-24 11:25:14.271331,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001686,AKJCL,64,87,50,389.1,19455.0,2026-04-24,187821827,2788,SUN SECURITIES PVT LTD,S.P.S.A. Securities Limited,2026-04-24 11:25:41.668911,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001713,AKJCL,28,45,15,390.0,5850.0,2026-04-24,187822187,2788,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 11:26:01.728254,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001739,AKJCL,86,58,50,390.2,19510.0,2026-04-24,187822521,2788,Stoxkarts Securities Limited,Naasa Securities Co. Ltd.,2026-04-24 11:26:39.063103,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001774,AKJCL,28,56,372,392.0,145824.0,2026-04-24,187823093,2788,Shree Krishna Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:27:22.864045,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001775,AKJCL,28,34,200,392.0,78400.0,2026-04-24,187823095,2788,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-24 11:27:22.864135,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001776,AKJCL,28,99,228,392.9,89581.2,2026-04-24,187823098,2788,Shree Krishna Securities Ltd.,Prabhu Stock Market Limited,2026-04-24 11:27:22.864208,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001785,AKJCL,25,99,210,392.9,82509.0,2026-04-24,187823206,2788,Sweta Securities Private Limited,Prabhu Stock Market Limited,2026-04-24 11:27:32.222875,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001787,AKJCL,32,59,950,390.3,370785.0,2026-04-24,187823267,2788,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:27:37.157438,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001817,AKJCL,28,99,62,392.9,24359.8,2026-04-24,187823811,2788,Shree Krishna Securities Ltd.,Prabhu Stock Market Limited,2026-04-24 11:28:17.116535,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001818,AKJCL,28,14,500,393.0,196500.0,2026-04-24,187823813,2788,Shree Krishna Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 11:28:17.116606,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001819,AKJCL,28,21,638,393.5,251053.0,2026-04-24,187823816,2788,Shree Krishna Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 11:28:17.116632,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001832,AKJCL,64,21,950,393.5,373825.0,2026-04-24,187824018,2788,SUN SECURITIES PVT LTD,Midas Stock Broking Company Private Limited,2026-04-24 11:28:48.104971,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001835,AKJCL,62,21,412,393.5,162122.0,2026-04-24,187824047,2788,Capital Max Securities Ltd,Midas Stock Broking Company Private Limited,2026-04-24 11:28:51.773485,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001836,AKJCL,62,5,1000,393.9,393900.0,2026-04-24,187824049,2788,Capital Max Securities Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-24 11:28:51.773576,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001837,AKJCL,62,71,7000,394.0,2758000.0,2026-04-24,187824051,2788,Capital Max Securities Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 11:28:51.773603,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001838,AKJCL,62,41,1000,394.0,394000.0,2026-04-24,187824053,2788,Capital Max Securities Ltd,Linch Stock Market Ltd.,2026-04-24 11:28:51.773627,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001839,AKJCL,62,94,500,394.0,197000.0,2026-04-24,187824055,2788,Capital Max Securities Ltd,K.B.L. Securities Limited ,2026-04-24 11:28:51.773648,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001840,AKJCL,62,10,500,394.0,197000.0,2026-04-24,187824057,2788,Capital Max Securities Ltd,Pragyan Securities (PVT) Ltd.,2026-04-24 11:28:51.773668,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001841,AKJCL,62,64,1000,394.9,394900.0,2026-04-24,187824059,2788,Capital Max Securities Ltd,SUN SECURITIES PVT LTD,2026-04-24 11:28:51.773692,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001842,AKJCL,62,58,1000,394.9,394900.0,2026-04-24,187824061,2788,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-24 11:28:51.773716,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001843,AKJCL,62,87,1000,394.9,394900.0,2026-04-24,187824063,2788,Capital Max Securities Ltd,S.P.S.A. Securities Limited,2026-04-24 11:28:51.773760,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001844,AKJCL,62,40,500,395.0,197500.0,2026-04-24,187824065,2788,Capital Max Securities Ltd,Creative Securities Pvt Ltd,2026-04-24 11:28:51.773799,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001845,AKJCL,62,21,1000,395.0,395000.0,2026-04-24,187824067,2788,Capital Max Securities Ltd,Midas Stock Broking Company Private Limited,2026-04-24 11:28:51.773818,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001846,AKJCL,62,21,1000,395.0,395000.0,2026-04-24,187824069,2788,Capital Max Securities Ltd,Midas Stock Broking Company Private Limited,2026-04-24 11:28:51.773838,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001847,AKJCL,62,60,1000,395.0,395000.0,2026-04-24,187824071,2788,Capital Max Securities Ltd,Nagarik Stock Dealer ,2026-04-24 11:28:51.773857,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001848,AKJCL,62,89,1088,395.0,429760.0,2026-04-24,187824074,2788,Capital Max Securities Ltd,Global IME Securities Limited,2026-04-24 11:28:51.773879,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001854,AKJCL,94,89,1912,395.0,755240.0,2026-04-24,187824107,2788,K.B.L. Securities Limited ,Global IME Securities Limited,2026-04-24 11:28:56.281522,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001855,AKJCL,94,66,2955,395.0,1167225.0,2026-04-24,187824110,2788,K.B.L. Securities Limited ,Miyo Securities Pvt Ltd,2026-04-24 11:28:56.281875,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001858,AKJCL,50,66,2000,395.0,790000.0,2026-04-24,187824132,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:29:00.556721,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001866,AKJCL,56,66,45,395.0,17775.0,2026-04-24,187824195,2788,Sri Hari Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:29:06.268540,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001867,AKJCL,94,6,250,395.0,98750.0,2026-04-24,187824207,2788,K.B.L. Securities Limited ,Agrawal Securities (PVT) Ltd.,2026-04-24 11:29:08.835651,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001868,AKJCL,94,1,100,395.0,39500.0,2026-04-24,187824209,2788,K.B.L. Securities Limited ,Kumari Securities Private Limited,2026-04-24 11:29:08.836028,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001869,AKJCL,94,57,200,395.0,79000.0,2026-04-24,187824211,2788,K.B.L. Securities Limited ,Aryatara Investment & Securities,2026-04-24 11:29:08.836265,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001870,AKJCL,94,3,1250,395.0,493750.0,2026-04-24,187824213,2788,K.B.L. Securities Limited ,Arun Securities (PVT) Ltd.,2026-04-24 11:29:08.836531,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001871,AKJCL,94,7,15,395.0,5925.0,2026-04-24,187824215,2788,K.B.L. Securities Limited ,J.F. Securites (PVT) Ltd.,2026-04-24 11:29:08.836760,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001872,AKJCL,94,56,699,395.0,276105.0,2026-04-24,187824217,2788,K.B.L. Securities Limited ,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:29:08.836984,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001873,AKJCL,94,92,1000,395.0,395000.0,2026-04-24,187824219,2788,K.B.L. Securities Limited ,Roadshow securities limited,2026-04-24 11:29:08.837211,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001885,AKJCL,94,3,500,395.0,197500.0,2026-04-24,187824335,2788,K.B.L. Securities Limited ,Arun Securities (PVT) Ltd.,2026-04-24 11:29:20.575462,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001891,AKJCL,94,65,500,395.0,197500.0,2026-04-24,187824367,2788,K.B.L. Securities Limited ,Sharepro Securities Private Limited,2026-04-24 11:29:26.907940,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001892,AKJCL,94,42,486,395.0,191970.0,2026-04-24,187824370,2788,K.B.L. Securities Limited ,Sani Securities Company Ltd.,2026-04-24 11:29:26.919655,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001893,AKJCL,38,42,14,395.0,5530.0,2026-04-24,187824371,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-24 11:29:26.919771,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001900,AKJCL,57,4,112,395.5,44296.0,2026-04-24,187824393,2788,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,2026-04-24 11:29:29.317655,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001901,AKJCL,57,14,300,395.9,118770.0,2026-04-24,187824395,2788,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-24 11:29:29.318050,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001902,AKJCL,57,39,1000,395.9,395900.0,2026-04-24,187824397,2788,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-24 11:29:29.318282,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001903,AKJCL,57,7,1000,396.0,396000.0,2026-04-24,187824399,2788,Aryatara Investment & Securities,J.F. Securites (PVT) Ltd.,2026-04-24 11:29:29.318542,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001904,AKJCL,57,26,300,396.0,118800.0,2026-04-24,187824401,2788,Aryatara Investment & Securities,Asian Securities Private Ltd.,2026-04-24 11:29:29.318770,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001905,AKJCL,57,48,200,396.0,79200.0,2026-04-24,187824403,2788,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-24 11:29:29.318992,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001906,AKJCL,57,6,50,396.5,19825.0,2026-04-24,187824405,2788,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-24 11:29:29.319215,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001907,AKJCL,57,36,13,396.5,5154.5,2026-04-24,187824407,2788,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-24 11:29:29.319460,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001908,AKJCL,57,83,1195,396.5,473817.5,2026-04-24,187824409,2788,Aryatara Investment & Securities,Sanima Securities Limited,2026-04-24 11:29:29.319685,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001909,AKJCL,57,19,500,397.0,198500.0,2026-04-24,187824411,2788,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-24 11:29:29.319974,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001910,AKJCL,57,91,500,397.0,198500.0,2026-04-24,187824413,2788,Aryatara Investment & Securities,Citizens Share Broker Limited,2026-04-24 11:29:29.320199,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001911,AKJCL,57,42,50,397.0,19850.0,2026-04-24,187824415,2788,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-24 11:29:29.320455,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001912,AKJCL,57,38,800,397.0,317600.0,2026-04-24,187824417,2788,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:29:29.320678,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001913,AKJCL,57,95,3980,397.0,1580060.0,2026-04-24,187824420,2788,Aryatara Investment & Securities,Magnet Securities and Investment Company Private Limited,2026-04-24 11:29:29.320898,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001937,AKJCL,29,71,1000,396.0,396000.0,2026-04-24,187825017,2788,Trisul Securities & Invt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 11:30:14.461625,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001938,AKJCL,29,40,500,396.0,198000.0,2026-04-24,187825019,2788,Trisul Securities & Invt. Ltd.,Creative Securities Pvt Ltd,2026-04-24 11:30:14.462066,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001939,AKJCL,29,5,200,396.5,79300.0,2026-04-24,187825021,2788,Trisul Securities & Invt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-24 11:30:14.462310,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001940,AKJCL,29,28,1000,396.8,396800.0,2026-04-24,187825023,2788,Trisul Securities & Invt. Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:30:14.462586,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001941,AKJCL,29,59,500,396.8,198400.0,2026-04-24,187825025,2788,Trisul Securities & Invt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:30:14.462846,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001942,AKJCL,29,3,500,396.9,198450.0,2026-04-24,187825027,2788,Trisul Securities & Invt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-24 11:30:14.463102,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001943,AKJCL,29,46,150,396.9,59535.0,2026-04-24,187825029,2788,Trisul Securities & Invt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-24 11:30:14.463362,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001944,AKJCL,29,95,20,397.0,7940.0,2026-04-24,187825031,2788,Trisul Securities & Invt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-24 11:30:14.463614,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001945,AKJCL,29,38,1000,397.0,397000.0,2026-04-24,187825033,2788,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:30:14.463889,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001946,AKJCL,29,13,130,397.0,51610.0,2026-04-24,187825036,2788,Trisul Securities & Invt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-24 11:30:14.464140,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001976,AKJCL,32,70,10,393.0,3930.0,2026-04-24,187825257,2788,Premier Securities Company Ltd.,Infinity Securities Limited,2026-04-24 11:30:39.618559,Ankhu Khola Jalvidhyut Company Ltd
+2026042404001986,AKJCL,32,33,300,393.1,117930.0,2026-04-24,187825351,2788,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 11:30:51.563902,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002013,AKJCL,32,33,300,393.3,117990.0,2026-04-24,187825655,2788,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 11:31:27.160595,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002016,AKJCL,32,64,200,393.3,78660.0,2026-04-24,187825669,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:31:29.851272,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002030,AKJCL,32,62,1500,393.3,589950.0,2026-04-24,187825842,2788,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-24 11:31:46.663170,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002031,AKJCL,52,62,485,393.3,190750.5,2026-04-24,187825843,2788,Sundhara Securities Limited,Capital Max Securities Ltd,2026-04-24 11:31:46.663600,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002039,AKJCL,52,32,500,393.3,196650.0,2026-04-24,187825965,2788,Sundhara Securities Limited,Premier Securities Company Ltd.,2026-04-24 11:32:00.147595,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002040,AKJCL,52,64,15,393.3,5899.5,2026-04-24,187825968,2788,Sundhara Securities Limited,SUN SECURITIES PVT LTD,2026-04-24 11:32:00.268639,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002045,AKJCL,58,39,150,393.2,58980.0,2026-04-24,187826028,2788,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 11:32:06.335789,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002046,AKJCL,32,39,700,393.1,275170.0,2026-04-24,187826030,2788,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 11:32:06.336048,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002047,AKJCL,94,39,650,393.1,255515.0,2026-04-24,187826031,2788,K.B.L. Securities Limited ,Sumeru Securities Pvt. Ltd.,2026-04-24 11:32:06.336175,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002048,AKJCL,52,64,50,393.3,19665.0,2026-04-24,187826038,2788,Sundhara Securities Limited,SUN SECURITIES PVT LTD,2026-04-24 11:32:07.732448,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002058,AKJCL,94,64,350,393.1,137585.0,2026-04-24,187826110,2788,K.B.L. Securities Limited ,SUN SECURITIES PVT LTD,2026-04-24 11:32:15.273391,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002059,AKJCL,32,64,990,393.0,389070.0,2026-04-24,187826112,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:32:15.273637,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002060,AKJCL,52,64,1000,393.0,393000.0,2026-04-24,187826114,2788,Sundhara Securities Limited,SUN SECURITIES PVT LTD,2026-04-24 11:32:15.273740,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002061,AKJCL,17,64,500,393.0,196500.0,2026-04-24,187826116,2788,ABC Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-24 11:32:15.273838,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002062,AKJCL,41,64,500,393.0,196500.0,2026-04-24,187826118,2788,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:32:15.273939,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002063,AKJCL,99,28,1000,391.1,391100.0,2026-04-24,187826124,2788,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.522401,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002064,AKJCL,99,28,1000,391.1,391100.0,2026-04-24,187826126,2788,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.522695,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002065,AKJCL,32,28,200,391.0,78200.0,2026-04-24,187826128,2788,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.522796,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002066,AKJCL,39,28,500,391.0,195500.0,2026-04-24,187826130,2788,Sumeru Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.522895,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002067,AKJCL,86,28,450,390.8,175860.0,2026-04-24,187826132,2788,Stoxkarts Securities Limited,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.522998,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002068,AKJCL,98,28,300,390.8,117240.0,2026-04-24,187826134,2788,Trademow Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523102,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002069,AKJCL,99,28,1000,390.7,390700.0,2026-04-24,187826136,2788,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523196,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002070,AKJCL,99,28,1000,390.7,390700.0,2026-04-24,187826138,2788,Prabhu Stock Market Limited,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523292,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002071,AKJCL,42,28,1000,390.7,390700.0,2026-04-24,187826140,2788,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523396,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002072,AKJCL,46,28,300,390.6,117180.0,2026-04-24,187826142,2788,Kalika Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523494,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002073,AKJCL,63,28,500,390.5,195250.0,2026-04-24,187826144,2788,Himalayan Brokerage Company Limited,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523598,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002074,AKJCL,32,28,1000,390.4,390400.0,2026-04-24,187826146,2788,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523694,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002075,AKJCL,32,28,50,390.3,19515.0,2026-04-24,187826148,2788,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523790,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002076,AKJCL,94,28,500,390.3,195150.0,2026-04-24,187826150,2788,K.B.L. Securities Limited ,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523886,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002077,AKJCL,33,28,1200,390.2,468240.0,2026-04-24,187826151,2788,Dakshinkali Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-24 11:32:15.523981,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002102,AKJCL,33,44,500,390.2,195100.0,2026-04-24,187826393,2788,Dakshinkali Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:32:52.061736,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002179,AKJCL,39,64,660,393.0,259380.0,2026-04-24,187827265,2788,Sumeru Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:34:29.249388,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002180,AKJCL,39,42,340,393.0,133620.0,2026-04-24,187827268,2788,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 11:34:29.249634,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002200,AKJCL,38,42,100,393.0,39300.0,2026-04-24,187827456,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-24 11:34:50.664225,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002202,AKJCL,29,58,50,391.2,19560.0,2026-04-24,187827467,2788,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 11:34:53.181191,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002278,AKJCL,96,99,4000,391.4,1565600.0,2026-04-24,187828481,2788,Himalayan Securities Limited,Prabhu Stock Market Limited,2026-04-24 11:36:29.471394,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002305,AKJCL,94,63,500,392.0,196000.0,2026-04-24,187829363,2788,K.B.L. Securities Limited ,Himalayan Brokerage Company Limited,2026-04-24 11:37:46.399386,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002308,AKJCL,94,60,4500,392.0,1764000.0,2026-04-24,187829390,2788,K.B.L. Securities Limited ,Nagarik Stock Dealer ,2026-04-24 11:37:50.184770,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002334,AKJCL,29,60,50,392.0,19600.0,2026-04-24,187829688,2788,Trisul Securities & Invt. Ltd.,Nagarik Stock Dealer ,2026-04-24 11:38:22.314996,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002346,AKJCL,94,60,1000,392.0,392000.0,2026-04-24,187829810,2788,K.B.L. Securities Limited ,Nagarik Stock Dealer ,2026-04-24 11:38:33.576985,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002350,AKJCL,75,60,1115,392.0,437080.0,2026-04-24,187829865,2788,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-24 11:38:37.214146,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002351,AKJCL,75,38,1000,392.0,392000.0,2026-04-24,187829879,2788,N.I.M.B. Stock Markets Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:38:38.957834,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002363,AKJCL,75,21,2885,392.0,1130920.0,2026-04-24,187830134,2788,N.I.M.B. Stock Markets Limited,Midas Stock Broking Company Private Limited,2026-04-24 11:39:04.535940,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002364,AKJCL,96,21,615,392.0,241080.0,2026-04-24,187830135,2788,Himalayan Securities Limited,Midas Stock Broking Company Private Limited,2026-04-24 11:39:04.536107,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002379,AKJCL,96,14,385,392.0,150920.0,2026-04-24,187830284,2788,Himalayan Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-24 11:39:31.733837,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002380,AKJCL,29,14,515,392.0,201880.0,2026-04-24,187830285,2788,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 11:39:31.734512,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002381,AKJCL,58,17,20,392.9,7858.0,2026-04-24,187830292,2788,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-24 11:39:33.330241,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002400,AKJCL,29,42,15,392.0,5880.0,2026-04-24,187830491,2788,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-24 11:40:06.247575,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002410,AKJCL,29,64,1000,392.0,392000.0,2026-04-24,187830585,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:40:21.538381,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002425,AKJCL,29,64,470,392.0,184240.0,2026-04-24,187830714,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:40:35.532147,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002426,AKJCL,49,64,30,392.0,11760.0,2026-04-24,187830715,2788,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:40:35.532474,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002430,AKJCL,49,14,30,392.0,11760.0,2026-04-24,187830736,2788,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 11:40:37.037132,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002438,AKJCL,32,39,511,391.9,200260.9,2026-04-24,187830831,2788,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 11:40:52.981898,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002440,AKJCL,29,29,800,392.0,313600.0,2026-04-24,187830863,2788,Trisul Securities & Invt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-24 11:40:55.554904,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002457,AKJCL,29,38,1000,392.0,392000.0,2026-04-24,187831067,2788,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 11:41:26.881637,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002461,AKJCL,29,4,100,392.0,39200.0,2026-04-24,187831239,2788,Trisul Securities & Invt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-24 11:41:51.252983,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002484,AKJCL,29,21,100,392.0,39200.0,2026-04-24,187831682,2788,Trisul Securities & Invt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 11:42:37.405763,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002485,AKJCL,29,21,2000,392.0,784000.0,2026-04-24,187831684,2788,Trisul Securities & Invt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 11:42:37.406270,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002486,AKJCL,91,21,2000,392.0,784000.0,2026-04-24,187831686,2788,Citizens Share Broker Limited,Midas Stock Broking Company Private Limited,2026-04-24 11:42:37.406651,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002491,AKJCL,32,7,489,391.9,191639.1,2026-04-24,187831750,2788,Premier Securities Company Ltd.,J.F. Securites (PVT) Ltd.,2026-04-24 11:42:47.286232,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002492,AKJCL,58,7,10,391.6,3916.0,2026-04-24,187831752,2788,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-24 11:42:47.286811,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002493,AKJCL,29,7,501,391.6,196191.6,2026-04-24,187831753,2788,Trisul Securities & Invt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-24 11:42:47.287227,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002494,AKJCL,94,21,80,392.0,31360.0,2026-04-24,187831768,2788,K.B.L. Securities Limited ,Midas Stock Broking Company Private Limited,2026-04-24 11:42:51.610551,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002495,AKJCL,29,21,820,392.0,321440.0,2026-04-24,187831807,2788,Trisul Securities & Invt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 11:42:54.001052,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002523,AKJCL,14,17,80,392.9,31432.0,2026-04-24,187832247,2788,Nepal Stock House (PVT) Ltd.,ABC Securities Private Limited,2026-04-24 11:43:58.510536,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002524,AKJCL,14,42,60,393.0,23580.0,2026-04-24,187832249,2788,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-24 11:43:58.511062,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002525,AKJCL,14,58,70,393.0,27510.0,2026-04-24,187832251,2788,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-24 11:43:58.511419,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002526,AKJCL,14,64,200,393.3,78660.0,2026-04-24,187832253,2788,Nepal Stock House (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:43:58.511758,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002527,AKJCL,14,64,90,393.9,35451.0,2026-04-24,187832256,2788,Nepal Stock House (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:43:58.512098,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002549,AKJCL,94,64,20,392.1,7842.0,2026-04-24,187832636,2788,K.B.L. Securities Limited ,SUN SECURITIES PVT LTD,2026-04-24 11:44:38.535559,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002550,AKJCL,29,64,1180,392.0,462560.0,2026-04-24,187832638,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:44:38.535861,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002551,AKJCL,28,64,3800,392.0,1489600.0,2026-04-24,187832639,2788,Shree Krishna Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:44:38.535979,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002678,AKJCL,28,66,100,392.0,39200.0,2026-04-24,187833969,2788,Shree Krishna Securities Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:46:54.095674,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002693,AKJCL,28,6,100,392.0,39200.0,2026-04-24,187834374,2788,Shree Krishna Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 11:47:42.459605,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002694,AKJCL,29,6,1900,392.0,744800.0,2026-04-24,187834375,2788,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 11:47:42.459915,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002719,AKJCL,29,34,3000,392.0,1176000.0,2026-04-24,187834688,2788,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 11:48:21.152601,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002729,AKJCL,29,34,2005,392.0,785960.0,2026-04-24,187834789,2788,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 11:48:34.971808,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002731,AKJCL,29,48,200,392.0,78400.0,2026-04-24,187834793,2788,Trisul Securities & Invt. Ltd.,Trishakti Securities Public Limited,2026-04-24 11:48:36.523835,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002742,AKJCL,29,44,795,392.0,311640.0,2026-04-24,187834894,2788,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:48:47.549154,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002743,AKJCL,29,44,499,391.6,195408.4,2026-04-24,187834896,2788,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:48:47.549812,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002744,AKJCL,29,44,1000,391.6,391600.0,2026-04-24,187834898,2788,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:48:47.550360,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002758,AKJCL,32,62,3650,391.5,1428975.0,2026-04-24,187835008,2788,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-24 11:49:04.751292,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002759,AKJCL,94,62,975,391.4,381615.0,2026-04-24,187835009,2788,K.B.L. Securities Limited ,Capital Max Securities Ltd,2026-04-24 11:49:04.751880,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002772,AKJCL,94,6,25,391.4,9785.0,2026-04-24,187835152,2788,K.B.L. Securities Limited ,Agrawal Securities (PVT) Ltd.,2026-04-24 11:49:25.067022,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002792,AKJCL,39,62,150,391.0,58650.0,2026-04-24,187835360,2788,Sumeru Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 11:49:46.037269,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002793,AKJCL,22,62,25,391.0,9775.0,2026-04-24,187835362,2788,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 11:49:46.037384,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002794,AKJCL,94,62,1000,390.3,390300.0,2026-04-24,187835364,2788,K.B.L. Securities Limited ,Capital Max Securities Ltd,2026-04-24 11:49:46.037466,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002795,AKJCL,33,62,488,390.2,190417.6,2026-04-24,187835365,2788,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 11:49:46.037542,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002803,AKJCL,33,34,2812,390.2,1097242.4,2026-04-24,187835436,2788,Dakshinkali Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 11:50:01.726645,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002804,AKJCL,48,34,2188,390.1,853538.8,2026-04-24,187835437,2788,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-24 11:50:01.727267,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002821,AKJCL,48,14,120,390.1,46812.0,2026-04-24,187835611,2788,Trishakti Securities Public Limited,Nepal Stock House (PVT) Ltd.,2026-04-24 11:50:24.263638,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002823,AKJCL,48,34,1000,390.1,390100.0,2026-04-24,187835685,2788,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-24 11:50:35.366381,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002918,AKJCL,48,67,17,390.1,6631.7,2026-04-24,187836693,2788,Trishakti Securities Public Limited,Property Wiard Limited,2026-04-24 11:52:37.028137,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002949,AKJCL,42,62,200,390.2,78040.0,2026-04-24,187836998,2788,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-24 11:53:06.956637,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002950,AKJCL,48,62,1675,390.1,653417.5,2026-04-24,187837000,2788,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-24 11:53:06.956750,Ankhu Khola Jalvidhyut Company Ltd
+2026042404002951,AKJCL,17,62,125,390.0,48750.0,2026-04-24,187837001,2788,ABC Securities Private Limited,Capital Max Securities Ltd,2026-04-24 11:53:06.956840,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003000,AKJCL,17,64,75,390.0,29250.0,2026-04-24,187837204,2788,ABC Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-24 11:53:17.113723,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003001,AKJCL,49,64,500,390.0,195000.0,2026-04-24,187837206,2788,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:53:17.114010,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003002,AKJCL,85,64,10,390.0,3900.0,2026-04-24,187837208,2788,Capital Hub P. Ltd,SUN SECURITIES PVT LTD,2026-04-24 11:53:17.114141,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003003,AKJCL,29,64,4915,390.0,1916850.0,2026-04-24,187837209,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:53:17.114259,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003032,AKJCL,29,62,85,390.0,33150.0,2026-04-24,187837314,2788,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,2026-04-24 11:53:26.323152,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003033,AKJCL,57,62,150,389.0,58350.0,2026-04-24,187837316,2788,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-24 11:53:26.323253,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003034,AKJCL,100,62,1000,389.0,389000.0,2026-04-24,187837318,2788,Sunrise Securities Limited,Capital Max Securities Ltd,2026-04-24 11:53:26.323352,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003035,AKJCL,48,62,1985,388.0,770180.0,2026-04-24,187837319,2788,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-24 11:53:26.323454,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003069,AKJCL,29,46,3100,388.1,1203110.0,2026-04-24,187837641,2788,Trisul Securities & Invt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-24 11:54:07.288335,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003210,AKJCL,19,6,50,391.4,19570.0,2026-04-24,187839046,2788,Nepal Investment And Securities Trading Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-24 11:57:25.777368,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003215,AKJCL,7,6,25,391.4,9785.0,2026-04-24,187839087,2788,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 11:57:31.336283,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003216,AKJCL,7,32,25,391.4,9785.0,2026-04-24,187839089,2788,J.F. Securites (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-24 11:57:31.336629,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003217,AKJCL,7,64,50,391.4,19570.0,2026-04-24,187839092,2788,J.F. Securites (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-24 11:57:31.336760,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003330,AKJCL,4,62,17,391.3,6652.1,2026-04-24,187840488,2788,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-24 12:00:22.872453,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003356,AKJCL,42,26,23,390.1,8972.3,2026-04-24,187840930,2788,Sani Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-24 12:01:12.941202,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003357,AKJCL,94,26,977,390.0,381030.0,2026-04-24,187840931,2788,K.B.L. Securities Limited ,Asian Securities Private Ltd.,2026-04-24 12:01:12.941517,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003393,AKJCL,94,58,15,390.0,5850.0,2026-04-24,187841285,2788,K.B.L. Securities Limited ,Naasa Securities Co. Ltd.,2026-04-24 12:01:49.834309,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003458,AKJCL,14,72,10,391.0,3910.0,2026-04-24,187841949,2788,Nepal Stock House (PVT) Ltd.,Hatemalo Financial Services Private Limited,2026-04-24 12:03:18.516639,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003459,AKJCL,14,62,40,391.3,15652.0,2026-04-24,187841952,2788,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,2026-04-24 12:03:18.517239,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003463,AKJCL,63,64,3000,390.1,1170300.0,2026-04-24,187842090,2788,Himalayan Brokerage Company Limited,SUN SECURITIES PVT LTD,2026-04-24 12:03:33.953007,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003464,AKJCL,51,64,100,390.0,39000.0,2026-04-24,187842092,2788,Oxford Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:03:33.953329,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003465,AKJCL,94,64,900,390.0,351000.0,2026-04-24,187842093,2788,K.B.L. Securities Limited ,SUN SECURITIES PVT LTD,2026-04-24 12:03:33.953475,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003477,AKJCL,94,71,100,390.0,39000.0,2026-04-24,187842212,2788,K.B.L. Securities Limited ,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 12:03:52.157077,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003478,AKJCL,13,71,100,390.0,39000.0,2026-04-24,187842214,2788,Thrive Brokerage House Pvt. Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 12:03:52.157227,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003479,AKJCL,75,71,800,389.3,311440.0,2026-04-24,187842215,2788,N.I.M.B. Stock Markets Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 12:03:52.157348,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003481,AKJCL,71,34,1000,391.1,391100.0,2026-04-24,187842234,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Vision Securities Pvt. Ltd,2026-04-24 12:03:56.863505,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003587,AKJCL,7,32,50,391.0,19550.0,2026-04-24,187843312,2788,J.F. Securites (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-24 12:06:19.318115,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003615,AKJCL,29,32,130,391.0,50830.0,2026-04-24,187843541,2788,Trisul Securities & Invt. Ltd.,Premier Securities Company Ltd.,2026-04-24 12:06:58.521695,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003616,AKJCL,29,62,43,391.3,16825.9,2026-04-24,187843543,2788,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,2026-04-24 12:06:58.521753,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003617,AKJCL,29,64,27,391.3,10565.1,2026-04-24,187843546,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:06:58.521799,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003651,AKJCL,66,64,1020,391.3,399126.0,2026-04-24,187843772,2788,Miyo Securities Pvt Ltd,SUN SECURITIES PVT LTD,2026-04-24 12:07:15.001293,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003694,AKJCL,28,58,1000,391.0,391000.0,2026-04-24,187844003,2788,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-24 12:07:52.274789,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003698,AKJCL,28,64,200,391.0,78200.0,2026-04-24,187844037,2788,Shree Krishna Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:07:56.135867,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003716,AKJCL,29,64,953,391.3,372908.9,2026-04-24,187844323,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:08:25.027836,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003717,AKJCL,29,64,48,391.4,18787.2,2026-04-24,187844326,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:08:25.027954,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003746,AKJCL,28,34,100,391.0,39100.0,2026-04-24,187844439,2788,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:08:36.089147,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003747,AKJCL,50,64,8,387.2,3097.6,2026-04-24,187844449,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:08:39.646402,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003768,AKJCL,63,43,1000,391.4,391400.0,2026-04-24,187844736,2788,Himalayan Brokerage Company Limited,South Asian Bulls Pvt. Ltd.,2026-04-24 12:09:05.670374,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003891,AKJCL,94,43,100,391.4,39140.0,2026-04-24,187846111,2788,K.B.L. Securities Limited ,South Asian Bulls Pvt. Ltd.,2026-04-24 12:11:40.671910,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003892,AKJCL,94,66,150,391.5,58725.0,2026-04-24,187846113,2788,K.B.L. Securities Limited ,Miyo Securities Pvt Ltd,2026-04-24 12:11:40.671964,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003893,AKJCL,94,42,50,391.8,19590.0,2026-04-24,187846116,2788,K.B.L. Securities Limited ,Sani Securities Company Ltd.,2026-04-24 12:11:40.671993,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003907,AKJCL,82,28,10,391.2,3912.0,2026-04-24,187846357,2788,N.M.B. SECURITIES LIMITED,Shree Krishna Securities Ltd.,2026-04-24 12:11:54.722527,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003918,AKJCL,28,42,50,391.8,19590.0,2026-04-24,187846463,2788,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-24 12:11:58.845678,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003919,AKJCL,28,64,650,391.9,254735.0,2026-04-24,187846466,2788,Shree Krishna Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:11:58.846292,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003927,AKJCL,28,64,350,391.9,137165.0,2026-04-24,187846557,2788,Shree Krishna Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:12:14.659677,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003928,AKJCL,28,17,200,392.0,78400.0,2026-04-24,187846559,2788,Shree Krishna Securities Ltd.,ABC Securities Private Limited,2026-04-24 12:12:14.659745,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003929,AKJCL,28,1,1000,392.0,392000.0,2026-04-24,187846561,2788,Shree Krishna Securities Ltd.,Kumari Securities Private Limited,2026-04-24 12:12:14.659771,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003930,AKJCL,28,34,500,392.0,196000.0,2026-04-24,187846563,2788,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:12:14.659794,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003931,AKJCL,28,48,1000,392.5,392500.0,2026-04-24,187846565,2788,Shree Krishna Securities Ltd.,Trishakti Securities Public Limited,2026-04-24 12:12:14.659823,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003932,AKJCL,28,45,950,392.5,372875.0,2026-04-24,187846568,2788,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:12:14.659847,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003955,AKJCL,7,45,1000,392.5,392500.0,2026-04-24,187846812,2788,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:12:57.524622,Ankhu Khola Jalvidhyut Company Ltd
+2026042404003992,AKJCL,48,28,10,392.0,3920.0,2026-04-24,187847271,2788,Trishakti Securities Public Limited,Shree Krishna Securities Ltd.,2026-04-24 12:14:04.158106,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004061,AKJCL,96,64,2000,392.4,784800.0,2026-04-24,187847842,2788,Himalayan Securities Limited,SUN SECURITIES PVT LTD,2026-04-24 12:15:05.828912,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004158,AKJCL,35,45,50,392.5,19625.0,2026-04-24,187849093,2788,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:18:08.593945,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004159,AKJCL,35,44,650,392.5,255125.0,2026-04-24,187849096,2788,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:18:08.594020,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004182,AKJCL,50,44,56,392.5,21980.0,2026-04-24,187849419,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:18:37.894467,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004183,AKJCL,50,42,100,392.9,39290.0,2026-04-24,187849421,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 12:18:37.894509,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004184,AKJCL,50,42,100,392.9,39290.0,2026-04-24,187849423,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 12:18:37.894531,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004185,AKJCL,50,21,44,393.7,17322.8,2026-04-24,187849426,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 12:18:37.894559,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004208,AKJCL,58,64,22,392.1,8626.2,2026-04-24,187849645,2788,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:19:05.303589,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004297,AKJCL,91,21,1000,393.5,393500.0,2026-04-24,187850390,2788,Citizens Share Broker Limited,Midas Stock Broking Company Private Limited,2026-04-24 12:20:23.452740,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004304,AKJCL,32,21,156,393.5,61386.0,2026-04-24,187850451,2788,Premier Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 12:20:33.575441,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004305,AKJCL,32,42,50,393.6,19680.0,2026-04-24,187850453,2788,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-24 12:20:33.575545,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004306,AKJCL,32,64,2000,393.6,787200.0,2026-04-24,187850455,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:20:33.575572,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004307,AKJCL,32,64,1910,393.9,752349.0,2026-04-24,187850457,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:20:33.575597,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004308,AKJCL,32,74,200,394.0,78800.0,2026-04-24,187850459,2788,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 12:20:33.575626,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004309,AKJCL,32,58,100,394.0,39400.0,2026-04-24,187850461,2788,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-24 12:20:33.575649,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004310,AKJCL,32,32,500,394.0,197000.0,2026-04-24,187850463,2788,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-24 12:20:33.575670,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004311,AKJCL,32,32,84,394.0,33096.0,2026-04-24,187850466,2788,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-24 12:20:33.575695,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004333,AKJCL,50,32,116,394.0,45704.0,2026-04-24,187850687,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 12:21:06.867962,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004336,AKJCL,32,13,810,394.0,319140.0,2026-04-24,187850765,2788,Premier Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-24 12:21:19.400466,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004337,AKJCL,32,64,2000,394.4,788800.0,2026-04-24,187850767,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:21:19.400525,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004338,AKJCL,32,38,2500,394.5,986250.0,2026-04-24,187850769,2788,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 12:21:19.400548,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004339,AKJCL,32,51,100,395.0,39500.0,2026-04-24,187850771,2788,Premier Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-24 12:21:19.400575,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004340,AKJCL,32,49,222,395.0,87690.0,2026-04-24,187850773,2788,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-24 12:21:19.400596,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004341,AKJCL,32,48,2000,395.0,790000.0,2026-04-24,187850775,2788,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 12:21:19.400618,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004342,AKJCL,32,35,300,395.0,118500.0,2026-04-24,187850777,2788,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 12:21:19.400639,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004343,AKJCL,32,58,10,395.0,3950.0,2026-04-24,187850779,2788,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-24 12:21:19.400678,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004344,AKJCL,32,28,1000,395.0,395000.0,2026-04-24,187850781,2788,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-24 12:21:19.400708,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004345,AKJCL,32,13,2075,395.0,819625.0,2026-04-24,187850783,2788,Premier Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-24 12:21:19.400729,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004346,AKJCL,32,64,2000,395.7,791400.0,2026-04-24,187850785,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:21:19.400750,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004347,AKJCL,32,86,5000,396.0,1980000.0,2026-04-24,187850787,2788,Premier Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-24 12:21:19.400774,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004348,AKJCL,32,65,2000,396.0,792000.0,2026-04-24,187850789,2788,Premier Securities Company Ltd.,Sharepro Securities Private Limited,2026-04-24 12:21:19.400795,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004349,AKJCL,32,42,750,396.0,297000.0,2026-04-24,187850791,2788,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-24 12:21:19.400816,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004350,AKJCL,32,28,10,396.0,3960.0,2026-04-24,187850793,2788,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-24 12:21:19.400837,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004351,AKJCL,32,45,1000,396.0,396000.0,2026-04-24,187850795,2788,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:21:19.400859,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004352,AKJCL,32,48,466,396.0,184536.0,2026-04-24,187850797,2788,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 12:21:19.400879,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004353,AKJCL,32,86,500,396.0,198000.0,2026-04-24,187850799,2788,Premier Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-24 12:21:19.400902,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004354,AKJCL,32,13,570,397.0,226290.0,2026-04-24,187850801,2788,Premier Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-24 12:21:19.400929,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004355,AKJCL,32,40,500,397.0,198500.0,2026-04-24,187850803,2788,Premier Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-24 12:21:19.400954,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004356,AKJCL,32,64,200,397.0,79400.0,2026-04-24,187850805,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:21:19.400976,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004357,AKJCL,32,48,500,397.0,198500.0,2026-04-24,187850807,2788,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 12:21:19.400998,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004358,AKJCL,32,32,487,397.0,193339.0,2026-04-24,187850810,2788,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-24 12:21:19.401020,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004368,AKJCL,58,70,10,392.1,3921.0,2026-04-24,187851263,2788,Naasa Securities Co. Ltd.,Infinity Securities Limited,2026-04-24 12:21:52.980297,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004400,AKJCL,34,58,100,395.0,39500.0,2026-04-24,187851788,2788,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-24 12:22:40.197183,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004406,AKJCL,50,40,50,395.0,19750.0,2026-04-24,187851837,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-24 12:22:48.264261,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004407,AKJCL,50,49,50,396.8,19840.0,2026-04-24,187851839,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-24 12:22:48.264325,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004408,AKJCL,50,62,300,396.8,119040.0,2026-04-24,187851841,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 12:22:48.264384,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004409,AKJCL,50,21,300,396.9,119070.0,2026-04-24,187851843,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 12:22:48.264412,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004410,AKJCL,50,32,13,397.0,5161.0,2026-04-24,187851845,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 12:22:48.264441,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004411,AKJCL,50,1,287,397.0,113939.0,2026-04-24,187851848,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Kumari Securities Private Limited,2026-04-24 12:22:48.264474,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004417,AKJCL,28,1,713,397.0,283061.0,2026-04-24,187851949,2788,Shree Krishna Securities Ltd.,Kumari Securities Private Limited,2026-04-24 12:22:55.609084,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004418,AKJCL,28,91,325,397.0,129025.0,2026-04-24,187851951,2788,Shree Krishna Securities Ltd.,Citizens Share Broker Limited,2026-04-24 12:22:55.609144,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004419,AKJCL,28,34,500,397.0,198500.0,2026-04-24,187851953,2788,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:22:55.609172,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004420,AKJCL,28,10,300,397.0,119100.0,2026-04-24,187851955,2788,Shree Krishna Securities Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-24 12:22:55.609201,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004421,AKJCL,28,63,1000,397.0,397000.0,2026-04-24,187851958,2788,Shree Krishna Securities Ltd.,Himalayan Brokerage Company Limited,2026-04-24 12:22:55.609227,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004422,AKJCL,28,32,10,397.0,3970.0,2026-04-24,187851962,2788,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-24 12:22:55.609250,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004423,AKJCL,28,35,152,397.0,60344.0,2026-04-24,187851968,2788,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 12:22:55.609275,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004559,AKJCL,41,62,100,396.8,39680.0,2026-04-24,187853164,2788,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-24 12:25:24.984450,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004567,AKJCL,32,62,100,396.8,39680.0,2026-04-24,187853223,2788,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-24 12:25:31.816113,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004568,AKJCL,32,62,100,396.9,39690.0,2026-04-24,187853225,2788,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-24 12:25:31.816905,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004569,AKJCL,32,54,100,396.9,39690.0,2026-04-24,187853227,2788,Premier Securities Company Ltd.,Sewa Securities Pvt. Ltd.,2026-04-24 12:25:31.817408,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004570,AKJCL,32,64,1000,396.9,396900.0,2026-04-24,187853229,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:25:31.817881,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004571,AKJCL,32,35,48,397.0,19056.0,2026-04-24,187853231,2788,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 12:25:31.818370,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004572,AKJCL,32,21,2000,397.0,794000.0,2026-04-24,187853233,2788,Premier Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-24 12:25:31.818833,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004573,AKJCL,32,62,100,397.0,39700.0,2026-04-24,187853235,2788,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-24 12:25:31.819290,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004574,AKJCL,32,91,500,397.0,198500.0,2026-04-24,187853237,2788,Premier Securities Company Ltd.,Citizens Share Broker Limited,2026-04-24 12:25:31.819773,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004575,AKJCL,32,64,750,397.0,297750.0,2026-04-24,187853239,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:25:31.820230,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004576,AKJCL,32,35,200,397.0,79400.0,2026-04-24,187853241,2788,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 12:25:31.820691,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004577,AKJCL,32,44,50,397.0,19850.0,2026-04-24,187853243,2788,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:25:31.821149,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004587,AKJCL,32,57,25,397.1,9927.5,2026-04-24,187853339,2788,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-24 12:25:41.668203,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004588,AKJCL,32,58,500,397.1,198550.0,2026-04-24,187853341,2788,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-24 12:25:41.668337,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004589,AKJCL,32,34,4475,397.8,1780155.0,2026-04-24,187853344,2788,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:25:41.668421,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004594,AKJCL,32,42,50,397.0,19850.0,2026-04-24,187853373,2788,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-24 12:25:45.620267,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004610,AKJCL,28,14,1000,397.0,397000.0,2026-04-24,187853500,2788,Shree Krishna Securities Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 12:26:01.168840,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004611,AKJCL,45,32,430,395.0,169850.0,2026-04-24,187853501,2788,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 12:26:01.425835,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004665,AKJCL,58,34,30,396.0,11880.0,2026-04-24,187853846,2788,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:26:48.274422,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004717,AKJCL,66,34,70,396.0,27720.0,2026-04-24,187854237,2788,Miyo Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-24 12:27:33.090835,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004718,AKJCL,66,10,184,397.0,73048.0,2026-04-24,187854240,2788,Miyo Securities Pvt Ltd,Pragyan Securities (PVT) Ltd.,2026-04-24 12:27:33.091540,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004825,AKJCL,44,10,316,397.0,125452.0,2026-04-24,187854925,2788,Dynamic Money Managers Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-24 12:28:45.206564,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004826,AKJCL,44,63,684,397.0,271548.0,2026-04-24,187854928,2788,Dynamic Money Managers Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-24 12:28:45.207086,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004828,AKJCL,42,63,10,397.0,3970.0,2026-04-24,187854938,2788,Sani Securities Company Ltd.,Himalayan Brokerage Company Limited,2026-04-24 12:28:47.503368,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004831,AKJCL,91,63,1000,397.0,397000.0,2026-04-24,187854980,2788,Citizens Share Broker Limited,Himalayan Brokerage Company Limited,2026-04-24 12:28:51.955399,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004923,AKJCL,44,63,500,397.0,198500.0,2026-04-24,187855558,2788,Dynamic Money Managers Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-24 12:30:01.163581,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004926,AKJCL,91,63,500,397.0,198500.0,2026-04-24,187855606,2788,Citizens Share Broker Limited,Himalayan Brokerage Company Limited,2026-04-24 12:30:10.885550,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004959,AKJCL,56,48,200,396.9,79380.0,2026-04-24,187856056,2788,Sri Hari Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 12:30:51.252099,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004988,AKJCL,29,34,100,396.8,39680.0,2026-04-24,187856581,2788,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:31:53.233132,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004989,AKJCL,29,34,525,396.9,208372.5,2026-04-24,187856583,2788,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:31:53.233519,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004990,AKJCL,29,63,306,397.0,121482.0,2026-04-24,187856585,2788,Trisul Securities & Invt. Ltd.,Himalayan Brokerage Company Limited,2026-04-24 12:31:53.233715,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004991,AKJCL,29,64,85,397.0,33745.0,2026-04-24,187856587,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 12:31:53.233939,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004992,AKJCL,29,17,100,397.0,39700.0,2026-04-24,187856589,2788,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,2026-04-24 12:31:53.234129,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004993,AKJCL,29,54,20,397.0,7940.0,2026-04-24,187856591,2788,Trisul Securities & Invt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-24 12:31:53.234331,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004994,AKJCL,29,70,20,397.0,7940.0,2026-04-24,187856593,2788,Trisul Securities & Invt. Ltd.,Infinity Securities Limited,2026-04-24 12:31:53.234549,Ankhu Khola Jalvidhyut Company Ltd
+2026042404004995,AKJCL,29,45,744,397.0,295368.0,2026-04-24,187856596,2788,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:31:53.234743,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005054,AKJCL,57,42,25,395.2,9880.0,2026-04-24,187857281,2788,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-24 12:33:09.526362,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005055,AKJCL,57,42,25,396.8,9920.0,2026-04-24,187857284,2788,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-24 12:33:09.527177,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005199,AKJCL,42,42,25,396.8,9920.0,2026-04-24,187858860,2788,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-24 12:36:13.338250,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005223,AKJCL,91,64,500,396.0,198000.0,2026-04-24,187859153,2788,Citizens Share Broker Limited,SUN SECURITIES PVT LTD,2026-04-24 12:37:01.842601,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005246,AKJCL,45,36,70,395.0,27650.0,2026-04-24,187859518,2788,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-24 12:37:50.092371,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005247,AKJCL,56,36,80,394.2,31536.0,2026-04-24,187859520,2788,Sri Hari Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-24 12:37:50.092807,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005248,AKJCL,49,36,150,394.2,59130.0,2026-04-24,187859521,2788,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-24 12:37:50.093019,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005272,AKJCL,49,80,150,394.2,59130.0,2026-04-24,187859796,2788,Online Securities Pvt. Ltd.,Indira securities pvt. ltd,2026-04-24 12:38:13.788229,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005273,AKJCL,4,80,3329,394.1,1311958.9,2026-04-24,187859798,2788,Opal Securities Investment (PVT) Ltd.,Indira securities pvt. ltd,2026-04-24 12:38:13.788275,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005274,AKJCL,94,80,21,394.0,8274.0,2026-04-24,187859799,2788,K.B.L. Securities Limited ,Indira securities pvt. ltd,2026-04-24 12:38:13.788299,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005275,AKJCL,94,29,479,394.0,188726.0,2026-04-24,187859808,2788,K.B.L. Securities Limited ,Trisul Securities & Invt. Ltd.,2026-04-24 12:38:14.894779,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005276,AKJCL,35,29,20,393.0,7860.0,2026-04-24,187859810,2788,Kohinoor Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-24 12:38:14.894814,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005277,AKJCL,58,29,148,392.1,58030.8,2026-04-24,187859812,2788,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-24 12:38:14.894837,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005278,AKJCL,13,29,250,392.1,98025.0,2026-04-24,187859814,2788,Thrive Brokerage House Pvt. Ltd,Trisul Securities & Invt. Ltd.,2026-04-24 12:38:14.894866,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005279,AKJCL,75,29,2603,392.0,1020376.0,2026-04-24,187859815,2788,N.I.M.B. Stock Markets Limited,Trisul Securities & Invt. Ltd.,2026-04-24 12:38:14.894905,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005283,AKJCL,75,17,1000,392.0,392000.0,2026-04-24,187859881,2788,N.I.M.B. Stock Markets Limited,ABC Securities Private Limited,2026-04-24 12:38:27.099716,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005320,AKJCL,91,6,100,395.0,39500.0,2026-04-24,187860612,2788,Citizens Share Broker Limited,Agrawal Securities (PVT) Ltd.,2026-04-24 12:39:33.356970,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005337,AKJCL,50,8,100,392.1,39210.0,2026-04-24,187860784,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 12:39:58.136957,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005338,AKJCL,75,8,70,392.0,27440.0,2026-04-24,187860785,2788,N.I.M.B. Stock Markets Limited,Brilliant Securities Pvt. Ltd.,2026-04-24 12:39:58.137382,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005346,AKJCL,75,56,16,392.0,6272.0,2026-04-24,187860863,2788,N.I.M.B. Stock Markets Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 12:40:08.319413,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005460,AKJCL,56,58,20,393.0,7860.0,2026-04-24,187861900,2788,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 12:42:18.352096,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005781,AKJCL,45,34,100,394.1,39410.0,2026-04-24,187865123,2788,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 12:48:14.903292,Ankhu Khola Jalvidhyut Company Ltd
+2026042404005928,AKJCL,91,8,100,395.0,39500.0,2026-04-24,187866428,2788,Citizens Share Broker Limited,Brilliant Securities Pvt. Ltd.,2026-04-24 12:50:38.930805,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006039,AKJCL,45,8,10,395.0,3950.0,2026-04-24,187867322,2788,Imperial Securities Company Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 12:52:14.272557,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006064,AKJCL,45,16,95,394.1,37439.5,2026-04-24,187867428,2788,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 12:52:20.754943,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006065,AKJCL,45,16,10,393.0,3930.0,2026-04-24,187867430,2788,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 12:52:20.755419,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006066,AKJCL,4,16,107,393.0,42051.0,2026-04-24,187867432,2788,Opal Securities Investment (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 12:52:20.755646,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006067,AKJCL,34,16,300,393.0,117900.0,2026-04-24,187867434,2788,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-24 12:52:20.755856,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006068,AKJCL,4,16,533,392.5,209202.5,2026-04-24,187867436,2788,Opal Securities Investment (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 12:52:20.756063,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006069,AKJCL,57,16,1000,392.5,392500.0,2026-04-24,187867438,2788,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-24 12:52:20.756270,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006070,AKJCL,4,16,275,392.3,107882.5,2026-04-24,187867439,2788,Opal Securities Investment (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 12:52:20.756486,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006230,AKJCL,4,91,405,392.3,158881.5,2026-04-24,187869086,2788,Opal Securities Investment (PVT) Ltd.,Citizens Share Broker Limited,2026-04-24 12:54:39.017737,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006231,AKJCL,29,91,367,392.3,143974.1,2026-04-24,187869087,2788,Trisul Securities & Invt. Ltd.,Citizens Share Broker Limited,2026-04-24 12:54:39.018206,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006269,AKJCL,29,58,36,392.3,14122.8,2026-04-24,187869509,2788,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 12:55:22.408521,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006336,AKJCL,4,45,100,392.4,39240.0,2026-04-24,187870318,2788,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:56:58.533911,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006337,AKJCL,29,45,97,392.3,38053.1,2026-04-24,187870320,2788,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:56:58.534848,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006338,AKJCL,35,45,100,392.2,39220.0,2026-04-24,187870322,2788,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:56:58.535528,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006339,AKJCL,38,45,100,392.2,39220.0,2026-04-24,187870324,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:56:58.536187,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006340,AKJCL,48,45,100,392.1,39210.0,2026-04-24,187870326,2788,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:56:58.536858,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006341,AKJCL,75,45,503,392.0,197176.0,2026-04-24,187870327,2788,N.I.M.B. Stock Markets Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:56:58.537526,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006360,AKJCL,91,70,1000,392.0,392000.0,2026-04-24,187870463,2788,Citizens Share Broker Limited,Infinity Securities Limited,2026-04-24 12:57:15.921677,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006432,AKJCL,7,91,10,392.0,3920.0,2026-04-24,187871100,2788,J.F. Securites (PVT) Ltd.,Citizens Share Broker Limited,2026-04-24 12:58:33.007943,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006433,AKJCL,22,91,250,392.0,98000.0,2026-04-24,187871102,2788,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-24 12:58:33.008889,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006434,AKJCL,100,91,740,392.0,290080.0,2026-04-24,187871103,2788,Sunrise Securities Limited,Citizens Share Broker Limited,2026-04-24 12:58:33.009545,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006473,AKJCL,100,95,250,392.0,98000.0,2026-04-24,187871379,2788,Sunrise Securities Limited,Magnet Securities and Investment Company Private Limited,2026-04-24 12:59:01.978202,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006488,AKJCL,100,8,100,392.0,39200.0,2026-04-24,187871485,2788,Sunrise Securities Limited,Brilliant Securities Pvt. Ltd.,2026-04-24 12:59:15.891289,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006508,AKJCL,100,33,10,392.0,3920.0,2026-04-24,187871547,2788,Sunrise Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 12:59:23.327719,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006514,AKJCL,100,47,300,392.0,117600.0,2026-04-24,187871669,2788,Sunrise Securities Limited,Neev Securities Pvt. Ltd.,2026-04-24 12:59:45.437198,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006515,AKJCL,100,45,100,392.0,39200.0,2026-04-24,187871678,2788,Sunrise Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:59:46.863097,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006516,AKJCL,75,45,15,392.0,5880.0,2026-04-24,187871680,2788,N.I.M.B. Stock Markets Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:59:46.863540,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006574,AKJCL,58,64,10,391.9,3919.0,2026-04-24,187872294,2788,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.363349,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006575,AKJCL,58,64,10,391.8,3918.0,2026-04-24,187872296,2788,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.364249,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006576,AKJCL,45,64,10,391.0,3910.0,2026-04-24,187872298,2788,Imperial Securities Company Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.364907,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006577,AKJCL,26,64,50,390.1,19505.0,2026-04-24,187872300,2788,Asian Securities Private Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.365553,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006578,AKJCL,14,64,500,390.0,195000.0,2026-04-24,187872302,2788,Nepal Stock House (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.366187,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006579,AKJCL,8,64,100,390.0,39000.0,2026-04-24,187872304,2788,Brilliant Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.366816,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006580,AKJCL,58,64,102,390.0,39780.0,2026-04-24,187872306,2788,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.367445,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006581,AKJCL,32,64,100,390.0,39000.0,2026-04-24,187872308,2788,Premier Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.368056,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006582,AKJCL,17,64,118,390.0,46020.0,2026-04-24,187872309,2788,ABC Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-24 13:00:56.368687,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006710,AKJCL,7,54,50,391.0,19550.0,2026-04-24,187873828,2788,J.F. Securites (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-24 13:05:05.952878,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006721,AKJCL,57,49,20,390.5,7810.0,2026-04-24,187873893,2788,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-24 13:05:15.566587,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006726,AKJCL,57,38,10,390.5,3905.0,2026-04-24,187873976,2788,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 13:05:29.856118,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006749,AKJCL,45,38,10,390.0,3900.0,2026-04-24,187874376,2788,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 13:06:26.908724,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006766,AKJCL,34,38,160,390.0,62400.0,2026-04-24,187874841,2788,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 13:07:48.180503,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006782,AKJCL,58,34,50,389.5,19475.0,2026-04-24,187874988,2788,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 13:08:15.488124,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006783,AKJCL,49,34,100,389.1,38910.0,2026-04-24,187874990,2788,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 13:08:15.488165,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006784,AKJCL,34,34,840,389.1,326844.0,2026-04-24,187874992,2788,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-24 13:08:15.488195,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006785,AKJCL,35,34,10,389.0,3890.0,2026-04-24,187874993,2788,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 13:08:15.488222,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006786,AKJCL,89,38,10,390.0,3900.0,2026-04-24,187875010,2788,Global IME Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 13:08:20.768021,Ankhu Khola Jalvidhyut Company Ltd
+2026042404006960,AKJCL,49,38,30,390.0,11700.0,2026-04-24,187877009,2788,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 13:13:37.236780,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007071,AKJCL,49,53,10,390.0,3900.0,2026-04-24,187878422,2788,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-24 13:17:10.018881,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007072,AKJCL,35,53,2990,389.0,1163110.0,2026-04-24,187878424,2788,Kohinoor Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-24 13:17:10.019862,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007073,AKJCL,36,53,10,389.0,3890.0,2026-04-24,187878426,2788,Secured Securities Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-24 13:17:10.020685,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007074,AKJCL,29,53,1001,388.5,388888.5,2026-04-24,187878428,2788,Trisul Securities & Invt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-24 13:17:10.021398,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007075,AKJCL,48,53,13,388.5,5050.5,2026-04-24,187878430,2788,Trishakti Securities Public Limited,Investment Management Nepal Pvt. Ltd.,2026-04-24 13:17:10.022067,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007076,AKJCL,48,53,976,388.0,378688.0,2026-04-24,187878431,2788,Trishakti Securities Public Limited,Investment Management Nepal Pvt. Ltd.,2026-04-24 13:17:10.022822,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007168,AKJCL,82,32,260,388.5,101010.0,2026-04-24,187879469,2788,N.M.B. SECURITIES LIMITED,Premier Securities Company Ltd.,2026-04-24 13:19:33.590795,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007277,AKJCL,82,59,39,388.5,15151.5,2026-04-24,187881353,2788,N.M.B. SECURITIES LIMITED,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 13:24:03.250117,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007299,AKJCL,67,54,10,390.0,3900.0,2026-04-24,187882020,2788,Property Wiard Limited,Sewa Securities Pvt. Ltd.,2026-04-24 13:25:19.503691,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007357,AKJCL,64,54,100,390.0,39000.0,2026-04-24,187882990,2788,SUN SECURITIES PVT LTD,Sewa Securities Pvt. Ltd.,2026-04-24 13:27:17.168131,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007369,AKJCL,89,54,26,390.0,10140.0,2026-04-24,187883103,2788,Global IME Securities Limited,Sewa Securities Pvt. Ltd.,2026-04-24 13:27:31.517084,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007388,AKJCL,6,54,314,390.0,122460.0,2026-04-24,187883725,2788,Agrawal Securities (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-24 13:28:17.261374,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007389,AKJCL,6,45,686,390.0,267540.0,2026-04-24,187883728,2788,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:28:17.262288,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007391,AKJCL,28,45,1314,390.0,512460.0,2026-04-24,187883833,2788,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:28:33.323183,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007471,AKJCL,28,32,686,390.0,267540.0,2026-04-24,187884714,2788,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-24 13:30:41.232458,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007523,AKJCL,86,32,64,390.0,24960.0,2026-04-24,187885507,2788,Stoxkarts Securities Limited,Premier Securities Company Ltd.,2026-04-24 13:32:37.334184,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007524,AKJCL,86,32,750,390.0,292500.0,2026-04-24,187885509,2788,Stoxkarts Securities Limited,Premier Securities Company Ltd.,2026-04-24 13:32:37.335254,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007525,AKJCL,86,66,50,390.0,19500.0,2026-04-24,187885511,2788,Stoxkarts Securities Limited,Miyo Securities Pvt Ltd,2026-04-24 13:32:37.336045,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007526,AKJCL,86,62,1500,390.0,585000.0,2026-04-24,187885513,2788,Stoxkarts Securities Limited,Capital Max Securities Ltd,2026-04-24 13:32:37.336771,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007589,AKJCL,86,61,2636,390.0,1028040.0,2026-04-24,187886590,2788,Stoxkarts Securities Limited,BHOLE GANESH SECURITIES LTD,2026-04-24 13:34:39.396893,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007590,AKJCL,92,61,250,389.1,97275.0,2026-04-24,187886592,2788,Roadshow securities limited,BHOLE GANESH SECURITIES LTD,2026-04-24 13:34:39.396935,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007591,AKJCL,43,61,100,389.0,38900.0,2026-04-24,187886594,2788,South Asian Bulls Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-24 13:34:39.396962,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007592,AKJCL,66,61,50,389.0,19450.0,2026-04-24,187886596,2788,Miyo Securities Pvt Ltd,BHOLE GANESH SECURITIES LTD,2026-04-24 13:34:39.396989,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007593,AKJCL,34,61,964,388.9,374899.6,2026-04-24,187886597,2788,Vision Securities Pvt. Ltd,BHOLE GANESH SECURITIES LTD,2026-04-24 13:34:39.397013,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007611,AKJCL,64,62,1100,390.0,429000.0,2026-04-24,187886829,2788,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-24 13:35:09.922142,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007653,AKJCL,64,25,305,390.0,118950.0,2026-04-24,187887147,2788,SUN SECURITIES PVT LTD,Sweta Securities Private Limited,2026-04-24 13:36:01.617043,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007708,AKJCL,64,45,39,390.0,15210.0,2026-04-24,187888111,2788,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:38:00.327733,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007730,AKJCL,64,38,230,390.0,89700.0,2026-04-24,187888323,2788,SUN SECURITIES PVT LTD,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 13:38:40.100487,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007782,AKJCL,64,5,3000,390.0,1170000.0,2026-04-24,187889421,2788,SUN SECURITIES PVT LTD,Market Securities & Exchange (PVT) Ltd.,2026-04-24 13:40:35.602786,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007796,AKJCL,91,41,100,390.5,39050.0,2026-04-24,187889637,2788,Citizens Share Broker Limited,Linch Stock Market Ltd.,2026-04-24 13:41:12.793021,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007804,AKJCL,91,38,20,390.5,7810.0,2026-04-24,187889859,2788,Citizens Share Broker Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 13:41:36.174474,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007862,AKJCL,91,91,180,390.5,70290.0,2026-04-24,187891040,2788,Citizens Share Broker Limited,Citizens Share Broker Limited,2026-04-24 13:44:02.772569,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007863,AKJCL,64,91,20,390.0,7800.0,2026-04-24,187891041,2788,SUN SECURITIES PVT LTD,Citizens Share Broker Limited,2026-04-24 13:44:02.772665,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007875,AKJCL,36,8,90,391.0,35190.0,2026-04-24,187891128,2788,Secured Securities Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 13:44:16.451531,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007904,AKJCL,64,63,306,390.0,119340.0,2026-04-24,187891508,2788,SUN SECURITIES PVT LTD,Himalayan Brokerage Company Limited,2026-04-24 13:44:44.923910,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007905,AKJCL,29,63,500,390.0,195000.0,2026-04-24,187891510,2788,Trisul Securities & Invt. Ltd.,Himalayan Brokerage Company Limited,2026-04-24 13:44:44.924460,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007908,AKJCL,52,63,100,390.0,39000.0,2026-04-24,187891558,2788,Sundhara Securities Limited,Himalayan Brokerage Company Limited,2026-04-24 13:44:53.953683,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007931,AKJCL,63,91,2500,389.1,972750.0,2026-04-24,187892247,2788,Himalayan Brokerage Company Limited,Citizens Share Broker Limited,2026-04-24 13:46:09.770539,Ankhu Khola Jalvidhyut Company Ltd
+2026042404007968,AKJCL,63,91,1500,389.1,583650.0,2026-04-24,187892935,2788,Himalayan Brokerage Company Limited,Citizens Share Broker Limited,2026-04-24 13:47:14.466010,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008030,AKJCL,29,98,230,389.9,89677.0,2026-04-24,187893596,2788,Trisul Securities & Invt. Ltd.,Trademow Securities Private Limited,2026-04-24 13:48:57.243346,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008083,AKJCL,59,62,10,389.3,3893.0,2026-04-24,187894120,2788,Deevyaa Securities & Stock House Pvt. Ltd,Capital Max Securities Ltd,2026-04-24 13:50:14.759105,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008084,AKJCL,41,62,100,389.2,38920.0,2026-04-24,187894122,2788,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-24 13:50:14.759149,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008085,AKJCL,4,62,226,389.0,87914.0,2026-04-24,187894124,2788,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-24 13:50:14.759176,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008086,AKJCL,34,62,36,388.9,14000.4,2026-04-24,187894126,2788,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-24 13:50:14.759204,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008087,AKJCL,36,62,10,388.5,3885.0,2026-04-24,187894128,2788,Secured Securities Ltd.,Capital Max Securities Ltd,2026-04-24 13:50:14.759230,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008088,AKJCL,48,62,618,388.0,239784.0,2026-04-24,187894129,2788,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-24 13:50:14.759254,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008107,AKJCL,48,62,1000,388.0,388000.0,2026-04-24,187894267,2788,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-24 13:50:37.803069,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008109,AKJCL,48,62,421,388.0,163348.0,2026-04-24,187894284,2788,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-24 13:50:42.345038,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008110,AKJCL,13,62,500,388.0,194000.0,2026-04-24,187894286,2788,Thrive Brokerage House Pvt. Ltd,Capital Max Securities Ltd,2026-04-24 13:50:42.345116,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008111,AKJCL,45,62,10,388.0,3880.0,2026-04-24,187894288,2788,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 13:50:42.345163,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008112,AKJCL,95,62,10,388.0,3880.0,2026-04-24,187894290,2788,Magnet Securities and Investment Company Private Limited,Capital Max Securities Ltd,2026-04-24 13:50:42.345185,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008113,AKJCL,50,62,59,388.0,22892.0,2026-04-24,187894291,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 13:50:42.345213,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008115,AKJCL,50,62,41,388.0,15908.0,2026-04-24,187894324,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 13:50:46.755857,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008116,AKJCL,58,62,25,388.0,9700.0,2026-04-24,187894326,2788,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-24 13:50:46.755891,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008117,AKJCL,92,62,500,388.0,194000.0,2026-04-24,187894328,2788,Roadshow securities limited,Capital Max Securities Ltd,2026-04-24 13:50:46.755917,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008118,AKJCL,64,62,434,388.0,168392.0,2026-04-24,187894329,2788,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-24 13:50:46.755942,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008182,AKJCL,64,35,66,388.0,25608.0,2026-04-24,187894878,2788,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 13:51:54.200556,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008183,AKJCL,19,35,44,388.0,17072.0,2026-04-24,187894879,2788,Nepal Investment And Securities Trading Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 13:51:54.201491,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008306,AKJCL,19,39,56,388.0,21728.0,2026-04-24,187896168,2788,Nepal Investment And Securities Trading Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-24 13:54:17.317977,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008307,AKJCL,49,39,10,388.0,3880.0,2026-04-24,187896170,2788,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 13:54:17.318935,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008421,AKJCL,66,63,2000,387.1,774200.0,2026-04-24,187896959,2788,Miyo Securities Pvt Ltd,Himalayan Brokerage Company Limited,2026-04-24 13:55:55.163309,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008435,AKJCL,66,91,1000,387.1,387100.0,2026-04-24,187897114,2788,Miyo Securities Pvt Ltd,Citizens Share Broker Limited,2026-04-24 13:56:22.851304,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008436,AKJCL,49,91,10,387.1,3871.0,2026-04-24,187897116,2788,Online Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-24 13:56:22.852277,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008437,AKJCL,10,91,190,387.0,73530.0,2026-04-24,187897117,2788,Pragyan Securities (PVT) Ltd.,Citizens Share Broker Limited,2026-04-24 13:56:22.852990,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008464,AKJCL,10,45,310,387.0,119970.0,2026-04-24,187897432,2788,Pragyan Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:56:52.497348,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008465,AKJCL,49,45,230,387.0,89010.0,2026-04-24,187897434,2788,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:56:52.497955,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008466,AKJCL,25,45,500,387.0,193500.0,2026-04-24,187897436,2788,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:56:52.498202,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008467,AKJCL,25,45,50,387.0,19350.0,2026-04-24,187897438,2788,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:56:52.498437,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008468,AKJCL,7,45,50,387.0,19350.0,2026-04-24,187897440,2788,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:56:52.498663,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008469,AKJCL,57,45,1000,387.0,387000.0,2026-04-24,187897442,2788,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:56:52.498922,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008605,AKJCL,38,26,25,386.5,9662.5,2026-04-24,187898280,2788,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Asian Securities Private Ltd.,2026-04-24 13:58:13.633139,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008606,AKJCL,41,26,75,386.5,28987.5,2026-04-24,187898281,2788,Linch Stock Market Ltd.,Asian Securities Private Ltd.,2026-04-24 13:58:13.633249,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008643,AKJCL,41,50,125,386.5,48312.5,2026-04-24,187898620,2788,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 13:58:58.870061,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008644,AKJCL,25,50,175,386.4,67620.0,2026-04-24,187898621,2788,Sweta Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 13:58:58.871108,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008666,AKJCL,3,45,500,387.0,193500.0,2026-04-24,187898760,2788,Arun Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:59:12.474090,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008698,AKJCL,48,45,900,387.0,348300.0,2026-04-24,187898920,2788,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:59:28.929731,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008707,AKJCL,29,45,500,387.0,193500.0,2026-04-24,187899008,2788,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 13:59:39.376989,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008806,AKJCL,3,45,500,387.0,193500.0,2026-04-24,187900674,2788,Arun Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:03:41.930220,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008841,AKJCL,61,45,10,387.0,3870.0,2026-04-24,187901176,2788,BHOLE GANESH SECURITIES LTD,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:04:55.402129,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008852,AKJCL,29,45,450,387.0,174150.0,2026-04-24,187901399,2788,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:05:14.807689,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008853,AKJCL,29,14,10,387.0,3870.0,2026-04-24,187901402,2788,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 14:05:14.808175,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008937,AKJCL,1,28,10,387.0,3870.0,2026-04-24,187902699,2788,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-24 14:07:56.657243,Ankhu Khola Jalvidhyut Company Ltd
+2026042404008997,AKJCL,50,50,3,380.0,1140.0,2026-04-24,187903611,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 14:09:46.706857,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009000,AKJCL,1,58,90,387.0,34830.0,2026-04-24,187903672,2788,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-24 14:09:53.126558,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009001,AKJCL,49,58,50,387.0,19350.0,2026-04-24,187903674,2788,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:09:53.127612,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009176,AKJCL,34,72,500,386.5,193250.0,2026-04-24,187905942,2788,Vision Securities Pvt. Ltd,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.654896,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009177,AKJCL,56,72,400,386.5,154600.0,2026-04-24,187905944,2788,Sri Hari Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.654962,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009178,AKJCL,25,72,325,386.4,125580.0,2026-04-24,187905946,2788,Sweta Securities Private Limited,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.655001,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009179,AKJCL,49,72,100,386.4,38640.0,2026-04-24,187905948,2788,Online Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.655030,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009180,AKJCL,59,72,500,386.3,193150.0,2026-04-24,187905950,2788,Deevyaa Securities & Stock House Pvt. Ltd,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.655058,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009181,AKJCL,3,72,1000,386.2,386200.0,2026-04-24,187905952,2788,Arun Securities (PVT) Ltd.,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.655103,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009182,AKJCL,59,72,500,386.1,193050.0,2026-04-24,187905954,2788,Deevyaa Securities & Stock House Pvt. Ltd,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.655137,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009183,AKJCL,86,72,2175,386.1,839767.5,2026-04-24,187905955,2788,Stoxkarts Securities Limited,Hatemalo Financial Services Private Limited,2026-04-24 14:13:59.655184,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009250,AKJCL,86,44,1200,386.1,463320.0,2026-04-24,187906995,2788,Stoxkarts Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:15:00.794522,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009300,AKJCL,86,44,625,386.1,241312.5,2026-04-24,187907440,2788,Stoxkarts Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:15:56.257522,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009301,AKJCL,49,44,100,386.1,38610.0,2026-04-24,187907442,2788,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:15:56.258092,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009314,AKJCL,45,39,20,386.0,7720.0,2026-04-24,187907568,2788,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:16:10.280142,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009315,AKJCL,58,39,26,386.0,10036.0,2026-04-24,187907570,2788,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:16:10.281189,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009316,AKJCL,25,39,94,386.0,36284.0,2026-04-24,187907572,2788,Sweta Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-24 14:16:10.281923,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009317,AKJCL,74,39,94,386.0,36284.0,2026-04-24,187907573,2788,KALASH STOCK MARKET PVT. LTD.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:16:10.282813,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009321,AKJCL,1,44,475,386.1,183397.5,2026-04-24,187907628,2788,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:16:16.812644,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009331,AKJCL,26,58,100,387.0,38700.0,2026-04-24,187907750,2788,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:16:31.990095,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009345,AKJCL,74,44,166,386.0,64076.0,2026-04-24,187907850,2788,KALASH STOCK MARKET PVT. LTD.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:16:40.270293,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009390,AKJCL,1,44,500,386.0,193000.0,2026-04-24,187908452,2788,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:17:46.528222,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009398,AKJCL,54,44,20,386.0,7720.0,2026-04-24,187908580,2788,Sewa Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:17:56.925379,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009404,AKJCL,3,44,500,386.0,193000.0,2026-04-24,187908628,2788,Arun Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:18:02.914150,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009435,AKJCL,64,44,100,385.4,38540.0,2026-04-24,187909168,2788,SUN SECURITIES PVT LTD,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:18:56.277759,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009436,AKJCL,63,44,1100,385.4,423940.0,2026-04-24,187909169,2788,Himalayan Brokerage Company Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:18:56.278825,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009442,AKJCL,63,58,50,385.4,19270.0,2026-04-24,187909637,2788,Himalayan Brokerage Company Limited,Naasa Securities Co. Ltd.,2026-04-24 14:19:12.178961,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009540,AKJCL,71,44,14,386.0,5404.0,2026-04-24,187910659,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:20:44.251924,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009546,AKJCL,82,48,1600,386.9,619040.0,2026-04-24,187910744,2788,N.M.B. SECURITIES LIMITED,Trishakti Securities Public Limited,2026-04-24 14:20:56.880238,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009555,AKJCL,71,58,55,386.0,21230.0,2026-04-24,187910797,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,2026-04-24 14:21:02.159858,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009556,AKJCL,35,48,250,386.9,96725.0,2026-04-24,187910844,2788,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:21:05.701488,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009563,AKJCL,7,48,50,386.9,19345.0,2026-04-24,187911158,2788,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-24 14:21:19.624275,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009571,AKJCL,94,48,100,386.9,38690.0,2026-04-24,187911375,2788,K.B.L. Securities Limited ,Trishakti Securities Public Limited,2026-04-24 14:21:33.476667,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009625,AKJCL,7,48,50,386.9,19345.0,2026-04-24,187912086,2788,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-24 14:22:29.653880,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009665,AKJCL,16,48,193,386.9,74671.7,2026-04-24,187912555,2788,Primo Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-24 14:22:58.502846,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009720,AKJCL,71,46,500,386.0,193000.0,2026-04-24,187913513,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Kalika Securities Pvt. Ltd.,2026-04-24 14:24:11.652017,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009810,AKJCL,95,58,50,386.1,19305.0,2026-04-24,187914597,2788,Magnet Securities and Investment Company Private Limited,Naasa Securities Co. Ltd.,2026-04-24 14:25:46.042207,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009811,AKJCL,95,65,200,386.1,77220.0,2026-04-24,187914599,2788,Magnet Securities and Investment Company Private Limited,Sharepro Securities Private Limited,2026-04-24 14:25:46.558826,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009851,AKJCL,28,48,2000,386.9,773800.0,2026-04-24,187915024,2788,Shree Krishna Securities Ltd.,Trishakti Securities Public Limited,2026-04-24 14:26:23.408728,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009855,AKJCL,96,48,757,386.9,292883.3,2026-04-24,187915073,2788,Himalayan Securities Limited,Trishakti Securities Public Limited,2026-04-24 14:26:30.376919,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009856,AKJCL,96,42,243,386.9,94016.7,2026-04-24,187915076,2788,Himalayan Securities Limited,Sani Securities Company Ltd.,2026-04-24 14:26:30.377451,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009864,AKJCL,28,42,117,386.9,45267.3,2026-04-24,187915275,2788,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-24 14:26:48.700387,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009865,AKJCL,28,58,260,387.0,100620.0,2026-04-24,187915277,2788,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:26:48.700510,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009866,AKJCL,28,51,153,387.0,59211.0,2026-04-24,187915279,2788,Shree Krishna Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-24 14:26:48.700588,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009867,AKJCL,28,44,470,387.0,181890.0,2026-04-24,187915282,2788,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:26:48.700667,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009943,AKJCL,60,44,730,387.0,282510.0,2026-04-24,187916419,2788,Nagarik Stock Dealer ,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:28:48.650733,Ankhu Khola Jalvidhyut Company Ltd
+2026042404009944,AKJCL,60,7,500,387.0,193500.0,2026-04-24,187916422,2788,Nagarik Stock Dealer ,J.F. Securites (PVT) Ltd.,2026-04-24 14:28:48.652063,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010052,AKJCL,42,32,50,387.0,19350.0,2026-04-24,187917642,2788,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-24 14:30:55.514561,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010061,AKJCL,22,41,140,387.0,54180.0,2026-04-24,187917776,2788,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-24 14:31:04.582963,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010062,AKJCL,26,41,160,387.0,61920.0,2026-04-24,187917777,2788,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-24 14:31:04.583522,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010124,AKJCL,71,41,100,387.0,38700.0,2026-04-24,187918445,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Linch Stock Market Ltd.,2026-04-24 14:31:51.496757,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010340,AKJCL,71,46,500,387.0,193500.0,2026-04-24,187920137,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Kalika Securities Pvt. Ltd.,2026-04-24 14:34:39.016680,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010356,AKJCL,71,63,400,387.0,154800.0,2026-04-24,187920246,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Himalayan Brokerage Company Limited,2026-04-24 14:34:48.384692,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010357,AKJCL,13,63,50,387.0,19350.0,2026-04-24,187920248,2788,Thrive Brokerage House Pvt. Ltd,Himalayan Brokerage Company Limited,2026-04-24 14:34:48.385781,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010358,AKJCL,58,63,65,387.0,25155.0,2026-04-24,187920250,2788,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-24 14:34:48.386547,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010362,AKJCL,58,63,351,387.0,135837.0,2026-04-24,187920303,2788,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-24 14:34:53.096494,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010391,AKJCL,58,67,57,387.0,22059.0,2026-04-24,187920489,2788,Naasa Securities Co. Ltd.,Property Wiard Limited,2026-04-24 14:35:06.998348,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010399,AKJCL,95,62,1500,388.0,582000.0,2026-04-24,187920567,2788,Magnet Securities and Investment Company Private Limited,Capital Max Securities Ltd,2026-04-24 14:35:14.576602,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010400,AKJCL,95,62,1200,388.0,465600.0,2026-04-24,187920569,2788,Magnet Securities and Investment Company Private Limited,Capital Max Securities Ltd,2026-04-24 14:35:14.577104,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010401,AKJCL,95,58,180,388.0,69840.0,2026-04-24,187920571,2788,Magnet Securities and Investment Company Private Limited,Naasa Securities Co. Ltd.,2026-04-24 14:35:14.577359,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010463,AKJCL,50,67,10,388.0,3880.0,2026-04-24,187920964,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Property Wiard Limited,2026-04-24 14:35:47.413628,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010464,AKJCL,92,67,22,387.5,8525.0,2026-04-24,187920965,2788,Roadshow securities limited,Property Wiard Limited,2026-04-24 14:35:47.414858,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010576,AKJCL,95,32,200,387.5,77500.0,2026-04-24,187922223,2788,Magnet Securities and Investment Company Private Limited,Premier Securities Company Ltd.,2026-04-24 14:37:33.396735,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010602,AKJCL,86,71,569,388.9,221284.1,2026-04-24,187922317,2788,Stoxkarts Securities Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:37:38.634513,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010603,AKJCL,86,34,231,389.0,89859.0,2026-04-24,187922320,2788,Stoxkarts Securities Limited,Vision Securities Pvt. Ltd,2026-04-24 14:37:38.635044,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010681,AKJCL,71,101,500,387.7,193850.0,2026-04-24,187923125,2788,SHUBHAKAMANA SECURITIES PVT. LTD,APPLE SECURITIES PRIVATE LIMITED,2026-04-24 14:39:01.102708,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010717,AKJCL,71,62,20,387.7,7754.0,2026-04-24,187923541,2788,SHUBHAKAMANA SECURITIES PVT. LTD,Capital Max Securities Ltd,2026-04-24 14:39:29.190195,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010725,AKJCL,62,63,10,388.9,3889.0,2026-04-24,187923624,2788,Capital Max Securities Ltd,Himalayan Brokerage Company Limited,2026-04-24 14:39:41.755932,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010806,AKJCL,71,74,480,387.9,186192.0,2026-04-24,187924286,2788,SHUBHAKAMANA SECURITIES PVT. LTD,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:40:39.232627,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010807,AKJCL,26,74,20,387.8,7756.0,2026-04-24,187924287,2788,Asian Securities Private Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:40:39.233164,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010819,AKJCL,29,99,500,388.0,194000.0,2026-04-24,187924504,2788,Trisul Securities & Invt. Ltd.,Prabhu Stock Market Limited,2026-04-24 14:40:51.105731,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010829,AKJCL,72,99,100,388.0,38800.0,2026-04-24,187924604,2788,Hatemalo Financial Services Private Limited,Prabhu Stock Market Limited,2026-04-24 14:41:02.469816,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010845,AKJCL,26,82,975,387.8,378105.0,2026-04-24,187924730,2788,Asian Securities Private Ltd.,N.M.B. SECURITIES LIMITED,2026-04-24 14:41:14.410835,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010846,AKJCL,95,82,1820,387.5,705250.0,2026-04-24,187924732,2788,Magnet Securities and Investment Company Private Limited,N.M.B. SECURITIES LIMITED,2026-04-24 14:41:14.411369,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010847,AKJCL,35,82,100,387.2,38720.0,2026-04-24,187924734,2788,Kohinoor Investment & Securities Pvt. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-24 14:41:14.411623,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010848,AKJCL,92,82,478,387.1,185033.8,2026-04-24,187924736,2788,Roadshow securities limited,N.M.B. SECURITIES LIMITED,2026-04-24 14:41:14.411891,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010849,AKJCL,58,82,1527,387.0,590949.0,2026-04-24,187924737,2788,Naasa Securities Co. Ltd.,N.M.B. SECURITIES LIMITED,2026-04-24 14:41:14.412136,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010856,AKJCL,58,99,900,387.0,348300.0,2026-04-24,187924797,2788,Naasa Securities Co. Ltd.,Prabhu Stock Market Limited,2026-04-24 14:41:18.710855,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010860,AKJCL,58,48,25000,387.0,9675000.0,2026-04-24,187924905,2788,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:41:25.292271,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010881,AKJCL,58,67,500,387.0,193500.0,2026-04-24,187925021,2788,Naasa Securities Co. Ltd.,Property Wiard Limited,2026-04-24 14:41:33.416868,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010929,AKJCL,48,67,100,387.1,38710.0,2026-04-24,187925521,2788,Trishakti Securities Public Limited,Property Wiard Limited,2026-04-24 14:42:04.790628,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010962,AKJCL,28,74,10,388.8,3888.0,2026-04-24,187925890,2788,Shree Krishna Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:42:30.293742,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010970,AKJCL,92,74,990,388.8,384912.0,2026-04-24,187925965,2788,Roadshow securities limited,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:42:37.764199,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010971,AKJCL,92,63,1990,388.9,773911.0,2026-04-24,187925967,2788,Roadshow securities limited,Himalayan Brokerage Company Limited,2026-04-24 14:42:37.765258,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010972,AKJCL,92,34,20,389.0,7780.0,2026-04-24,187925970,2788,Roadshow securities limited,Vision Securities Pvt. Ltd,2026-04-24 14:42:37.766004,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010996,AKJCL,48,34,4749,389.0,1847361.0,2026-04-24,187926159,2788,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-24 14:42:53.733769,Ankhu Khola Jalvidhyut Company Ltd
+2026042404010997,AKJCL,48,71,251,389.7,97814.7,2026-04-24,187926162,2788,Trishakti Securities Public Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:42:53.733872,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011005,AKJCL,34,71,2249,389.7,876435.3,2026-04-24,187926241,2788,Vision Securities Pvt. Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:43:01.535898,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011006,AKJCL,34,32,2751,389.8,1072339.8,2026-04-24,187926244,2788,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-24 14:43:01.535951,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011017,AKJCL,94,62,1000,389.7,389700.0,2026-04-24,187926351,2788,K.B.L. Securities Limited ,Capital Max Securities Ltd,2026-04-24 14:43:09.309047,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011037,AKJCL,94,59,1000,389.7,389700.0,2026-04-24,187926691,2788,K.B.L. Securities Limited ,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 14:43:33.410206,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011038,AKJCL,28,32,749,389.8,291960.2,2026-04-24,187926693,2788,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-24 14:43:33.603990,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011039,AKJCL,28,98,51,389.9,19884.9,2026-04-24,187926697,2788,Shree Krishna Securities Ltd.,Trademow Securities Private Limited,2026-04-24 14:43:33.604066,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011044,AKJCL,32,98,25,389.9,9747.5,2026-04-24,187926800,2788,Premier Securities Company Ltd.,Trademow Securities Private Limited,2026-04-24 14:43:44.002558,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011122,AKJCL,36,65,300,389.6,116880.0,2026-04-24,187927771,2788,Secured Securities Ltd.,Sharepro Securities Private Limited,2026-04-24 14:44:42.555005,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011123,AKJCL,36,64,900,389.7,350730.0,2026-04-24,187927773,2788,Secured Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-24 14:44:42.556065,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011208,AKJCL,29,59,1000,389.7,389700.0,2026-04-24,187928759,2788,Trisul Securities & Invt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 14:45:36.745178,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011217,AKJCL,29,62,250,389.7,97425.0,2026-04-24,187928818,2788,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,2026-04-24 14:45:38.521800,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011218,AKJCL,22,62,250,388.2,97050.0,2026-04-24,187928819,2788,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 14:45:38.522874,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011313,AKJCL,28,44,10,389.8,3898.0,2026-04-24,187929760,2788,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:46:30.794900,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011351,AKJCL,36,1,20,389.7,7794.0,2026-04-24,187930193,2788,Secured Securities Ltd.,Kumari Securities Private Limited,2026-04-24 14:46:58.840860,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011352,AKJCL,36,44,315,389.8,122787.0,2026-04-24,187930196,2788,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:46:58.841926,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011404,AKJCL,19,56,70,389.0,27230.0,2026-04-24,187930760,2788,Nepal Investment And Securities Trading Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 14:47:27.988403,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011414,AKJCL,29,56,1500,389.0,583500.0,2026-04-24,187931034,2788,Trisul Securities & Invt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 14:47:37.677100,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011428,AKJCL,36,34,10,388.4,3884.0,2026-04-24,187931201,2788,Secured Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:47:47.288180,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011521,AKJCL,36,56,230,389.0,89470.0,2026-04-24,187932223,2788,Secured Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-24 14:48:48.055503,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011522,AKJCL,36,63,124,389.0,48236.0,2026-04-24,187932226,2788,Secured Securities Ltd.,Himalayan Brokerage Company Limited,2026-04-24 14:48:48.056573,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011524,AKJCL,36,63,100,389.0,38900.0,2026-04-24,187932290,2788,Secured Securities Ltd.,Himalayan Brokerage Company Limited,2026-04-24 14:48:50.631953,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011606,AKJCL,94,63,100,389.0,38900.0,2026-04-24,187933560,2788,K.B.L. Securities Limited ,Himalayan Brokerage Company Limited,2026-04-24 14:49:45.514905,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011702,AKJCL,64,45,10,388.5,3885.0,2026-04-24,187935008,2788,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:50:37.560051,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011720,AKJCL,64,62,490,388.5,190365.0,2026-04-24,187935118,2788,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-24 14:50:43.280333,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011721,AKJCL,29,62,10,388.5,3885.0,2026-04-24,187935119,2788,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,2026-04-24 14:50:43.280959,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011785,AKJCL,91,63,176,389.0,68464.0,2026-04-24,187935527,2788,Citizens Share Broker Limited,Himalayan Brokerage Company Limited,2026-04-24 14:51:00.292403,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011786,AKJCL,91,63,500,389.0,194500.0,2026-04-24,187935529,2788,Citizens Share Broker Limited,Himalayan Brokerage Company Limited,2026-04-24 14:51:00.292911,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011787,AKJCL,91,86,324,389.0,126036.0,2026-04-24,187935532,2788,Citizens Share Broker Limited,Stoxkarts Securities Limited,2026-04-24 14:51:00.293185,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011795,AKJCL,14,96,1000,388.9,388900.0,2026-04-24,187935638,2788,Nepal Stock House (PVT) Ltd.,Himalayan Securities Limited,2026-04-24 14:51:07.912308,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011796,AKJCL,48,96,1000,388.6,388600.0,2026-04-24,187935640,2788,Trishakti Securities Public Limited,Himalayan Securities Limited,2026-04-24 14:51:07.913382,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011797,AKJCL,29,96,1240,388.5,481740.0,2026-04-24,187935642,2788,Trisul Securities & Invt. Ltd.,Himalayan Securities Limited,2026-04-24 14:51:07.914143,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011798,AKJCL,32,96,1760,388.3,683408.0,2026-04-24,187935643,2788,Premier Securities Company Ltd.,Himalayan Securities Limited,2026-04-24 14:51:07.914880,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011834,AKJCL,28,86,10,389.0,3890.0,2026-04-24,187935920,2788,Shree Krishna Securities Ltd.,Stoxkarts Securities Limited,2026-04-24 14:51:21.933428,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011840,AKJCL,91,86,500,389.0,194500.0,2026-04-24,187936020,2788,Citizens Share Broker Limited,Stoxkarts Securities Limited,2026-04-24 14:51:25.984014,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011846,AKJCL,59,86,1000,389.0,389000.0,2026-04-24,187936047,2788,Deevyaa Securities & Stock House Pvt. Ltd,Stoxkarts Securities Limited,2026-04-24 14:51:27.121485,Ankhu Khola Jalvidhyut Company Ltd
+2026042404011987,AKJCL,62,64,1000,388.9,388900.0,2026-04-24,187936906,2788,Capital Max Securities Ltd,SUN SECURITIES PVT LTD,2026-04-24 14:52:03.888067,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012058,AKJCL,62,86,106,389.0,41234.0,2026-04-24,187937388,2788,Capital Max Securities Ltd,Stoxkarts Securities Limited,2026-04-24 14:52:28.416555,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012059,AKJCL,58,86,1000,389.0,389000.0,2026-04-24,187937401,2788,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:52:29.221765,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012102,AKJCL,32,14,240,388.3,93192.0,2026-04-24,187937872,2788,Premier Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 14:52:51.307975,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012103,AKJCL,43,14,360,388.3,139788.0,2026-04-24,187937873,2788,South Asian Bulls Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 14:52:51.308509,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012164,AKJCL,29,86,2060,389.0,801340.0,2026-04-24,187938361,2788,Trisul Securities & Invt. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:53:19.622564,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012165,AKJCL,29,64,500,389.7,194850.0,2026-04-24,187938363,2788,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-24 14:53:19.622632,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012166,AKJCL,29,22,50,389.7,19485.0,2026-04-24,187938365,2788,Trisul Securities & Invt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-24 14:53:19.622665,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012167,AKJCL,29,44,786,389.8,306382.8,2026-04-24,187938367,2788,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:53:19.622689,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012168,AKJCL,29,98,104,389.9,40549.6,2026-04-24,187938370,2788,Trisul Securities & Invt. Ltd.,Trademow Securities Private Limited,2026-04-24 14:53:19.622714,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012271,AKJCL,64,64,500,389.8,194900.0,2026-04-24,187939132,2788,SUN SECURITIES PVT LTD,SUN SECURITIES PVT LTD,2026-04-24 14:53:52.021021,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012281,AKJCL,34,74,100,389.0,38900.0,2026-04-24,187939257,2788,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:54:01.311808,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012383,AKJCL,28,44,300,388.9,116670.0,2026-04-24,187940318,2788,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:54:41.328361,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012400,AKJCL,32,44,500,388.9,194450.0,2026-04-24,187940458,2788,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:54:48.653146,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012405,AKJCL,42,44,1000,388.9,388900.0,2026-04-24,187940498,2788,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:54:49.455287,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012437,AKJCL,34,76,100,388.5,38850.0,2026-04-24,187940666,2788,Vision Securities Pvt. Ltd,Machhapuchchhre Securities Limited,2026-04-24 14:54:54.790048,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012448,AKJCL,64,76,100,388.5,38850.0,2026-04-24,187940810,2788,SUN SECURITIES PVT LTD,Machhapuchchhre Securities Limited,2026-04-24 14:54:58.785014,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012503,AKJCL,35,26,10,388.5,3885.0,2026-04-24,187941278,2788,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-24 14:55:18.962377,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012513,AKJCL,29,26,40,388.5,15540.0,2026-04-24,187941498,2788,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-24 14:55:26.139183,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012537,AKJCL,74,26,500,388.5,194250.0,2026-04-24,187941744,2788,KALASH STOCK MARKET PVT. LTD.,Asian Securities Private Ltd.,2026-04-24 14:55:34.779581,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012569,AKJCL,43,86,640,388.3,248512.0,2026-04-24,187941974,2788,South Asian Bulls Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:55:43.621307,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012570,AKJCL,22,86,250,388.2,97050.0,2026-04-24,187941976,2788,Siprabi Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:55:43.621914,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012571,AKJCL,41,86,50,388.0,19400.0,2026-04-24,187941978,2788,Linch Stock Market Ltd.,Stoxkarts Securities Limited,2026-04-24 14:55:43.622221,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012572,AKJCL,58,86,1000,388.0,388000.0,2026-04-24,187941980,2788,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:55:43.622505,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012693,AKJCL,62,62,1000,387.9,387900.0,2026-04-24,187943124,2788,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-24 14:56:27.275414,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012703,AKJCL,29,62,600,387.9,232740.0,2026-04-24,187943197,2788,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,2026-04-24 14:56:30.216152,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012704,AKJCL,29,86,1400,388.0,543200.0,2026-04-24,187943202,2788,Trisul Securities & Invt. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:56:30.216705,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012713,AKJCL,91,86,660,388.0,256080.0,2026-04-24,187943271,2788,Citizens Share Broker Limited,Stoxkarts Securities Limited,2026-04-24 14:56:34.012656,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012714,AKJCL,91,57,340,388.0,131920.0,2026-04-24,187943274,2788,Citizens Share Broker Limited,Aryatara Investment & Securities,2026-04-24 14:56:34.013211,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012759,AKJCL,95,57,660,388.0,256080.0,2026-04-24,187943835,2788,Magnet Securities and Investment Company Private Limited,Aryatara Investment & Securities,2026-04-24 14:56:51.365809,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012760,AKJCL,95,74,340,388.0,131920.0,2026-04-24,187943838,2788,Magnet Securities and Investment Company Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:56:51.366291,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012765,AKJCL,54,74,10,388.0,3880.0,2026-04-24,187943932,2788,Sewa Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:56:53.712689,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012773,AKJCL,48,74,50,388.0,19400.0,2026-04-24,187944035,2788,Trishakti Securities Public Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:56:55.955301,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012774,AKJCL,48,57,1000,388.0,388000.0,2026-04-24,187944037,2788,Trishakti Securities Public Limited,Aryatara Investment & Securities,2026-04-24 14:56:55.956354,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012806,AKJCL,48,37,260,388.0,100880.0,2026-04-24,187944225,2788,Trishakti Securities Public Limited,Swarna Laxmi Securities Pvt. Ltd.,2026-04-24 14:57:03.587729,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012817,AKJCL,54,71,10,388.7,3887.0,2026-04-24,187944316,2788,Sewa Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:57:07.581506,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012898,AKJCL,48,76,200,388.0,77600.0,2026-04-24,187944921,2788,Trishakti Securities Public Limited,Machhapuchchhre Securities Limited,2026-04-24 14:57:28.438780,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012918,AKJCL,48,71,2490,388.0,966120.0,2026-04-24,187945019,2788,Trishakti Securities Public Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-24 14:57:31.887345,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012977,AKJCL,48,5,1000,388.0,388000.0,2026-04-24,187945321,2788,Trishakti Securities Public Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-24 14:57:41.320063,Ankhu Khola Jalvidhyut Company Ltd
+2026042404012989,AKJCL,62,7,1000,387.7,387700.0,2026-04-24,187945367,2788,Capital Max Securities Ltd,J.F. Securites (PVT) Ltd.,2026-04-24 14:57:42.773504,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013044,AKJCL,62,60,8000,387.7,3101600.0,2026-04-24,187945873,2788,Capital Max Securities Ltd,Nagarik Stock Dealer ,2026-04-24 14:57:59.341416,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013061,AKJCL,62,94,1000,387.7,387700.0,2026-04-24,187946042,2788,Capital Max Securities Ltd,K.B.L. Securities Limited ,2026-04-24 14:58:02.361634,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013078,AKJCL,39,86,300,387.6,116280.0,2026-04-24,187946222,2788,Sumeru Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:58:08.172307,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013079,AKJCL,58,86,1000,387.5,387500.0,2026-04-24,187946224,2788,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:58:08.173377,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013080,AKJCL,42,86,100,387.2,38720.0,2026-04-24,187946226,2788,Sani Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-24 14:58:08.174145,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013081,AKJCL,65,86,1000,387.1,387100.0,2026-04-24,187946228,2788,Sharepro Securities Private Limited,Stoxkarts Securities Limited,2026-04-24 14:58:08.174969,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013082,AKJCL,42,86,50,387.1,19355.0,2026-04-24,187946230,2788,Sani Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-24 14:58:08.175707,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013083,AKJCL,58,86,2550,387.0,986850.0,2026-04-24,187946231,2788,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:58:08.176459,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013102,AKJCL,13,33,250,387.1,96775.0,2026-04-24,187946382,2788,Thrive Brokerage House Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 14:58:13.695066,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013103,AKJCL,58,33,250,387.0,96750.0,2026-04-24,187946383,2788,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 14:58:13.695578,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013136,AKJCL,58,58,5000,387.0,1935000.0,2026-04-24,187946711,2788,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:58:19.980976,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013141,AKJCL,58,86,1000,387.0,387000.0,2026-04-24,187946729,2788,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,2026-04-24 14:58:20.701330,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013144,AKJCL,60,94,200,387.7,77540.0,2026-04-24,187946766,2788,Nagarik Stock Dealer ,K.B.L. Securities Limited ,2026-04-24 14:58:20.975824,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013145,AKJCL,58,57,1000,387.0,387000.0,2026-04-24,187946767,2788,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-24 14:58:20.983771,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013147,AKJCL,58,74,500,387.0,193500.0,2026-04-24,187946775,2788,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:58:21.535098,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013176,AKJCL,36,94,10,387.7,3877.0,2026-04-24,187946964,2788,Secured Securities Ltd.,K.B.L. Securities Limited ,2026-04-24 14:58:27.839990,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013186,AKJCL,58,38,3000,387.0,1161000.0,2026-04-24,187947027,2788,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:58:29.443306,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013187,AKJCL,58,5,500,387.0,193500.0,2026-04-24,187947031,2788,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-24 14:58:29.748737,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013212,AKJCL,58,58,300,387.0,116100.0,2026-04-24,187947313,2788,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:58:36.492274,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013236,AKJCL,58,8,4490,387.0,1737630.0,2026-04-24,187947515,2788,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 14:58:39.835794,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013328,AKJCL,95,94,500,387.7,193850.0,2026-04-24,187948242,2788,Magnet Securities and Investment Company Private Limited,K.B.L. Securities Limited ,2026-04-24 14:58:56.774820,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013330,AKJCL,48,94,100,387.7,38770.0,2026-04-24,187948286,2788,Trishakti Securities Public Limited,K.B.L. Securities Limited ,2026-04-24 14:58:57.724845,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013352,AKJCL,94,94,2000,387.1,774200.0,2026-04-24,187948518,2788,K.B.L. Securities Limited ,K.B.L. Securities Limited ,2026-04-24 14:59:03.316924,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013353,AKJCL,59,94,500,387.1,193550.0,2026-04-24,187948520,2788,Deevyaa Securities & Stock House Pvt. Ltd,K.B.L. Securities Limited ,2026-04-24 14:59:03.316969,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013354,AKJCL,58,94,500,387.0,193500.0,2026-04-24,187948521,2788,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-24 14:59:03.316995,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013393,AKJCL,48,94,3190,387.7,1236763.0,2026-04-24,187948733,2788,Trishakti Securities Public Limited,K.B.L. Securities Limited ,2026-04-24 14:59:07.840325,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013394,AKJCL,48,66,1000,388.0,388000.0,2026-04-24,187948735,2788,Trishakti Securities Public Limited,Miyo Securities Pvt Ltd,2026-04-24 14:59:07.840808,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013395,AKJCL,48,57,810,388.0,314280.0,2026-04-24,187948738,2788,Trishakti Securities Public Limited,Aryatara Investment & Securities,2026-04-24 14:59:07.841064,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013511,AKJCL,58,35,500,387.0,193500.0,2026-04-24,187949849,2788,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 14:59:24.684296,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013532,AKJCL,58,26,43,387.1,16645.3,2026-04-24,187949954,2788,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-24 14:59:25.600711,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013535,AKJCL,58,50,300,387.0,116100.0,2026-04-24,187950079,2788,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 14:59:26.825878,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013536,AKJCL,48,26,857,387.1,331744.7,2026-04-24,187950083,2788,Trishakti Securities Public Limited,Asian Securities Private Ltd.,2026-04-24 14:59:26.847707,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013537,AKJCL,48,57,190,388.0,73720.0,2026-04-24,187950085,2788,Trishakti Securities Public Limited,Aryatara Investment & Securities,2026-04-24 14:59:26.847798,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013538,AKJCL,48,74,500,388.0,194000.0,2026-04-24,187950087,2788,Trishakti Securities Public Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:59:26.847880,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013539,AKJCL,48,44,422,388.9,164115.8,2026-04-24,187950089,2788,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 14:59:26.847956,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013540,AKJCL,48,74,500,389.0,194500.0,2026-04-24,187950091,2788,Trishakti Securities Public Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:59:26.848035,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013541,AKJCL,48,64,500,389.8,194900.0,2026-04-24,187950093,2788,Trishakti Securities Public Limited,SUN SECURITIES PVT LTD,2026-04-24 14:59:26.848113,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013542,AKJCL,48,87,250,389.8,97450.0,2026-04-24,187950095,2788,Trishakti Securities Public Limited,S.P.S.A. Securities Limited,2026-04-24 14:59:26.848200,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013543,AKJCL,48,98,590,389.9,230041.0,2026-04-24,187950097,2788,Trishakti Securities Public Limited,Trademow Securities Private Limited,2026-04-24 14:59:26.848281,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013544,AKJCL,48,45,1191,389.9,464370.9,2026-04-24,187950100,2788,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:26.848374,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013551,AKJCL,42,45,1000,389.9,389900.0,2026-04-24,187950133,2788,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:27.497935,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013659,AKJCL,51,39,300,387.8,116340.0,2026-04-24,187950959,2788,Oxford Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:59:39.704188,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013793,AKJCL,71,64,500,387.1,193550.0,2026-04-24,187952051,2788,SHUBHAKAMANA SECURITIES PVT. LTD,SUN SECURITIES PVT LTD,2026-04-24 14:59:54.274389,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013808,AKJCL,10,69,50,388.0,19400.0,2026-04-24,187952235,2788,Pragyan Securities (PVT) Ltd.,INDEX SECURITIES LIMITED,2026-04-24 14:59:56.025067,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013809,AKJCL,10,17,150,388.0,58200.0,2026-04-24,187952238,2788,Pragyan Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-24 14:59:56.025580,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013813,AKJCL,81,58,300,387.1,116130.0,2026-04-24,187952255,2788,Aakashbhairab Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:59:56.423598,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013817,AKJCL,34,17,50,388.0,19400.0,2026-04-24,187952263,2788,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-24 14:59:56.595703,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013818,AKJCL,34,76,50,389.0,19450.0,2026-04-24,187952266,2788,Vision Securities Pvt. Ltd,Machhapuchchhre Securities Limited,2026-04-24 14:59:56.595756,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013820,AKJCL,81,17,500,387.1,193550.0,2026-04-24,187952289,2788,Aakashbhairab Securities Ltd.,ABC Securities Private Limited,2026-04-24 14:59:56.740503,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013893,AKJCL,50,76,150,389.0,58350.0,2026-04-24,187953097,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Machhapuchchhre Securities Limited,2026-04-24 14:59:59.099075,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013894,AKJCL,50,45,850,389.9,331415.0,2026-04-24,187953103,2788,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:59.099127,Ankhu Khola Jalvidhyut Company Ltd
+2026042404013904,AKJCL,60,45,100,389.9,38990.0,2026-04-24,187953214,2788,Nagarik Stock Dealer ,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:59.420985,Ankhu Khola Jalvidhyut Company Ltd

@@ -1,0 +1,112 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042903000001,NABBC,33,66,10,1172.0,11720.0,2026-04-29,188417953,172,Dakshinkali Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-29 10:46:00.013606,Narayani Development Bank Limited
+2026042903000081,NABBC,45,17,10,1207.1,12071.0,2026-04-29,188420306,172,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-29 11:02:28.638061,Narayani Development Bank Limited
+2026042903000094,NABBC,57,17,10,1180.0,11800.0,2026-04-29,188421199,172,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-29 11:03:05.639109,Narayani Development Bank Limited
+2026042903000127,NABBC,57,46,10,1180.0,11800.0,2026-04-29,188423301,172,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-29 11:04:47.505253,Narayani Development Bank Limited
+2026042903000135,NABBC,33,46,15,1174.1,17611.5,2026-04-29,188423965,172,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-29 11:05:25.531307,Narayani Development Bank Limited
+2026042903000446,NABBC,45,42,10,1208.0,12080.0,2026-04-29,188447890,172,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 11:22:34.948862,Narayani Development Bank Limited
+2026042903000603,NABBC,26,21,16,1187.0,18992.0,2026-04-29,188456223,172,Asian Securities Private Ltd.,Midas Stock Broking Company Private Limited,2026-04-29 11:29:42.742538,Narayani Development Bank Limited
+2026042903000630,NABBC,26,14,12,1187.0,14244.0,2026-04-29,188457309,172,Asian Securities Private Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 11:30:38.981482,Narayani Development Bank Limited
+2026042903000781,NABBC,58,14,20,1190.0,23800.0,2026-04-29,188462137,172,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 11:34:52.358284,Narayani Development Bank Limited
+2026042903000938,NABBC,58,14,20,1191.0,23820.0,2026-04-29,188468963,172,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 11:42:12.807822,Narayani Development Bank Limited
+2026042903000976,NABBC,22,42,50,1192.9,59645.0,2026-04-29,188470651,172,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-29 11:44:23.335814,Narayani Development Bank Limited
+2026042903001035,NABBC,58,33,30,1188.0,35640.0,2026-04-29,188473026,172,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 11:46:58.996456,Narayani Development Bank Limited
+2026042903001036,NABBC,49,33,170,1188.0,201960.0,2026-04-29,188473027,172,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 11:46:58.996589,Narayani Development Bank Limited
+2026042903001086,NABBC,49,14,20,1188.0,23760.0,2026-04-29,188475193,172,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 11:49:42.382079,Narayani Development Bank Limited
+2026042903001124,NABBC,56,14,10,1189.0,11890.0,2026-04-29,188477271,172,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 11:51:41.486871,Narayani Development Bank Limited
+2026042903001425,NABBC,43,56,173,1190.0,205870.0,2026-04-29,188486218,172,South Asian Bulls Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:00:40.008007,Narayani Development Bank Limited
+2026042903001517,NABBC,57,56,10,1190.0,11900.0,2026-04-29,188488824,172,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:03:42.367145,Narayani Development Bank Limited
+2026042903001527,NABBC,22,56,14,1190.0,16660.0,2026-04-29,188489434,172,Siprabi Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:04:14.979201,Narayani Development Bank Limited
+2026042903001536,NABBC,49,56,10,1190.0,11900.0,2026-04-29,188489554,172,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:04:25.570453,Narayani Development Bank Limited
+2026042903001575,NABBC,49,56,40,1190.0,47600.0,2026-04-29,188490504,172,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:05:32.325422,Narayani Development Bank Limited
+2026042903001656,NABBC,22,56,20,1190.0,23800.0,2026-04-29,188493270,172,Siprabi Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:08:42.964664,Narayani Development Bank Limited
+2026042903001801,NABBC,56,14,20,1189.0,23780.0,2026-04-29,188497561,172,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 12:13:58.555144,Narayani Development Bank Limited
+2026042903001817,NABBC,56,56,54,1189.0,64206.0,2026-04-29,188498243,172,Sri Hari Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:14:41.480958,Narayani Development Bank Limited
+2026042903001818,NABBC,49,56,60,1188.0,71280.0,2026-04-29,188498245,172,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:14:41.481060,Narayani Development Bank Limited
+2026042903001819,NABBC,26,56,22,1187.0,26114.0,2026-04-29,188498247,172,Asian Securities Private Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:14:41.481102,Narayani Development Bank Limited
+2026042903001820,NABBC,21,56,10,1185.0,11850.0,2026-04-29,188498249,172,Midas Stock Broking Company Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:14:41.481140,Narayani Development Bank Limited
+2026042903001821,NABBC,49,56,200,1185.0,237000.0,2026-04-29,188498251,172,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:14:41.481181,Narayani Development Bank Limited
+2026042903001920,NABBC,39,56,80,1185.0,94800.0,2026-04-29,188503434,172,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-29 12:21:07.615330,Narayani Development Bank Limited
+2026042903001929,NABBC,39,92,10,1206.9,12069.0,2026-04-29,188503670,172,Sumeru Securities Pvt. Ltd.,Roadshow securities limited,2026-04-29 12:21:27.937107,Narayani Development Bank Limited
+2026042903001942,NABBC,71,71,1600,1185.0,1896000.0,2026-04-29,188504062,172,SHUBHAKAMANA SECURITIES PVT. LTD,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 12:21:55.291008,Narayani Development Bank Limited
+2026042903001952,NABBC,71,71,1600,1186.0,1897600.0,2026-04-29,188504472,172,SHUBHAKAMANA SECURITIES PVT. LTD,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-29 12:22:23.543383,Narayani Development Bank Limited
+2026042903001990,NABBC,39,14,10,1206.0,12060.0,2026-04-29,188506128,172,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 12:24:19.033362,Narayani Development Bank Limited
+2026042903002831,NABBC,62,38,20,1181.1,23622.0,2026-04-29,188532072,172,Capital Max Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 13:04:00.401843,Narayani Development Bank Limited
+2026042903002832,NABBC,22,38,18,1181.0,21258.0,2026-04-29,188532074,172,Siprabi Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 13:04:00.402014,Narayani Development Bank Limited
+2026042903002888,NABBC,17,38,10,1181.0,11810.0,2026-04-29,188533609,172,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 13:06:35.465634,Narayani Development Bank Limited
+2026042903003198,NABBC,89,14,20,1183.0,23660.0,2026-04-29,188540843,172,Global IME Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-29 13:18:46.099541,Narayani Development Bank Limited
+2026042903003224,NABBC,89,14,20,1183.0,23660.0,2026-04-29,188541459,172,Global IME Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-29 13:20:00.471653,Narayani Development Bank Limited
+2026042903003453,NABBC,49,66,161,1186.0,190946.0,2026-04-29,188545047,172,Online Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-29 13:25:39.828388,Narayani Development Bank Limited
+2026042903003466,NABBC,63,22,45,1185.0,53325.0,2026-04-29,188545567,172,Himalayan Brokerage Company Limited,Siprabi Securities Pvt. Ltd.,2026-04-29 13:26:32.871755,Narayani Development Bank Limited
+2026042903003806,NABBC,57,16,20,1186.0,23720.0,2026-04-29,188552613,172,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-29 13:39:28.477757,Narayani Development Bank Limited
+2026042903003828,NABBC,63,16,55,1185.0,65175.0,2026-04-29,188552887,172,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,2026-04-29 13:40:00.409948,Narayani Development Bank Limited
+2026042903003846,NABBC,89,16,25,1183.0,29575.0,2026-04-29,188553259,172,Global IME Securities Limited,Primo Securities (PVT) Ltd.,2026-04-29 13:40:43.768632,Narayani Development Bank Limited
+2026042903004055,NABBC,89,95,50,1183.0,59150.0,2026-04-29,188558087,172,Global IME Securities Limited,Magnet Securities and Investment Company Private Limited,2026-04-29 13:49:13.113288,Narayani Development Bank Limited
+2026042903004629,NABBC,89,66,85,1183.0,100555.0,2026-04-29,188569836,172,Global IME Securities Limited,Miyo Securities Pvt Ltd,2026-04-29 14:09:05.018424,Narayani Development Bank Limited
+2026042903004630,NABBC,36,66,10,1183.0,11830.0,2026-04-29,188569838,172,Secured Securities Ltd.,Miyo Securities Pvt Ltd,2026-04-29 14:09:05.018547,Narayani Development Bank Limited
+2026042903004631,NABBC,22,66,20,1183.0,23660.0,2026-04-29,188569839,172,Siprabi Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-29 14:09:05.018626,Narayani Development Bank Limited
+2026042903004823,NABBC,22,92,30,1183.0,35490.0,2026-04-29,188573820,172,Siprabi Securities Pvt. Ltd.,Roadshow securities limited,2026-04-29 14:16:00.758433,Narayani Development Bank Limited
+2026042903004824,NABBC,36,92,10,1183.0,11830.0,2026-04-29,188573822,172,Secured Securities Ltd.,Roadshow securities limited,2026-04-29 14:16:00.758583,Narayani Development Bank Limited
+2026042903004825,NABBC,35,92,10,1182.0,11820.0,2026-04-29,188573824,172,Kohinoor Investment & Securities Pvt. Ltd.,Roadshow securities limited,2026-04-29 14:16:00.758637,Narayani Development Bank Limited
+2026042903004826,NABBC,35,92,30,1181.0,35430.0,2026-04-29,188573826,172,Kohinoor Investment & Securities Pvt. Ltd.,Roadshow securities limited,2026-04-29 14:16:00.758684,Narayani Development Bank Limited
+2026042903004827,NABBC,41,92,10,1180.1,11801.0,2026-04-29,188573828,172,Linch Stock Market Ltd.,Roadshow securities limited,2026-04-29 14:16:00.758738,Narayani Development Bank Limited
+2026042903004828,NABBC,49,92,10,1180.0,11800.0,2026-04-29,188573829,172,Online Securities Pvt. Ltd.,Roadshow securities limited,2026-04-29 14:16:00.758788,Narayani Development Bank Limited
+2026042903004899,NABBC,49,44,290,1180.0,342200.0,2026-04-29,188575558,172,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:19:01.619716,Narayani Development Bank Limited
+2026042903004900,NABBC,17,44,50,1180.0,59000.0,2026-04-29,188575560,172,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:19:01.619946,Narayani Development Bank Limited
+2026042903004901,NABBC,35,44,40,1180.0,47200.0,2026-04-29,188575561,172,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:19:01.620107,Narayani Development Bank Limited
+2026042903004939,NABBC,41,85,10,1177.0,11770.0,2026-04-29,188576514,172,Linch Stock Market Ltd.,Capital Hub P. Ltd,2026-04-29 14:20:15.880844,Narayani Development Bank Limited
+2026042903004940,NABBC,6,85,50,1177.0,58850.0,2026-04-29,188576516,172,Agrawal Securities (PVT) Ltd.,Capital Hub P. Ltd,2026-04-29 14:20:15.881087,Narayani Development Bank Limited
+2026042903004941,NABBC,42,85,10,1177.0,11770.0,2026-04-29,188576518,172,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-29 14:20:15.881226,Narayani Development Bank Limited
+2026042903004942,NABBC,25,85,100,1175.7,117570.0,2026-04-29,188576520,172,Sweta Securities Private Limited,Capital Hub P. Ltd,2026-04-29 14:20:15.881356,Narayani Development Bank Limited
+2026042903004943,NABBC,41,85,10,1175.0,11750.0,2026-04-29,188576522,172,Linch Stock Market Ltd.,Capital Hub P. Ltd,2026-04-29 14:20:15.881480,Narayani Development Bank Limited
+2026042903004944,NABBC,34,85,50,1175.0,58750.0,2026-04-29,188576524,172,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,2026-04-29 14:20:15.881617,Narayani Development Bank Limited
+2026042903004945,NABBC,58,85,150,1175.0,176250.0,2026-04-29,188576526,172,Naasa Securities Co. Ltd.,Capital Hub P. Ltd,2026-04-29 14:20:15.881740,Narayani Development Bank Limited
+2026042903004946,NABBC,45,85,350,1175.0,411250.0,2026-04-29,188576528,172,Imperial Securities Company Pvt. Ltd.,Capital Hub P. Ltd,2026-04-29 14:20:15.881861,Narayani Development Bank Limited
+2026042903004947,NABBC,81,85,70,1175.0,82250.0,2026-04-29,188576529,172,Aakashbhairab Securities Ltd.,Capital Hub P. Ltd,2026-04-29 14:20:15.881981,Narayani Development Bank Limited
+2026042903005024,NABBC,81,33,130,1175.0,152750.0,2026-04-29,188577498,172,Aakashbhairab Securities Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 14:21:42.982159,Narayani Development Bank Limited
+2026042903005025,NABBC,42,33,102,1175.0,119850.0,2026-04-29,188577500,172,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 14:21:42.982269,Narayani Development Bank Limited
+2026042903005026,NABBC,6,33,268,1175.0,314900.0,2026-04-29,188577501,172,Agrawal Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-29 14:21:42.982319,Narayani Development Bank Limited
+2026042903005131,NABBC,42,86,10,1192.0,11920.0,2026-04-29,188580208,172,Sani Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-29 14:25:01.756390,Narayani Development Bank Limited
+2026042903005898,NABBC,32,86,50,1187.9,59395.0,2026-04-29,188597782,172,Premier Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-29 14:42:16.327561,Narayani Development Bank Limited
+2026042903006014,NABBC,6,74,232,1175.0,272600.0,2026-04-29,188599930,172,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:44:26.270819,Narayani Development Bank Limited
+2026042903006015,NABBC,5,74,50,1175.0,58750.0,2026-04-29,188599932,172,Market Securities & Exchange (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:44:26.271039,Narayani Development Bank Limited
+2026042903006016,NABBC,35,74,20,1175.0,23500.0,2026-04-29,188599934,172,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:44:26.271176,Narayani Development Bank Limited
+2026042903006017,NABBC,26,74,50,1175.0,58750.0,2026-04-29,188599936,172,Asian Securities Private Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:44:26.271298,Narayani Development Bank Limited
+2026042903006018,NABBC,46,74,248,1175.0,291400.0,2026-04-29,188599937,172,Kalika Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-29 14:44:26.271429,Narayani Development Bank Limited
+2026042903006121,NABBC,48,19,95,1174.0,111530.0,2026-04-29,188602121,172,Trishakti Securities Public Limited,Nepal Investment And Securities Trading Private Limited,2026-04-29 14:46:17.381009,Narayani Development Bank Limited
+2026042903006201,NABBC,20,86,25,1172.0,29300.0,2026-04-29,188603508,172,Sipla Securities Private Limited,Stoxkarts Securities Limited,2026-04-29 14:47:31.976233,Narayani Development Bank Limited
+2026042903006202,NABBC,17,86,100,1170.0,117000.0,2026-04-29,188603510,172,ABC Securities Private Limited,Stoxkarts Securities Limited,2026-04-29 14:47:31.976444,Narayani Development Bank Limited
+2026042903006203,NABBC,64,86,200,1170.0,234000.0,2026-04-29,188603512,172,SUN SECURITIES PVT LTD,Stoxkarts Securities Limited,2026-04-29 14:47:31.976602,Narayani Development Bank Limited
+2026042903006204,NABBC,17,86,10,1170.0,11700.0,2026-04-29,188603514,172,ABC Securities Private Limited,Stoxkarts Securities Limited,2026-04-29 14:47:31.976731,Narayani Development Bank Limited
+2026042903006205,NABBC,28,86,50,1170.0,58500.0,2026-04-29,188603516,172,Shree Krishna Securities Ltd.,Stoxkarts Securities Limited,2026-04-29 14:47:31.976858,Narayani Development Bank Limited
+2026042903006206,NABBC,42,86,50,1170.0,58500.0,2026-04-29,188603518,172,Sani Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-29 14:47:31.976976,Narayani Development Bank Limited
+2026042903006272,NABBC,1,14,25,1165.0,29125.0,2026-04-29,188605247,172,Kumari Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-29 14:48:56.657886,Narayani Development Bank Limited
+2026042903006399,NABBC,11,44,10,1166.0,11660.0,2026-04-29,188607637,172,Malla & Malla Stock Broking Company Pvt. Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:50:43.947501,Narayani Development Bank Limited
+2026042903006437,NABBC,1,45,25,1165.0,29125.0,2026-04-29,188608538,172,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:51:29.293832,Narayani Development Bank Limited
+2026042903006442,NABBC,69,45,10,1165.0,11650.0,2026-04-29,188608590,172,INDEX SECURITIES LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:51:31.256056,Narayani Development Bank Limited
+2026042903006508,NABBC,58,44,10,1163.1,11631.0,2026-04-29,188609704,172,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.378360,Narayani Development Bank Limited
+2026042903006509,NABBC,58,44,10,1163.0,11630.0,2026-04-29,188609706,172,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.378541,Narayani Development Bank Limited
+2026042903006510,NABBC,58,44,10,1162.3,11623.0,2026-04-29,188609708,172,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.378660,Narayani Development Bank Limited
+2026042903006511,NABBC,7,44,100,1162.2,116220.0,2026-04-29,188609710,172,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.378780,Narayani Development Bank Limited
+2026042903006512,NABBC,5,44,100,1160.0,116000.0,2026-04-29,188609712,172,Market Securities & Exchange (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.378897,Narayani Development Bank Limited
+2026042903006513,NABBC,21,44,20,1160.0,23200.0,2026-04-29,188609714,172,Midas Stock Broking Company Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.379010,Narayani Development Bank Limited
+2026042903006514,NABBC,17,44,10,1160.0,11600.0,2026-04-29,188609716,172,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.379148,Narayani Development Bank Limited
+2026042903006515,NABBC,17,44,20,1160.0,23200.0,2026-04-29,188609718,172,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.379258,Narayani Development Bank Limited
+2026042903006516,NABBC,21,44,200,1157.0,231400.0,2026-04-29,188609720,172,Midas Stock Broking Company Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:16.379385,Narayani Development Bank Limited
+2026042903006521,NABBC,63,44,10,1157.0,11570.0,2026-04-29,188609763,172,Himalayan Brokerage Company Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-29 14:52:19.020713,Narayani Development Bank Limited
+2026042903006620,NABBC,39,45,65,1165.0,75725.0,2026-04-29,188612033,172,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-29 14:53:57.416343,Narayani Development Bank Limited
+2026042903006621,NABBC,39,14,25,1165.0,29125.0,2026-04-29,188612035,172,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-29 14:53:57.416466,Narayani Development Bank Limited
+2026042903006622,NABBC,39,95,10,1169.0,11690.0,2026-04-29,188612038,172,Sumeru Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-29 14:53:57.416531,Narayani Development Bank Limited
+2026042903006719,NABBC,49,86,45,1170.0,52650.0,2026-04-29,188614076,172,Online Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-29 14:55:14.160610,Narayani Development Bank Limited
+2026042903006972,NABBC,39,51,100,1165.0,116500.0,2026-04-29,188618470,172,Sumeru Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-29 14:57:55.135191,Narayani Development Bank Limited
+2026042903006981,NABBC,69,86,10,1170.0,11700.0,2026-04-29,188619045,172,INDEX SECURITIES LIMITED,Stoxkarts Securities Limited,2026-04-29 14:58:11.376016,Narayani Development Bank Limited
+2026042903007086,NABBC,21,39,37,1165.0,43105.0,2026-04-29,188622082,172,Midas Stock Broking Company Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:59:20.147889,Narayani Development Bank Limited
+2026042903007087,NABBC,33,39,10,1161.1,11611.0,2026-04-29,188622084,172,Dakshinkali Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:59:20.147990,Narayani Development Bank Limited
+2026042903007088,NABBC,68,39,353,1157.5,408597.5,2026-04-29,188622085,172,Elite Stock House Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:59:20.148042,Narayani Development Bank Limited
+2026042903007160,NABBC,1,39,50,1160.0,58000.0,2026-04-29,188623005,172,Kumari Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-29 14:59:35.842886,Narayani Development Bank Limited
+2026042903007270,NABBC,1,62,150,1160.0,174000.0,2026-04-29,188624774,172,Kumari Securities Private Limited,Capital Max Securities Ltd,2026-04-29 14:59:57.325265,Narayani Development Bank Limited
+2026042903007271,NABBC,49,62,20,1158.0,23160.0,2026-04-29,188624776,172,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 14:59:57.325305,Narayani Development Bank Limited
+2026042903007272,NABBC,68,62,47,1157.5,54402.5,2026-04-29,188624778,172,Elite Stock House Limited,Capital Max Securities Ltd,2026-04-29 14:59:57.325329,Narayani Development Bank Limited
+2026042903007273,NABBC,63,62,100,1157.0,115700.0,2026-04-29,188624780,172,Himalayan Brokerage Company Limited,Capital Max Securities Ltd,2026-04-29 14:59:57.325364,Narayani Development Bank Limited
+2026042903007274,NABBC,32,62,183,1156.0,211548.0,2026-04-29,188624781,172,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-29 14:59:57.325391,Narayani Development Bank Limited
+2026042903007450,NABBC,69,43,10,1169.9,11699.0,2026-04-29,188625828,172,INDEX SECURITIES LIMITED,South Asian Bulls Pvt. Ltd.,2026-04-29 14:59:59.624576,Narayani Development Bank Limited

@@ -1,0 +1,62 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042303000073,JFL,32,42,80,429.0,34320.0,2026-04-23,187619287,250,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 11:04:50.800173,Janaki Finance Company Limited
+2026042303000074,JFL,32,42,20,430.0,8600.0,2026-04-23,187619290,250,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 11:04:50.800218,Janaki Finance Company Limited
+2026042303000273,JFL,45,10,300,425.0,127500.0,2026-04-23,187627073,250,Imperial Securities Company Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-23 11:12:38.160241,Janaki Finance Company Limited
+2026042303000274,JFL,45,29,80,426.0,34080.0,2026-04-23,187627075,250,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 11:12:38.160312,Janaki Finance Company Limited
+2026042303000275,JFL,45,42,100,426.9,42690.0,2026-04-23,187627077,250,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:12:38.160367,Janaki Finance Company Limited
+2026042303000276,JFL,45,58,105,427.0,44835.0,2026-04-23,187627080,250,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:12:38.160402,Janaki Finance Company Limited
+2026042303000291,JFL,58,58,20,427.0,8540.0,2026-04-23,187628032,250,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:13:32.434232,Janaki Finance Company Limited
+2026042303000372,JFL,42,41,10,425.0,4250.0,2026-04-23,187632413,250,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-23 11:17:34.962613,Janaki Finance Company Limited
+2026042303000437,JFL,49,90,11,420.0,4620.0,2026-04-23,187635345,250,Online Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-23 11:20:12.650751,Janaki Finance Company Limited
+2026042303000452,JFL,49,14,499,420.0,209580.0,2026-04-23,187636051,250,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:20:58.804181,Janaki Finance Company Limited
+2026042303000613,JFL,58,58,20,418.0,8360.0,2026-04-23,187643046,250,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:26:54.456613,Janaki Finance Company Limited
+2026042303001414,JFL,5,77,200,416.6,83320.0,2026-04-23,187671541,250,Market Securities & Exchange (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 11:58:35.872291,Janaki Finance Company Limited
+2026042303001428,JFL,5,13,10,416.5,4165.0,2026-04-23,187672111,250,Market Securities & Exchange (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 11:59:24.951325,Janaki Finance Company Limited
+2026042303001452,JFL,17,77,96,416.2,39955.2,2026-04-23,187673461,250,ABC Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:00:56.000245,Janaki Finance Company Limited
+2026042303001463,JFL,17,58,30,416.2,12486.0,2026-04-23,187673937,250,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 12:01:30.132768,Janaki Finance Company Limited
+2026042303001489,JFL,17,28,74,416.2,30798.8,2026-04-23,187674698,250,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-23 12:02:34.210174,Janaki Finance Company Limited
+2026042303001594,JFL,17,58,50,416.0,20800.0,2026-04-23,187678849,250,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 12:07:19.989698,Janaki Finance Company Limited
+2026042303001652,JFL,17,1,25,416.0,10400.0,2026-04-23,187681373,250,ABC Securities Private Limited,Kumari Securities Private Limited,2026-04-23 12:10:55.586483,Janaki Finance Company Limited
+2026042303001666,JFL,28,28,26,416.2,10821.2,2026-04-23,187681934,250,Shree Krishna Securities Ltd.,Shree Krishna Securities Ltd.,2026-04-23 12:11:50.584016,Janaki Finance Company Limited
+2026042303001816,JFL,29,22,55,418.0,22990.0,2026-04-23,187686687,250,Trisul Securities & Invt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:18:34.435407,Janaki Finance Company Limited
+2026042303001817,JFL,29,49,45,419.9,18895.5,2026-04-23,187686690,250,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:18:34.435512,Janaki Finance Company Limited
+2026042303001975,JFL,58,49,10,419.9,4199.0,2026-04-23,187692856,250,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:27:56.585891,Janaki Finance Company Limited
+2026042303002251,JFL,43,28,100,419.0,41900.0,2026-04-23,187700121,250,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 12:40:24.486313,Janaki Finance Company Limited
+2026042303002608,JFL,21,49,20,419.9,8398.0,2026-04-23,187707892,250,Midas Stock Broking Company Private Limited,Online Securities Pvt. Ltd.,2026-04-23 12:53:36.208663,Janaki Finance Company Limited
+2026042303002756,JFL,41,49,25,419.9,10497.5,2026-04-23,187711987,250,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:59:40.254435,Janaki Finance Company Limited
+2026042303002757,JFL,41,51,27,419.9,11337.3,2026-04-23,187711990,250,Linch Stock Market Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 12:59:40.254688,Janaki Finance Company Limited
+2026042303003381,JFL,57,42,10,420.0,4200.0,2026-04-23,187727283,250,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 13:21:58.404234,Janaki Finance Company Limited
+2026042303003382,JFL,57,53,90,420.0,37800.0,2026-04-23,187727286,250,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:21:58.404484,Janaki Finance Company Limited
+2026042303003619,JFL,17,57,15,417.0,6255.0,2026-04-23,187733825,250,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-23 13:31:08.479230,Janaki Finance Company Limited
+2026042303003825,JFL,17,45,10,417.0,4170.0,2026-04-23,187738750,250,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:39:47.208011,Janaki Finance Company Limited
+2026042303003826,JFL,50,45,105,417.0,43785.0,2026-04-23,187738752,250,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:39:47.208280,Janaki Finance Company Limited
+2026042303003952,JFL,58,45,100,417.0,41700.0,2026-04-23,187741210,250,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:44:59.888790,Janaki Finance Company Limited
+2026042303004225,JFL,11,45,100,417.0,41700.0,2026-04-23,187746722,250,Malla & Malla Stock Broking Company Pvt. Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:57:33.684386,Janaki Finance Company Limited
+2026042303004241,JFL,29,41,1,404.5,404.5,2026-04-23,187747237,250,Trisul Securities & Invt. Ltd.,Linch Stock Market Ltd.,2026-04-23 13:58:35.458856,Janaki Finance Company Limited
+2026042303004425,JFL,58,45,30,417.0,12510.0,2026-04-23,187751442,250,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:06:58.611486,Janaki Finance Company Limited
+2026042303004773,JFL,6,34,20,416.5,8330.0,2026-04-23,187759672,250,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:21:30.464278,Janaki Finance Company Limited
+2026042303004774,JFL,49,34,100,416.2,41620.0,2026-04-23,187759674,250,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:21:30.464419,Janaki Finance Company Limited
+2026042303004775,JFL,5,34,10,416.1,4161.0,2026-04-23,187759675,250,Market Securities & Exchange (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:21:30.464477,Janaki Finance Company Limited
+2026042303004898,JFL,5,51,30,416.1,12483.0,2026-04-23,187762309,250,Market Securities & Exchange (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:26:09.053721,Janaki Finance Company Limited
+2026042303005446,JFL,5,45,95,416.1,39529.5,2026-04-23,187774799,250,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:43:34.404721,Janaki Finance Company Limited
+2026042303005554,JFL,5,4,65,416.1,27046.5,2026-04-23,187777574,250,Market Securities & Exchange (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 14:46:18.919381,Janaki Finance Company Limited
+2026042303005555,JFL,11,4,205,416.0,85280.0,2026-04-23,187777575,250,Malla & Malla Stock Broking Company Pvt. Limited,Opal Securities Investment (PVT) Ltd.,2026-04-23 14:46:18.919654,Janaki Finance Company Limited
+2026042303005569,JFL,11,4,10,416.0,4160.0,2026-04-23,187777757,250,Malla & Malla Stock Broking Company Pvt. Limited,Opal Securities Investment (PVT) Ltd.,2026-04-23 14:46:32.789700,Janaki Finance Company Limited
+2026042303005570,JFL,11,14,100,416.0,41600.0,2026-04-23,187777767,250,Malla & Malla Stock Broking Company Pvt. Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 14:46:33.642819,Janaki Finance Company Limited
+2026042303005711,JFL,11,39,185,416.0,76960.0,2026-04-23,187782120,250,Malla & Malla Stock Broking Company Pvt. Limited,Sumeru Securities Pvt. Ltd.,2026-04-23 14:49:48.355397,Janaki Finance Company Limited
+2026042303005712,JFL,45,39,30,416.0,12480.0,2026-04-23,187782122,250,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 14:49:48.355558,Janaki Finance Company Limited
+2026042303005713,JFL,36,39,50,416.0,20800.0,2026-04-23,187782124,250,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 14:49:48.355616,Janaki Finance Company Limited
+2026042303005908,JFL,58,39,20,416.0,8320.0,2026-04-23,187786206,250,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 14:52:38.834906,Janaki Finance Company Limited
+2026042303005982,JFL,46,33,100,415.0,41500.0,2026-04-23,187787512,250,Kalika Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:53:33.882240,Janaki Finance Company Limited
+2026042303005983,JFL,58,33,25,415.0,10375.0,2026-04-23,187787514,250,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:53:33.882492,Janaki Finance Company Limited
+2026042303005984,JFL,57,33,50,415.0,20750.0,2026-04-23,187787516,250,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:53:33.882639,Janaki Finance Company Limited
+2026042303005985,JFL,13,33,100,415.0,41500.0,2026-04-23,187787518,250,Thrive Brokerage House Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:53:33.882783,Janaki Finance Company Limited
+2026042303005986,JFL,58,33,200,415.0,83000.0,2026-04-23,187787520,250,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:53:33.882954,Janaki Finance Company Limited
+2026042303005987,JFL,4,33,25,415.0,10375.0,2026-04-23,187787521,250,Opal Securities Investment (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:53:33.883111,Janaki Finance Company Limited
+2026042303006042,JFL,4,39,52,415.0,21580.0,2026-04-23,187788354,250,Opal Securities Investment (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 14:54:03.685067,Janaki Finance Company Limited
+2026042303006043,JFL,58,39,63,415.0,26145.0,2026-04-23,187788355,250,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 14:54:03.685245,Janaki Finance Company Limited
+2026042303006060,JFL,58,39,10,415.0,4150.0,2026-04-23,187788959,250,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 14:54:27.420872,Janaki Finance Company Limited
+2026042303006395,JFL,45,35,17,415.1,7056.7,2026-04-23,187794572,250,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:57:40.382854,Janaki Finance Company Limited
+2026042303006396,JFL,58,35,27,415.0,11205.0,2026-04-23,187794574,250,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:57:40.383096,Janaki Finance Company Limited
+2026042303006612,JFL,47,35,11,415.0,4565.0,2026-04-23,187798018,250,Neev Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:59:04.626637,Janaki Finance Company Limited
+2026042303006641,JFL,58,35,30,415.0,12450.0,2026-04-23,187798988,250,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:59:16.373566,Janaki Finance Company Limited

@@ -1,0 +1,588 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042701000004,KBL,7,58,10,232.0,2320.0,2026-04-27,187953264,142,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-27 10:46:00.049231,Kumari Bank Limited
+2026042701000427,KBL,58,47,50,225.1,11255.0,2026-04-27,187954490,142,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 11:01:31.428111,Kumari Bank Limited
+2026042701000432,KBL,42,47,50,225.1,11255.0,2026-04-27,187954502,142,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 11:01:32.617270,Kumari Bank Limited
+2026042701000497,KBL,58,47,20,225.1,4502.0,2026-04-27,187954670,142,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 11:01:45.766334,Kumari Bank Limited
+2026042701000762,KBL,1,41,500,219.0,109500.0,2026-04-27,187955361,142,Kumari Securities Private Limited,Linch Stock Market Ltd.,2026-04-27 11:02:47.146011,Kumari Bank Limited
+2026042701001155,KBL,7,96,10,225.0,2250.0,2026-04-27,187956376,142,J.F. Securites (PVT) Ltd.,Himalayan Securities Limited,2026-04-27 11:04:11.830805,Kumari Bank Limited
+2026042701001417,KBL,34,39,100,224.9,22490.0,2026-04-27,187957109,142,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-27 11:05:16.797507,Kumari Bank Limited
+2026042701001418,KBL,34,96,1990,225.0,447750.0,2026-04-27,187957111,142,Vision Securities Pvt. Ltd,Himalayan Securities Limited,2026-04-27 11:05:16.797619,Kumari Bank Limited
+2026042701001419,KBL,34,34,4000,225.0,900000.0,2026-04-27,187957113,142,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-27 11:05:16.797712,Kumari Bank Limited
+2026042701001420,KBL,34,21,910,225.0,204750.0,2026-04-27,187957116,142,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-27 11:05:16.797785,Kumari Bank Limited
+2026042701001761,KBL,21,58,50,223.0,11150.0,2026-04-27,187958087,142,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-27 11:06:39.822875,Kumari Bank Limited
+2026042701001946,KBL,1,21,17,225.0,3825.0,2026-04-27,187958560,142,Kumari Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-27 11:07:15.951585,Kumari Bank Limited
+2026042701002343,KBL,39,44,100,223.9,22390.0,2026-04-27,187959517,142,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 11:08:13.172998,Kumari Bank Limited
+2026042701002344,KBL,39,58,520,223.9,116428.0,2026-04-27,187959520,142,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 11:08:13.173220,Kumari Bank Limited
+2026042701002489,KBL,34,58,480,223.9,107472.0,2026-04-27,187959883,142,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-27 11:08:30.819162,Kumari Bank Limited
+2026042701002490,KBL,34,16,500,224.0,112000.0,2026-04-27,187959885,142,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-27 11:08:30.819205,Kumari Bank Limited
+2026042701002491,KBL,34,80,50,224.5,11225.0,2026-04-27,187959887,142,Vision Securities Pvt. Ltd,Indira securities pvt. ltd,2026-04-27 11:08:30.819233,Kumari Bank Limited
+2026042701002492,KBL,34,21,1073,225.0,241425.0,2026-04-27,187959889,142,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-27 11:08:30.819262,Kumari Bank Limited
+2026042701002493,KBL,34,17,1000,225.0,225000.0,2026-04-27,187959891,142,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-27 11:08:30.819287,Kumari Bank Limited
+2026042701002494,KBL,34,58,30,225.0,6750.0,2026-04-27,187959893,142,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-27 11:08:30.819311,Kumari Bank Limited
+2026042701002495,KBL,34,16,3000,225.0,675000.0,2026-04-27,187959895,142,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-27 11:08:30.819334,Kumari Bank Limited
+2026042701002496,KBL,34,34,867,225.0,195075.0,2026-04-27,187959898,142,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-27 11:08:30.819359,Kumari Bank Limited
+2026042701002955,KBL,21,50,50,223.0,11150.0,2026-04-27,187961032,142,Midas Stock Broking Company Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 11:09:34.716530,Kumari Bank Limited
+2026042701002956,KBL,74,50,50,223.0,11150.0,2026-04-27,187961033,142,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 11:09:34.716704,Kumari Bank Limited
+2026042701003177,KBL,76,28,10,224.0,2240.0,2026-04-27,187961576,142,Machhapuchchhre Securities Limited,Shree Krishna Securities Ltd.,2026-04-27 11:10:04.292094,Kumari Bank Limited
+2026042701003566,KBL,74,28,300,223.0,66900.0,2026-04-27,187962573,142,KALASH STOCK MARKET PVT. LTD.,Shree Krishna Securities Ltd.,2026-04-27 11:10:59.707134,Kumari Bank Limited
+2026042701003733,KBL,74,14,650,223.0,144950.0,2026-04-27,187962990,142,KALASH STOCK MARKET PVT. LTD.,Nepal Stock House (PVT) Ltd.,2026-04-27 11:11:23.541618,Kumari Bank Limited
+2026042701003804,KBL,3,14,51,223.0,11373.0,2026-04-27,187963188,142,Arun Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 11:11:36.620338,Kumari Bank Limited
+2026042701003810,KBL,29,14,299,223.0,66677.0,2026-04-27,187963201,142,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 11:11:37.886714,Kumari Bank Limited
+2026042701003941,KBL,76,68,10,224.0,2240.0,2026-04-27,187963552,142,Machhapuchchhre Securities Limited,Elite Stock House Limited,2026-04-27 11:12:02.266449,Kumari Bank Limited
+2026042701003953,KBL,29,34,231,223.0,51513.0,2026-04-27,187963579,142,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 11:12:04.415805,Kumari Bank Limited
+2026042701004107,KBL,56,68,50,224.0,11200.0,2026-04-27,187964026,142,Sri Hari Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-27 11:12:37.203484,Kumari Bank Limited
+2026042701004484,KBL,29,42,470,223.0,104810.0,2026-04-27,187965102,142,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-27 11:14:00.374737,Kumari Bank Limited
+2026042701005184,KBL,58,42,50,223.0,11150.0,2026-04-27,187967166,142,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-27 11:16:19.538617,Kumari Bank Limited
+2026042701005328,KBL,57,44,150,222.5,33375.0,2026-04-27,187967655,142,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 11:16:51.154505,Kumari Bank Limited
+2026042701005700,KBL,45,42,80,223.0,17840.0,2026-04-27,187968751,142,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 11:18:11.000355,Kumari Bank Limited
+2026042701005701,KBL,45,14,275,223.0,61325.0,2026-04-27,187968753,142,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 11:18:11.000624,Kumari Bank Limited
+2026042701005702,KBL,45,45,100,223.0,22300.0,2026-04-27,187968755,142,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:18:11.000746,Kumari Bank Limited
+2026042701005703,KBL,45,53,45,223.0,10035.0,2026-04-27,187968758,142,Imperial Securities Company Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-27 11:18:11.000862,Kumari Bank Limited
+2026042701005763,KBL,1,53,155,223.0,34565.0,2026-04-27,187969011,142,Kumari Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-27 11:18:26.136068,Kumari Bank Limited
+2026042701005764,KBL,1,58,10,223.0,2230.0,2026-04-27,187969013,142,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-27 11:18:26.136306,Kumari Bank Limited
+2026042701005914,KBL,1,44,150,223.0,33450.0,2026-04-27,187969513,142,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 11:18:58.554119,Kumari Bank Limited
+2026042701005915,KBL,1,22,85,223.0,18955.0,2026-04-27,187969516,142,Kumari Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-27 11:18:58.676324,Kumari Bank Limited
+2026042701005916,KBL,14,22,30,223.0,6690.0,2026-04-27,187969517,142,Nepal Stock House (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-27 11:18:58.676591,Kumari Bank Limited
+2026042701006048,KBL,14,45,70,223.0,15610.0,2026-04-27,187969900,142,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:19:17.539959,Kumari Bank Limited
+2026042701006055,KBL,45,45,20,223.0,4460.0,2026-04-27,187969918,142,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:19:19.277972,Kumari Bank Limited
+2026042701006057,KBL,58,45,10,223.0,2230.0,2026-04-27,187969926,142,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:19:20.074816,Kumari Bank Limited
+2026042701006084,KBL,76,45,10,223.0,2230.0,2026-04-27,187969998,142,Machhapuchchhre Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:19:25.286509,Kumari Bank Limited
+2026042701006510,KBL,1,40,50,223.0,11150.0,2026-04-27,187971369,142,Kumari Securities Private Limited,Creative Securities Pvt Ltd,2026-04-27 11:21:12.933151,Kumari Bank Limited
+2026042701006685,KBL,42,45,10,223.5,2235.0,2026-04-27,187972000,142,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:21:59.195780,Kumari Bank Limited
+2026042701006909,KBL,22,45,215,223.5,48052.5,2026-04-27,187972709,142,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:22:52.340403,Kumari Bank Limited
+2026042701006910,KBL,22,16,150,223.7,33555.0,2026-04-27,187972711,142,Siprabi Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 11:22:52.340668,Kumari Bank Limited
+2026042701006911,KBL,22,68,135,224.0,30240.0,2026-04-27,187972714,142,Siprabi Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-27 11:22:52.340798,Kumari Bank Limited
+2026042701006923,KBL,58,28,206,223.1,45958.6,2026-04-27,187972745,142,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-27 11:22:55.411746,Kumari Bank Limited
+2026042701007048,KBL,56,68,305,224.0,68320.0,2026-04-27,187973153,142,Sri Hari Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-27 11:23:27.146152,Kumari Bank Limited
+2026042701007212,KBL,56,45,190,224.0,42560.0,2026-04-27,187973629,142,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:24:03.854872,Kumari Bank Limited
+2026042701007496,KBL,1,32,10,224.0,2240.0,2026-04-27,187974515,142,Kumari Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 11:25:15.926602,Kumari Bank Limited
+2026042701007497,KBL,1,62,410,224.0,91840.0,2026-04-27,187974517,142,Kumari Securities Private Limited,Capital Max Securities Ltd,2026-04-27 11:25:15.927220,Kumari Bank Limited
+2026042701007645,KBL,1,28,1000,224.8,224800.0,2026-04-27,187975047,142,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-27 11:25:57.812247,Kumari Bank Limited
+2026042701007670,KBL,1,45,1000,224.8,224800.0,2026-04-27,187975143,142,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:26:04.590375,Kumari Bank Limited
+2026042701007729,KBL,1,25,500,224.8,112400.0,2026-04-27,187975299,142,Kumari Securities Private Limited,Sweta Securities Private Limited,2026-04-27 11:26:17.747131,Kumari Bank Limited
+2026042701007766,KBL,1,14,1000,224.8,224800.0,2026-04-27,187975425,142,Kumari Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-27 11:26:27.662637,Kumari Bank Limited
+2026042701007771,KBL,1,41,30,224.8,6744.0,2026-04-27,187975438,142,Kumari Securities Private Limited,Linch Stock Market Ltd.,2026-04-27 11:26:28.592863,Kumari Bank Limited
+2026042701007957,KBL,3,45,800,224.0,179200.0,2026-04-27,187976104,142,Arun Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:27:19.436340,Kumari Bank Limited
+2026042701007979,KBL,32,45,15,224.0,3360.0,2026-04-27,187976174,142,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:27:23.888507,Kumari Bank Limited
+2026042701008246,KBL,42,45,10,223.6,2236.0,2026-04-27,187977202,142,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:28:41.145012,Kumari Bank Limited
+2026042701008247,KBL,57,45,55,223.5,12292.5,2026-04-27,187977204,142,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:28:41.145684,Kumari Bank Limited
+2026042701008316,KBL,57,25,500,223.4,111700.0,2026-04-27,187977419,142,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-27 11:29:00.102305,Kumari Bank Limited
+2026042701008360,KBL,22,42,1000,223.3,223300.0,2026-04-27,187977545,142,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 11:29:10.368626,Kumari Bank Limited
+2026042701008502,KBL,58,68,500,223.3,111650.0,2026-04-27,187978002,142,Naasa Securities Co. Ltd.,Elite Stock House Limited,2026-04-27 11:29:41.605160,Kumari Bank Limited
+2026042701008665,KBL,58,42,50,223.2,11160.0,2026-04-27,187978643,142,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-27 11:30:29.419319,Kumari Bank Limited
+2026042701008748,KBL,58,94,30,223.2,6696.0,2026-04-27,187978967,142,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-27 11:31:01.640291,Kumari Bank Limited
+2026042701008751,KBL,58,47,50,223.2,11160.0,2026-04-27,187978993,142,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 11:31:02.095395,Kumari Bank Limited
+2026042701008810,KBL,58,45,370,223.2,82584.0,2026-04-27,187979224,142,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:31:19.415582,Kumari Bank Limited
+2026042701008811,KBL,58,45,200,223.2,44640.0,2026-04-27,187979226,142,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:31:19.416221,Kumari Bank Limited
+2026042701008812,KBL,56,45,65,223.0,14495.0,2026-04-27,187979228,142,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:31:19.416655,Kumari Bank Limited
+2026042701008813,KBL,42,45,60,223.0,13380.0,2026-04-27,187979230,142,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:31:19.417368,Kumari Bank Limited
+2026042701008814,KBL,42,45,20,223.0,4460.0,2026-04-27,187979232,142,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:31:19.417814,Kumari Bank Limited
+2026042701009324,KBL,22,92,240,222.8,53472.0,2026-04-27,187981127,142,Siprabi Securities Pvt. Ltd.,Roadshow securities limited,2026-04-27 11:33:52.330076,Kumari Bank Limited
+2026042701009340,KBL,59,45,30,223.0,6690.0,2026-04-27,187981194,142,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:33:55.763799,Kumari Bank Limited
+2026042701009427,KBL,22,45,760,222.8,169328.0,2026-04-27,187981500,142,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:34:21.698528,Kumari Bank Limited
+2026042701009428,KBL,71,45,240,222.7,53448.0,2026-04-27,187981501,142,SHUBHAKAMANA SECURITIES PVT. LTD,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:34:21.699195,Kumari Bank Limited
+2026042701009541,KBL,71,58,15,222.7,3340.5,2026-04-27,187981919,142,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,2026-04-27 11:34:53.320470,Kumari Bank Limited
+2026042701009758,KBL,71,45,935,222.7,208224.5,2026-04-27,187982737,142,SHUBHAKAMANA SECURITIES PVT. LTD,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:35:58.181681,Kumari Bank Limited
+2026042701009761,KBL,25,45,50,223.0,11150.0,2026-04-27,187982760,142,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:35:58.566237,Kumari Bank Limited
+2026042701009885,KBL,71,36,3000,222.7,668100.0,2026-04-27,187983205,142,SHUBHAKAMANA SECURITIES PVT. LTD,Secured Securities Ltd.,2026-04-27 11:36:34.017114,Kumari Bank Limited
+2026042701009982,KBL,71,45,205,222.7,45653.5,2026-04-27,187983533,142,SHUBHAKAMANA SECURITIES PVT. LTD,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:37:00.159006,Kumari Bank Limited
+2026042701010026,KBL,71,45,185,222.7,41199.5,2026-04-27,187983681,142,SHUBHAKAMANA SECURITIES PVT. LTD,Imperial Securities Company Pvt. Ltd.,2026-04-27 11:37:11.608499,Kumari Bank Limited
+2026042701010270,KBL,71,52,60,222.7,13362.0,2026-04-27,187984531,142,SHUBHAKAMANA SECURITIES PVT. LTD,Sundhara Securities Limited,2026-04-27 11:38:25.868230,Kumari Bank Limited
+2026042701011127,KBL,51,43,1000,222.9,222900.0,2026-04-27,187987465,142,Oxford Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-27 11:42:47.923130,Kumari Bank Limited
+2026042701011128,KBL,51,42,500,223.0,111500.0,2026-04-27,187987467,142,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 11:42:47.923512,Kumari Bank Limited
+2026042701011250,KBL,51,44,500,223.0,111500.0,2026-04-27,187987861,142,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 11:43:25.389916,Kumari Bank Limited
+2026042701011529,KBL,58,38,10,223.0,2230.0,2026-04-27,187988875,142,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 11:45:00.332610,Kumari Bank Limited
+2026042701011666,KBL,58,59,213,223.0,47499.0,2026-04-27,187989298,142,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-27 11:45:40.611830,Kumari Bank Limited
+2026042701011667,KBL,52,59,12,223.0,2676.0,2026-04-27,187989299,142,Sundhara Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-27 11:45:40.611936,Kumari Bank Limited
+2026042701011713,KBL,52,42,95,223.0,21185.0,2026-04-27,187989437,142,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-27 11:45:52.955201,Kumari Bank Limited
+2026042701011863,KBL,52,38,160,223.0,35680.0,2026-04-27,187989931,142,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 11:46:45.284653,Kumari Bank Limited
+2026042701011883,KBL,52,13,233,223.0,51959.0,2026-04-27,187989984,142,Sundhara Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-27 11:46:48.009418,Kumari Bank Limited
+2026042701012486,KBL,11,13,50,223.0,11150.0,2026-04-27,187991900,142,Malla & Malla Stock Broking Company Pvt. Limited,Thrive Brokerage House Pvt. Ltd,2026-04-27 11:49:58.129178,Kumari Bank Limited
+2026042701012624,KBL,96,13,10,223.0,2230.0,2026-04-27,187992298,142,Himalayan Securities Limited,Thrive Brokerage House Pvt. Ltd,2026-04-27 11:50:33.744300,Kumari Bank Limited
+2026042701013125,KBL,49,49,95,222.8,21166.0,2026-04-27,187993762,142,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:52:33.697006,Kumari Bank Limited
+2026042701013126,KBL,71,49,360,222.7,80172.0,2026-04-27,187993764,142,SHUBHAKAMANA SECURITIES PVT. LTD,Online Securities Pvt. Ltd.,2026-04-27 11:52:33.697864,Kumari Bank Limited
+2026042701013127,KBL,49,49,11,222.7,2449.7,2026-04-27,187993766,142,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:52:33.698408,Kumari Bank Limited
+2026042701013128,KBL,58,49,534,222.7,118921.8,2026-04-27,187993767,142,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:52:33.698979,Kumari Bank Limited
+2026042701013255,KBL,38,13,57,223.0,12711.0,2026-04-27,187994157,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 11:52:59.920704,Kumari Bank Limited
+2026042701013256,KBL,38,77,10,223.0,2230.0,2026-04-27,187994159,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-27 11:52:59.921075,Kumari Bank Limited
+2026042701013444,KBL,38,91,100,223.0,22300.0,2026-04-27,187994597,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Citizens Share Broker Limited,2026-04-27 11:53:15.940159,Kumari Bank Limited
+2026042701013467,KBL,22,16,95,223.4,21223.0,2026-04-27,187994669,142,Siprabi Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 11:53:21.663756,Kumari Bank Limited
+2026042701013468,KBL,22,22,455,223.4,101647.0,2026-04-27,187994671,142,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-27 11:53:21.664536,Kumari Bank Limited
+2026042701013469,KBL,22,58,10,224.0,2240.0,2026-04-27,187994674,142,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 11:53:21.665107,Kumari Bank Limited
+2026042701013539,KBL,22,49,1000,223.1,223100.0,2026-04-27,187994907,142,Siprabi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:53:47.846547,Kumari Bank Limited
+2026042701013648,KBL,38,39,50,223.0,11150.0,2026-04-27,187995259,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-27 11:54:27.663255,Kumari Bank Limited
+2026042701013710,KBL,38,28,1000,223.0,223000.0,2026-04-27,187995497,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-27 11:54:53.787870,Kumari Bank Limited
+2026042701013870,KBL,76,4,10,223.8,2238.0,2026-04-27,187996158,142,Machhapuchchhre Securities Limited,Opal Securities Investment (PVT) Ltd.,2026-04-27 11:56:01.174017,Kumari Bank Limited
+2026042701013962,KBL,58,19,10,223.9,2239.0,2026-04-27,187996438,142,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 11:56:32.935880,Kumari Bank Limited
+2026042701014105,KBL,58,19,67,223.9,15001.3,2026-04-27,187996856,142,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 11:57:10.054747,Kumari Bank Limited
+2026042701014334,KBL,29,49,386,223.4,86232.4,2026-04-27,187997478,142,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:58:08.036568,Kumari Bank Limited
+2026042701014335,KBL,4,49,210,223.1,46851.0,2026-04-27,187997480,142,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:58:08.037467,Kumari Bank Limited
+2026042701014336,KBL,38,49,404,223.0,90092.0,2026-04-27,187997481,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:58:08.038072,Kumari Bank Limited
+2026042701014421,KBL,76,19,10,223.9,2239.0,2026-04-27,187997758,142,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-27 11:58:43.704998,Kumari Bank Limited
+2026042701014603,KBL,38,49,10,223.0,2230.0,2026-04-27,187998381,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:59:50.393237,Kumari Bank Limited
+2026042701014699,KBL,38,11,113,223.0,25199.0,2026-04-27,187998689,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-27 12:00:23.978223,Kumari Bank Limited
+2026042701014749,KBL,38,25,25,223.0,5575.0,2026-04-27,187998877,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-27 12:00:39.356046,Kumari Bank Limited
+2026042701014750,KBL,76,19,10,223.9,2239.0,2026-04-27,187998880,142,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:00:39.366100,Kumari Bank Limited
+2026042701014755,KBL,38,57,90,223.0,20070.0,2026-04-27,187998899,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-27 12:00:41.860942,Kumari Bank Limited
+2026042701014788,KBL,76,19,10,223.9,2239.0,2026-04-27,187998978,142,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:00:48.133365,Kumari Bank Limited
+2026042701014857,KBL,38,34,25,223.0,5575.0,2026-04-27,187999249,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-27 12:01:17.760891,Kumari Bank Limited
+2026042701015020,KBL,76,19,10,223.9,2239.0,2026-04-27,187999790,142,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:02:28.784720,Kumari Bank Limited
+2026042701015115,KBL,58,19,200,223.9,44780.0,2026-04-27,188000098,142,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:03:16.093281,Kumari Bank Limited
+2026042701015173,KBL,50,19,400,223.9,89560.0,2026-04-27,188000334,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:03:42.422203,Kumari Bank Limited
+2026042701015220,KBL,38,5,50,223.0,11150.0,2026-04-27,188000483,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-27 12:04:01.454485,Kumari Bank Limited
+2026042701015362,KBL,76,19,10,223.9,2239.0,2026-04-27,188000888,142,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:04:42.203221,Kumari Bank Limited
+2026042701015621,KBL,38,49,1000,223.0,223000.0,2026-04-27,188001841,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:06:33.912131,Kumari Bank Limited
+2026042701015738,KBL,38,95,80,223.0,17840.0,2026-04-27,188002321,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-27 12:07:25.956019,Kumari Bank Limited
+2026042701015803,KBL,38,48,700,223.0,156100.0,2026-04-27,188002527,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-27 12:07:59.522405,Kumari Bank Limited
+2026042701015977,KBL,38,47,225,223.0,50175.0,2026-04-27,188003105,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:09:05.187757,Kumari Bank Limited
+2026042701015998,KBL,76,58,10,223.4,2234.0,2026-04-27,188003180,142,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,2026-04-27 12:09:14.887891,Kumari Bank Limited
+2026042701016127,KBL,49,58,33,223.4,7372.2,2026-04-27,188003680,142,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 12:10:19.039478,Kumari Bank Limited
+2026042701016201,KBL,38,49,45,223.0,10035.0,2026-04-27,188003977,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:10:58.270855,Kumari Bank Limited
+2026042701016212,KBL,38,28,1000,223.0,223000.0,2026-04-27,188004023,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-27 12:11:03.417441,Kumari Bank Limited
+2026042701016309,KBL,38,48,16,223.0,3568.0,2026-04-27,188004356,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-27 12:11:44.517049,Kumari Bank Limited
+2026042701016310,KBL,42,48,19,223.0,4237.0,2026-04-27,188004357,142,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-27 12:11:44.517491,Kumari Bank Limited
+2026042701016625,KBL,89,17,20,223.1,4462.0,2026-04-27,188005504,142,Global IME Securities Limited,ABC Securities Private Limited,2026-04-27 12:14:02.810608,Kumari Bank Limited
+2026042701016626,KBL,42,17,31,223.0,6913.0,2026-04-27,188005506,142,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-27 12:14:02.811464,Kumari Bank Limited
+2026042701016627,KBL,28,17,49,223.0,10927.0,2026-04-27,188005507,142,Shree Krishna Securities Ltd.,ABC Securities Private Limited,2026-04-27 12:14:02.812037,Kumari Bank Limited
+2026042701016632,KBL,45,58,407,223.4,90923.8,2026-04-27,188005528,142,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 12:14:07.029390,Kumari Bank Limited
+2026042701016809,KBL,45,1,150,223.5,33525.0,2026-04-27,188006211,142,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,2026-04-27 12:15:13.986143,Kumari Bank Limited
+2026042701016869,KBL,45,36,100,223.5,22350.0,2026-04-27,188006427,142,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 12:15:44.231873,Kumari Bank Limited
+2026042701017042,KBL,45,56,343,223.5,76660.5,2026-04-27,188006948,142,Imperial Securities Company Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-27 12:16:52.613680,Kumari Bank Limited
+2026042701017043,KBL,28,56,225,223.0,50175.0,2026-04-27,188006949,142,Shree Krishna Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-27 12:16:52.614516,Kumari Bank Limited
+2026042701017105,KBL,28,56,10,223.0,2230.0,2026-04-27,188007139,142,Shree Krishna Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-27 12:17:05.068332,Kumari Bank Limited
+2026042701017530,KBL,28,62,716,223.0,159668.0,2026-04-27,188008420,142,Shree Krishna Securities Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.811427,Kumari Bank Limited
+2026042701017531,KBL,52,62,21,223.0,4683.0,2026-04-27,188008422,142,Sundhara Securities Limited,Capital Max Securities Ltd,2026-04-27 12:19:14.812292,Kumari Bank Limited
+2026042701017532,KBL,35,62,90,223.0,20070.0,2026-04-27,188008424,142,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.812879,Kumari Bank Limited
+2026042701017533,KBL,58,62,45,223.0,10035.0,2026-04-27,188008426,142,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.813477,Kumari Bank Limited
+2026042701017534,KBL,67,62,50,223.0,11150.0,2026-04-27,188008428,142,Property Wiard Limited,Capital Max Securities Ltd,2026-04-27 12:19:14.814081,Kumari Bank Limited
+2026042701017535,KBL,58,62,20,223.0,4460.0,2026-04-27,188008430,142,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.814671,Kumari Bank Limited
+2026042701017536,KBL,58,62,716,222.7,159453.2,2026-04-27,188008432,142,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.815269,Kumari Bank Limited
+2026042701017537,KBL,57,62,849,222.5,188902.5,2026-04-27,188008434,142,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-27 12:19:14.815840,Kumari Bank Limited
+2026042701017538,KBL,43,62,7000,222.5,1557500.0,2026-04-27,188008436,142,South Asian Bulls Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.816444,Kumari Bank Limited
+2026042701017539,KBL,42,62,1015,222.1,225431.5,2026-04-27,188008438,142,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.817052,Kumari Bank Limited
+2026042701017540,KBL,57,62,999,222.0,221778.0,2026-04-27,188008440,142,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-27 12:19:14.817629,Kumari Bank Limited
+2026042701017541,KBL,50,62,1000,222.0,222000.0,2026-04-27,188008442,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.818061,Kumari Bank Limited
+2026042701017542,KBL,21,62,70,222.0,15540.0,2026-04-27,188008444,142,Midas Stock Broking Company Private Limited,Capital Max Securities Ltd,2026-04-27 12:19:14.818261,Kumari Bank Limited
+2026042701017543,KBL,17,62,200,222.0,44400.0,2026-04-27,188008446,142,ABC Securities Private Limited,Capital Max Securities Ltd,2026-04-27 12:19:14.818449,Kumari Bank Limited
+2026042701017544,KBL,35,62,20,222.0,4440.0,2026-04-27,188008448,142,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:14.818633,Kumari Bank Limited
+2026042701017545,KBL,57,62,1189,222.0,263958.0,2026-04-27,188008449,142,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-27 12:19:14.818823,Kumari Bank Limited
+2026042701017577,KBL,57,62,111,222.0,24642.0,2026-04-27,188008550,142,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-27 12:19:25.440767,Kumari Bank Limited
+2026042701017578,KBL,58,62,889,222.0,197358.0,2026-04-27,188008551,142,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-27 12:19:25.441592,Kumari Bank Limited
+2026042701017696,KBL,45,14,23,223.5,5140.5,2026-04-27,188008983,142,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 12:20:06.927944,Kumari Bank Limited
+2026042701017697,KBL,45,19,427,223.9,95605.3,2026-04-27,188008986,142,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:20:06.928773,Kumari Bank Limited
+2026042701018505,KBL,5,49,115,222.1,25541.5,2026-04-27,188011900,142,Market Securities & Exchange (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:25:46.232628,Kumari Bank Limited
+2026042701018506,KBL,58,49,111,222.0,24642.0,2026-04-27,188011902,142,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:25:46.233475,Kumari Bank Limited
+2026042701018507,KBL,58,49,200,222.0,44400.0,2026-04-27,188011904,142,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:25:46.234084,Kumari Bank Limited
+2026042701018508,KBL,28,49,799,222.0,177378.0,2026-04-27,188011905,142,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:25:46.234669,Kumari Bank Limited
+2026042701018862,KBL,6,57,45,223.0,10035.0,2026-04-27,188013128,142,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-27 12:28:11.852660,Kumari Bank Limited
+2026042701018868,KBL,28,47,201,222.0,44622.0,2026-04-27,188013146,142,Shree Krishna Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:28:14.511921,Kumari Bank Limited
+2026042701018869,KBL,58,47,13,222.0,2886.0,2026-04-27,188013148,142,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:28:14.512371,Kumari Bank Limited
+2026042701018870,KBL,36,47,70,222.0,15540.0,2026-04-27,188013150,142,Secured Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:28:14.512626,Kumari Bank Limited
+2026042701018871,KBL,57,47,44,222.0,9768.0,2026-04-27,188013152,142,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,2026-04-27 12:28:14.512820,Kumari Bank Limited
+2026042701018872,KBL,74,47,172,222.0,38184.0,2026-04-27,188013153,142,KALASH STOCK MARKET PVT. LTD.,Neev Securities Pvt. Ltd.,2026-04-27 12:28:14.513015,Kumari Bank Limited
+2026042701018960,KBL,74,58,28,222.0,6216.0,2026-04-27,188013496,142,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,2026-04-27 12:29:00.364284,Kumari Bank Limited
+2026042701019640,KBL,4,13,224,222.0,49728.0,2026-04-27,188015758,142,Opal Securities Investment (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 12:33:49.849318,Kumari Bank Limited
+2026042701019641,KBL,41,13,76,222.0,16872.0,2026-04-27,188015759,142,Linch Stock Market Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 12:33:49.850212,Kumari Bank Limited
+2026042701020169,KBL,57,57,20,223.0,4460.0,2026-04-27,188017663,142,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-27 12:37:52.476343,Kumari Bank Limited
+2026042701020170,KBL,57,49,35,223.0,7805.0,2026-04-27,188017665,142,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-27 12:37:52.477257,Kumari Bank Limited
+2026042701020171,KBL,57,42,20,223.0,4460.0,2026-04-27,188017667,142,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-27 12:37:52.477903,Kumari Bank Limited
+2026042701020172,KBL,57,53,50,223.0,11150.0,2026-04-27,188017669,142,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,2026-04-27 12:37:52.478575,Kumari Bank Limited
+2026042701020173,KBL,57,57,30,223.0,6690.0,2026-04-27,188017671,142,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-27 12:37:52.479241,Kumari Bank Limited
+2026042701020238,KBL,58,19,10,223.9,2239.0,2026-04-27,188017894,142,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:38:19.562443,Kumari Bank Limited
+2026042701020330,KBL,72,19,168,223.9,37615.2,2026-04-27,188018175,142,Hatemalo Financial Services Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:38:56.262009,Kumari Bank Limited
+2026042701020331,KBL,72,36,555,223.9,124264.5,2026-04-27,188018177,142,Hatemalo Financial Services Private Limited,Secured Securities Ltd.,2026-04-27 12:38:56.262858,Kumari Bank Limited
+2026042701020332,KBL,72,53,70,223.9,15673.0,2026-04-27,188018179,142,Hatemalo Financial Services Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-27 12:38:56.263491,Kumari Bank Limited
+2026042701020333,KBL,72,63,207,223.9,46347.3,2026-04-27,188018182,142,Hatemalo Financial Services Private Limited,Himalayan Brokerage Company Limited,2026-04-27 12:38:56.264113,Kumari Bank Limited
+2026042701020377,KBL,89,63,10,223.9,2239.0,2026-04-27,188018362,142,Global IME Securities Limited,Himalayan Brokerage Company Limited,2026-04-27 12:39:16.149201,Kumari Bank Limited
+2026042701020814,KBL,58,64,32,223.7,7158.4,2026-04-27,188019968,142,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 12:42:00.472654,Kumari Bank Limited
+2026042701020815,KBL,57,64,45,223.0,10035.0,2026-04-27,188019970,142,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,2026-04-27 12:42:00.473588,Kumari Bank Limited
+2026042701020816,KBL,60,64,43,223.0,9589.0,2026-04-27,188019971,142,Nagarik Stock Dealer ,SUN SECURITIES PVT LTD,2026-04-27 12:42:00.474254,Kumari Bank Limited
+2026042701020829,KBL,41,19,141,223.8,31555.8,2026-04-27,188020008,142,Linch Stock Market Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 12:42:10.116417,Kumari Bank Limited
+2026042701020869,KBL,60,36,93,223.0,20739.0,2026-04-27,188020170,142,Nagarik Stock Dealer ,Secured Securities Ltd.,2026-04-27 12:42:28.027411,Kumari Bank Limited
+2026042701020870,KBL,32,36,200,222.5,44500.0,2026-04-27,188020173,142,Premier Securities Company Ltd.,Secured Securities Ltd.,2026-04-27 12:42:28.028523,Kumari Bank Limited
+2026042701020871,KBL,58,36,10,222.2,2222.0,2026-04-27,188020177,142,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-27 12:42:28.029304,Kumari Bank Limited
+2026042701020872,KBL,58,36,197,222.1,43753.7,2026-04-27,188020179,142,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-27 12:42:28.030035,Kumari Bank Limited
+2026042701021514,KBL,52,63,23,222.2,5110.6,2026-04-27,188022763,142,Sundhara Securities Limited,Himalayan Brokerage Company Limited,2026-04-27 12:47:49.222864,Kumari Bank Limited
+2026042701022099,KBL,58,45,100,222.5,22250.0,2026-04-27,188025171,142,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 12:53:13.295111,Kumari Bank Limited
+2026042701022266,KBL,42,63,20,222.5,4450.0,2026-04-27,188025842,142,Sani Securities Company Ltd.,Himalayan Brokerage Company Limited,2026-04-27 12:54:42.177991,Kumari Bank Limited
+2026042701022498,KBL,58,63,44,222.2,9776.8,2026-04-27,188026780,142,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-27 12:56:30.024703,Kumari Bank Limited
+2026042701022499,KBL,58,63,43,222.2,9554.6,2026-04-27,188026781,142,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-27 12:56:30.025659,Kumari Bank Limited
+2026042701022592,KBL,58,10,10,222.1,2221.0,2026-04-27,188027125,142,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-27 12:57:19.032285,Kumari Bank Limited
+2026042701022694,KBL,58,49,50,222.2,11110.0,2026-04-27,188027566,142,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:58:13.913709,Kumari Bank Limited
+2026042701022703,KBL,58,58,300,222.1,66630.0,2026-04-27,188027635,142,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 12:58:21.116416,Kumari Bank Limited
+2026042701022803,KBL,51,49,44,222.2,9776.8,2026-04-27,188027989,142,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 12:58:55.663091,Kumari Bank Limited
+2026042701022987,KBL,42,42,10,223.0,2230.0,2026-04-27,188028632,142,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-27 12:59:59.219290,Kumari Bank Limited
+2026042701023346,KBL,47,42,37,223.0,8251.0,2026-04-27,188030051,142,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 13:02:23.253928,Kumari Bank Limited
+2026042701023347,KBL,47,33,500,223.0,111500.0,2026-04-27,188030053,142,Neev Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-27 13:02:23.254846,Kumari Bank Limited
+2026042701023348,KBL,47,45,20,223.0,4460.0,2026-04-27,188030055,142,Neev Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 13:02:23.255537,Kumari Bank Limited
+2026042701023353,KBL,47,49,107,223.0,23861.0,2026-04-27,188030071,142,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 13:02:25.687546,Kumari Bank Limited
+2026042701023620,KBL,47,58,100,223.0,22300.0,2026-04-27,188031399,142,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:05:09.382825,Kumari Bank Limited
+2026042701023764,KBL,47,52,300,223.0,66900.0,2026-04-27,188032041,142,Neev Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-27 13:06:24.738869,Kumari Bank Limited
+2026042701023852,KBL,47,14,17,223.0,3791.0,2026-04-27,188032283,142,Neev Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 13:06:45.752727,Kumari Bank Limited
+2026042701024015,KBL,39,34,150,223.6,33540.0,2026-04-27,188032901,142,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 13:07:53.400387,Kumari Bank Limited
+2026042701024016,KBL,39,32,1350,223.6,301860.0,2026-04-27,188032904,142,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 13:07:53.401398,Kumari Bank Limited
+2026042701024307,KBL,47,36,10,223.0,2230.0,2026-04-27,188033935,142,Neev Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 13:10:11.769966,Kumari Bank Limited
+2026042701024503,KBL,47,47,10,223.0,2230.0,2026-04-27,188034823,142,Neev Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 13:12:14.443494,Kumari Bank Limited
+2026042701024614,KBL,16,45,108,223.2,24105.6,2026-04-27,188035331,142,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 13:13:24.561815,Kumari Bank Limited
+2026042701024615,KBL,16,44,70,223.3,15631.0,2026-04-27,188035333,142,Primo Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 13:13:24.562347,Kumari Bank Limited
+2026042701025023,KBL,11,34,500,223.6,111800.0,2026-04-27,188036867,142,Malla & Malla Stock Broking Company Pvt. Limited,Vision Securities Pvt. Ltd,2026-04-27 13:16:22.956813,Kumari Bank Limited
+2026042701025024,KBL,11,101,200,223.7,44740.0,2026-04-27,188036869,142,Malla & Malla Stock Broking Company Pvt. Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 13:16:22.957818,Kumari Bank Limited
+2026042701025025,KBL,11,19,432,223.8,96681.6,2026-04-27,188036871,142,Malla & Malla Stock Broking Company Pvt. Limited,Nepal Investment And Securities Trading Private Limited,2026-04-27 13:16:22.958561,Kumari Bank Limited
+2026042701025026,KBL,11,63,283,223.9,63363.7,2026-04-27,188036873,142,Malla & Malla Stock Broking Company Pvt. Limited,Himalayan Brokerage Company Limited,2026-04-27 13:16:22.959298,Kumari Bank Limited
+2026042701025027,KBL,11,17,85,223.9,19031.5,2026-04-27,188036876,142,Malla & Malla Stock Broking Company Pvt. Limited,ABC Securities Private Limited,2026-04-27 13:16:22.960012,Kumari Bank Limited
+2026042701025031,KBL,47,58,100,223.0,22300.0,2026-04-27,188036883,142,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:16:24.257453,Kumari Bank Limited
+2026042701025441,KBL,47,11,340,223.0,75820.0,2026-04-27,188038251,142,Neev Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-27 13:19:21.990451,Kumari Bank Limited
+2026042701025521,KBL,47,34,40,223.0,8920.0,2026-04-27,188038593,142,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 13:20:00.170440,Kumari Bank Limited
+2026042701026926,KBL,47,57,419,223.0,93437.0,2026-04-27,188043592,142,Neev Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-27 13:27:16.349484,Kumari Bank Limited
+2026042701026927,KBL,47,57,81,223.0,18063.0,2026-04-27,188043593,142,Neev Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-27 13:27:16.349992,Kumari Bank Limited
+2026042701027046,KBL,25,17,115,223.9,25748.5,2026-04-27,188044107,142,Sweta Securities Private Limited,ABC Securities Private Limited,2026-04-27 13:28:13.347683,Kumari Bank Limited
+2026042701027047,KBL,25,101,185,223.9,41421.5,2026-04-27,188044110,142,Sweta Securities Private Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 13:28:13.348205,Kumari Bank Limited
+2026042701027103,KBL,58,101,115,223.8,25737.0,2026-04-27,188044309,142,Naasa Securities Co. Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 13:28:36.577759,Kumari Bank Limited
+2026042701027104,KBL,58,50,385,223.9,86201.5,2026-04-27,188044312,142,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:28:36.578571,Kumari Bank Limited
+2026042701027107,KBL,58,49,30,223.0,6690.0,2026-04-27,188044319,142,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 13:28:37.245396,Kumari Bank Limited
+2026042701027346,KBL,16,50,197,223.9,44108.3,2026-04-27,188045186,142,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:30:03.095527,Kumari Bank Limited
+2026042701027395,KBL,53,61,11,223.8,2461.8,2026-04-27,188045387,142,Investment Management Nepal Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-27 13:30:32.516596,Kumari Bank Limited
+2026042701027396,KBL,53,50,418,223.9,93590.2,2026-04-27,188045389,142,Investment Management Nepal Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:30:32.517615,Kumari Bank Limited
+2026042701027397,KBL,53,68,100,224.0,22400.0,2026-04-27,188045391,142,Investment Management Nepal Pvt. Ltd.,Elite Stock House Limited,2026-04-27 13:30:32.518376,Kumari Bank Limited
+2026042701027398,KBL,53,46,120,224.0,26880.0,2026-04-27,188045393,142,Investment Management Nepal Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-27 13:30:32.519123,Kumari Bank Limited
+2026042701027399,KBL,53,7,460,224.0,103040.0,2026-04-27,188045395,142,Investment Management Nepal Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 13:30:32.519856,Kumari Bank Limited
+2026042701027400,KBL,53,41,1970,224.0,441280.0,2026-04-27,188045397,142,Investment Management Nepal Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:30:32.520579,Kumari Bank Limited
+2026042701027401,KBL,53,36,111,224.0,24864.0,2026-04-27,188045399,142,Investment Management Nepal Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 13:30:32.521319,Kumari Bank Limited
+2026042701027402,KBL,53,50,20,224.0,4480.0,2026-04-27,188045401,142,Investment Management Nepal Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:30:32.522042,Kumari Bank Limited
+2026042701027403,KBL,53,28,53,224.0,11872.0,2026-04-27,188045403,142,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-27 13:30:32.522750,Kumari Bank Limited
+2026042701027404,KBL,53,17,104,224.0,23296.0,2026-04-27,188045405,142,Investment Management Nepal Pvt. Ltd.,ABC Securities Private Limited,2026-04-27 13:30:32.523482,Kumari Bank Limited
+2026042701027405,KBL,53,50,50,224.0,11200.0,2026-04-27,188045407,142,Investment Management Nepal Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:30:32.524223,Kumari Bank Limited
+2026042701027406,KBL,53,62,20,224.0,4480.0,2026-04-27,188045409,142,Investment Management Nepal Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 13:30:32.524949,Kumari Bank Limited
+2026042701027407,KBL,53,50,2000,224.0,448000.0,2026-04-27,188045411,142,Investment Management Nepal Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:30:32.525679,Kumari Bank Limited
+2026042701027948,KBL,34,6,100,224.1,22410.0,2026-04-27,188047259,142,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-27 13:33:52.533854,Kumari Bank Limited
+2026042701027997,KBL,45,62,200,224.5,44900.0,2026-04-27,188047376,142,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 13:33:59.483338,Kumari Bank Limited
+2026042701028051,KBL,34,74,900,224.1,201690.0,2026-04-27,188047710,142,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-27 13:34:24.918215,Kumari Bank Limited
+2026042701028052,KBL,59,74,250,224.1,56025.0,2026-04-27,188047712,142,Deevyaa Securities & Stock House Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-27 13:34:24.918793,Kumari Bank Limited
+2026042701028057,KBL,68,74,500,224.1,112050.0,2026-04-27,188047738,142,Elite Stock House Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-27 13:34:28.003833,Kumari Bank Limited
+2026042701028060,KBL,53,58,24,224.0,5376.0,2026-04-27,188047749,142,Investment Management Nepal Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:34:29.841519,Kumari Bank Limited
+2026042701028378,KBL,53,101,45,224.4,10098.0,2026-04-27,188049022,142,Investment Management Nepal Pvt. Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 13:36:57.951832,Kumari Bank Limited
+2026042701028453,KBL,34,101,14,224.4,3141.6,2026-04-27,188049276,142,Vision Securities Pvt. Ltd,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 13:37:29.332111,Kumari Bank Limited
+2026042701028458,KBL,45,11,30,224.1,6723.0,2026-04-27,188049296,142,Imperial Securities Company Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-27 13:37:33.291004,Kumari Bank Limited
+2026042701028459,KBL,53,11,292,224.0,65408.0,2026-04-27,188049297,142,Investment Management Nepal Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-27 13:37:33.292077,Kumari Bank Limited
+2026042701028488,KBL,19,101,241,224.4,54080.4,2026-04-27,188049417,142,Nepal Investment And Securities Trading Private Limited,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 13:37:47.992156,Kumari Bank Limited
+2026042701028489,KBL,19,62,259,224.5,58145.5,2026-04-27,188049420,142,Nepal Investment And Securities Trading Private Limited,Capital Max Securities Ltd,2026-04-27 13:37:47.993178,Kumari Bank Limited
+2026042701028650,KBL,38,62,100,224.5,22450.0,2026-04-27,188050024,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,2026-04-27 13:38:58.101038,Kumari Bank Limited
+2026042701028694,KBL,46,62,100,224.5,22450.0,2026-04-27,188050154,142,Kalika Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 13:39:11.641777,Kumari Bank Limited
+2026042701028734,KBL,38,96,10,224.0,2240.0,2026-04-27,188050294,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Himalayan Securities Limited,2026-04-27 13:39:30.972913,Kumari Bank Limited
+2026042701028735,KBL,25,96,1000,224.0,224000.0,2026-04-27,188050296,142,Sweta Securities Private Limited,Himalayan Securities Limited,2026-04-27 13:39:30.973958,Kumari Bank Limited
+2026042701028784,KBL,33,96,50,223.9,11195.0,2026-04-27,188050527,142,Dakshinkali Investment & Securities Pvt. Ltd.,Himalayan Securities Limited,2026-04-27 13:39:59.567070,Kumari Bank Limited
+2026042701028902,KBL,38,58,201,224.0,45024.0,2026-04-27,188050997,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:40:59.562514,Kumari Bank Limited
+2026042701029188,KBL,38,58,39,224.0,8736.0,2026-04-27,188052184,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:43:19.041168,Kumari Bank Limited
+2026042701029189,KBL,33,58,61,223.9,13657.9,2026-04-27,188052185,142,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:43:19.042226,Kumari Bank Limited
+2026042701029514,KBL,67,58,2,222.0,444.0,2026-04-27,188053251,142,Property Wiard Limited,Naasa Securities Co. Ltd.,2026-04-27 13:45:15.185883,Kumari Bank Limited
+2026042701029683,KBL,67,100,1,223.0,223.0,2026-04-27,188053775,142,Property Wiard Limited,Sunrise Securities Limited,2026-04-27 13:45:40.808920,Kumari Bank Limited
+2026042701029776,KBL,45,62,10,224.4,2244.0,2026-04-27,188054244,142,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-27 13:46:38.171800,Kumari Bank Limited
+2026042701029902,KBL,36,62,1000,224.4,224400.0,2026-04-27,188054854,142,Secured Securities Ltd.,Capital Max Securities Ltd,2026-04-27 13:47:44.366979,Kumari Bank Limited
+2026042701029909,KBL,42,62,33,224.4,7405.2,2026-04-27,188054925,142,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-27 13:47:50.507654,Kumari Bank Limited
+2026042701029932,KBL,13,62,771,224.4,173012.4,2026-04-27,188055063,142,Thrive Brokerage House Pvt. Ltd,Capital Max Securities Ltd,2026-04-27 13:48:02.225767,Kumari Bank Limited
+2026042701029933,KBL,13,62,341,224.5,76554.5,2026-04-27,188055065,142,Thrive Brokerage House Pvt. Ltd,Capital Max Securities Ltd,2026-04-27 13:48:02.226811,Kumari Bank Limited
+2026042701029934,KBL,13,53,50,224.5,11225.0,2026-04-27,188055067,142,Thrive Brokerage House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,2026-04-27 13:48:02.227614,Kumari Bank Limited
+2026042701029935,KBL,13,22,2307,224.5,517921.5,2026-04-27,188055069,142,Thrive Brokerage House Pvt. Ltd,Siprabi Securities Pvt. Ltd.,2026-04-27 13:48:02.228402,Kumari Bank Limited
+2026042701030075,KBL,13,49,20,224.5,4490.0,2026-04-27,188055761,142,Thrive Brokerage House Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-27 13:49:10.042959,Kumari Bank Limited
+2026042701030082,KBL,13,5,1000,224.5,224500.0,2026-04-27,188055813,142,Thrive Brokerage House Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-27 13:49:16.322973,Kumari Bank Limited
+2026042701030162,KBL,6,58,100,224.6,22460.0,2026-04-27,188056140,142,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:49:55.559306,Kumari Bank Limited
+2026042701030214,KBL,56,58,80,224.6,17968.0,2026-04-27,188056333,142,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:50:15.521237,Kumari Bank Limited
+2026042701030215,KBL,56,41,249,224.7,55950.3,2026-04-27,188056335,142,Sri Hari Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:50:15.521273,Kumari Bank Limited
+2026042701030216,KBL,56,47,379,224.7,85161.3,2026-04-27,188056337,142,Sri Hari Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 13:50:15.521317,Kumari Bank Limited
+2026042701030217,KBL,56,101,200,224.8,44960.0,2026-04-27,188056339,142,Sri Hari Securities Pvt. Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 13:50:15.521347,Kumari Bank Limited
+2026042701030218,KBL,56,16,500,224.9,112450.0,2026-04-27,188056341,142,Sri Hari Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 13:50:15.521377,Kumari Bank Limited
+2026042701030219,KBL,56,29,200,224.9,44980.0,2026-04-27,188056343,142,Sri Hari Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-27 13:50:15.521401,Kumari Bank Limited
+2026042701030220,KBL,56,54,20,224.9,4498.0,2026-04-27,188056345,142,Sri Hari Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-27 13:50:15.521428,Kumari Bank Limited
+2026042701030221,KBL,56,34,200,225.0,45000.0,2026-04-27,188056347,142,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 13:50:15.521450,Kumari Bank Limited
+2026042701030222,KBL,56,50,1000,225.0,225000.0,2026-04-27,188056349,142,Sri Hari Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 13:50:15.521474,Kumari Bank Limited
+2026042701030223,KBL,56,66,2000,225.0,450000.0,2026-04-27,188056351,142,Sri Hari Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-27 13:50:15.521498,Kumari Bank Limited
+2026042701030224,KBL,56,43,100,225.0,22500.0,2026-04-27,188056353,142,Sri Hari Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-27 13:50:15.521521,Kumari Bank Limited
+2026042701030225,KBL,56,14,50,225.0,11250.0,2026-04-27,188056355,142,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 13:50:15.521545,Kumari Bank Limited
+2026042701030226,KBL,56,69,22,225.0,4950.0,2026-04-27,188056358,142,Sri Hari Securities Pvt. Ltd.,INDEX SECURITIES LIMITED,2026-04-27 13:50:15.521566,Kumari Bank Limited
+2026042701030231,KBL,13,95,500,224.5,112250.0,2026-04-27,188056371,142,Thrive Brokerage House Pvt. Ltd,Magnet Securities and Investment Company Private Limited,2026-04-27 13:50:18.934192,Kumari Bank Limited
+2026042701030641,KBL,42,45,100,224.7,22470.0,2026-04-27,188058083,142,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 13:53:21.738620,Kumari Bank Limited
+2026042701030701,KBL,42,74,100,224.7,22470.0,2026-04-27,188058350,142,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 13:53:57.921869,Kumari Bank Limited
+2026042701030845,KBL,13,74,11,224.5,2469.5,2026-04-27,188058864,142,Thrive Brokerage House Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-27 13:54:47.540119,Kumari Bank Limited
+2026042701030846,KBL,47,74,10,224.4,2244.0,2026-04-27,188058866,142,Neev Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 13:54:47.541214,Kumari Bank Limited
+2026042701030847,KBL,33,74,379,223.9,84858.1,2026-04-27,188058867,142,Dakshinkali Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 13:54:47.542037,Kumari Bank Limited
+2026042701030919,KBL,33,58,1432,223.9,320624.8,2026-04-27,188059141,142,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:55:30.698450,Kumari Bank Limited
+2026042701031069,KBL,14,58,30,224.0,6720.0,2026-04-27,188059620,142,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-27 13:56:37.279272,Kumari Bank Limited
+2026042701031348,KBL,34,95,35,224.5,7857.5,2026-04-27,188060838,142,Vision Securities Pvt. Ltd,Magnet Securities and Investment Company Private Limited,2026-04-27 13:59:02.724798,Kumari Bank Limited
+2026042701031426,KBL,35,95,30,224.5,6735.0,2026-04-27,188061154,142,Kohinoor Investment & Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-27 13:59:45.240354,Kumari Bank Limited
+2026042701031445,KBL,33,41,78,223.9,17464.2,2026-04-27,188061222,142,Dakshinkali Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:59:51.070559,Kumari Bank Limited
+2026042701031446,KBL,32,41,157,223.5,35089.5,2026-04-27,188061223,142,Premier Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-27 13:59:51.071035,Kumari Bank Limited
+2026042701031767,KBL,22,35,10,223.6,2236.0,2026-04-27,188062546,142,Siprabi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:02:30.466631,Kumari Bank Limited
+2026042701031847,KBL,58,35,18,223.6,4024.8,2026-04-27,188062854,142,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:03:10.025276,Kumari Bank Limited
+2026042701031851,KBL,32,19,20,223.5,4470.0,2026-04-27,188062879,142,Premier Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 14:03:15.466315,Kumari Bank Limited
+2026042701031931,KBL,98,35,22,223.6,4919.2,2026-04-27,188063143,142,Trademow Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:03:45.682554,Kumari Bank Limited
+2026042701031932,KBL,98,21,500,224.0,112000.0,2026-04-27,188063145,142,Trademow Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-27 14:03:45.683081,Kumari Bank Limited
+2026042701031933,KBL,98,32,3650,224.0,817600.0,2026-04-27,188063147,142,Trademow Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:03:45.683377,Kumari Bank Limited
+2026042701031934,KBL,98,95,35,224.5,7857.5,2026-04-27,188063149,142,Trademow Securities Private Limited,Magnet Securities and Investment Company Private Limited,2026-04-27 14:03:45.683643,Kumari Bank Limited
+2026042701031935,KBL,98,45,50,224.5,11225.0,2026-04-27,188063151,142,Trademow Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:03:45.683907,Kumari Bank Limited
+2026042701031936,KBL,98,53,50,224.5,11225.0,2026-04-27,188063153,142,Trademow Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-27 14:03:45.684178,Kumari Bank Limited
+2026042701031937,KBL,98,71,193,224.6,43347.8,2026-04-27,188063156,142,Trademow Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-27 14:03:45.684441,Kumari Bank Limited
+2026042701032367,KBL,41,77,60,224.0,13440.0,2026-04-27,188064563,142,Linch Stock Market Ltd.,Nabil Stock Dealer Ltd.,2026-04-27 14:05:49.699693,Kumari Bank Limited
+2026042701032368,KBL,41,72,390,224.0,87360.0,2026-04-27,188064565,142,Linch Stock Market Ltd.,Hatemalo Financial Services Private Limited,2026-04-27 14:05:49.700208,Kumari Bank Limited
+2026042701032754,KBL,50,101,250,224.5,56125.0,2026-04-27,188066053,142,Cristal Kanchanjanga Securites Pvt. Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 14:08:52.132784,Kumari Bank Limited
+2026042701032755,KBL,50,45,475,224.6,106685.0,2026-04-27,188066055,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:08:52.133865,Kumari Bank Limited
+2026042701032756,KBL,50,49,40,224.6,8984.0,2026-04-27,188066057,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:08:52.134697,Kumari Bank Limited
+2026042701032757,KBL,50,65,30,224.6,6738.0,2026-04-27,188066059,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-27 14:08:52.135520,Kumari Bank Limited
+2026042701032758,KBL,50,58,25,224.6,5615.0,2026-04-27,188066061,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:08:52.136348,Kumari Bank Limited
+2026042701032759,KBL,50,80,100,224.6,22460.0,2026-04-27,188066063,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Indira securities pvt. ltd,2026-04-27 14:08:52.137157,Kumari Bank Limited
+2026042701032760,KBL,50,49,540,224.6,121284.0,2026-04-27,188066065,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:08:52.137934,Kumari Bank Limited
+2026042701032761,KBL,50,49,300,224.7,67410.0,2026-04-27,188066067,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:08:52.138743,Kumari Bank Limited
+2026042701032762,KBL,50,45,1000,224.8,224800.0,2026-04-27,188066069,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:08:52.139568,Kumari Bank Limited
+2026042701032763,KBL,50,34,500,224.9,112450.0,2026-04-27,188066071,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:08:52.140388,Kumari Bank Limited
+2026042701032764,KBL,50,95,500,224.9,112450.0,2026-04-27,188066073,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-27 14:08:52.141199,Kumari Bank Limited
+2026042701032765,KBL,50,35,500,224.9,112450.0,2026-04-27,188066075,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:08:52.142002,Kumari Bank Limited
+2026042701032766,KBL,50,69,78,225.0,17550.0,2026-04-27,188066077,142,Cristal Kanchanjanga Securites Pvt. Ltd.,INDEX SECURITIES LIMITED,2026-04-27 14:08:52.142853,Kumari Bank Limited
+2026042701032767,KBL,50,53,35,225.0,7875.0,2026-04-27,188066079,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-27 14:08:52.143665,Kumari Bank Limited
+2026042701032768,KBL,50,1,20,225.0,4500.0,2026-04-27,188066081,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Kumari Securities Private Limited,2026-04-27 14:08:52.144164,Kumari Bank Limited
+2026042701032769,KBL,50,35,200,225.0,45000.0,2026-04-27,188066083,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:08:52.144435,Kumari Bank Limited
+2026042701032770,KBL,50,38,100,225.0,22500.0,2026-04-27,188066085,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 14:08:52.144695,Kumari Bank Limited
+2026042701032771,KBL,50,52,318,225.0,71550.0,2026-04-27,188066087,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Sundhara Securities Limited,2026-04-27 14:08:52.144961,Kumari Bank Limited
+2026042701032772,KBL,50,7,4989,225.0,1122525.0,2026-04-27,188066090,142,Cristal Kanchanjanga Securites Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:08:52.145231,Kumari Bank Limited
+2026042701032935,KBL,71,56,40,224.8,8992.0,2026-04-27,188066636,142,SHUBHAKAMANA SECURITIES PVT. LTD,Sri Hari Securities Pvt. Ltd.,2026-04-27 14:09:56.945317,Kumari Bank Limited
+2026042701032953,KBL,26,62,500,224.7,112350.0,2026-04-27,188066709,142,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-27 14:10:02.812387,Kumari Bank Limited
+2026042701032986,KBL,41,56,460,224.8,103408.0,2026-04-27,188066911,142,Linch Stock Market Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-27 14:10:18.228327,Kumari Bank Limited
+2026042701032987,KBL,41,51,500,224.8,112400.0,2026-04-27,188066913,142,Linch Stock Market Ltd.,Oxford Securities Pvt. Ltd.,2026-04-27 14:10:18.229389,Kumari Bank Limited
+2026042701032992,KBL,26,99,1150,224.9,258635.0,2026-04-27,188066934,142,Asian Securities Private Ltd.,Prabhu Stock Market Limited,2026-04-27 14:10:23.812346,Kumari Bank Limited
+2026042701033008,KBL,41,36,240,224.8,53952.0,2026-04-27,188066991,142,Linch Stock Market Ltd.,Secured Securities Ltd.,2026-04-27 14:10:33.722796,Kumari Bank Limited
+2026042701033045,KBL,58,36,20,224.2,4484.0,2026-04-27,188067218,142,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-27 14:10:52.694409,Kumari Bank Limited
+2026042701033416,KBL,56,49,10,224.2,2242.0,2026-04-27,188068700,142,Sri Hari Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:12:59.721857,Kumari Bank Limited
+2026042701033587,KBL,41,49,175,224.2,39235.0,2026-04-27,188069458,142,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:14:21.565698,Kumari Bank Limited
+2026042701033698,KBL,16,36,1740,224.0,389760.0,2026-04-27,188069854,142,Primo Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-27 14:14:59.473061,Kumari Bank Limited
+2026042701033741,KBL,16,39,260,224.0,58240.0,2026-04-27,188070080,142,Primo Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-27 14:15:23.844275,Kumari Bank Limited
+2026042701033742,KBL,74,39,156,224.0,34944.0,2026-04-27,188070082,142,KALASH STOCK MARKET PVT. LTD.,Sumeru Securities Pvt. Ltd.,2026-04-27 14:15:23.844866,Kumari Bank Limited
+2026042701033743,KBL,57,39,385,224.0,86240.0,2026-04-27,188070084,142,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-27 14:15:23.845159,Kumari Bank Limited
+2026042701033936,KBL,34,34,200,223.8,44760.0,2026-04-27,188070933,142,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-27 14:16:50.117659,Kumari Bank Limited
+2026042701033961,KBL,13,39,2000,224.0,448000.0,2026-04-27,188071062,142,Thrive Brokerage House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-27 14:17:02.607066,Kumari Bank Limited
+2026042701034041,KBL,1,39,2000,224.0,448000.0,2026-04-27,188071360,142,Kumari Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-27 14:17:30.443210,Kumari Bank Limited
+2026042701034315,KBL,53,39,50,224.0,11200.0,2026-04-27,188072550,142,Investment Management Nepal Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-27 14:19:24.425098,Kumari Bank Limited
+2026042701034374,KBL,42,39,100,224.0,22400.0,2026-04-27,188072802,142,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-27 14:19:48.153411,Kumari Bank Limited
+2026042701034518,KBL,34,39,49,224.0,10976.0,2026-04-27,188073311,142,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-27 14:20:43.069351,Kumari Bank Limited
+2026042701034519,KBL,34,32,451,224.0,101024.0,2026-04-27,188073314,142,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-27 14:20:43.070043,Kumari Bank Limited
+2026042701034590,KBL,94,32,20,224.0,4480.0,2026-04-27,188073628,142,K.B.L. Securities Limited ,Premier Securities Company Ltd.,2026-04-27 14:21:03.559787,Kumari Bank Limited
+2026042701034758,KBL,34,42,20,223.8,4476.0,2026-04-27,188074221,142,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-27 14:21:50.898976,Kumari Bank Limited
+2026042701034843,KBL,34,42,50,223.8,11190.0,2026-04-27,188074597,142,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-27 14:22:20.572747,Kumari Bank Limited
+2026042701034850,KBL,34,43,82,223.8,18351.6,2026-04-27,188074621,142,Vision Securities Pvt. Ltd,South Asian Bulls Pvt. Ltd.,2026-04-27 14:22:23.247727,Kumari Bank Limited
+2026042701034940,KBL,34,32,648,223.8,145022.4,2026-04-27,188074988,142,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-27 14:22:57.259926,Kumari Bank Limited
+2026042701034941,KBL,58,32,35,223.8,7833.0,2026-04-27,188074990,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260036,Kumari Bank Limited
+2026042701034942,KBL,58,32,12,223.8,2685.6,2026-04-27,188074992,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260059,Kumari Bank Limited
+2026042701034943,KBL,58,32,102,223.8,22827.6,2026-04-27,188074994,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260083,Kumari Bank Limited
+2026042701034944,KBL,16,32,1000,223.7,223700.0,2026-04-27,188074996,142,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260106,Kumari Bank Limited
+2026042701034945,KBL,58,32,500,223.6,111800.0,2026-04-27,188074998,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260169,Kumari Bank Limited
+2026042701034946,KBL,58,32,500,223.6,111800.0,2026-04-27,188075000,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260209,Kumari Bank Limited
+2026042701034947,KBL,16,32,1000,223.6,223600.0,2026-04-27,188075002,142,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260249,Kumari Bank Limited
+2026042701034948,KBL,74,32,1000,223.6,223600.0,2026-04-27,188075004,142,KALASH STOCK MARKET PVT. LTD.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260270,Kumari Bank Limited
+2026042701034949,KBL,58,32,203,223.6,45390.8,2026-04-27,188075005,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:22:57.260291,Kumari Bank Limited
+2026042701035040,KBL,58,64,297,223.6,66409.2,2026-04-27,188075456,142,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:23:25.041739,Kumari Bank Limited
+2026042701035041,KBL,58,64,500,223.6,111800.0,2026-04-27,188075458,142,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:23:25.042312,Kumari Bank Limited
+2026042701035042,KBL,58,64,415,223.6,92794.0,2026-04-27,188075459,142,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:23:25.042597,Kumari Bank Limited
+2026042701035059,KBL,32,32,823,223.5,183940.5,2026-04-27,188075498,142,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:23:31.166208,Kumari Bank Limited
+2026042701035060,KBL,58,32,93,223.5,20785.5,2026-04-27,188075502,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:23:31.167309,Kumari Bank Limited
+2026042701035061,KBL,20,32,50,223.5,11175.0,2026-04-27,188075504,142,Sipla Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:23:31.168161,Kumari Bank Limited
+2026042701035062,KBL,58,32,2000,223.5,447000.0,2026-04-27,188075506,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:23:31.168975,Kumari Bank Limited
+2026042701035163,KBL,7,74,30,223.2,6696.0,2026-04-27,188075803,142,J.F. Securites (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:23:51.180972,Kumari Bank Limited
+2026042701035380,KBL,57,4,300,223.3,66990.0,2026-04-27,188076975,142,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,2026-04-27 14:24:54.792463,Kumari Bank Limited
+2026042701035433,KBL,57,32,200,223.3,44660.0,2026-04-27,188077256,142,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-27 14:25:16.160881,Kumari Bank Limited
+2026042701035434,KBL,42,32,100,223.2,22320.0,2026-04-27,188077258,142,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:25:16.161534,Kumari Bank Limited
+2026042701035435,KBL,1,32,1700,223.1,379270.0,2026-04-27,188077259,142,Kumari Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:25:16.161817,Kumari Bank Limited
+2026042701035500,KBL,1,32,300,223.1,66930.0,2026-04-27,188077648,142,Kumari Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:25:47.055020,Kumari Bank Limited
+2026042701035501,KBL,58,32,48,223.0,10704.0,2026-04-27,188077650,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:25:47.055718,Kumari Bank Limited
+2026042701035502,KBL,72,32,50,223.0,11150.0,2026-04-27,188077652,142,Hatemalo Financial Services Private Limited,Premier Securities Company Ltd.,2026-04-27 14:25:47.056553,Kumari Bank Limited
+2026042701035503,KBL,26,32,220,223.0,49060.0,2026-04-27,188077654,142,Asian Securities Private Ltd.,Premier Securities Company Ltd.,2026-04-27 14:25:47.057377,Kumari Bank Limited
+2026042701035504,KBL,49,32,70,223.0,15610.0,2026-04-27,188077656,142,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:25:47.058248,Kumari Bank Limited
+2026042701035505,KBL,59,32,30,223.0,6690.0,2026-04-27,188077658,142,Deevyaa Securities & Stock House Pvt. Ltd,Premier Securities Company Ltd.,2026-04-27 14:25:47.059070,Kumari Bank Limited
+2026042701035506,KBL,26,32,1282,223.0,285886.0,2026-04-27,188077659,142,Asian Securities Private Ltd.,Premier Securities Company Ltd.,2026-04-27 14:25:47.059890,Kumari Bank Limited
+2026042701035555,KBL,50,65,521,223.5,116443.5,2026-04-27,188077865,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-27 14:26:03.457781,Kumari Bank Limited
+2026042701035556,KBL,50,34,479,223.5,107056.5,2026-04-27,188077868,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:26:03.458905,Kumari Bank Limited
+2026042701035598,KBL,26,64,568,223.0,126664.0,2026-04-27,188078088,142,Asian Securities Private Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:26:22.320197,Kumari Bank Limited
+2026042701035599,KBL,29,64,932,223.0,207836.0,2026-04-27,188078089,142,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:26:22.321382,Kumari Bank Limited
+2026042701035640,KBL,29,34,21,223.0,4683.0,2026-04-27,188078227,142,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:26:30.229350,Kumari Bank Limited
+2026042701035643,KBL,29,32,47,223.0,10481.0,2026-04-27,188078236,142,Trisul Securities & Invt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:26:31.996622,Kumari Bank Limited
+2026042701035644,KBL,60,32,200,223.0,44600.0,2026-04-27,188078238,142,Nagarik Stock Dealer ,Premier Securities Company Ltd.,2026-04-27 14:26:31.996726,Kumari Bank Limited
+2026042701035645,KBL,20,32,50,223.0,11150.0,2026-04-27,188078240,142,Sipla Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:26:31.996807,Kumari Bank Limited
+2026042701035646,KBL,42,32,1000,223.0,223000.0,2026-04-27,188078242,142,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:26:31.996888,Kumari Bank Limited
+2026042701035647,KBL,95,32,500,223.0,111500.0,2026-04-27,188078244,142,Magnet Securities and Investment Company Private Limited,Premier Securities Company Ltd.,2026-04-27 14:26:31.996959,Kumari Bank Limited
+2026042701035648,KBL,45,32,896,223.0,199808.0,2026-04-27,188078246,142,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:26:31.997055,Kumari Bank Limited
+2026042701035649,KBL,46,32,307,223.0,68461.0,2026-04-27,188078247,142,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:26:31.997135,Kumari Bank Limited
+2026042701035865,KBL,13,17,94,223.5,21009.0,2026-04-27,188079099,142,Thrive Brokerage House Pvt. Ltd,ABC Securities Private Limited,2026-04-27 14:27:39.194262,Kumari Bank Limited
+2026042701035917,KBL,13,6,200,223.5,44700.0,2026-04-27,188079281,142,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-27 14:27:55.257752,Kumari Bank Limited
+2026042701036043,KBL,13,32,1506,223.5,336591.0,2026-04-27,188079802,142,Thrive Brokerage House Pvt. Ltd,Premier Securities Company Ltd.,2026-04-27 14:28:35.747292,Kumari Bank Limited
+2026042701036044,KBL,7,32,2000,223.2,446400.0,2026-04-27,188079804,142,J.F. Securites (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:28:35.747410,Kumari Bank Limited
+2026042701036045,KBL,26,32,1494,223.1,333311.4,2026-04-27,188079805,142,Asian Securities Private Ltd.,Premier Securities Company Ltd.,2026-04-27 14:28:35.747514,Kumari Bank Limited
+2026042701036459,KBL,35,57,50,223.2,11160.0,2026-04-27,188081402,142,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-27 14:31:07.831592,Kumari Bank Limited
+2026042701036460,KBL,26,57,206,223.1,45958.6,2026-04-27,188081404,142,Asian Securities Private Ltd.,Aryatara Investment & Securities,2026-04-27 14:31:07.832717,Kumari Bank Limited
+2026042701036461,KBL,46,57,53,223.0,11819.0,2026-04-27,188081406,142,Kalika Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-27 14:31:07.833096,Kumari Bank Limited
+2026042701036462,KBL,58,57,20,223.0,4460.0,2026-04-27,188081408,142,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-27 14:31:07.833388,Kumari Bank Limited
+2026042701036463,KBL,42,57,100,223.0,22300.0,2026-04-27,188081410,142,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-27 14:31:07.833666,Kumari Bank Limited
+2026042701036464,KBL,57,57,100,223.0,22300.0,2026-04-27,188081412,142,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-27 14:31:07.833941,Kumari Bank Limited
+2026042701036580,KBL,58,14,20,222.6,4452.0,2026-04-27,188081920,142,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:31:52.210459,Kumari Bank Limited
+2026042701036678,KBL,7,14,300,222.6,66780.0,2026-04-27,188082376,142,J.F. Securites (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:32:29.391253,Kumari Bank Limited
+2026042701036778,KBL,49,14,10,222.6,2226.0,2026-04-27,188082832,142,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:33:06.571544,Kumari Bank Limited
+2026042701036781,KBL,50,14,670,222.6,149142.0,2026-04-27,188082853,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 14:33:08.785504,Kumari Bank Limited
+2026042701036782,KBL,50,57,330,223.0,73590.0,2026-04-27,188082856,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Aryatara Investment & Securities,2026-04-27 14:33:08.785606,Kumari Bank Limited
+2026042701036876,KBL,50,57,651,223.0,145173.0,2026-04-27,188083191,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Aryatara Investment & Securities,2026-04-27 14:33:39.531604,Kumari Bank Limited
+2026042701036877,KBL,50,38,104,223.8,23275.2,2026-04-27,188083193,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 14:33:39.531706,Kumari Bank Limited
+2026042701036878,KBL,50,35,50,223.8,11190.0,2026-04-27,188083195,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:33:39.531781,Kumari Bank Limited
+2026042701036879,KBL,50,47,10,223.9,2239.0,2026-04-27,188083197,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 14:33:39.531855,Kumari Bank Limited
+2026042701036880,KBL,50,32,185,223.9,41421.5,2026-04-27,188083200,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:33:39.531930,Kumari Bank Limited
+2026042701037087,KBL,35,41,40,223.0,8920.0,2026-04-27,188083988,142,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 14:34:42.665631,Kumari Bank Limited
+2026042701037088,KBL,1,41,60,222.6,13356.0,2026-04-27,188083989,142,Kumari Securities Private Limited,Linch Stock Market Ltd.,2026-04-27 14:34:42.666819,Kumari Bank Limited
+2026042701037575,KBL,4,42,100,223.0,22300.0,2026-04-27,188085696,142,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-27 14:37:13.754223,Kumari Bank Limited
+2026042701037781,KBL,51,42,50,223.0,11150.0,2026-04-27,188086468,142,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 14:38:10.240274,Kumari Bank Limited
+2026042701037951,KBL,22,42,150,223.0,33450.0,2026-04-27,188087213,142,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 14:39:12.495785,Kumari Bank Limited
+2026042701037952,KBL,22,13,25,223.0,5575.0,2026-04-27,188087216,142,Siprabi Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:39:12.496378,Kumari Bank Limited
+2026042701037961,KBL,17,64,50,222.7,11135.0,2026-04-27,188087237,142,ABC Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-27 14:39:15.866377,Kumari Bank Limited
+2026042701038076,KBL,1,32,440,222.6,97944.0,2026-04-27,188087658,142,Kumari Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:39:54.205267,Kumari Bank Limited
+2026042701038077,KBL,32,32,500,222.6,111300.0,2026-04-27,188087660,142,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205385,Kumari Bank Limited
+2026042701038078,KBL,35,32,50,222.4,11120.0,2026-04-27,188087662,142,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205452,Kumari Bank Limited
+2026042701038079,KBL,32,32,500,222.4,111200.0,2026-04-27,188087664,142,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205519,Kumari Bank Limited
+2026042701038080,KBL,90,32,1000,222.3,222300.0,2026-04-27,188087666,142,Sajilo Broker Limited,Premier Securities Company Ltd.,2026-04-27 14:39:54.205590,Kumari Bank Limited
+2026042701038081,KBL,47,32,50,222.3,11115.0,2026-04-27,188087668,142,Neev Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205660,Kumari Bank Limited
+2026042701038082,KBL,58,32,22,222.1,4886.2,2026-04-27,188087670,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205734,Kumari Bank Limited
+2026042701038083,KBL,16,32,555,222.1,123265.5,2026-04-27,188087672,142,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205802,Kumari Bank Limited
+2026042701038084,KBL,41,32,44,222.0,9768.0,2026-04-27,188087674,142,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205868,Kumari Bank Limited
+2026042701038085,KBL,51,32,1000,222.0,222000.0,2026-04-27,188087676,142,Oxford Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205937,Kumari Bank Limited
+2026042701038086,KBL,28,32,2000,222.0,444000.0,2026-04-27,188087678,142,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.205995,Kumari Bank Limited
+2026042701038087,KBL,58,32,174,222.0,38628.0,2026-04-27,188087680,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206083,Kumari Bank Limited
+2026042701038088,KBL,20,32,5000,222.0,1110000.0,2026-04-27,188087682,142,Sipla Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:39:54.206169,Kumari Bank Limited
+2026042701038089,KBL,26,32,1000,222.0,222000.0,2026-04-27,188087684,142,Asian Securities Private Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206227,Kumari Bank Limited
+2026042701038090,KBL,34,32,10,222.0,2220.0,2026-04-27,188087686,142,Vision Securities Pvt. Ltd,Premier Securities Company Ltd.,2026-04-27 14:39:54.206289,Kumari Bank Limited
+2026042701038091,KBL,48,32,200,222.0,44400.0,2026-04-27,188087688,142,Trishakti Securities Public Limited,Premier Securities Company Ltd.,2026-04-27 14:39:54.206357,Kumari Bank Limited
+2026042701038092,KBL,57,32,215,222.0,47730.0,2026-04-27,188087690,142,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-27 14:39:54.206423,Kumari Bank Limited
+2026042701038093,KBL,45,32,100,222.0,22200.0,2026-04-27,188087692,142,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206490,Kumari Bank Limited
+2026042701038094,KBL,42,32,390,222.0,86580.0,2026-04-27,188087694,142,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206550,Kumari Bank Limited
+2026042701038095,KBL,46,32,1000,222.0,222000.0,2026-04-27,188087696,142,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206615,Kumari Bank Limited
+2026042701038096,KBL,58,32,10,222.0,2220.0,2026-04-27,188087698,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206722,Kumari Bank Limited
+2026042701038097,KBL,22,32,20,222.0,4440.0,2026-04-27,188087700,142,Siprabi Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206789,Kumari Bank Limited
+2026042701038098,KBL,57,32,50,222.0,11100.0,2026-04-27,188087702,142,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-27 14:39:54.206855,Kumari Bank Limited
+2026042701038099,KBL,35,32,500,222.0,111000.0,2026-04-27,188087704,142,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206919,Kumari Bank Limited
+2026042701038100,KBL,58,32,100,222.0,22200.0,2026-04-27,188087706,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.206984,Kumari Bank Limited
+2026042701038101,KBL,45,32,70,222.0,15540.0,2026-04-27,188087707,142,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:39:54.207061,Kumari Bank Limited
+2026042701038199,KBL,45,52,930,222.0,206460.0,2026-04-27,188087964,142,Imperial Securities Company Pvt. Ltd.,Sundhara Securities Limited,2026-04-27 14:40:08.483014,Kumari Bank Limited
+2026042701038200,KBL,58,52,20,221.2,4424.0,2026-04-27,188087966,142,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-27 14:40:08.483161,Kumari Bank Limited
+2026042701038201,KBL,52,52,80,221.2,17696.0,2026-04-27,188087967,142,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-27 14:40:08.483285,Kumari Bank Limited
+2026042701038306,KBL,91,32,4500,222.0,999000.0,2026-04-27,188088351,142,Citizens Share Broker Limited,Premier Securities Company Ltd.,2026-04-27 14:40:38.031794,Kumari Bank Limited
+2026042701038767,KBL,16,54,300,222.1,66630.0,2026-04-27,188090103,142,Primo Securities (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-27 14:42:57.940993,Kumari Bank Limited
+2026042701038791,KBL,16,32,699,222.1,155247.9,2026-04-27,188090250,142,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:43:07.954287,Kumari Bank Limited
+2026042701038792,KBL,3,32,175,222.0,38850.0,2026-04-27,188090252,142,Arun Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:43:07.954416,Kumari Bank Limited
+2026042701038793,KBL,91,32,10000,222.0,2220000.0,2026-04-27,188090254,142,Citizens Share Broker Limited,Premier Securities Company Ltd.,2026-04-27 14:43:07.954495,Kumari Bank Limited
+2026042701038794,KBL,42,32,500,222.0,111000.0,2026-04-27,188090256,142,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:43:07.954569,Kumari Bank Limited
+2026042701038795,KBL,52,32,20,221.2,4424.0,2026-04-27,188090258,142,Sundhara Securities Limited,Premier Securities Company Ltd.,2026-04-27 14:43:07.954644,Kumari Bank Limited
+2026042701038796,KBL,32,32,500,221.2,110600.0,2026-04-27,188090260,142,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:43:07.954718,Kumari Bank Limited
+2026042701038797,KBL,45,32,500,221.2,110600.0,2026-04-27,188090262,142,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:43:07.954787,Kumari Bank Limited
+2026042701038798,KBL,52,32,9000,221.1,1989900.0,2026-04-27,188090264,142,Sundhara Securities Limited,Premier Securities Company Ltd.,2026-04-27 14:43:07.954877,Kumari Bank Limited
+2026042701038799,KBL,57,32,1000,221.1,221100.0,2026-04-27,188090266,142,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-27 14:43:07.954974,Kumari Bank Limited
+2026042701038800,KBL,57,32,106,221.0,23426.0,2026-04-27,188090267,142,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-27 14:43:07.955062,Kumari Bank Limited
+2026042701039098,KBL,22,46,195,221.2,43134.0,2026-04-27,188091439,142,Siprabi Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-27 14:44:22.979190,Kumari Bank Limited
+2026042701039099,KBL,22,26,30,222.0,6660.0,2026-04-27,188091441,142,Siprabi Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-27 14:44:22.979728,Kumari Bank Limited
+2026042701039250,KBL,22,45,100,222.0,22200.0,2026-04-27,188092091,142,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:45:17.509899,Kumari Bank Limited
+2026042701039287,KBL,43,13,34,223.0,7582.0,2026-04-27,188092290,142,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:30.764416,Kumari Bank Limited
+2026042701039296,KBL,10,64,10,222.1,2221.0,2026-04-27,188092328,142,Pragyan Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:45:34.901864,Kumari Bank Limited
+2026042701039297,KBL,22,64,165,222.0,36630.0,2026-04-27,188092329,142,Siprabi Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:45:34.902465,Kumari Bank Limited
+2026042701039328,KBL,22,13,10,222.0,2220.0,2026-04-27,188092476,142,Siprabi Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:45.758085,Kumari Bank Limited
+2026042701039329,KBL,91,13,400,222.0,88800.0,2026-04-27,188092478,142,Citizens Share Broker Limited,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:45.758204,Kumari Bank Limited
+2026042701039330,KBL,22,13,1000,221.1,221100.0,2026-04-27,188092480,142,Siprabi Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:45.758279,Kumari Bank Limited
+2026042701039331,KBL,16,13,999,221.1,220878.9,2026-04-27,188092482,142,Primo Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:45.758346,Kumari Bank Limited
+2026042701039332,KBL,45,13,500,221.1,110550.0,2026-04-27,188092484,142,Imperial Securities Company Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:45.758411,Kumari Bank Limited
+2026042701039333,KBL,57,13,2894,221.0,639574.0,2026-04-27,188092486,142,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:45.758477,Kumari Bank Limited
+2026042701039334,KBL,57,13,1462,221.0,323102.0,2026-04-27,188092487,142,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:45:45.758546,Kumari Bank Limited
+2026042701039398,KBL,35,32,500,221.1,110550.0,2026-04-27,188092764,142,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.917403,Kumari Bank Limited
+2026042701039399,KBL,57,32,537,221.0,118677.0,2026-04-27,188092766,142,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-27 14:46:05.918551,Kumari Bank Limited
+2026042701039400,KBL,16,32,224,221.0,49504.0,2026-04-27,188092768,142,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.919419,Kumari Bank Limited
+2026042701039401,KBL,25,32,500,221.0,110500.0,2026-04-27,188092770,142,Sweta Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:46:05.920279,Kumari Bank Limited
+2026042701039402,KBL,7,32,221,221.0,48841.0,2026-04-27,188092772,142,J.F. Securites (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.921123,Kumari Bank Limited
+2026042701039403,KBL,32,32,221,221.0,48841.0,2026-04-27,188092774,142,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.921965,Kumari Bank Limited
+2026042701039404,KBL,35,32,50,221.0,11050.0,2026-04-27,188092776,142,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.922823,Kumari Bank Limited
+2026042701039405,KBL,17,32,500,221.0,110500.0,2026-04-27,188092778,142,ABC Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:46:05.923678,Kumari Bank Limited
+2026042701039406,KBL,17,32,100,221.0,22100.0,2026-04-27,188092780,142,ABC Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:46:05.924530,Kumari Bank Limited
+2026042701039407,KBL,51,32,5000,221.0,1105000.0,2026-04-27,188092782,142,Oxford Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.925375,Kumari Bank Limited
+2026042701039408,KBL,89,32,135,221.0,29835.0,2026-04-27,188092784,142,Global IME Securities Limited,Premier Securities Company Ltd.,2026-04-27 14:46:05.926227,Kumari Bank Limited
+2026042701039409,KBL,45,32,1000,221.0,221000.0,2026-04-27,188092786,142,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.927077,Kumari Bank Limited
+2026042701039410,KBL,60,32,200,221.0,44200.0,2026-04-27,188092788,142,Nagarik Stock Dealer ,Premier Securities Company Ltd.,2026-04-27 14:46:05.927916,Kumari Bank Limited
+2026042701039411,KBL,19,32,89,221.0,19669.0,2026-04-27,188092790,142,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,2026-04-27 14:46:05.928757,Kumari Bank Limited
+2026042701039412,KBL,4,32,188,221.0,41548.0,2026-04-27,188092792,142,Opal Securities Investment (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.929604,Kumari Bank Limited
+2026042701039413,KBL,50,32,500,221.0,110500.0,2026-04-27,188092794,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.930419,Kumari Bank Limited
+2026042701039414,KBL,45,32,35,221.0,7735.0,2026-04-27,188092795,142,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:05.931042,Kumari Bank Limited
+2026042701039446,KBL,45,32,2965,221.0,655265.0,2026-04-27,188092914,142,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:16.076960,Kumari Bank Limited
+2026042701039447,KBL,65,32,1000,221.0,221000.0,2026-04-27,188092916,142,Sharepro Securities Private Limited,Premier Securities Company Ltd.,2026-04-27 14:46:16.078066,Kumari Bank Limited
+2026042701039607,KBL,58,32,20,221.0,4420.0,2026-04-27,188093450,142,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:49.229771,Kumari Bank Limited
+2026042701039622,KBL,32,32,500,221.0,110500.0,2026-04-27,188093490,142,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:51.807157,Kumari Bank Limited
+2026042701039627,KBL,43,32,44,221.0,9724.0,2026-04-27,188093501,142,South Asian Bulls Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-27 14:46:53.273433,Kumari Bank Limited
+2026042701039628,KBL,43,45,856,221.0,189176.0,2026-04-27,188093504,142,South Asian Bulls Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:46:53.274493,Kumari Bank Limited
+2026042701039749,KBL,50,49,150,220.5,33075.0,2026-04-27,188093951,142,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:47:14.648995,Kumari Bank Limited
+2026042701039782,KBL,54,45,10,221.0,2210.0,2026-04-27,188094060,142,Sewa Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:47:19.365275,Kumari Bank Limited
+2026042701039855,KBL,64,47,213,222.9,47477.7,2026-04-27,188094433,142,SUN SECURITIES PVT LTD,Neev Securities Pvt. Ltd.,2026-04-27 14:47:40.579537,Kumari Bank Limited
+2026042701039856,KBL,64,13,941,223.0,209843.0,2026-04-27,188094435,142,SUN SECURITIES PVT LTD,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:47:40.579641,Kumari Bank Limited
+2026042701039857,KBL,64,44,2000,223.0,446000.0,2026-04-27,188094437,142,SUN SECURITIES PVT LTD,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 14:47:40.579671,Kumari Bank Limited
+2026042701039858,KBL,64,58,2900,223.0,646700.0,2026-04-27,188094439,142,SUN SECURITIES PVT LTD,Naasa Securities Co. Ltd.,2026-04-27 14:47:40.579701,Kumari Bank Limited
+2026042701039859,KBL,64,28,10,223.0,2230.0,2026-04-27,188094441,142,SUN SECURITIES PVT LTD,Shree Krishna Securities Ltd.,2026-04-27 14:47:40.579735,Kumari Bank Limited
+2026042701039860,KBL,64,13,500,223.5,111750.0,2026-04-27,188094443,142,SUN SECURITIES PVT LTD,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:47:40.579765,Kumari Bank Limited
+2026042701039861,KBL,64,45,730,223.9,163447.0,2026-04-27,188094445,142,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:47:40.579792,Kumari Bank Limited
+2026042701039862,KBL,64,33,1000,223.9,223900.0,2026-04-27,188094447,142,SUN SECURITIES PVT LTD,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-27 14:47:40.579823,Kumari Bank Limited
+2026042701039863,KBL,64,33,1000,223.9,223900.0,2026-04-27,188094449,142,SUN SECURITIES PVT LTD,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-27 14:47:40.579882,Kumari Bank Limited
+2026042701039864,KBL,64,91,20,224.0,4480.0,2026-04-27,188094451,142,SUN SECURITIES PVT LTD,Citizens Share Broker Limited,2026-04-27 14:47:40.579907,Kumari Bank Limited
+2026042701039865,KBL,64,14,50,224.0,11200.0,2026-04-27,188094453,142,SUN SECURITIES PVT LTD,Nepal Stock House (PVT) Ltd.,2026-04-27 14:47:40.579931,Kumari Bank Limited
+2026042701039866,KBL,64,34,636,224.0,142464.0,2026-04-27,188094456,142,SUN SECURITIES PVT LTD,Vision Securities Pvt. Ltd,2026-04-27 14:47:40.579956,Kumari Bank Limited
+2026042701040106,KBL,19,7,11,221.0,2431.0,2026-04-27,188095555,142,Nepal Investment And Securities Trading Private Limited,J.F. Securites (PVT) Ltd.,2026-04-27 14:48:46.618401,Kumari Bank Limited
+2026042701040199,KBL,32,43,11,222.0,2442.0,2026-04-27,188095997,142,Premier Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-27 14:49:08.821087,Kumari Bank Limited
+2026042701040200,KBL,32,34,39,224.0,8736.0,2026-04-27,188096000,142,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:49:08.822043,Kumari Bank Limited
+2026042701040286,KBL,53,58,10,223.9,2239.0,2026-04-27,188096408,142,Investment Management Nepal Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:49:36.918331,Kumari Bank Limited
+2026042701040570,KBL,52,49,80,223.0,17840.0,2026-04-27,188097540,142,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-27 14:50:42.435729,Kumari Bank Limited
+2026042701040702,KBL,35,53,19,222.0,4218.0,2026-04-27,188098008,142,Kohinoor Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-27 14:51:10.562324,Kumari Bank Limited
+2026042701040703,KBL,58,53,381,222.0,84582.0,2026-04-27,188098009,142,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-27 14:51:10.563482,Kumari Bank Limited
+2026042701040795,KBL,45,101,50,223.0,11150.0,2026-04-27,188098600,142,Imperial Securities Company Pvt. Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 14:51:28.454618,Kumari Bank Limited
+2026042701040997,KBL,58,64,619,222.0,137418.0,2026-04-27,188099621,142,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 14:52:23.636301,Kumari Bank Limited
+2026042701041075,KBL,36,40,1000,223.0,223000.0,2026-04-27,188100112,142,Secured Securities Ltd.,Creative Securities Pvt Ltd,2026-04-27 14:52:48.127930,Kumari Bank Limited
+2026042701041156,KBL,72,16,150,222.0,33300.0,2026-04-27,188100494,142,Hatemalo Financial Services Private Limited,Primo Securities (PVT) Ltd.,2026-04-27 14:53:07.803974,Kumari Bank Limited
+2026042701041258,KBL,22,50,25,221.2,5530.0,2026-04-27,188101002,142,Siprabi Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 14:53:29.165184,Kumari Bank Limited
+2026042701041259,KBL,14,50,407,221.2,90028.4,2026-04-27,188101003,142,Nepal Stock House (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 14:53:29.165762,Kumari Bank Limited
+2026042701041281,KBL,14,35,1000,221.2,221200.0,2026-04-27,188101087,142,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:53:34.000538,Kumari Bank Limited
+2026042701041377,KBL,57,64,11,221.3,2434.3,2026-04-27,188101523,142,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,2026-04-27 14:53:56.397443,Kumari Bank Limited
+2026042701041513,KBL,21,16,50,222.0,11100.0,2026-04-27,188102262,142,Midas Stock Broking Company Private Limited,Primo Securities (PVT) Ltd.,2026-04-27 14:54:29.453187,Kumari Bank Limited
+2026042701041525,KBL,57,7,489,221.3,108215.7,2026-04-27,188102327,142,Aryatara Investment & Securities,J.F. Securites (PVT) Ltd.,2026-04-27 14:54:33.548832,Kumari Bank Limited
+2026042701041526,KBL,14,7,11,221.2,2433.2,2026-04-27,188102330,142,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:54:33.549445,Kumari Bank Limited
+2026042701041943,KBL,14,49,82,221.2,18138.4,2026-04-27,188104040,142,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:55:49.718441,Kumari Bank Limited
+2026042701041944,KBL,51,49,68,221.2,15041.6,2026-04-27,188104041,142,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:55:49.719030,Kumari Bank Limited
+2026042701042098,KBL,1,21,34,221.3,7524.2,2026-04-27,188104877,142,Kumari Securities Private Limited,Midas Stock Broking Company Private Limited,2026-04-27 14:56:21.488490,Kumari Bank Limited
+2026042701042205,KBL,58,16,50,222.0,11100.0,2026-04-27,188105474,142,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:56:39.461854,Kumari Bank Limited
+2026042701042455,KBL,1,58,166,221.3,36735.8,2026-04-27,188106430,142,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-27 14:57:08.559859,Kumari Bank Limited
+2026042701042456,KBL,51,58,834,221.2,184480.8,2026-04-27,188106431,142,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:57:08.561050,Kumari Bank Limited
+2026042701042736,KBL,42,16,198,222.0,43956.0,2026-04-27,188107816,142,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:57:53.718651,Kumari Bank Limited
+2026042701042761,KBL,58,58,15,221.5,3322.5,2026-04-27,188107917,142,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:57:56.032988,Kumari Bank Limited
+2026042701042804,KBL,38,16,52,222.0,11544.0,2026-04-27,188108143,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:58:03.992655,Kumari Bank Limited
+2026042701042805,KBL,38,48,1000,222.0,222000.0,2026-04-27,188108145,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-27 14:58:03.993843,Kumari Bank Limited
+2026042701042806,KBL,38,19,35,222.0,7770.0,2026-04-27,188108147,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-27 14:58:03.994801,Kumari Bank Limited
+2026042701042807,KBL,38,101,450,222.0,99900.0,2026-04-27,188108149,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-27 14:58:03.995777,Kumari Bank Limited
+2026042701042808,KBL,38,1,900,222.0,199800.0,2026-04-27,188108151,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,2026-04-27 14:58:03.996700,Kumari Bank Limited
+2026042701042927,KBL,38,26,95,222.5,21137.5,2026-04-27,188108591,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Asian Securities Private Ltd.,2026-04-27 14:58:17.153495,Kumari Bank Limited
+2026042701042928,KBL,38,25,10,223.0,2230.0,2026-04-27,188108593,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-27 14:58:17.155294,Kumari Bank Limited
+2026042701042929,KBL,38,13,500,223.0,111500.0,2026-04-27,188108595,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-27 14:58:17.156562,Kumari Bank Limited
+2026042701042930,KBL,38,54,100,223.0,22300.0,2026-04-27,188108597,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sewa Securities Pvt. Ltd.,2026-04-27 14:58:17.157053,Kumari Bank Limited
+2026042701043080,KBL,38,37,2869,223.0,639787.0,2026-04-27,188109408,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 14:58:38.503498,Kumari Bank Limited
+2026042701043109,KBL,38,32,500,223.0,111500.0,2026-04-27,188109495,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-27 14:58:41.424768,Kumari Bank Limited
+2026042701043148,KBL,38,70,150,223.0,33450.0,2026-04-27,188109653,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Infinity Securities Limited,2026-04-27 14:58:44.713962,Kumari Bank Limited
+2026042701043149,KBL,38,50,776,223.0,173048.0,2026-04-27,188109656,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 14:58:44.823063,Kumari Bank Limited
+2026042701043190,KBL,38,50,224,223.0,49952.0,2026-04-27,188109872,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 14:58:52.290384,Kumari Bank Limited
+2026042701043191,KBL,38,58,940,223.3,209902.0,2026-04-27,188109874,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:58:52.290963,Kumari Bank Limited
+2026042701043192,KBL,38,32,500,223.4,111700.0,2026-04-27,188109876,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-27 14:58:52.291292,Kumari Bank Limited
+2026042701043380,KBL,38,36,805,223.5,179917.5,2026-04-27,188110751,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Secured Securities Ltd.,2026-04-27 14:59:09.895710,Kumari Bank Limited
+2026042701043388,KBL,52,95,1000,223.6,223600.0,2026-04-27,188110782,142,Sundhara Securities Limited,Magnet Securities and Investment Company Private Limited,2026-04-27 14:59:11.044206,Kumari Bank Limited
+2026042701043438,KBL,38,6,600,223.5,134100.0,2026-04-27,188110998,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 14:59:15.100908,Kumari Bank Limited
+2026042701043451,KBL,38,62,904,223.5,202044.0,2026-04-27,188111005,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,2026-04-27 14:59:15.714384,Kumari Bank Limited
+2026042701043463,KBL,38,34,200,223.5,44700.0,2026-04-27,188111047,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:59:17.463913,Kumari Bank Limited
+2026042701043538,KBL,38,59,58,223.5,12963.0,2026-04-27,188111417,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-27 14:59:23.622014,Kumari Bank Limited
+2026042701043787,KBL,38,35,300,223.5,67050.0,2026-04-27,188112351,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:59:35.155953,Kumari Bank Limited
+2026042701043999,KBL,38,16,469,223.5,104821.5,2026-04-27,188113190,142,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:59:45.789592,Kumari Bank Limited
+2026042701044000,KBL,11,16,100,223.3,22330.0,2026-04-27,188113192,142,Malla & Malla Stock Broking Company Pvt. Limited,Primo Securities (PVT) Ltd.,2026-04-27 14:59:45.790833,Kumari Bank Limited
+2026042701044001,KBL,39,16,450,223.3,100485.0,2026-04-27,188113194,142,Sumeru Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:59:45.791798,Kumari Bank Limited
+2026042701044002,KBL,51,16,30,223.0,6690.0,2026-04-27,188113196,142,Oxford Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:59:45.792758,Kumari Bank Limited
+2026042701044003,KBL,58,16,100,223.0,22300.0,2026-04-27,188113198,142,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-27 14:59:45.793712,Kumari Bank Limited
+2026042701044004,KBL,52,16,490,223.0,109270.0,2026-04-27,188113200,142,Sundhara Securities Limited,Primo Securities (PVT) Ltd.,2026-04-27 14:59:45.794651,Kumari Bank Limited
+2026042701044005,KBL,13,16,361,223.0,80503.0,2026-04-27,188113201,142,Thrive Brokerage House Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-27 14:59:45.795600,Kumari Bank Limited
+2026042701044009,KBL,7,95,250,223.6,55900.0,2026-04-27,188113258,142,J.F. Securites (PVT) Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-27 14:59:46.183113,Kumari Bank Limited
+2026042701044059,KBL,26,95,2250,223.6,503100.0,2026-04-27,188113501,142,Asian Securities Private Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-27 14:59:49.869291,Kumari Bank Limited
+2026042701044060,KBL,26,53,50,223.6,11180.0,2026-04-27,188113503,142,Asian Securities Private Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-27 14:59:49.869864,Kumari Bank Limited
+2026042701044189,KBL,32,34,100,224.0,22400.0,2026-04-27,188114392,142,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:59:57.226206,Kumari Bank Limited

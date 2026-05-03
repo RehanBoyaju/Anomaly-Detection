@@ -1,0 +1,355 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042204000012,RADHI,58,34,30,790.0,23700.0,2026-04-22,187372195,2776,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-22 10:46:00.098362,Radhi Bidyut Company Ltd
+2026042204000046,RADHI,58,39,10,800.0,8000.0,2026-04-22,187372610,2776,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-22 11:00:41.571991,Radhi Bidyut Company Ltd
+2026042204000057,RADHI,81,39,490,800.0,392000.0,2026-04-22,187372840,2776,Aakashbhairab Securities Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-22 11:01:04.343987,Radhi Bidyut Company Ltd
+2026042204000060,RADHI,33,48,20,805.0,16100.0,2026-04-22,187373005,2776,Dakshinkali Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-22 11:01:19.388351,Radhi Bidyut Company Ltd
+2026042204000061,RADHI,33,81,19980,805.0,16083900.0,2026-04-22,187373008,2776,Dakshinkali Investment & Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 11:01:19.388411,Radhi Bidyut Company Ltd
+2026042204000122,RADHI,32,33,10,783.0,7830.0,2026-04-22,187374099,2776,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 11:03:00.747333,Radhi Bidyut Company Ltd
+2026042204000427,RADHI,16,38,200,786.3,157260.0,2026-04-22,187377288,2776,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 11:06:27.648511,Radhi Bidyut Company Ltd
+2026042204000428,RADHI,58,38,200,786.1,157220.0,2026-04-22,187377290,2776,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 11:06:27.648610,Radhi Bidyut Company Ltd
+2026042204000429,RADHI,100,38,200,785.2,157040.0,2026-04-22,187377292,2776,Sunrise Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 11:06:27.648658,Radhi Bidyut Company Ltd
+2026042204000430,RADHI,65,38,2000,785.1,1570200.0,2026-04-22,187377294,2776,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 11:06:27.648696,Radhi Bidyut Company Ltd
+2026042204000431,RADHI,74,38,300,785.0,235500.0,2026-04-22,187377295,2776,KALASH STOCK MARKET PVT. LTD.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 11:06:27.648731,Radhi Bidyut Company Ltd
+2026042204000520,RADHI,57,81,400,785.1,314040.0,2026-04-22,187377946,2776,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,2026-04-22 11:07:05.378117,Radhi Bidyut Company Ltd
+2026042204000521,RADHI,74,81,200,785.0,157000.0,2026-04-22,187377947,2776,KALASH STOCK MARKET PVT. LTD.,Aakashbhairab Securities Ltd.,2026-04-22 11:07:05.378197,Radhi Bidyut Company Ltd
+2026042204001756,RADHI,58,59,50,787.0,39350.0,2026-04-22,187392716,2776,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.554812,Radhi Bidyut Company Ltd
+2026042204001757,RADHI,52,59,25,786.5,19662.5,2026-04-22,187392718,2776,Sundhara Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.554943,Radhi Bidyut Company Ltd
+2026042204001758,RADHI,34,59,300,786.0,235800.0,2026-04-22,187392720,2776,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.554997,Radhi Bidyut Company Ltd
+2026042204001759,RADHI,58,59,1000,785.5,785500.0,2026-04-22,187392722,2776,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555095,Radhi Bidyut Company Ltd
+2026042204001760,RADHI,21,59,200,785.3,157060.0,2026-04-22,187392724,2776,Midas Stock Broking Company Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555159,Radhi Bidyut Company Ltd
+2026042204001761,RADHI,57,59,100,785.2,78520.0,2026-04-22,187392726,2776,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555206,Radhi Bidyut Company Ltd
+2026042204001762,RADHI,65,59,1000,785.1,785100.0,2026-04-22,187392728,2776,Sharepro Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555253,Radhi Bidyut Company Ltd
+2026042204001763,RADHI,57,59,400,785.0,314000.0,2026-04-22,187392730,2776,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555301,Radhi Bidyut Company Ltd
+2026042204001764,RADHI,32,59,1000,785.0,785000.0,2026-04-22,187392732,2776,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555358,Radhi Bidyut Company Ltd
+2026042204001765,RADHI,51,59,25,785.0,19625.0,2026-04-22,187392734,2776,Oxford Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555402,Radhi Bidyut Company Ltd
+2026042204001766,RADHI,13,59,75,785.0,58875.0,2026-04-22,187392736,2776,Thrive Brokerage House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555443,Radhi Bidyut Company Ltd
+2026042204001767,RADHI,66,59,1000,785.0,785000.0,2026-04-22,187392738,2776,Miyo Securities Pvt Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555485,Radhi Bidyut Company Ltd
+2026042204001768,RADHI,18,59,500,784.0,392000.0,2026-04-22,187392740,2776,Sagarmatha Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555526,Radhi Bidyut Company Ltd
+2026042204001769,RADHI,32,59,30,783.0,23490.0,2026-04-22,187392742,2776,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555575,Radhi Bidyut Company Ltd
+2026042204001770,RADHI,50,59,200,783.0,156600.0,2026-04-22,187392744,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555616,Radhi Bidyut Company Ltd
+2026042204001771,RADHI,74,59,500,783.0,391500.0,2026-04-22,187392746,2776,KALASH STOCK MARKET PVT. LTD.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555657,Radhi Bidyut Company Ltd
+2026042204001772,RADHI,65,59,2000,782.1,1564200.0,2026-04-22,187392748,2776,Sharepro Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555701,Radhi Bidyut Company Ltd
+2026042204001773,RADHI,38,59,100,781.0,78100.0,2026-04-22,187392750,2776,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555756,Radhi Bidyut Company Ltd
+2026042204001774,RADHI,65,59,1495,781.0,1167595.0,2026-04-22,187392751,2776,Sharepro Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 11:18:15.555820,Radhi Bidyut Company Ltd
+2026042204002996,RADHI,38,38,200,785.2,157040.0,2026-04-22,187408873,2776,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 11:31:41.981689,Radhi Bidyut Company Ltd
+2026042204003036,RADHI,19,51,150,785.2,117780.0,2026-04-22,187409998,2776,Nepal Investment And Securities Trading Private Limited,Oxford Securities Pvt. Ltd.,2026-04-22 11:32:35.942124,Radhi Bidyut Company Ltd
+2026042204003037,RADHI,36,51,150,785.1,117765.0,2026-04-22,187409999,2776,Secured Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-22 11:32:35.942456,Radhi Bidyut Company Ltd
+2026042204003664,RADHI,44,32,200,794.7,158940.0,2026-04-22,187418309,2776,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-22 11:40:56.806371,Radhi Bidyut Company Ltd
+2026042204003728,RADHI,44,34,100,794.7,79470.0,2026-04-22,187418954,2776,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-22 11:41:25.284831,Radhi Bidyut Company Ltd
+2026042204004258,RADHI,44,19,65,791.0,51415.0,2026-04-22,187423924,2776,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:46:21.993856,Radhi Bidyut Company Ltd
+2026042204004259,RADHI,58,19,100,791.0,79100.0,2026-04-22,187423926,2776,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:46:21.994191,Radhi Bidyut Company Ltd
+2026042204004391,RADHI,32,38,8,775.0,6200.0,2026-04-22,187425865,2776,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 11:48:26.015819,Radhi Bidyut Company Ltd
+2026042204004449,RADHI,36,45,357,788.0,281316.0,2026-04-22,187426979,2776,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:49:28.612238,Radhi Bidyut Company Ltd
+2026042204004614,RADHI,36,45,10,787.1,7871.0,2026-04-22,187429144,2776,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:51:28.320035,Radhi Bidyut Company Ltd
+2026042204004615,RADHI,44,45,100,787.1,78710.0,2026-04-22,187429145,2776,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:51:28.320241,Radhi Bidyut Company Ltd
+2026042204004629,RADHI,36,60,75,787.0,59025.0,2026-04-22,187429266,2776,Secured Securities Ltd.,Nagarik Stock Dealer ,2026-04-22 11:51:35.472929,Radhi Bidyut Company Ltd
+2026042204004667,RADHI,22,45,100,786.0,78600.0,2026-04-22,187429853,2776,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:52:00.545627,Radhi Bidyut Company Ltd
+2026042204004668,RADHI,58,45,30,786.0,23580.0,2026-04-22,187429854,2776,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:52:00.545961,Radhi Bidyut Company Ltd
+2026042204004782,RADHI,57,19,25,785.5,19637.5,2026-04-22,187431424,2776,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:53:12.035082,Radhi Bidyut Company Ltd
+2026042204004783,RADHI,44,19,200,785.4,157080.0,2026-04-22,187431426,2776,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:53:12.035276,Radhi Bidyut Company Ltd
+2026042204004784,RADHI,57,19,100,785.3,78530.0,2026-04-22,187431428,2776,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:53:12.035360,Radhi Bidyut Company Ltd
+2026042204004785,RADHI,34,19,110,785.3,86383.0,2026-04-22,187431429,2776,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:53:12.035437,Radhi Bidyut Company Ltd
+2026042204004809,RADHI,34,45,90,785.3,70677.0,2026-04-22,187432007,2776,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:53:37.472410,Radhi Bidyut Company Ltd
+2026042204004813,RADHI,32,42,2,767.3,1534.6,2026-04-22,187432261,2776,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-22 11:53:47.511889,Radhi Bidyut Company Ltd
+2026042204004814,RADHI,8,32,85,785.2,66742.0,2026-04-22,187432271,2776,Brilliant Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-22 11:53:48.428995,Radhi Bidyut Company Ltd
+2026042204004859,RADHI,8,39,415,785.2,325858.0,2026-04-22,187432969,2776,Brilliant Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-22 11:54:27.630328,Radhi Bidyut Company Ltd
+2026042204004864,RADHI,63,39,100,785.0,78500.0,2026-04-22,187433216,2776,Himalayan Brokerage Company Limited,Sumeru Securities Pvt. Ltd.,2026-04-22 11:54:38.581168,Radhi Bidyut Company Ltd
+2026042204004865,RADHI,58,39,100,785.0,78500.0,2026-04-22,187433218,2776,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-22 11:54:38.581241,Radhi Bidyut Company Ltd
+2026042204004866,RADHI,34,39,15,785.0,11775.0,2026-04-22,187433219,2776,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-22 11:54:38.581267,Radhi Bidyut Company Ltd
+2026042204004908,RADHI,14,45,100,784.0,78400.0,2026-04-22,187433688,2776,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:54:57.838771,Radhi Bidyut Company Ltd
+2026042204004909,RADHI,22,45,10,784.0,7840.0,2026-04-22,187433689,2776,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:54:57.838961,Radhi Bidyut Company Ltd
+2026042204005010,RADHI,34,77,400,783.7,313480.0,2026-04-22,187434524,2776,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-22 11:55:40.846327,Radhi Bidyut Company Ltd
+2026042204005011,RADHI,74,77,1000,783.6,783600.0,2026-04-22,187434526,2776,KALASH STOCK MARKET PVT. LTD.,Nabil Stock Dealer Ltd.,2026-04-22 11:55:40.846556,Radhi Bidyut Company Ltd
+2026042204005012,RADHI,5,77,10,783.5,7835.0,2026-04-22,187434528,2776,Market Securities & Exchange (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-22 11:55:40.846642,Radhi Bidyut Company Ltd
+2026042204005013,RADHI,57,77,90,783.5,70515.0,2026-04-22,187434529,2776,Aryatara Investment & Securities,Nabil Stock Dealer Ltd.,2026-04-22 11:55:40.846723,Radhi Bidyut Company Ltd
+2026042204005036,RADHI,57,58,100,783.5,78350.0,2026-04-22,187434957,2776,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-22 11:56:02.283402,Radhi Bidyut Company Ltd
+2026042204005058,RADHI,57,45,260,783.5,203710.0,2026-04-22,187435398,2776,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:56:22.146558,Radhi Bidyut Company Ltd
+2026042204005059,RADHI,34,45,100,783.5,78350.0,2026-04-22,187435400,2776,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:56:22.146603,Radhi Bidyut Company Ltd
+2026042204005060,RADHI,34,45,200,783.5,156700.0,2026-04-22,187435402,2776,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:56:22.146628,Radhi Bidyut Company Ltd
+2026042204005061,RADHI,57,45,100,783.4,78340.0,2026-04-22,187435404,2776,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:56:22.146652,Radhi Bidyut Company Ltd
+2026042204005062,RADHI,34,45,100,783.2,78320.0,2026-04-22,187435406,2776,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:56:22.146690,Radhi Bidyut Company Ltd
+2026042204005063,RADHI,8,45,333,783.1,260772.3,2026-04-22,187435407,2776,Brilliant Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:56:22.146745,Radhi Bidyut Company Ltd
+2026042204005117,RADHI,8,45,60,783.1,46986.0,2026-04-22,187435817,2776,Brilliant Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 11:56:37.479910,Radhi Bidyut Company Ltd
+2026042204005302,RADHI,8,19,107,783.1,83791.7,2026-04-22,187438036,2776,Brilliant Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:58:33.870851,Radhi Bidyut Company Ltd
+2026042204005303,RADHI,63,19,75,783.1,58732.5,2026-04-22,187438038,2776,Himalayan Brokerage Company Limited,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:58:33.871156,Radhi Bidyut Company Ltd
+2026042204005304,RADHI,39,19,418,783.0,327294.0,2026-04-22,187438039,2776,Sumeru Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 11:58:33.871372,Radhi Bidyut Company Ltd
+2026042204005340,RADHI,39,81,82,783.0,64206.0,2026-04-22,187438676,2776,Sumeru Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 11:59:11.841493,Radhi Bidyut Company Ltd
+2026042204005341,RADHI,36,81,30,783.0,23490.0,2026-04-22,187438678,2776,Secured Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 11:59:11.841671,Radhi Bidyut Company Ltd
+2026042204006112,RADHI,42,62,10,782.9,7829.0,2026-04-22,187446110,2776,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-22 12:05:19.487072,Radhi Bidyut Company Ltd
+2026042204006135,RADHI,17,62,20,782.9,15658.0,2026-04-22,187446703,2776,ABC Securities Private Limited,Capital Max Securities Ltd,2026-04-22 12:05:51.107842,Radhi Bidyut Company Ltd
+2026042204006136,RADHI,17,81,80,783.0,62640.0,2026-04-22,187446706,2776,ABC Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-22 12:05:51.108167,Radhi Bidyut Company Ltd
+2026042204006219,RADHI,17,60,100,783.1,78310.0,2026-04-22,187447586,2776,ABC Securities Private Limited,Nagarik Stock Dealer ,2026-04-22 12:06:32.050677,Radhi Bidyut Company Ltd
+2026042204006559,RADHI,39,58,10,782.4,7824.0,2026-04-22,187451689,2776,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-22 12:10:03.400774,Radhi Bidyut Company Ltd
+2026042204006931,RADHI,39,8,90,782.4,70416.0,2026-04-22,187454948,2776,Sumeru Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-22 12:12:50.523286,Radhi Bidyut Company Ltd
+2026042204006932,RADHI,88,8,100,782.3,78230.0,2026-04-22,187454950,2776,Blue Chip Securities Ltd,Brilliant Securities Pvt. Ltd.,2026-04-22 12:12:50.523483,Radhi Bidyut Company Ltd
+2026042204006933,RADHI,50,8,110,782.1,86031.0,2026-04-22,187454951,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-22 12:12:50.523558,Radhi Bidyut Company Ltd
+2026042204007012,RADHI,50,47,90,782.1,70389.0,2026-04-22,187455708,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732060,Radhi Bidyut Company Ltd
+2026042204007013,RADHI,88,47,50,781.5,39075.0,2026-04-22,187455710,2776,Blue Chip Securities Ltd,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732268,Radhi Bidyut Company Ltd
+2026042204007014,RADHI,38,47,20,781.0,15620.0,2026-04-22,187455712,2776,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732352,Radhi Bidyut Company Ltd
+2026042204007015,RADHI,58,47,100,781.0,78100.0,2026-04-22,187455714,2776,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732420,Radhi Bidyut Company Ltd
+2026042204007016,RADHI,62,47,30,781.0,23430.0,2026-04-22,187455716,2776,Capital Max Securities Ltd,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732488,Radhi Bidyut Company Ltd
+2026042204007017,RADHI,26,47,200,781.0,156200.0,2026-04-22,187455718,2776,Asian Securities Private Ltd.,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732557,Radhi Bidyut Company Ltd
+2026042204007018,RADHI,88,47,50,780.1,39005.0,2026-04-22,187455720,2776,Blue Chip Securities Ltd,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732625,Radhi Bidyut Company Ltd
+2026042204007019,RADHI,48,47,100,780.0,78000.0,2026-04-22,187455722,2776,Trishakti Securities Public Limited,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732702,Radhi Bidyut Company Ltd
+2026042204007020,RADHI,66,47,360,780.0,280800.0,2026-04-22,187455723,2776,Miyo Securities Pvt Ltd,Neev Securities Pvt. Ltd.,2026-04-22 12:13:27.732784,Radhi Bidyut Company Ltd
+2026042204007158,RADHI,66,54,500,780.0,390000.0,2026-04-22,187456997,2776,Miyo Securities Pvt Ltd,Sewa Securities Pvt. Ltd.,2026-04-22 12:14:43.126767,Radhi Bidyut Company Ltd
+2026042204007261,RADHI,66,44,12,780.0,9360.0,2026-04-22,187458065,2776,Miyo Securities Pvt Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:15:44.728850,Radhi Bidyut Company Ltd
+2026042204007263,RADHI,66,60,128,780.0,99840.0,2026-04-22,187458162,2776,Miyo Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-22 12:15:52.076747,Radhi Bidyut Company Ltd
+2026042204007264,RADHI,49,60,200,780.0,156000.0,2026-04-22,187458164,2776,Online Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-22 12:15:52.077062,Radhi Bidyut Company Ltd
+2026042204007265,RADHI,65,60,20,780.0,15600.0,2026-04-22,187458166,2776,Sharepro Securities Private Limited,Nagarik Stock Dealer ,2026-04-22 12:15:52.077329,Radhi Bidyut Company Ltd
+2026042204007266,RADHI,22,60,30,780.0,23400.0,2026-04-22,187458168,2776,Siprabi Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-22 12:15:52.077537,Radhi Bidyut Company Ltd
+2026042204007267,RADHI,45,60,25,780.0,19500.0,2026-04-22,187458170,2776,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-22 12:15:52.077754,Radhi Bidyut Company Ltd
+2026042204007268,RADHI,58,60,20,780.0,15600.0,2026-04-22,187458172,2776,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-22 12:15:52.077948,Radhi Bidyut Company Ltd
+2026042204007269,RADHI,45,60,70,780.0,54600.0,2026-04-22,187458174,2776,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-22 12:15:52.078198,Radhi Bidyut Company Ltd
+2026042204007270,RADHI,26,60,107,780.0,83460.0,2026-04-22,187458175,2776,Asian Securities Private Ltd.,Nagarik Stock Dealer ,2026-04-22 12:15:52.078396,Radhi Bidyut Company Ltd
+2026042204007271,RADHI,26,58,150,780.0,117000.0,2026-04-22,187458195,2776,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-22 12:15:52.975897,Radhi Bidyut Company Ltd
+2026042204007289,RADHI,26,62,20,780.0,15600.0,2026-04-22,187458595,2776,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-22 12:16:15.926490,Radhi Bidyut Company Ltd
+2026042204007487,RADHI,58,41,20,780.1,15602.0,2026-04-22,187460536,2776,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-22 12:18:02.135113,Radhi Bidyut Company Ltd
+2026042204007488,RADHI,26,41,23,780.0,17940.0,2026-04-22,187460538,2776,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-22 12:18:02.135279,Radhi Bidyut Company Ltd
+2026042204007489,RADHI,47,41,20,780.0,15600.0,2026-04-22,187460540,2776,Neev Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-22 12:18:02.135354,Radhi Bidyut Company Ltd
+2026042204007490,RADHI,52,41,20,780.0,15600.0,2026-04-22,187460542,2776,Sundhara Securities Limited,Linch Stock Market Ltd.,2026-04-22 12:18:02.135422,Radhi Bidyut Company Ltd
+2026042204007588,RADHI,34,18,10,778.0,7780.0,2026-04-22,187461750,2776,Vision Securities Pvt. Ltd,Sagarmatha Securities Private Limited,2026-04-22 12:19:13.183285,Radhi Bidyut Company Ltd
+2026042204007589,RADHI,49,18,50,777.1,38855.0,2026-04-22,187461752,2776,Online Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,2026-04-22 12:19:13.183601,Radhi Bidyut Company Ltd
+2026042204007590,RADHI,49,18,50,777.0,38850.0,2026-04-22,187461754,2776,Online Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,2026-04-22 12:19:13.183693,Radhi Bidyut Company Ltd
+2026042204007756,RADHI,46,18,890,777.0,691530.0,2026-04-22,187463281,2776,Kalika Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,2026-04-22 12:20:18.416283,Radhi Bidyut Company Ltd
+2026042204007757,RADHI,46,52,50,777.0,38850.0,2026-04-22,187463283,2776,Kalika Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-22 12:20:18.416621,Radhi Bidyut Company Ltd
+2026042204007873,RADHI,58,34,10,777.1,7771.0,2026-04-22,187464720,2776,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-22 12:21:39.879600,Radhi Bidyut Company Ltd
+2026042204007874,RADHI,46,34,90,777.0,69930.0,2026-04-22,187464721,2776,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-22 12:21:39.879822,Radhi Bidyut Company Ltd
+2026042204007962,RADHI,17,50,100,777.1,77710.0,2026-04-22,187465778,2776,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 12:22:39.202966,Radhi Bidyut Company Ltd
+2026042204007963,RADHI,46,50,970,777.0,753690.0,2026-04-22,187465780,2776,Kalika Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 12:22:39.203311,Radhi Bidyut Company Ltd
+2026042204008099,RADHI,57,50,1930,777.0,1499610.0,2026-04-22,187467331,2776,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 12:24:04.808048,Radhi Bidyut Company Ltd
+2026042204008100,RADHI,57,52,60,777.0,46620.0,2026-04-22,187467333,2776,Aryatara Investment & Securities,Sundhara Securities Limited,2026-04-22 12:24:04.808395,Radhi Bidyut Company Ltd
+2026042204008211,RADHI,62,58,20,777.1,15542.0,2026-04-22,187469130,2776,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-22 12:25:40.477539,Radhi Bidyut Company Ltd
+2026042204008212,RADHI,57,58,10,777.0,7770.0,2026-04-22,187469132,2776,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-22 12:25:40.477708,Radhi Bidyut Company Ltd
+2026042204008213,RADHI,19,58,970,777.0,753690.0,2026-04-22,187469133,2776,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-22 12:25:40.477779,Radhi Bidyut Company Ltd
+2026042204008258,RADHI,19,26,30,777.0,23310.0,2026-04-22,187469970,2776,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-22 12:26:17.658140,Radhi Bidyut Company Ltd
+2026042204008275,RADHI,36,58,10,776.2,7762.0,2026-04-22,187470205,2776,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-22 12:26:33.768598,Radhi Bidyut Company Ltd
+2026042204008319,RADHI,22,26,10,777.0,7770.0,2026-04-22,187470862,2776,Siprabi Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-22 12:27:12.767999,Radhi Bidyut Company Ltd
+2026042204008432,RADHI,65,26,260,777.0,202020.0,2026-04-22,187472022,2776,Sharepro Securities Private Limited,Asian Securities Private Ltd.,2026-04-22 12:28:09.664703,Radhi Bidyut Company Ltd
+2026042204008553,RADHI,32,41,1,762.0,762.0,2026-04-22,187473431,2776,Premier Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-22 12:29:25.382992,Radhi Bidyut Company Ltd
+2026042204008560,RADHI,17,38,200,777.0,155400.0,2026-04-22,187473548,2776,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 12:29:30.955534,Radhi Bidyut Company Ltd
+2026042204008561,RADHI,81,38,800,777.0,621600.0,2026-04-22,187473549,2776,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 12:29:30.955711,Radhi Bidyut Company Ltd
+2026042204008562,RADHI,81,44,200,777.0,155400.0,2026-04-22,187473570,2776,Aakashbhairab Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:29:31.607036,Radhi Bidyut Company Ltd
+2026042204008563,RADHI,58,44,20,777.0,15540.0,2026-04-22,187473572,2776,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:29:31.607241,Radhi Bidyut Company Ltd
+2026042204008564,RADHI,17,44,100,777.0,77700.0,2026-04-22,187473574,2776,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:29:31.607324,Radhi Bidyut Company Ltd
+2026042204008635,RADHI,58,44,100,777.0,77700.0,2026-04-22,187474302,2776,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:30:06.503268,Radhi Bidyut Company Ltd
+2026042204008673,RADHI,36,44,250,777.0,194250.0,2026-04-22,187474816,2776,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:30:30.391204,Radhi Bidyut Company Ltd
+2026042204008758,RADHI,65,44,1000,777.0,777000.0,2026-04-22,187476018,2776,Sharepro Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:31:26.140742,Radhi Bidyut Company Ltd
+2026042204008796,RADHI,50,44,330,777.0,256410.0,2026-04-22,187476648,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 12:31:57.645152,Radhi Bidyut Company Ltd
+2026042204008966,RADHI,49,61,29,779.0,22591.0,2026-04-22,187478854,2776,Online Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-22 12:33:33.759078,Radhi Bidyut Company Ltd
+2026042204009054,RADHI,17,41,117,780.0,91260.0,2026-04-22,187480087,2776,ABC Securities Private Limited,Linch Stock Market Ltd.,2026-04-22 12:34:40.532627,Radhi Bidyut Company Ltd
+2026042204009055,RADHI,17,62,30,780.0,23400.0,2026-04-22,187480089,2776,ABC Securities Private Limited,Capital Max Securities Ltd,2026-04-22 12:34:40.532795,Radhi Bidyut Company Ltd
+2026042204009056,RADHI,17,13,53,780.0,41340.0,2026-04-22,187480092,2776,ABC Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-22 12:34:40.532879,Radhi Bidyut Company Ltd
+2026042204009073,RADHI,6,13,77,780.0,60060.0,2026-04-22,187480157,2776,Agrawal Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-22 12:34:44.603159,Radhi Bidyut Company Ltd
+2026042204009188,RADHI,14,14,193,780.0,150540.0,2026-04-22,187481425,2776,Nepal Stock House (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-22 12:36:03.737497,Radhi Bidyut Company Ltd
+2026042204009206,RADHI,65,1,500,781.0,390500.0,2026-04-22,187481642,2776,Sharepro Securities Private Limited,Kumari Securities Private Limited,2026-04-22 12:36:17.828433,Radhi Bidyut Company Ltd
+2026042204009297,RADHI,8,1,2700,781.0,2108700.0,2026-04-22,187482962,2776,Brilliant Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-22 12:37:29.665676,Radhi Bidyut Company Ltd
+2026042204009350,RADHI,17,94,100,781.0,78100.0,2026-04-22,187483718,2776,ABC Securities Private Limited,K.B.L. Securities Limited ,2026-04-22 12:38:21.127628,Radhi Bidyut Company Ltd
+2026042204009351,RADHI,58,94,10,781.0,7810.0,2026-04-22,187483720,2776,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-22 12:38:21.127846,Radhi Bidyut Company Ltd
+2026042204009352,RADHI,54,94,30,780.2,23406.0,2026-04-22,187483722,2776,Sewa Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-22 12:38:21.127940,Radhi Bidyut Company Ltd
+2026042204009353,RADHI,56,94,1290,780.0,1006200.0,2026-04-22,187483724,2776,Sri Hari Securities Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-22 12:38:21.128015,Radhi Bidyut Company Ltd
+2026042204009354,RADHI,26,94,41,780.0,31980.0,2026-04-22,187483726,2776,Asian Securities Private Ltd.,K.B.L. Securities Limited ,2026-04-22 12:38:21.128088,Radhi Bidyut Company Ltd
+2026042204009417,RADHI,14,94,210,779.8,163758.0,2026-04-22,187484506,2776,Nepal Stock House (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-22 12:39:01.394077,Radhi Bidyut Company Ltd
+2026042204009418,RADHI,6,94,23,779.1,17919.3,2026-04-22,187484508,2776,Agrawal Securities (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-22 12:39:01.394460,Radhi Bidyut Company Ltd
+2026042204009419,RADHI,65,94,296,779.1,230613.6,2026-04-22,187484509,2776,Sharepro Securities Private Limited,K.B.L. Securities Limited ,2026-04-22 12:39:01.394873,Radhi Bidyut Company Ltd
+2026042204009598,RADHI,57,14,100,780.0,78000.0,2026-04-22,187486133,2776,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-22 12:41:07.132240,Radhi Bidyut Company Ltd
+2026042204009717,RADHI,25,86,83,780.1,64748.3,2026-04-22,187487055,2776,Sweta Securities Private Limited,Stoxkarts Securities Limited,2026-04-22 12:42:23.465372,Radhi Bidyut Company Ltd
+2026042204009765,RADHI,49,68,21,785.0,16485.0,2026-04-22,187487372,2776,Online Securities Pvt. Ltd.,Elite Stock House Limited,2026-04-22 12:42:51.733367,Radhi Bidyut Company Ltd
+2026042204009977,RADHI,65,14,200,779.1,155820.0,2026-04-22,187489347,2776,Sharepro Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-22 12:44:38.127908,Radhi Bidyut Company Ltd
+2026042204010259,RADHI,32,58,100,779.1,77910.0,2026-04-22,187491826,2776,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-22 12:47:41.552736,Radhi Bidyut Company Ltd
+2026042204010260,RADHI,42,58,100,779.0,77900.0,2026-04-22,187491827,2776,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-22 12:47:41.552963,Radhi Bidyut Company Ltd
+2026042204010457,RADHI,18,45,150,780.0,117000.0,2026-04-22,187493755,2776,Sagarmatha Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-22 12:50:35.507762,Radhi Bidyut Company Ltd
+2026042204010745,RADHI,18,4,100,780.0,78000.0,2026-04-22,187495887,2776,Sagarmatha Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-22 12:53:59.550402,Radhi Bidyut Company Ltd
+2026042204010902,RADHI,58,14,100,782.0,78200.0,2026-04-22,187498359,2776,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-22 12:57:28.793707,Radhi Bidyut Company Ltd
+2026042204010903,RADHI,58,14,100,782.0,78200.0,2026-04-22,187498361,2776,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-22 12:57:28.793946,Radhi Bidyut Company Ltd
+2026042204011056,RADHI,58,64,47,782.0,36754.0,2026-04-22,187500471,2776,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-22 13:00:47.442747,Radhi Bidyut Company Ltd
+2026042204011087,RADHI,58,38,20,782.0,15640.0,2026-04-22,187501033,2776,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 13:01:45.567646,Radhi Bidyut Company Ltd
+2026042204011129,RADHI,49,38,20,782.1,15642.0,2026-04-22,187501857,2776,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 13:02:48.121720,Radhi Bidyut Company Ltd
+2026042204011328,RADHI,49,81,80,782.1,62568.0,2026-04-22,187504416,2776,Online Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 13:07:03.285918,Radhi Bidyut Company Ltd
+2026042204011329,RADHI,58,81,20,782.0,15640.0,2026-04-22,187504417,2776,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 13:07:03.286242,Radhi Bidyut Company Ltd
+2026042204011683,RADHI,58,6,75,782.0,58650.0,2026-04-22,187508234,2776,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-22 13:13:22.827940,Radhi Bidyut Company Ltd
+2026042204011720,RADHI,25,34,7,758.7,5310.9,2026-04-22,187508565,2776,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-22 13:14:07.178393,Radhi Bidyut Company Ltd
+2026042204011802,RADHI,8,6,20,782.0,15640.0,2026-04-22,187509362,2776,Brilliant Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-22 13:15:49.656606,Radhi Bidyut Company Ltd
+2026042204012061,RADHI,18,19,200,780.0,156000.0,2026-04-22,187511151,2776,Sagarmatha Securities Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-22 13:18:54.630367,Radhi Bidyut Company Ltd
+2026042204012671,RADHI,45,58,355,784.0,278320.0,2026-04-22,187515873,2776,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-22 13:25:29.614519,Radhi Bidyut Company Ltd
+2026042204012672,RADHI,45,6,145,784.0,113680.0,2026-04-22,187515876,2776,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-22 13:25:29.614954,Radhi Bidyut Company Ltd
+2026042204012820,RADHI,36,81,43,781.7,33613.1,2026-04-22,187517732,2776,Secured Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 13:27:45.182966,Radhi Bidyut Company Ltd
+2026042204012821,RADHI,57,81,500,781.6,390800.0,2026-04-22,187517734,2776,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,2026-04-22 13:27:45.183387,Radhi Bidyut Company Ltd
+2026042204012822,RADHI,18,81,550,781.5,429825.0,2026-04-22,187517736,2776,Sagarmatha Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-22 13:27:45.183637,Radhi Bidyut Company Ltd
+2026042204012823,RADHI,81,81,500,781.0,390500.0,2026-04-22,187517738,2776,Aakashbhairab Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 13:27:45.183881,Radhi Bidyut Company Ltd
+2026042204012824,RADHI,22,81,10,780.4,7804.0,2026-04-22,187517740,2776,Siprabi Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 13:27:45.184128,Radhi Bidyut Company Ltd
+2026042204012854,RADHI,26,81,100,780.3,78030.0,2026-04-22,187517978,2776,Asian Securities Private Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 13:28:07.169420,Radhi Bidyut Company Ltd
+2026042204012855,RADHI,58,81,50,780.2,39010.0,2026-04-22,187517980,2776,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 13:28:07.169688,Radhi Bidyut Company Ltd
+2026042204012856,RADHI,17,81,247,780.2,192709.4,2026-04-22,187517981,2776,ABC Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-22 13:28:07.169804,Radhi Bidyut Company Ltd
+2026042204012998,RADHI,63,49,200,784.9,156980.0,2026-04-22,187518976,2776,Himalayan Brokerage Company Limited,Online Securities Pvt. Ltd.,2026-04-22 13:30:00.392575,Radhi Bidyut Company Ltd
+2026042204013069,RADHI,17,49,14,780.2,10922.8,2026-04-22,187519807,2776,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-22 13:31:20.245741,Radhi Bidyut Company Ltd
+2026042204013259,RADHI,17,45,10,780.2,7802.0,2026-04-22,187522001,2776,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-22 13:34:54.605218,Radhi Bidyut Company Ltd
+2026042204013261,RADHI,17,59,229,780.2,178665.8,2026-04-22,187522026,2776,ABC Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 13:34:56.517926,Radhi Bidyut Company Ltd
+2026042204013262,RADHI,60,59,65,780.2,50713.0,2026-04-22,187522028,2776,Nagarik Stock Dealer ,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 13:34:56.518400,Radhi Bidyut Company Ltd
+2026042204013263,RADHI,52,59,20,780.1,15602.0,2026-04-22,187522030,2776,Sundhara Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 13:34:56.518666,Radhi Bidyut Company Ltd
+2026042204013264,RADHI,58,59,380,780.1,296438.0,2026-04-22,187522032,2776,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 13:34:56.518915,Radhi Bidyut Company Ltd
+2026042204013265,RADHI,57,59,100,780.0,78000.0,2026-04-22,187522034,2776,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 13:34:56.519226,Radhi Bidyut Company Ltd
+2026042204013266,RADHI,47,59,716,780.0,558480.0,2026-04-22,187522035,2776,Neev Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 13:34:56.519511,Radhi Bidyut Company Ltd
+2026042204013594,RADHI,47,42,50,780.0,39000.0,2026-04-22,187525077,2776,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-22 13:40:09.881953,Radhi Bidyut Company Ltd
+2026042204013596,RADHI,47,74,234,780.0,182520.0,2026-04-22,187525088,2776,Neev Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.456412,Radhi Bidyut Company Ltd
+2026042204013597,RADHI,19,74,150,780.0,117000.0,2026-04-22,187525090,2776,Nepal Investment And Securities Trading Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.456801,Radhi Bidyut Company Ltd
+2026042204013598,RADHI,49,74,10,780.0,7800.0,2026-04-22,187525092,2776,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.457060,Radhi Bidyut Company Ltd
+2026042204013599,RADHI,26,74,200,778.2,155640.0,2026-04-22,187525094,2776,Asian Securities Private Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.457339,Radhi Bidyut Company Ltd
+2026042204013600,RADHI,32,74,200,778.1,155620.0,2026-04-22,187525096,2776,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.457587,Radhi Bidyut Company Ltd
+2026042204013601,RADHI,65,74,505,778.0,392890.0,2026-04-22,187525098,2776,Sharepro Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.457829,Radhi Bidyut Company Ltd
+2026042204013602,RADHI,7,74,100,778.0,77800.0,2026-04-22,187525100,2776,J.F. Securites (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.458076,Radhi Bidyut Company Ltd
+2026042204013603,RADHI,42,74,20,778.0,15560.0,2026-04-22,187525102,2776,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.458335,Radhi Bidyut Company Ltd
+2026042204013604,RADHI,39,74,100,778.0,77800.0,2026-04-22,187525104,2776,Sumeru Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.458571,Radhi Bidyut Company Ltd
+2026042204013605,RADHI,62,74,330,777.5,256575.0,2026-04-22,187525106,2776,Capital Max Securities Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.458830,Radhi Bidyut Company Ltd
+2026042204013606,RADHI,49,74,2000,777.5,1555000.0,2026-04-22,187525108,2776,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.459079,Radhi Bidyut Company Ltd
+2026042204013607,RADHI,39,74,100,777.4,77740.0,2026-04-22,187525110,2776,Sumeru Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.459448,Radhi Bidyut Company Ltd
+2026042204013608,RADHI,66,74,51,777.4,39647.4,2026-04-22,187525111,2776,Miyo Securities Pvt Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:12.459740,Radhi Bidyut Company Ltd
+2026042204013634,RADHI,66,74,949,777.4,737752.6,2026-04-22,187525388,2776,Miyo Securities Pvt Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.522358,Radhi Bidyut Company Ltd
+2026042204013635,RADHI,8,74,500,777.1,388550.0,2026-04-22,187525390,2776,Brilliant Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.522555,Radhi Bidyut Company Ltd
+2026042204013636,RADHI,8,74,1000,777.1,777100.0,2026-04-22,187525392,2776,Brilliant Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.522632,Radhi Bidyut Company Ltd
+2026042204013637,RADHI,26,74,50,777.0,38850.0,2026-04-22,187525394,2776,Asian Securities Private Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.522718,Radhi Bidyut Company Ltd
+2026042204013638,RADHI,62,74,15,777.0,11655.0,2026-04-22,187525396,2776,Capital Max Securities Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.522792,Radhi Bidyut Company Ltd
+2026042204013639,RADHI,65,74,400,777.0,310800.0,2026-04-22,187525398,2776,Sharepro Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.522868,Radhi Bidyut Company Ltd
+2026042204013640,RADHI,34,74,100,777.0,77700.0,2026-04-22,187525400,2776,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.522939,Radhi Bidyut Company Ltd
+2026042204013641,RADHI,58,74,10,777.0,7770.0,2026-04-22,187525402,2776,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.523016,Radhi Bidyut Company Ltd
+2026042204013642,RADHI,36,74,90,776.2,69858.0,2026-04-22,187525404,2776,Secured Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.523086,Radhi Bidyut Company Ltd
+2026042204013643,RADHI,52,74,20,776.2,15524.0,2026-04-22,187525406,2776,Sundhara Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.523179,Radhi Bidyut Company Ltd
+2026042204013644,RADHI,11,74,300,776.2,232860.0,2026-04-22,187525408,2776,Malla & Malla Stock Broking Company Pvt. Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.523253,Radhi Bidyut Company Ltd
+2026042204013645,RADHI,39,74,150,776.1,116415.0,2026-04-22,187525410,2776,Sumeru Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.523334,Radhi Bidyut Company Ltd
+2026042204013646,RADHI,50,74,416,776.0,322816.0,2026-04-22,187525411,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:40:48.523413,Radhi Bidyut Company Ltd
+2026042204013664,RADHI,50,74,83,776.0,64408.0,2026-04-22,187525670,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:41:15.975074,Radhi Bidyut Company Ltd
+2026042204013665,RADHI,4,74,300,775.1,232530.0,2026-04-22,187525672,2776,Opal Securities Investment (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:41:15.975301,Radhi Bidyut Company Ltd
+2026042204013666,RADHI,81,74,1000,775.0,775000.0,2026-04-22,187525674,2776,Aakashbhairab Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:41:15.975395,Radhi Bidyut Company Ltd
+2026042204013667,RADHI,58,74,24,775.0,18600.0,2026-04-22,187525676,2776,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:41:15.975474,Radhi Bidyut Company Ltd
+2026042204013668,RADHI,21,74,50,775.0,38750.0,2026-04-22,187525678,2776,Midas Stock Broking Company Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:41:15.975547,Radhi Bidyut Company Ltd
+2026042204013669,RADHI,57,74,50,775.0,38750.0,2026-04-22,187525680,2776,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:41:15.975664,Radhi Bidyut Company Ltd
+2026042204013670,RADHI,72,74,503,775.0,389825.0,2026-04-22,187525681,2776,Hatemalo Financial Services Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-22 13:41:15.975751,Radhi Bidyut Company Ltd
+2026042204013690,RADHI,81,43,194,775.1,150369.4,2026-04-22,187525861,2776,Aakashbhairab Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-22 13:41:37.777704,Radhi Bidyut Company Ltd
+2026042204013875,RADHI,89,42,12,776.0,9312.0,2026-04-22,187528123,2776,Global IME Securities Limited,Sani Securities Company Ltd.,2026-04-22 13:46:12.561579,Radhi Bidyut Company Ltd
+2026042204013920,RADHI,32,58,1,763.0,763.0,2026-04-22,187528813,2776,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-22 13:47:30.295082,Radhi Bidyut Company Ltd
+2026042204014427,RADHI,81,19,550,779.0,428450.0,2026-04-22,187534292,2776,Aakashbhairab Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-22 13:56:46.202890,Radhi Bidyut Company Ltd
+2026042204014483,RADHI,59,19,10,780.0,7800.0,2026-04-22,187534895,2776,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-22 13:57:49.622223,Radhi Bidyut Company Ltd
+2026042204014484,RADHI,59,62,50,780.0,39000.0,2026-04-22,187534897,2776,Deevyaa Securities & Stock House Pvt. Ltd,Capital Max Securities Ltd,2026-04-22 13:57:49.622469,Radhi Bidyut Company Ltd
+2026042204014485,RADHI,59,58,30,781.0,23430.0,2026-04-22,187534899,2776,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-22 13:57:49.622556,Radhi Bidyut Company Ltd
+2026042204014486,RADHI,59,25,210,782.0,164220.0,2026-04-22,187534902,2776,Deevyaa Securities & Stock House Pvt. Ltd,Sweta Securities Private Limited,2026-04-22 13:57:49.622638,Radhi Bidyut Company Ltd
+2026042204014871,RADHI,14,83,200,781.0,156200.0,2026-04-22,187539244,2776,Nepal Stock House (PVT) Ltd.,Sanima Securities Limited,2026-04-22 14:04:39.268364,Radhi Bidyut Company Ltd
+2026042204014884,RADHI,58,83,20,781.0,15620.0,2026-04-22,187539488,2776,Naasa Securities Co. Ltd.,Sanima Securities Limited,2026-04-22 14:05:00.671112,Radhi Bidyut Company Ltd
+2026042204015018,RADHI,58,83,40,781.0,31240.0,2026-04-22,187540776,2776,Naasa Securities Co. Ltd.,Sanima Securities Limited,2026-04-22 14:07:34.120204,Radhi Bidyut Company Ltd
+2026042204015107,RADHI,50,83,40,781.0,31240.0,2026-04-22,187541639,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,Sanima Securities Limited,2026-04-22 14:08:51.955526,Radhi Bidyut Company Ltd
+2026042204015260,RADHI,81,25,80,782.0,62560.0,2026-04-22,187543337,2776,Aakashbhairab Securities Ltd.,Sweta Securities Private Limited,2026-04-22 14:11:40.075057,Radhi Bidyut Company Ltd
+2026042204015261,RADHI,81,13,300,782.9,234870.0,2026-04-22,187543339,2776,Aakashbhairab Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-22 14:11:40.075616,Radhi Bidyut Company Ltd
+2026042204015262,RADHI,81,42,13,783.0,10179.0,2026-04-22,187543341,2776,Aakashbhairab Securities Ltd.,Sani Securities Company Ltd.,2026-04-22 14:11:40.076052,Radhi Bidyut Company Ltd
+2026042204015263,RADHI,81,38,300,783.0,234900.0,2026-04-22,187543343,2776,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:11:40.076465,Radhi Bidyut Company Ltd
+2026042204015264,RADHI,81,95,1000,784.8,784800.0,2026-04-22,187543345,2776,Aakashbhairab Securities Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-22 14:11:40.076840,Radhi Bidyut Company Ltd
+2026042204015265,RADHI,81,7,492,784.9,386170.8,2026-04-22,187543347,2776,Aakashbhairab Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-22 14:11:40.077171,Radhi Bidyut Company Ltd
+2026042204015266,RADHI,81,13,400,785.0,314000.0,2026-04-22,187543349,2776,Aakashbhairab Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-22 14:11:40.077567,Radhi Bidyut Company Ltd
+2026042204015267,RADHI,81,16,100,785.0,78500.0,2026-04-22,187543351,2776,Aakashbhairab Securities Ltd.,Primo Securities (PVT) Ltd.,2026-04-22 14:11:40.077940,Radhi Bidyut Company Ltd
+2026042204015300,RADHI,58,33,10,788.0,7880.0,2026-04-22,187543702,2776,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 14:12:18.176222,Radhi Bidyut Company Ltd
+2026042204015500,RADHI,25,17,1,776.0,776.0,2026-04-22,187546481,2776,Sweta Securities Private Limited,ABC Securities Private Limited,2026-04-22 14:16:39.594548,Radhi Bidyut Company Ltd
+2026042204016111,RADHI,81,83,200,782.0,156400.0,2026-04-22,187552829,2776,Aakashbhairab Securities Ltd.,Sanima Securities Limited,2026-04-22 14:25:18.402550,Radhi Bidyut Company Ltd
+2026042204016123,RADHI,81,81,2000,782.0,1564000.0,2026-04-22,187553055,2776,Aakashbhairab Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-22 14:25:40.364768,Radhi Bidyut Company Ltd
+2026042204016268,RADHI,36,45,16,782.1,12513.6,2026-04-22,187555448,2776,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:28:16.604077,Radhi Bidyut Company Ltd
+2026042204016269,RADHI,81,45,284,782.0,222088.0,2026-04-22,187555449,2776,Aakashbhairab Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:28:16.604361,Radhi Bidyut Company Ltd
+2026042204016338,RADHI,81,40,2000,782.0,1564000.0,2026-04-22,187555895,2776,Aakashbhairab Securities Ltd.,Creative Securities Pvt Ltd,2026-04-22 14:28:40.480770,Radhi Bidyut Company Ltd
+2026042204016360,RADHI,81,45,200,782.0,156400.0,2026-04-22,187556037,2776,Aakashbhairab Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:28:49.550164,Radhi Bidyut Company Ltd
+2026042204017034,RADHI,59,41,89,783.0,69687.0,2026-04-22,187562736,2776,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-22 14:35:59.906223,Radhi Bidyut Company Ltd
+2026042204017035,RADHI,81,41,316,782.0,247112.0,2026-04-22,187562738,2776,Aakashbhairab Securities Ltd.,Linch Stock Market Ltd.,2026-04-22 14:35:59.906347,Radhi Bidyut Company Ltd
+2026042204017036,RADHI,42,41,100,782.0,78200.0,2026-04-22,187562740,2776,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-22 14:35:59.906458,Radhi Bidyut Company Ltd
+2026042204017037,RADHI,66,41,200,782.0,156400.0,2026-04-22,187562742,2776,Miyo Securities Pvt Ltd,Linch Stock Market Ltd.,2026-04-22 14:35:59.906517,Radhi Bidyut Company Ltd
+2026042204017038,RADHI,81,41,295,782.0,230690.0,2026-04-22,187562743,2776,Aakashbhairab Securities Ltd.,Linch Stock Market Ltd.,2026-04-22 14:35:59.906581,Radhi Bidyut Company Ltd
+2026042204017902,RADHI,50,7,50,784.0,39200.0,2026-04-22,187568366,2776,Cristal Kanchanjanga Securites Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-22 14:39:46.910348,Radhi Bidyut Company Ltd
+2026042204017907,RADHI,57,25,10,787.0,7870.0,2026-04-22,187568393,2776,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-22 14:39:49.130617,Radhi Bidyut Company Ltd
+2026042204017908,RADHI,57,94,490,787.0,385630.0,2026-04-22,187568396,2776,Aryatara Investment & Securities,K.B.L. Securities Limited ,2026-04-22 14:39:49.131098,Radhi Bidyut Company Ltd
+2026042204017922,RADHI,34,94,1011,787.0,795657.0,2026-04-22,187568493,2776,Vision Securities Pvt. Ltd,K.B.L. Securities Limited ,2026-04-22 14:39:53.158382,Radhi Bidyut Company Ltd
+2026042204017937,RADHI,14,32,10,788.0,7880.0,2026-04-22,187568625,2776,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-22 14:39:55.373452,Radhi Bidyut Company Ltd
+2026042204017938,RADHI,14,42,20,790.0,15800.0,2026-04-22,187568627,2776,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-22 14:39:55.373566,Radhi Bidyut Company Ltd
+2026042204017939,RADHI,14,25,150,792.8,118920.0,2026-04-22,187568629,2776,Nepal Stock House (PVT) Ltd.,Sweta Securities Private Limited,2026-04-22 14:39:55.373606,Radhi Bidyut Company Ltd
+2026042204017940,RADHI,14,33,404,793.0,320372.0,2026-04-22,187568631,2776,Nepal Stock House (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-22 14:39:55.373633,Radhi Bidyut Company Ltd
+2026042204017941,RADHI,14,101,916,793.9,727212.4,2026-04-22,187568634,2776,Nepal Stock House (PVT) Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-22 14:39:55.373660,Radhi Bidyut Company Ltd
+2026042204018308,RADHI,81,45,500,794.0,397000.0,2026-04-22,187570977,2776,Aakashbhairab Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:40:59.654089,Radhi Bidyut Company Ltd
+2026042204018309,RADHI,81,57,100,794.0,79400.0,2026-04-22,187570979,2776,Aakashbhairab Securities Ltd.,Aryatara Investment & Securities,2026-04-22 14:40:59.654339,Radhi Bidyut Company Ltd
+2026042204018310,RADHI,81,32,1000,794.9,794900.0,2026-04-22,187570981,2776,Aakashbhairab Securities Ltd.,Premier Securities Company Ltd.,2026-04-22 14:40:59.654437,Radhi Bidyut Company Ltd
+2026042204018311,RADHI,81,17,470,795.0,373650.0,2026-04-22,187570983,2776,Aakashbhairab Securities Ltd.,ABC Securities Private Limited,2026-04-22 14:40:59.654533,Radhi Bidyut Company Ltd
+2026042204018312,RADHI,81,101,2930,795.0,2329350.0,2026-04-22,187570986,2776,Aakashbhairab Securities Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-22 14:40:59.654627,Radhi Bidyut Company Ltd
+2026042204019074,RADHI,59,16,105,796.0,83580.0,2026-04-22,187578571,2776,Deevyaa Securities & Stock House Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-22 14:43:58.535796,Radhi Bidyut Company Ltd
+2026042204019075,RADHI,59,14,209,798.0,166782.0,2026-04-22,187578575,2776,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-22 14:43:58.536211,Radhi Bidyut Company Ltd
+2026042204019076,RADHI,59,48,100,798.0,79800.0,2026-04-22,187578579,2776,Deevyaa Securities & Stock House Pvt. Ltd,Trishakti Securities Public Limited,2026-04-22 14:43:58.536533,Radhi Bidyut Company Ltd
+2026042204019077,RADHI,59,58,586,799.0,468214.0,2026-04-22,187578585,2776,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-22 14:43:58.536811,Radhi Bidyut Company Ltd
+2026042204019792,RADHI,8,74,100,798.0,79800.0,2026-04-22,187585158,2776,Brilliant Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 14:46:33.986359,Radhi Bidyut Company Ltd
+2026042204019874,RADHI,81,74,900,798.0,718200.0,2026-04-22,187586049,2776,Aakashbhairab Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 14:46:56.844805,Radhi Bidyut Company Ltd
+2026042204019875,RADHI,81,58,164,799.0,131036.0,2026-04-22,187586051,2776,Aakashbhairab Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-22 14:46:56.845043,Radhi Bidyut Company Ltd
+2026042204019876,RADHI,81,64,100,799.0,79900.0,2026-04-22,187586053,2776,Aakashbhairab Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-22 14:46:56.845140,Radhi Bidyut Company Ltd
+2026042204019877,RADHI,81,101,154,799.0,123046.0,2026-04-22,187586055,2776,Aakashbhairab Securities Ltd.,APPLE SECURITIES PRIVATE LIMITED,2026-04-22 14:46:56.845236,Radhi Bidyut Company Ltd
+2026042204019878,RADHI,81,21,200,799.2,159840.0,2026-04-22,187586057,2776,Aakashbhairab Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-22 14:46:56.845335,Radhi Bidyut Company Ltd
+2026042204019879,RADHI,81,44,500,800.0,400000.0,2026-04-22,187586059,2776,Aakashbhairab Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 14:46:56.845429,Radhi Bidyut Company Ltd
+2026042204019880,RADHI,81,11,10,800.0,8000.0,2026-04-22,187586061,2776,Aakashbhairab Securities Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-22 14:46:56.845522,Radhi Bidyut Company Ltd
+2026042204019881,RADHI,81,57,100,800.0,80000.0,2026-04-22,187586063,2776,Aakashbhairab Securities Ltd.,Aryatara Investment & Securities,2026-04-22 14:46:56.845616,Radhi Bidyut Company Ltd
+2026042204019882,RADHI,81,37,100,800.0,80000.0,2026-04-22,187586065,2776,Aakashbhairab Securities Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-22 14:46:56.845707,Radhi Bidyut Company Ltd
+2026042204019883,RADHI,81,45,20,800.0,16000.0,2026-04-22,187586067,2776,Aakashbhairab Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:46:56.845793,Radhi Bidyut Company Ltd
+2026042204019884,RADHI,81,38,119,800.0,95200.0,2026-04-22,187586069,2776,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:46:56.845884,Radhi Bidyut Company Ltd
+2026042204019885,RADHI,81,34,100,800.0,80000.0,2026-04-22,187586071,2776,Aakashbhairab Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-22 14:46:56.845972,Radhi Bidyut Company Ltd
+2026042204020229,RADHI,81,50,33,800.0,26400.0,2026-04-22,187589262,2776,Aakashbhairab Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 14:48:26.755117,Radhi Bidyut Company Ltd
+2026042204020230,RADHI,58,50,14,800.0,11200.0,2026-04-22,187589264,2776,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 14:48:26.755349,Radhi Bidyut Company Ltd
+2026042204020308,RADHI,48,50,100,800.0,80000.0,2026-04-22,187589990,2776,Trishakti Securities Public Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 14:48:47.212093,Radhi Bidyut Company Ltd
+2026042204020447,RADHI,63,50,200,800.0,160000.0,2026-04-22,187590918,2776,Himalayan Brokerage Company Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 14:49:16.880542,Radhi Bidyut Company Ltd
+2026042204020531,RADHI,32,50,100,800.0,80000.0,2026-04-22,187591676,2776,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 14:49:39.419403,Radhi Bidyut Company Ltd
+2026042204020622,RADHI,33,50,53,800.0,42400.0,2026-04-22,187592133,2776,Dakshinkali Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 14:49:57.359130,Radhi Bidyut Company Ltd
+2026042204020771,RADHI,32,44,1,787.0,787.0,2026-04-22,187593149,2776,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 14:50:37.152040,Radhi Bidyut Company Ltd
+2026042204021040,RADHI,43,45,100,802.0,80200.0,2026-04-22,187595787,2776,South Asian Bulls Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:51:59.377442,Radhi Bidyut Company Ltd
+2026042204021041,RADHI,43,50,50,802.0,40100.0,2026-04-22,187595789,2776,South Asian Bulls Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-22 14:51:59.377675,Radhi Bidyut Company Ltd
+2026042204021042,RADHI,43,64,272,802.0,218144.0,2026-04-22,187595795,2776,South Asian Bulls Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-22 14:51:59.855094,Radhi Bidyut Company Ltd
+2026042204021048,RADHI,81,6,10,803.0,8030.0,2026-04-22,187595841,2776,Aakashbhairab Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-22 14:52:01.409470,Radhi Bidyut Company Ltd
+2026042204021049,RADHI,81,44,470,804.0,377880.0,2026-04-22,187595843,2776,Aakashbhairab Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 14:52:01.409897,Radhi Bidyut Company Ltd
+2026042204021050,RADHI,81,71,1000,804.0,804000.0,2026-04-22,187595845,2776,Aakashbhairab Securities Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-22 14:52:01.410159,Radhi Bidyut Company Ltd
+2026042204021150,RADHI,43,38,78,802.0,62556.0,2026-04-22,187596574,2776,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:52:31.755955,Radhi Bidyut Company Ltd
+2026042204021151,RADHI,63,38,194,801.0,155394.0,2026-04-22,187596575,2776,Himalayan Brokerage Company Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:52:31.756202,Radhi Bidyut Company Ltd
+2026042204021323,RADHI,65,45,20,804.0,16080.0,2026-04-22,187597955,2776,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:53:18.412240,Radhi Bidyut Company Ltd
+2026042204021324,RADHI,65,81,20,805.0,16100.0,2026-04-22,187597957,2776,Sharepro Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-22 14:53:18.412747,Radhi Bidyut Company Ltd
+2026042204021325,RADHI,65,63,300,805.0,241500.0,2026-04-22,187597959,2776,Sharepro Securities Private Limited,Himalayan Brokerage Company Limited,2026-04-22 14:53:18.413124,Radhi Bidyut Company Ltd
+2026042204021326,RADHI,65,65,50,805.0,40250.0,2026-04-22,187597961,2776,Sharepro Securities Private Limited,Sharepro Securities Private Limited,2026-04-22 14:53:18.413440,Radhi Bidyut Company Ltd
+2026042204021327,RADHI,65,45,200,805.0,161000.0,2026-04-22,187597963,2776,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:53:18.413794,Radhi Bidyut Company Ltd
+2026042204021328,RADHI,65,51,170,805.0,136850.0,2026-04-22,187597965,2776,Sharepro Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-22 14:53:18.414119,Radhi Bidyut Company Ltd
+2026042204021329,RADHI,65,7,30,805.0,24150.0,2026-04-22,187597967,2776,Sharepro Securities Private Limited,J.F. Securites (PVT) Ltd.,2026-04-22 14:53:18.414494,Radhi Bidyut Company Ltd
+2026042204021330,RADHI,65,49,50,805.0,40250.0,2026-04-22,187597969,2776,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-22 14:53:18.414792,Radhi Bidyut Company Ltd
+2026042204021372,RADHI,65,62,160,805.0,128800.0,2026-04-22,187598286,2776,Sharepro Securities Private Limited,Capital Max Securities Ltd,2026-04-22 14:53:32.259105,Radhi Bidyut Company Ltd
+2026042204021373,RADHI,32,62,40,805.0,32200.0,2026-04-22,187598287,2776,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-22 14:53:32.259366,Radhi Bidyut Company Ltd
+2026042204021518,RADHI,58,48,100,805.3,80530.0,2026-04-22,187599526,2776,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-22 14:54:19.570831,Radhi Bidyut Company Ltd
+2026042204021562,RADHI,32,38,160,805.0,128800.0,2026-04-22,187599992,2776,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:54:35.037546,Radhi Bidyut Company Ltd
+2026042204021563,RADHI,26,38,50,805.0,40250.0,2026-04-22,187599994,2776,Asian Securities Private Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:54:35.037777,Radhi Bidyut Company Ltd
+2026042204021564,RADHI,63,38,35,803.0,28105.0,2026-04-22,187599995,2776,Himalayan Brokerage Company Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:54:35.037890,Radhi Bidyut Company Ltd
+2026042204021723,RADHI,42,39,20,805.0,16100.0,2026-04-22,187600926,2776,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-22 14:55:06.122418,Radhi Bidyut Company Ltd
+2026042204021731,RADHI,63,58,86,803.0,69058.0,2026-04-22,187600981,2776,Himalayan Brokerage Company Limited,Naasa Securities Co. Ltd.,2026-04-22 14:55:07.361667,Radhi Bidyut Company Ltd
+2026042204021776,RADHI,34,39,180,805.0,144900.0,2026-04-22,187601243,2776,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-22 14:55:15.345124,Radhi Bidyut Company Ltd
+2026042204021777,RADHI,34,57,200,805.0,161000.0,2026-04-22,187601246,2776,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-22 14:55:15.345722,Radhi Bidyut Company Ltd
+2026042204021778,RADHI,34,66,120,805.0,96600.0,2026-04-22,187601250,2776,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,2026-04-22 14:55:15.346227,Radhi Bidyut Company Ltd
+2026042204021873,RADHI,63,40,79,803.0,63437.0,2026-04-22,187601726,2776,Himalayan Brokerage Company Limited,Creative Securities Pvt Ltd,2026-04-22 14:55:24.872053,Radhi Bidyut Company Ltd
+2026042204021874,RADHI,63,40,21,801.0,16821.0,2026-04-22,187601727,2776,Himalayan Brokerage Company Limited,Creative Securities Pvt Ltd,2026-04-22 14:55:24.872145,Radhi Bidyut Company Ltd
+2026042204021964,RADHI,63,57,285,801.0,228285.0,2026-04-22,187602240,2776,Himalayan Brokerage Company Limited,Aryatara Investment & Securities,2026-04-22 14:55:34.829211,Radhi Bidyut Company Ltd
+2026042204021965,RADHI,33,57,215,800.0,172000.0,2026-04-22,187602241,2776,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-22 14:55:34.829253,Radhi Bidyut Company Ltd
+2026042204022041,RADHI,88,1,9,779.0,7011.0,2026-04-22,187602636,2776,Blue Chip Securities Ltd,Kumari Securities Private Limited,2026-04-22 14:55:45.684390,Radhi Bidyut Company Ltd
+2026042204022067,RADHI,33,57,232,800.0,185600.0,2026-04-22,187602794,2776,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-22 14:55:50.756961,Radhi Bidyut Company Ltd
+2026042204022068,RADHI,58,57,39,800.0,31200.0,2026-04-22,187602796,2776,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-22 14:55:50.756993,Radhi Bidyut Company Ltd
+2026042204022069,RADHI,63,57,129,800.0,103200.0,2026-04-22,187602797,2776,Himalayan Brokerage Company Limited,Aryatara Investment & Securities,2026-04-22 14:55:50.757017,Radhi Bidyut Company Ltd
+2026042204022077,RADHI,63,34,71,800.0,56800.0,2026-04-22,187602910,2776,Himalayan Brokerage Company Limited,Vision Securities Pvt. Ltd,2026-04-22 14:55:54.499943,Radhi Bidyut Company Ltd
+2026042204022078,RADHI,81,34,229,800.0,183200.0,2026-04-22,187602911,2776,Aakashbhairab Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-22 14:55:54.500145,Radhi Bidyut Company Ltd
+2026042204022305,RADHI,8,48,10,803.0,8030.0,2026-04-22,187604664,2776,Brilliant Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-22 14:56:39.827759,Radhi Bidyut Company Ltd
+2026042204022825,RADHI,66,59,100,795.0,79500.0,2026-04-22,187608905,2776,Miyo Securities Pvt Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-22 14:58:13.447227,Radhi Bidyut Company Ltd
+2026042204022888,RADHI,66,45,27,795.0,21465.0,2026-04-22,187609301,2776,Miyo Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-22 14:58:22.048742,Radhi Bidyut Company Ltd
+2026042204022955,RADHI,37,13,50,800.0,40000.0,2026-04-22,187609928,2776,Swarna Laxmi Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-22 14:58:34.532360,Radhi Bidyut Company Ltd
+2026042204023025,RADHI,66,60,10,795.0,7950.0,2026-04-22,187610627,2776,Miyo Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-22 14:58:42.848843,Radhi Bidyut Company Ltd
+2026042204023102,RADHI,37,4,200,800.0,160000.0,2026-04-22,187611266,2776,Swarna Laxmi Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-22 14:59:03.874640,Radhi Bidyut Company Ltd
+2026042204023116,RADHI,66,48,63,795.0,50085.0,2026-04-22,187611327,2776,Miyo Securities Pvt Ltd,Trishakti Securities Public Limited,2026-04-22 14:59:05.636022,Radhi Bidyut Company Ltd
+2026042204023117,RADHI,38,48,27,795.0,21465.0,2026-04-22,187611328,2776,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-22 14:59:05.636220,Radhi Bidyut Company Ltd
+2026042204023141,RADHI,38,57,23,795.0,18285.0,2026-04-22,187611444,2776,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-22 14:59:08.379261,Radhi Bidyut Company Ltd
+2026042204023142,RADHI,39,57,477,793.1,378308.7,2026-04-22,187611445,2776,Sumeru Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-22 14:59:08.379671,Radhi Bidyut Company Ltd
+2026042204023234,RADHI,39,21,23,793.1,18241.3,2026-04-22,187612136,2776,Sumeru Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-22 14:59:24.309746,Radhi Bidyut Company Ltd
+2026042204023235,RADHI,43,21,77,793.0,61061.0,2026-04-22,187612137,2776,South Asian Bulls Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-22 14:59:24.310000,Radhi Bidyut Company Ltd
+2026042204023302,RADHI,34,57,150,799.0,119850.0,2026-04-22,187612781,2776,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-22 14:59:38.479522,Radhi Bidyut Company Ltd
+2026042204023502,RADHI,8,4,20,800.0,16000.0,2026-04-22,187614210,2776,Brilliant Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-22 14:59:57.894365,Radhi Bidyut Company Ltd
+2026042204023527,RADHI,34,4,20,800.0,16000.0,2026-04-22,187614499,2776,Vision Securities Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-22 14:59:58.248564,Radhi Bidyut Company Ltd
+2026042204023529,RADHI,81,4,260,800.0,208000.0,2026-04-22,187614542,2776,Aakashbhairab Securities Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-22 14:59:58.498809,Radhi Bidyut Company Ltd
+2026042204023530,RADHI,81,57,150,801.9,120285.0,2026-04-22,187614545,2776,Aakashbhairab Securities Ltd.,Aryatara Investment & Securities,2026-04-22 14:59:58.499014,Radhi Bidyut Company Ltd
+2026042204023531,RADHI,81,40,130,802.0,104260.0,2026-04-22,187614550,2776,Aakashbhairab Securities Ltd.,Creative Securities Pvt Ltd,2026-04-22 14:59:58.499112,Radhi Bidyut Company Ltd
+2026042204023532,RADHI,81,74,2000,803.0,1606000.0,2026-04-22,187614554,2776,Aakashbhairab Securities Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-22 14:59:58.499208,Radhi Bidyut Company Ltd
+2026042204023533,RADHI,81,38,100,803.0,80300.0,2026-04-22,187614558,2776,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-22 14:59:58.499304,Radhi Bidyut Company Ltd
+2026042204023534,RADHI,81,44,360,803.0,289080.0,2026-04-22,187614564,2776,Aakashbhairab Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-22 14:59:58.499406,Radhi Bidyut Company Ltd

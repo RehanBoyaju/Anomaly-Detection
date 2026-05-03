@@ -1,0 +1,587 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042301000471,PRVU,48,62,10,205.0,2050.0,2026-04-23,187616090,255,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-23 11:01:15.671421,Prabhu  Bank Limited
+2026042301000623,PRVU,7,62,490,205.0,100450.0,2026-04-23,187616425,255,J.F. Securites (PVT) Ltd.,Capital Max Securities Ltd,2026-04-23 11:01:42.637181,Prabhu  Bank Limited
+2026042301001040,PRVU,7,35,10,205.0,2050.0,2026-04-23,187617408,255,J.F. Securites (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 11:02:51.046507,Prabhu  Bank Limited
+2026042301001041,PRVU,74,35,20,205.0,4100.0,2026-04-23,187617410,255,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 11:02:51.046588,Prabhu  Bank Limited
+2026042301001042,PRVU,58,35,35,205.0,7175.0,2026-04-23,187617411,255,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 11:02:51.046642,Prabhu  Bank Limited
+2026042301001391,PRVU,7,29,100,206.0,20600.0,2026-04-23,187618219,255,J.F. Securites (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 11:03:30.268747,Prabhu  Bank Limited
+2026042301001392,PRVU,7,48,1000,206.0,206000.0,2026-04-23,187618222,255,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 11:03:30.268835,Prabhu  Bank Limited
+2026042301001714,PRVU,25,58,15,206.0,3090.0,2026-04-23,187619111,255,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 11:04:38.566573,Prabhu  Bank Limited
+2026042301001715,PRVU,25,71,285,206.0,58710.0,2026-04-23,187619114,255,Sweta Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-23 11:04:38.566664,Prabhu  Bank Limited
+2026042301002002,PRVU,42,28,1500,205.0,307500.0,2026-04-23,187619884,255,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:05:24.106586,Prabhu  Bank Limited
+2026042301002090,PRVU,58,14,40,204.0,8160.0,2026-04-23,187620120,255,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:05:40.960079,Prabhu  Bank Limited
+2026042301002216,PRVU,56,14,10,204.0,2040.0,2026-04-23,187620512,255,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:06:03.517320,Prabhu  Bank Limited
+2026042301002301,PRVU,49,58,10,202.0,2020.0,2026-04-23,187620739,255,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:06:15.055541,Prabhu  Bank Limited
+2026042301002398,PRVU,58,14,120,204.0,24480.0,2026-04-23,187621016,255,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:06:25.786848,Prabhu  Bank Limited
+2026042301002542,PRVU,49,44,90,202.0,18180.0,2026-04-23,187621498,255,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:06:55.566326,Prabhu  Bank Limited
+2026042301002543,PRVU,34,44,119,202.0,24038.0,2026-04-23,187621500,255,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:06:55.566439,Prabhu  Bank Limited
+2026042301002544,PRVU,51,44,100,202.0,20200.0,2026-04-23,187621502,255,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:06:55.566499,Prabhu  Bank Limited
+2026042301003152,PRVU,25,44,300,202.0,60600.0,2026-04-23,187623192,255,Sweta Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:08:23.533852,Prabhu  Bank Limited
+2026042301003213,PRVU,52,42,1000,200.4,200400.0,2026-04-23,187623340,255,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-23 11:08:33.123343,Prabhu  Bank Limited
+2026042301003214,PRVU,48,42,300,200.3,60090.0,2026-04-23,187623342,255,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-23 11:08:33.123472,Prabhu  Bank Limited
+2026042301003215,PRVU,58,42,300,200.3,60090.0,2026-04-23,187623344,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:08:33.123530,Prabhu  Bank Limited
+2026042301003216,PRVU,48,42,10,200.2,2002.0,2026-04-23,187623346,255,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-23 11:08:33.123584,Prabhu  Bank Limited
+2026042301003217,PRVU,57,42,369,200.0,73800.0,2026-04-23,187623348,255,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 11:08:33.123641,Prabhu  Bank Limited
+2026042301003218,PRVU,58,42,250,200.0,50000.0,2026-04-23,187623350,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:08:33.123694,Prabhu  Bank Limited
+2026042301003219,PRVU,58,42,14,200.0,2800.0,2026-04-23,187623352,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:08:33.123765,Prabhu  Bank Limited
+2026042301003220,PRVU,17,42,10,200.0,2000.0,2026-04-23,187623354,255,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 11:08:33.123825,Prabhu  Bank Limited
+2026042301003221,PRVU,42,42,247,200.0,49400.0,2026-04-23,187623355,255,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 11:08:33.123877,Prabhu  Bank Limited
+2026042301003560,PRVU,51,49,10,200.1,2001.0,2026-04-23,187624271,255,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:09:41.279563,Prabhu  Bank Limited
+2026042301003689,PRVU,51,41,90,200.1,18009.0,2026-04-23,187624562,255,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:09:49.539878,Prabhu  Bank Limited
+2026042301003690,PRVU,51,41,410,200.1,82041.0,2026-04-23,187624563,255,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:09:49.540042,Prabhu  Bank Limited
+2026042301004102,PRVU,14,44,31,202.0,6262.0,2026-04-23,187625729,255,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:11:02.981558,Prabhu  Bank Limited
+2026042301004185,PRVU,14,21,11,202.0,2222.0,2026-04-23,187625999,255,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 11:11:23.177301,Prabhu  Bank Limited
+2026042301004506,PRVU,14,57,22,203.0,4466.0,2026-04-23,187626814,255,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 11:12:20.710553,Prabhu  Bank Limited
+2026042301005180,PRVU,42,57,10,203.0,2030.0,2026-04-23,187628463,255,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-23 11:13:57.365325,Prabhu  Bank Limited
+2026042301005181,PRVU,42,62,100,203.7,20370.0,2026-04-23,187628465,255,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-23 11:13:57.365481,Prabhu  Bank Limited
+2026042301005182,PRVU,42,14,430,204.0,87720.0,2026-04-23,187628467,255,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:13:57.365603,Prabhu  Bank Limited
+2026042301005183,PRVU,42,13,890,204.0,181560.0,2026-04-23,187628470,255,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 11:13:57.365837,Prabhu  Bank Limited
+2026042301005290,PRVU,45,58,2,200.0,400.0,2026-04-23,187628759,255,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:14:16.019502,Prabhu  Bank Limited
+2026042301006263,PRVU,46,58,12,203.0,2436.0,2026-04-23,187631558,255,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:16:52.569790,Prabhu  Bank Limited
+2026042301006440,PRVU,45,58,25,203.9,5097.5,2026-04-23,187631932,255,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:17:08.272336,Prabhu  Bank Limited
+2026042301008052,PRVU,36,58,275,203.5,55962.5,2026-04-23,187636197,255,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:21:04.323689,Prabhu  Bank Limited
+2026042301008305,PRVU,36,41,95,203.5,19332.5,2026-04-23,187637015,255,Secured Securities Ltd.,Linch Stock Market Ltd.,2026-04-23 11:21:32.754452,Prabhu  Bank Limited
+2026042301008718,PRVU,25,71,100,203.4,20340.0,2026-04-23,187638042,255,Sweta Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-23 11:22:13.098207,Prabhu  Bank Limited
+2026042301008964,PRVU,46,14,30,203.0,6090.0,2026-04-23,187638767,255,Kalika Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:22:53.758665,Prabhu  Bank Limited
+2026042301009044,PRVU,68,58,95,202.0,19190.0,2026-04-23,187639020,255,Elite Stock House Limited,Naasa Securities Co. Ltd.,2026-04-23 11:23:03.873896,Prabhu  Bank Limited
+2026042301009196,PRVU,58,51,20,202.0,4040.0,2026-04-23,187639530,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:23:38.530115,Prabhu  Bank Limited
+2026042301009322,PRVU,58,51,200,200.3,40060.0,2026-04-23,187639853,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:23:57.708888,Prabhu  Bank Limited
+2026042301009448,PRVU,58,58,22,200.3,4406.6,2026-04-23,187640193,255,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:24:15.909918,Prabhu  Bank Limited
+2026042301009466,PRVU,48,51,10,201.0,2010.0,2026-04-23,187640236,255,Trishakti Securities Public Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:24:18.652671,Prabhu  Bank Limited
+2026042301009863,PRVU,14,51,20,201.0,4020.0,2026-04-23,187641252,255,Nepal Stock House (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:25:01.676350,Prabhu  Bank Limited
+2026042301009910,PRVU,58,7,78,200.3,15623.4,2026-04-23,187641422,255,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 11:25:13.691703,Prabhu  Bank Limited
+2026042301009911,PRVU,71,7,122,200.3,24436.6,2026-04-23,187641423,255,SHUBHAKAMANA SECURITIES PVT. LTD,J.F. Securites (PVT) Ltd.,2026-04-23 11:25:13.691913,Prabhu  Bank Limited
+2026042301010363,PRVU,14,51,150,201.0,30150.0,2026-04-23,187642696,255,Nepal Stock House (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:26:28.921267,Prabhu  Bank Limited
+2026042301011987,PRVU,58,57,61,201.0,12261.0,2026-04-23,187646956,255,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:29:39.446067,Prabhu  Bank Limited
+2026042301011988,PRVU,58,57,80,201.0,16080.0,2026-04-23,187646958,255,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:29:39.446109,Prabhu  Bank Limited
+2026042301011989,PRVU,7,57,1000,201.0,201000.0,2026-04-23,187646960,255,J.F. Securites (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 11:29:39.446146,Prabhu  Bank Limited
+2026042301011990,PRVU,71,57,659,200.6,132195.4,2026-04-23,187646961,255,SHUBHAKAMANA SECURITIES PVT. LTD,Aryatara Investment & Securities,2026-04-23 11:29:39.446181,Prabhu  Bank Limited
+2026042301012081,PRVU,45,59,1,195.0,195.0,2026-04-23,187647215,255,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:30:00.993076,Prabhu  Bank Limited
+2026042301012128,PRVU,49,95,490,201.1,98539.0,2026-04-23,187647328,255,Online Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.793182,Prabhu  Bank Limited
+2026042301012129,PRVU,71,95,219,200.6,43931.4,2026-04-23,187647330,255,SHUBHAKAMANA SECURITIES PVT. LTD,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.793678,Prabhu  Bank Limited
+2026042301012130,PRVU,62,95,500,200.5,100250.0,2026-04-23,187647332,255,Capital Max Securities Ltd,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.793999,Prabhu  Bank Limited
+2026042301012131,PRVU,50,95,200,200.4,40080.0,2026-04-23,187647334,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.794335,Prabhu  Bank Limited
+2026042301012132,PRVU,45,95,500,200.3,100150.0,2026-04-23,187647336,255,Imperial Securities Company Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.794659,Prabhu  Bank Limited
+2026042301012133,PRVU,51,95,100,200.2,20020.0,2026-04-23,187647338,255,Oxford Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.794980,Prabhu  Bank Limited
+2026042301012134,PRVU,58,95,50,200.2,10010.0,2026-04-23,187647340,255,Naasa Securities Co. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.795314,Prabhu  Bank Limited
+2026042301012135,PRVU,39,95,1000,200.2,200200.0,2026-04-23,187647342,255,Sumeru Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.795622,Prabhu  Bank Limited
+2026042301012136,PRVU,51,95,90,200.1,18009.0,2026-04-23,187647344,255,Oxford Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.795937,Prabhu  Bank Limited
+2026042301012137,PRVU,41,95,100,200.1,20010.0,2026-04-23,187647346,255,Linch Stock Market Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.796273,Prabhu  Bank Limited
+2026042301012138,PRVU,58,95,45,200.1,9004.5,2026-04-23,187647348,255,Naasa Securities Co. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.796593,Prabhu  Bank Limited
+2026042301012139,PRVU,43,95,100,200.1,20010.0,2026-04-23,187647350,255,South Asian Bulls Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.796895,Prabhu  Bank Limited
+2026042301012140,PRVU,39,95,1000,200.1,200100.0,2026-04-23,187647352,255,Sumeru Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.797217,Prabhu  Bank Limited
+2026042301012141,PRVU,46,95,5606,200.1,1121760.6,2026-04-23,187647353,255,Kalika Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:30:08.797529,Prabhu  Bank Limited
+2026042301012261,PRVU,42,38,10,201.0,2010.0,2026-04-23,187647760,255,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:30:36.015115,Prabhu  Bank Limited
+2026042301012639,PRVU,59,38,50,201.0,10050.0,2026-04-23,187648800,255,Deevyaa Securities & Stock House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:31:28.739778,Prabhu  Bank Limited
+2026042301012707,PRVU,58,38,250,201.0,50250.0,2026-04-23,187648988,255,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:31:42.550762,Prabhu  Bank Limited
+2026042301013015,PRVU,58,38,390,201.0,78390.0,2026-04-23,187649925,255,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:32:36.744011,Prabhu  Bank Limited
+2026042301014151,PRVU,48,28,10,203.4,2034.0,2026-04-23,187652980,255,Trishakti Securities Public Limited,Shree Krishna Securities Ltd.,2026-04-23 11:35:48.456801,Prabhu  Bank Limited
+2026042301014232,PRVU,58,50,8,201.0,1608.0,2026-04-23,187653211,255,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:36:05.141906,Prabhu  Bank Limited
+2026042301014479,PRVU,34,28,17,203.4,3457.8,2026-04-23,187653864,255,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-23 11:36:45.561066,Prabhu  Bank Limited
+2026042301014487,PRVU,49,32,80,201.0,16080.0,2026-04-23,187653892,255,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 11:36:48.110904,Prabhu  Bank Limited
+2026042301014488,PRVU,11,32,30,201.0,6030.0,2026-04-23,187653893,255,Malla & Malla Stock Broking Company Pvt. Limited,Premier Securities Company Ltd.,2026-04-23 11:36:48.111209,Prabhu  Bank Limited
+2026042301014976,PRVU,46,28,173,203.4,35188.2,2026-04-23,187655367,255,Kalika Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:38:40.910735,Prabhu  Bank Limited
+2026042301014977,PRVU,46,33,370,203.5,75295.0,2026-04-23,187655369,255,Kalika Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:38:40.911344,Prabhu  Bank Limited
+2026042301014978,PRVU,46,58,300,203.5,61050.0,2026-04-23,187655371,255,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:38:40.911792,Prabhu  Bank Limited
+2026042301014979,PRVU,46,57,1057,203.6,215205.2,2026-04-23,187655374,255,Kalika Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 11:38:40.912249,Prabhu  Bank Limited
+2026042301016030,PRVU,89,39,60,201.1,12066.0,2026-04-23,187658351,255,Global IME Securities Limited,Sumeru Securities Pvt. Ltd.,2026-04-23 11:42:17.033426,Prabhu  Bank Limited
+2026042301016359,PRVU,11,22,170,201.0,34170.0,2026-04-23,187659451,255,Malla & Malla Stock Broking Company Pvt. Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.248362,Prabhu  Bank Limited
+2026042301016360,PRVU,11,22,200,201.0,40200.0,2026-04-23,187659453,255,Malla & Malla Stock Broking Company Pvt. Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.248741,Prabhu  Bank Limited
+2026042301016361,PRVU,19,22,39,201.0,7839.0,2026-04-23,187659455,255,Nepal Investment And Securities Trading Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.248904,Prabhu  Bank Limited
+2026042301016362,PRVU,4,22,200,201.0,40200.0,2026-04-23,187659457,255,Opal Securities Investment (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.249073,Prabhu  Bank Limited
+2026042301016363,PRVU,41,22,500,200.5,100250.0,2026-04-23,187659459,255,Linch Stock Market Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.249274,Prabhu  Bank Limited
+2026042301016364,PRVU,45,22,500,200.3,100150.0,2026-04-23,187659461,255,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.249435,Prabhu  Bank Limited
+2026042301016365,PRVU,33,22,1000,200.3,200300.0,2026-04-23,187659463,255,Dakshinkali Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.249594,Prabhu  Bank Limited
+2026042301016366,PRVU,51,22,100,200.2,20020.0,2026-04-23,187659465,255,Oxford Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.249763,Prabhu  Bank Limited
+2026042301016367,PRVU,19,22,30,200.2,6006.0,2026-04-23,187659467,255,Nepal Investment And Securities Trading Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.249974,Prabhu  Bank Limited
+2026042301016368,PRVU,75,22,500,200.2,100100.0,2026-04-23,187659469,255,N.I.M.B. Stock Markets Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.250211,Prabhu  Bank Limited
+2026042301016369,PRVU,58,22,300,200.2,60060.0,2026-04-23,187659471,255,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.250487,Prabhu  Bank Limited
+2026042301016370,PRVU,46,22,1461,200.1,292346.1,2026-04-23,187659472,255,Kalika Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:43:39.250678,Prabhu  Bank Limited
+2026042301016535,PRVU,46,58,50,200.1,10005.0,2026-04-23,187660103,255,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:44:27.724847,Prabhu  Bank Limited
+2026042301016872,PRVU,49,36,583,200.2,116716.6,2026-04-23,187661069,255,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 11:45:42.077944,Prabhu  Bank Limited
+2026042301017005,PRVU,49,57,67,200.2,13413.4,2026-04-23,187661498,255,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 11:46:10.531765,Prabhu  Bank Limited
+2026042301017006,PRVU,58,57,150,200.2,30030.0,2026-04-23,187661500,255,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:46:10.531869,Prabhu  Bank Limited
+2026042301017007,PRVU,59,57,62,200.2,12412.4,2026-04-23,187661501,255,Deevyaa Securities & Stock House Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 11:46:10.531952,Prabhu  Bank Limited
+2026042301017702,PRVU,56,34,75,201.0,15075.0,2026-04-23,187663658,255,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563404,Prabhu  Bank Limited
+2026042301017703,PRVU,10,34,40,201.0,8040.0,2026-04-23,187663660,255,Pragyan Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563448,Prabhu  Bank Limited
+2026042301017704,PRVU,58,34,24,200.3,4807.2,2026-04-23,187663662,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563474,Prabhu  Bank Limited
+2026042301017705,PRVU,59,34,138,200.2,27627.6,2026-04-23,187663664,255,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563509,Prabhu  Bank Limited
+2026042301017706,PRVU,33,34,300,200.2,60060.0,2026-04-23,187663666,255,Dakshinkali Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563535,Prabhu  Bank Limited
+2026042301017707,PRVU,58,34,10,200.2,2002.0,2026-04-23,187663668,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563560,Prabhu  Bank Limited
+2026042301017708,PRVU,46,34,3683,200.1,736968.3,2026-04-23,187663670,255,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563592,Prabhu  Bank Limited
+2026042301017709,PRVU,42,34,200,200.1,40020.0,2026-04-23,187663672,255,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563621,Prabhu  Bank Limited
+2026042301017710,PRVU,58,34,100,200.1,20010.0,2026-04-23,187663674,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563650,Prabhu  Bank Limited
+2026042301017711,PRVU,42,34,753,200.0,150600.0,2026-04-23,187663676,255,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563677,Prabhu  Bank Limited
+2026042301017712,PRVU,58,34,125,200.0,25000.0,2026-04-23,187663678,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563708,Prabhu  Bank Limited
+2026042301017713,PRVU,57,34,233,200.0,46600.0,2026-04-23,187663680,255,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563733,Prabhu  Bank Limited
+2026042301017714,PRVU,35,34,47,200.0,9400.0,2026-04-23,187663682,255,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563759,Prabhu  Bank Limited
+2026042301017715,PRVU,58,34,300,200.0,60000.0,2026-04-23,187663684,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563783,Prabhu  Bank Limited
+2026042301017716,PRVU,3,34,5000,200.0,1000000.0,2026-04-23,187663686,255,Arun Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563810,Prabhu  Bank Limited
+2026042301017717,PRVU,3,34,5000,200.0,1000000.0,2026-04-23,187663688,255,Arun Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563841,Prabhu  Bank Limited
+2026042301017718,PRVU,17,34,500,200.0,100000.0,2026-04-23,187663690,255,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563872,Prabhu  Bank Limited
+2026042301017719,PRVU,58,34,402,200.0,80400.0,2026-04-23,187663692,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563901,Prabhu  Bank Limited
+2026042301017720,PRVU,48,34,250,200.0,50000.0,2026-04-23,187663694,255,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563928,Prabhu  Bank Limited
+2026042301017721,PRVU,33,34,100,200.0,20000.0,2026-04-23,187663696,255,Dakshinkali Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563956,Prabhu  Bank Limited
+2026042301017722,PRVU,32,34,15,200.0,3000.0,2026-04-23,187663698,255,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.563981,Prabhu  Bank Limited
+2026042301017723,PRVU,57,34,125,200.0,25000.0,2026-04-23,187663700,255,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564006,Prabhu  Bank Limited
+2026042301017724,PRVU,47,34,100,200.0,20000.0,2026-04-23,187663702,255,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564040,Prabhu  Bank Limited
+2026042301017725,PRVU,14,34,10,200.0,2000.0,2026-04-23,187663704,255,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564078,Prabhu  Bank Limited
+2026042301017726,PRVU,44,34,50,200.0,10000.0,2026-04-23,187663706,255,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564104,Prabhu  Bank Limited
+2026042301017727,PRVU,14,34,1000,200.0,200000.0,2026-04-23,187663708,255,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564131,Prabhu  Bank Limited
+2026042301017728,PRVU,57,34,2400,200.0,480000.0,2026-04-23,187663710,255,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564156,Prabhu  Bank Limited
+2026042301017729,PRVU,17,34,100,200.0,20000.0,2026-04-23,187663712,255,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564180,Prabhu  Bank Limited
+2026042301017730,PRVU,21,34,200,200.0,40000.0,2026-04-23,187663714,255,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564206,Prabhu  Bank Limited
+2026042301017731,PRVU,4,34,62,200.0,12400.0,2026-04-23,187663716,255,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564232,Prabhu  Bank Limited
+2026042301017732,PRVU,35,34,200,200.0,40000.0,2026-04-23,187663718,255,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564260,Prabhu  Bank Limited
+2026042301017733,PRVU,6,34,1000,200.0,200000.0,2026-04-23,187663720,255,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564286,Prabhu  Bank Limited
+2026042301017734,PRVU,58,34,50,200.0,10000.0,2026-04-23,187663722,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564311,Prabhu  Bank Limited
+2026042301017735,PRVU,83,34,10,200.0,2000.0,2026-04-23,187663724,255,Sanima Securities Limited,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564339,Prabhu  Bank Limited
+2026042301017736,PRVU,25,34,500,200.0,100000.0,2026-04-23,187663726,255,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564364,Prabhu  Bank Limited
+2026042301017737,PRVU,45,34,100,200.0,20000.0,2026-04-23,187663728,255,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564391,Prabhu  Bank Limited
+2026042301017738,PRVU,50,34,500,200.0,100000.0,2026-04-23,187663730,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564416,Prabhu  Bank Limited
+2026042301017739,PRVU,42,34,10,200.0,2000.0,2026-04-23,187663732,255,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564442,Prabhu  Bank Limited
+2026042301017740,PRVU,3,34,500,200.0,100000.0,2026-04-23,187663734,255,Arun Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564465,Prabhu  Bank Limited
+2026042301017741,PRVU,42,34,1498,200.0,299600.0,2026-04-23,187663736,255,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564489,Prabhu  Bank Limited
+2026042301017742,PRVU,35,34,497,200.0,99400.0,2026-04-23,187663738,255,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564516,Prabhu  Bank Limited
+2026042301017743,PRVU,17,34,500,200.0,100000.0,2026-04-23,187663740,255,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564541,Prabhu  Bank Limited
+2026042301017744,PRVU,42,34,50,200.0,10000.0,2026-04-23,187663742,255,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564565,Prabhu  Bank Limited
+2026042301017745,PRVU,74,34,2488,200.0,497600.0,2026-04-23,187663743,255,KALASH STOCK MARKET PVT. LTD.,Vision Securities Pvt. Ltd,2026-04-23 11:49:00.564591,Prabhu  Bank Limited
+2026042301017932,PRVU,25,51,19,200.4,3807.6,2026-04-23,187664320,255,Sweta Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:49:54.008407,Prabhu  Bank Limited
+2026042301018012,PRVU,74,51,212,200.0,42400.0,2026-04-23,187664578,255,KALASH STOCK MARKET PVT. LTD.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.649462,Prabhu  Bank Limited
+2026042301018013,PRVU,11,51,200,200.0,40000.0,2026-04-23,187664580,255,Malla & Malla Stock Broking Company Pvt. Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.650142,Prabhu  Bank Limited
+2026042301018014,PRVU,58,51,10,200.0,2000.0,2026-04-23,187664582,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.650593,Prabhu  Bank Limited
+2026042301018015,PRVU,58,51,10,200.0,2000.0,2026-04-23,187664584,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.651057,Prabhu  Bank Limited
+2026042301018016,PRVU,58,51,50,200.0,10000.0,2026-04-23,187664586,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.651495,Prabhu  Bank Limited
+2026042301018017,PRVU,42,51,760,200.0,152000.0,2026-04-23,187664588,255,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.651917,Prabhu  Bank Limited
+2026042301018018,PRVU,26,51,100,200.0,20000.0,2026-04-23,187664590,255,Asian Securities Private Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.652425,Prabhu  Bank Limited
+2026042301018019,PRVU,8,51,1000,200.0,200000.0,2026-04-23,187664592,255,Brilliant Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.652865,Prabhu  Bank Limited
+2026042301018020,PRVU,11,51,200,200.0,40000.0,2026-04-23,187664594,255,Malla & Malla Stock Broking Company Pvt. Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.653316,Prabhu  Bank Limited
+2026042301018021,PRVU,58,51,250,200.0,50000.0,2026-04-23,187664596,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.653751,Prabhu  Bank Limited
+2026042301018022,PRVU,49,51,720,200.0,144000.0,2026-04-23,187664597,255,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:22.654189,Prabhu  Bank Limited
+2026042301018065,PRVU,49,4,10,200.0,2000.0,2026-04-23,187664715,255,Online Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 11:50:30.308940,Prabhu  Bank Limited
+2026042301018200,PRVU,38,51,70,201.0,14070.0,2026-04-23,187665122,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:54.806856,Prabhu  Bank Limited
+2026042301018218,PRVU,34,51,25,201.0,5025.0,2026-04-23,187665176,255,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 11:50:58.666257,Prabhu  Bank Limited
+2026042301018390,PRVU,38,51,1000,200.1,200100.0,2026-04-23,187665604,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:51:20.360112,Prabhu  Bank Limited
+2026042301018391,PRVU,21,51,300,200.1,60030.0,2026-04-23,187665605,255,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:51:20.360748,Prabhu  Bank Limited
+2026042301018614,PRVU,49,51,200,200.2,40040.0,2026-04-23,187666305,255,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:52:19.634763,Prabhu  Bank Limited
+2026042301018826,PRVU,44,51,10,200.1,2001.0,2026-04-23,187667002,255,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:15.389271,Prabhu  Bank Limited
+2026042301018827,PRVU,49,51,290,200.0,58000.0,2026-04-23,187667004,255,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:15.389909,Prabhu  Bank Limited
+2026042301018828,PRVU,45,51,100,200.0,20000.0,2026-04-23,187667005,255,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:15.390438,Prabhu  Bank Limited
+2026042301018887,PRVU,45,51,100,200.0,20000.0,2026-04-23,187667176,255,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:29.402002,Prabhu  Bank Limited
+2026042301018888,PRVU,58,51,101,200.0,20200.0,2026-04-23,187667178,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:29.402724,Prabhu  Bank Limited
+2026042301018889,PRVU,50,51,200,200.0,40000.0,2026-04-23,187667180,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:29.403221,Prabhu  Bank Limited
+2026042301018890,PRVU,45,51,13,200.0,2600.0,2026-04-23,187667182,255,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:29.403713,Prabhu  Bank Limited
+2026042301018891,PRVU,39,51,100,200.0,20000.0,2026-04-23,187667183,255,Sumeru Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:29.404195,Prabhu  Bank Limited
+2026042301018995,PRVU,11,51,100,199.6,19960.0,2026-04-23,187667592,255,Malla & Malla Stock Broking Company Pvt. Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:58.038137,Prabhu  Bank Limited
+2026042301018996,PRVU,14,51,300,199.6,59880.0,2026-04-23,187667594,255,Nepal Stock House (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:58.038967,Prabhu  Bank Limited
+2026042301018997,PRVU,41,51,100,199.6,19960.0,2026-04-23,187667596,255,Linch Stock Market Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:58.039671,Prabhu  Bank Limited
+2026042301018998,PRVU,58,51,100,199.6,19960.0,2026-04-23,187667598,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:58.040399,Prabhu  Bank Limited
+2026042301018999,PRVU,33,51,100,199.5,19950.0,2026-04-23,187667600,255,Dakshinkali Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:53:58.041123,Prabhu  Bank Limited
+2026042301019057,PRVU,38,51,15,199.5,2992.5,2026-04-23,187667814,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:54:17.797131,Prabhu  Bank Limited
+2026042301019132,PRVU,44,51,94,199.5,18753.0,2026-04-23,187668030,255,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:54:34.589303,Prabhu  Bank Limited
+2026042301019155,PRVU,45,51,20,199.5,3990.0,2026-04-23,187668090,255,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:54:41.323535,Prabhu  Bank Limited
+2026042301019295,PRVU,42,51,10,199.5,1995.0,2026-04-23,187668518,255,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:12.465091,Prabhu  Bank Limited
+2026042301019364,PRVU,45,51,100,199.5,19950.0,2026-04-23,187668680,255,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:20.822865,Prabhu  Bank Limited
+2026042301019383,PRVU,41,51,1000,199.5,199500.0,2026-04-23,187668724,255,Linch Stock Market Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:24.101710,Prabhu  Bank Limited
+2026042301019442,PRVU,71,51,50,199.3,9965.0,2026-04-23,187668910,255,SHUBHAKAMANA SECURITIES PVT. LTD,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:40.608264,Prabhu  Bank Limited
+2026042301019482,PRVU,17,51,2000,199.3,398600.0,2026-04-23,187669013,255,ABC Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:46.602594,Prabhu  Bank Limited
+2026042301019483,PRVU,17,51,61,199.5,12169.5,2026-04-23,187669015,255,ABC Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:46.603294,Prabhu  Bank Limited
+2026042301019675,PRVU,38,51,50,199.6,9980.0,2026-04-23,187669618,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:29.939080,Prabhu  Bank Limited
+2026042301019676,PRVU,17,51,39,199.5,7780.5,2026-04-23,187669620,255,ABC Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:29.939821,Prabhu  Bank Limited
+2026042301019677,PRVU,39,51,100,199.3,19930.0,2026-04-23,187669622,255,Sumeru Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:29.940343,Prabhu  Bank Limited
+2026042301019678,PRVU,35,51,1000,199.2,199200.0,2026-04-23,187669624,255,Kohinoor Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:29.940864,Prabhu  Bank Limited
+2026042301019679,PRVU,16,51,1000,199.2,199200.0,2026-04-23,187669626,255,Primo Securities (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:29.941419,Prabhu  Bank Limited
+2026042301019680,PRVU,97,51,1000,199.1,199100.0,2026-04-23,187669628,255,R.B.B. Securities Company Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:29.941937,Prabhu  Bank Limited
+2026042301019681,PRVU,97,51,311,199.1,61920.1,2026-04-23,187669629,255,R.B.B. Securities Company Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:29.942484,Prabhu  Bank Limited
+2026042301020233,PRVU,21,51,125,199.2,24900.0,2026-04-23,187671290,255,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.355613,Prabhu  Bank Limited
+2026042301020234,PRVU,97,51,759,199.1,151116.9,2026-04-23,187671292,255,R.B.B. Securities Company Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.355942,Prabhu  Bank Limited
+2026042301020235,PRVU,58,51,10,199.1,1991.0,2026-04-23,187671294,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.356141,Prabhu  Bank Limited
+2026042301020236,PRVU,16,51,1000,199.1,199100.0,2026-04-23,187671296,255,Primo Securities (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.356327,Prabhu  Bank Limited
+2026042301020237,PRVU,59,51,50,199.1,9955.0,2026-04-23,187671298,255,Deevyaa Securities & Stock House Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.356514,Prabhu  Bank Limited
+2026042301020238,PRVU,45,51,200,199.1,39820.0,2026-04-23,187671300,255,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.356705,Prabhu  Bank Limited
+2026042301020239,PRVU,17,51,50,199.1,9955.0,2026-04-23,187671302,255,ABC Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.356890,Prabhu  Bank Limited
+2026042301020240,PRVU,58,51,25,199.0,4975.0,2026-04-23,187671304,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.357080,Prabhu  Bank Limited
+2026042301020241,PRVU,11,51,550,199.0,109450.0,2026-04-23,187671306,255,Malla & Malla Stock Broking Company Pvt. Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.357268,Prabhu  Bank Limited
+2026042301020242,PRVU,58,51,500,199.0,99500.0,2026-04-23,187671308,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.357451,Prabhu  Bank Limited
+2026042301020243,PRVU,87,51,500,199.0,99500.0,2026-04-23,187671310,255,S.P.S.A. Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.357634,Prabhu  Bank Limited
+2026042301020244,PRVU,52,51,100,199.0,19900.0,2026-04-23,187671312,255,Sundhara Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.357819,Prabhu  Bank Limited
+2026042301020245,PRVU,58,51,50,199.0,9950.0,2026-04-23,187671314,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.357999,Prabhu  Bank Limited
+2026042301020246,PRVU,8,51,81,199.0,16119.0,2026-04-23,187671315,255,Brilliant Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:58:17.358183,Prabhu  Bank Limited
+2026042301020467,PRVU,43,40,10,200.0,2000.0,2026-04-23,187672068,255,South Asian Bulls Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-23 11:59:19.704822,Prabhu  Bank Limited
+2026042301020574,PRVU,39,40,43,200.0,8600.0,2026-04-23,187672320,255,Sumeru Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-23 11:59:37.715226,Prabhu  Bank Limited
+2026042301020640,PRVU,39,51,130,199.5,25935.0,2026-04-23,187672546,255,Sumeru Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:59:54.477542,Prabhu  Bank Limited
+2026042301020641,PRVU,38,51,10,199.1,1991.0,2026-04-23,187672548,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:59:54.478368,Prabhu  Bank Limited
+2026042301020642,PRVU,8,51,19,199.0,3781.0,2026-04-23,187672550,255,Brilliant Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:59:54.478997,Prabhu  Bank Limited
+2026042301020643,PRVU,58,51,105,199.0,20895.0,2026-04-23,187672552,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:59:54.479581,Prabhu  Bank Limited
+2026042301020644,PRVU,33,51,100,199.0,19900.0,2026-04-23,187672554,255,Dakshinkali Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:59:54.480177,Prabhu  Bank Limited
+2026042301020645,PRVU,43,51,200,199.0,39800.0,2026-04-23,187672556,255,South Asian Bulls Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:59:54.480765,Prabhu  Bank Limited
+2026042301020646,PRVU,47,51,61,199.0,12139.0,2026-04-23,187672557,255,Neev Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:59:54.481378,Prabhu  Bank Limited
+2026042301020677,PRVU,58,40,21,200.0,4200.0,2026-04-23,187672629,255,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-23 12:00:00.747217,Prabhu  Bank Limited
+2026042301021293,PRVU,58,47,854,200.0,170800.0,2026-04-23,187674264,255,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:01:47.515042,Prabhu  Bank Limited
+2026042301021370,PRVU,58,47,146,200.0,29200.0,2026-04-23,187674469,255,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:02:06.498370,Prabhu  Bank Limited
+2026042301021371,PRVU,58,42,154,200.0,30800.0,2026-04-23,187674472,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 12:02:06.499272,Prabhu  Bank Limited
+2026042301021422,PRVU,50,42,96,200.0,19200.0,2026-04-23,187674667,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 12:02:30.640540,Prabhu  Bank Limited
+2026042301021689,PRVU,48,34,10,202.5,2025.0,2026-04-23,187675454,255,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-23 12:03:27.717215,Prabhu  Bank Limited
+2026042301022900,PRVU,34,75,7,197.5,1382.5,2026-04-23,187679017,255,Vision Securities Pvt. Ltd,N.I.M.B. Stock Markets Limited,2026-04-23 12:07:30.367089,Prabhu  Bank Limited
+2026042301023287,PRVU,42,34,10,202.5,2025.0,2026-04-23,187680048,255,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:08:40.249351,Prabhu  Bank Limited
+2026042301023957,PRVU,34,85,25,202.4,5060.0,2026-04-23,187682226,255,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,2026-04-23 12:12:18.933717,Prabhu  Bank Limited
+2026042301024579,PRVU,8,85,20,202.4,4048.0,2026-04-23,187683850,255,Brilliant Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 12:14:01.451457,Prabhu  Bank Limited
+2026042301024706,PRVU,44,35,100,202.0,20200.0,2026-04-23,187684234,255,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:14:44.749701,Prabhu  Bank Limited
+2026042301024933,PRVU,25,35,30,202.0,6060.0,2026-04-23,187684951,255,Sweta Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:16:05.407258,Prabhu  Bank Limited
+2026042301025224,PRVU,25,62,370,202.0,74740.0,2026-04-23,187685806,255,Sweta Securities Private Limited,Capital Max Securities Ltd,2026-04-23 12:17:13.236313,Prabhu  Bank Limited
+2026042301025225,PRVU,32,62,300,202.0,60600.0,2026-04-23,187685808,255,Premier Securities Company Ltd.,Capital Max Securities Ltd,2026-04-23 12:17:13.237271,Prabhu  Bank Limited
+2026042301025304,PRVU,57,62,100,201.0,20100.0,2026-04-23,187686064,255,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-23 12:17:38.422962,Prabhu  Bank Limited
+2026042301025305,PRVU,49,62,100,201.0,20100.0,2026-04-23,187686066,255,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 12:17:38.423404,Prabhu  Bank Limited
+2026042301025311,PRVU,42,62,80,201.0,16080.0,2026-04-23,187686082,255,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-23 12:17:40.843716,Prabhu  Bank Limited
+2026042301025425,PRVU,50,62,100,200.0,20000.0,2026-04-23,187686479,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 12:18:13.758334,Prabhu  Bank Limited
+2026042301025994,PRVU,58,11,1,200.2,200.2,2026-04-23,187688081,255,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 12:20:22.793418,Prabhu  Bank Limited
+2026042301026194,PRVU,48,29,10,202.3,2023.0,2026-04-23,187688584,255,Trishakti Securities Public Limited,Trisul Securities & Invt. Ltd.,2026-04-23 12:21:04.713389,Prabhu  Bank Limited
+2026042301027233,PRVU,57,48,80,200.2,16016.0,2026-04-23,187691701,255,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-23 12:26:11.168960,Prabhu  Bank Limited
+2026042301027364,PRVU,85,29,40,202.3,8092.0,2026-04-23,187692079,255,Capital Hub P. Ltd,Trisul Securities & Invt. Ltd.,2026-04-23 12:26:44.231950,Prabhu  Bank Limited
+2026042301027991,PRVU,6,85,45,202.4,9108.0,2026-04-23,187693892,255,Agrawal Securities (PVT) Ltd.,Capital Hub P. Ltd,2026-04-23 12:30:06.077051,Prabhu  Bank Limited
+2026042301028071,PRVU,42,42,125,202.3,25287.5,2026-04-23,187694154,255,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 12:30:33.498117,Prabhu  Bank Limited
+2026042301028072,PRVU,85,42,75,202.3,15172.5,2026-04-23,187694155,255,Capital Hub P. Ltd,Sani Securities Company Ltd.,2026-04-23 12:30:33.499133,Prabhu  Bank Limited
+2026042301028421,PRVU,85,33,285,202.3,57655.5,2026-04-23,187695361,255,Capital Hub P. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 12:32:46.945851,Prabhu  Bank Limited
+2026042301028454,PRVU,34,7,5,200.0,1000.0,2026-04-23,187695475,255,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-23 12:33:00.389397,Prabhu  Bank Limited
+2026042301029842,PRVU,28,49,15,202.0,3030.0,2026-04-23,187699984,255,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:40:06.844896,Prabhu  Bank Limited
+2026042301029936,PRVU,36,18,50,201.2,10060.0,2026-04-23,187700348,255,Secured Securities Ltd.,Sagarmatha Securities Private Limited,2026-04-23 12:40:56.852499,Prabhu  Bank Limited
+2026042301030161,PRVU,16,18,50,201.2,10060.0,2026-04-23,187701106,255,Primo Securities (PVT) Ltd.,Sagarmatha Securities Private Limited,2026-04-23 12:42:38.993147,Prabhu  Bank Limited
+2026042301030347,PRVU,52,49,45,202.0,9090.0,2026-04-23,187701755,255,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-23 12:43:49.143416,Prabhu  Bank Limited
+2026042301030348,PRVU,52,17,20,202.3,4046.0,2026-04-23,187701757,255,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-23 12:43:49.144443,Prabhu  Bank Limited
+2026042301030349,PRVU,52,85,65,202.4,13156.0,2026-04-23,187701760,255,Sundhara Securities Limited,Capital Hub P. Ltd,2026-04-23 12:43:49.145270,Prabhu  Bank Limited
+2026042301030775,PRVU,58,45,100,201.3,20130.0,2026-04-23,187702988,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:45:33.851292,Prabhu  Bank Limited
+2026042301030776,PRVU,32,45,200,201.2,40240.0,2026-04-23,187702992,255,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:45:33.852448,Prabhu  Bank Limited
+2026042301030777,PRVU,4,45,100,201.1,20110.0,2026-04-23,187702994,255,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:45:33.853325,Prabhu  Bank Limited
+2026042301030778,PRVU,45,45,250,201.0,50250.0,2026-04-23,187702996,255,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:45:33.854175,Prabhu  Bank Limited
+2026042301030779,PRVU,42,45,13,201.0,2613.0,2026-04-23,187702998,255,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:45:33.854994,Prabhu  Bank Limited
+2026042301030780,PRVU,57,45,337,201.0,67737.0,2026-04-23,187702999,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:45:33.855874,Prabhu  Bank Limited
+2026042301030787,PRVU,57,57,50,201.0,10050.0,2026-04-23,187703015,255,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-23 12:45:36.837971,Prabhu  Bank Limited
+2026042301031596,PRVU,58,22,35,202.2,7077.0,2026-04-23,187705532,255,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:49:45.148847,Prabhu  Bank Limited
+2026042301031965,PRVU,16,54,178,202.0,35956.0,2026-04-23,187706528,255,Primo Securities (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 12:51:27.343187,Prabhu  Bank Limited
+2026042301032198,PRVU,45,22,400,202.2,80880.0,2026-04-23,187707242,255,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:52:34.210688,Prabhu  Bank Limited
+2026042301032274,PRVU,17,22,50,202.2,10110.0,2026-04-23,187707488,255,ABC Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 12:52:58.916897,Prabhu  Bank Limited
+2026042301032394,PRVU,22,75,490,202.0,98980.0,2026-04-23,187707886,255,Siprabi Securities Pvt. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-23 12:53:35.261848,Prabhu  Bank Limited
+2026042301032682,PRVU,16,75,10,202.0,2020.0,2026-04-23,187708889,255,Primo Securities (PVT) Ltd.,N.I.M.B. Stock Markets Limited,2026-04-23 12:55:24.910018,Prabhu  Bank Limited
+2026042301032683,PRVU,16,58,100,202.0,20200.0,2026-04-23,187708892,255,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:55:24.911191,Prabhu  Bank Limited
+2026042301032822,PRVU,57,39,108,201.5,21762.0,2026-04-23,187709432,255,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-23 12:56:25.003528,Prabhu  Bank Limited
+2026042301033190,PRVU,42,39,145,201.5,29217.5,2026-04-23,187710294,255,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 12:56:50.923363,Prabhu  Bank Limited
+2026042301033206,PRVU,58,39,22,201.5,4433.0,2026-04-23,187710374,255,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 12:57:00.363642,Prabhu  Bank Limited
+2026042301033228,PRVU,42,39,100,201.4,20140.0,2026-04-23,187710444,255,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 12:57:08.464976,Prabhu  Bank Limited
+2026042301033229,PRVU,20,39,200,201.4,40280.0,2026-04-23,187710446,255,Sipla Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-23 12:57:08.465498,Prabhu  Bank Limited
+2026042301033230,PRVU,57,39,94,201.4,18931.6,2026-04-23,187710448,255,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-23 12:57:08.465797,Prabhu  Bank Limited
+2026042301033336,PRVU,57,39,381,201.0,76581.0,2026-04-23,187710821,255,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-23 12:57:53.001217,Prabhu  Bank Limited
+2026042301033613,PRVU,16,22,162,202.2,32756.4,2026-04-23,187711652,255,Primo Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:59:07.764421,Prabhu  Bank Limited
+2026042301034245,PRVU,44,42,40,202.2,8088.0,2026-04-23,187713509,255,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:01:11.293124,Prabhu  Bank Limited
+2026042301034335,PRVU,58,34,10,202.5,2025.0,2026-04-23,187713806,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:01:37.280439,Prabhu  Bank Limited
+2026042301034469,PRVU,45,34,170,202.5,34425.0,2026-04-23,187714266,255,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:02:12.826794,Prabhu  Bank Limited
+2026042301034759,PRVU,81,34,300,202.5,60750.0,2026-04-23,187715547,255,Aakashbhairab Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:03:28.748054,Prabhu  Bank Limited
+2026042301034760,PRVU,81,51,200,202.5,40500.0,2026-04-23,187715549,255,Aakashbhairab Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 13:03:28.749276,Prabhu  Bank Limited
+2026042301035197,PRVU,5,22,100,202.8,20280.0,2026-04-23,187716982,255,Market Securities & Exchange (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:05:20.956902,Prabhu  Bank Limited
+2026042301035212,PRVU,11,42,100,202.6,20260.0,2026-04-23,187717082,255,Malla & Malla Stock Broking Company Pvt. Limited,Sani Securities Company Ltd.,2026-04-23 13:05:30.731186,Prabhu  Bank Limited
+2026042301035304,PRVU,81,57,200,202.5,40500.0,2026-04-23,187717433,255,Aakashbhairab Securities Ltd.,Aryatara Investment & Securities,2026-04-23 13:06:08.892002,Prabhu  Bank Limited
+2026042301035319,PRVU,81,7,40,202.5,8100.0,2026-04-23,187717519,255,Aakashbhairab Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 13:06:16.207841,Prabhu  Bank Limited
+2026042301035374,PRVU,71,42,183,202.6,37075.8,2026-04-23,187717747,255,SHUBHAKAMANA SECURITIES PVT. LTD,Sani Securities Company Ltd.,2026-04-23 13:06:46.108354,Prabhu  Bank Limited
+2026042301035685,PRVU,42,22,500,202.8,101400.0,2026-04-23,187719016,255,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:08:56.280630,Prabhu  Bank Limited
+2026042301035761,PRVU,71,22,170,202.8,34476.0,2026-04-23,187719323,255,SHUBHAKAMANA SECURITIES PVT. LTD,Siprabi Securities Pvt. Ltd.,2026-04-23 13:09:27.836430,Prabhu  Bank Limited
+2026042301035787,PRVU,62,34,1000,202.9,202900.0,2026-04-23,187719482,255,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-23 13:09:43.277075,Prabhu  Bank Limited
+2026042301035801,PRVU,57,34,266,202.9,53971.4,2026-04-23,187719511,255,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 13:09:46.080438,Prabhu  Bank Limited
+2026042301035802,PRVU,57,34,1366,202.9,277161.4,2026-04-23,187719513,255,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 13:09:46.081638,Prabhu  Bank Limited
+2026042301035922,PRVU,41,13,30,203.0,6090.0,2026-04-23,187719944,255,Linch Stock Market Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 13:10:32.522067,Prabhu  Bank Limited
+2026042301036292,PRVU,81,13,260,203.0,52780.0,2026-04-23,187720898,255,Aakashbhairab Securities Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 13:11:20.245257,Prabhu  Bank Limited
+2026042301036303,PRVU,14,13,1710,203.0,347130.0,2026-04-23,187720965,255,Nepal Stock House (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 13:11:30.064302,Prabhu  Bank Limited
+2026042301036304,PRVU,14,29,145,203.0,29435.0,2026-04-23,187720967,255,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:11:30.065508,Prabhu  Bank Limited
+2026042301036305,PRVU,14,29,110,203.0,22330.0,2026-04-23,187720969,255,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:11:30.066469,Prabhu  Bank Limited
+2026042301036459,PRVU,14,6,35,203.0,7105.0,2026-04-23,187721444,255,Nepal Stock House (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:12:13.602556,Prabhu  Bank Limited
+2026042301036460,PRVU,58,6,30,203.0,6090.0,2026-04-23,187721446,255,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:12:13.603195,Prabhu  Bank Limited
+2026042301036461,PRVU,49,6,10,203.0,2030.0,2026-04-23,187721448,255,Online Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:12:13.603516,Prabhu  Bank Limited
+2026042301036495,PRVU,57,34,900,202.9,182610.0,2026-04-23,187721564,255,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 13:12:26.903698,Prabhu  Bank Limited
+2026042301036839,PRVU,89,22,60,202.9,12174.0,2026-04-23,187722584,255,Global IME Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 13:14:18.374426,Prabhu  Bank Limited
+2026042301036840,PRVU,71,22,150,202.8,30420.0,2026-04-23,187722585,255,SHUBHAKAMANA SECURITIES PVT. LTD,Siprabi Securities Pvt. Ltd.,2026-04-23 13:14:18.375015,Prabhu  Bank Limited
+2026042301036949,PRVU,48,6,10,203.0,2030.0,2026-04-23,187722884,255,Trishakti Securities Public Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 13:14:53.960229,Prabhu  Bank Limited
+2026042301037169,PRVU,19,6,10,203.0,2030.0,2026-04-23,187723446,255,Nepal Investment And Securities Trading Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 13:15:34.179473,Prabhu  Bank Limited
+2026042301037411,PRVU,58,6,55,203.0,11165.0,2026-04-23,187724161,255,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:16:41.970226,Prabhu  Bank Limited
+2026042301037732,PRVU,29,22,10,203.9,2039.0,2026-04-23,187725144,255,Trisul Securities & Invt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:18:19.455574,Prabhu  Bank Limited
+2026042301038299,PRVU,42,53,100,203.8,20380.0,2026-04-23,187727022,255,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:21:35.064405,Prabhu  Bank Limited
+2026042301038333,PRVU,17,53,10,203.8,2038.0,2026-04-23,187727160,255,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:21:47.038964,Prabhu  Bank Limited
+2026042301038435,PRVU,45,53,30,203.8,6114.0,2026-04-23,187727516,255,Imperial Securities Company Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:22:30.835709,Prabhu  Bank Limited
+2026042301038438,PRVU,17,53,160,203.8,32608.0,2026-04-23,187727523,255,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:22:31.901722,Prabhu  Bank Limited
+2026042301038463,PRVU,17,53,30,203.8,6114.0,2026-04-23,187727606,255,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:22:46.917647,Prabhu  Bank Limited
+2026042301038531,PRVU,53,53,370,203.8,75406.0,2026-04-23,187727805,255,Investment Management Nepal Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:23:05.874014,Prabhu  Bank Limited
+2026042301038532,PRVU,53,22,130,203.9,26507.0,2026-04-23,187727808,255,Investment Management Nepal Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:23:05.874625,Prabhu  Bank Limited
+2026042301038677,PRVU,42,53,30,203.8,6114.0,2026-04-23,187728210,255,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:23:42.215847,Prabhu  Bank Limited
+2026042301038758,PRVU,17,53,100,203.8,20380.0,2026-04-23,187728470,255,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:24:18.107196,Prabhu  Bank Limited
+2026042301039036,PRVU,50,53,200,203.2,40640.0,2026-04-23,187729196,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.993354,Prabhu  Bank Limited
+2026042301039037,PRVU,42,53,1200,203.1,243720.0,2026-04-23,187729198,255,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.993913,Prabhu  Bank Limited
+2026042301039038,PRVU,58,53,415,203.0,84245.0,2026-04-23,187729200,255,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.994255,Prabhu  Bank Limited
+2026042301039039,PRVU,49,53,10,203.0,2030.0,2026-04-23,187729202,255,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.994579,Prabhu  Bank Limited
+2026042301039040,PRVU,25,53,535,203.0,108605.0,2026-04-23,187729204,255,Sweta Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.994900,Prabhu  Bank Limited
+2026042301039041,PRVU,49,53,50,203.0,10150.0,2026-04-23,187729206,255,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.995227,Prabhu  Bank Limited
+2026042301039042,PRVU,29,53,500,203.0,101500.0,2026-04-23,187729208,255,Trisul Securities & Invt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.995546,Prabhu  Bank Limited
+2026042301039043,PRVU,58,53,1300,203.0,263900.0,2026-04-23,187729210,255,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.995887,Prabhu  Bank Limited
+2026042301039044,PRVU,42,53,50,203.0,10150.0,2026-04-23,187729212,255,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.996215,Prabhu  Bank Limited
+2026042301039045,PRVU,58,53,339,203.0,68817.0,2026-04-23,187729214,255,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:25:13.996534,Prabhu  Bank Limited
+2026042301039213,PRVU,17,53,20,203.0,4060.0,2026-04-23,187729752,255,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:26:08.380543,Prabhu  Bank Limited
+2026042301039412,PRVU,56,53,1500,202.9,304350.0,2026-04-23,187730519,255,Sri Hari Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:27:26.632414,Prabhu  Bank Limited
+2026042301039489,PRVU,53,48,25,202.9,5072.5,2026-04-23,187730854,255,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 13:27:49.247568,Prabhu  Bank Limited
+2026042301039641,PRVU,71,53,497,202.8,100791.6,2026-04-23,187731528,255,SHUBHAKAMANA SECURITIES PVT. LTD,Investment Management Nepal Pvt. Ltd.,2026-04-23 13:28:32.164904,Prabhu  Bank Limited
+2026042301039728,PRVU,46,45,36,202.5,7290.0,2026-04-23,187731924,255,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:28:59.860937,Prabhu  Bank Limited
+2026042301039802,PRVU,58,45,564,202.5,114210.0,2026-04-23,187732239,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:29:19.803207,Prabhu  Bank Limited
+2026042301039865,PRVU,58,48,175,202.5,35437.5,2026-04-23,187732485,255,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 13:29:37.818345,Prabhu  Bank Limited
+2026042301039887,PRVU,58,58,224,202.5,45360.0,2026-04-23,187732551,255,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:29:44.086736,Prabhu  Bank Limited
+2026042301040361,PRVU,45,32,21,202.8,4258.8,2026-04-23,187734153,255,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 13:31:37.198324,Prabhu  Bank Limited
+2026042301040362,PRVU,45,50,279,202.8,56581.2,2026-04-23,187734156,255,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:31:37.198884,Prabhu  Bank Limited
+2026042301040382,PRVU,58,49,37,202.5,7492.5,2026-04-23,187734230,255,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.144146,Prabhu  Bank Limited
+2026042301040383,PRVU,44,49,60,202.2,12132.0,2026-04-23,187734232,255,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.144722,Prabhu  Bank Limited
+2026042301040384,PRVU,17,49,40,202.2,8088.0,2026-04-23,187734234,255,ABC Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.145062,Prabhu  Bank Limited
+2026042301040385,PRVU,32,49,145,202.2,29319.0,2026-04-23,187734236,255,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.145396,Prabhu  Bank Limited
+2026042301040386,PRVU,59,49,300,202.0,60600.0,2026-04-23,187734238,255,Deevyaa Securities & Stock House Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.145717,Prabhu  Bank Limited
+2026042301040387,PRVU,51,49,50,202.0,10100.0,2026-04-23,187734240,255,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.146044,Prabhu  Bank Limited
+2026042301040388,PRVU,54,49,200,202.0,40400.0,2026-04-23,187734242,255,Sewa Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.146363,Prabhu  Bank Limited
+2026042301040389,PRVU,58,49,19,202.0,3838.0,2026-04-23,187734244,255,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.146683,Prabhu  Bank Limited
+2026042301040390,PRVU,58,49,40,202.0,8080.0,2026-04-23,187734246,255,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.147004,Prabhu  Bank Limited
+2026042301040391,PRVU,42,49,40,202.0,8080.0,2026-04-23,187734248,255,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:31:44.147330,Prabhu  Bank Limited
+2026042301040623,PRVU,44,57,100,201.5,20150.0,2026-04-23,187735102,255,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 13:33:09.531306,Prabhu  Bank Limited
+2026042301040624,PRVU,57,57,857,201.0,172257.0,2026-04-23,187735104,255,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-23 13:33:09.531959,Prabhu  Bank Limited
+2026042301040625,PRVU,101,57,300,201.0,60300.0,2026-04-23,187735106,255,APPLE SECURITIES PRIVATE LIMITED,Aryatara Investment & Securities,2026-04-23 13:33:09.532381,Prabhu  Bank Limited
+2026042301040626,PRVU,34,57,1000,201.0,201000.0,2026-04-23,187735108,255,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 13:33:09.532789,Prabhu  Bank Limited
+2026042301040627,PRVU,45,57,30,201.0,6030.0,2026-04-23,187735110,255,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 13:33:09.533229,Prabhu  Bank Limited
+2026042301040628,PRVU,58,57,913,201.0,183513.0,2026-04-23,187735111,255,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 13:33:09.533607,Prabhu  Bank Limited
+2026042301040958,PRVU,58,52,14,201.0,2814.0,2026-04-23,187736189,255,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-23 13:34:55.862279,Prabhu  Bank Limited
+2026042301041270,PRVU,58,45,73,201.0,14673.0,2026-04-23,187737338,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:36:55.083957,Prabhu  Bank Limited
+2026042301041271,PRVU,57,45,410,201.0,82410.0,2026-04-23,187737340,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:36:55.084566,Prabhu  Bank Limited
+2026042301041272,PRVU,57,45,15,201.0,3015.0,2026-04-23,187737342,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:36:55.084898,Prabhu  Bank Limited
+2026042301041432,PRVU,38,34,109,200.5,21854.5,2026-04-23,187737941,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:38:09.126073,Prabhu  Bank Limited
+2026042301041792,PRVU,58,89,10,201.0,2010.0,2026-04-23,187739406,255,Naasa Securities Co. Ltd.,Global IME Securities Limited,2026-04-23 13:40:58.126716,Prabhu  Bank Limited
+2026042301041793,PRVU,50,89,72,201.0,14472.0,2026-04-23,187739407,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Global IME Securities Limited,2026-04-23 13:40:58.128050,Prabhu  Bank Limited
+2026042301042078,PRVU,50,34,1928,201.0,387528.0,2026-04-23,187740224,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:42:28.836719,Prabhu  Bank Limited
+2026042301042079,PRVU,42,34,20,201.0,4020.0,2026-04-23,187740225,255,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:42:28.838035,Prabhu  Bank Limited
+2026042301042393,PRVU,53,49,200,202.0,40400.0,2026-04-23,187741300,255,Investment Management Nepal Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:45:10.723851,Prabhu  Bank Limited
+2026042301042509,PRVU,14,49,250,202.0,50500.0,2026-04-23,187741722,255,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:46:14.667246,Prabhu  Bank Limited
+2026042301042603,PRVU,14,49,50,202.0,10100.0,2026-04-23,187742162,255,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:47:05.617767,Prabhu  Bank Limited
+2026042301042638,PRVU,38,49,169,202.0,34138.0,2026-04-23,187742261,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:47:17.205698,Prabhu  Bank Limited
+2026042301042952,PRVU,58,34,94,202.8,19063.2,2026-04-23,187743278,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:49:13.712913,Prabhu  Bank Limited
+2026042301043145,PRVU,38,34,22,202.8,4461.6,2026-04-23,187743772,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:49:50.898407,Prabhu  Bank Limited
+2026042301043422,PRVU,96,48,25,202.1,5052.5,2026-04-23,187744689,255,Himalayan Securities Limited,Trishakti Securities Public Limited,2026-04-23 13:52:24.505718,Prabhu  Bank Limited
+2026042301043495,PRVU,38,34,300,202.8,60840.0,2026-04-23,187744926,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:53:06.484856,Prabhu  Bank Limited
+2026042301043573,PRVU,96,17,32,202.1,6467.2,2026-04-23,187745201,255,Himalayan Securities Limited,ABC Securities Private Limited,2026-04-23 13:53:45.319348,Prabhu  Bank Limited
+2026042301043687,PRVU,96,17,400,202.1,80840.0,2026-04-23,187745565,255,Himalayan Securities Limited,ABC Securities Private Limited,2026-04-23 13:54:52.070627,Prabhu  Bank Limited
+2026042301043696,PRVU,58,34,940,202.8,190632.0,2026-04-23,187745612,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:55:01.403256,Prabhu  Bank Limited
+2026042301043706,PRVU,96,59,35,202.1,7073.5,2026-04-23,187745638,255,Himalayan Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:55:06.843764,Prabhu  Bank Limited
+2026042301043768,PRVU,4,59,65,202.1,13136.5,2026-04-23,187745844,255,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:55:35.113903,Prabhu  Bank Limited
+2026042301044037,PRVU,19,42,443,202.1,89530.3,2026-04-23,187746778,255,Nepal Investment And Securities Trading Private Limited,Sani Securities Company Ltd.,2026-04-23 13:57:42.530561,Prabhu  Bank Limited
+2026042301044038,PRVU,58,42,140,202.0,28280.0,2026-04-23,187746780,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.531967,Prabhu  Bank Limited
+2026042301044039,PRVU,58,42,200,202.0,40400.0,2026-04-23,187746782,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.533096,Prabhu  Bank Limited
+2026042301044040,PRVU,39,42,1200,202.0,242400.0,2026-04-23,187746784,255,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.534199,Prabhu  Bank Limited
+2026042301044041,PRVU,58,42,290,201.1,58319.0,2026-04-23,187746786,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.535317,Prabhu  Bank Limited
+2026042301044042,PRVU,42,42,200,201.0,40200.0,2026-04-23,187746788,255,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.536417,Prabhu  Bank Limited
+2026042301044043,PRVU,58,42,250,201.0,50250.0,2026-04-23,187746790,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.537515,Prabhu  Bank Limited
+2026042301044044,PRVU,14,42,70,201.0,14070.0,2026-04-23,187746792,255,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.538615,Prabhu  Bank Limited
+2026042301044045,PRVU,32,42,300,201.0,60300.0,2026-04-23,187746794,255,Premier Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.539724,Prabhu  Bank Limited
+2026042301044046,PRVU,58,42,190,201.0,38190.0,2026-04-23,187746796,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.540828,Prabhu  Bank Limited
+2026042301044047,PRVU,58,42,500,200.8,100400.0,2026-04-23,187746798,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.541460,Prabhu  Bank Limited
+2026042301044048,PRVU,34,42,250,200.5,50125.0,2026-04-23,187746800,255,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 13:57:42.541823,Prabhu  Bank Limited
+2026042301044049,PRVU,81,42,967,200.3,193690.1,2026-04-23,187746801,255,Aakashbhairab Securities Ltd.,Sani Securities Company Ltd.,2026-04-23 13:57:42.542187,Prabhu  Bank Limited
+2026042301044115,PRVU,81,42,33,200.3,6609.9,2026-04-23,187747022,255,Aakashbhairab Securities Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495118,Prabhu  Bank Limited
+2026042301044116,PRVU,57,42,220,200.2,44044.0,2026-04-23,187747024,255,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 13:58:12.495244,Prabhu  Bank Limited
+2026042301044117,PRVU,58,42,10,200.1,2001.0,2026-04-23,187747026,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495317,Prabhu  Bank Limited
+2026042301044118,PRVU,42,42,80,200.1,16008.0,2026-04-23,187747028,255,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495384,Prabhu  Bank Limited
+2026042301044119,PRVU,50,42,304,200.0,60800.0,2026-04-23,187747030,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495451,Prabhu  Bank Limited
+2026042301044120,PRVU,4,42,200,200.0,40000.0,2026-04-23,187747032,255,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495521,Prabhu  Bank Limited
+2026042301044121,PRVU,42,42,10,200.0,2000.0,2026-04-23,187747034,255,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495592,Prabhu  Bank Limited
+2026042301044122,PRVU,17,42,10,200.0,2000.0,2026-04-23,187747036,255,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 13:58:12.495656,Prabhu  Bank Limited
+2026042301044123,PRVU,17,42,300,200.0,60000.0,2026-04-23,187747038,255,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 13:58:12.495746,Prabhu  Bank Limited
+2026042301044124,PRVU,51,42,300,200.0,60000.0,2026-04-23,187747040,255,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495804,Prabhu  Bank Limited
+2026042301044125,PRVU,57,42,60,200.0,12000.0,2026-04-23,187747042,255,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 13:58:12.495871,Prabhu  Bank Limited
+2026042301044126,PRVU,41,42,40,200.0,8000.0,2026-04-23,187747044,255,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.495936,Prabhu  Bank Limited
+2026042301044127,PRVU,58,42,200,200.0,40000.0,2026-04-23,187747046,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.496003,Prabhu  Bank Limited
+2026042301044128,PRVU,58,42,1500,200.0,300000.0,2026-04-23,187747048,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.496088,Prabhu  Bank Limited
+2026042301044129,PRVU,57,42,500,200.0,100000.0,2026-04-23,187747050,255,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 13:58:12.496153,Prabhu  Bank Limited
+2026042301044130,PRVU,52,42,100,200.0,20000.0,2026-04-23,187747052,255,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-23 13:58:12.496222,Prabhu  Bank Limited
+2026042301044131,PRVU,42,42,900,200.0,180000.0,2026-04-23,187747054,255,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.496293,Prabhu  Bank Limited
+2026042301044132,PRVU,41,42,540,200.0,108000.0,2026-04-23,187747055,255,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-23 13:58:12.496359,Prabhu  Bank Limited
+2026042301044285,PRVU,67,26,1,195.0,195.0,2026-04-23,187747647,255,Property Wiard Limited,Asian Securities Private Ltd.,2026-04-23 13:59:31.507371,Prabhu  Bank Limited
+2026042301044396,PRVU,54,43,113,200.1,22611.3,2026-04-23,187748075,255,Sewa Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:00:42.304887,Prabhu  Bank Limited
+2026042301044573,PRVU,67,41,1,196.0,196.0,2026-04-23,187748639,255,Property Wiard Limited,Linch Stock Market Ltd.,2026-04-23 14:02:04.301430,Prabhu  Bank Limited
+2026042301044732,PRVU,50,45,21,202.6,4254.6,2026-04-23,187749300,255,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.638901,Prabhu  Bank Limited
+2026042301044733,PRVU,28,45,200,200.3,40060.0,2026-04-23,187749302,255,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.640335,Prabhu  Bank Limited
+2026042301044734,PRVU,54,45,187,200.1,37418.7,2026-04-23,187749304,255,Sewa Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.641440,Prabhu  Bank Limited
+2026042301044735,PRVU,58,45,500,200.1,100050.0,2026-04-23,187749306,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.642543,Prabhu  Bank Limited
+2026042301044736,PRVU,58,45,165,200.1,33016.5,2026-04-23,187749308,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.643643,Prabhu  Bank Limited
+2026042301044737,PRVU,58,45,37,200.1,7403.7,2026-04-23,187749310,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.644740,Prabhu  Bank Limited
+2026042301044738,PRVU,41,45,460,200.0,92000.0,2026-04-23,187749312,255,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.645677,Prabhu  Bank Limited
+2026042301044739,PRVU,101,45,200,200.0,40000.0,2026-04-23,187749314,255,APPLE SECURITIES PRIVATE LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.646060,Prabhu  Bank Limited
+2026042301044740,PRVU,49,45,90,200.0,18000.0,2026-04-23,187749316,255,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.646419,Prabhu  Bank Limited
+2026042301044741,PRVU,42,45,50,200.0,10000.0,2026-04-23,187749318,255,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.646768,Prabhu  Bank Limited
+2026042301044742,PRVU,57,45,1000,200.0,200000.0,2026-04-23,187749320,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.647127,Prabhu  Bank Limited
+2026042301044743,PRVU,40,45,50,200.0,10000.0,2026-04-23,187749322,255,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.647483,Prabhu  Bank Limited
+2026042301044744,PRVU,58,45,10,200.0,2000.0,2026-04-23,187749325,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.647837,Prabhu  Bank Limited
+2026042301044745,PRVU,68,45,170,200.0,34000.0,2026-04-23,187749329,255,Elite Stock House Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.648192,Prabhu  Bank Limited
+2026042301044746,PRVU,43,45,100,200.0,20000.0,2026-04-23,187749332,255,South Asian Bulls Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.648547,Prabhu  Bank Limited
+2026042301044747,PRVU,89,45,1000,200.0,200000.0,2026-04-23,187749336,255,Global IME Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.648900,Prabhu  Bank Limited
+2026042301044748,PRVU,45,45,200,200.0,40000.0,2026-04-23,187749339,255,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.649256,Prabhu  Bank Limited
+2026042301044749,PRVU,25,45,200,200.0,40000.0,2026-04-23,187749342,255,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.649601,Prabhu  Bank Limited
+2026042301044750,PRVU,74,45,25,200.0,5000.0,2026-04-23,187749346,255,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.649950,Prabhu  Bank Limited
+2026042301044751,PRVU,4,45,10,200.0,2000.0,2026-04-23,187749350,255,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.650297,Prabhu  Bank Limited
+2026042301044752,PRVU,36,45,325,200.0,65000.0,2026-04-23,187749352,255,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:57.650661,Prabhu  Bank Limited
+2026042301045158,PRVU,29,58,41,202.0,8282.0,2026-04-23,187750793,255,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:05:51.725221,Prabhu  Bank Limited
+2026042301045159,PRVU,29,45,159,202.6,32213.4,2026-04-23,187750796,255,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:05:51.726557,Prabhu  Bank Limited
+2026042301045518,PRVU,14,57,18,201.0,3618.0,2026-04-23,187752123,255,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 14:08:04.825326,Prabhu  Bank Limited
+2026042301046049,PRVU,21,35,9,200.0,1800.0,2026-04-23,187754069,255,Midas Stock Broking Company Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:11:30.898308,Prabhu  Bank Limited
+2026042301046097,PRVU,21,41,2,196.0,392.0,2026-04-23,187754247,255,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 14:11:53.025955,Prabhu  Bank Limited
+2026042301046148,PRVU,14,45,100,201.0,20100.0,2026-04-23,187754449,255,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:12:14.691149,Prabhu  Bank Limited
+2026042301046561,PRVU,45,81,325,201.1,65357.5,2026-04-23,187756088,255,Imperial Securities Company Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:15:40.277225,Prabhu  Bank Limited
+2026042301046562,PRVU,14,81,82,201.0,16482.0,2026-04-23,187756090,255,Nepal Stock House (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:15:40.278715,Prabhu  Bank Limited
+2026042301046563,PRVU,57,81,200,201.0,40200.0,2026-04-23,187756092,255,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,2026-04-23 14:15:40.279906,Prabhu  Bank Limited
+2026042301046564,PRVU,44,81,250,201.0,50250.0,2026-04-23,187756094,255,Dynamic Money Managers Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:15:40.281081,Prabhu  Bank Limited
+2026042301046565,PRVU,49,81,350,201.0,70350.0,2026-04-23,187756096,255,Online Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:15:40.282249,Prabhu  Bank Limited
+2026042301046566,PRVU,44,81,20,201.0,4020.0,2026-04-23,187756098,255,Dynamic Money Managers Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:15:40.282942,Prabhu  Bank Limited
+2026042301046923,PRVU,45,45,2,201.0,402.0,2026-04-23,187757501,255,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:17:49.007643,Prabhu  Bank Limited
+2026042301046956,PRVU,13,81,100,201.0,20100.0,2026-04-23,187757630,255,Thrive Brokerage House Pvt. Ltd,Aakashbhairab Securities Ltd.,2026-04-23 14:18:02.391684,Prabhu  Bank Limited
+2026042301047206,PRVU,65,81,150,201.0,30150.0,2026-04-23,187758418,255,Sharepro Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 14:19:22.160044,Prabhu  Bank Limited
+2026042301047238,PRVU,14,81,500,201.0,100500.0,2026-04-23,187758564,255,Nepal Stock House (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:19:38.878984,Prabhu  Bank Limited
+2026042301047462,PRVU,58,81,22,201.0,4422.0,2026-04-23,187759298,255,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:20:45.349940,Prabhu  Bank Limited
+2026042301047532,PRVU,57,45,10,200.8,2008.0,2026-04-23,187759486,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:21:08.494827,Prabhu  Bank Limited
+2026042301047533,PRVU,35,45,90,200.5,18045.0,2026-04-23,187759487,255,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:21:08.495525,Prabhu  Bank Limited
+2026042301047621,PRVU,21,58,20,200.9,4018.0,2026-04-23,187759845,255,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-23 14:21:47.512167,Prabhu  Bank Limited
+2026042301047933,PRVU,42,26,100,201.0,20100.0,2026-04-23,187761001,255,Sani Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-23 14:24:00.544281,Prabhu  Bank Limited
+2026042301048117,PRVU,42,45,323,201.0,64923.0,2026-04-23,187761597,255,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:24:57.069226,Prabhu  Bank Limited
+2026042301048539,PRVU,42,11,49,201.0,9849.0,2026-04-23,187763157,255,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:27:28.267835,Prabhu  Bank Limited
+2026042301048566,PRVU,53,26,40,201.4,8056.0,2026-04-23,187763248,255,Investment Management Nepal Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 14:27:33.877759,Prabhu  Bank Limited
+2026042301049055,PRVU,49,26,140,201.4,28196.0,2026-04-23,187765055,255,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 14:30:22.079387,Prabhu  Bank Limited
+2026042301049056,PRVU,49,11,61,201.5,12291.5,2026-04-23,187765058,255,Online Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:30:22.080160,Prabhu  Bank Limited
+2026042301049294,PRVU,42,56,15,201.0,3015.0,2026-04-23,187765817,255,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:31:19.777940,Prabhu  Bank Limited
+2026042301049368,PRVU,40,11,100,201.5,20150.0,2026-04-23,187766092,255,Creative Securities Pvt Ltd,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:31:45.642224,Prabhu  Bank Limited
+2026042301049941,PRVU,4,11,39,201.5,7858.5,2026-04-23,187768163,255,Opal Securities Investment (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:34:59.403096,Prabhu  Bank Limited
+2026042301049965,PRVU,54,26,20,201.9,4038.0,2026-04-23,187768233,255,Sewa Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 14:35:06.828288,Prabhu  Bank Limited
+2026042301049966,PRVU,54,51,80,202.0,16160.0,2026-04-23,187768236,255,Sewa Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:35:06.829829,Prabhu  Bank Limited
+2026042301050312,PRVU,35,51,175,202.0,35350.0,2026-04-23,187769485,255,Kohinoor Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:36:32.873655,Prabhu  Bank Limited
+2026042301050313,PRVU,35,17,23,202.0,4646.0,2026-04-23,187769487,255,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:36:32.875213,Prabhu  Bank Limited
+2026042301050314,PRVU,35,29,158,202.0,31916.0,2026-04-23,187769490,255,Kohinoor Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:36:32.876533,Prabhu  Bank Limited
+2026042301050449,PRVU,53,29,500,202.0,101000.0,2026-04-23,187769922,255,Investment Management Nepal Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:37:04.810755,Prabhu  Bank Limited
+2026042301050485,PRVU,1,32,50,202.0,10100.0,2026-04-23,187770060,255,Kumari Securities Private Limited,Premier Securities Company Ltd.,2026-04-23 14:37:19.891735,Prabhu  Bank Limited
+2026042301050737,PRVU,36,32,50,202.0,10100.0,2026-04-23,187770878,255,Secured Securities Ltd.,Premier Securities Company Ltd.,2026-04-23 14:38:17.251972,Prabhu  Bank Limited
+2026042301051172,PRVU,58,42,4,196.0,784.0,2026-04-23,187772241,255,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 14:40:22.010819,Prabhu  Bank Limited
+2026042301051334,PRVU,42,22,300,201.6,60480.0,2026-04-23,187772836,255,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:41:13.179974,Prabhu  Bank Limited
+2026042301051335,PRVU,4,22,11,201.5,2216.5,2026-04-23,187772838,255,Opal Securities Investment (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:41:13.181080,Prabhu  Bank Limited
+2026042301051336,PRVU,49,22,100,201.5,20150.0,2026-04-23,187772840,255,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:41:13.181521,Prabhu  Bank Limited
+2026042301051337,PRVU,42,22,720,201.5,145080.0,2026-04-23,187772842,255,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:41:13.181963,Prabhu  Bank Limited
+2026042301051577,PRVU,48,22,200,201.7,40340.0,2026-04-23,187773458,255,Trishakti Securities Public Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 14:41:46.758240,Prabhu  Bank Limited
+2026042301051636,PRVU,49,45,50,201.1,10055.0,2026-04-23,187773698,255,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:42:06.486006,Prabhu  Bank Limited
+2026042301051637,PRVU,57,45,300,201.1,60330.0,2026-04-23,187773700,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:42:06.486761,Prabhu  Bank Limited
+2026042301051638,PRVU,42,45,50,201.0,10050.0,2026-04-23,187773702,255,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:42:06.487440,Prabhu  Bank Limited
+2026042301051639,PRVU,59,45,250,201.0,50250.0,2026-04-23,187773704,255,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:42:06.487982,Prabhu  Bank Limited
+2026042301051640,PRVU,58,45,100,201.0,20100.0,2026-04-23,187773706,255,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:42:06.488454,Prabhu  Bank Limited
+2026042301051641,PRVU,49,45,250,201.0,50250.0,2026-04-23,187773707,255,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:42:06.488908,Prabhu  Bank Limited
+2026042301051663,PRVU,47,58,5,202.0,1010.0,2026-04-23,187773787,255,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:42:12.900298,Prabhu  Bank Limited
+2026042301051684,PRVU,45,1,3,195.0,585.0,2026-04-23,187773841,255,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 14:42:16.630286,Prabhu  Bank Limited
+2026042301051699,PRVU,49,22,200,201.0,40200.0,2026-04-23,187773902,255,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.235463,Prabhu  Bank Limited
+2026042301051700,PRVU,26,22,200,201.0,40200.0,2026-04-23,187773904,255,Asian Securities Private Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.237177,Prabhu  Bank Limited
+2026042301051701,PRVU,56,22,2000,201.0,402000.0,2026-04-23,187773906,255,Sri Hari Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.238697,Prabhu  Bank Limited
+2026042301051702,PRVU,58,22,125,201.0,25125.0,2026-04-23,187773908,255,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.240233,Prabhu  Bank Limited
+2026042301051703,PRVU,35,22,500,201.0,100500.0,2026-04-23,187773910,255,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.241623,Prabhu  Bank Limited
+2026042301051704,PRVU,32,22,50,201.0,10050.0,2026-04-23,187773912,255,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.242088,Prabhu  Bank Limited
+2026042301051705,PRVU,1,22,200,201.0,40200.0,2026-04-23,187773914,255,Kumari Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.242514,Prabhu  Bank Limited
+2026042301051706,PRVU,32,22,48,201.0,9648.0,2026-04-23,187773916,255,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.242952,Prabhu  Bank Limited
+2026042301051707,PRVU,58,22,120,201.0,24120.0,2026-04-23,187773918,255,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.243418,Prabhu  Bank Limited
+2026042301051708,PRVU,38,22,50,201.0,10050.0,2026-04-23,187773920,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:22.243884,Prabhu  Bank Limited
+2026042301051755,PRVU,89,22,44,201.0,8844.0,2026-04-23,187774124,255,Global IME Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:37.654408,Prabhu  Bank Limited
+2026042301051764,PRVU,36,22,463,201.0,93063.0,2026-04-23,187774155,255,Secured Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:40.296574,Prabhu  Bank Limited
+2026042301051765,PRVU,36,22,169,201.7,34087.3,2026-04-23,187774157,255,Secured Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:42:40.298119,Prabhu  Bank Limited
+2026042301051766,PRVU,36,32,66,202.0,13332.0,2026-04-23,187774159,255,Secured Securities Ltd.,Premier Securities Company Ltd.,2026-04-23 14:42:40.299433,Prabhu  Bank Limited
+2026042301051767,PRVU,36,29,302,202.0,61004.0,2026-04-23,187774162,255,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:42:40.300736,Prabhu  Bank Limited
+2026042301051816,PRVU,47,53,3,202.8,608.4,2026-04-23,187774327,255,Neev Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 14:42:57.523880,Prabhu  Bank Limited
+2026042301052144,PRVU,45,81,1,201.0,201.0,2026-04-23,187775655,255,Imperial Securities Company Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:44:19.503189,Prabhu  Bank Limited
+2026042301052357,PRVU,38,29,20,202.0,4040.0,2026-04-23,187776368,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:45:06.206443,Prabhu  Bank Limited
+2026042301052370,PRVU,21,29,678,202.0,136956.0,2026-04-23,187776445,255,Midas Stock Broking Company Private Limited,Trisul Securities & Invt. Ltd.,2026-04-23 14:45:11.906249,Prabhu  Bank Limited
+2026042301052371,PRVU,21,33,322,202.0,65044.0,2026-04-23,187776448,255,Midas Stock Broking Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:45:11.906997,Prabhu  Bank Limited
+2026042301052436,PRVU,13,33,50,202.0,10100.0,2026-04-23,187776710,255,Thrive Brokerage House Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:45:29.318853,Prabhu  Bank Limited
+2026042301052471,PRVU,58,14,100,201.9,20190.0,2026-04-23,187776900,255,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:45:41.119184,Prabhu  Bank Limited
+2026042301052562,PRVU,21,14,100,201.9,20190.0,2026-04-23,187777284,255,Midas Stock Broking Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 14:46:07.353495,Prabhu  Bank Limited
+2026042301052614,PRVU,38,14,10,201.9,2019.0,2026-04-23,187777592,255,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:46:20.830201,Prabhu  Bank Limited
+2026042301052800,PRVU,58,14,150,201.9,30285.0,2026-04-23,187778512,255,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:47:08.320719,Prabhu  Bank Limited
+2026042301052917,PRVU,35,26,100,201.8,20180.0,2026-04-23,187779000,255,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 14:47:41.482388,Prabhu  Bank Limited
+2026042301052921,PRVU,49,49,50,201.0,10050.0,2026-04-23,187779042,255,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:47:43.325919,Prabhu  Bank Limited
+2026042301052922,PRVU,1,49,32,201.0,6432.0,2026-04-23,187779044,255,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-23 14:47:43.327575,Prabhu  Bank Limited
+2026042301052923,PRVU,36,49,42,201.0,8442.0,2026-04-23,187779045,255,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:47:43.328860,Prabhu  Bank Limited
+2026042301052950,PRVU,49,14,380,201.9,76722.0,2026-04-23,187779182,255,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:47:50.057047,Prabhu  Bank Limited
+2026042301052995,PRVU,36,50,55,201.0,11055.0,2026-04-23,187779390,255,Secured Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:47:58.483308,Prabhu  Bank Limited
+2026042301052996,PRVU,46,50,83,201.0,16683.0,2026-04-23,187779392,255,Kalika Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:47:58.484087,Prabhu  Bank Limited
+2026042301052997,PRVU,17,50,1240,201.0,249240.0,2026-04-23,187779394,255,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:47:58.484541,Prabhu  Bank Limited
+2026042301052998,PRVU,16,50,75,201.0,15075.0,2026-04-23,187779396,255,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:47:58.484982,Prabhu  Bank Limited
+2026042301052999,PRVU,21,50,490,201.0,98490.0,2026-04-23,187779398,255,Midas Stock Broking Company Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:47:58.485476,Prabhu  Bank Limited
+2026042301053000,PRVU,48,50,57,201.0,11457.0,2026-04-23,187779401,255,Trishakti Securities Public Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:47:58.964150,Prabhu  Bank Limited
+2026042301053001,PRVU,48,14,43,201.9,8681.7,2026-04-23,187779404,255,Trishakti Securities Public Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 14:47:58.964873,Prabhu  Bank Limited
+2026042301053284,PRVU,21,49,10,200.9,2009.0,2026-04-23,187780621,255,Midas Stock Broking Company Private Limited,Online Securities Pvt. Ltd.,2026-04-23 14:48:49.319968,Prabhu  Bank Limited
+2026042301053947,PRVU,13,11,100,201.5,20150.0,2026-04-23,187783593,255,Thrive Brokerage House Pvt. Ltd,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:50:47.402087,Prabhu  Bank Limited
+2026042301054061,PRVU,13,25,600,201.5,120900.0,2026-04-23,187784083,255,Thrive Brokerage House Pvt. Ltd,Sweta Securities Private Limited,2026-04-23 14:51:09.216653,Prabhu  Bank Limited
+2026042301054099,PRVU,13,56,300,201.5,60450.0,2026-04-23,187784300,255,Thrive Brokerage House Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:51:15.014526,Prabhu  Bank Limited
+2026042301054196,PRVU,42,56,545,201.5,109817.5,2026-04-23,187784617,255,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:51:27.435078,Prabhu  Bank Limited
+2026042301054197,PRVU,42,49,53,201.5,10679.5,2026-04-23,187784619,255,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:51:27.435760,Prabhu  Bank Limited
+2026042301054198,PRVU,42,6,398,201.5,80197.0,2026-04-23,187784622,255,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:51:27.436208,Prabhu  Bank Limited
+2026042301054498,PRVU,58,34,10,201.1,2011.0,2026-04-23,187785912,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:52:25.923400,Prabhu  Bank Limited
+2026042301054499,PRVU,48,34,100,201.0,20100.0,2026-04-23,187785914,255,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-23 14:52:25.924254,Prabhu  Bank Limited
+2026042301054500,PRVU,57,34,199,201.0,39999.0,2026-04-23,187785916,255,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 14:52:25.924924,Prabhu  Bank Limited
+2026042301054501,PRVU,34,34,1991,201.0,400191.0,2026-04-23,187785917,255,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-23 14:52:25.925460,Prabhu  Bank Limited
+2026042301054639,PRVU,49,57,100,201.0,20100.0,2026-04-23,187786669,255,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 14:52:57.389579,Prabhu  Bank Limited
+2026042301054910,PRVU,49,45,18,201.0,3618.0,2026-04-23,187788002,255,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.777663,Prabhu  Bank Limited
+2026042301054911,PRVU,35,45,100,201.0,20100.0,2026-04-23,187788004,255,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.778394,Prabhu  Bank Limited
+2026042301054912,PRVU,21,45,470,200.9,94423.0,2026-04-23,187788006,255,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.778985,Prabhu  Bank Limited
+2026042301054913,PRVU,57,45,100,200.9,20090.0,2026-04-23,187788008,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.779586,Prabhu  Bank Limited
+2026042301054914,PRVU,19,45,10,200.9,2009.0,2026-04-23,187788010,255,Nepal Investment And Securities Trading Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.780163,Prabhu  Bank Limited
+2026042301054915,PRVU,52,45,42,200.6,8425.2,2026-04-23,187788012,255,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.780744,Prabhu  Bank Limited
+2026042301054916,PRVU,21,45,53,200.6,10631.8,2026-04-23,187788014,255,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.781319,Prabhu  Bank Limited
+2026042301054917,PRVU,35,45,110,200.5,22055.0,2026-04-23,187788016,255,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.781924,Prabhu  Bank Limited
+2026042301054918,PRVU,14,45,1000,200.5,200500.0,2026-04-23,187788018,255,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.782503,Prabhu  Bank Limited
+2026042301054919,PRVU,57,45,100,200.5,20050.0,2026-04-23,187788020,255,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.783108,Prabhu  Bank Limited
+2026042301054920,PRVU,14,45,497,200.5,99648.5,2026-04-23,187788021,255,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:53:53.783670,Prabhu  Bank Limited
+2026042301054991,PRVU,48,35,10,201.4,2014.0,2026-04-23,187788368,255,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:54:04.242581,Prabhu  Bank Limited
+2026042301055024,PRVU,14,40,15,200.5,3007.5,2026-04-23,187788501,255,Nepal Stock House (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:54:11.215560,Prabhu  Bank Limited
+2026042301055037,PRVU,14,48,500,200.5,100250.0,2026-04-23,187788571,255,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 14:54:13.877524,Prabhu  Bank Limited
+2026042301055334,PRVU,36,35,77,201.4,15507.8,2026-04-23,187789590,255,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:54:54.415515,Prabhu  Bank Limited
+2026042301055444,PRVU,14,35,988,200.5,198094.0,2026-04-23,187790024,255,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:10.573084,Prabhu  Bank Limited
+2026042301055445,PRVU,14,35,2000,200.5,401000.0,2026-04-23,187790026,255,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:10.574742,Prabhu  Bank Limited
+2026042301055446,PRVU,32,35,50,200.5,10025.0,2026-04-23,187790028,255,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:10.576062,Prabhu  Bank Limited
+2026042301055447,PRVU,32,35,50,200.5,10025.0,2026-04-23,187790030,255,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:10.577403,Prabhu  Bank Limited
+2026042301055448,PRVU,32,35,100,200.5,20050.0,2026-04-23,187790032,255,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:10.578706,Prabhu  Bank Limited
+2026042301055449,PRVU,32,35,812,200.5,162806.0,2026-04-23,187790033,255,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:10.580011,Prabhu  Bank Limited
+2026042301055566,PRVU,56,51,10,201.0,2010.0,2026-04-23,187790630,255,Sri Hari Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:55:35.922007,Prabhu  Bank Limited
+2026042301055699,PRVU,21,51,85,201.0,17085.0,2026-04-23,187791214,255,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 14:55:55.788309,Prabhu  Bank Limited
+2026042301055834,PRVU,42,51,100,201.0,20100.0,2026-04-23,187791858,255,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:56:19.547425,Prabhu  Bank Limited
+2026042301055866,PRVU,41,35,300,200.6,60180.0,2026-04-23,187791968,255,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:23.002268,Prabhu  Bank Limited
+2026042301055867,PRVU,42,35,1200,200.6,240720.0,2026-04-23,187791969,255,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:23.002945,Prabhu  Bank Limited
+2026042301056006,PRVU,42,28,1000,200.6,200600.0,2026-04-23,187792523,255,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 14:56:41.803482,Prabhu  Bank Limited
+2026042301056038,PRVU,42,14,200,200.6,40120.0,2026-04-23,187792637,255,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:56:45.559670,Prabhu  Bank Limited
+2026042301056053,PRVU,42,50,50,200.6,10030.0,2026-04-23,187792740,255,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:48.573334,Prabhu  Bank Limited
+2026042301056054,PRVU,32,50,188,200.5,37694.0,2026-04-23,187792742,255,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:48.574752,Prabhu  Bank Limited
+2026042301056055,PRVU,42,50,200,200.5,40100.0,2026-04-23,187792744,255,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:48.576113,Prabhu  Bank Limited
+2026042301056056,PRVU,21,50,53,200.5,10626.5,2026-04-23,187792746,255,Midas Stock Broking Company Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:48.577441,Prabhu  Bank Limited
+2026042301056057,PRVU,57,50,300,200.4,60120.0,2026-04-23,187792748,255,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:48.578773,Prabhu  Bank Limited
+2026042301056058,PRVU,14,50,209,200.4,41883.6,2026-04-23,187792749,255,Nepal Stock House (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:56:48.580114,Prabhu  Bank Limited
+2026042301056174,PRVU,14,58,100,200.4,20040.0,2026-04-23,187793333,255,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:57:07.077896,Prabhu  Bank Limited
+2026042301056262,PRVU,14,51,691,200.4,138476.4,2026-04-23,187793682,255,Nepal Stock House (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:18.791591,Prabhu  Bank Limited
+2026042301056263,PRVU,43,51,50,200.3,10015.0,2026-04-23,187793684,255,South Asian Bulls Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:18.792342,Prabhu  Bank Limited
+2026042301056264,PRVU,58,51,10,200.3,2003.0,2026-04-23,187793686,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:18.792819,Prabhu  Bank Limited
+2026042301056462,PRVU,54,51,100,200.2,20020.0,2026-04-23,187794552,255,Sewa Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:40.120070,Prabhu  Bank Limited
+2026042301056463,PRVU,32,51,50,200.2,10010.0,2026-04-23,187794554,255,Premier Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:40.120833,Prabhu  Bank Limited
+2026042301056464,PRVU,4,51,150,200.1,30015.0,2026-04-23,187794556,255,Opal Securities Investment (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:40.121307,Prabhu  Bank Limited
+2026042301056465,PRVU,53,51,200,200.1,40020.0,2026-04-23,187794558,255,Investment Management Nepal Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:40.121789,Prabhu  Bank Limited
+2026042301056466,PRVU,58,51,154,200.1,30815.4,2026-04-23,187794559,255,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:57:40.122287,Prabhu  Bank Limited
+2026042301056514,PRVU,45,34,990,200.3,198297.0,2026-04-23,187794734,255,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:57:46.143812,Prabhu  Bank Limited
+2026042301056515,PRVU,58,34,510,200.1,102051.0,2026-04-23,187794735,255,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:57:46.144534,Prabhu  Bank Limited
+2026042301057071,PRVU,71,35,50,200.9,10045.0,2026-04-23,187797008,255,SHUBHAKAMANA SECURITIES PVT. LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:58:38.833676,Prabhu  Bank Limited
+2026042301057083,PRVU,45,48,29,200.8,5823.2,2026-04-23,187797056,255,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:58:40.703439,Prabhu  Bank Limited
+2026042301057084,PRVU,58,48,70,200.8,14056.0,2026-04-23,187797058,255,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:58:40.704209,Prabhu  Bank Limited
+2026042301057085,PRVU,49,48,80,200.7,16056.0,2026-04-23,187797060,255,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:58:40.704726,Prabhu  Bank Limited
+2026042301057086,PRVU,58,48,221,200.1,44222.1,2026-04-23,187797061,255,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:58:40.705232,Prabhu  Bank Limited
+2026042301057173,PRVU,4,57,200,200.8,40160.0,2026-04-23,187797382,255,Opal Securities Investment (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 14:58:50.042684,Prabhu  Bank Limited
+2026042301057221,PRVU,54,57,500,200.8,100400.0,2026-04-23,187797580,255,Sewa Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 14:58:54.428546,Prabhu  Bank Limited
+2026042301057230,PRVU,29,57,308,200.8,61846.4,2026-04-23,187797631,255,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,2026-04-23 14:58:55.494513,Prabhu  Bank Limited
+2026042301057231,PRVU,29,35,1392,200.9,279652.8,2026-04-23,187797634,255,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:58:55.496173,Prabhu  Bank Limited
+2026042301057696,PRVU,36,57,100,200.7,20070.0,2026-04-23,187799636,255,Secured Securities Ltd.,Aryatara Investment & Securities,2026-04-23 14:59:23.772200,Prabhu  Bank Limited
+2026042301057731,PRVU,32,67,100,200.3,20030.0,2026-04-23,187799774,255,Premier Securities Company Ltd.,Property Wiard Limited,2026-04-23 14:59:26.188568,Prabhu  Bank Limited
+2026042301057732,PRVU,3,67,400,200.2,80080.0,2026-04-23,187799775,255,Arun Securities (PVT) Ltd.,Property Wiard Limited,2026-04-23 14:59:26.189337,Prabhu  Bank Limited
+2026042301057893,PRVU,8,57,100,200.7,20070.0,2026-04-23,187800567,255,Brilliant Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 14:59:37.912263,Prabhu  Bank Limited
+2026042301057894,PRVU,8,35,50,200.7,10035.0,2026-04-23,187800570,255,Brilliant Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:59:37.912992,Prabhu  Bank Limited
+2026042301057902,PRVU,22,74,100,201.0,20100.0,2026-04-23,187800592,255,Siprabi Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:59:38.404240,Prabhu  Bank Limited
+2026042301058365,PRVU,22,74,200,201.0,40200.0,2026-04-23,187802354,255,Siprabi Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:59:58.289459,Prabhu  Bank Limited
+2026042301058377,PRVU,6,74,100,201.0,20100.0,2026-04-23,187802661,255,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:59:58.816610,Prabhu  Bank Limited

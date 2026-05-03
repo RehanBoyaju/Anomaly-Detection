@@ -1,0 +1,246 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042704000043,LEC,62,17,10,237.0,2370.0,2026-04-27,187953738,2903,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-27 11:00:27.778903,Liberty Energy Company Limited
+2026042704000208,LEC,35,40,15,230.5,3457.5,2026-04-27,187957307,2903,Kohinoor Investment & Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-27 11:05:31.466355,Liberty Energy Company Limited
+2026042704000232,LEC,58,40,15,230.6,3459.0,2026-04-27,187957751,2903,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-27 11:06:09.938701,Liberty Energy Company Limited
+2026042704000412,LEC,57,4,19,233.0,4427.0,2026-04-27,187962852,2903,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,2026-04-27 11:11:14.745731,Liberty Energy Company Limited
+2026042704000427,LEC,49,4,481,233.0,112073.0,2026-04-27,187963045,2903,Online Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-27 11:11:26.993936,Liberty Energy Company Limited
+2026042704000428,LEC,49,35,15,233.0,3495.0,2026-04-27,187963047,2903,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 11:11:26.994191,Liberty Energy Company Limited
+2026042704000447,LEC,40,62,300,234.5,70350.0,2026-04-27,187963506,2903,Creative Securities Pvt Ltd,Capital Max Securities Ltd,2026-04-27 11:11:58.878182,Liberty Energy Company Limited
+2026042704000652,LEC,4,49,50,233.0,11650.0,2026-04-27,187968133,2903,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-27 11:17:34.198442,Liberty Energy Company Limited
+2026042704000769,LEC,42,91,500,232.2,116100.0,2026-04-27,187970036,2903,Sani Securities Company Ltd.,Citizens Share Broker Limited,2026-04-27 11:19:28.109364,Liberty Energy Company Limited
+2026042704000770,LEC,50,91,555,232.1,128815.5,2026-04-27,187970038,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Citizens Share Broker Limited,2026-04-27 11:19:28.109652,Liberty Energy Company Limited
+2026042704000771,LEC,48,91,945,232.0,219240.0,2026-04-27,187970039,2903,Trishakti Securities Public Limited,Citizens Share Broker Limited,2026-04-27 11:19:28.109831,Liberty Energy Company Limited
+2026042704000857,LEC,32,10,30,232.2,6966.0,2026-04-27,187971158,2903,Premier Securities Company Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-27 11:20:53.787991,Liberty Energy Company Limited
+2026042704000919,LEC,50,10,20,232.2,4644.0,2026-04-27,187972105,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-27 11:22:11.072783,Liberty Energy Company Limited
+2026042704000940,LEC,16,17,25,234.3,5857.5,2026-04-27,187972334,2903,Primo Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-27 11:22:29.295799,Liberty Energy Company Limited
+2026042704001052,LEC,50,64,255,232.6,59313.0,2026-04-27,187974440,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899009,Liberty Energy Company Limited
+2026042704001053,LEC,4,64,65,232.5,15112.5,2026-04-27,187974442,2903,Opal Securities Investment (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899234,Liberty Energy Company Limited
+2026042704001054,LEC,57,64,500,232.5,116250.0,2026-04-27,187974444,2903,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899357,Liberty Energy Company Limited
+2026042704001055,LEC,58,64,29,232.3,6736.7,2026-04-27,187974446,2903,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899426,Liberty Energy Company Limited
+2026042704001056,LEC,38,64,900,232.3,209070.0,2026-04-27,187974448,2903,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899493,Liberty Energy Company Limited
+2026042704001057,LEC,50,64,325,232.2,75465.0,2026-04-27,187974450,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899561,Liberty Energy Company Limited
+2026042704001058,LEC,42,64,500,232.2,116100.0,2026-04-27,187974452,2903,Sani Securities Company Ltd.,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899625,Liberty Energy Company Limited
+2026042704001059,LEC,94,64,2000,232.1,464200.0,2026-04-27,187974454,2903,K.B.L. Securities Limited ,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899690,Liberty Energy Company Limited
+2026042704001060,LEC,48,64,55,232.0,12760.0,2026-04-27,187974456,2903,Trishakti Securities Public Limited,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899770,Liberty Energy Company Limited
+2026042704001061,LEC,49,64,371,232.0,86072.0,2026-04-27,187974457,2903,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-27 11:25:10.899857,Liberty Energy Company Limited
+2026042704001303,LEC,42,29,74,233.9,17308.6,2026-04-27,187977798,2903,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-27 11:29:26.813976,Liberty Energy Company Limited
+2026042704001459,LEC,49,34,15,232.0,3480.0,2026-04-27,187979597,2903,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 11:31:50.790500,Liberty Energy Company Limited
+2026042704001521,LEC,49,75,44,232.0,10208.0,2026-04-27,187980238,2903,Online Securities Pvt. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-27 11:32:46.262164,Liberty Energy Company Limited
+2026042704001522,LEC,96,75,30,232.0,6960.0,2026-04-27,187980240,2903,Himalayan Securities Limited,N.I.M.B. Stock Markets Limited,2026-04-27 11:32:46.262398,Liberty Energy Company Limited
+2026042704001523,LEC,14,75,210,232.0,48720.0,2026-04-27,187980242,2903,Nepal Stock House (PVT) Ltd.,N.I.M.B. Stock Markets Limited,2026-04-27 11:32:46.262491,Liberty Energy Company Limited
+2026042704001524,LEC,32,75,716,232.0,166112.0,2026-04-27,187980243,2903,Premier Securities Company Ltd.,N.I.M.B. Stock Markets Limited,2026-04-27 11:32:46.262570,Liberty Energy Company Limited
+2026042704001580,LEC,32,28,284,232.0,65888.0,2026-04-27,187981046,2903,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-27 11:33:46.027754,Liberty Energy Company Limited
+2026042704001581,LEC,17,28,16,232.0,3712.0,2026-04-27,187981047,2903,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-27 11:33:46.028094,Liberty Energy Company Limited
+2026042704001694,LEC,50,28,200,231.7,46340.0,2026-04-27,187982427,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-27 11:35:30.731570,Liberty Energy Company Limited
+2026042704001755,LEC,58,7,45,232.0,10440.0,2026-04-27,187983179,2903,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 11:36:29.380968,Liberty Energy Company Limited
+2026042704001770,LEC,58,52,500,232.0,116000.0,2026-04-27,187983349,2903,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-27 11:36:40.373819,Liberty Energy Company Limited
+2026042704001775,LEC,58,52,220,232.0,51040.0,2026-04-27,187983451,2903,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-27 11:36:51.947134,Liberty Energy Company Limited
+2026042704001947,LEC,58,28,200,232.0,46400.0,2026-04-27,187987207,2903,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,2026-04-27 11:42:17.431434,Liberty Energy Company Limited
+2026042704002171,LEC,58,5,20,232.0,4640.0,2026-04-27,187989864,2903,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-27 11:46:36.548146,Liberty Energy Company Limited
+2026042704002172,LEC,17,5,20,232.0,4640.0,2026-04-27,187989865,2903,ABC Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-27 11:46:36.548494,Liberty Energy Company Limited
+2026042704002199,LEC,41,26,300,232.5,69750.0,2026-04-27,187990409,2903,Linch Stock Market Ltd.,Asian Securities Private Ltd.,2026-04-27 11:47:26.718228,Liberty Energy Company Limited
+2026042704002200,LEC,41,50,500,232.8,116400.0,2026-04-27,187990412,2903,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-27 11:47:26.718591,Liberty Energy Company Limited
+2026042704002397,LEC,52,44,15,233.0,3495.0,2026-04-27,187993859,2903,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 11:52:38.958496,Liberty Energy Company Limited
+2026042704002398,LEC,52,52,850,233.7,198645.0,2026-04-27,187993861,2903,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-27 11:52:38.958690,Liberty Energy Company Limited
+2026042704002399,LEC,52,29,126,233.9,29471.4,2026-04-27,187993863,2903,Sundhara Securities Limited,Trisul Securities & Invt. Ltd.,2026-04-27 11:52:38.958770,Liberty Energy Company Limited
+2026042704002471,LEC,35,25,15,232.5,3487.5,2026-04-27,187995297,2903,Kohinoor Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-27 11:54:31.048213,Liberty Energy Company Limited
+2026042704002568,LEC,35,7,25,232.5,5812.5,2026-04-27,187996981,2903,Kohinoor Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 11:57:21.627103,Liberty Energy Company Limited
+2026042704002583,LEC,17,57,30,232.0,6960.0,2026-04-27,187997253,2903,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-27 11:57:49.213186,Liberty Energy Company Limited
+2026042704002600,LEC,17,58,20,232.0,4640.0,2026-04-27,187997609,2903,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-27 11:58:23.168566,Liberty Energy Company Limited
+2026042704002650,LEC,17,57,30,232.0,6960.0,2026-04-27,187998613,2903,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-27 12:00:17.141995,Liberty Energy Company Limited
+2026042704002723,LEC,58,37,5,231.9,1159.5,2026-04-27,187999520,2903,Naasa Securities Co. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 12:01:54.015885,Liberty Energy Company Limited
+2026042704002818,LEC,49,37,40,232.1,9284.0,2026-04-27,188000942,2903,Online Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 12:04:48.982741,Liberty Energy Company Limited
+2026042704002890,LEC,58,17,100,232.0,23200.0,2026-04-27,188001572,2903,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-27 12:06:01.187109,Liberty Energy Company Limited
+2026042704002891,LEC,58,17,145,232.0,33640.0,2026-04-27,188001574,2903,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-27 12:06:01.187376,Liberty Energy Company Limited
+2026042704002926,LEC,50,47,155,231.7,35913.5,2026-04-27,188002086,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:06:57.521518,Liberty Energy Company Limited
+2026042704002927,LEC,50,47,235,231.7,54449.5,2026-04-27,188002088,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:06:57.521733,Liberty Energy Company Limited
+2026042704002928,LEC,42,47,200,231.7,46340.0,2026-04-27,188002090,2903,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:06:57.521841,Liberty Energy Company Limited
+2026042704002929,LEC,58,47,10,231.6,2316.0,2026-04-27,188002092,2903,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:06:57.521927,Liberty Energy Company Limited
+2026042704002930,LEC,41,47,1000,231.6,231600.0,2026-04-27,188002094,2903,Linch Stock Market Ltd.,Neev Securities Pvt. Ltd.,2026-04-27 12:06:57.522005,Liberty Energy Company Limited
+2026042704002931,LEC,70,47,1400,231.5,324100.0,2026-04-27,188002095,2903,Infinity Securities Limited,Neev Securities Pvt. Ltd.,2026-04-27 12:06:57.522087,Liberty Energy Company Limited
+2026042704002934,LEC,70,34,14,231.5,3241.0,2026-04-27,188002215,2903,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-27 12:07:14.001817,Liberty Energy Company Limited
+2026042704003027,LEC,52,17,55,232.0,12760.0,2026-04-27,188003535,2903,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-27 12:09:54.977614,Liberty Energy Company Limited
+2026042704003037,LEC,52,57,15,232.0,3480.0,2026-04-27,188003571,2903,Sundhara Securities Limited,Aryatara Investment & Securities,2026-04-27 12:09:58.131117,Liberty Energy Company Limited
+2026042704003054,LEC,35,37,100,232.1,23210.0,2026-04-27,188003814,2903,Kohinoor Investment & Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 12:10:38.695069,Liberty Energy Company Limited
+2026042704003095,LEC,52,3,90,232.0,20880.0,2026-04-27,188004090,2903,Sundhara Securities Limited,Arun Securities (PVT) Ltd.,2026-04-27 12:11:10.739561,Liberty Energy Company Limited
+2026042704003127,LEC,22,3,35,232.0,8120.0,2026-04-27,188004456,2903,Siprabi Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-27 12:11:58.367022,Liberty Energy Company Limited
+2026042704003192,LEC,41,3,75,232.0,17400.0,2026-04-27,188005563,2903,Linch Stock Market Ltd.,Arun Securities (PVT) Ltd.,2026-04-27 12:14:10.185615,Liberty Energy Company Limited
+2026042704003280,LEC,83,37,810,232.1,188001.0,2026-04-27,188006497,2903,Sanima Securities Limited,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 12:15:54.304299,Liberty Energy Company Limited
+2026042704003294,LEC,17,68,1,232.0,232.0,2026-04-27,188006675,2903,ABC Securities Private Limited,Elite Stock House Limited,2026-04-27 12:16:22.082743,Liberty Energy Company Limited
+2026042704003378,LEC,41,42,10,232.0,2320.0,2026-04-27,188008751,2903,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-27 12:19:45.594598,Liberty Energy Company Limited
+2026042704003445,LEC,41,63,500,232.0,116000.0,2026-04-27,188009657,2903,Linch Stock Market Ltd.,Himalayan Brokerage Company Limited,2026-04-27 12:21:20.201201,Liberty Energy Company Limited
+2026042704003565,LEC,41,36,515,232.0,119480.0,2026-04-27,188011720,2903,Linch Stock Market Ltd.,Secured Securities Ltd.,2026-04-27 12:25:22.401478,Liberty Energy Company Limited
+2026042704003566,LEC,42,36,108,232.0,25056.0,2026-04-27,188011722,2903,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-27 12:25:22.401895,Liberty Energy Company Limited
+2026042704003598,LEC,50,36,10,231.7,2317.0,2026-04-27,188012086,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 12:26:11.144709,Liberty Energy Company Limited
+2026042704003599,LEC,57,36,100,231.7,23170.0,2026-04-27,188012088,2903,Aryatara Investment & Securities,Secured Securities Ltd.,2026-04-27 12:26:11.145136,Liberty Energy Company Limited
+2026042704003603,LEC,50,36,355,231.6,82218.0,2026-04-27,188012266,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 12:26:27.727115,Liberty Energy Company Limited
+2026042704003604,LEC,50,36,187,231.6,43309.2,2026-04-27,188012267,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Secured Securities Ltd.,2026-04-27 12:26:27.727538,Liberty Energy Company Limited
+2026042704003606,LEC,83,58,20,233.0,4660.0,2026-04-27,188012275,2903,Sanima Securities Limited,Naasa Securities Co. Ltd.,2026-04-27 12:26:28.931286,Liberty Energy Company Limited
+2026042704003607,LEC,83,58,50,233.0,11650.0,2026-04-27,188012277,2903,Sanima Securities Limited,Naasa Securities Co. Ltd.,2026-04-27 12:26:28.931440,Liberty Energy Company Limited
+2026042704003608,LEC,83,33,404,233.7,94414.8,2026-04-27,188012279,2903,Sanima Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-27 12:26:28.931511,Liberty Energy Company Limited
+2026042704003609,LEC,83,17,68,233.8,15898.4,2026-04-27,188012282,2903,Sanima Securities Limited,ABC Securities Private Limited,2026-04-27 12:26:28.931580,Liberty Energy Company Limited
+2026042704004139,LEC,22,74,10,232.9,2329.0,2026-04-27,188020016,2903,Siprabi Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 12:42:11.786216,Liberty Energy Company Limited
+2026042704004207,LEC,83,58,1000,231.9,231900.0,2026-04-27,188020691,2903,Sanima Securities Limited,Naasa Securities Co. Ltd.,2026-04-27 12:43:37.033887,Liberty Energy Company Limited
+2026042704004242,LEC,83,17,1000,231.9,231900.0,2026-04-27,188021023,2903,Sanima Securities Limited,ABC Securities Private Limited,2026-04-27 12:44:16.983972,Liberty Energy Company Limited
+2026042704004410,LEC,54,48,100,231.8,23180.0,2026-04-27,188022755,2903,Sewa Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-27 12:47:48.550254,Liberty Energy Company Limited
+2026042704004458,LEC,54,41,10,231.8,2318.0,2026-04-27,188023469,2903,Sewa Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 12:49:18.623109,Liberty Energy Company Limited
+2026042704004463,LEC,54,14,40,231.8,9272.0,2026-04-27,188023561,2903,Sewa Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 12:49:30.758145,Liberty Energy Company Limited
+2026042704004510,LEC,54,74,170,231.8,39406.0,2026-04-27,188024291,2903,Sewa Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 12:51:07.266191,Liberty Energy Company Limited
+2026042704004671,LEC,54,40,45,231.8,10431.0,2026-04-27,188026503,2903,Sewa Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-27 12:55:59.286302,Liberty Energy Company Limited
+2026042704004673,LEC,54,99,135,231.8,31293.0,2026-04-27,188026530,2903,Sewa Securities Pvt. Ltd.,Prabhu Stock Market Limited,2026-04-27 12:56:01.170415,Liberty Energy Company Limited
+2026042704004674,LEC,59,99,305,231.7,70668.5,2026-04-27,188026532,2903,Deevyaa Securities & Stock House Pvt. Ltd,Prabhu Stock Market Limited,2026-04-27 12:56:01.170673,Liberty Energy Company Limited
+2026042704004675,LEC,50,99,28,231.6,6484.8,2026-04-27,188026534,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Prabhu Stock Market Limited,2026-04-27 12:56:01.170768,Liberty Energy Company Limited
+2026042704004676,LEC,50,99,32,231.6,7411.2,2026-04-27,188026535,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Prabhu Stock Market Limited,2026-04-27 12:56:01.170859,Liberty Energy Company Limited
+2026042704004926,LEC,37,17,475,231.7,110057.5,2026-04-27,188030137,2903,Swarna Laxmi Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-27 13:02:33.581083,Liberty Energy Company Limited
+2026042704004957,LEC,34,66,800,232.0,185600.0,2026-04-27,188030475,2903,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,2026-04-27 13:03:15.992422,Liberty Energy Company Limited
+2026042704004960,LEC,37,17,75,232.7,17452.5,2026-04-27,188030690,2903,Swarna Laxmi Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-27 13:03:34.368269,Liberty Energy Company Limited
+2026042704005071,LEC,34,42,10,232.0,2320.0,2026-04-27,188031935,2903,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-27 13:06:13.455224,Liberty Energy Company Limited
+2026042704005285,LEC,34,11,150,232.0,34800.0,2026-04-27,188035075,2903,Vision Securities Pvt. Ltd,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-27 13:12:52.865650,Liberty Energy Company Limited
+2026042704005488,LEC,48,45,500,232.1,116050.0,2026-04-27,188037003,2903,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 13:16:40.713462,Liberty Energy Company Limited
+2026042704005624,LEC,38,26,500,232.5,116250.0,2026-04-27,188038520,2903,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Asian Securities Private Ltd.,2026-04-27 13:19:47.547774,Liberty Energy Company Limited
+2026042704005646,LEC,57,17,157,232.9,36565.3,2026-04-27,188038863,2903,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-27 13:20:21.197616,Liberty Energy Company Limited
+2026042704005647,LEC,57,4,296,232.9,68938.4,2026-04-27,188038865,2903,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,2026-04-27 13:20:21.197714,Liberty Energy Company Limited
+2026042704005648,LEC,57,22,100,233.0,23300.0,2026-04-27,188038867,2903,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-27 13:20:21.197787,Liberty Energy Company Limited
+2026042704005649,LEC,57,22,100,233.0,23300.0,2026-04-27,188038869,2903,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,2026-04-27 13:20:21.197853,Liberty Energy Company Limited
+2026042704005650,LEC,57,14,347,233.0,80851.0,2026-04-27,188038872,2903,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-27 13:20:21.197916,Liberty Energy Company Limited
+2026042704005775,LEC,25,14,400,233.0,93200.0,2026-04-27,188040192,2903,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-27 13:22:22.028392,Liberty Energy Company Limited
+2026042704005865,LEC,34,14,20,233.0,4660.0,2026-04-27,188041538,2903,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-27 13:23:57.100563,Liberty Energy Company Limited
+2026042704005956,LEC,60,68,15,232.3,3484.5,2026-04-27,188042765,2903,Nagarik Stock Dealer ,Elite Stock House Limited,2026-04-27 13:25:42.442662,Liberty Energy Company Limited
+2026042704005965,LEC,45,14,44,233.0,10252.0,2026-04-27,188042926,2903,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-27 13:26:01.675982,Liberty Energy Company Limited
+2026042704006043,LEC,60,4,10,232.3,2323.0,2026-04-27,188043827,2903,Nagarik Stock Dealer ,Opal Securities Investment (PVT) Ltd.,2026-04-27 13:27:42.258694,Liberty Energy Company Limited
+2026042704006208,LEC,25,14,189,233.0,44037.0,2026-04-27,188045894,2903,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-27 13:31:28.020570,Liberty Energy Company Limited
+2026042704006503,LEC,8,71,2200,232.4,511280.0,2026-04-27,188049893,2903,Brilliant Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-27 13:38:43.924098,Liberty Energy Company Limited
+2026042704006527,LEC,60,58,18,232.3,4181.4,2026-04-27,188050249,2903,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-27 13:39:25.005939,Liberty Energy Company Limited
+2026042704006612,LEC,48,17,10,233.8,2338.0,2026-04-27,188051368,2903,Trishakti Securities Public Limited,ABC Securities Private Limited,2026-04-27 13:41:46.961157,Liberty Energy Company Limited
+2026042704006822,LEC,60,58,1,232.0,232.0,2026-04-27,188054235,2903,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-27 13:46:36.083833,Liberty Energy Company Limited
+2026042704006917,LEC,58,17,200,233.8,46760.0,2026-04-27,188055004,2903,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-27 13:47:58.303731,Liberty Energy Company Limited
+2026042704007033,LEC,58,34,60,233.5,14010.0,2026-04-27,188056013,2903,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 13:49:41.137171,Liberty Energy Company Limited
+2026042704007037,LEC,58,41,40,233.5,9340.0,2026-04-27,188056044,2903,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:49:46.186269,Liberty Energy Company Limited
+2026042704007038,LEC,58,41,100,233.3,23330.0,2026-04-27,188056046,2903,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:49:46.186773,Liberty Energy Company Limited
+2026042704007039,LEC,58,41,100,233.1,23310.0,2026-04-27,188056048,2903,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:49:46.187090,Liberty Energy Company Limited
+2026042704007040,LEC,42,41,10,233.0,2330.0,2026-04-27,188056050,2903,Sani Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-27 13:49:46.187404,Liberty Energy Company Limited
+2026042704007049,LEC,45,41,50,233.0,11650.0,2026-04-27,188056141,2903,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:49:55.839035,Liberty Energy Company Limited
+2026042704007050,LEC,45,17,180,233.8,42084.0,2026-04-27,188056144,2903,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-27 13:49:55.839535,Liberty Energy Company Limited
+2026042704007140,LEC,50,41,23,232.6,5349.8,2026-04-27,188057060,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:51:29.029774,Liberty Energy Company Limited
+2026042704007141,LEC,50,41,155,232.6,36053.0,2026-04-27,188057063,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:51:29.030267,Liberty Energy Company Limited
+2026042704007142,LEC,35,41,22,232.6,5117.2,2026-04-27,188057065,2903,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:51:29.030596,Liberty Energy Company Limited
+2026042704007178,LEC,35,34,460,232.6,106996.0,2026-04-27,188057373,2903,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 13:52:00.859588,Liberty Energy Company Limited
+2026042704007252,LEC,43,42,10,233.5,2335.0,2026-04-27,188058316,2903,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-27 13:53:57.121878,Liberty Energy Company Limited
+2026042704007331,LEC,35,41,18,232.6,4186.8,2026-04-27,188059392,2903,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-27 13:55:57.091521,Liberty Energy Company Limited
+2026042704007332,LEC,57,41,482,232.6,112113.2,2026-04-27,188059393,2903,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-27 13:55:57.092038,Liberty Energy Company Limited
+2026042704007515,LEC,43,58,300,232.7,69810.0,2026-04-27,188061769,2903,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:00:54.995690,Liberty Energy Company Limited
+2026042704007632,LEC,43,39,200,232.7,46540.0,2026-04-27,188063186,2903,South Asian Bulls Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-27 14:03:50.345246,Liberty Energy Company Limited
+2026042704007633,LEC,57,39,300,232.6,69780.0,2026-04-27,188063187,2903,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-27 14:03:50.345772,Liberty Energy Company Limited
+2026042704007670,LEC,57,45,150,232.6,34890.0,2026-04-27,188064231,2903,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:05:15.379850,Liberty Energy Company Limited
+2026042704007795,LEC,57,52,68,232.6,15816.8,2026-04-27,188065754,2903,Aryatara Investment & Securities,Sundhara Securities Limited,2026-04-27 14:08:12.831620,Liberty Energy Company Limited
+2026042704007842,LEC,43,52,500,232.4,116200.0,2026-04-27,188066444,2903,South Asian Bulls Pvt. Ltd.,Sundhara Securities Limited,2026-04-27 14:09:31.356501,Liberty Energy Company Limited
+2026042704007884,LEC,60,77,10,232.3,2323.0,2026-04-27,188066994,2903,Nagarik Stock Dealer ,Nabil Stock Dealer Ltd.,2026-04-27 14:10:34.171596,Liberty Energy Company Limited
+2026042704007885,LEC,36,77,20,232.3,4646.0,2026-04-27,188066995,2903,Secured Securities Ltd.,Nabil Stock Dealer Ltd.,2026-04-27 14:10:34.171973,Liberty Energy Company Limited
+2026042704007894,LEC,36,52,347,232.3,80608.1,2026-04-27,188067193,2903,Secured Securities Ltd.,Sundhara Securities Limited,2026-04-27 14:10:48.512020,Liberty Energy Company Limited
+2026042704008051,LEC,35,35,500,232.4,116200.0,2026-04-27,188069074,2903,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:13:38.670202,Liberty Energy Company Limited
+2026042704008052,LEC,36,35,1633,232.3,379345.9,2026-04-27,188069076,2903,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:13:38.670531,Liberty Energy Company Limited
+2026042704008053,LEC,45,35,500,232.2,116100.0,2026-04-27,188069078,2903,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:13:38.670641,Liberty Energy Company Limited
+2026042704008054,LEC,45,35,150,232.2,34830.0,2026-04-27,188069080,2903,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:13:38.670751,Liberty Energy Company Limited
+2026042704008055,LEC,5,35,1000,232.2,232200.0,2026-04-27,188069082,2903,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:13:38.670855,Liberty Energy Company Limited
+2026042704008082,LEC,34,83,40,232.0,9280.0,2026-04-27,188069360,2903,Vision Securities Pvt. Ltd,Sanima Securities Limited,2026-04-27 14:14:07.008747,Liberty Energy Company Limited
+2026042704008083,LEC,6,83,2000,232.0,464000.0,2026-04-27,188069362,2903,Agrawal Securities (PVT) Ltd.,Sanima Securities Limited,2026-04-27 14:14:07.008904,Liberty Energy Company Limited
+2026042704008084,LEC,14,83,700,232.0,162400.0,2026-04-27,188069364,2903,Nepal Stock House (PVT) Ltd.,Sanima Securities Limited,2026-04-27 14:14:07.008986,Liberty Energy Company Limited
+2026042704008085,LEC,17,83,260,232.0,60320.0,2026-04-27,188069365,2903,ABC Securities Private Limited,Sanima Securities Limited,2026-04-27 14:14:07.009052,Liberty Energy Company Limited
+2026042704008135,LEC,17,26,240,232.0,55680.0,2026-04-27,188069882,2903,ABC Securities Private Limited,Asian Securities Private Ltd.,2026-04-27 14:15:00.209235,Liberty Energy Company Limited
+2026042704008164,LEC,17,26,510,232.0,118320.0,2026-04-27,188070326,2903,ABC Securities Private Limited,Asian Securities Private Ltd.,2026-04-27 14:15:46.185575,Liberty Energy Company Limited
+2026042704008303,LEC,44,26,250,232.0,58000.0,2026-04-27,188071842,2903,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-27 14:18:19.772563,Liberty Energy Company Limited
+2026042704008372,LEC,49,77,10,231.8,2318.0,2026-04-27,188072221,2903,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-27 14:18:56.541414,Liberty Energy Company Limited
+2026042704008484,LEC,94,58,10,232.0,2320.0,2026-04-27,188072994,2903,K.B.L. Securities Limited ,Naasa Securities Co. Ltd.,2026-04-27 14:20:10.965597,Liberty Energy Company Limited
+2026042704008488,LEC,49,28,300,231.8,69540.0,2026-04-27,188073063,2903,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-27 14:20:20.243415,Liberty Energy Company Limited
+2026042704008508,LEC,49,28,190,231.8,44042.0,2026-04-27,188073416,2903,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-27 14:20:48.770571,Liberty Energy Company Limited
+2026042704008714,LEC,34,90,100,231.5,23150.0,2026-04-27,188075178,2903,Vision Securities Pvt. Ltd,Sajilo Broker Limited,2026-04-27 14:23:08.107058,Liberty Energy Company Limited
+2026042704008715,LEC,34,90,100,231.5,23150.0,2026-04-27,188075180,2903,Vision Securities Pvt. Ltd,Sajilo Broker Limited,2026-04-27 14:23:08.107595,Liberty Energy Company Limited
+2026042704008716,LEC,41,90,200,231.4,46280.0,2026-04-27,188075181,2903,Linch Stock Market Ltd.,Sajilo Broker Limited,2026-04-27 14:23:08.107938,Liberty Energy Company Limited
+2026042704008719,LEC,41,51,800,231.4,185120.0,2026-04-27,188075192,2903,Linch Stock Market Ltd.,Oxford Securities Pvt. Ltd.,2026-04-27 14:23:08.687563,Liberty Energy Company Limited
+2026042704008720,LEC,95,51,200,231.3,46260.0,2026-04-27,188075193,2903,Magnet Securities and Investment Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-27 14:23:08.687813,Liberty Energy Company Limited
+2026042704008768,LEC,34,35,200,231.4,46280.0,2026-04-27,188076070,2903,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:24:12.947127,Liberty Energy Company Limited
+2026042704008769,LEC,95,35,1017,231.3,235232.1,2026-04-27,188076071,2903,Magnet Securities and Investment Company Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-27 14:24:12.947422,Liberty Energy Company Limited
+2026042704008863,LEC,95,67,783,231.3,181107.9,2026-04-27,188076914,2903,Magnet Securities and Investment Company Private Limited,Property Wiard Limited,2026-04-27 14:24:49.936498,Liberty Energy Company Limited
+2026042704008864,LEC,19,67,200,231.0,46200.0,2026-04-27,188076916,2903,Nepal Investment And Securities Trading Private Limited,Property Wiard Limited,2026-04-27 14:24:49.937058,Liberty Energy Company Limited
+2026042704008865,LEC,33,67,47,231.0,10857.0,2026-04-27,188076918,2903,Dakshinkali Investment & Securities Pvt. Ltd.,Property Wiard Limited,2026-04-27 14:24:49.937394,Liberty Energy Company Limited
+2026042704008866,LEC,58,67,30,231.0,6930.0,2026-04-27,188076920,2903,Naasa Securities Co. Ltd.,Property Wiard Limited,2026-04-27 14:24:49.937702,Liberty Energy Company Limited
+2026042704008867,LEC,51,67,992,231.0,229152.0,2026-04-27,188076921,2903,Oxford Securities Pvt. Ltd.,Property Wiard Limited,2026-04-27 14:24:49.938227,Liberty Energy Company Limited
+2026042704009151,LEC,45,7,30,231.5,6945.0,2026-04-27,188080206,2903,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-27 14:29:11.246989,Liberty Energy Company Limited
+2026042704009174,LEC,34,7,70,231.5,16205.0,2026-04-27,188080353,2903,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,2026-04-27 14:29:25.118817,Liberty Energy Company Limited
+2026042704009175,LEC,34,49,28,231.5,6482.0,2026-04-27,188080356,2903,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-27 14:29:25.119090,Liberty Energy Company Limited
+2026042704009274,LEC,6,49,72,231.5,16668.0,2026-04-27,188081817,2903,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:31:42.109698,Liberty Energy Company Limited
+2026042704009275,LEC,6,28,60,231.8,13908.0,2026-04-27,188081819,2903,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,2026-04-27 14:31:42.110216,Liberty Energy Company Limited
+2026042704009276,LEC,6,58,1154,232.0,267728.0,2026-04-27,188081822,2903,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:31:42.110564,Liberty Energy Company Limited
+2026042704009453,LEC,50,6,100,231.2,23120.0,2026-04-27,188083655,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 14:34:20.909778,Liberty Energy Company Limited
+2026042704009640,LEC,14,58,336,232.0,77952.0,2026-04-27,188086111,2903,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:37:42.449487,Liberty Energy Company Limited
+2026042704009641,LEC,14,92,1525,232.0,353800.0,2026-04-27,188086113,2903,Nepal Stock House (PVT) Ltd.,Roadshow securities limited,2026-04-27 14:37:42.450012,Liberty Energy Company Limited
+2026042704009642,LEC,14,34,200,232.0,46400.0,2026-04-27,188086116,2903,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:37:42.450359,Liberty Energy Company Limited
+2026042704009664,LEC,41,1,360,231.3,83268.0,2026-04-27,188086374,2903,Linch Stock Market Ltd.,Kumari Securities Private Limited,2026-04-27 14:38:01.614422,Liberty Energy Company Limited
+2026042704009665,LEC,50,1,155,231.2,35836.0,2026-04-27,188086376,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Kumari Securities Private Limited,2026-04-27 14:38:01.614704,Liberty Energy Company Limited
+2026042704009666,LEC,57,1,40,231.2,9248.0,2026-04-27,188086378,2903,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-27 14:38:01.614810,Liberty Energy Company Limited
+2026042704009667,LEC,72,1,195,231.0,45045.0,2026-04-27,188086379,2903,Hatemalo Financial Services Private Limited,Kumari Securities Private Limited,2026-04-27 14:38:01.614937,Liberty Energy Company Limited
+2026042704009684,LEC,14,38,225,232.0,52200.0,2026-04-27,188086690,2903,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 14:38:31.354912,Liberty Energy Company Limited
+2026042704009754,LEC,41,45,1065,232.0,247080.0,2026-04-27,188087441,2903,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:39:35.761430,Liberty Energy Company Limited
+2026042704009755,LEC,41,59,30,232.0,6960.0,2026-04-27,188087443,2903,Linch Stock Market Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-27 14:39:35.761527,Liberty Energy Company Limited
+2026042704009756,LEC,41,45,50,232.0,11600.0,2026-04-27,188087446,2903,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:39:35.761595,Liberty Energy Company Limited
+2026042704009774,LEC,14,6,400,232.0,92800.0,2026-04-27,188087591,2903,Nepal Stock House (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-27 14:39:52.208596,Liberty Energy Company Limited
+2026042704009790,LEC,14,3,50,232.0,11600.0,2026-04-27,188088023,2903,Nepal Stock House (PVT) Ltd.,Arun Securities (PVT) Ltd.,2026-04-27 14:40:12.177078,Liberty Energy Company Limited
+2026042704010114,LEC,41,48,350,232.3,81305.0,2026-04-27,188092316,2903,Linch Stock Market Ltd.,Trishakti Securities Public Limited,2026-04-27 14:45:33.755252,Liberty Energy Company Limited
+2026042704010115,LEC,74,48,30,232.2,6966.0,2026-04-27,188092318,2903,KALASH STOCK MARKET PVT. LTD.,Trishakti Securities Public Limited,2026-04-27 14:45:33.755594,Liberty Energy Company Limited
+2026042704010116,LEC,14,48,500,232.1,116050.0,2026-04-27,188092320,2903,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-27 14:45:33.755710,Liberty Energy Company Limited
+2026042704010117,LEC,58,48,120,232.0,27840.0,2026-04-27,188092321,2903,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-27 14:45:33.755830,Liberty Energy Company Limited
+2026042704010307,LEC,50,17,155,232.2,35991.0,2026-04-27,188094636,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,ABC Securities Private Limited,2026-04-27 14:47:50.002249,Liberty Energy Company Limited
+2026042704010399,LEC,58,81,205,232.0,47560.0,2026-04-27,188095642,2903,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-27 14:48:50.923098,Liberty Energy Company Limited
+2026042704010400,LEC,6,81,795,232.0,184440.0,2026-04-27,188095643,2903,Agrawal Securities (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-27 14:48:50.923655,Liberty Energy Company Limited
+2026042704010416,LEC,6,44,70,232.0,16240.0,2026-04-27,188095744,2903,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 14:48:58.050396,Liberty Energy Company Limited
+2026042704010417,LEC,28,44,1050,232.0,243600.0,2026-04-27,188095746,2903,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 14:48:58.050698,Liberty Energy Company Limited
+2026042704010518,LEC,57,44,50,232.0,11600.0,2026-04-27,188096940,2903,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 14:50:11.048390,Liberty Energy Company Limited
+2026042704010684,LEC,3,74,400,231.5,92600.0,2026-04-27,188099144,2903,Arun Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:51:58.003702,Liberty Energy Company Limited
+2026042704010704,LEC,6,34,50,231.4,11570.0,2026-04-27,188099350,2903,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:52:09.701980,Liberty Energy Company Limited
+2026042704010742,LEC,37,58,50,231.3,11565.0,2026-04-27,188099629,2903,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:52:24.716874,Liberty Energy Company Limited
+2026042704010804,LEC,37,34,10,231.3,2313.0,2026-04-27,188100190,2903,Swarna Laxmi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:52:54.848444,Liberty Energy Company Limited
+2026042704010805,LEC,50,34,70,231.2,16184.0,2026-04-27,188100191,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:52:54.848706,Liberty Energy Company Limited
+2026042704010806,LEC,50,45,251,231.2,58031.2,2026-04-27,188100228,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:52:56.151640,Liberty Energy Company Limited
+2026042704010807,LEC,72,45,305,231.0,70455.0,2026-04-27,188100230,2903,Hatemalo Financial Services Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:52:56.151906,Liberty Energy Company Limited
+2026042704010908,LEC,14,45,16,231.0,3696.0,2026-04-27,188101208,2903,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:53:41.877411,Liberty Energy Company Limited
+2026042704010938,LEC,58,74,100,230.9,23090.0,2026-04-27,188101414,2903,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:53:50.749536,Liberty Energy Company Limited
+2026042704010952,LEC,57,56,200,230.8,46160.0,2026-04-27,188101510,2903,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2026-04-27 14:53:55.933940,Liberty Energy Company Limited
+2026042704010953,LEC,48,56,300,230.8,69240.0,2026-04-27,188101511,2903,Trishakti Securities Public Limited,Sri Hari Securities Pvt. Ltd.,2026-04-27 14:53:55.934446,Liberty Energy Company Limited
+2026042704010958,LEC,48,34,200,230.8,46160.0,2026-04-27,188101572,2903,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-27 14:53:58.649758,Liberty Energy Company Limited
+2026042704010959,LEC,56,34,200,230.8,46160.0,2026-04-27,188101574,2903,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-27 14:53:58.650028,Liberty Energy Company Limited
+2026042704010960,LEC,48,34,600,230.7,138420.0,2026-04-27,188101575,2903,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-27 14:53:58.650141,Liberty Energy Company Limited
+2026042704010965,LEC,48,58,900,230.7,207630.0,2026-04-27,188101634,2903,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-27 14:54:02.135648,Liberty Energy Company Limited
+2026042704011025,LEC,35,37,685,230.5,157892.5,2026-04-27,188102158,2903,Kohinoor Investment & Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 14:54:24.728272,Liberty Energy Company Limited
+2026042704011026,LEC,34,37,500,230.5,115250.0,2026-04-27,188102160,2903,Vision Securities Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 14:54:24.728809,Liberty Energy Company Limited
+2026042704011027,LEC,38,37,30,230.5,6915.0,2026-04-27,188102162,2903,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 14:54:24.729170,Liberty Energy Company Limited
+2026042704011073,LEC,58,37,85,230.5,19592.5,2026-04-27,188102629,2903,Naasa Securities Co. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 14:54:46.502033,Liberty Energy Company Limited
+2026042704011074,LEC,58,74,115,230.5,26507.5,2026-04-27,188102632,2903,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:54:46.502344,Liberty Energy Company Limited
+2026042704011106,LEC,28,58,139,230.1,31983.9,2026-04-27,188102960,2903,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:55:03.108398,Liberty Energy Company Limited
+2026042704011107,LEC,50,58,35,230.0,8050.0,2026-04-27,188102962,2903,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:55:03.108884,Liberty Energy Company Limited
+2026042704011108,LEC,43,58,500,230.0,115000.0,2026-04-27,188102964,2903,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-27 14:55:03.109205,Liberty Energy Company Limited
+2026042704011109,LEC,11,58,20,230.0,4600.0,2026-04-27,188102966,2903,Malla & Malla Stock Broking Company Pvt. Limited,Naasa Securities Co. Ltd.,2026-04-27 14:55:03.109546,Liberty Energy Company Limited
+2026042704011110,LEC,19,58,100,230.0,23000.0,2026-04-27,188102968,2903,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-27 14:55:03.109866,Liberty Energy Company Limited
+2026042704011111,LEC,52,58,306,230.0,70380.0,2026-04-27,188102969,2903,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-27 14:55:03.110179,Liberty Energy Company Limited
+2026042704011145,LEC,52,74,194,230.0,44620.0,2026-04-27,188103342,2903,Sundhara Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:55:18.688837,Liberty Energy Company Limited
+2026042704011146,LEC,3,74,50,230.0,11500.0,2026-04-27,188103344,2903,Arun Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:55:18.689125,Liberty Energy Company Limited
+2026042704011147,LEC,58,74,500,230.0,115000.0,2026-04-27,188103346,2903,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:55:18.689235,Liberty Energy Company Limited
+2026042704011148,LEC,42,74,550,230.0,126500.0,2026-04-27,188103348,2903,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:55:18.689348,Liberty Energy Company Limited
+2026042704011149,LEC,32,74,100,230.0,23000.0,2026-04-27,188103350,2903,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:55:18.689464,Liberty Energy Company Limited
+2026042704011150,LEC,22,74,627,230.0,144210.0,2026-04-27,188103351,2903,Siprabi Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-27 14:55:18.689588,Liberty Energy Company Limited
+2026042704011169,LEC,22,17,345,230.0,79350.0,2026-04-27,188103495,2903,Siprabi Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-27 14:55:26.406532,Liberty Energy Company Limited
+2026042704011271,LEC,6,40,1000,230.1,230100.0,2026-04-27,188104313,2903,Agrawal Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-27 14:55:59.788238,Liberty Energy Company Limited
+2026042704011312,LEC,34,38,36,230.9,8312.4,2026-04-27,188104765,2903,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-27 14:56:18.439916,Liberty Energy Company Limited
+2026042704011436,LEC,6,45,428,231.0,98868.0,2026-04-27,188105523,2903,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:56:42.377100,Liberty Energy Company Limited
+2026042704011437,LEC,6,49,60,231.0,13860.0,2026-04-27,188105525,2903,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-27 14:56:42.377362,Liberty Energy Company Limited
+2026042704011438,LEC,6,45,390,231.0,90090.0,2026-04-27,188105527,2903,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-27 14:56:42.377477,Liberty Energy Company Limited
+2026042704011594,LEC,6,37,500,231.1,115550.0,2026-04-27,188106819,2903,Agrawal Securities (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-27 14:57:22.193152,Liberty Energy Company Limited
+2026042704011721,LEC,32,44,100,231.2,23120.0,2026-04-27,188107964,2903,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 14:57:57.691509,Liberty Energy Company Limited
+2026042704011722,LEC,6,44,122,231.1,28194.2,2026-04-27,188107966,2903,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 14:57:57.692003,Liberty Energy Company Limited
+2026042704011723,LEC,14,44,158,231.0,36498.0,2026-04-27,188107967,2903,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-27 14:57:57.692349,Liberty Energy Company Limited
+2026042704011757,LEC,14,83,142,231.0,32802.0,2026-04-27,188108336,2903,Nepal Stock House (PVT) Ltd.,Sanima Securities Limited,2026-04-27 14:58:10.384781,Liberty Energy Company Limited
+2026042704011758,LEC,34,83,464,230.9,107137.6,2026-04-27,188108340,2903,Vision Securities Pvt. Ltd,Sanima Securities Limited,2026-04-27 14:58:10.385066,Liberty Energy Company Limited
+2026042704011759,LEC,45,83,43,230.5,9911.5,2026-04-27,188108344,2903,Imperial Securities Company Pvt. Ltd.,Sanima Securities Limited,2026-04-27 14:58:10.385182,Liberty Energy Company Limited
+2026042704011760,LEC,56,83,100,230.1,23010.0,2026-04-27,188108348,2903,Sri Hari Securities Pvt. Ltd.,Sanima Securities Limited,2026-04-27 14:58:10.385287,Liberty Energy Company Limited
+2026042704011761,LEC,42,83,751,230.1,172805.1,2026-04-27,188108350,2903,Sani Securities Company Ltd.,Sanima Securities Limited,2026-04-27 14:58:10.385412,Liberty Energy Company Limited
+2026042704012198,LEC,41,62,500,231.0,115500.0,2026-04-27,188112244,2903,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-27 14:59:34.479520,Liberty Energy Company Limited
+2026042704012331,LEC,6,57,30,230.2,6906.0,2026-04-27,188113561,2903,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-27 14:59:51.317246,Liberty Energy Company Limited

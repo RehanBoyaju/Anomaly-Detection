@@ -1,0 +1,98 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042301004092,SBL,58,57,100,390.0,39000.0,2026-04-23,187625710,145,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:11:02.604935,Siddhartha Bank Limited
+2026042301004093,SBL,58,57,57,387.0,22059.0,2026-04-23,187625712,145,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 11:11:02.605044,Siddhartha Bank Limited
+2026042301004094,SBL,49,57,15,386.0,5790.0,2026-04-23,187625714,145,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 11:11:02.605126,Siddhartha Bank Limited
+2026042301004095,SBL,65,57,408,386.0,157488.0,2026-04-23,187625715,145,Sharepro Securities Private Limited,Aryatara Investment & Securities,2026-04-23 11:11:02.605197,Siddhartha Bank Limited
+2026042301008306,SBL,40,49,500,387.0,193500.0,2026-04-23,187637018,145,Creative Securities Pvt Ltd,Online Securities Pvt. Ltd.,2026-04-23 11:21:32.803619,Siddhartha Bank Limited
+2026042301008396,SBL,38,49,100,386.2,38620.0,2026-04-23,187637252,145,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:21:41.529904,Siddhartha Bank Limited
+2026042301008397,SBL,65,49,1592,386.0,614512.0,2026-04-23,187637254,145,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-23 11:21:41.529982,Siddhartha Bank Limited
+2026042301008398,SBL,42,49,10,386.0,3860.0,2026-04-23,187637256,145,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:21:41.530054,Siddhartha Bank Limited
+2026042301008399,SBL,47,49,48,386.0,18528.0,2026-04-23,187637258,145,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:21:41.530088,Siddhartha Bank Limited
+2026042301011993,SBL,14,49,194,386.3,74942.2,2026-04-23,187646974,145,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:29:41.750933,Siddhartha Bank Limited
+2026042301011994,SBL,20,49,1174,386.2,453398.8,2026-04-23,187646975,145,Sipla Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-23 11:29:41.751072,Siddhartha Bank Limited
+2026042301020972,SBL,6,42,735,389.5,286282.5,2026-04-23,187673409,145,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 12:00:50.954834,Siddhartha Bank Limited
+2026042301020973,SBL,6,50,100,389.9,38990.0,2026-04-23,187673411,145,Agrawal Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:00:50.955079,Siddhartha Bank Limited
+2026042301020974,SBL,6,52,10,390.0,3900.0,2026-04-23,187673413,145,Agrawal Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-23 12:00:50.955237,Siddhartha Bank Limited
+2026042301020975,SBL,6,95,155,390.0,60450.0,2026-04-23,187673416,145,Agrawal Securities (PVT) Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 12:00:50.955387,Siddhartha Bank Limited
+2026042301022821,SBL,33,29,10,386.9,3869.0,2026-04-23,187678789,145,Dakshinkali Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 12:07:14.549312,Siddhartha Bank Limited
+2026042301025522,SBL,58,29,10,388.0,3880.0,2026-04-23,187686839,145,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 12:18:45.645878,Siddhartha Bank Limited
+2026042301026385,SBL,56,29,20,387.1,7742.0,2026-04-23,187689167,145,Sri Hari Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 12:21:52.852080,Siddhartha Bank Limited
+2026042301027562,SBL,17,22,200,389.0,77800.0,2026-04-23,187692636,145,ABC Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 12:27:31.291771,Siddhartha Bank Limited
+2026042301027987,SBL,6,22,500,389.0,194500.0,2026-04-23,187693872,145,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:30:04.023359,Siddhartha Bank Limited
+2026042301028296,SBL,33,22,300,389.0,116700.0,2026-04-23,187694869,145,Dakshinkali Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:32:02.032090,Siddhartha Bank Limited
+2026042301028297,SBL,33,22,50,389.3,19465.0,2026-04-23,187694872,145,Dakshinkali Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:32:02.032349,Siddhartha Bank Limited
+2026042301029572,SBL,17,22,155,389.3,60341.5,2026-04-23,187698898,145,ABC Securities Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 12:38:03.274380,Siddhartha Bank Limited
+2026042301030185,SBL,36,44,317,389.0,123313.0,2026-04-23,187701197,145,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:42:48.307901,Siddhartha Bank Limited
+2026042301030235,SBL,36,22,1371,389.0,533319.0,2026-04-23,187701331,145,Secured Securities Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 12:43:04.051463,Siddhartha Bank Limited
+2026042301030287,SBL,33,19,55,389.2,21406.0,2026-04-23,187701554,145,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 12:43:24.578784,Siddhartha Bank Limited
+2026042301030598,SBL,4,19,10,389.2,3892.0,2026-04-23,187702412,145,Opal Securities Investment (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 12:44:29.738108,Siddhartha Bank Limited
+2026042301030698,SBL,36,52,105,389.0,40845.0,2026-04-23,187702755,145,Secured Securities Ltd.,Sundhara Securities Limited,2026-04-23 12:45:06.882308,Siddhartha Bank Limited
+2026042301031077,SBL,41,34,15,389.1,5836.5,2026-04-23,187703902,145,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:46:44.093478,Siddhartha Bank Limited
+2026042301031078,SBL,36,34,537,389.0,208893.0,2026-04-23,187703904,145,Secured Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:46:44.093633,Siddhartha Bank Limited
+2026042301031079,SBL,45,34,500,388.9,194450.0,2026-04-23,187703906,145,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:46:44.093702,Siddhartha Bank Limited
+2026042301031271,SBL,56,34,50,388.9,19445.0,2026-04-23,187704402,145,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:47:12.058885,Siddhartha Bank Limited
+2026042301031402,SBL,56,34,50,388.9,19445.0,2026-04-23,187704860,145,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:48:16.353634,Siddhartha Bank Limited
+2026042301032273,SBL,40,34,218,388.9,84780.2,2026-04-23,187707485,145,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-23 12:52:58.863157,Siddhartha Bank Limited
+2026042301032496,SBL,4,19,95,389.7,37021.5,2026-04-23,187708193,145,Opal Securities Investment (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 12:54:11.933244,Siddhartha Bank Limited
+2026042301033496,SBL,56,35,80,389.8,31184.0,2026-04-23,187711288,145,Sri Hari Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:58:35.650564,Siddhartha Bank Limited
+2026042301034753,SBL,91,35,10,389.8,3898.0,2026-04-23,187715450,145,Citizens Share Broker Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:03:21.354414,Siddhartha Bank Limited
+2026042301035082,SBL,59,35,310,389.8,120838.0,2026-04-23,187716551,145,Deevyaa Securities & Stock House Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:04:38.446299,Siddhartha Bank Limited
+2026042301035083,SBL,59,14,190,389.8,74062.0,2026-04-23,187716554,145,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-23 13:04:38.446569,Siddhartha Bank Limited
+2026042301035292,SBL,58,14,30,389.8,11694.0,2026-04-23,187717348,145,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:05:58.106920,Siddhartha Bank Limited
+2026042301037775,SBL,56,14,20,389.8,7796.0,2026-04-23,187725280,145,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:18:33.830869,Siddhartha Bank Limited
+2026042301037971,SBL,4,34,290,389.7,113013.0,2026-04-23,187725856,145,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:19:16.318565,Siddhartha Bank Limited
+2026042301039668,SBL,48,14,250,389.8,97450.0,2026-04-23,187731664,145,Trishakti Securities Public Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 13:28:44.702337,Siddhartha Bank Limited
+2026042301040590,SBL,6,17,300,389.1,116730.0,2026-04-23,187734965,145,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 13:32:53.554501,Siddhartha Bank Limited
+2026042301041182,SBL,6,22,94,389.1,36575.4,2026-04-23,187737029,145,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:36:23.771782,Siddhartha Bank Limited
+2026042301042549,SBL,34,14,10,389.8,3898.0,2026-04-23,187741897,145,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-23 13:46:41.671082,Siddhartha Bank Limited
+2026042301042550,SBL,34,50,84,389.8,32743.2,2026-04-23,187741899,145,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:46:41.671267,Siddhartha Bank Limited
+2026042301043299,SBL,34,58,15,390.0,5850.0,2026-04-23,187744276,145,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 13:51:20.832629,Siddhartha Bank Limited
+2026042301043466,SBL,13,42,500,389.8,194900.0,2026-04-23,187744822,145,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 13:52:50.722307,Siddhartha Bank Limited
+2026042301043467,SBL,6,42,106,389.1,41244.6,2026-04-23,187744824,145,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 13:52:50.722631,Siddhartha Bank Limited
+2026042301043468,SBL,13,42,54,389.1,21011.4,2026-04-23,187744825,145,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 13:52:50.722832,Siddhartha Bank Limited
+2026042301044181,SBL,6,17,10,389.2,3892.0,2026-04-23,187747271,145,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 13:58:40.650337,Siddhartha Bank Limited
+2026042301044329,SBL,6,16,60,389.2,23352.0,2026-04-23,187747829,145,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:00:02.173879,Siddhartha Bank Limited
+2026042301045517,SBL,6,50,13,389.3,5060.9,2026-04-23,187752121,145,Agrawal Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:08:04.672996,Siddhartha Bank Limited
+2026042301045701,SBL,6,25,87,389.3,33869.1,2026-04-23,187752754,145,Agrawal Securities (PVT) Ltd.,Sweta Securities Private Limited,2026-04-23 14:09:17.375318,Siddhartha Bank Limited
+2026042301045702,SBL,6,25,913,389.2,355339.6,2026-04-23,187752755,145,Agrawal Securities (PVT) Ltd.,Sweta Securities Private Limited,2026-04-23 14:09:17.375631,Siddhartha Bank Limited
+2026042301046236,SBL,58,56,110,389.8,42878.0,2026-04-23,187754830,145,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:13:10.847917,Siddhartha Bank Limited
+2026042301046468,SBL,6,14,17,389.2,6616.4,2026-04-23,187755712,145,Agrawal Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:14:56.489018,Siddhartha Bank Limited
+2026042301046469,SBL,13,14,117,389.1,45524.7,2026-04-23,187755713,145,Thrive Brokerage House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-23 14:14:56.489367,Siddhartha Bank Limited
+2026042301046875,SBL,13,25,125,389.1,48637.5,2026-04-23,187757349,145,Thrive Brokerage House Pvt. Ltd,Sweta Securities Private Limited,2026-04-23 14:17:31.322261,Siddhartha Bank Limited
+2026042301047033,SBL,6,13,70,389.7,27279.0,2026-04-23,187757865,145,Agrawal Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:18:26.824404,Siddhartha Bank Limited
+2026042301047034,SBL,6,56,890,389.8,346922.0,2026-04-23,187757867,145,Agrawal Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:18:26.824618,Siddhartha Bank Limited
+2026042301047035,SBL,6,56,1000,389.9,389900.0,2026-04-23,187757869,145,Agrawal Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:18:26.824693,Siddhartha Bank Limited
+2026042301047036,SBL,6,58,40,390.0,15600.0,2026-04-23,187757872,145,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:18:26.824798,Siddhartha Bank Limited
+2026042301047053,SBL,13,71,204,389.1,79376.4,2026-04-23,187757944,145,Thrive Brokerage House Pvt. Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-23 14:18:34.687891,Siddhartha Bank Limited
+2026042301047054,SBL,42,71,20,389.0,7780.0,2026-04-23,187757946,145,Sani Securities Company Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-23 14:18:34.688221,Siddhartha Bank Limited
+2026042301047055,SBL,58,71,200,389.0,77800.0,2026-04-23,187757948,145,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-23 14:18:34.688423,Siddhartha Bank Limited
+2026042301047093,SBL,6,71,575,389.0,223675.0,2026-04-23,187758049,145,Agrawal Securities (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-23 14:18:47.202742,Siddhartha Bank Limited
+2026042301050156,SBL,6,57,36,389.9,14036.4,2026-04-23,187769021,145,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 14:36:08.350855,Siddhartha Bank Limited
+2026042301050157,SBL,6,58,66,390.0,25740.0,2026-04-23,187769023,145,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:36:08.351193,Siddhartha Bank Limited
+2026042301050158,SBL,6,1,250,390.0,97500.0,2026-04-23,187769025,145,Agrawal Securities (PVT) Ltd.,Kumari Securities Private Limited,2026-04-23 14:36:08.351393,Siddhartha Bank Limited
+2026042301050159,SBL,6,45,73,390.3,28491.9,2026-04-23,187769028,145,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:36:08.351629,Siddhartha Bank Limited
+2026042301050730,SBL,6,42,525,390.0,204750.0,2026-04-23,187770853,145,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 14:38:14.525212,Siddhartha Bank Limited
+2026042301050873,SBL,6,50,50,390.0,19500.0,2026-04-23,187771377,145,Agrawal Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:39:04.894954,Siddhartha Bank Limited
+2026042301052443,SBL,6,10,425,390.0,165750.0,2026-04-23,187776752,145,Agrawal Securities (PVT) Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-23 14:45:35.990982,Siddhartha Bank Limited
+2026042301052444,SBL,57,10,575,390.0,224250.0,2026-04-23,187776753,145,Aryatara Investment & Securities,Pragyan Securities (PVT) Ltd.,2026-04-23 14:45:35.991345,Siddhartha Bank Limited
+2026042301053121,SBL,57,83,46,390.0,17940.0,2026-04-23,187779869,145,Aryatara Investment & Securities,Sanima Securities Limited,2026-04-23 14:48:21.434572,Siddhartha Bank Limited
+2026042301053558,SBL,6,45,137,390.3,53471.1,2026-04-23,187781793,145,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:49:35.565593,Siddhartha Bank Limited
+2026042301053564,SBL,6,48,863,390.3,336828.9,2026-04-23,187781916,145,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 14:49:38.374099,Siddhartha Bank Limited
+2026042301053565,SBL,57,48,379,390.0,147810.0,2026-04-23,187781918,145,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-23 14:49:38.374272,Siddhartha Bank Limited
+2026042301053566,SBL,58,48,20,390.0,7800.0,2026-04-23,187781920,145,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:49:38.374366,Siddhartha Bank Limited
+2026042301053679,SBL,65,48,1738,390.0,677820.0,2026-04-23,187782580,145,Sharepro Securities Private Limited,Trishakti Securities Public Limited,2026-04-23 14:50:00.530269,Siddhartha Bank Limited
+2026042301053903,SBL,20,1,250,391.0,97750.0,2026-04-23,187783407,145,Sipla Securities Private Limited,Kumari Securities Private Limited,2026-04-23 14:50:37.228050,Siddhartha Bank Limited
+2026042301053904,SBL,20,42,34,391.0,13294.0,2026-04-23,187783409,145,Sipla Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 14:50:37.228225,Siddhartha Bank Limited
+2026042301053905,SBL,20,58,55,391.0,21505.0,2026-04-23,187783411,145,Sipla Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 14:50:37.228329,Siddhartha Bank Limited
+2026042301054161,SBL,20,82,1000,391.0,391000.0,2026-04-23,187784483,145,Sipla Securities Private Limited,N.M.B. SECURITIES LIMITED,2026-04-23 14:51:21.207032,Siddhartha Bank Limited
+2026042301054238,SBL,20,56,3000,391.0,1173000.0,2026-04-23,187784843,145,Sipla Securities Private Limited,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:51:39.630938,Siddhartha Bank Limited
+2026042301054263,SBL,20,69,110,391.0,43010.0,2026-04-23,187784921,145,Sipla Securities Private Limited,INDEX SECURITIES LIMITED,2026-04-23 14:51:41.613165,Siddhartha Bank Limited
+2026042301054410,SBL,20,10,551,391.0,215441.0,2026-04-23,187785701,145,Sipla Securities Private Limited,Pragyan Securities (PVT) Ltd.,2026-04-23 14:52:14.316798,Siddhartha Bank Limited
+2026042301055735,SBL,17,41,10,389.0,3890.0,2026-04-23,187791429,145,ABC Securities Private Limited,Linch Stock Market Ltd.,2026-04-23 14:56:01.869275,Siddhartha Bank Limited
+2026042301055975,SBL,57,43,3,380.0,1140.0,2026-04-23,187792393,145,Aryatara Investment & Securities,South Asian Bulls Pvt. Ltd.,2026-04-23 14:56:36.499869,Siddhartha Bank Limited
+2026042301056981,SBL,20,40,350,390.9,136815.0,2026-04-23,187796631,145,Sipla Securities Private Limited,Creative Securities Pvt Ltd,2026-04-23 14:58:30.352362,Siddhartha Bank Limited
+2026042301056982,SBL,20,10,449,391.0,175559.0,2026-04-23,187796633,145,Sipla Securities Private Limited,Pragyan Securities (PVT) Ltd.,2026-04-23 14:58:30.352504,Siddhartha Bank Limited
+2026042301056983,SBL,20,10,1000,391.0,391000.0,2026-04-23,187796635,145,Sipla Securities Private Limited,Pragyan Securities (PVT) Ltd.,2026-04-23 14:58:30.352580,Siddhartha Bank Limited
+2026042301056984,SBL,20,38,50,391.0,19550.0,2026-04-23,187796637,145,Sipla Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:58:30.352652,Siddhartha Bank Limited
+2026042301056985,SBL,20,40,880,391.0,344080.0,2026-04-23,187796639,145,Sipla Securities Private Limited,Creative Securities Pvt Ltd,2026-04-23 14:58:30.352723,Siddhartha Bank Limited
+2026042301057508,SBL,20,68,270,391.0,105570.0,2026-04-23,187798459,145,Sipla Securities Private Limited,Elite Stock House Limited,2026-04-23 14:59:07.207657,Siddhartha Bank Limited

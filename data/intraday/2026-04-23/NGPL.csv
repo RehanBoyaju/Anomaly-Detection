@@ -1,0 +1,535 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042304000084,NGPL,6,32,20,456.0,9120.0,2026-04-23,187618311,2743,Agrawal Securities (PVT) Ltd.,Premier Securities Company Ltd.,2026-04-23 11:03:38.636022,Ngadi Group Power Ltd.
+2026042304000085,NGPL,6,74,980,456.6,447468.0,2026-04-23,187618314,2743,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-23 11:03:38.636234,Ngadi Group Power Ltd.
+2026042304000116,NGPL,34,45,50,450.5,22525.0,2026-04-23,187618902,2743,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:04:24.676568,Ngadi Group Power Ltd.
+2026042304000117,NGPL,78,45,200,450.1,90020.0,2026-04-23,187618904,2743,Garima Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:04:24.676681,Ngadi Group Power Ltd.
+2026042304000118,NGPL,75,45,550,450.1,247555.0,2026-04-23,187618905,2743,N.I.M.B. Stock Markets Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:04:24.676746,Ngadi Group Power Ltd.
+2026042304000144,NGPL,93,39,10,455.9,4559.0,2026-04-23,187619256,2743,Beni Securities Pvt.Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 11:04:48.874661,Ngadi Group Power Ltd.
+2026042304000207,NGPL,14,39,300,454.8,136440.0,2026-04-23,187620376,2743,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 11:05:52.631566,Ngadi Group Power Ltd.
+2026042304000220,NGPL,75,38,450,450.1,202545.0,2026-04-23,187620456,2743,N.I.M.B. Stock Markets Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:05:58.923818,Ngadi Group Power Ltd.
+2026042304000221,NGPL,58,38,15,450.1,6751.5,2026-04-23,187620458,2743,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:05:58.924072,Ngadi Group Power Ltd.
+2026042304000222,NGPL,75,38,535,450.0,240750.0,2026-04-23,187620459,2743,N.I.M.B. Stock Markets Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:05:58.924226,Ngadi Group Power Ltd.
+2026042304000252,NGPL,75,60,464,450.0,208800.0,2026-04-23,187621024,2743,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-23 11:06:26.569075,Ngadi Group Power Ltd.
+2026042304000253,NGPL,75,60,1000,450.0,450000.0,2026-04-23,187621026,2743,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-23 11:06:26.569207,Ngadi Group Power Ltd.
+2026042304000254,NGPL,36,60,500,450.0,225000.0,2026-04-23,187621028,2743,Secured Securities Ltd.,Nagarik Stock Dealer ,2026-04-23 11:06:26.569258,Ngadi Group Power Ltd.
+2026042304000255,NGPL,58,60,500,450.0,225000.0,2026-04-23,187621030,2743,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-23 11:06:26.569356,Ngadi Group Power Ltd.
+2026042304000256,NGPL,34,60,500,449.0,224500.0,2026-04-23,187621032,2743,Vision Securities Pvt. Ltd,Nagarik Stock Dealer ,2026-04-23 11:06:26.569408,Ngadi Group Power Ltd.
+2026042304000257,NGPL,75,60,1000,449.0,449000.0,2026-04-23,187621034,2743,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-23 11:06:26.569456,Ngadi Group Power Ltd.
+2026042304000258,NGPL,75,60,99,448.0,44352.0,2026-04-23,187621036,2743,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-23 11:06:26.569505,Ngadi Group Power Ltd.
+2026042304000259,NGPL,94,60,200,448.0,89600.0,2026-04-23,187621038,2743,K.B.L. Securities Limited ,Nagarik Stock Dealer ,2026-04-23 11:06:26.569555,Ngadi Group Power Ltd.
+2026042304000260,NGPL,75,60,1000,448.0,448000.0,2026-04-23,187621040,2743,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-23 11:06:26.569602,Ngadi Group Power Ltd.
+2026042304000261,NGPL,41,60,100,448.0,44800.0,2026-04-23,187621042,2743,Linch Stock Market Ltd.,Nagarik Stock Dealer ,2026-04-23 11:06:26.569649,Ngadi Group Power Ltd.
+2026042304000262,NGPL,38,60,180,448.0,80640.0,2026-04-23,187621044,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nagarik Stock Dealer ,2026-04-23 11:06:26.569694,Ngadi Group Power Ltd.
+2026042304000290,NGPL,74,21,200,450.2,90040.0,2026-04-23,187621337,2743,KALASH STOCK MARKET PVT. LTD.,Midas Stock Broking Company Private Limited,2026-04-23 11:06:44.108636,Ngadi Group Power Ltd.
+2026042304000296,NGPL,93,86,10,454.0,4540.0,2026-04-23,187621414,2743,Beni Securities Pvt.Ltd.,Stoxkarts Securities Limited,2026-04-23 11:06:50.618391,Ngadi Group Power Ltd.
+2026042304000422,NGPL,45,86,20,452.0,9040.0,2026-04-23,187623430,2743,Imperial Securities Company Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-23 11:08:38.839453,Ngadi Group Power Ltd.
+2026042304000434,NGPL,34,38,500,450.0,225000.0,2026-04-23,187623570,2743,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:08:52.546848,Ngadi Group Power Ltd.
+2026042304000455,NGPL,45,38,10,450.0,4500.0,2026-04-23,187623968,2743,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:09:22.571436,Ngadi Group Power Ltd.
+2026042304000480,NGPL,34,8,15,448.4,6726.0,2026-04-23,187624644,2743,Vision Securities Pvt. Ltd,Brilliant Securities Pvt. Ltd.,2026-04-23 11:09:56.006084,Ngadi Group Power Ltd.
+2026042304000481,NGPL,42,8,50,448.0,22400.0,2026-04-23,187624646,2743,Sani Securities Company Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 11:09:56.006261,Ngadi Group Power Ltd.
+2026042304000482,NGPL,74,8,15,447.0,6705.0,2026-04-23,187624648,2743,KALASH STOCK MARKET PVT. LTD.,Brilliant Securities Pvt. Ltd.,2026-04-23 11:09:56.006330,Ngadi Group Power Ltd.
+2026042304000483,NGPL,60,8,420,446.1,187362.0,2026-04-23,187624649,2743,Nagarik Stock Dealer ,Brilliant Securities Pvt. Ltd.,2026-04-23 11:09:56.006391,Ngadi Group Power Ltd.
+2026042304000650,NGPL,91,62,2800,446.7,1250760.0,2026-04-23,187627753,2743,Citizens Share Broker Limited,Capital Max Securities Ltd,2026-04-23 11:13:16.767640,Ngadi Group Power Ltd.
+2026042304000659,NGPL,91,46,85,446.7,37969.5,2026-04-23,187627917,2743,Citizens Share Broker Limited,Kalika Securities Pvt. Ltd.,2026-04-23 11:13:27.073854,Ngadi Group Power Ltd.
+2026042304000675,NGPL,91,86,470,446.7,209949.0,2026-04-23,187628547,2743,Citizens Share Broker Limited,Stoxkarts Securities Limited,2026-04-23 11:14:01.030627,Ngadi Group Power Ltd.
+2026042304000686,NGPL,91,86,1000,446.7,446700.0,2026-04-23,187628761,2743,Citizens Share Broker Limited,Stoxkarts Securities Limited,2026-04-23 11:14:16.311412,Ngadi Group Power Ltd.
+2026042304000908,NGPL,74,36,33,447.1,14754.3,2026-04-23,187633607,2743,KALASH STOCK MARKET PVT. LTD.,Secured Securities Ltd.,2026-04-23 11:18:32.159233,Ngadi Group Power Ltd.
+2026042304000918,NGPL,74,7,67,447.1,29955.7,2026-04-23,187633908,2743,KALASH STOCK MARKET PVT. LTD.,J.F. Securites (PVT) Ltd.,2026-04-23 11:18:48.760661,Ngadi Group Power Ltd.
+2026042304000919,NGPL,53,7,73,447.0,32631.0,2026-04-23,187633909,2743,Investment Management Nepal Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 11:18:48.761058,Ngadi Group Power Ltd.
+2026042304000937,NGPL,53,42,10,447.0,4470.0,2026-04-23,187634567,2743,Investment Management Nepal Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:19:23.548942,Ngadi Group Power Ltd.
+2026042304001030,NGPL,53,52,117,447.0,52299.0,2026-04-23,187636408,2743,Investment Management Nepal Pvt. Ltd.,Sundhara Securities Limited,2026-04-23 11:21:11.235585,Ngadi Group Power Ltd.
+2026042304001031,NGPL,54,52,83,447.0,37101.0,2026-04-23,187636409,2743,Sewa Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-23 11:21:11.235838,Ngadi Group Power Ltd.
+2026042304001210,NGPL,45,39,15,448.9,6733.5,2026-04-23,187639366,2743,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 11:23:27.393372,Ngadi Group Power Ltd.
+2026042304001229,NGPL,4,48,50,447.1,22355.0,2026-04-23,187639788,2743,Opal Securities Investment (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 11:23:54.406498,Ngadi Group Power Ltd.
+2026042304001230,NGPL,54,48,17,447.0,7599.0,2026-04-23,187639792,2743,Sewa Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 11:23:54.406579,Ngadi Group Power Ltd.
+2026042304001231,NGPL,21,48,19,447.0,8493.0,2026-04-23,187639794,2743,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-23 11:23:54.406606,Ngadi Group Power Ltd.
+2026042304001232,NGPL,35,48,20,446.8,8936.0,2026-04-23,187639796,2743,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 11:23:54.406631,Ngadi Group Power Ltd.
+2026042304001233,NGPL,91,48,645,446.7,288121.5,2026-04-23,187639798,2743,Citizens Share Broker Limited,Trishakti Securities Public Limited,2026-04-23 11:23:54.406657,Ngadi Group Power Ltd.
+2026042304001234,NGPL,54,48,200,446.6,89320.0,2026-04-23,187639800,2743,Sewa Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 11:23:54.406682,Ngadi Group Power Ltd.
+2026042304001235,NGPL,60,48,80,446.3,35704.0,2026-04-23,187639802,2743,Nagarik Stock Dealer ,Trishakti Securities Public Limited,2026-04-23 11:23:54.406704,Ngadi Group Power Ltd.
+2026042304001236,NGPL,75,48,19,446.0,8474.0,2026-04-23,187639803,2743,N.I.M.B. Stock Markets Limited,Trishakti Securities Public Limited,2026-04-23 11:23:54.406726,Ngadi Group Power Ltd.
+2026042304001415,NGPL,33,39,50,447.0,22350.0,2026-04-23,187643590,2743,Dakshinkali Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 11:27:11.977019,Ngadi Group Power Ltd.
+2026042304001442,NGPL,78,39,500,448.7,224350.0,2026-04-23,187644350,2743,Garima Securities Limited,Sumeru Securities Pvt. Ltd.,2026-04-23 11:27:43.172806,Ngadi Group Power Ltd.
+2026042304001448,NGPL,36,19,20,447.0,8940.0,2026-04-23,187644684,2743,Secured Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:27:56.754226,Ngadi Group Power Ltd.
+2026042304001449,NGPL,58,19,125,446.2,55775.0,2026-04-23,187644686,2743,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:27:56.754380,Ngadi Group Power Ltd.
+2026042304001450,NGPL,4,19,50,446.1,22305.0,2026-04-23,187644688,2743,Opal Securities Investment (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:27:56.754459,Ngadi Group Power Ltd.
+2026042304001451,NGPL,75,19,80,446.0,35680.0,2026-04-23,187644690,2743,N.I.M.B. Stock Markets Limited,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:27:56.754533,Ngadi Group Power Ltd.
+2026042304001452,NGPL,8,19,100,446.0,44600.0,2026-04-23,187644692,2743,Brilliant Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:27:56.754611,Ngadi Group Power Ltd.
+2026042304001453,NGPL,46,19,175,446.0,78050.0,2026-04-23,187644693,2743,Kalika Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 11:27:56.754689,Ngadi Group Power Ltd.
+2026042304001461,NGPL,46,92,825,446.0,367950.0,2026-04-23,187644972,2743,Kalika Securities Pvt. Ltd.,Roadshow securities limited,2026-04-23 11:28:07.930394,Ngadi Group Power Ltd.
+2026042304001462,NGPL,46,92,175,446.0,78050.0,2026-04-23,187644973,2743,Kalika Securities Pvt. Ltd.,Roadshow securities limited,2026-04-23 11:28:07.930657,Ngadi Group Power Ltd.
+2026042304001473,NGPL,78,39,125,448.7,56087.5,2026-04-23,187645091,2743,Garima Securities Limited,Sumeru Securities Pvt. Ltd.,2026-04-23 11:28:16.674757,Ngadi Group Power Ltd.
+2026042304001495,NGPL,78,32,11,448.7,4935.7,2026-04-23,187645691,2743,Garima Securities Limited,Premier Securities Company Ltd.,2026-04-23 11:28:41.054466,Ngadi Group Power Ltd.
+2026042304001509,NGPL,78,92,364,448.7,163326.8,2026-04-23,187646110,2743,Garima Securities Limited,Roadshow securities limited,2026-04-23 11:28:57.050809,Ngadi Group Power Ltd.
+2026042304001519,NGPL,78,92,136,448.7,61023.2,2026-04-23,187646255,2743,Garima Securities Limited,Roadshow securities limited,2026-04-23 11:29:03.355133,Ngadi Group Power Ltd.
+2026042304001520,NGPL,78,32,10,448.7,4487.0,2026-04-23,187646257,2743,Garima Securities Limited,Premier Securities Company Ltd.,2026-04-23 11:29:03.355388,Ngadi Group Power Ltd.
+2026042304001521,NGPL,78,5,354,448.8,158875.2,2026-04-23,187646260,2743,Garima Securities Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-23 11:29:03.355481,Ngadi Group Power Ltd.
+2026042304001523,NGPL,46,59,425,446.0,189550.0,2026-04-23,187646318,2743,Kalika Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:29:07.178942,Ngadi Group Power Ltd.
+2026042304001524,NGPL,26,59,200,446.0,89200.0,2026-04-23,187646320,2743,Asian Securities Private Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:29:07.179200,Ngadi Group Power Ltd.
+2026042304001525,NGPL,16,59,950,446.0,423700.0,2026-04-23,187646322,2743,Primo Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:29:07.179293,Ngadi Group Power Ltd.
+2026042304001554,NGPL,78,59,298,446.0,132908.0,2026-04-23,187646733,2743,Garima Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:29:24.290178,Ngadi Group Power Ltd.
+2026042304001589,NGPL,78,47,200,446.0,89200.0,2026-04-23,187647705,2743,Garima Securities Limited,Neev Securities Pvt. Ltd.,2026-04-23 11:30:31.148497,Ngadi Group Power Ltd.
+2026042304001590,NGPL,44,49,217,445.3,96630.1,2026-04-23,187647737,2743,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 11:30:33.578235,Ngadi Group Power Ltd.
+2026042304001625,NGPL,44,34,783,445.3,348669.9,2026-04-23,187648246,2743,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:30:58.711222,Ngadi Group Power Ltd.
+2026042304001626,NGPL,42,34,264,445.3,117559.2,2026-04-23,187648247,2743,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:30:58.711703,Ngadi Group Power Ltd.
+2026042304001841,NGPL,19,32,10,448.7,4487.0,2026-04-23,187652797,2743,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,2026-04-23 11:35:32.965969,Ngadi Group Power Ltd.
+2026042304001842,NGPL,19,44,40,448.7,17948.0,2026-04-23,187652800,2743,Nepal Investment And Securities Trading Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:35:32.966466,Ngadi Group Power Ltd.
+2026042304001923,NGPL,34,34,1,446.0,446.0,2026-04-23,187654855,2743,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:37:55.558752,Ngadi Group Power Ltd.
+2026042304002032,NGPL,11,66,15,448.6,6729.0,2026-04-23,187656976,2743,Malla & Malla Stock Broking Company Pvt. Limited,Miyo Securities Pvt Ltd,2026-04-23 11:40:36.989563,Ngadi Group Power Ltd.
+2026042304002248,NGPL,11,66,15,448.6,6729.0,2026-04-23,187659872,2743,Malla & Malla Stock Broking Company Pvt. Limited,Miyo Securities Pvt Ltd,2026-04-23 11:44:11.077089,Ngadi Group Power Ltd.
+2026042304002332,NGPL,1,28,100,448.0,44800.0,2026-04-23,187660921,2743,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-23 11:45:34.569212,Ngadi Group Power Ltd.
+2026042304002513,NGPL,5,63,10,447.0,4470.0,2026-04-23,187663504,2743,Market Securities & Exchange (PVT) Ltd.,Himalayan Brokerage Company Limited,2026-04-23 11:48:45.304797,Ngadi Group Power Ltd.
+2026042304002514,NGPL,42,63,100,446.9,44690.0,2026-04-23,187663506,2743,Sani Securities Company Ltd.,Himalayan Brokerage Company Limited,2026-04-23 11:48:45.304899,Ngadi Group Power Ltd.
+2026042304002515,NGPL,52,63,100,446.5,44650.0,2026-04-23,187663508,2743,Sundhara Securities Limited,Himalayan Brokerage Company Limited,2026-04-23 11:48:45.304988,Ngadi Group Power Ltd.
+2026042304002516,NGPL,58,63,10,446.2,4462.0,2026-04-23,187663510,2743,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-23 11:48:45.305070,Ngadi Group Power Ltd.
+2026042304002517,NGPL,91,63,477,446.2,212837.4,2026-04-23,187663511,2743,Citizens Share Broker Limited,Himalayan Brokerage Company Limited,2026-04-23 11:48:45.305145,Ngadi Group Power Ltd.
+2026042304002585,NGPL,91,40,23,446.2,10262.6,2026-04-23,187664408,2743,Citizens Share Broker Limited,Creative Securities Pvt Ltd,2026-04-23 11:50:02.225633,Ngadi Group Power Ltd.
+2026042304002586,NGPL,4,40,100,446.2,44620.0,2026-04-23,187664410,2743,Opal Securities Investment (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-23 11:50:02.225974,Ngadi Group Power Ltd.
+2026042304002587,NGPL,42,40,377,446.1,168179.7,2026-04-23,187664411,2743,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-23 11:50:02.226096,Ngadi Group Power Ltd.
+2026042304002660,NGPL,42,14,359,446.1,160149.9,2026-04-23,187665630,2743,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:51:21.893549,Ngadi Group Power Ltd.
+2026042304002672,NGPL,58,34,200,446.0,89200.0,2026-04-23,187665832,2743,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:51:40.855934,Ngadi Group Power Ltd.
+2026042304002673,NGPL,82,34,50,446.0,22300.0,2026-04-23,187665834,2743,N.M.B. SECURITIES LIMITED,Vision Securities Pvt. Ltd,2026-04-23 11:51:40.856543,Ngadi Group Power Ltd.
+2026042304002674,NGPL,84,34,850,446.0,379100.0,2026-04-23,187665835,2743,MILKY WAY SHARE BROKER COMPANY LTD ,Vision Securities Pvt. Ltd,2026-04-23 11:51:40.856933,Ngadi Group Power Ltd.
+2026042304002686,NGPL,84,14,150,446.0,66900.0,2026-04-23,187665970,2743,MILKY WAY SHARE BROKER COMPANY LTD ,Nepal Stock House (PVT) Ltd.,2026-04-23 11:51:51.615152,Ngadi Group Power Ltd.
+2026042304002687,NGPL,64,14,491,446.0,218986.0,2026-04-23,187665971,2743,SUN SECURITIES PVT LTD,Nepal Stock House (PVT) Ltd.,2026-04-23 11:51:51.615705,Ngadi Group Power Ltd.
+2026042304002755,NGPL,34,57,500,446.1,223050.0,2026-04-23,187666627,2743,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 11:52:45.082270,Ngadi Group Power Ltd.
+2026042304002880,NGPL,57,45,25,446.5,11162.5,2026-04-23,187668546,2743,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:55:15.038430,Ngadi Group Power Ltd.
+2026042304002923,NGPL,53,58,100,446.0,44600.0,2026-04-23,187669419,2743,Investment Management Nepal Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.248147,Ngadi Group Power Ltd.
+2026042304002924,NGPL,17,58,300,445.6,133680.0,2026-04-23,187669421,2743,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.248766,Ngadi Group Power Ltd.
+2026042304002925,NGPL,43,58,50,445.5,22275.0,2026-04-23,187669423,2743,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.249129,Ngadi Group Power Ltd.
+2026042304002926,NGPL,7,58,224,445.4,99769.6,2026-04-23,187669425,2743,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.249493,Ngadi Group Power Ltd.
+2026042304002927,NGPL,32,58,40,445.3,17812.0,2026-04-23,187669427,2743,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.249841,Ngadi Group Power Ltd.
+2026042304002928,NGPL,91,58,5000,445.2,2226000.0,2026-04-23,187669429,2743,Citizens Share Broker Limited,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.250194,Ngadi Group Power Ltd.
+2026042304002929,NGPL,93,58,500,445.1,222550.0,2026-04-23,187669431,2743,Beni Securities Pvt.Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.250546,Ngadi Group Power Ltd.
+2026042304002930,NGPL,42,58,200,445.0,89000.0,2026-04-23,187669433,2743,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.250906,Ngadi Group Power Ltd.
+2026042304002931,NGPL,75,58,33,445.0,14685.0,2026-04-23,187669435,2743,N.I.M.B. Stock Markets Limited,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.251252,Ngadi Group Power Ltd.
+2026042304002932,NGPL,49,58,800,445.0,356000.0,2026-04-23,187669437,2743,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.251600,Ngadi Group Power Ltd.
+2026042304002933,NGPL,29,58,300,445.0,133500.0,2026-04-23,187669439,2743,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.251947,Ngadi Group Power Ltd.
+2026042304002934,NGPL,64,58,17,445.0,7565.0,2026-04-23,187669441,2743,SUN SECURITIES PVT LTD,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.252288,Ngadi Group Power Ltd.
+2026042304002935,NGPL,38,58,100,445.0,44500.0,2026-04-23,187669443,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.252658,Ngadi Group Power Ltd.
+2026042304002936,NGPL,48,58,100,445.0,44500.0,2026-04-23,187669445,2743,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.252999,Ngadi Group Power Ltd.
+2026042304002937,NGPL,5,58,10,445.0,4450.0,2026-04-23,187669447,2743,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.253354,Ngadi Group Power Ltd.
+2026042304002938,NGPL,57,58,300,445.0,133500.0,2026-04-23,187669449,2743,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-23 11:56:18.253690,Ngadi Group Power Ltd.
+2026042304002943,NGPL,42,58,10,445.0,4450.0,2026-04-23,187669508,2743,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:56:22.298987,Ngadi Group Power Ltd.
+2026042304002972,NGPL,59,59,3,431.7,1295.1,2026-04-23,187669941,2743,Deevyaa Securities & Stock House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:56:55.285638,Ngadi Group Power Ltd.
+2026042304002997,NGPL,75,25,99,444.0,43956.0,2026-04-23,187670266,2743,N.I.M.B. Stock Markets Limited,Sweta Securities Private Limited,2026-04-23 11:57:14.202160,Ngadi Group Power Ltd.
+2026042304002998,NGPL,48,25,500,444.0,222000.0,2026-04-23,187670268,2743,Trishakti Securities Public Limited,Sweta Securities Private Limited,2026-04-23 11:57:14.202482,Ngadi Group Power Ltd.
+2026042304002999,NGPL,75,25,33,443.0,14619.0,2026-04-23,187670270,2743,N.I.M.B. Stock Markets Limited,Sweta Securities Private Limited,2026-04-23 11:57:14.202600,Ngadi Group Power Ltd.
+2026042304003000,NGPL,1,25,500,443.0,221500.0,2026-04-23,187670272,2743,Kumari Securities Private Limited,Sweta Securities Private Limited,2026-04-23 11:57:14.202716,Ngadi Group Power Ltd.
+2026042304003001,NGPL,58,25,368,442.7,162913.6,2026-04-23,187670273,2743,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 11:57:14.202829,Ngadi Group Power Ltd.
+2026042304003005,NGPL,33,58,2300,445.0,1023500.0,2026-04-23,187670460,2743,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:57:19.730804,Ngadi Group Power Ltd.
+2026042304003207,NGPL,34,62,1000,443.1,443100.0,2026-04-23,187673009,2743,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-23 12:00:20.332540,Ngadi Group Power Ltd.
+2026042304003244,NGPL,59,59,7,429.9,3009.3,2026-04-23,187673525,2743,Deevyaa Securities & Stock House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 12:01:03.188835,Ngadi Group Power Ltd.
+2026042304003283,NGPL,29,36,22,443.1,9748.2,2026-04-23,187674335,2743,Trisul Securities & Invt. Ltd.,Secured Securities Ltd.,2026-04-23 12:01:52.625482,Ngadi Group Power Ltd.
+2026042304003366,NGPL,53,77,55,443.3,24381.5,2026-04-23,187676292,2743,Investment Management Nepal Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:04:27.397221,Ngadi Group Power Ltd.
+2026042304003367,NGPL,59,77,1000,443.2,443200.0,2026-04-23,187676294,2743,Deevyaa Securities & Stock House Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:04:27.397598,Ngadi Group Power Ltd.
+2026042304003368,NGPL,29,77,278,443.1,123181.8,2026-04-23,187676296,2743,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:04:27.397730,Ngadi Group Power Ltd.
+2026042304003369,NGPL,91,77,2667,443.0,1181481.0,2026-04-23,187676297,2743,Citizens Share Broker Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:04:27.397850,Ngadi Group Power Ltd.
+2026042304003451,NGPL,43,41,15,443.4,6651.0,2026-04-23,187677861,2743,South Asian Bulls Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 12:06:06.050851,Ngadi Group Power Ltd.
+2026042304003519,NGPL,4,44,81,444.8,36028.8,2026-04-23,187678433,2743,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:06:47.220426,Ngadi Group Power Ltd.
+2026042304003520,NGPL,4,35,919,444.9,408863.1,2026-04-23,187678436,2743,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:06:47.220718,Ngadi Group Power Ltd.
+2026042304003542,NGPL,91,35,81,444.9,36036.9,2026-04-23,187678681,2743,Citizens Share Broker Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:07:04.993233,Ngadi Group Power Ltd.
+2026042304003543,NGPL,91,58,91,445.0,40495.0,2026-04-23,187678683,2743,Citizens Share Broker Limited,Naasa Securities Co. Ltd.,2026-04-23 12:07:04.993908,Ngadi Group Power Ltd.
+2026042304003615,NGPL,91,35,1000,445.0,445000.0,2026-04-23,187680399,2743,Citizens Share Broker Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:09:12.985557,Ngadi Group Power Ltd.
+2026042304003688,NGPL,34,46,20,446.0,8920.0,2026-04-23,187681396,2743,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,2026-04-23 12:10:57.901435,Ngadi Group Power Ltd.
+2026042304003725,NGPL,58,46,21,446.0,9366.0,2026-04-23,187681741,2743,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 12:11:32.308831,Ngadi Group Power Ltd.
+2026042304003776,NGPL,69,62,300,447.9,134370.0,2026-04-23,187682331,2743,INDEX SECURITIES LIMITED,Capital Max Securities Ltd,2026-04-23 12:12:26.864982,Ngadi Group Power Ltd.
+2026042304003777,NGPL,69,46,500,448.0,224000.0,2026-04-23,187682333,2743,INDEX SECURITIES LIMITED,Kalika Securities Pvt. Ltd.,2026-04-23 12:12:26.865080,Ngadi Group Power Ltd.
+2026042304003778,NGPL,69,6,510,448.0,228480.0,2026-04-23,187682336,2743,INDEX SECURITIES LIMITED,Agrawal Securities (PVT) Ltd.,2026-04-23 12:12:26.865170,Ngadi Group Power Ltd.
+2026042304003807,NGPL,58,66,29,447.0,12963.0,2026-04-23,187682750,2743,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-23 12:12:49.720613,Ngadi Group Power Ltd.
+2026042304003848,NGPL,32,16,1000,446.1,446100.0,2026-04-23,187683874,2743,Premier Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:14:04.899135,Ngadi Group Power Ltd.
+2026042304003849,NGPL,66,16,414,446.1,184685.4,2026-04-23,187683875,2743,Miyo Securities Pvt Ltd,Primo Securities (PVT) Ltd.,2026-04-23 12:14:04.899789,Ngadi Group Power Ltd.
+2026042304003857,NGPL,83,70,200,446.9,89380.0,2026-04-23,187684011,2743,Sanima Securities Limited,Infinity Securities Limited,2026-04-23 12:14:17.497213,Ngadi Group Power Ltd.
+2026042304003858,NGPL,83,70,500,446.9,223450.0,2026-04-23,187684013,2743,Sanima Securities Limited,Infinity Securities Limited,2026-04-23 12:14:17.497331,Ngadi Group Power Ltd.
+2026042304003859,NGPL,83,66,236,447.0,105492.0,2026-04-23,187684015,2743,Sanima Securities Limited,Miyo Securities Pvt Ltd,2026-04-23 12:14:17.497447,Ngadi Group Power Ltd.
+2026042304003860,NGPL,83,70,464,447.0,207408.0,2026-04-23,187684018,2743,Sanima Securities Limited,Infinity Securities Limited,2026-04-23 12:14:17.497535,Ngadi Group Power Ltd.
+2026042304003866,NGPL,36,70,17,446.5,7590.5,2026-04-23,187684064,2743,Secured Securities Ltd.,Infinity Securities Limited,2026-04-23 12:14:22.624432,Ngadi Group Power Ltd.
+2026042304003869,NGPL,3,70,483,446.5,215659.5,2026-04-23,187684103,2743,Arun Securities (PVT) Ltd.,Infinity Securities Limited,2026-04-23 12:14:29.569266,Ngadi Group Power Ltd.
+2026042304003870,NGPL,3,70,36,447.0,16092.0,2026-04-23,187684105,2743,Arun Securities (PVT) Ltd.,Infinity Securities Limited,2026-04-23 12:14:29.569595,Ngadi Group Power Ltd.
+2026042304003871,NGPL,3,17,481,447.0,215007.0,2026-04-23,187684108,2743,Arun Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 12:14:29.569733,Ngadi Group Power Ltd.
+2026042304003905,NGPL,50,17,19,447.0,8493.0,2026-04-23,187684809,2743,Cristal Kanchanjanga Securites Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 12:15:50.692413,Ngadi Group Power Ltd.
+2026042304003906,NGPL,50,70,204,447.0,91188.0,2026-04-23,187684812,2743,Cristal Kanchanjanga Securites Pvt. Ltd.,Infinity Securities Limited,2026-04-23 12:15:50.692754,Ngadi Group Power Ltd.
+2026042304004078,NGPL,38,70,240,447.0,107280.0,2026-04-23,187686628,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Infinity Securities Limited,2026-04-23 12:18:27.207094,Ngadi Group Power Ltd.
+2026042304004121,NGPL,75,70,500,447.8,223900.0,2026-04-23,187687663,2743,N.I.M.B. Stock Markets Limited,Infinity Securities Limited,2026-04-23 12:19:39.837824,Ngadi Group Power Ltd.
+2026042304004122,NGPL,75,70,500,447.9,223950.0,2026-04-23,187687666,2743,N.I.M.B. Stock Markets Limited,Infinity Securities Limited,2026-04-23 12:19:39.838473,Ngadi Group Power Ltd.
+2026042304004162,NGPL,38,6,45,448.0,20160.0,2026-04-23,187688364,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 12:20:46.151114,Ngadi Group Power Ltd.
+2026042304004176,NGPL,75,62,1000,447.9,447900.0,2026-04-23,187688898,2743,N.I.M.B. Stock Markets Limited,Capital Max Securities Ltd,2026-04-23 12:21:32.437861,Ngadi Group Power Ltd.
+2026042304004241,NGPL,26,4,3,435.0,1305.0,2026-04-23,187689909,2743,Asian Securities Private Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 12:22:53.320638,Ngadi Group Power Ltd.
+2026042304004244,NGPL,26,4,3,435.0,1305.0,2026-04-23,187689947,2743,Asian Securities Private Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 12:23:00.311228,Ngadi Group Power Ltd.
+2026042304004254,NGPL,26,4,1,435.0,435.0,2026-04-23,187690027,2743,Asian Securities Private Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 12:23:06.300320,Ngadi Group Power Ltd.
+2026042304004318,NGPL,66,60,200,446.1,89220.0,2026-04-23,187691099,2743,Miyo Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-23 12:25:03.760172,Ngadi Group Power Ltd.
+2026042304004326,NGPL,66,60,40,446.1,17844.0,2026-04-23,187691317,2743,Miyo Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-23 12:25:25.722855,Ngadi Group Power Ltd.
+2026042304004346,NGPL,50,34,50,446.2,22310.0,2026-04-23,187691755,2743,Cristal Kanchanjanga Securites Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:26:18.137341,Ngadi Group Power Ltd.
+2026042304004603,NGPL,34,44,200,447.5,89500.0,2026-04-23,187695759,2743,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:33:45.481072,Ngadi Group Power Ltd.
+2026042304004640,NGPL,39,44,200,447.8,89560.0,2026-04-23,187696644,2743,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:35:00.904636,Ngadi Group Power Ltd.
+2026042304004644,NGPL,34,57,300,447.5,134250.0,2026-04-23,187696696,2743,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 12:35:06.850682,Ngadi Group Power Ltd.
+2026042304004645,NGPL,26,57,100,447.0,44700.0,2026-04-23,187696698,2743,Asian Securities Private Ltd.,Aryatara Investment & Securities,2026-04-23 12:35:06.851074,Ngadi Group Power Ltd.
+2026042304004661,NGPL,34,57,500,447.0,223500.0,2026-04-23,187696812,2743,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 12:35:20.528972,Ngadi Group Power Ltd.
+2026042304004670,NGPL,56,57,32,447.0,14304.0,2026-04-23,187697134,2743,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 12:35:40.487930,Ngadi Group Power Ltd.
+2026042304004733,NGPL,14,57,50,447.0,22350.0,2026-04-23,187698068,2743,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 12:36:51.685035,Ngadi Group Power Ltd.
+2026042304004734,NGPL,42,57,18,447.0,8046.0,2026-04-23,187698079,2743,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-23 12:36:52.570913,Ngadi Group Power Ltd.
+2026042304004735,NGPL,42,70,482,447.9,215887.8,2026-04-23,187698082,2743,Sani Securities Company Ltd.,Infinity Securities Limited,2026-04-23 12:36:52.571659,Ngadi Group Power Ltd.
+2026042304004835,NGPL,34,6,945,448.0,423360.0,2026-04-23,187699485,2743,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-23 12:39:00.616955,Ngadi Group Power Ltd.
+2026042304004836,NGPL,34,70,55,448.0,24640.0,2026-04-23,187699488,2743,Vision Securities Pvt. Ltd,Infinity Securities Limited,2026-04-23 12:39:00.617833,Ngadi Group Power Ltd.
+2026042304004862,NGPL,42,70,50,448.0,22400.0,2026-04-23,187699762,2743,Sani Securities Company Ltd.,Infinity Securities Limited,2026-04-23 12:39:33.931246,Ngadi Group Power Ltd.
+2026042304004863,NGPL,34,70,395,448.0,176960.0,2026-04-23,187699769,2743,Vision Securities Pvt. Ltd,Infinity Securities Limited,2026-04-23 12:39:34.740839,Ngadi Group Power Ltd.
+2026042304004864,NGPL,34,70,500,448.0,224000.0,2026-04-23,187699771,2743,Vision Securities Pvt. Ltd,Infinity Securities Limited,2026-04-23 12:39:34.741607,Ngadi Group Power Ltd.
+2026042304004865,NGPL,34,80,105,448.0,47040.0,2026-04-23,187699774,2743,Vision Securities Pvt. Ltd,Indira securities pvt. ltd,2026-04-23 12:39:34.742125,Ngadi Group Power Ltd.
+2026042304004872,NGPL,21,80,80,448.0,35840.0,2026-04-23,187699848,2743,Midas Stock Broking Company Private Limited,Indira securities pvt. ltd,2026-04-23 12:39:49.477699,Ngadi Group Power Ltd.
+2026042304004873,NGPL,83,80,148,448.0,66304.0,2026-04-23,187699853,2743,Sanima Securities Limited,Indira securities pvt. ltd,2026-04-23 12:39:50.230030,Ngadi Group Power Ltd.
+2026042304004874,NGPL,83,4,25,448.0,11200.0,2026-04-23,187699855,2743,Sanima Securities Limited,Opal Securities Investment (PVT) Ltd.,2026-04-23 12:39:50.230136,Ngadi Group Power Ltd.
+2026042304004875,NGPL,83,35,53,448.0,23744.0,2026-04-23,187699857,2743,Sanima Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:39:50.230257,Ngadi Group Power Ltd.
+2026042304004876,NGPL,83,18,1000,448.1,448100.0,2026-04-23,187699859,2743,Sanima Securities Limited,Sagarmatha Securities Private Limited,2026-04-23 12:39:50.230362,Ngadi Group Power Ltd.
+2026042304004877,NGPL,83,70,174,448.1,77969.4,2026-04-23,187699862,2743,Sanima Securities Limited,Infinity Securities Limited,2026-04-23 12:39:50.230543,Ngadi Group Power Ltd.
+2026042304004898,NGPL,83,49,50,448.2,22410.0,2026-04-23,187700055,2743,Sanima Securities Limited,Online Securities Pvt. Ltd.,2026-04-23 12:40:17.395801,Ngadi Group Power Ltd.
+2026042304004899,NGPL,83,34,1100,448.3,493130.0,2026-04-23,187700057,2743,Sanima Securities Limited,Vision Securities Pvt. Ltd,2026-04-23 12:40:17.395899,Ngadi Group Power Ltd.
+2026042304004900,NGPL,83,66,50,448.6,22430.0,2026-04-23,187700060,2743,Sanima Securities Limited,Miyo Securities Pvt Ltd,2026-04-23 12:40:17.395978,Ngadi Group Power Ltd.
+2026042304004918,NGPL,83,66,421,448.6,188860.6,2026-04-23,187700313,2743,Sanima Securities Limited,Miyo Securities Pvt Ltd,2026-04-23 12:40:51.633539,Ngadi Group Power Ltd.
+2026042304004919,NGPL,83,70,579,448.6,259739.4,2026-04-23,187700316,2743,Sanima Securities Limited,Infinity Securities Limited,2026-04-23 12:40:51.633610,Ngadi Group Power Ltd.
+2026042304004964,NGPL,38,70,15,448.6,6729.0,2026-04-23,187700644,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Infinity Securities Limited,2026-04-23 12:41:35.498766,Ngadi Group Power Ltd.
+2026042304004999,NGPL,47,70,14,448.5,6279.0,2026-04-23,187701088,2743,Neev Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-23 12:42:37.664179,Ngadi Group Power Ltd.
+2026042304005156,NGPL,88,88,200,447.0,89400.0,2026-04-23,187704431,2743,Blue Chip Securities Ltd,Blue Chip Securities Ltd,2026-04-23 12:47:14.682927,Ngadi Group Power Ltd.
+2026042304005201,NGPL,88,50,300,447.0,134100.0,2026-04-23,187705326,2743,Blue Chip Securities Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:49:19.639587,Ngadi Group Power Ltd.
+2026042304005217,NGPL,50,50,150,447.0,67050.0,2026-04-23,187705414,2743,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:49:30.862948,Ngadi Group Power Ltd.
+2026042304005244,NGPL,88,100,11,446.9,4915.9,2026-04-23,187705739,2743,Blue Chip Securities Ltd,Sunrise Securities Limited,2026-04-23 12:50:07.472758,Ngadi Group Power Ltd.
+2026042304005258,NGPL,88,87,489,446.9,218534.1,2026-04-23,187706204,2743,Blue Chip Securities Ltd,S.P.S.A. Securities Limited,2026-04-23 12:50:52.153365,Ngadi Group Power Ltd.
+2026042304005259,NGPL,88,87,500,446.8,223400.0,2026-04-23,187706206,2743,Blue Chip Securities Ltd,S.P.S.A. Securities Limited,2026-04-23 12:50:52.154147,Ngadi Group Power Ltd.
+2026042304005260,NGPL,88,87,500,446.7,223350.0,2026-04-23,187706208,2743,Blue Chip Securities Ltd,S.P.S.A. Securities Limited,2026-04-23 12:50:52.154684,Ngadi Group Power Ltd.
+2026042304005261,NGPL,59,87,1000,446.6,446600.0,2026-04-23,187706210,2743,Deevyaa Securities & Stock House Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-23 12:50:52.155205,Ngadi Group Power Ltd.
+2026042304005262,NGPL,35,87,1000,446.6,446600.0,2026-04-23,187706212,2743,Kohinoor Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:50:52.155725,Ngadi Group Power Ltd.
+2026042304005263,NGPL,17,87,200,446.3,89260.0,2026-04-23,187706214,2743,ABC Securities Private Limited,S.P.S.A. Securities Limited,2026-04-23 12:50:52.156192,Ngadi Group Power Ltd.
+2026042304005264,NGPL,38,87,260,446.2,116012.0,2026-04-23,187706216,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:50:52.156726,Ngadi Group Power Ltd.
+2026042304005265,NGPL,66,87,346,446.1,154350.6,2026-04-23,187706218,2743,Miyo Securities Pvt Ltd,S.P.S.A. Securities Limited,2026-04-23 12:50:52.157232,Ngadi Group Power Ltd.
+2026042304005266,NGPL,14,87,200,445.3,89060.0,2026-04-23,187706220,2743,Nepal Stock House (PVT) Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:50:52.157759,Ngadi Group Power Ltd.
+2026042304005267,NGPL,49,87,100,445.3,44530.0,2026-04-23,187706222,2743,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:50:52.158273,Ngadi Group Power Ltd.
+2026042304005268,NGPL,32,87,225,445.2,100170.0,2026-04-23,187706224,2743,Premier Securities Company Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:50:52.158811,Ngadi Group Power Ltd.
+2026042304005269,NGPL,58,87,200,445.0,89000.0,2026-04-23,187706226,2743,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:50:52.159324,Ngadi Group Power Ltd.
+2026042304005270,NGPL,33,87,50,445.0,22250.0,2026-04-23,187706228,2743,Dakshinkali Investment & Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:50:52.159795,Ngadi Group Power Ltd.
+2026042304005271,NGPL,91,87,4930,445.0,2193850.0,2026-04-23,187706229,2743,Citizens Share Broker Limited,S.P.S.A. Securities Limited,2026-04-23 12:50:52.160303,Ngadi Group Power Ltd.
+2026042304005276,NGPL,59,50,50,447.0,22350.0,2026-04-23,187706369,2743,Deevyaa Securities & Stock House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 12:51:07.338214,Ngadi Group Power Ltd.
+2026042304005354,NGPL,14,36,449,448.0,201152.0,2026-04-23,187707493,2743,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,2026-04-23 12:52:59.247141,Ngadi Group Power Ltd.
+2026042304005355,NGPL,14,70,491,448.0,219968.0,2026-04-23,187707496,2743,Nepal Stock House (PVT) Ltd.,Infinity Securities Limited,2026-04-23 12:52:59.247890,Ngadi Group Power Ltd.
+2026042304005437,NGPL,59,47,50,447.0,22350.0,2026-04-23,187708580,2743,Deevyaa Securities & Stock House Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-23 12:54:50.332070,Ngadi Group Power Ltd.
+2026042304005514,NGPL,14,47,10,447.0,4470.0,2026-04-23,187709418,2743,Nepal Stock House (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:56:22.561519,Ngadi Group Power Ltd.
+2026042304005595,NGPL,14,47,50,447.0,22350.0,2026-04-23,187710772,2743,Nepal Stock House (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 12:57:47.002509,Ngadi Group Power Ltd.
+2026042304005612,NGPL,75,47,22,447.0,9834.0,2026-04-23,187711022,2743,N.I.M.B. Stock Markets Limited,Neev Securities Pvt. Ltd.,2026-04-23 12:58:16.827057,Ngadi Group Power Ltd.
+2026042304005732,NGPL,82,47,18,447.0,8046.0,2026-04-23,187713503,2743,N.M.B. SECURITIES LIMITED,Neev Securities Pvt. Ltd.,2026-04-23 13:01:11.207919,Ngadi Group Power Ltd.
+2026042304005733,NGPL,82,14,12,447.0,5364.0,2026-04-23,187713505,2743,N.M.B. SECURITIES LIMITED,Nepal Stock House (PVT) Ltd.,2026-04-23 13:01:11.208676,Ngadi Group Power Ltd.
+2026042304005760,NGPL,82,17,25,447.0,11175.0,2026-04-23,187713877,2743,N.M.B. SECURITIES LIMITED,ABC Securities Private Limited,2026-04-23 13:01:45.810894,Ngadi Group Power Ltd.
+2026042304005796,NGPL,5,14,200,448.0,89600.0,2026-04-23,187714468,2743,Market Securities & Exchange (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:02:29.678411,Ngadi Group Power Ltd.
+2026042304005826,NGPL,48,5,100,448.3,44830.0,2026-04-23,187714979,2743,Trishakti Securities Public Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:02:53.430499,Ngadi Group Power Ltd.
+2026042304005827,NGPL,48,44,200,448.4,89680.0,2026-04-23,187714981,2743,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:02:53.430870,Ngadi Group Power Ltd.
+2026042304005828,NGPL,48,70,486,448.5,217971.0,2026-04-23,187714983,2743,Trishakti Securities Public Limited,Infinity Securities Limited,2026-04-23 13:02:53.431037,Ngadi Group Power Ltd.
+2026042304005829,NGPL,48,70,214,448.6,96000.4,2026-04-23,187714986,2743,Trishakti Securities Public Limited,Infinity Securities Limited,2026-04-23 13:02:53.431199,Ngadi Group Power Ltd.
+2026042304005982,NGPL,26,70,192,448.6,86131.2,2026-04-23,187716639,2743,Asian Securities Private Ltd.,Infinity Securities Limited,2026-04-23 13:04:47.079956,Ngadi Group Power Ltd.
+2026042304005983,NGPL,26,94,308,448.6,138168.8,2026-04-23,187716642,2743,Asian Securities Private Ltd.,K.B.L. Securities Limited ,2026-04-23 13:04:47.080707,Ngadi Group Power Ltd.
+2026042304006002,NGPL,13,52,40,448.0,17920.0,2026-04-23,187716811,2743,Thrive Brokerage House Pvt. Ltd,Sundhara Securities Limited,2026-04-23 13:05:05.561791,Ngadi Group Power Ltd.
+2026042304006003,NGPL,13,94,192,448.6,86131.2,2026-04-23,187716813,2743,Thrive Brokerage House Pvt. Ltd,K.B.L. Securities Limited ,2026-04-23 13:05:05.562307,Ngadi Group Power Ltd.
+2026042304006004,NGPL,13,70,500,448.6,224300.0,2026-04-23,187716815,2743,Thrive Brokerage House Pvt. Ltd,Infinity Securities Limited,2026-04-23 13:05:05.562577,Ngadi Group Power Ltd.
+2026042304006005,NGPL,13,44,160,448.7,71792.0,2026-04-23,187716817,2743,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:05:05.562834,Ngadi Group Power Ltd.
+2026042304006006,NGPL,13,70,1000,448.7,448700.0,2026-04-23,187716819,2743,Thrive Brokerage House Pvt. Ltd,Infinity Securities Limited,2026-04-23 13:05:05.563055,Ngadi Group Power Ltd.
+2026042304006007,NGPL,13,5,108,448.8,48470.4,2026-04-23,187716822,2743,Thrive Brokerage House Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:05:05.563237,Ngadi Group Power Ltd.
+2026042304006024,NGPL,44,50,200,447.2,89440.0,2026-04-23,187717131,2743,Dynamic Money Managers Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:05:37.109808,Ngadi Group Power Ltd.
+2026042304006026,NGPL,3,5,538,448.8,241454.4,2026-04-23,187717173,2743,Arun Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:05:41.145434,Ngadi Group Power Ltd.
+2026042304006069,NGPL,18,57,200,449.0,89800.0,2026-04-23,187717619,2743,Sagarmatha Securities Private Limited,Aryatara Investment & Securities,2026-04-23 13:06:31.243753,Ngadi Group Power Ltd.
+2026042304006107,NGPL,3,44,300,449.5,134850.0,2026-04-23,187717923,2743,Arun Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:07:06.781463,Ngadi Group Power Ltd.
+2026042304006108,NGPL,3,5,862,449.5,387469.0,2026-04-23,187717926,2743,Arun Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:07:06.782194,Ngadi Group Power Ltd.
+2026042304006131,NGPL,18,44,800,449.0,359200.0,2026-04-23,187718200,2743,Sagarmatha Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:07:36.720805,Ngadi Group Power Ltd.
+2026042304006205,NGPL,52,28,100,448.1,44810.0,2026-04-23,187718933,2743,Sundhara Securities Limited,Shree Krishna Securities Ltd.,2026-04-23 13:08:48.727844,Ngadi Group Power Ltd.
+2026042304006207,NGPL,44,44,1800,449.0,808200.0,2026-04-23,187718962,2743,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:08:51.688723,Ngadi Group Power Ltd.
+2026042304006212,NGPL,48,44,200,449.0,89800.0,2026-04-23,187718996,2743,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:08:55.229085,Ngadi Group Power Ltd.
+2026042304006223,NGPL,1,44,200,449.0,89800.0,2026-04-23,187719109,2743,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:09:06.088423,Ngadi Group Power Ltd.
+2026042304006227,NGPL,1,14,55,449.0,24695.0,2026-04-23,187719183,2743,Kumari Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 13:09:15.058002,Ngadi Group Power Ltd.
+2026042304006244,NGPL,1,28,100,449.0,44900.0,2026-04-23,187719543,2743,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-23 13:09:49.754873,Ngadi Group Power Ltd.
+2026042304006286,NGPL,1,39,145,449.0,65105.0,2026-04-23,187720456,2743,Kumari Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-23 13:10:44.644030,Ngadi Group Power Ltd.
+2026042304006293,NGPL,58,39,32,449.0,14368.0,2026-04-23,187720734,2743,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 13:10:59.331268,Ngadi Group Power Ltd.
+2026042304006328,NGPL,94,39,23,449.0,10327.0,2026-04-23,187720973,2743,K.B.L. Securities Limited ,Sumeru Securities Pvt. Ltd.,2026-04-23 13:11:31.153913,Ngadi Group Power Ltd.
+2026042304006353,NGPL,7,5,20,449.5,8990.0,2026-04-23,187721460,2743,J.F. Securites (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:12:14.556299,Ngadi Group Power Ltd.
+2026042304006467,NGPL,48,5,118,449.5,53041.0,2026-04-23,187723809,2743,Trishakti Securities Public Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-23 13:16:15.648919,Ngadi Group Power Ltd.
+2026042304006468,NGPL,48,58,30,450.0,13500.0,2026-04-23,187723811,2743,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-23 13:16:15.649722,Ngadi Group Power Ltd.
+2026042304006469,NGPL,48,22,61,450.0,27450.0,2026-04-23,187723813,2743,Trishakti Securities Public Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 13:16:15.650250,Ngadi Group Power Ltd.
+2026042304006470,NGPL,48,14,200,450.0,90000.0,2026-04-23,187723815,2743,Trishakti Securities Public Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 13:16:15.650781,Ngadi Group Power Ltd.
+2026042304006471,NGPL,48,34,1000,450.0,450000.0,2026-04-23,187723817,2743,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-23 13:16:15.651291,Ngadi Group Power Ltd.
+2026042304006529,NGPL,94,63,500,452.0,226000.0,2026-04-23,187724852,2743,K.B.L. Securities Limited ,Himalayan Brokerage Company Limited,2026-04-23 13:17:51.549518,Ngadi Group Power Ltd.
+2026042304006594,NGPL,16,48,110,452.0,49720.0,2026-04-23,187726079,2743,Primo Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 13:19:40.008734,Ngadi Group Power Ltd.
+2026042304006595,NGPL,16,44,1890,453.0,856170.0,2026-04-23,187726082,2743,Primo Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:19:40.009237,Ngadi Group Power Ltd.
+2026042304006714,NGPL,44,28,500,452.9,226450.0,2026-04-23,187727443,2743,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 13:22:21.477869,Ngadi Group Power Ltd.
+2026042304006715,NGPL,44,40,500,452.9,226450.0,2026-04-23,187727446,2743,Dynamic Money Managers Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-23 13:22:21.478704,Ngadi Group Power Ltd.
+2026042304006839,NGPL,28,57,300,450.5,135150.0,2026-04-23,187729530,2743,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-23 13:25:38.016479,Ngadi Group Power Ltd.
+2026042304006840,NGPL,38,57,100,450.1,45010.0,2026-04-23,187729532,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-23 13:25:38.016898,Ngadi Group Power Ltd.
+2026042304006841,NGPL,40,57,10,450.1,4501.0,2026-04-23,187729534,2743,Creative Securities Pvt Ltd,Aryatara Investment & Securities,2026-04-23 13:25:38.017076,Ngadi Group Power Ltd.
+2026042304006842,NGPL,48,57,591,450.0,265950.0,2026-04-23,187729536,2743,Trishakti Securities Public Limited,Aryatara Investment & Securities,2026-04-23 13:25:38.017260,Ngadi Group Power Ltd.
+2026042304006843,NGPL,29,57,200,450.0,90000.0,2026-04-23,187729538,2743,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,2026-04-23 13:25:38.017440,Ngadi Group Power Ltd.
+2026042304006844,NGPL,58,57,100,450.0,45000.0,2026-04-23,187729540,2743,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 13:25:38.017612,Ngadi Group Power Ltd.
+2026042304006949,NGPL,94,32,10,449.0,4490.0,2026-04-23,187730583,2743,K.B.L. Securities Limited ,Premier Securities Company Ltd.,2026-04-23 13:27:33.655665,Ngadi Group Power Ltd.
+2026042304006970,NGPL,94,57,17,449.0,7633.0,2026-04-23,187730770,2743,K.B.L. Securities Limited ,Aryatara Investment & Securities,2026-04-23 13:27:43.812500,Ngadi Group Power Ltd.
+2026042304006971,NGPL,94,57,200,449.0,89800.0,2026-04-23,187730772,2743,K.B.L. Securities Limited ,Aryatara Investment & Securities,2026-04-23 13:27:43.813333,Ngadi Group Power Ltd.
+2026042304006972,NGPL,16,57,100,449.0,44900.0,2026-04-23,187730774,2743,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-23 13:27:43.814001,Ngadi Group Power Ltd.
+2026042304006973,NGPL,28,57,500,448.1,224050.0,2026-04-23,187730776,2743,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-23 13:27:43.814667,Ngadi Group Power Ltd.
+2026042304006974,NGPL,37,57,200,448.0,89600.0,2026-04-23,187730778,2743,Swarna Laxmi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 13:27:43.815292,Ngadi Group Power Ltd.
+2026042304007087,NGPL,4,26,100,447.2,44720.0,2026-04-23,187731514,2743,Opal Securities Investment (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-23 13:28:31.313402,Ngadi Group Power Ltd.
+2026042304007088,NGPL,28,26,500,447.1,223550.0,2026-04-23,187731516,2743,Shree Krishna Securities Ltd.,Asian Securities Private Ltd.,2026-04-23 13:28:31.313819,Ngadi Group Power Ltd.
+2026042304007089,NGPL,45,26,100,447.1,44710.0,2026-04-23,187731518,2743,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 13:28:31.313997,Ngadi Group Power Ltd.
+2026042304007090,NGPL,82,26,100,447.0,44700.0,2026-04-23,187731519,2743,N.M.B. SECURITIES LIMITED,Asian Securities Private Ltd.,2026-04-23 13:28:31.314168,Ngadi Group Power Ltd.
+2026042304007091,NGPL,82,33,1500,447.0,670500.0,2026-04-23,187731545,2743,N.M.B. SECURITIES LIMITED,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:28:34.021450,Ngadi Group Power Ltd.
+2026042304007112,NGPL,82,34,332,447.0,148404.0,2026-04-23,187731733,2743,N.M.B. SECURITIES LIMITED,Vision Securities Pvt. Ltd,2026-04-23 13:28:48.414203,Ngadi Group Power Ltd.
+2026042304007117,NGPL,82,33,513,447.0,229311.0,2026-04-23,187731832,2743,N.M.B. SECURITIES LIMITED,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:28:55.678352,Ngadi Group Power Ltd.
+2026042304007118,NGPL,41,33,987,447.0,441189.0,2026-04-23,187731833,2743,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:28:55.678430,Ngadi Group Power Ltd.
+2026042304007165,NGPL,28,57,400,448.0,179200.0,2026-04-23,187732284,2743,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-23 13:29:23.299467,Ngadi Group Power Ltd.
+2026042304007276,NGPL,41,58,13,447.0,5811.0,2026-04-23,187733726,2743,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:31:03.902677,Ngadi Group Power Ltd.
+2026042304007277,NGPL,39,58,267,447.0,119349.0,2026-04-23,187733727,2743,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:31:03.903670,Ngadi Group Power Ltd.
+2026042304007294,NGPL,41,57,200,448.0,89600.0,2026-04-23,187733906,2743,Linch Stock Market Ltd.,Aryatara Investment & Securities,2026-04-23 13:31:14.927782,Ngadi Group Power Ltd.
+2026042304007313,NGPL,39,26,33,447.0,14751.0,2026-04-23,187733992,2743,Sumeru Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 13:31:20.071247,Ngadi Group Power Ltd.
+2026042304007356,NGPL,58,33,36,446.2,16063.2,2026-04-23,187734516,2743,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:32:07.300764,Ngadi Group Power Ltd.
+2026042304007357,NGPL,94,33,50,446.0,22300.0,2026-04-23,187734518,2743,K.B.L. Securities Limited ,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:32:07.301632,Ngadi Group Power Ltd.
+2026042304007358,NGPL,49,33,2000,446.0,892000.0,2026-04-23,187734520,2743,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:32:07.302166,Ngadi Group Power Ltd.
+2026042304007359,NGPL,16,33,100,446.0,44600.0,2026-04-23,187734522,2743,Primo Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:32:07.302702,Ngadi Group Power Ltd.
+2026042304007360,NGPL,82,33,464,446.0,206944.0,2026-04-23,187734523,2743,N.M.B. SECURITIES LIMITED,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 13:32:07.303240,Ngadi Group Power Ltd.
+2026042304007402,NGPL,82,62,36,446.0,16056.0,2026-04-23,187734892,2743,N.M.B. SECURITIES LIMITED,Capital Max Securities Ltd,2026-04-23 13:32:47.167586,Ngadi Group Power Ltd.
+2026042304007403,NGPL,58,62,700,445.8,312060.0,2026-04-23,187734894,2743,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 13:32:47.168467,Ngadi Group Power Ltd.
+2026042304007423,NGPL,28,29,192,445.5,85536.0,2026-04-23,187735083,2743,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:33:08.884392,Ngadi Group Power Ltd.
+2026042304007441,NGPL,28,62,264,445.5,117612.0,2026-04-23,187735465,2743,Shree Krishna Securities Ltd.,Capital Max Securities Ltd,2026-04-23 13:33:49.618100,Ngadi Group Power Ltd.
+2026042304007456,NGPL,28,35,544,445.5,242352.0,2026-04-23,187735796,2743,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:34:14.992286,Ngadi Group Power Ltd.
+2026042304007457,NGPL,58,35,100,445.4,44540.0,2026-04-23,187735798,2743,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:34:14.993273,Ngadi Group Power Ltd.
+2026042304007458,NGPL,58,35,356,445.3,158526.8,2026-04-23,187735799,2743,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:34:14.993833,Ngadi Group Power Ltd.
+2026042304007515,NGPL,58,62,140,445.3,62342.0,2026-04-23,187736395,2743,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 13:35:19.636917,Ngadi Group Power Ltd.
+2026042304007539,NGPL,59,26,67,445.4,29841.8,2026-04-23,187736515,2743,Deevyaa Securities & Stock House Pvt. Ltd,Asian Securities Private Ltd.,2026-04-23 13:35:26.906963,Ngadi Group Power Ltd.
+2026042304007723,NGPL,43,66,5,435.1,2175.5,2026-04-23,187739083,2743,South Asian Bulls Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-23 13:40:19.081605,Ngadi Group Power Ltd.
+2026042304007736,NGPL,58,48,240,445.5,106920.0,2026-04-23,187739268,2743,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 13:40:44.783561,Ngadi Group Power Ltd.
+2026042304007737,NGPL,59,48,33,445.4,14698.2,2026-04-23,187739270,2743,Deevyaa Securities & Stock House Pvt. Ltd,Trishakti Securities Public Limited,2026-04-23 13:40:44.784012,Ngadi Group Power Ltd.
+2026042304007738,NGPL,88,48,227,445.1,101037.7,2026-04-23,187739271,2743,Blue Chip Securities Ltd,Trishakti Securities Public Limited,2026-04-23 13:40:44.784201,Ngadi Group Power Ltd.
+2026042304007773,NGPL,88,81,417,445.1,185606.7,2026-04-23,187739905,2743,Blue Chip Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:41:40.092202,Ngadi Group Power Ltd.
+2026042304007798,NGPL,14,26,35,445.2,15582.0,2026-04-23,187740362,2743,Nepal Stock House (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-23 13:42:48.076504,Ngadi Group Power Ltd.
+2026042304007799,NGPL,44,26,85,445.2,37842.0,2026-04-23,187740363,2743,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-23 13:42:48.076608,Ngadi Group Power Ltd.
+2026042304007935,NGPL,48,8,10,445.4,4454.0,2026-04-23,187742349,2743,Trishakti Securities Public Limited,Brilliant Securities Pvt. Ltd.,2026-04-23 13:47:26.324738,Ngadi Group Power Ltd.
+2026042304007964,NGPL,42,32,20,446.9,8938.0,2026-04-23,187742941,2743,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 13:48:35.011252,Ngadi Group Power Ltd.
+2026042304007998,NGPL,98,57,102,446.0,45492.0,2026-04-23,187743815,2743,Trademow Securities Private Limited,Aryatara Investment & Securities,2026-04-23 13:49:56.849226,Ngadi Group Power Ltd.
+2026042304008030,NGPL,98,95,200,447.0,89400.0,2026-04-23,187744439,2743,Trademow Securities Private Limited,Magnet Securities and Investment Company Private Limited,2026-04-23 13:51:51.291400,Ngadi Group Power Ltd.
+2026042304008031,NGPL,98,26,154,447.0,68838.0,2026-04-23,187744442,2743,Trademow Securities Private Limited,Asian Securities Private Ltd.,2026-04-23 13:51:51.292198,Ngadi Group Power Ltd.
+2026042304008044,NGPL,94,26,46,447.0,20562.0,2026-04-23,187744657,2743,K.B.L. Securities Limited ,Asian Securities Private Ltd.,2026-04-23 13:52:20.136411,Ngadi Group Power Ltd.
+2026042304008045,NGPL,94,36,80,447.0,35760.0,2026-04-23,187744659,2743,K.B.L. Securities Limited ,Secured Securities Ltd.,2026-04-23 13:52:20.136932,Ngadi Group Power Ltd.
+2026042304008046,NGPL,94,41,23,447.0,10281.0,2026-04-23,187744661,2743,K.B.L. Securities Limited ,Linch Stock Market Ltd.,2026-04-23 13:52:20.137197,Ngadi Group Power Ltd.
+2026042304008047,NGPL,94,49,100,448.0,44800.0,2026-04-23,187744663,2743,K.B.L. Securities Limited ,Online Securities Pvt. Ltd.,2026-04-23 13:52:20.137447,Ngadi Group Power Ltd.
+2026042304008074,NGPL,94,44,300,448.5,134550.0,2026-04-23,187745295,2743,K.B.L. Securities Limited ,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:53:57.902810,Ngadi Group Power Ltd.
+2026042304008075,NGPL,94,18,500,448.5,224250.0,2026-04-23,187745297,2743,K.B.L. Securities Limited ,Sagarmatha Securities Private Limited,2026-04-23 13:53:57.903687,Ngadi Group Power Ltd.
+2026042304008098,NGPL,68,34,500,448.7,224350.0,2026-04-23,187745660,2743,Elite Stock House Limited,Vision Securities Pvt. Ltd,2026-04-23 13:55:10.112990,Ngadi Group Power Ltd.
+2026042304008161,NGPL,40,66,90,448.6,40374.0,2026-04-23,187746590,2743,Creative Securities Pvt Ltd,Miyo Securities Pvt Ltd,2026-04-23 13:57:13.661709,Ngadi Group Power Ltd.
+2026042304008162,NGPL,94,66,26,448.5,11661.0,2026-04-23,187746591,2743,K.B.L. Securities Limited ,Miyo Securities Pvt Ltd,2026-04-23 13:57:13.662737,Ngadi Group Power Ltd.
+2026042304008293,NGPL,35,38,47,446.5,20985.5,2026-04-23,187748581,2743,Kohinoor Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:01:53.608237,Ngadi Group Power Ltd.
+2026042304008311,NGPL,35,44,53,446.5,23664.5,2026-04-23,187748756,2743,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.073183,Ngadi Group Power Ltd.
+2026042304008312,NGPL,16,44,500,446.2,223100.0,2026-04-23,187748758,2743,Primo Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.074086,Ngadi Group Power Ltd.
+2026042304008313,NGPL,13,44,700,446.1,312270.0,2026-04-23,187748760,2743,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.074681,Ngadi Group Power Ltd.
+2026042304008314,NGPL,57,44,10,446.1,4461.0,2026-04-23,187748762,2743,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.075262,Ngadi Group Power Ltd.
+2026042304008315,NGPL,77,44,500,446.0,223000.0,2026-04-23,187748764,2743,Nabil Stock Dealer Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.075840,Ngadi Group Power Ltd.
+2026042304008316,NGPL,58,44,200,445.5,89100.0,2026-04-23,187748766,2743,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.076414,Ngadi Group Power Ltd.
+2026042304008317,NGPL,6,44,70,445.5,31185.0,2026-04-23,187748768,2743,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.077027,Ngadi Group Power Ltd.
+2026042304008318,NGPL,48,44,90,445.4,40086.0,2026-04-23,187748770,2743,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.077650,Ngadi Group Power Ltd.
+2026042304008319,NGPL,91,44,877,445.4,390615.8,2026-04-23,187748771,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:18.078210,Ngadi Group Power Ltd.
+2026042304008324,NGPL,91,7,284,445.4,126493.6,2026-04-23,187748836,2743,Citizens Share Broker Limited,J.F. Securites (PVT) Ltd.,2026-04-23 14:02:23.782318,Ngadi Group Power Ltd.
+2026042304008325,NGPL,6,7,216,445.3,96184.8,2026-04-23,187748837,2743,Agrawal Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:02:23.782421,Ngadi Group Power Ltd.
+2026042304008354,NGPL,6,44,1284,445.3,571765.2,2026-04-23,187749008,2743,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.686587,Ngadi Group Power Ltd.
+2026042304008355,NGPL,26,44,1000,445.2,445200.0,2026-04-23,187749010,2743,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.687430,Ngadi Group Power Ltd.
+2026042304008356,NGPL,88,44,356,445.1,158455.6,2026-04-23,187749012,2743,Blue Chip Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.688000,Ngadi Group Power Ltd.
+2026042304008357,NGPL,91,44,70,445.0,31150.0,2026-04-23,187749014,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.688590,Ngadi Group Power Ltd.
+2026042304008358,NGPL,41,44,100,445.0,44500.0,2026-04-23,187749016,2743,Linch Stock Market Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.689154,Ngadi Group Power Ltd.
+2026042304008359,NGPL,45,44,500,445.0,222500.0,2026-04-23,187749018,2743,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.689788,Ngadi Group Power Ltd.
+2026042304008360,NGPL,4,44,55,445.0,24475.0,2026-04-23,187749020,2743,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.690366,Ngadi Group Power Ltd.
+2026042304008361,NGPL,75,44,15,445.0,6675.0,2026-04-23,187749022,2743,N.I.M.B. Stock Markets Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.690944,Ngadi Group Power Ltd.
+2026042304008362,NGPL,26,44,100,445.0,44500.0,2026-04-23,187749024,2743,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.691507,Ngadi Group Power Ltd.
+2026042304008363,NGPL,39,44,200,445.0,89000.0,2026-04-23,187749026,2743,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.692082,Ngadi Group Power Ltd.
+2026042304008364,NGPL,6,44,10,445.0,4450.0,2026-04-23,187749028,2743,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.692693,Ngadi Group Power Ltd.
+2026042304008365,NGPL,62,44,500,445.0,222500.0,2026-04-23,187749030,2743,Capital Max Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.693284,Ngadi Group Power Ltd.
+2026042304008366,NGPL,75,44,15,445.0,6675.0,2026-04-23,187749032,2743,N.I.M.B. Stock Markets Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.693786,Ngadi Group Power Ltd.
+2026042304008367,NGPL,8,44,200,445.0,89000.0,2026-04-23,187749034,2743,Brilliant Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.693969,Ngadi Group Power Ltd.
+2026042304008368,NGPL,40,44,500,445.0,222500.0,2026-04-23,187749036,2743,Creative Securities Pvt Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.694146,Ngadi Group Power Ltd.
+2026042304008369,NGPL,40,44,10,445.0,4450.0,2026-04-23,187749038,2743,Creative Securities Pvt Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.694331,Ngadi Group Power Ltd.
+2026042304008370,NGPL,58,44,25,445.0,11125.0,2026-04-23,187749040,2743,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.694513,Ngadi Group Power Ltd.
+2026042304008371,NGPL,38,44,100,445.0,44500.0,2026-04-23,187749042,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.694692,Ngadi Group Power Ltd.
+2026042304008372,NGPL,8,44,500,445.0,222500.0,2026-04-23,187749044,2743,Brilliant Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.694873,Ngadi Group Power Ltd.
+2026042304008373,NGPL,42,44,30,445.0,13350.0,2026-04-23,187749046,2743,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.695051,Ngadi Group Power Ltd.
+2026042304008374,NGPL,34,44,20,445.0,8900.0,2026-04-23,187749048,2743,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.695225,Ngadi Group Power Ltd.
+2026042304008375,NGPL,56,44,130,445.0,57850.0,2026-04-23,187749050,2743,Sri Hari Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.695407,Ngadi Group Power Ltd.
+2026042304008376,NGPL,18,44,280,445.0,124600.0,2026-04-23,187749051,2743,Sagarmatha Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:02:38.695607,Ngadi Group Power Ltd.
+2026042304008399,NGPL,18,48,500,445.0,222500.0,2026-04-23,187749395,2743,Sagarmatha Securities Private Limited,Trishakti Securities Public Limited,2026-04-23 14:03:03.758099,Ngadi Group Power Ltd.
+2026042304008534,NGPL,58,44,100,445.2,44520.0,2026-04-23,187750866,2743,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:05:59.866623,Ngadi Group Power Ltd.
+2026042304008535,NGPL,67,44,690,445.1,307119.0,2026-04-23,187750868,2743,Property Wiard Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:05:59.867150,Ngadi Group Power Ltd.
+2026042304008536,NGPL,18,44,220,445.0,97900.0,2026-04-23,187750870,2743,Sagarmatha Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:05:59.867355,Ngadi Group Power Ltd.
+2026042304008537,NGPL,91,44,9990,445.0,4445550.0,2026-04-23,187750871,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:05:59.867556,Ngadi Group Power Ltd.
+2026042304008588,NGPL,17,44,50,446.0,22300.0,2026-04-23,187751284,2743,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:06:47.077494,Ngadi Group Power Ltd.
+2026042304008589,NGPL,91,44,10,445.0,4450.0,2026-04-23,187751286,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:06:47.077959,Ngadi Group Power Ltd.
+2026042304008590,NGPL,7,44,42,445.0,18690.0,2026-04-23,187751287,2743,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:06:47.078145,Ngadi Group Power Ltd.
+2026042304008793,NGPL,45,44,450,445.0,200250.0,2026-04-23,187753952,2743,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:11:15.375510,Ngadi Group Power Ltd.
+2026042304008794,NGPL,58,44,200,444.5,88900.0,2026-04-23,187753954,2743,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:11:15.375958,Ngadi Group Power Ltd.
+2026042304008795,NGPL,35,44,1000,444.4,444400.0,2026-04-23,187753956,2743,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:11:15.376146,Ngadi Group Power Ltd.
+2026042304008796,NGPL,91,44,9990,444.4,4439556.0,2026-04-23,187753957,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:11:15.376345,Ngadi Group Power Ltd.
+2026042304009158,NGPL,94,56,500,444.6,222300.0,2026-04-23,187757317,2743,K.B.L. Securities Limited ,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:17:27.193248,Ngadi Group Power Ltd.
+2026042304009226,NGPL,91,57,1246,445.0,554470.0,2026-04-23,187758369,2743,Citizens Share Broker Limited,Aryatara Investment & Securities,2026-04-23 14:19:17.853757,Ngadi Group Power Ltd.
+2026042304009227,NGPL,91,57,143,445.0,63635.0,2026-04-23,187758371,2743,Citizens Share Broker Limited,Aryatara Investment & Securities,2026-04-23 14:19:17.854230,Ngadi Group Power Ltd.
+2026042304009228,NGPL,91,48,500,445.0,222500.0,2026-04-23,187758373,2743,Citizens Share Broker Limited,Trishakti Securities Public Limited,2026-04-23 14:19:17.854467,Ngadi Group Power Ltd.
+2026042304009246,NGPL,17,44,200,446.0,89200.0,2026-04-23,187758520,2743,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:19:32.083377,Ngadi Group Power Ltd.
+2026042304009289,NGPL,91,44,8000,445.0,3560000.0,2026-04-23,187758951,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:20:06.933646,Ngadi Group Power Ltd.
+2026042304009388,NGPL,91,77,111,445.0,49395.0,2026-04-23,187760274,2743,Citizens Share Broker Limited,Nabil Stock Dealer Ltd.,2026-04-23 14:22:33.822147,Ngadi Group Power Ltd.
+2026042304009389,NGPL,95,77,389,445.0,173105.0,2026-04-23,187760275,2743,Magnet Securities and Investment Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 14:22:33.822633,Ngadi Group Power Ltd.
+2026042304009425,NGPL,95,51,111,445.0,49395.0,2026-04-23,187760796,2743,Magnet Securities and Investment Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 14:23:35.434012,Ngadi Group Power Ltd.
+2026042304009426,NGPL,11,51,50,445.0,22250.0,2026-04-23,187760798,2743,Malla & Malla Stock Broking Company Pvt. Limited,Oxford Securities Pvt. Ltd.,2026-04-23 14:23:35.434534,Ngadi Group Power Ltd.
+2026042304009427,NGPL,16,51,120,445.0,53400.0,2026-04-23,187760800,2743,Primo Securities (PVT) Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:23:35.434747,Ngadi Group Power Ltd.
+2026042304009428,NGPL,58,51,200,444.7,88940.0,2026-04-23,187760802,2743,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:23:35.434980,Ngadi Group Power Ltd.
+2026042304009429,NGPL,44,51,19,444.7,8449.3,2026-04-23,187760803,2743,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:23:35.435175,Ngadi Group Power Ltd.
+2026042304009444,NGPL,44,51,481,444.7,213900.7,2026-04-23,187761010,2743,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:24:02.478245,Ngadi Group Power Ltd.
+2026042304009445,NGPL,94,51,39,444.6,17339.4,2026-04-23,187761011,2743,K.B.L. Securities Limited ,Oxford Securities Pvt. Ltd.,2026-04-23 14:24:02.479139,Ngadi Group Power Ltd.
+2026042304009550,NGPL,17,17,63,444.7,28016.1,2026-04-23,187762653,2743,ABC Securities Private Limited,ABC Securities Private Limited,2026-04-23 14:26:41.895250,Ngadi Group Power Ltd.
+2026042304009568,NGPL,58,57,23,445.0,10235.0,2026-04-23,187762851,2743,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 14:26:58.370782,Ngadi Group Power Ltd.
+2026042304009573,NGPL,58,17,10,445.0,4450.0,2026-04-23,187762971,2743,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-23 14:27:09.694706,Ngadi Group Power Ltd.
+2026042304009652,NGPL,58,11,71,445.0,31595.0,2026-04-23,187763866,2743,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:28:35.782622,Ngadi Group Power Ltd.
+2026042304009653,NGPL,42,11,129,445.0,57405.0,2026-04-23,187763867,2743,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:28:35.783086,Ngadi Group Power Ltd.
+2026042304009666,NGPL,75,44,16,446.0,7136.0,2026-04-23,187764178,2743,N.I.M.B. Stock Markets Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:29:11.617463,Ngadi Group Power Ltd.
+2026042304009743,NGPL,91,44,144,446.0,64224.0,2026-04-23,187765359,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:30:45.939255,Ngadi Group Power Ltd.
+2026042304009775,NGPL,91,32,10,446.0,4460.0,2026-04-23,187765797,2743,Citizens Share Broker Limited,Premier Securities Company Ltd.,2026-04-23 14:31:15.807394,Ngadi Group Power Ltd.
+2026042304009785,NGPL,91,34,9800,446.0,4370800.0,2026-04-23,187765881,2743,Citizens Share Broker Limited,Vision Securities Pvt. Ltd,2026-04-23 14:31:23.374381,Ngadi Group Power Ltd.
+2026042304009793,NGPL,91,34,46,446.0,20516.0,2026-04-23,187765928,2743,Citizens Share Broker Limited,Vision Securities Pvt. Ltd,2026-04-23 14:31:26.880419,Ngadi Group Power Ltd.
+2026042304009814,NGPL,87,34,20,446.0,8920.0,2026-04-23,187766008,2743,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,2026-04-23 14:31:33.204646,Ngadi Group Power Ltd.
+2026042304010004,NGPL,58,34,300,446.0,133800.0,2026-04-23,187767794,2743,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:34:23.136426,Ngadi Group Power Ltd.
+2026042304010095,NGPL,45,32,170,445.2,75684.0,2026-04-23,187768864,2743,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 14:35:55.604174,Ngadi Group Power Ltd.
+2026042304010096,NGPL,42,32,55,445.0,24475.0,2026-04-23,187768865,2743,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 14:35:55.604657,Ngadi Group Power Ltd.
+2026042304010148,NGPL,4,34,10,446.0,4460.0,2026-04-23,187769692,2743,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:36:51.006222,Ngadi Group Power Ltd.
+2026042304010154,NGPL,72,34,124,446.0,55304.0,2026-04-23,187769747,2743,Hatemalo Financial Services Private Limited,Vision Securities Pvt. Ltd,2026-04-23 14:36:54.434602,Ngadi Group Power Ltd.
+2026042304010155,NGPL,72,44,276,446.0,123096.0,2026-04-23,187769750,2743,Hatemalo Financial Services Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:36:54.435073,Ngadi Group Power Ltd.
+2026042304010238,NGPL,28,44,100,446.0,44600.0,2026-04-23,187770926,2743,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:38:22.443354,Ngadi Group Power Ltd.
+2026042304010241,NGPL,19,43,50,445.1,22255.0,2026-04-23,187771036,2743,Nepal Investment And Securities Trading Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 14:38:36.380845,Ngadi Group Power Ltd.
+2026042304010242,NGPL,42,43,531,445.0,236295.0,2026-04-23,187771038,2743,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:38:36.381783,Ngadi Group Power Ltd.
+2026042304010243,NGPL,22,43,19,445.0,8455.0,2026-04-23,187771039,2743,Siprabi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:38:36.382418,Ngadi Group Power Ltd.
+2026042304010247,NGPL,48,44,50,446.0,22300.0,2026-04-23,187771078,2743,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:38:40.392204,Ngadi Group Power Ltd.
+2026042304010274,NGPL,49,44,328,446.0,146288.0,2026-04-23,187771474,2743,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:39:12.652555,Ngadi Group Power Ltd.
+2026042304010282,NGPL,62,44,1246,446.0,555716.0,2026-04-23,187771559,2743,Capital Max Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:39:22.182178,Ngadi Group Power Ltd.
+2026042304010376,NGPL,62,44,254,446.0,113284.0,2026-04-23,187772986,2743,Capital Max Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:41:14.481729,Ngadi Group Power Ltd.
+2026042304010377,NGPL,34,44,200,446.0,89200.0,2026-04-23,187772988,2743,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:41:14.482224,Ngadi Group Power Ltd.
+2026042304010498,NGPL,26,44,100,446.0,44600.0,2026-04-23,187774656,2743,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:43:21.247200,Ngadi Group Power Ltd.
+2026042304010623,NGPL,22,44,131,445.5,58360.5,2026-04-23,187775493,2743,Siprabi Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.356146,Ngadi Group Power Ltd.
+2026042304010624,NGPL,48,44,200,445.2,89040.0,2026-04-23,187775495,2743,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.357096,Ngadi Group Power Ltd.
+2026042304010625,NGPL,36,44,10,445.1,4451.0,2026-04-23,187775497,2743,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.357761,Ngadi Group Power Ltd.
+2026042304010626,NGPL,17,44,10,445.0,4450.0,2026-04-23,187775499,2743,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.358415,Ngadi Group Power Ltd.
+2026042304010627,NGPL,49,44,500,445.0,222500.0,2026-04-23,187775501,2743,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.359030,Ngadi Group Power Ltd.
+2026042304010628,NGPL,22,44,150,445.0,66750.0,2026-04-23,187775503,2743,Siprabi Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.359666,Ngadi Group Power Ltd.
+2026042304010629,NGPL,58,44,30,445.0,13350.0,2026-04-23,187775505,2743,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.360304,Ngadi Group Power Ltd.
+2026042304010630,NGPL,57,44,969,445.0,431205.0,2026-04-23,187775506,2743,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:44:16.360971,Ngadi Group Power Ltd.
+2026042304010688,NGPL,57,34,31,445.0,13795.0,2026-04-23,187775720,2743,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 14:44:24.323273,Ngadi Group Power Ltd.
+2026042304010689,NGPL,17,34,137,444.7,60923.9,2026-04-23,187775722,2743,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-23 14:44:24.323390,Ngadi Group Power Ltd.
+2026042304010690,NGPL,62,34,500,444.7,222350.0,2026-04-23,187775724,2743,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-23 14:44:24.323518,Ngadi Group Power Ltd.
+2026042304010691,NGPL,45,34,1000,444.7,444700.0,2026-04-23,187775726,2743,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:44:24.323577,Ngadi Group Power Ltd.
+2026042304010692,NGPL,94,34,332,444.6,147607.2,2026-04-23,187775727,2743,K.B.L. Securities Limited ,Vision Securities Pvt. Ltd,2026-04-23 14:44:24.323652,Ngadi Group Power Ltd.
+2026042304010784,NGPL,4,44,120,445.5,53460.0,2026-04-23,187777208,2743,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:46:02.692966,Ngadi Group Power Ltd.
+2026042304010785,NGPL,94,44,129,444.6,57353.4,2026-04-23,187777210,2743,K.B.L. Securities Limited ,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:46:02.693490,Ngadi Group Power Ltd.
+2026042304010786,NGPL,91,44,9751,444.6,4335294.6,2026-04-23,187777211,2743,Citizens Share Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:46:02.693705,Ngadi Group Power Ltd.
+2026042304010787,NGPL,91,52,249,444.6,110705.4,2026-04-23,187777230,2743,Citizens Share Broker Limited,Sundhara Securities Limited,2026-04-23 14:46:04.602519,Ngadi Group Power Ltd.
+2026042304010788,NGPL,16,52,198,444.5,88011.0,2026-04-23,187777231,2743,Primo Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-23 14:46:04.603044,Ngadi Group Power Ltd.
+2026042304010810,NGPL,16,7,302,444.5,134239.0,2026-04-23,187777372,2743,Primo Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:46:12.421859,Ngadi Group Power Ltd.
+2026042304010811,NGPL,49,7,698,444.5,310261.0,2026-04-23,187777373,2743,Online Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-23 14:46:12.421941,Ngadi Group Power Ltd.
+2026042304010843,NGPL,74,7,17,444.6,7558.2,2026-04-23,187777763,2743,KALASH STOCK MARKET PVT. LTD.,J.F. Securites (PVT) Ltd.,2026-04-23 14:46:32.989908,Ngadi Group Power Ltd.
+2026042304011050,NGPL,74,32,83,444.6,36901.8,2026-04-23,187779420,2743,KALASH STOCK MARKET PVT. LTD.,Premier Securities Company Ltd.,2026-04-23 14:48:00.773013,Ngadi Group Power Ltd.
+2026042304011051,NGPL,49,32,302,444.5,134239.0,2026-04-23,187779422,2743,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 14:48:00.773977,Ngadi Group Power Ltd.
+2026042304011052,NGPL,48,32,415,444.5,184467.5,2026-04-23,187779423,2743,Trishakti Securities Public Limited,Premier Securities Company Ltd.,2026-04-23 14:48:00.774636,Ngadi Group Power Ltd.
+2026042304011117,NGPL,48,95,85,444.5,37782.5,2026-04-23,187780124,2743,Trishakti Securities Public Limited,Magnet Securities and Investment Company Private Limited,2026-04-23 14:48:32.023585,Ngadi Group Power Ltd.
+2026042304011118,NGPL,4,95,915,444.5,406717.5,2026-04-23,187780125,2743,Opal Securities Investment (PVT) Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 14:48:32.024513,Ngadi Group Power Ltd.
+2026042304011159,NGPL,93,29,185,444.7,82269.5,2026-04-23,187780467,2743,Beni Securities Pvt.Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:48:44.387864,Ngadi Group Power Ltd.
+2026042304011195,NGPL,5,34,500,445.0,222500.0,2026-04-23,187780721,2743,Market Securities & Exchange (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:48:53.217804,Ngadi Group Power Ltd.
+2026042304011199,NGPL,5,62,37,445.0,16465.0,2026-04-23,187780744,2743,Market Securities & Exchange (PVT) Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.389914,Ngadi Group Power Ltd.
+2026042304011200,NGPL,93,62,315,444.7,140080.5,2026-04-23,187780746,2743,Beni Securities Pvt.Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.390385,Ngadi Group Power Ltd.
+2026042304011201,NGPL,4,62,85,444.5,37782.5,2026-04-23,187780748,2743,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.390602,Ngadi Group Power Ltd.
+2026042304011202,NGPL,91,62,10,444.4,4444.0,2026-04-23,187780750,2743,Citizens Share Broker Limited,Capital Max Securities Ltd,2026-04-23 14:48:55.390814,Ngadi Group Power Ltd.
+2026042304011203,NGPL,53,62,100,444.4,44440.0,2026-04-23,187780752,2743,Investment Management Nepal Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.391018,Ngadi Group Power Ltd.
+2026042304011204,NGPL,57,62,100,444.4,44440.0,2026-04-23,187780754,2743,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-23 14:48:55.391226,Ngadi Group Power Ltd.
+2026042304011205,NGPL,48,62,500,444.4,222200.0,2026-04-23,187780756,2743,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-23 14:48:55.391435,Ngadi Group Power Ltd.
+2026042304011206,NGPL,88,62,1000,444.2,444200.0,2026-04-23,187780758,2743,Blue Chip Securities Ltd,Capital Max Securities Ltd,2026-04-23 14:48:55.391641,Ngadi Group Power Ltd.
+2026042304011207,NGPL,44,62,200,444.2,88840.0,2026-04-23,187780760,2743,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.391844,Ngadi Group Power Ltd.
+2026042304011208,NGPL,49,62,500,444.1,222050.0,2026-04-23,187780762,2743,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.392054,Ngadi Group Power Ltd.
+2026042304011209,NGPL,48,62,500,444.1,222050.0,2026-04-23,187780764,2743,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-23 14:48:55.392255,Ngadi Group Power Ltd.
+2026042304011210,NGPL,58,62,100,444.0,44400.0,2026-04-23,187780766,2743,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.392473,Ngadi Group Power Ltd.
+2026042304011211,NGPL,75,62,33,444.0,14652.0,2026-04-23,187780768,2743,N.I.M.B. Stock Markets Limited,Capital Max Securities Ltd,2026-04-23 14:48:55.392708,Ngadi Group Power Ltd.
+2026042304011212,NGPL,52,62,40,444.0,17760.0,2026-04-23,187780770,2743,Sundhara Securities Limited,Capital Max Securities Ltd,2026-04-23 14:48:55.392911,Ngadi Group Power Ltd.
+2026042304011213,NGPL,45,62,100,444.0,44400.0,2026-04-23,187780772,2743,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.393117,Ngadi Group Power Ltd.
+2026042304011214,NGPL,19,62,500,444.0,222000.0,2026-04-23,187780774,2743,Nepal Investment And Securities Trading Private Limited,Capital Max Securities Ltd,2026-04-23 14:48:55.393331,Ngadi Group Power Ltd.
+2026042304011215,NGPL,35,62,30,444.0,13320.0,2026-04-23,187780776,2743,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.393543,Ngadi Group Power Ltd.
+2026042304011216,NGPL,48,62,100,444.0,44400.0,2026-04-23,187780778,2743,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-23 14:48:55.393749,Ngadi Group Power Ltd.
+2026042304011217,NGPL,35,62,115,444.0,51060.0,2026-04-23,187780780,2743,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.393965,Ngadi Group Power Ltd.
+2026042304011218,NGPL,50,62,100,444.0,44400.0,2026-04-23,187780782,2743,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.394163,Ngadi Group Power Ltd.
+2026042304011219,NGPL,45,62,494,444.0,219336.0,2026-04-23,187780786,2743,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.394381,Ngadi Group Power Ltd.
+2026042304011220,NGPL,45,62,100,444.0,44400.0,2026-04-23,187780788,2743,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:48:55.394584,Ngadi Group Power Ltd.
+2026042304011322,NGPL,58,62,10,444.0,4440.0,2026-04-23,187781670,2743,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 14:49:31.200365,Ngadi Group Power Ltd.
+2026042304011526,NGPL,81,62,18,444.0,7992.0,2026-04-23,187782696,2743,Aakashbhairab Securities Ltd.,Capital Max Securities Ltd,2026-04-23 14:50:03.555781,Ngadi Group Power Ltd.
+2026042304011549,NGPL,92,8,50,443.5,22175.0,2026-04-23,187782903,2743,Roadshow securities limited,Brilliant Securities Pvt. Ltd.,2026-04-23 14:50:10.596083,Ngadi Group Power Ltd.
+2026042304011703,NGPL,92,45,200,443.5,88700.0,2026-04-23,187784203,2743,Roadshow securities limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:51:13.124741,Ngadi Group Power Ltd.
+2026042304011880,NGPL,66,62,10,444.0,4440.0,2026-04-23,187785858,2743,Miyo Securities Pvt Ltd,Capital Max Securities Ltd,2026-04-23 14:52:21.811643,Ngadi Group Power Ltd.
+2026042304011883,NGPL,22,62,10,444.0,4440.0,2026-04-23,187785884,2743,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:52:24.401792,Ngadi Group Power Ltd.
+2026042304011884,NGPL,4,62,200,444.0,88800.0,2026-04-23,187785904,2743,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-23 14:52:25.506790,Ngadi Group Power Ltd.
+2026042304011912,NGPL,62,34,200,443.9,88780.0,2026-04-23,187786236,2743,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-23 14:52:39.720043,Ngadi Group Power Ltd.
+2026042304011960,NGPL,48,1,100,443.6,44360.0,2026-04-23,187786898,2743,Trishakti Securities Public Limited,Kumari Securities Private Limited,2026-04-23 14:53:06.203116,Ngadi Group Power Ltd.
+2026042304012006,NGPL,92,44,350,443.5,155225.0,2026-04-23,187787548,2743,Roadshow securities limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.504376,Ngadi Group Power Ltd.
+2026042304012007,NGPL,43,44,35,443.4,15519.0,2026-04-23,187787550,2743,South Asian Bulls Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.504866,Ngadi Group Power Ltd.
+2026042304012008,NGPL,44,44,1000,443.3,443300.0,2026-04-23,187787552,2743,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.505081,Ngadi Group Power Ltd.
+2026042304012009,NGPL,81,44,500,443.1,221550.0,2026-04-23,187787554,2743,Aakashbhairab Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.505289,Ngadi Group Power Ltd.
+2026042304012010,NGPL,42,44,10,443.0,4430.0,2026-04-23,187787556,2743,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.505524,Ngadi Group Power Ltd.
+2026042304012011,NGPL,25,44,200,443.0,88600.0,2026-04-23,187787558,2743,Sweta Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.505830,Ngadi Group Power Ltd.
+2026042304012012,NGPL,57,44,100,443.0,44300.0,2026-04-23,187787560,2743,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.506074,Ngadi Group Power Ltd.
+2026042304012013,NGPL,75,44,33,443.0,14619.0,2026-04-23,187787562,2743,N.I.M.B. Stock Markets Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.506344,Ngadi Group Power Ltd.
+2026042304012014,NGPL,6,44,20,443.0,8860.0,2026-04-23,187787564,2743,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.506599,Ngadi Group Power Ltd.
+2026042304012015,NGPL,35,44,50,443.0,22150.0,2026-04-23,187787566,2743,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.506849,Ngadi Group Power Ltd.
+2026042304012016,NGPL,42,44,62,443.0,27466.0,2026-04-23,187787568,2743,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:36.507114,Ngadi Group Power Ltd.
+2026042304012063,NGPL,34,44,150,443.0,66450.0,2026-04-23,187787882,2743,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:48.774790,Ngadi Group Power Ltd.
+2026042304012081,NGPL,43,44,40,443.0,17720.0,2026-04-23,187787970,2743,South Asian Bulls Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:52.168240,Ngadi Group Power Ltd.
+2026042304012083,NGPL,53,44,200,443.0,88600.0,2026-04-23,187787988,2743,Investment Management Nepal Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:53:53.162111,Ngadi Group Power Ltd.
+2026042304012180,NGPL,81,66,500,442.8,221400.0,2026-04-23,187788886,2743,Aakashbhairab Securities Ltd.,Miyo Securities Pvt Ltd,2026-04-23 14:54:24.569567,Ngadi Group Power Ltd.
+2026042304012181,NGPL,58,66,500,442.7,221350.0,2026-04-23,187788887,2743,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-23 14:54:24.570001,Ngadi Group Power Ltd.
+2026042304012183,NGPL,14,44,250,443.0,110750.0,2026-04-23,187788915,2743,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:54:25.936885,Ngadi Group Power Ltd.
+2026042304012184,NGPL,14,1,250,443.0,110750.0,2026-04-23,187788918,2743,Nepal Stock House (PVT) Ltd.,Kumari Securities Private Limited,2026-04-23 14:54:25.937381,Ngadi Group Power Ltd.
+2026042304012196,NGPL,52,1,25,443.0,11075.0,2026-04-23,187789122,2743,Sundhara Securities Limited,Kumari Securities Private Limited,2026-04-23 14:54:34.651818,Ngadi Group Power Ltd.
+2026042304012227,NGPL,13,1,30,443.0,13290.0,2026-04-23,187789346,2743,Thrive Brokerage House Pvt. Ltd,Kumari Securities Private Limited,2026-04-23 14:54:43.881639,Ngadi Group Power Ltd.
+2026042304012232,NGPL,33,1,95,443.0,42085.0,2026-04-23,187789397,2743,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 14:54:47.215937,Ngadi Group Power Ltd.
+2026042304012236,NGPL,14,34,50,443.0,22150.0,2026-04-23,187789416,2743,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:54:48.509100,Ngadi Group Power Ltd.
+2026042304012253,NGPL,58,49,200,442.7,88540.0,2026-04-23,187789851,2743,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:55:03.665151,Ngadi Group Power Ltd.
+2026042304012263,NGPL,43,34,50,443.0,22150.0,2026-04-23,187789988,2743,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:55:08.562227,Ngadi Group Power Ltd.
+2026042304012269,NGPL,42,50,500,443.0,221500.0,2026-04-23,187790141,2743,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:55:15.834693,Ngadi Group Power Ltd.
+2026042304012416,NGPL,48,35,50,443.1,22155.0,2026-04-23,187791174,2743,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:53.548447,Ngadi Group Power Ltd.
+2026042304012417,NGPL,42,35,500,443.0,221500.0,2026-04-23,187791176,2743,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:53.549346,Ngadi Group Power Ltd.
+2026042304012418,NGPL,14,35,500,443.0,221500.0,2026-04-23,187791178,2743,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:53.549949,Ngadi Group Power Ltd.
+2026042304012419,NGPL,63,35,100,443.0,44300.0,2026-04-23,187791180,2743,Himalayan Brokerage Company Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:55:53.550569,Ngadi Group Power Ltd.
+2026042304012475,NGPL,58,35,200,443.0,88600.0,2026-04-23,187791428,2743,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:01.857774,Ngadi Group Power Ltd.
+2026042304012481,NGPL,92,35,400,443.0,177200.0,2026-04-23,187791492,2743,Roadshow securities limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:06.001378,Ngadi Group Power Ltd.
+2026042304012508,NGPL,46,44,30,442.8,13284.0,2026-04-23,187791698,2743,Kalika Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.753906,Ngadi Group Power Ltd.
+2026042304012509,NGPL,58,44,1032,442.7,456866.4,2026-04-23,187791700,2743,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.754378,Ngadi Group Power Ltd.
+2026042304012510,NGPL,14,44,400,442.4,176960.0,2026-04-23,187791702,2743,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.754588,Ngadi Group Power Ltd.
+2026042304012511,NGPL,17,44,3483,442.3,1540530.9,2026-04-23,187791704,2743,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.754783,Ngadi Group Power Ltd.
+2026042304012512,NGPL,51,44,1000,442.1,442100.0,2026-04-23,187791706,2743,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.754985,Ngadi Group Power Ltd.
+2026042304012513,NGPL,5,44,2000,442.1,884200.0,2026-04-23,187791708,2743,Market Securities & Exchange (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.755181,Ngadi Group Power Ltd.
+2026042304012514,NGPL,45,44,2000,442.1,884200.0,2026-04-23,187791710,2743,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.755393,Ngadi Group Power Ltd.
+2026042304012515,NGPL,29,44,55,442.1,24315.5,2026-04-23,187791711,2743,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:56:13.755591,Ngadi Group Power Ltd.
+2026042304012521,NGPL,16,35,200,443.0,88600.0,2026-04-23,187791762,2743,Primo Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:14.842076,Ngadi Group Power Ltd.
+2026042304012532,NGPL,91,35,200,443.0,88600.0,2026-04-23,187791902,2743,Citizens Share Broker Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:20.781841,Ngadi Group Power Ltd.
+2026042304012555,NGPL,29,49,25,442.1,11052.5,2026-04-23,187792075,2743,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:56:26.638806,Ngadi Group Power Ltd.
+2026042304012567,NGPL,58,35,100,443.0,44300.0,2026-04-23,187792309,2743,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:34.443440,Ngadi Group Power Ltd.
+2026042304012577,NGPL,34,45,50,442.8,22140.0,2026-04-23,187792366,2743,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:56:36.186558,Ngadi Group Power Ltd.
+2026042304012645,NGPL,29,45,50,442.8,22140.0,2026-04-23,187792895,2743,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:56:52.739325,Ngadi Group Power Ltd.
+2026042304012646,NGPL,29,35,250,443.0,110750.0,2026-04-23,187792898,2743,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:56:52.740218,Ngadi Group Power Ltd.
+2026042304012647,NGPL,29,45,81,442.1,35810.1,2026-04-23,187792899,2743,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:56:52.957588,Ngadi Group Power Ltd.
+2026042304012694,NGPL,44,35,700,443.0,310100.0,2026-04-23,187793217,2743,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:57:03.494497,Ngadi Group Power Ltd.
+2026042304012695,NGPL,44,17,325,443.0,143975.0,2026-04-23,187793219,2743,Dynamic Money Managers Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:57:03.494965,Ngadi Group Power Ltd.
+2026042304012696,NGPL,44,47,996,443.0,441228.0,2026-04-23,187793222,2743,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 14:57:03.495268,Ngadi Group Power Ltd.
+2026042304012722,NGPL,33,44,60,442.2,26532.0,2026-04-23,187793629,2743,Dakshinkali Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:57:17.148583,Ngadi Group Power Ltd.
+2026042304012878,NGPL,66,34,300,443.9,133170.0,2026-04-23,187795690,2743,Miyo Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-23 14:58:12.111052,Ngadi Group Power Ltd.
+2026042304012879,NGPL,66,4,14,443.9,6214.6,2026-04-23,187795692,2743,Miyo Securities Pvt Ltd,Opal Securities Investment (PVT) Ltd.,2026-04-23 14:58:12.111146,Ngadi Group Power Ltd.
+2026042304012880,NGPL,66,62,693,444.0,307692.0,2026-04-23,187795694,2743,Miyo Securities Pvt Ltd,Capital Max Securities Ltd,2026-04-23 14:58:12.111228,Ngadi Group Power Ltd.
+2026042304012881,NGPL,66,38,500,444.0,222000.0,2026-04-23,187795696,2743,Miyo Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:58:12.111343,Ngadi Group Power Ltd.
+2026042304012882,NGPL,66,34,590,444.9,262491.0,2026-04-23,187795698,2743,Miyo Securities Pvt Ltd,Vision Securities Pvt. Ltd,2026-04-23 14:58:12.111406,Ngadi Group Power Ltd.
+2026042304012883,NGPL,66,7,2000,445.0,890000.0,2026-04-23,187795700,2743,Miyo Securities Pvt Ltd,J.F. Securites (PVT) Ltd.,2026-04-23 14:58:12.111497,Ngadi Group Power Ltd.
+2026042304012884,NGPL,66,41,4000,445.0,1780000.0,2026-04-23,187795702,2743,Miyo Securities Pvt Ltd,Linch Stock Market Ltd.,2026-04-23 14:58:12.111577,Ngadi Group Power Ltd.
+2026042304012885,NGPL,66,19,100,445.0,44500.0,2026-04-23,187795704,2743,Miyo Securities Pvt Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:58:12.111658,Ngadi Group Power Ltd.
+2026042304012886,NGPL,66,44,446,446.0,198916.0,2026-04-23,187795706,2743,Miyo Securities Pvt Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:58:12.111743,Ngadi Group Power Ltd.
+2026042304012887,NGPL,66,57,1357,446.0,605222.0,2026-04-23,187795709,2743,Miyo Securities Pvt Ltd,Aryatara Investment & Securities,2026-04-23 14:58:12.111814,Ngadi Group Power Ltd.
+2026042304013004,NGPL,38,14,10,444.0,4440.0,2026-04-23,187796776,2743,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:58:33.549781,Ngadi Group Power Ltd.
+2026042304013005,NGPL,29,14,240,443.0,106320.0,2026-04-23,187796777,2743,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:58:33.550216,Ngadi Group Power Ltd.
+2026042304013072,NGPL,48,38,23,443.1,10191.3,2026-04-23,187797485,2743,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:58:53.090866,Ngadi Group Power Ltd.
+2026042304013121,NGPL,48,8,27,443.1,11963.7,2026-04-23,187798106,2743,Trishakti Securities Public Limited,Brilliant Securities Pvt. Ltd.,2026-04-23 14:59:04.833931,Ngadi Group Power Ltd.
+2026042304013122,NGPL,22,8,90,443.1,39879.0,2026-04-23,187798110,2743,Siprabi Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 14:59:04.834375,Ngadi Group Power Ltd.
+2026042304013123,NGPL,29,8,83,443.0,36769.0,2026-04-23,187798111,2743,Trisul Securities & Invt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 14:59:04.834604,Ngadi Group Power Ltd.
+2026042304013160,NGPL,52,74,10,445.0,4450.0,2026-04-23,187798618,2743,Sundhara Securities Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-23 14:59:09.301072,Ngadi Group Power Ltd.
+2026042304013518,NGPL,32,17,60,444.0,26640.0,2026-04-23,187801103,2743,Premier Securities Company Ltd.,ABC Securities Private Limited,2026-04-23 14:59:45.225450,Ngadi Group Power Ltd.
+2026042304013621,NGPL,57,62,10,444.9,4449.0,2026-04-23,187802722,2743,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-23 14:59:57.990875,Ngadi Group Power Ltd.

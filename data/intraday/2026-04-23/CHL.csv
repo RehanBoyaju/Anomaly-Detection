@@ -1,0 +1,118 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042304000012,CHL,58,25,50,302.0,15100.0,2026-04-23,187615026,2766,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 10:46:00.091110,Chhyangdi Hydropower Ltd.
+2026042304000074,CHL,13,25,500,302.0,151000.0,2026-04-23,187617938,2766,Thrive Brokerage House Pvt. Ltd,Sweta Securities Private Limited,2026-04-23 11:03:14.815356,Chhyangdi Hydropower Ltd.
+2026042304000110,CHL,52,26,1000,294.0,294000.0,2026-04-23,187618777,2766,Sundhara Securities Limited,Asian Securities Private Ltd.,2026-04-23 11:04:13.774132,Chhyangdi Hydropower Ltd.
+2026042304000697,CHL,52,25,95,302.0,28690.0,2026-04-23,187629144,2766,Sundhara Securities Limited,Sweta Securities Private Limited,2026-04-23 11:14:39.457228,Chhyangdi Hydropower Ltd.
+2026042304000759,CHL,36,41,60,295.0,17700.0,2026-04-23,187630391,2766,Secured Securities Ltd.,Linch Stock Market Ltd.,2026-04-23 11:15:47.367538,Chhyangdi Hydropower Ltd.
+2026042304000792,CHL,36,41,10,295.0,2950.0,2026-04-23,187630715,2766,Secured Securities Ltd.,Linch Stock Market Ltd.,2026-04-23 11:16:08.869257,Chhyangdi Hydropower Ltd.
+2026042304001220,CHL,51,58,10,296.0,2960.0,2026-04-23,187639675,2766,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:23:47.114122,Chhyangdi Hydropower Ltd.
+2026042304001478,CHL,97,34,5,288.0,1440.0,2026-04-23,187645141,2766,R.B.B. Securities Company Ltd,Vision Securities Pvt. Ltd,2026-04-23 11:28:19.204135,Chhyangdi Hydropower Ltd.
+2026042304001577,CHL,51,38,90,296.0,26640.0,2026-04-23,187647396,2766,Oxford Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:30:11.884413,Chhyangdi Hydropower Ltd.
+2026042304001578,CHL,42,38,20,296.0,5920.0,2026-04-23,187647397,2766,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:30:11.884524,Chhyangdi Hydropower Ltd.
+2026042304002029,CHL,42,59,10,297.0,2970.0,2026-04-23,187656870,2766,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:40:27.394020,Chhyangdi Hydropower Ltd.
+2026042304002057,CHL,42,58,200,299.9,59980.0,2026-04-23,187657384,2766,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:41:06.752026,Chhyangdi Hydropower Ltd.
+2026042304002079,CHL,39,38,47,300.8,14137.6,2026-04-23,187657830,2766,Sumeru Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:41:43.370094,Chhyangdi Hydropower Ltd.
+2026042304002261,CHL,58,75,50,297.0,14850.0,2026-04-23,187660012,2766,Naasa Securities Co. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-23 11:44:22.242791,Chhyangdi Hydropower Ltd.
+2026042304002262,CHL,51,75,600,296.0,177600.0,2026-04-23,187660013,2766,Oxford Securities Pvt. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-23 11:44:22.242961,Chhyangdi Hydropower Ltd.
+2026042304002552,CHL,52,43,50,295.5,14775.0,2026-04-23,187664244,2766,Sundhara Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185239,Chhyangdi Hydropower Ltd.
+2026042304002553,CHL,21,43,20,295.5,5910.0,2026-04-23,187664246,2766,Midas Stock Broking Company Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185394,Chhyangdi Hydropower Ltd.
+2026042304002554,CHL,21,43,124,295.5,36642.0,2026-04-23,187664248,2766,Midas Stock Broking Company Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185443,Chhyangdi Hydropower Ltd.
+2026042304002555,CHL,52,43,50,295.1,14755.0,2026-04-23,187664250,2766,Sundhara Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185490,Chhyangdi Hydropower Ltd.
+2026042304002556,CHL,50,43,50,295.1,14755.0,2026-04-23,187664252,2766,Cristal Kanchanjanga Securites Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185538,Chhyangdi Hydropower Ltd.
+2026042304002557,CHL,36,43,101,295.0,29795.0,2026-04-23,187664254,2766,Secured Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185581,Chhyangdi Hydropower Ltd.
+2026042304002558,CHL,42,43,100,295.0,29500.0,2026-04-23,187664256,2766,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185624,Chhyangdi Hydropower Ltd.
+2026042304002559,CHL,45,43,400,295.0,118000.0,2026-04-23,187664258,2766,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185669,Chhyangdi Hydropower Ltd.
+2026042304002560,CHL,21,43,50,295.0,14750.0,2026-04-23,187664260,2766,Midas Stock Broking Company Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185713,Chhyangdi Hydropower Ltd.
+2026042304002561,CHL,26,43,150,295.0,44250.0,2026-04-23,187664262,2766,Asian Securities Private Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185753,Chhyangdi Hydropower Ltd.
+2026042304002562,CHL,6,43,500,294.2,147100.0,2026-04-23,187664264,2766,Agrawal Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185798,Chhyangdi Hydropower Ltd.
+2026042304002563,CHL,58,43,300,294.0,88200.0,2026-04-23,187664266,2766,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185844,Chhyangdi Hydropower Ltd.
+2026042304002564,CHL,4,43,400,294.0,117600.0,2026-04-23,187664268,2766,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185889,Chhyangdi Hydropower Ltd.
+2026042304002565,CHL,64,43,200,294.0,58800.0,2026-04-23,187664270,2766,SUN SECURITIES PVT LTD,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185929,Chhyangdi Hydropower Ltd.
+2026042304002566,CHL,58,43,100,294.0,29400.0,2026-04-23,187664272,2766,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.185968,Chhyangdi Hydropower Ltd.
+2026042304002567,CHL,52,43,10,294.0,2940.0,2026-04-23,187664274,2766,Sundhara Securities Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.186010,Chhyangdi Hydropower Ltd.
+2026042304002568,CHL,38,43,10,294.0,2940.0,2026-04-23,187664276,2766,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.186048,Chhyangdi Hydropower Ltd.
+2026042304002569,CHL,35,43,100,294.0,29400.0,2026-04-23,187664278,2766,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.186085,Chhyangdi Hydropower Ltd.
+2026042304002570,CHL,4,43,500,294.0,147000.0,2026-04-23,187664280,2766,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.186123,Chhyangdi Hydropower Ltd.
+2026042304002571,CHL,25,43,250,294.0,73500.0,2026-04-23,187664282,2766,Sweta Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.186159,Chhyangdi Hydropower Ltd.
+2026042304002572,CHL,22,43,35,294.0,10290.0,2026-04-23,187664283,2766,Siprabi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 11:49:50.186197,Chhyangdi Hydropower Ltd.
+2026042304002861,CHL,44,36,185,295.0,54575.0,2026-04-23,187668333,2766,Dynamic Money Managers Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 11:54:58.363776,Chhyangdi Hydropower Ltd.
+2026042304003635,CHL,22,32,500,295.1,147550.0,2026-04-23,187680637,2766,Siprabi Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 12:09:36.586496,Chhyangdi Hydropower Ltd.
+2026042304003865,CHL,59,41,50,295.2,14760.0,2026-04-23,187684057,2766,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-23 12:14:22.069562,Chhyangdi Hydropower Ltd.
+2026042304004697,CHL,13,58,39,298.5,11641.5,2026-04-23,187697453,2766,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 12:36:05.395048,Chhyangdi Hydropower Ltd.
+2026042304004698,CHL,13,57,11,298.9,3287.9,2026-04-23,187697456,2766,Thrive Brokerage House Pvt. Ltd,Aryatara Investment & Securities,2026-04-23 12:36:05.395197,Chhyangdi Hydropower Ltd.
+2026042304005379,CHL,41,25,300,298.8,89640.0,2026-04-23,187707814,2766,Linch Stock Market Ltd.,Sweta Securities Private Limited,2026-04-23 12:53:29.603294,Chhyangdi Hydropower Ltd.
+2026042304005413,CHL,42,25,18,298.8,5378.4,2026-04-23,187708253,2766,Sani Securities Company Ltd.,Sweta Securities Private Limited,2026-04-23 12:54:18.181636,Chhyangdi Hydropower Ltd.
+2026042304005414,CHL,42,57,89,298.9,26602.1,2026-04-23,187708255,2766,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-23 12:54:18.181759,Chhyangdi Hydropower Ltd.
+2026042304005415,CHL,42,42,1393,299.9,417760.7,2026-04-23,187708258,2766,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 12:54:18.181816,Chhyangdi Hydropower Ltd.
+2026042304005429,CHL,42,42,607,299.9,182039.3,2026-04-23,187708561,2766,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 12:54:49.413525,Chhyangdi Hydropower Ltd.
+2026042304005430,CHL,42,45,300,300.0,90000.0,2026-04-23,187708563,2766,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:54:49.413673,Chhyangdi Hydropower Ltd.
+2026042304005431,CHL,42,58,25,300.0,7500.0,2026-04-23,187708565,2766,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:54:49.413732,Chhyangdi Hydropower Ltd.
+2026042304005432,CHL,42,42,68,300.0,20400.0,2026-04-23,187708568,2766,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 12:54:49.413813,Chhyangdi Hydropower Ltd.
+2026042304005456,CHL,62,42,532,300.0,159600.0,2026-04-23,187708819,2766,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-23 12:55:16.143013,Chhyangdi Hydropower Ltd.
+2026042304005457,CHL,62,6,390,300.0,117000.0,2026-04-23,187708821,2766,Capital Max Securities Ltd,Agrawal Securities (PVT) Ltd.,2026-04-23 12:55:16.143261,Chhyangdi Hydropower Ltd.
+2026042304005458,CHL,62,43,16,300.0,4800.0,2026-04-23,187708823,2766,Capital Max Securities Ltd,South Asian Bulls Pvt. Ltd.,2026-04-23 12:55:16.143451,Chhyangdi Hydropower Ltd.
+2026042304005459,CHL,62,42,962,300.0,288600.0,2026-04-23,187708826,2766,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-23 12:55:16.143599,Chhyangdi Hydropower Ltd.
+2026042304005728,CHL,45,42,39,300.0,11700.0,2026-04-23,187713491,2766,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 13:01:09.879200,Chhyangdi Hydropower Ltd.
+2026042304005755,CHL,42,38,53,300.8,15942.4,2026-04-23,187713829,2766,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:01:39.965643,Chhyangdi Hydropower Ltd.
+2026042304005756,CHL,42,49,18,301.0,5418.0,2026-04-23,187713831,2766,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:01:39.965794,Chhyangdi Hydropower Ltd.
+2026042304005757,CHL,42,4,10,301.0,3010.0,2026-04-23,187713833,2766,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 13:01:39.965852,Chhyangdi Hydropower Ltd.
+2026042304005758,CHL,42,51,50,301.9,15095.0,2026-04-23,187713835,2766,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 13:01:39.965908,Chhyangdi Hydropower Ltd.
+2026042304005759,CHL,42,38,19,302.0,5738.0,2026-04-23,187713838,2766,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:01:39.965984,Chhyangdi Hydropower Ltd.
+2026042304005792,CHL,62,38,61,302.0,18422.0,2026-04-23,187714379,2766,Capital Max Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:02:18.799654,Chhyangdi Hydropower Ltd.
+2026042304005793,CHL,62,52,25,302.0,7550.0,2026-04-23,187714381,2766,Capital Max Securities Ltd,Sundhara Securities Limited,2026-04-23 13:02:18.799817,Chhyangdi Hydropower Ltd.
+2026042304005794,CHL,62,13,114,302.0,34428.0,2026-04-23,187714384,2766,Capital Max Securities Ltd,Thrive Brokerage House Pvt. Ltd,2026-04-23 13:02:18.799873,Chhyangdi Hydropower Ltd.
+2026042304007218,CHL,45,6,60,301.0,18060.0,2026-04-23,187732795,2766,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:30:04.753217,Chhyangdi Hydropower Ltd.
+2026042304007219,CHL,45,46,1,301.0,301.0,2026-04-23,187732797,2766,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:30:04.753508,Chhyangdi Hydropower Ltd.
+2026042304007732,CHL,42,34,10,301.0,3010.0,2026-04-23,187739230,2766,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:40:37.466695,Chhyangdi Hydropower Ltd.
+2026042304008017,CHL,36,49,25,296.4,7410.0,2026-04-23,187744271,2766,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:51:19.330824,Chhyangdi Hydropower Ltd.
+2026042304008267,CHL,32,38,100,298.0,29800.0,2026-04-23,187748013,2766,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:00:28.433518,Chhyangdi Hydropower Ltd.
+2026042304010111,CHL,52,26,565,296.6,167579.0,2026-04-23,187769113,2766,Sundhara Securities Limited,Asian Securities Private Ltd.,2026-04-23 14:36:14.838326,Chhyangdi Hydropower Ltd.
+2026042304010245,CHL,36,19,200,296.6,59320.0,2026-04-23,187771058,2766,Secured Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:38:38.668873,Chhyangdi Hydropower Ltd.
+2026042304010257,CHL,57,58,10,296.5,2965.0,2026-04-23,187771164,2766,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-23 14:38:45.782589,Chhyangdi Hydropower Ltd.
+2026042304010402,CHL,58,33,40,298.0,11920.0,2026-04-23,187773499,2766,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 14:41:50.280724,Chhyangdi Hydropower Ltd.
+2026042304010403,CHL,58,16,14,298.0,4172.0,2026-04-23,187773501,2766,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:41:50.280914,Chhyangdi Hydropower Ltd.
+2026042304010404,CHL,58,14,20,298.0,5960.0,2026-04-23,187773503,2766,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:41:50.280981,Chhyangdi Hydropower Ltd.
+2026042304010405,CHL,58,6,540,298.4,161136.0,2026-04-23,187773505,2766,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:41:50.281044,Chhyangdi Hydropower Ltd.
+2026042304010406,CHL,58,57,100,298.5,29850.0,2026-04-23,187773507,2766,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-23 14:41:50.281109,Chhyangdi Hydropower Ltd.
+2026042304010407,CHL,58,43,460,298.5,137310.0,2026-04-23,187773510,2766,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:41:50.281169,Chhyangdi Hydropower Ltd.
+2026042304010425,CHL,51,51,160,296.5,47440.0,2026-04-23,187773660,2766,Oxford Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:42:01.555972,Chhyangdi Hydropower Ltd.
+2026042304010426,CHL,36,51,50,296.4,14820.0,2026-04-23,187773661,2766,Secured Securities Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:42:01.556271,Chhyangdi Hydropower Ltd.
+2026042304010717,CHL,58,40,2,300.0,600.0,2026-04-23,187776275,2766,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:44:57.423803,Chhyangdi Hydropower Ltd.
+2026042304010812,CHL,49,13,40,297.0,11880.0,2026-04-23,187777407,2766,Online Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-23 14:46:13.933987,Chhyangdi Hydropower Ltd.
+2026042304010851,CHL,49,29,60,297.0,17820.0,2026-04-23,187777826,2766,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:46:39.131510,Chhyangdi Hydropower Ltd.
+2026042304010964,CHL,36,29,40,296.4,11856.0,2026-04-23,187778849,2766,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:47:32.299882,Chhyangdi Hydropower Ltd.
+2026042304011091,CHL,36,29,10,296.4,2964.0,2026-04-23,187779856,2766,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:48:20.151192,Chhyangdi Hydropower Ltd.
+2026042304011092,CHL,36,29,90,296.3,26667.0,2026-04-23,187779857,2766,Secured Securities Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:48:20.151507,Chhyangdi Hydropower Ltd.
+2026042304011249,CHL,36,59,10,296.3,2963.0,2026-04-23,187780938,2766,Secured Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 14:49:04.570301,Chhyangdi Hydropower Ltd.
+2026042304011250,CHL,36,59,300,296.2,88860.0,2026-04-23,187780940,2766,Secured Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 14:49:04.570463,Chhyangdi Hydropower Ltd.
+2026042304011251,CHL,36,59,500,296.1,148050.0,2026-04-23,187780942,2766,Secured Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 14:49:04.570531,Chhyangdi Hydropower Ltd.
+2026042304011252,CHL,44,59,190,296.0,56240.0,2026-04-23,187780943,2766,Dynamic Money Managers Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 14:49:04.570593,Chhyangdi Hydropower Ltd.
+2026042304011274,CHL,44,34,10,296.0,2960.0,2026-04-23,187781317,2766,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 14:49:17.184738,Chhyangdi Hydropower Ltd.
+2026042304011344,CHL,44,32,800,296.0,236800.0,2026-04-23,187781846,2766,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 14:49:37.022215,Chhyangdi Hydropower Ltd.
+2026042304011345,CHL,28,32,1000,295.4,295400.0,2026-04-23,187781848,2766,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-23 14:49:37.022350,Chhyangdi Hydropower Ltd.
+2026042304011346,CHL,43,32,65,295.3,19194.5,2026-04-23,187781850,2766,South Asian Bulls Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 14:49:37.022414,Chhyangdi Hydropower Ltd.
+2026042304011347,CHL,59,32,150,295.2,44280.0,2026-04-23,187781852,2766,Deevyaa Securities & Stock House Pvt. Ltd,Premier Securities Company Ltd.,2026-04-23 14:49:37.022475,Chhyangdi Hydropower Ltd.
+2026042304011348,CHL,42,32,100,295.0,29500.0,2026-04-23,187781854,2766,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 14:49:37.022538,Chhyangdi Hydropower Ltd.
+2026042304011349,CHL,40,32,50,295.0,14750.0,2026-04-23,187781856,2766,Creative Securities Pvt Ltd,Premier Securities Company Ltd.,2026-04-23 14:49:37.022625,Chhyangdi Hydropower Ltd.
+2026042304012052,CHL,39,48,100,294.1,29410.0,2026-04-23,187787850,2766,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:53:48.378742,Chhyangdi Hydropower Ltd.
+2026042304012053,CHL,67,48,300,294.1,88230.0,2026-04-23,187787852,2766,Property Wiard Limited,Trishakti Securities Public Limited,2026-04-23 14:53:48.378839,Chhyangdi Hydropower Ltd.
+2026042304012054,CHL,22,48,265,294.0,77910.0,2026-04-23,187787854,2766,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:53:48.378953,Chhyangdi Hydropower Ltd.
+2026042304012055,CHL,49,48,34,294.0,9996.0,2026-04-23,187787856,2766,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:53:48.379026,Chhyangdi Hydropower Ltd.
+2026042304012056,CHL,32,48,100,293.0,29300.0,2026-04-23,187787858,2766,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-23 14:53:48.379099,Chhyangdi Hydropower Ltd.
+2026042304012057,CHL,35,48,50,293.0,14650.0,2026-04-23,187787860,2766,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:53:48.379171,Chhyangdi Hydropower Ltd.
+2026042304012058,CHL,5,48,1037,293.0,303841.0,2026-04-23,187787862,2766,Market Securities & Exchange (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 14:53:48.379241,Chhyangdi Hydropower Ltd.
+2026042304012059,CHL,42,48,200,293.0,58600.0,2026-04-23,187787864,2766,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-23 14:53:48.379325,Chhyangdi Hydropower Ltd.
+2026042304012060,CHL,84,48,400,293.0,117200.0,2026-04-23,187787866,2766,MILKY WAY SHARE BROKER COMPANY LTD ,Trishakti Securities Public Limited,2026-04-23 14:53:48.379393,Chhyangdi Hydropower Ltd.
+2026042304012061,CHL,52,48,50,292.0,14600.0,2026-04-23,187787868,2766,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-23 14:53:48.379464,Chhyangdi Hydropower Ltd.
+2026042304012062,CHL,74,48,414,292.0,120888.0,2026-04-23,187787869,2766,KALASH STOCK MARKET PVT. LTD.,Trishakti Securities Public Limited,2026-04-23 14:53:48.379529,Chhyangdi Hydropower Ltd.
+2026042304012215,CHL,52,32,60,295.0,17700.0,2026-04-23,187789250,2766,Sundhara Securities Limited,Premier Securities Company Ltd.,2026-04-23 14:54:39.135579,Chhyangdi Hydropower Ltd.
+2026042304013036,CHL,36,56,500,292.4,146200.0,2026-04-23,187797154,2766,Secured Securities Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:58:43.108781,Chhyangdi Hydropower Ltd.
+2026042304013037,CHL,62,56,500,292.3,146150.0,2026-04-23,187797156,2766,Capital Max Securities Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:58:43.108833,Chhyangdi Hydropower Ltd.
+2026042304013038,CHL,45,56,1500,292.1,438150.0,2026-04-23,187797157,2766,Imperial Securities Company Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 14:58:43.108898,Chhyangdi Hydropower Ltd.
+2026042304013112,CHL,58,14,20,294.0,5880.0,2026-04-23,187797995,2766,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:59:03.283820,Chhyangdi Hydropower Ltd.
+2026042304013136,CHL,58,95,200,294.0,58800.0,2026-04-23,187798419,2766,Naasa Securities Co. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 14:59:06.695293,Chhyangdi Hydropower Ltd.
+2026042304013181,CHL,58,6,30,294.0,8820.0,2026-04-23,187798890,2766,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:59:15.014659,Chhyangdi Hydropower Ltd.
+2026042304013369,CHL,44,6,10,294.0,2940.0,2026-04-23,187799866,2766,Dynamic Money Managers Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:59:27.751370,Chhyangdi Hydropower Ltd.
+2026042304013640,CHL,50,6,50,292.2,14610.0,2026-04-23,187802446,2766,Cristal Kanchanjanga Securites Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:59:58.592000,Chhyangdi Hydropower Ltd.
+2026042304013641,CHL,36,6,300,292.2,87660.0,2026-04-23,187802450,2766,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:59:58.592124,Chhyangdi Hydropower Ltd.
+2026042304013642,CHL,45,6,190,292.1,55499.0,2026-04-23,187802451,2766,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 14:59:58.592190,Chhyangdi Hydropower Ltd.

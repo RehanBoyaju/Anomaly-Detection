@@ -1,0 +1,534 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026042105000108,SAHAS,58,4,19,621.0,11799.0,2026-04-21,187183803,8021,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-21 11:03:57.770555,Sahas Urja Limited
+2026042105000307,SAHAS,42,4,10,622.0,6220.0,2026-04-21,187187177,8021,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-21 11:07:53.763093,Sahas Urja Limited
+2026042105000358,SAHAS,14,42,13,625.0,8125.0,2026-04-21,187187817,8021,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-21 11:08:33.483449,Sahas Urja Limited
+2026042105000359,SAHAS,14,49,30,625.0,18750.0,2026-04-21,187187819,8021,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-21 11:08:33.483613,Sahas Urja Limited
+2026042105000391,SAHAS,14,26,13,625.0,8125.0,2026-04-21,187188159,8021,Nepal Stock House (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-21 11:09:04.037445,Sahas Urja Limited
+2026042105000422,SAHAS,14,58,94,625.0,58750.0,2026-04-21,187188422,8021,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-21 11:09:24.335799,Sahas Urja Limited
+2026042105000423,SAHAS,42,58,90,622.0,55980.0,2026-04-21,187188424,8021,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-21 11:09:24.335977,Sahas Urja Limited
+2026042105000424,SAHAS,58,58,18,621.0,11178.0,2026-04-21,187188426,8021,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 11:09:24.336120,Sahas Urja Limited
+2026042105000425,SAHAS,18,58,59,621.0,36639.0,2026-04-21,187188427,8021,Sagarmatha Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 11:09:24.336245,Sahas Urja Limited
+2026042105000459,SAHAS,18,6,13,621.0,8073.0,2026-04-21,187189031,8021,Sagarmatha Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-21 11:10:09.617175,Sahas Urja Limited
+2026042105000467,SAHAS,18,52,13,621.0,8073.0,2026-04-21,187189075,8021,Sagarmatha Securities Private Limited,Sundhara Securities Limited,2026-04-21 11:10:13.560627,Sahas Urja Limited
+2026042105000527,SAHAS,18,49,13,621.0,8073.0,2026-04-21,187189915,8021,Sagarmatha Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-21 11:11:11.472098,Sahas Urja Limited
+2026042105000652,SAHAS,50,58,13,622.0,8086.0,2026-04-21,187191345,8021,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 11:12:59.464154,Sahas Urja Limited
+2026042105000741,SAHAS,45,45,150,624.0,93600.0,2026-04-21,187192402,8021,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-21 11:14:23.342324,Sahas Urja Limited
+2026042105000885,SAHAS,22,45,20,624.0,12480.0,2026-04-21,187194502,8021,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-21 11:17:05.785491,Sahas Urja Limited
+2026042105000911,SAHAS,58,34,10,623.0,6230.0,2026-04-21,187194812,8021,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 11:17:28.028508,Sahas Urja Limited
+2026042105000912,SAHAS,22,34,20,623.0,12460.0,2026-04-21,187194814,8021,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 11:17:28.028645,Sahas Urja Limited
+2026042105000922,SAHAS,51,34,20,623.0,12460.0,2026-04-21,187194995,8021,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 11:17:41.966436,Sahas Urja Limited
+2026042105000936,SAHAS,77,42,10,624.0,6240.0,2026-04-21,187195212,8021,Nabil Stock Dealer Ltd.,Sani Securities Company Ltd.,2026-04-21 11:17:56.122533,Sahas Urja Limited
+2026042105000978,SAHAS,50,36,13,622.0,8086.0,2026-04-21,187196025,8021,Cristal Kanchanjanga Securites Pvt. Ltd.,Secured Securities Ltd.,2026-04-21 11:18:41.656568,Sahas Urja Limited
+2026042105001061,SAHAS,50,11,13,622.0,8086.0,2026-04-21,187197473,8021,Cristal Kanchanjanga Securites Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-21 11:20:02.000680,Sahas Urja Limited
+2026042105001167,SAHAS,58,44,13,623.0,8099.0,2026-04-21,187200345,8021,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 11:21:47.359215,Sahas Urja Limited
+2026042105001270,SAHAS,8,35,10,623.0,6230.0,2026-04-21,187202636,8021,Brilliant Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 11:23:55.466483,Sahas Urja Limited
+2026042105001332,SAHAS,42,42,186,624.0,116064.0,2026-04-21,187204171,8021,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-21 11:25:27.058615,Sahas Urja Limited
+2026042105001369,SAHAS,19,58,13,624.0,8112.0,2026-04-21,187204545,8021,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-21 11:25:53.453162,Sahas Urja Limited
+2026042105001370,SAHAS,19,57,57,624.0,35568.0,2026-04-21,187204548,8021,Nepal Investment And Securities Trading Private Limited,Aryatara Investment & Securities,2026-04-21 11:25:53.453559,Sahas Urja Limited
+2026042105001411,SAHAS,44,57,53,624.0,33072.0,2026-04-21,187205255,8021,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-21 11:26:48.262452,Sahas Urja Limited
+2026042105001412,SAHAS,44,95,50,625.0,31250.0,2026-04-21,187205257,8021,Dynamic Money Managers Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-21 11:26:48.262658,Sahas Urja Limited
+2026042105001413,SAHAS,44,22,13,625.0,8125.0,2026-04-21,187205259,8021,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 11:26:48.262729,Sahas Urja Limited
+2026042105001547,SAHAS,25,34,20,624.0,12480.0,2026-04-21,187206844,8021,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 11:29:20.391180,Sahas Urja Limited
+2026042105001562,SAHAS,49,34,30,624.0,18720.0,2026-04-21,187207141,8021,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 11:29:45.654567,Sahas Urja Limited
+2026042105001647,SAHAS,49,44,10,624.0,6240.0,2026-04-21,187208068,8021,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 11:31:09.969431,Sahas Urja Limited
+2026042105001826,SAHAS,58,32,13,624.0,8112.0,2026-04-21,187210049,8021,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-21 11:34:06.262165,Sahas Urja Limited
+2026042105001827,SAHAS,58,7,13,624.0,8112.0,2026-04-21,187210051,8021,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-21 11:34:06.262586,Sahas Urja Limited
+2026042105001828,SAHAS,58,29,13,624.9,8123.7,2026-04-21,187210053,8021,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-21 11:34:06.262825,Sahas Urja Limited
+2026042105001829,SAHAS,58,58,61,625.0,38125.0,2026-04-21,187210056,8021,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 11:34:06.263051,Sahas Urja Limited
+2026042105001889,SAHAS,58,58,15,625.0,9375.0,2026-04-21,187210562,8021,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 11:34:57.230994,Sahas Urja Limited
+2026042105001909,SAHAS,101,58,257,625.0,160625.0,2026-04-21,187210753,8021,APPLE SECURITIES PRIVATE LIMITED,Naasa Securities Co. Ltd.,2026-04-21 11:35:14.085403,Sahas Urja Limited
+2026042105001910,SAHAS,101,58,13,625.0,8125.0,2026-04-21,187210755,8021,APPLE SECURITIES PRIVATE LIMITED,Naasa Securities Co. Ltd.,2026-04-21 11:35:14.085687,Sahas Urja Limited
+2026042105001911,SAHAS,101,48,13,625.0,8125.0,2026-04-21,187210757,8021,APPLE SECURITIES PRIVATE LIMITED,Trishakti Securities Public Limited,2026-04-21 11:35:14.085797,Sahas Urja Limited
+2026042105001912,SAHAS,101,45,32,625.0,20000.0,2026-04-21,187210759,8021,APPLE SECURITIES PRIVATE LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-21 11:35:14.085896,Sahas Urja Limited
+2026042105001913,SAHAS,101,38,13,625.0,8125.0,2026-04-21,187210761,8021,APPLE SECURITIES PRIVATE LIMITED,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 11:35:14.085971,Sahas Urja Limited
+2026042105001914,SAHAS,101,33,10,625.0,6250.0,2026-04-21,187210763,8021,APPLE SECURITIES PRIVATE LIMITED,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 11:35:14.086055,Sahas Urja Limited
+2026042105001915,SAHAS,101,45,101,625.0,63125.0,2026-04-21,187210765,8021,APPLE SECURITIES PRIVATE LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-21 11:35:14.086128,Sahas Urja Limited
+2026042105001916,SAHAS,101,57,13,625.0,8125.0,2026-04-21,187210767,8021,APPLE SECURITIES PRIVATE LIMITED,Aryatara Investment & Securities,2026-04-21 11:35:14.086207,Sahas Urja Limited
+2026042105001960,SAHAS,101,38,13,625.0,8125.0,2026-04-21,187211643,8021,APPLE SECURITIES PRIVATE LIMITED,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 11:36:10.336961,Sahas Urja Limited
+2026042105001974,SAHAS,101,49,13,625.0,8125.0,2026-04-21,187211785,8021,APPLE SECURITIES PRIVATE LIMITED,Online Securities Pvt. Ltd.,2026-04-21 11:36:28.547633,Sahas Urja Limited
+2026042105001988,SAHAS,101,49,22,625.0,13750.0,2026-04-21,187211909,8021,APPLE SECURITIES PRIVATE LIMITED,Online Securities Pvt. Ltd.,2026-04-21 11:36:40.988899,Sahas Urja Limited
+2026042105002005,SAHAS,101,45,500,625.0,312500.0,2026-04-21,187212153,8021,APPLE SECURITIES PRIVATE LIMITED,Imperial Securities Company Pvt. Ltd.,2026-04-21 11:36:59.633305,Sahas Urja Limited
+2026042105002039,SAHAS,38,42,20,623.5,12470.0,2026-04-21,187212638,8021,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-21 11:37:43.223339,Sahas Urja Limited
+2026042105002040,SAHAS,35,42,27,623.0,16821.0,2026-04-21,187212640,8021,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:37:43.223709,Sahas Urja Limited
+2026042105002041,SAHAS,36,42,15,623.0,9345.0,2026-04-21,187212642,8021,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-21 11:37:43.223947,Sahas Urja Limited
+2026042105002056,SAHAS,50,42,13,622.0,8086.0,2026-04-21,187212815,8021,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:38:03.828420,Sahas Urja Limited
+2026042105002069,SAHAS,34,42,238,623.0,148274.0,2026-04-21,187213041,8021,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,2026-04-21 11:38:21.006867,Sahas Urja Limited
+2026042105002149,SAHAS,34,57,13,625.0,8125.0,2026-04-21,187213851,8021,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-21 11:39:29.346676,Sahas Urja Limited
+2026042105002189,SAHAS,34,6,13,625.0,8125.0,2026-04-21,187214401,8021,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-21 11:40:25.404226,Sahas Urja Limited
+2026042105002265,SAHAS,34,45,13,625.0,8125.0,2026-04-21,187215107,8021,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-21 11:41:29.985035,Sahas Urja Limited
+2026042105002271,SAHAS,34,14,223,625.0,139375.0,2026-04-21,187215238,8021,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-21 11:41:39.473999,Sahas Urja Limited
+2026042105002272,SAHAS,47,14,50,625.0,31250.0,2026-04-21,187215240,8021,Neev Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 11:41:39.474275,Sahas Urja Limited
+2026042105002273,SAHAS,89,14,20,625.0,12500.0,2026-04-21,187215242,8021,Global IME Securities Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 11:41:39.474390,Sahas Urja Limited
+2026042105002280,SAHAS,34,14,100,625.0,62500.0,2026-04-21,187215412,8021,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,2026-04-21 11:41:47.378589,Sahas Urja Limited
+2026042105002349,SAHAS,44,32,13,624.0,8112.0,2026-04-21,187216329,8021,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-21 11:42:47.869377,Sahas Urja Limited
+2026042105002383,SAHAS,44,42,13,624.0,8112.0,2026-04-21,187217145,8021,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:43:36.576622,Sahas Urja Limited
+2026042105002589,SAHAS,44,44,13,624.0,8112.0,2026-04-21,187220129,8021,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 11:47:13.682349,Sahas Urja Limited
+2026042105002598,SAHAS,44,42,161,624.0,100464.0,2026-04-21,187220262,8021,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:47:25.325793,Sahas Urja Limited
+2026042105002744,SAHAS,8,7,10,622.1,6221.0,2026-04-21,187222199,8021,Brilliant Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-21 11:49:56.403376,Sahas Urja Limited
+2026042105002800,SAHAS,8,45,13,622.1,8087.3,2026-04-21,187222843,8021,Brilliant Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-21 11:50:41.219666,Sahas Urja Limited
+2026042105002948,SAHAS,58,42,45,624.0,28080.0,2026-04-21,187224366,8021,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:52:33.972548,Sahas Urja Limited
+2026042105002982,SAHAS,54,38,13,622.2,8088.6,2026-04-21,187224649,8021,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 11:52:56.697538,Sahas Urja Limited
+2026042105002996,SAHAS,45,42,44,624.0,27456.0,2026-04-21,187224885,8021,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:53:16.447496,Sahas Urja Limited
+2026042105003031,SAHAS,49,48,100,624.0,62400.0,2026-04-21,187225522,8021,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-21 11:53:44.710125,Sahas Urja Limited
+2026042105003142,SAHAS,58,19,10,624.0,6240.0,2026-04-21,187226798,8021,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 11:55:07.033766,Sahas Urja Limited
+2026042105003213,SAHAS,45,41,12,624.0,7488.0,2026-04-21,187227386,8021,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-21 11:55:53.033804,Sahas Urja Limited
+2026042105003290,SAHAS,54,57,13,624.0,8112.0,2026-04-21,187228175,8021,Sewa Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-21 11:56:50.360156,Sahas Urja Limited
+2026042105003429,SAHAS,54,99,20,624.0,12480.0,2026-04-21,187229547,8021,Sewa Securities Pvt. Ltd.,Prabhu Stock Market Limited,2026-04-21 11:58:58.605114,Sahas Urja Limited
+2026042105003435,SAHAS,54,42,127,624.0,79248.0,2026-04-21,187229578,8021,Sewa Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:59:01.472822,Sahas Urja Limited
+2026042105003441,SAHAS,58,42,20,624.0,12480.0,2026-04-21,187229620,8021,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-21 11:59:05.124675,Sahas Urja Limited
+2026042105003492,SAHAS,25,42,20,624.0,12480.0,2026-04-21,187229972,8021,Sweta Securities Private Limited,Sani Securities Company Ltd.,2026-04-21 11:59:36.056042,Sahas Urja Limited
+2026042105003495,SAHAS,67,26,147,622.9,91566.3,2026-04-21,187230010,8021,Property Wiard Limited,Asian Securities Private Ltd.,2026-04-21 11:59:39.621886,Sahas Urja Limited
+2026042105003496,SAHAS,22,26,179,622.8,111481.2,2026-04-21,187230011,8021,Siprabi Securities Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-21 11:59:39.622431,Sahas Urja Limited
+2026042105003719,SAHAS,58,42,50,624.0,31200.0,2026-04-21,187231552,8021,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-21 12:02:00.875129,Sahas Urja Limited
+2026042105003747,SAHAS,22,36,321,622.8,199918.8,2026-04-21,187231782,8021,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-21 12:02:23.604977,Sahas Urja Limited
+2026042105003748,SAHAS,64,36,20,622.7,12454.0,2026-04-21,187231784,8021,SUN SECURITIES PVT LTD,Secured Securities Ltd.,2026-04-21 12:02:23.605255,Sahas Urja Limited
+2026042105003749,SAHAS,65,36,506,622.6,315035.6,2026-04-21,187231785,8021,Sharepro Securities Private Limited,Secured Securities Ltd.,2026-04-21 12:02:23.605393,Sahas Urja Limited
+2026042105003771,SAHAS,65,35,13,622.6,8093.8,2026-04-21,187231947,8021,Sharepro Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 12:02:38.392328,Sahas Urja Limited
+2026042105003780,SAHAS,65,50,13,622.6,8093.8,2026-04-21,187232055,8021,Sharepro Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:02:43.049698,Sahas Urja Limited
+2026042105003833,SAHAS,65,63,10,622.6,6226.0,2026-04-21,187232845,8021,Sharepro Securities Private Limited,Himalayan Brokerage Company Limited,2026-04-21 12:03:55.131508,Sahas Urja Limited
+2026042105004005,SAHAS,28,58,3,605.3,1815.9,2026-04-21,187234505,8021,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-21 12:06:29.946352,Sahas Urja Limited
+2026042105004020,SAHAS,28,40,3,606.0,1818.0,2026-04-21,187234667,8021,Shree Krishna Securities Ltd.,Creative Securities Pvt Ltd,2026-04-21 12:06:47.754706,Sahas Urja Limited
+2026042105004129,SAHAS,4,56,13,623.0,8099.0,2026-04-21,187235691,8021,Opal Securities Investment (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-21 12:09:02.308975,Sahas Urja Limited
+2026042105004157,SAHAS,52,42,40,624.0,24960.0,2026-04-21,187235977,8021,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-21 12:09:37.815516,Sahas Urja Limited
+2026042105004245,SAHAS,52,45,13,624.0,8112.0,2026-04-21,187237117,8021,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 12:11:40.016167,Sahas Urja Limited
+2026042105004252,SAHAS,1,3,1,612.0,612.0,2026-04-21,187237229,8021,Kumari Securities Private Limited,Arun Securities (PVT) Ltd.,2026-04-21 12:11:46.276295,Sahas Urja Limited
+2026042105004319,SAHAS,1,58,9,618.0,5562.0,2026-04-21,187237773,8021,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 12:12:56.237296,Sahas Urja Limited
+2026042105004324,SAHAS,52,17,13,624.0,8112.0,2026-04-21,187237823,8021,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-21 12:13:06.107457,Sahas Urja Limited
+2026042105004342,SAHAS,3,4,18,624.9,11248.2,2026-04-21,187238038,8021,Arun Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-21 12:13:42.209432,Sahas Urja Limited
+2026042105004361,SAHAS,52,42,13,624.0,8112.0,2026-04-21,187238263,8021,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-21 12:14:12.264591,Sahas Urja Limited
+2026042105004365,SAHAS,18,35,50,624.0,31200.0,2026-04-21,187238288,8021,Sagarmatha Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 12:14:16.351619,Sahas Urja Limited
+2026042105004380,SAHAS,14,35,12,624.0,7488.0,2026-04-21,187238406,8021,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 12:14:36.259581,Sahas Urja Limited
+2026042105004407,SAHAS,4,35,48,623.0,29904.0,2026-04-21,187238809,8021,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 12:15:32.717595,Sahas Urja Limited
+2026042105004434,SAHAS,4,49,22,623.0,13706.0,2026-04-21,187239047,8021,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-21 12:15:58.102908,Sahas Urja Limited
+2026042105004437,SAHAS,4,83,13,623.0,8099.0,2026-04-21,187239055,8021,Opal Securities Investment (PVT) Ltd.,Sanima Securities Limited,2026-04-21 12:15:58.933208,Sahas Urja Limited
+2026042105004652,SAHAS,70,59,10,623.9,6239.0,2026-04-21,187241234,8021,Infinity Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 12:20:19.173235,Sahas Urja Limited
+2026042105004739,SAHAS,4,35,50,623.0,31150.0,2026-04-21,187242025,8021,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 12:21:48.781765,Sahas Urja Limited
+2026042105004837,SAHAS,4,77,13,623.0,8099.0,2026-04-21,187242953,8021,Opal Securities Investment (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-21 12:23:44.507643,Sahas Urja Limited
+2026042105004864,SAHAS,28,44,1,604.4,604.4,2026-04-21,187243173,8021,Shree Krishna Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:24:16.254402,Sahas Urja Limited
+2026042105004890,SAHAS,4,35,13,623.0,8099.0,2026-04-21,187243413,8021,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 12:24:44.322793,Sahas Urja Limited
+2026042105004972,SAHAS,4,47,28,623.0,17444.0,2026-04-21,187244218,8021,Opal Securities Investment (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 12:26:30.895089,Sahas Urja Limited
+2026042105004973,SAHAS,52,47,30,623.0,18690.0,2026-04-21,187244220,8021,Sundhara Securities Limited,Neev Securities Pvt. Ltd.,2026-04-21 12:26:30.895437,Sahas Urja Limited
+2026042105004974,SAHAS,14,47,10,623.0,6230.0,2026-04-21,187244222,8021,Nepal Stock House (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 12:26:30.895565,Sahas Urja Limited
+2026042105004982,SAHAS,47,44,97,622.7,60401.9,2026-04-21,187244336,8021,Neev Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:26:48.160706,Sahas Urja Limited
+2026042105004983,SAHAS,65,44,453,622.6,282037.8,2026-04-21,187244337,8021,Sharepro Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:26:48.161357,Sahas Urja Limited
+2026042105005000,SAHAS,8,47,10,623.0,6230.0,2026-04-21,187244618,8021,Brilliant Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 12:27:23.108147,Sahas Urja Limited
+2026042105005024,SAHAS,22,44,20,622.6,12452.0,2026-04-21,187244926,8021,Siprabi Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:28:00.348527,Sahas Urja Limited
+2026042105005025,SAHAS,43,44,100,622.5,62250.0,2026-04-21,187244928,8021,South Asian Bulls Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:28:00.348837,Sahas Urja Limited
+2026042105005026,SAHAS,6,44,10,622.5,6225.0,2026-04-21,187244930,8021,Agrawal Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:28:00.349018,Sahas Urja Limited
+2026042105005083,SAHAS,13,50,700,622.2,435540.0,2026-04-21,187245442,8021,Thrive Brokerage House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.240366,Sahas Urja Limited
+2026042105005084,SAHAS,13,50,450,622.2,279990.0,2026-04-21,187245444,8021,Thrive Brokerage House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.240728,Sahas Urja Limited
+2026042105005085,SAHAS,13,50,450,622.2,279990.0,2026-04-21,187245446,8021,Thrive Brokerage House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.240861,Sahas Urja Limited
+2026042105005086,SAHAS,13,50,500,622.2,311100.0,2026-04-21,187245448,8021,Thrive Brokerage House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.240984,Sahas Urja Limited
+2026042105005087,SAHAS,8,50,27,622.1,16796.7,2026-04-21,187245450,8021,Brilliant Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.241109,Sahas Urja Limited
+2026042105005088,SAHAS,57,50,4000,622.1,2488400.0,2026-04-21,187245452,8021,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.241232,Sahas Urja Limited
+2026042105005089,SAHAS,50,50,48,622.0,29856.0,2026-04-21,187245454,8021,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.241362,Sahas Urja Limited
+2026042105005090,SAHAS,22,50,20,622.0,12440.0,2026-04-21,187245456,8021,Siprabi Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.241488,Sahas Urja Limited
+2026042105005091,SAHAS,42,50,55,622.0,34210.0,2026-04-21,187245458,8021,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.241629,Sahas Urja Limited
+2026042105005092,SAHAS,21,50,500,622.0,311000.0,2026-04-21,187245460,8021,Midas Stock Broking Company Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.241759,Sahas Urja Limited
+2026042105005093,SAHAS,16,50,250,622.0,155500.0,2026-04-21,187245462,8021,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.241897,Sahas Urja Limited
+2026042105005094,SAHAS,58,50,25,622.0,15550.0,2026-04-21,187245464,8021,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.242032,Sahas Urja Limited
+2026042105005095,SAHAS,48,50,24,622.0,14928.0,2026-04-21,187245466,8021,Trishakti Securities Public Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.242169,Sahas Urja Limited
+2026042105005096,SAHAS,1,50,20,622.0,12440.0,2026-04-21,187245468,8021,Kumari Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.242342,Sahas Urja Limited
+2026042105005097,SAHAS,50,50,500,622.0,311000.0,2026-04-21,187245470,8021,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:28:44.242481,Sahas Urja Limited
+2026042105005135,SAHAS,49,50,50,622.0,31100.0,2026-04-21,187245808,8021,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:29:14.577340,Sahas Urja Limited
+2026042105005152,SAHAS,41,44,10,621.5,6215.0,2026-04-21,187245962,8021,Linch Stock Market Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:29:23.047583,Sahas Urja Limited
+2026042105005153,SAHAS,65,44,660,621.4,410124.0,2026-04-21,187245963,8021,Sharepro Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:29:23.048144,Sahas Urja Limited
+2026042105005178,SAHAS,1,58,3,620.0,1860.0,2026-04-21,187246203,8021,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 12:29:55.392817,Sahas Urja Limited
+2026042105005186,SAHAS,65,44,187,621.4,116201.8,2026-04-21,187246293,8021,Sharepro Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 12:30:08.586089,Sahas Urja Limited
+2026042105005241,SAHAS,65,49,13,621.4,8078.2,2026-04-21,187247049,8021,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-21 12:31:02.122585,Sahas Urja Limited
+2026042105005249,SAHAS,65,48,21,621.4,13049.4,2026-04-21,187247201,8021,Sharepro Securities Private Limited,Trishakti Securities Public Limited,2026-04-21 12:31:15.532582,Sahas Urja Limited
+2026042105005250,SAHAS,65,38,13,621.4,8078.2,2026-04-21,187247205,8021,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 12:31:16.686584,Sahas Urja Limited
+2026042105005337,SAHAS,49,50,41,622.0,25502.0,2026-04-21,187248272,8021,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:32:59.534886,Sahas Urja Limited
+2026042105005389,SAHAS,36,50,10,622.0,6220.0,2026-04-21,187248694,8021,Secured Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:33:36.481575,Sahas Urja Limited
+2026042105005396,SAHAS,65,42,11,621.4,6835.4,2026-04-21,187248753,8021,Sharepro Securities Private Limited,Sani Securities Company Ltd.,2026-04-21 12:33:43.371268,Sahas Urja Limited
+2026042105005397,SAHAS,65,49,13,621.4,8078.2,2026-04-21,187248759,8021,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-21 12:33:44.215790,Sahas Urja Limited
+2026042105005414,SAHAS,20,50,1630,622.0,1013860.0,2026-04-21,187248867,8021,Sipla Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 12:33:51.595970,Sahas Urja Limited
+2026042105005415,SAHAS,20,59,130,622.0,80860.0,2026-04-21,187248869,8021,Sipla Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 12:33:51.596281,Sahas Urja Limited
+2026042105005416,SAHAS,20,29,13,622.0,8086.0,2026-04-21,187248871,8021,Sipla Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-21 12:33:51.596419,Sahas Urja Limited
+2026042105005530,SAHAS,58,47,10,623.0,6230.0,2026-04-21,187249516,8021,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 12:34:50.910472,Sahas Urja Limited
+2026042105005550,SAHAS,4,47,100,623.0,62300.0,2026-04-21,187249594,8021,Opal Securities Investment (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 12:34:54.077335,Sahas Urja Limited
+2026042105005682,SAHAS,20,59,13,622.5,8092.5,2026-04-21,187251069,8021,Sipla Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 12:37:43.477892,Sahas Urja Limited
+2026042105005688,SAHAS,20,48,10,622.5,6225.0,2026-04-21,187251175,8021,Sipla Securities Private Limited,Trishakti Securities Public Limited,2026-04-21 12:37:53.441519,Sahas Urja Limited
+2026042105005705,SAHAS,14,47,62,623.0,38626.0,2026-04-21,187251500,8021,Nepal Stock House (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 12:38:33.072308,Sahas Urja Limited
+2026042105005712,SAHAS,4,47,50,623.0,31150.0,2026-04-21,187251670,8021,Opal Securities Investment (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 12:38:51.285694,Sahas Urja Limited
+2026042105005741,SAHAS,51,81,3,621.0,1863.0,2026-04-21,187251875,8021,Oxford Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-21 12:39:21.236799,Sahas Urja Limited
+2026042105005743,SAHAS,20,57,13,622.5,8092.5,2026-04-21,187251905,8021,Sipla Securities Private Limited,Aryatara Investment & Securities,2026-04-21 12:39:23.471962,Sahas Urja Limited
+2026042105005758,SAHAS,51,38,2,622.0,1244.0,2026-04-21,187252079,8021,Oxford Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 12:39:41.656347,Sahas Urja Limited
+2026042105005849,SAHAS,58,49,10,623.0,6230.0,2026-04-21,187252860,8021,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-21 12:41:04.629782,Sahas Urja Limited
+2026042105005897,SAHAS,20,1,13,622.5,8092.5,2026-04-21,187253397,8021,Sipla Securities Private Limited,Kumari Securities Private Limited,2026-04-21 12:42:17.031646,Sahas Urja Limited
+2026042105005923,SAHAS,52,58,1,624.0,624.0,2026-04-21,187253639,8021,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-21 12:42:44.014923,Sahas Urja Limited
+2026042105005946,SAHAS,20,33,13,622.5,8092.5,2026-04-21,187253873,8021,Sipla Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:43:08.990909,Sahas Urja Limited
+2026042105005968,SAHAS,20,60,31,622.5,19297.5,2026-04-21,187254163,8021,Sipla Securities Private Limited,Nagarik Stock Dealer ,2026-04-21 12:43:47.913441,Sahas Urja Limited
+2026042105006014,SAHAS,1,45,3,606.0,1818.0,2026-04-21,187254507,8021,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 12:44:33.043280,Sahas Urja Limited
+2026042105006067,SAHAS,20,58,10,622.5,6225.0,2026-04-21,187255101,8021,Sipla Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 12:45:57.782283,Sahas Urja Limited
+2026042105006134,SAHAS,20,42,13,622.5,8092.5,2026-04-21,187255979,8021,Sipla Securities Private Limited,Sani Securities Company Ltd.,2026-04-21 12:47:18.672160,Sahas Urja Limited
+2026042105006146,SAHAS,71,38,50,623.0,31150.0,2026-04-21,187256144,8021,SHUBHAKAMANA SECURITIES PVT. LTD,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 12:47:46.080232,Sahas Urja Limited
+2026042105006284,SAHAS,58,5,10,623.0,6230.0,2026-04-21,187257445,8021,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-21 12:50:35.258453,Sahas Urja Limited
+2026042105006285,SAHAS,58,17,20,623.0,12460.0,2026-04-21,187257448,8021,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-21 12:50:35.258761,Sahas Urja Limited
+2026042105006340,SAHAS,20,49,13,622.5,8092.5,2026-04-21,187258103,8021,Sipla Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-21 12:51:38.482761,Sahas Urja Limited
+2026042105006406,SAHAS,20,17,98,622.5,61005.0,2026-04-21,187258754,8021,Sipla Securities Private Limited,ABC Securities Private Limited,2026-04-21 12:52:43.390101,Sahas Urja Limited
+2026042105006407,SAHAS,29,17,50,622.5,31125.0,2026-04-21,187258756,8021,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,2026-04-21 12:52:43.390434,Sahas Urja Limited
+2026042105006423,SAHAS,32,17,19,622.5,11827.5,2026-04-21,187258852,8021,Premier Securities Company Ltd.,ABC Securities Private Limited,2026-04-21 12:52:56.864012,Sahas Urja Limited
+2026042105006449,SAHAS,50,14,30,622.0,18660.0,2026-04-21,187259086,8021,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 12:53:20.989030,Sahas Urja Limited
+2026042105006450,SAHAS,17,14,100,622.0,62200.0,2026-04-21,187259088,8021,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 12:53:20.989365,Sahas Urja Limited
+2026042105006451,SAHAS,57,14,800,622.0,497600.0,2026-04-21,187259090,8021,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,2026-04-21 12:53:20.989506,Sahas Urja Limited
+2026042105006452,SAHAS,16,14,70,622.0,43540.0,2026-04-21,187259092,8021,Primo Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 12:53:20.989642,Sahas Urja Limited
+2026042105006453,SAHAS,65,14,82,621.4,50954.8,2026-04-21,187259094,8021,Sharepro Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 12:53:20.989781,Sahas Urja Limited
+2026042105006454,SAHAS,65,14,1000,621.2,621200.0,2026-04-21,187259096,8021,Sharepro Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 12:53:20.989914,Sahas Urja Limited
+2026042105006455,SAHAS,20,14,832,621.2,516838.4,2026-04-21,187259097,8021,Sipla Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 12:53:20.990062,Sahas Urja Limited
+2026042105006493,SAHAS,20,43,13,621.2,8075.6,2026-04-21,187259549,8021,Sipla Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 12:53:58.574194,Sahas Urja Limited
+2026042105006588,SAHAS,36,64,10,622.0,6220.0,2026-04-21,187260305,8021,Secured Securities Ltd.,SUN SECURITIES PVT LTD,2026-04-21 12:55:18.822577,Sahas Urja Limited
+2026042105006599,SAHAS,36,38,13,622.0,8086.0,2026-04-21,187260499,8021,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 12:55:34.636814,Sahas Urja Limited
+2026042105006621,SAHAS,36,94,13,622.0,8086.0,2026-04-21,187260695,8021,Secured Securities Ltd.,K.B.L. Securities Limited ,2026-04-21 12:55:59.720444,Sahas Urja Limited
+2026042105006628,SAHAS,36,7,10,622.0,6220.0,2026-04-21,187260735,8021,Secured Securities Ltd.,J.F. Securites (PVT) Ltd.,2026-04-21 12:56:05.555600,Sahas Urja Limited
+2026042105006724,SAHAS,36,49,10,622.0,6220.0,2026-04-21,187262171,8021,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-21 12:57:50.374281,Sahas Urja Limited
+2026042105006754,SAHAS,38,4,13,622.4,8091.2,2026-04-21,187262417,8021,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-21 12:58:16.630059,Sahas Urja Limited
+2026042105006755,SAHAS,38,10,87,622.4,54148.8,2026-04-21,187262420,8021,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-21 12:58:16.630708,Sahas Urja Limited
+2026042105006899,SAHAS,36,49,144,622.0,89568.0,2026-04-21,187263690,8021,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-21 13:01:04.467961,Sahas Urja Limited
+2026042105006900,SAHAS,89,49,13,622.0,8086.0,2026-04-21,187263691,8021,Global IME Securities Limited,Online Securities Pvt. Ltd.,2026-04-21 13:01:04.468343,Sahas Urja Limited
+2026042105006947,SAHAS,29,10,20,622.4,12448.0,2026-04-21,187264130,8021,Trisul Securities & Invt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-21 13:02:09.289617,Sahas Urja Limited
+2026042105007026,SAHAS,45,45,500,621.3,310650.0,2026-04-21,187264813,8021,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-21 13:03:30.456438,Sahas Urja Limited
+2026042105007125,SAHAS,35,90,100,622.0,62200.0,2026-04-21,187266039,8021,Kohinoor Investment & Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-21 13:05:43.411388,Sahas Urja Limited
+2026042105007126,SAHAS,35,19,13,622.0,8086.0,2026-04-21,187266041,8021,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 13:05:43.411487,Sahas Urja Limited
+2026042105007127,SAHAS,35,10,337,622.4,209748.8,2026-04-21,187266044,8021,Kohinoor Investment & Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-21 13:05:43.411577,Sahas Urja Limited
+2026042105007292,SAHAS,39,49,10,621.4,6214.0,2026-04-21,187269740,8021,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-21 13:08:30.677908,Sahas Urja Limited
+2026042105007332,SAHAS,34,49,55,621.4,34177.0,2026-04-21,187270185,8021,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-21 13:09:12.297097,Sahas Urja Limited
+2026042105007390,SAHAS,34,28,100,622.3,62230.0,2026-04-21,187270905,8021,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-21 13:10:14.996249,Sahas Urja Limited
+2026042105007391,SAHAS,34,10,556,622.4,346054.4,2026-04-21,187270907,8021,Vision Securities Pvt. Ltd,Pragyan Securities (PVT) Ltd.,2026-04-21 13:10:14.996669,Sahas Urja Limited
+2026042105007392,SAHAS,34,17,313,622.5,194842.5,2026-04-21,187270909,8021,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-21 13:10:14.996871,Sahas Urja Limited
+2026042105007393,SAHAS,34,57,10,622.5,6225.0,2026-04-21,187270911,8021,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-21 13:10:14.997053,Sahas Urja Limited
+2026042105007510,SAHAS,34,33,13,622.5,8092.5,2026-04-21,187272893,8021,Vision Securities Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 13:12:14.426022,Sahas Urja Limited
+2026042105007574,SAHAS,65,11,13,621.5,8079.5,2026-04-21,187273417,8021,Sharepro Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-21 13:13:10.177779,Sahas Urja Limited
+2026042105007658,SAHAS,65,51,13,621.5,8079.5,2026-04-21,187274529,8021,Sharepro Securities Private Limited,Oxford Securities Pvt. Ltd.,2026-04-21 13:15:06.907222,Sahas Urja Limited
+2026042105007661,SAHAS,65,94,474,621.5,294591.0,2026-04-21,187274564,8021,Sharepro Securities Private Limited,K.B.L. Securities Limited ,2026-04-21 13:15:10.665259,Sahas Urja Limited
+2026042105007662,SAHAS,52,94,200,621.5,124300.0,2026-04-21,187274566,8021,Sundhara Securities Limited,K.B.L. Securities Limited ,2026-04-21 13:15:10.665954,Sahas Urja Limited
+2026042105007663,SAHAS,19,94,100,621.5,62150.0,2026-04-21,187274568,8021,Nepal Investment And Securities Trading Private Limited,K.B.L. Securities Limited ,2026-04-21 13:15:10.666401,Sahas Urja Limited
+2026042105007664,SAHAS,34,94,345,621.4,214383.0,2026-04-21,187274570,8021,Vision Securities Pvt. Ltd,K.B.L. Securities Limited ,2026-04-21 13:15:10.666830,Sahas Urja Limited
+2026042105007665,SAHAS,45,94,500,621.3,310650.0,2026-04-21,187274572,8021,Imperial Securities Company Pvt. Ltd.,K.B.L. Securities Limited ,2026-04-21 13:15:10.667239,Sahas Urja Limited
+2026042105007666,SAHAS,20,94,655,621.2,406886.0,2026-04-21,187274574,8021,Sipla Securities Private Limited,K.B.L. Securities Limited ,2026-04-21 13:15:10.667655,Sahas Urja Limited
+2026042105007667,SAHAS,48,94,1726,621.2,1072191.2,2026-04-21,187274575,8021,Trishakti Securities Public Limited,K.B.L. Securities Limited ,2026-04-21 13:15:10.668075,Sahas Urja Limited
+2026042105007687,SAHAS,58,58,3,622.0,1866.0,2026-04-21,187274809,8021,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 13:15:35.097263,Sahas Urja Limited
+2026042105007765,SAHAS,48,49,605,621.2,375826.0,2026-04-21,187276215,8021,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,2026-04-21 13:18:14.012928,Sahas Urja Limited
+2026042105007766,SAHAS,48,58,13,621.2,8075.6,2026-04-21,187276217,8021,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-21 13:18:14.485005,Sahas Urja Limited
+2026042105007770,SAHAS,34,40,13,622.0,8086.0,2026-04-21,187276266,8021,Vision Securities Pvt. Ltd,Creative Securities Pvt Ltd,2026-04-21 13:18:21.627593,Sahas Urja Limited
+2026042105007789,SAHAS,8,57,21,622.0,13062.0,2026-04-21,187276496,8021,Brilliant Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-21 13:18:56.175022,Sahas Urja Limited
+2026042105007823,SAHAS,48,39,13,621.2,8075.6,2026-04-21,187276833,8021,Trishakti Securities Public Limited,Sumeru Securities Pvt. Ltd.,2026-04-21 13:19:34.675105,Sahas Urja Limited
+2026042105008023,SAHAS,65,25,13,621.6,8080.8,2026-04-21,187278544,8021,Sharepro Securities Private Limited,Sweta Securities Private Limited,2026-04-21 13:22:31.854448,Sahas Urja Limited
+2026042105008032,SAHAS,65,57,109,622.0,67798.0,2026-04-21,187278656,8021,Sharepro Securities Private Limited,Aryatara Investment & Securities,2026-04-21 13:22:39.534499,Sahas Urja Limited
+2026042105008098,SAHAS,65,13,15,621.6,9324.0,2026-04-21,187279315,8021,Sharepro Securities Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-21 13:23:55.658752,Sahas Urja Limited
+2026042105008110,SAHAS,65,54,13,621.6,8080.8,2026-04-21,187279629,8021,Sharepro Securities Private Limited,Sewa Securities Pvt. Ltd.,2026-04-21 13:24:30.179550,Sahas Urja Limited
+2026042105008111,SAHAS,29,38,50,622.0,31100.0,2026-04-21,187279634,8021,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 13:24:30.450904,Sahas Urja Limited
+2026042105008159,SAHAS,65,38,211,622.0,131242.0,2026-04-21,187280024,8021,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 13:25:26.848402,Sahas Urja Limited
+2026042105008217,SAHAS,65,17,26,621.6,16161.6,2026-04-21,187280239,8021,Sharepro Securities Private Limited,ABC Securities Private Limited,2026-04-21 13:25:38.868644,Sahas Urja Limited
+2026042105008226,SAHAS,65,45,13,621.6,8080.8,2026-04-21,187280331,8021,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 13:25:51.690956,Sahas Urja Limited
+2026042105008453,SAHAS,65,29,13,621.6,8080.8,2026-04-21,187281891,8021,Sharepro Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-21 13:28:14.320505,Sahas Urja Limited
+2026042105008514,SAHAS,34,47,13,621.7,8082.1,2026-04-21,187282265,8021,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-21 13:28:56.371403,Sahas Urja Limited
+2026042105008599,SAHAS,36,17,23,623.0,14329.0,2026-04-21,187283094,8021,Secured Securities Ltd.,ABC Securities Private Limited,2026-04-21 13:30:30.543413,Sahas Urja Limited
+2026042105008632,SAHAS,43,17,50,623.0,31150.0,2026-04-21,187283394,8021,South Asian Bulls Pvt. Ltd.,ABC Securities Private Limited,2026-04-21 13:31:13.611786,Sahas Urja Limited
+2026042105008654,SAHAS,42,17,12,623.0,7476.0,2026-04-21,187283684,8021,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-21 13:31:52.632129,Sahas Urja Limited
+2026042105008681,SAHAS,58,54,10,622.0,6220.0,2026-04-21,187283853,8021,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 13:32:08.188618,Sahas Urja Limited
+2026042105008685,SAHAS,22,17,115,623.0,71645.0,2026-04-21,187283881,8021,Siprabi Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-21 13:32:14.421514,Sahas Urja Limited
+2026042105008686,SAHAS,22,77,13,623.0,8099.0,2026-04-21,187283883,8021,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-21 13:32:14.421893,Sahas Urja Limited
+2026042105008742,SAHAS,22,19,12,623.0,7476.0,2026-04-21,187284588,8021,Siprabi Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 13:33:34.844080,Sahas Urja Limited
+2026042105008751,SAHAS,58,19,37,622.0,23014.0,2026-04-21,187284732,8021,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 13:33:46.399625,Sahas Urja Limited
+2026042105008758,SAHAS,22,19,151,621.7,93876.7,2026-04-21,187284815,8021,Siprabi Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 13:33:55.625043,Sahas Urja Limited
+2026042105008852,SAHAS,22,59,13,621.7,8082.1,2026-04-21,187285897,8021,Siprabi Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 13:35:52.305002,Sahas Urja Limited
+2026042105008871,SAHAS,22,49,22,621.7,13677.4,2026-04-21,187286095,8021,Siprabi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-21 13:36:23.588277,Sahas Urja Limited
+2026042105008908,SAHAS,65,53,13,621.8,8083.4,2026-04-21,187286753,8021,Sharepro Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-21 13:37:44.156157,Sahas Urja Limited
+2026042105009065,SAHAS,65,58,13,622.0,8086.0,2026-04-21,187288675,8021,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 13:40:58.127720,Sahas Urja Limited
+2026042105009066,SAHAS,65,17,100,622.0,62200.0,2026-04-21,187288678,8021,Sharepro Securities Private Limited,ABC Securities Private Limited,2026-04-21 13:40:58.128509,Sahas Urja Limited
+2026042105009215,SAHAS,48,36,13,622.1,8087.3,2026-04-21,187290077,8021,Trishakti Securities Public Limited,Secured Securities Ltd.,2026-04-21 13:43:13.695130,Sahas Urja Limited
+2026042105009334,SAHAS,1,58,2,621.0,1242.0,2026-04-21,187291273,8021,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 13:45:40.860374,Sahas Urja Limited
+2026042105009359,SAHAS,48,29,13,622.1,8087.3,2026-04-21,187291353,8021,Trishakti Securities Public Limited,Trisul Securities & Invt. Ltd.,2026-04-21 13:45:48.063616,Sahas Urja Limited
+2026042105009405,SAHAS,48,58,13,622.1,8087.3,2026-04-21,187291949,8021,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-21 13:47:04.081881,Sahas Urja Limited
+2026042105009407,SAHAS,48,45,13,622.1,8087.3,2026-04-21,187292011,8021,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 13:47:12.513623,Sahas Urja Limited
+2026042105009515,SAHAS,48,52,13,622.1,8087.3,2026-04-21,187292769,8021,Trishakti Securities Public Limited,Sundhara Securities Limited,2026-04-21 13:48:37.433629,Sahas Urja Limited
+2026042105009650,SAHAS,51,49,13,622.5,8092.5,2026-04-21,187293899,8021,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-21 13:50:51.449541,Sahas Urja Limited
+2026042105009752,SAHAS,51,54,13,622.5,8092.5,2026-04-21,187294869,8021,Oxford Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 13:52:22.708221,Sahas Urja Limited
+2026042105009759,SAHAS,51,35,24,622.5,14940.0,2026-04-21,187294934,8021,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 13:52:34.291596,Sahas Urja Limited
+2026042105009808,SAHAS,48,45,10,622.1,6221.0,2026-04-21,187295291,8021,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 13:53:12.732356,Sahas Urja Limited
+2026042105009819,SAHAS,39,35,18,622.5,11205.0,2026-04-21,187295342,8021,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 13:53:19.897544,Sahas Urja Limited
+2026042105009899,SAHAS,56,8,13,622.2,8088.6,2026-04-21,187296153,8021,Sri Hari Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-21 13:54:51.165147,Sahas Urja Limited
+2026042105009916,SAHAS,48,34,13,622.1,8087.3,2026-04-21,187296205,8021,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-21 13:54:58.294751,Sahas Urja Limited
+2026042105009922,SAHAS,18,44,3,603.5,1810.5,2026-04-21,187296251,8021,Sagarmatha Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 13:55:05.896424,Sahas Urja Limited
+2026042105009971,SAHAS,1,6,100,622.4,62240.0,2026-04-21,187296601,8021,Kumari Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-21 13:55:39.578060,Sahas Urja Limited
+2026042105009972,SAHAS,1,35,158,622.5,98355.0,2026-04-21,187296604,8021,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 13:55:39.578794,Sahas Urja Limited
+2026042105010023,SAHAS,57,33,10,622.2,6222.0,2026-04-21,187296952,8021,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 13:56:24.991067,Sahas Urja Limited
+2026042105010098,SAHAS,48,17,12,622.1,7465.2,2026-04-21,187297574,8021,Trishakti Securities Public Limited,ABC Securities Private Limited,2026-04-21 13:57:20.600933,Sahas Urja Limited
+2026042105010103,SAHAS,22,58,10,622.0,6220.0,2026-04-21,187297609,8021,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 13:57:25.752498,Sahas Urja Limited
+2026042105010109,SAHAS,68,62,10,622.2,6222.0,2026-04-21,187297626,8021,Elite Stock House Limited,Capital Max Securities Ltd,2026-04-21 13:57:27.432673,Sahas Urja Limited
+2026042105010125,SAHAS,22,62,304,622.0,189088.0,2026-04-21,187297838,8021,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 13:57:45.504238,Sahas Urja Limited
+2026042105010126,SAHAS,28,62,73,622.0,45406.0,2026-04-21,187297840,8021,Shree Krishna Securities Ltd.,Capital Max Securities Ltd,2026-04-21 13:57:45.504986,Sahas Urja Limited
+2026042105010127,SAHAS,43,62,160,622.0,99520.0,2026-04-21,187297842,8021,South Asian Bulls Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 13:57:45.505509,Sahas Urja Limited
+2026042105010128,SAHAS,54,62,20,622.0,12440.0,2026-04-21,187297843,8021,Sewa Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 13:57:45.506021,Sahas Urja Limited
+2026042105010139,SAHAS,54,17,80,622.0,49760.0,2026-04-21,187297992,8021,Sewa Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-21 13:58:04.824715,Sahas Urja Limited
+2026042105010227,SAHAS,42,17,240,622.0,149280.0,2026-04-21,187299412,8021,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-21 14:00:03.877906,Sahas Urja Limited
+2026042105010265,SAHAS,44,17,80,622.0,49760.0,2026-04-21,187299861,8021,Dynamic Money Managers Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-21 14:00:36.212788,Sahas Urja Limited
+2026042105010266,SAHAS,44,61,180,622.0,111960.0,2026-04-21,187299864,8021,Dynamic Money Managers Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-21 14:00:36.213469,Sahas Urja Limited
+2026042105010456,SAHAS,1,43,2,618.0,1236.0,2026-04-21,187301807,8021,Kumari Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 14:04:05.340763,Sahas Urja Limited
+2026042105010466,SAHAS,65,34,50,621.8,31090.0,2026-04-21,187301885,8021,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:04:12.207393,Sahas Urja Limited
+2026042105010541,SAHAS,65,17,37,621.8,23006.6,2026-04-21,187302648,8021,Sharepro Securities Private Limited,ABC Securities Private Limited,2026-04-21 14:05:15.523218,Sahas Urja Limited
+2026042105010542,SAHAS,36,17,40,621.7,24868.0,2026-04-21,187302650,8021,Secured Securities Ltd.,ABC Securities Private Limited,2026-04-21 14:05:15.523643,Sahas Urja Limited
+2026042105010543,SAHAS,77,17,32,621.6,19891.2,2026-04-21,187302652,8021,Nabil Stock Dealer Ltd.,ABC Securities Private Limited,2026-04-21 14:05:15.523841,Sahas Urja Limited
+2026042105010544,SAHAS,42,17,91,621.5,56556.5,2026-04-21,187302653,8021,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-21 14:05:15.524039,Sahas Urja Limited
+2026042105010548,SAHAS,1,33,3,620.0,1860.0,2026-04-21,187302665,8021,Kumari Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:05:16.694047,Sahas Urja Limited
+2026042105010609,SAHAS,59,61,50,621.3,31065.0,2026-04-21,187303272,8021,Deevyaa Securities & Stock House Pvt. Ltd,BHOLE GANESH SECURITIES LTD,2026-04-21 14:06:19.532230,Sahas Urja Limited
+2026042105010610,SAHAS,42,57,10,621.2,6212.0,2026-04-21,187303279,8021,Sani Securities Company Ltd.,Aryatara Investment & Securities,2026-04-21 14:06:21.408051,Sahas Urja Limited
+2026042105010626,SAHAS,42,61,140,621.2,86968.0,2026-04-21,187303370,8021,Sani Securities Company Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-21 14:06:28.078729,Sahas Urja Limited
+2026042105010627,SAHAS,58,61,35,621.2,21742.0,2026-04-21,187303372,8021,Naasa Securities Co. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-21 14:06:28.079514,Sahas Urja Limited
+2026042105010641,SAHAS,39,61,40,621.0,24840.0,2026-04-21,187303520,8021,Sumeru Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,2026-04-21 14:06:43.884887,Sahas Urja Limited
+2026042105010642,SAHAS,48,61,60,621.0,37260.0,2026-04-21,187303522,8021,Trishakti Securities Public Limited,BHOLE GANESH SECURITIES LTD,2026-04-21 14:06:43.885693,Sahas Urja Limited
+2026042105010643,SAHAS,48,61,160,621.0,99360.0,2026-04-21,187303523,8021,Trishakti Securities Public Limited,BHOLE GANESH SECURITIES LTD,2026-04-21 14:06:43.886195,Sahas Urja Limited
+2026042105010655,SAHAS,48,17,340,621.0,211140.0,2026-04-21,187303736,8021,Trishakti Securities Public Limited,ABC Securities Private Limited,2026-04-21 14:07:01.230550,Sahas Urja Limited
+2026042105010656,SAHAS,6,17,60,621.0,37260.0,2026-04-21,187303737,8021,Agrawal Securities (PVT) Ltd.,ABC Securities Private Limited,2026-04-21 14:07:01.231353,Sahas Urja Limited
+2026042105010676,SAHAS,6,52,363,621.0,225423.0,2026-04-21,187303987,8021,Agrawal Securities (PVT) Ltd.,Sundhara Securities Limited,2026-04-21 14:07:29.326903,Sahas Urja Limited
+2026042105010781,SAHAS,20,5,210,621.4,130494.0,2026-04-21,187305411,8021,Sipla Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-21 14:09:33.192266,Sahas Urja Limited
+2026042105010791,SAHAS,44,65,200,621.7,124340.0,2026-04-21,187305464,8021,Dynamic Money Managers Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-21 14:09:39.857152,Sahas Urja Limited
+2026042105010815,SAHAS,20,59,13,621.4,8078.2,2026-04-21,187305593,8021,Sipla Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 14:09:50.154845,Sahas Urja Limited
+2026042105010822,SAHAS,44,65,150,621.7,93255.0,2026-04-21,187305679,8021,Dynamic Money Managers Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-21 14:10:00.788874,Sahas Urja Limited
+2026042105010823,SAHAS,44,34,170,621.8,105706.0,2026-04-21,187305682,8021,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:10:00.789643,Sahas Urja Limited
+2026042105010826,SAHAS,7,34,560,621.8,348208.0,2026-04-21,187305712,8021,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:10:03.590683,Sahas Urja Limited
+2026042105010964,SAHAS,56,38,13,621.5,8079.5,2026-04-21,187307055,8021,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:12:18.287783,Sahas Urja Limited
+2026042105011003,SAHAS,47,65,10,621.7,6217.0,2026-04-21,187307428,8021,Neev Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-21 14:12:53.508910,Sahas Urja Limited
+2026042105011024,SAHAS,56,58,13,621.5,8079.5,2026-04-21,187307685,8021,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 14:13:16.796431,Sahas Urja Limited
+2026042105011057,SAHAS,58,65,30,621.7,18651.0,2026-04-21,187308064,8021,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-21 14:13:53.987617,Sahas Urja Limited
+2026042105011058,SAHAS,56,50,70,621.5,43505.0,2026-04-21,187308067,8021,Sri Hari Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 14:13:54.690753,Sahas Urja Limited
+2026042105011123,SAHAS,7,59,20,621.5,12430.0,2026-04-21,187308796,8021,J.F. Securites (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 14:14:51.380145,Sahas Urja Limited
+2026042105011209,SAHAS,20,14,100,621.4,62140.0,2026-04-21,187309653,8021,Sipla Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 14:16:12.079018,Sahas Urja Limited
+2026042105011240,SAHAS,20,65,110,621.4,68354.0,2026-04-21,187309919,8021,Sipla Securities Private Limited,Sharepro Securities Private Limited,2026-04-21 14:16:35.319724,Sahas Urja Limited
+2026042105011249,SAHAS,48,59,17,621.5,10565.5,2026-04-21,187310006,8021,Trishakti Securities Public Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 14:16:42.383173,Sahas Urja Limited
+2026042105011269,SAHAS,20,65,300,621.4,186420.0,2026-04-21,187310149,8021,Sipla Securities Private Limited,Sharepro Securities Private Limited,2026-04-21 14:16:54.150864,Sahas Urja Limited
+2026042105011290,SAHAS,20,4,382,621.4,237374.8,2026-04-21,187310435,8021,Sipla Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-21 14:17:19.365567,Sahas Urja Limited
+2026042105011335,SAHAS,20,38,50,621.4,31070.0,2026-04-21,187310707,8021,Sipla Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:17:37.766911,Sahas Urja Limited
+2026042105011370,SAHAS,20,89,13,621.4,8078.2,2026-04-21,187311063,8021,Sipla Securities Private Limited,Global IME Securities Limited,2026-04-21 14:18:09.938905,Sahas Urja Limited
+2026042105011414,SAHAS,36,59,63,621.5,39154.5,2026-04-21,187311563,8021,Secured Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 14:18:44.446001,Sahas Urja Limited
+2026042105011415,SAHAS,36,1,55,621.5,34182.5,2026-04-21,187311565,8021,Secured Securities Ltd.,Kumari Securities Private Limited,2026-04-21 14:18:44.446474,Sahas Urja Limited
+2026042105011416,SAHAS,36,38,25,621.5,15537.5,2026-04-21,187311567,8021,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:18:44.446774,Sahas Urja Limited
+2026042105011435,SAHAS,20,49,13,621.4,8078.2,2026-04-21,187311887,8021,Sipla Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-21 14:19:02.548197,Sahas Urja Limited
+2026042105011489,SAHAS,20,38,10,621.4,6214.0,2026-04-21,187312195,8021,Sipla Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:19:24.727156,Sahas Urja Limited
+2026042105011500,SAHAS,20,34,280,621.4,173992.0,2026-04-21,187312319,8021,Sipla Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:19:34.269360,Sahas Urja Limited
+2026042105011501,SAHAS,44,29,150,621.6,93240.0,2026-04-21,187312322,8021,Dynamic Money Managers Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-21 14:19:34.612059,Sahas Urja Limited
+2026042105011522,SAHAS,45,49,13,621.5,8079.5,2026-04-21,187312677,8021,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-21 14:20:00.796840,Sahas Urja Limited
+2026042105011523,SAHAS,45,29,50,621.6,31080.0,2026-04-21,187312679,8021,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-21 14:20:00.797268,Sahas Urja Limited
+2026042105011543,SAHAS,20,39,339,621.4,210654.6,2026-04-21,187312847,8021,Sipla Securities Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-21 14:20:15.560439,Sahas Urja Limited
+2026042105011749,SAHAS,45,47,10,621.5,6215.0,2026-04-21,187313883,8021,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 14:21:06.683021,Sahas Urja Limited
+2026042105011776,SAHAS,45,65,27,621.5,16780.5,2026-04-21,187314204,8021,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-21 14:21:22.229712,Sahas Urja Limited
+2026042105011777,SAHAS,20,65,173,621.4,107502.2,2026-04-21,187314205,8021,Sipla Securities Private Limited,Sharepro Securities Private Limited,2026-04-21 14:21:22.230127,Sahas Urja Limited
+2026042105011957,SAHAS,57,34,200,621.8,124360.0,2026-04-21,187315708,8021,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-21 14:22:56.583066,Sahas Urja Limited
+2026042105012215,SAHAS,20,10,100,621.2,62120.0,2026-04-21,187318505,8021,Sipla Securities Private Limited,Pragyan Securities (PVT) Ltd.,2026-04-21 14:25:26.053365,Sahas Urja Limited
+2026042105012276,SAHAS,20,48,14,621.2,8696.8,2026-04-21,187318859,8021,Sipla Securities Private Limited,Trishakti Securities Public Limited,2026-04-21 14:25:45.421797,Sahas Urja Limited
+2026042105012278,SAHAS,20,40,22,621.2,13666.4,2026-04-21,187318939,8021,Sipla Securities Private Limited,Creative Securities Pvt Ltd,2026-04-21 14:25:47.685976,Sahas Urja Limited
+2026042105012286,SAHAS,20,34,70,621.2,43484.0,2026-04-21,187318995,8021,Sipla Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:25:50.683591,Sahas Urja Limited
+2026042105012290,SAHAS,20,41,13,621.2,8075.6,2026-04-21,187319007,8021,Sipla Securities Private Limited,Linch Stock Market Ltd.,2026-04-21 14:25:51.794351,Sahas Urja Limited
+2026042105012325,SAHAS,53,59,35,621.5,21752.5,2026-04-21,187319156,8021,Investment Management Nepal Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 14:25:57.701875,Sahas Urja Limited
+2026042105012336,SAHAS,20,33,21,621.2,13045.2,2026-04-21,187319205,8021,Sipla Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:26:01.757762,Sahas Urja Limited
+2026042105012351,SAHAS,20,57,400,621.2,248480.0,2026-04-21,187319321,8021,Sipla Securities Private Limited,Aryatara Investment & Securities,2026-04-21 14:26:08.755927,Sahas Urja Limited
+2026042105012352,SAHAS,20,58,13,621.2,8075.6,2026-04-21,187319335,8021,Sipla Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 14:26:10.945774,Sahas Urja Limited
+2026042105012368,SAHAS,20,19,200,621.2,124240.0,2026-04-21,187319469,8021,Sipla Securities Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:26:17.682928,Sahas Urja Limited
+2026042105012430,SAHAS,20,48,10,621.2,6212.0,2026-04-21,187319909,8021,Sipla Securities Private Limited,Trishakti Securities Public Limited,2026-04-21 14:26:47.763819,Sahas Urja Limited
+2026042105012514,SAHAS,20,42,10,621.2,6212.0,2026-04-21,187321187,8021,Sipla Securities Private Limited,Sani Securities Company Ltd.,2026-04-21 14:28:05.903692,Sahas Urja Limited
+2026042105012578,SAHAS,20,69,627,621.2,389492.4,2026-04-21,187322126,8021,Sipla Securities Private Limited,INDEX SECURITIES LIMITED,2026-04-21 14:28:55.535168,Sahas Urja Limited
+2026042105012579,SAHAS,62,69,10,621.1,6211.0,2026-04-21,187322128,8021,Capital Max Securities Ltd,INDEX SECURITIES LIMITED,2026-04-21 14:28:55.535946,Sahas Urja Limited
+2026042105012580,SAHAS,6,69,363,621.0,225423.0,2026-04-21,187322129,8021,Agrawal Securities (PVT) Ltd.,INDEX SECURITIES LIMITED,2026-04-21 14:28:55.536483,Sahas Urja Limited
+2026042105012586,SAHAS,44,59,65,621.5,40397.5,2026-04-21,187322258,8021,Dynamic Money Managers Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-21 14:29:04.449655,Sahas Urja Limited
+2026042105012657,SAHAS,6,47,14,621.0,8694.0,2026-04-21,187323198,8021,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 14:29:45.856487,Sahas Urja Limited
+2026042105012658,SAHAS,51,47,376,621.0,233496.0,2026-04-21,187323199,8021,Oxford Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 14:29:45.856857,Sahas Urja Limited
+2026042105012739,SAHAS,44,17,13,621.1,8074.3,2026-04-21,187323701,8021,Dynamic Money Managers Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-21 14:30:15.557245,Sahas Urja Limited
+2026042105012806,SAHAS,44,33,137,621.1,85090.7,2026-04-21,187324378,8021,Dynamic Money Managers Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:30:50.465157,Sahas Urja Limited
+2026042105012807,SAHAS,51,33,124,621.0,77004.0,2026-04-21,187324380,8021,Oxford Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:30:50.466019,Sahas Urja Limited
+2026042105012808,SAHAS,18,33,102,621.0,63342.0,2026-04-21,187324382,8021,Sagarmatha Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:30:50.466557,Sahas Urja Limited
+2026042105012809,SAHAS,49,33,14,621.0,8694.0,2026-04-21,187324384,8021,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:30:50.467080,Sahas Urja Limited
+2026042105012810,SAHAS,49,33,123,621.0,76383.0,2026-04-21,187324385,8021,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:30:50.467610,Sahas Urja Limited
+2026042105012934,SAHAS,49,43,77,621.0,47817.0,2026-04-21,187325326,8021,Online Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.909788,Sahas Urja Limited
+2026042105012935,SAHAS,58,43,11,621.0,6831.0,2026-04-21,187325328,8021,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.910562,Sahas Urja Limited
+2026042105012936,SAHAS,62,43,10,621.0,6210.0,2026-04-21,187325330,8021,Capital Max Securities Ltd,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.911071,Sahas Urja Limited
+2026042105012937,SAHAS,45,43,57,621.0,35397.0,2026-04-21,187325332,8021,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.911566,Sahas Urja Limited
+2026042105012938,SAHAS,21,43,10,621.0,6210.0,2026-04-21,187325334,8021,Midas Stock Broking Company Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.912064,Sahas Urja Limited
+2026042105012939,SAHAS,58,43,10,621.0,6210.0,2026-04-21,187325336,8021,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.912580,Sahas Urja Limited
+2026042105012940,SAHAS,17,43,200,621.0,124200.0,2026-04-21,187325338,8021,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.913083,Sahas Urja Limited
+2026042105012941,SAHAS,17,43,250,621.0,155250.0,2026-04-21,187325340,8021,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.913595,Sahas Urja Limited
+2026042105012942,SAHAS,17,43,250,621.0,155250.0,2026-04-21,187325342,8021,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.914087,Sahas Urja Limited
+2026042105012943,SAHAS,56,43,100,621.0,62100.0,2026-04-21,187325344,8021,Sri Hari Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.914599,Sahas Urja Limited
+2026042105012944,SAHAS,57,43,10,621.0,6210.0,2026-04-21,187325346,8021,Aryatara Investment & Securities,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.915065,Sahas Urja Limited
+2026042105012945,SAHAS,13,43,15,621.0,9315.0,2026-04-21,187325347,8021,Thrive Brokerage House Pvt. Ltd,South Asian Bulls Pvt. Ltd.,2026-04-21 14:31:46.915537,Sahas Urja Limited
+2026042105012991,SAHAS,19,65,200,621.1,124220.0,2026-04-21,187325773,8021,Nepal Investment And Securities Trading Private Limited,Sharepro Securities Private Limited,2026-04-21 14:32:12.763042,Sahas Urja Limited
+2026042105013001,SAHAS,13,1,85,621.0,52785.0,2026-04-21,187325926,8021,Thrive Brokerage House Pvt. Ltd,Kumari Securities Private Limited,2026-04-21 14:32:25.207172,Sahas Urja Limited
+2026042105013002,SAHAS,46,1,10,621.0,6210.0,2026-04-21,187325928,8021,Kalika Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:32:25.207586,Sahas Urja Limited
+2026042105013003,SAHAS,22,1,15,621.0,9315.0,2026-04-21,187325930,8021,Siprabi Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:32:25.207790,Sahas Urja Limited
+2026042105013004,SAHAS,58,1,50,621.0,31050.0,2026-04-21,187325932,8021,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-21 14:32:25.207974,Sahas Urja Limited
+2026042105013005,SAHAS,74,1,50,621.0,31050.0,2026-04-21,187325934,8021,KALASH STOCK MARKET PVT. LTD.,Kumari Securities Private Limited,2026-04-21 14:32:25.208169,Sahas Urja Limited
+2026042105013006,SAHAS,21,1,25,621.0,15525.0,2026-04-21,187325936,8021,Midas Stock Broking Company Private Limited,Kumari Securities Private Limited,2026-04-21 14:32:25.208393,Sahas Urja Limited
+2026042105013007,SAHAS,34,1,20,621.0,12420.0,2026-04-21,187325938,8021,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,2026-04-21 14:32:25.208670,Sahas Urja Limited
+2026042105013008,SAHAS,32,1,45,621.0,27945.0,2026-04-21,187325940,8021,Premier Securities Company Ltd.,Kumari Securities Private Limited,2026-04-21 14:32:25.208932,Sahas Urja Limited
+2026042105013009,SAHAS,36,1,100,621.0,62100.0,2026-04-21,187325942,8021,Secured Securities Ltd.,Kumari Securities Private Limited,2026-04-21 14:32:25.209180,Sahas Urja Limited
+2026042105013010,SAHAS,42,1,100,621.0,62100.0,2026-04-21,187325944,8021,Sani Securities Company Ltd.,Kumari Securities Private Limited,2026-04-21 14:32:25.209406,Sahas Urja Limited
+2026042105013018,SAHAS,21,38,10,620.5,6205.0,2026-04-21,187326016,8021,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:32:29.326566,Sahas Urja Limited
+2026042105013019,SAHAS,17,38,50,620.5,31025.0,2026-04-21,187326018,8021,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:32:29.326661,Sahas Urja Limited
+2026042105013020,SAHAS,65,38,442,620.2,274128.4,2026-04-21,187326019,8021,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:32:29.326726,Sahas Urja Limited
+2026042105013122,SAHAS,65,58,80,620.2,49616.0,2026-04-21,187326911,8021,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 14:33:11.797476,Sahas Urja Limited
+2026042105013137,SAHAS,65,45,200,620.2,124040.0,2026-04-21,187327163,8021,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 14:33:27.990982,Sahas Urja Limited
+2026042105013289,SAHAS,65,52,10,620.2,6202.0,2026-04-21,187328325,8021,Sharepro Securities Private Limited,Sundhara Securities Limited,2026-04-21 14:34:34.715698,Sahas Urja Limited
+2026042105013309,SAHAS,65,11,181,620.2,112256.2,2026-04-21,187328495,8021,Sharepro Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-21 14:34:46.484596,Sahas Urja Limited
+2026042105013311,SAHAS,65,38,87,620.2,53957.4,2026-04-21,187328520,8021,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:34:47.304392,Sahas Urja Limited
+2026042105013312,SAHAS,43,38,21,620.2,13024.2,2026-04-21,187328522,8021,South Asian Bulls Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:34:47.304499,Sahas Urja Limited
+2026042105013313,SAHAS,22,38,100,620.1,62010.0,2026-04-21,187328524,8021,Siprabi Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:34:47.304582,Sahas Urja Limited
+2026042105013314,SAHAS,19,38,293,620.1,181689.3,2026-04-21,187328525,8021,Nepal Investment And Securities Trading Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:34:47.304612,Sahas Urja Limited
+2026042105013327,SAHAS,29,58,1,621.0,621.0,2026-04-21,187328595,8021,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 14:34:53.251348,Sahas Urja Limited
+2026042105013354,SAHAS,19,38,207,620.1,128360.7,2026-04-21,187328992,8021,Nepal Investment And Securities Trading Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:35:23.248992,Sahas Urja Limited
+2026042105013355,SAHAS,19,38,293,620.1,181689.3,2026-04-21,187328993,8021,Nepal Investment And Securities Trading Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:35:23.249094,Sahas Urja Limited
+2026042105013452,SAHAS,19,19,207,620.1,128360.7,2026-04-21,187329528,8021,Nepal Investment And Securities Trading Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:35:46.884141,Sahas Urja Limited
+2026042105013453,SAHAS,34,19,43,620.1,26664.3,2026-04-21,187329529,8021,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:35:46.884941,Sahas Urja Limited
+2026042105013503,SAHAS,48,42,57,620.1,35345.7,2026-04-21,187329886,8021,Trishakti Securities Public Limited,Sani Securities Company Ltd.,2026-04-21 14:36:04.913516,Sahas Urja Limited
+2026042105013504,SAHAS,59,42,70,620.0,43400.0,2026-04-21,187329888,8021,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-21 14:36:04.913924,Sahas Urja Limited
+2026042105013505,SAHAS,56,42,23,620.0,14260.0,2026-04-21,187329889,8021,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 14:36:04.914095,Sahas Urja Limited
+2026042105013584,SAHAS,56,22,10,620.0,6200.0,2026-04-21,187330359,8021,Sri Hari Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 14:36:34.598032,Sahas Urja Limited
+2026042105013616,SAHAS,56,37,17,620.0,10540.0,2026-04-21,187330574,8021,Sri Hari Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-21 14:36:46.030580,Sahas Urja Limited
+2026042105013617,SAHAS,5,37,100,620.0,62000.0,2026-04-21,187330576,8021,Market Securities & Exchange (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-21 14:36:46.031486,Sahas Urja Limited
+2026042105013618,SAHAS,34,37,30,620.0,18600.0,2026-04-21,187330578,8021,Vision Securities Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,2026-04-21 14:36:46.032102,Sahas Urja Limited
+2026042105013640,SAHAS,47,19,74,620.0,45880.0,2026-04-21,187330714,8021,Neev Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:36:54.247549,Sahas Urja Limited
+2026042105013641,SAHAS,36,19,200,620.0,124000.0,2026-04-21,187330716,8021,Secured Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:36:54.247953,Sahas Urja Limited
+2026042105013642,SAHAS,32,19,226,620.0,140120.0,2026-04-21,187330717,8021,Premier Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:36:54.248122,Sahas Urja Limited
+2026042105013725,SAHAS,4,1,100,621.0,62100.0,2026-04-21,187331320,8021,Opal Securities Investment (PVT) Ltd.,Kumari Securities Private Limited,2026-04-21 14:37:27.547959,Sahas Urja Limited
+2026042105013881,SAHAS,32,37,13,620.0,8060.0,2026-04-21,187332343,8021,Premier Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-21 14:38:26.804211,Sahas Urja Limited
+2026042105013882,SAHAS,32,32,212,620.0,131440.0,2026-04-21,187332345,8021,Premier Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-21 14:38:26.846192,Sahas Urja Limited
+2026042105013933,SAHAS,32,46,549,620.0,340380.0,2026-04-21,187332824,8021,Premier Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.025224,Sahas Urja Limited
+2026042105013934,SAHAS,32,46,1000,620.0,620000.0,2026-04-21,187332826,8021,Premier Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.025964,Sahas Urja Limited
+2026042105013935,SAHAS,1,46,200,620.0,124000.0,2026-04-21,187332828,8021,Kumari Securities Private Limited,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.026468,Sahas Urja Limited
+2026042105013936,SAHAS,8,46,190,620.0,117800.0,2026-04-21,187332830,8021,Brilliant Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.026942,Sahas Urja Limited
+2026042105013937,SAHAS,42,46,40,620.0,24800.0,2026-04-21,187332832,8021,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.027410,Sahas Urja Limited
+2026042105013938,SAHAS,6,46,20,620.0,12400.0,2026-04-21,187332834,8021,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.027885,Sahas Urja Limited
+2026042105013939,SAHAS,58,46,65,620.0,40300.0,2026-04-21,187332836,8021,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.028345,Sahas Urja Limited
+2026042105013940,SAHAS,33,46,2500,620.0,1550000.0,2026-04-21,187332838,8021,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.028801,Sahas Urja Limited
+2026042105013941,SAHAS,49,46,200,620.0,124000.0,2026-04-21,187332840,8021,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.029283,Sahas Urja Limited
+2026042105013942,SAHAS,29,46,97,620.0,60140.0,2026-04-21,187332841,8021,Trisul Securities & Invt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:38:52.029757,Sahas Urja Limited
+2026042105014021,SAHAS,29,38,103,620.0,63860.0,2026-04-21,187333658,8021,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:39:34.492349,Sahas Urja Limited
+2026042105014022,SAHAS,29,38,397,620.0,246140.0,2026-04-21,187333659,8021,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:39:34.492457,Sahas Urja Limited
+2026042105014031,SAHAS,44,1,30,621.0,18630.0,2026-04-21,187333750,8021,Dynamic Money Managers Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:39:42.349137,Sahas Urja Limited
+2026042105014108,SAHAS,52,1,100,621.0,62100.0,2026-04-21,187334284,8021,Sundhara Securities Limited,Kumari Securities Private Limited,2026-04-21 14:40:09.146158,Sahas Urja Limited
+2026042105014118,SAHAS,33,65,300,620.9,186270.0,2026-04-21,187334381,8021,Dakshinkali Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,2026-04-21 14:40:16.916061,Sahas Urja Limited
+2026042105014119,SAHAS,33,1,200,621.0,124200.0,2026-04-21,187334384,8021,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:40:16.916836,Sahas Urja Limited
+2026042105014173,SAHAS,44,1,24,621.0,14904.0,2026-04-21,187334900,8021,Dynamic Money Managers Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:40:48.358804,Sahas Urja Limited
+2026042105014184,SAHAS,21,1,25,621.0,15525.0,2026-04-21,187335022,8021,Midas Stock Broking Company Private Limited,Kumari Securities Private Limited,2026-04-21 14:40:55.517525,Sahas Urja Limited
+2026042105014187,SAHAS,58,1,21,621.0,13041.0,2026-04-21,187335241,8021,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-21 14:41:06.100140,Sahas Urja Limited
+2026042105014188,SAHAS,58,39,75,621.0,46575.0,2026-04-21,187335244,8021,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-21 14:41:06.100515,Sahas Urja Limited
+2026042105014201,SAHAS,1,58,3,620.0,1860.0,2026-04-21,187335345,8021,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-21 14:41:14.631394,Sahas Urja Limited
+2026042105014369,SAHAS,44,39,25,621.0,15525.0,2026-04-21,187336737,8021,Dynamic Money Managers Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-21 14:42:14.223254,Sahas Urja Limited
+2026042105014370,SAHAS,44,58,13,621.0,8073.0,2026-04-21,187336739,8021,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-21 14:42:14.224113,Sahas Urja Limited
+2026042105014371,SAHAS,44,33,141,621.0,87561.0,2026-04-21,187336742,8021,Dynamic Money Managers Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:42:14.224921,Sahas Urja Limited
+2026042105014382,SAHAS,19,19,100,620.1,62010.0,2026-04-21,187337021,8021,Nepal Investment And Securities Trading Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-21 14:42:22.339522,Sahas Urja Limited
+2026042105014448,SAHAS,32,28,100,620.1,62010.0,2026-04-21,187337473,8021,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-21 14:42:42.966934,Sahas Urja Limited
+2026042105014469,SAHAS,32,34,10,620.1,6201.0,2026-04-21,187337747,8021,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:42:56.395753,Sahas Urja Limited
+2026042105014678,SAHAS,94,33,74,621.0,45954.0,2026-04-21,187339301,8021,K.B.L. Securities Limited ,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 14:43:54.538305,Sahas Urja Limited
+2026042105014679,SAHAS,94,48,100,621.0,62100.0,2026-04-21,187339303,8021,K.B.L. Securities Limited ,Trishakti Securities Public Limited,2026-04-21 14:43:54.538717,Sahas Urja Limited
+2026042105014680,SAHAS,94,36,100,621.0,62100.0,2026-04-21,187339305,8021,K.B.L. Securities Limited ,Secured Securities Ltd.,2026-04-21 14:43:54.538869,Sahas Urja Limited
+2026042105014681,SAHAS,94,21,13,621.0,8073.0,2026-04-21,187339307,8021,K.B.L. Securities Limited ,Midas Stock Broking Company Private Limited,2026-04-21 14:43:54.539020,Sahas Urja Limited
+2026042105014682,SAHAS,94,62,60,621.0,37260.0,2026-04-21,187339309,8021,K.B.L. Securities Limited ,Capital Max Securities Ltd,2026-04-21 14:43:54.539199,Sahas Urja Limited
+2026042105014683,SAHAS,94,46,196,621.0,121716.0,2026-04-21,187339312,8021,K.B.L. Securities Limited ,Kalika Securities Pvt. Ltd.,2026-04-21 14:43:54.539360,Sahas Urja Limited
+2026042105014712,SAHAS,94,49,20,621.5,12430.0,2026-04-21,187339526,8021,K.B.L. Securities Limited ,Online Securities Pvt. Ltd.,2026-04-21 14:44:04.334978,Sahas Urja Limited
+2026042105014720,SAHAS,44,38,50,621.0,31050.0,2026-04-21,187339593,8021,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:44:08.752544,Sahas Urja Limited
+2026042105014737,SAHAS,94,38,100,621.8,62180.0,2026-04-21,187339791,8021,K.B.L. Securities Limited ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:44:14.805786,Sahas Urja Limited
+2026042105014819,SAHAS,94,64,1210,621.9,752499.0,2026-04-21,187340206,8021,K.B.L. Securities Limited ,SUN SECURITIES PVT LTD,2026-04-21 14:44:26.549911,Sahas Urja Limited
+2026042105014859,SAHAS,94,14,50,622.0,31100.0,2026-04-21,187340381,8021,K.B.L. Securities Limited ,Nepal Stock House (PVT) Ltd.,2026-04-21 14:44:35.661514,Sahas Urja Limited
+2026042105014860,SAHAS,94,38,100,622.0,62200.0,2026-04-21,187340383,8021,K.B.L. Securities Limited ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:44:35.661896,Sahas Urja Limited
+2026042105014861,SAHAS,94,34,13,622.0,8086.0,2026-04-21,187340385,8021,K.B.L. Securities Limited ,Vision Securities Pvt. Ltd,2026-04-21 14:44:35.662049,Sahas Urja Limited
+2026042105014862,SAHAS,94,58,13,622.0,8086.0,2026-04-21,187340387,8021,K.B.L. Securities Limited ,Naasa Securities Co. Ltd.,2026-04-21 14:44:35.662196,Sahas Urja Limited
+2026042105014863,SAHAS,94,45,500,622.0,311000.0,2026-04-21,187340389,8021,K.B.L. Securities Limited ,Imperial Securities Company Pvt. Ltd.,2026-04-21 14:44:35.662347,Sahas Urja Limited
+2026042105014864,SAHAS,94,58,10,622.0,6220.0,2026-04-21,187340391,8021,K.B.L. Securities Limited ,Naasa Securities Co. Ltd.,2026-04-21 14:44:35.662536,Sahas Urja Limited
+2026042105014865,SAHAS,94,42,500,622.0,311000.0,2026-04-21,187340393,8021,K.B.L. Securities Limited ,Sani Securities Company Ltd.,2026-04-21 14:44:35.662706,Sahas Urja Limited
+2026042105014866,SAHAS,94,39,1001,622.0,622622.0,2026-04-21,187340395,8021,K.B.L. Securities Limited ,Sumeru Securities Pvt. Ltd.,2026-04-21 14:44:35.662851,Sahas Urja Limited
+2026042105014867,SAHAS,94,22,100,622.0,62200.0,2026-04-21,187340397,8021,K.B.L. Securities Limited ,Siprabi Securities Pvt. Ltd.,2026-04-21 14:44:35.662997,Sahas Urja Limited
+2026042105014868,SAHAS,94,42,200,622.0,124400.0,2026-04-21,187340400,8021,K.B.L. Securities Limited ,Sani Securities Company Ltd.,2026-04-21 14:44:35.663139,Sahas Urja Limited
+2026042105014918,SAHAS,44,44,26,621.0,16146.0,2026-04-21,187341118,8021,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 14:44:59.990665,Sahas Urja Limited
+2026042105014919,SAHAS,32,44,104,620.1,64490.4,2026-04-21,187341119,8021,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-21 14:44:59.991375,Sahas Urja Limited
+2026042105015014,SAHAS,44,48,44,622.0,27368.0,2026-04-21,187342056,8021,Dynamic Money Managers Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-21 14:45:36.805336,Sahas Urja Limited
+2026042105015209,SAHAS,44,41,20,620.2,12404.0,2026-04-21,187344245,8021,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-21 14:47:00.462280,Sahas Urja Limited
+2026042105015416,SAHAS,58,51,117,621.0,72657.0,2026-04-21,187345422,8021,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-21 14:47:49.131966,Sahas Urja Limited
+2026042105015716,SAHAS,44,22,10,620.2,6202.0,2026-04-21,187348104,8021,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-21 14:49:22.652496,Sahas Urja Limited
+2026042105015866,SAHAS,77,41,10,620.3,6203.0,2026-04-21,187349442,8021,Nabil Stock Dealer Ltd.,Linch Stock Market Ltd.,2026-04-21 14:50:07.174750,Sahas Urja Limited
+2026042105015867,SAHAS,62,41,20,620.2,12404.0,2026-04-21,187349444,8021,Capital Max Securities Ltd,Linch Stock Market Ltd.,2026-04-21 14:50:07.175084,Sahas Urja Limited
+2026042105015868,SAHAS,32,41,42,620.1,26044.2,2026-04-21,187349445,8021,Premier Securities Company Ltd.,Linch Stock Market Ltd.,2026-04-21 14:50:07.175264,Sahas Urja Limited
+2026042105015890,SAHAS,44,57,18,620.9,11176.2,2026-04-21,187349656,8021,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-21 14:50:14.013757,Sahas Urja Limited
+2026042105015908,SAHAS,32,56,44,620.1,27284.4,2026-04-21,187349874,8021,Premier Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-21 14:50:23.032300,Sahas Urja Limited
+2026042105015909,SAHAS,34,56,56,620.1,34725.6,2026-04-21,187349875,8021,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,2026-04-21 14:50:23.033063,Sahas Urja Limited
+2026042105015930,SAHAS,57,57,10,620.9,6209.0,2026-04-21,187349938,8021,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-21 14:50:24.612926,Sahas Urja Limited
+2026042105016027,SAHAS,100,57,29,620.9,18006.1,2026-04-21,187350812,8021,Sunrise Securities Limited,Aryatara Investment & Securities,2026-04-21 14:50:52.695435,Sahas Urja Limited
+2026042105016127,SAHAS,35,57,200,620.9,124180.0,2026-04-21,187351650,8021,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-21 14:51:22.816630,Sahas Urja Limited
+2026042105016129,SAHAS,42,16,640,620.5,397120.0,2026-04-21,187351656,8021,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-21 14:51:23.729142,Sahas Urja Limited
+2026042105016130,SAHAS,29,16,360,620.0,223200.0,2026-04-21,187351657,8021,Trisul Securities & Invt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-21 14:51:23.729490,Sahas Urja Limited
+2026042105016198,SAHAS,38,57,10,620.9,6209.0,2026-04-21,187352116,8021,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-21 14:51:44.017654,Sahas Urja Limited
+2026042105016379,SAHAS,44,57,60,620.9,37254.0,2026-04-21,187353082,8021,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-21 14:52:21.088646,Sahas Urja Limited
+2026042105016381,SAHAS,29,48,1000,620.0,620000.0,2026-04-21,187353163,8021,Trisul Securities & Invt. Ltd.,Trishakti Securities Public Limited,2026-04-21 14:52:22.063089,Sahas Urja Limited
+2026042105016467,SAHAS,29,34,243,620.0,150660.0,2026-04-21,187353694,8021,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.988140,Sahas Urja Limited
+2026042105016468,SAHAS,38,34,66,620.0,40920.0,2026-04-21,187353696,8021,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.988523,Sahas Urja Limited
+2026042105016469,SAHAS,22,34,100,620.0,62000.0,2026-04-21,187353698,8021,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.988688,Sahas Urja Limited
+2026042105016470,SAHAS,58,34,100,620.0,62000.0,2026-04-21,187353700,8021,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.988838,Sahas Urja Limited
+2026042105016471,SAHAS,34,34,10,620.0,6200.0,2026-04-21,187353702,8021,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.988989,Sahas Urja Limited
+2026042105016472,SAHAS,58,34,50,620.0,31000.0,2026-04-21,187353704,8021,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.989172,Sahas Urja Limited
+2026042105016473,SAHAS,57,34,10,620.0,6200.0,2026-04-21,187353706,8021,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.989370,Sahas Urja Limited
+2026042105016474,SAHAS,47,34,10,620.0,6200.0,2026-04-21,187353708,8021,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.989558,Sahas Urja Limited
+2026042105016475,SAHAS,13,34,10,620.0,6200.0,2026-04-21,187353710,8021,Thrive Brokerage House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.989718,Sahas Urja Limited
+2026042105016476,SAHAS,47,34,230,620.0,142600.0,2026-04-21,187353712,8021,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.989871,Sahas Urja Limited
+2026042105016477,SAHAS,45,34,13,620.0,8060.0,2026-04-21,187353714,8021,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.990054,Sahas Urja Limited
+2026042105016478,SAHAS,42,34,130,620.0,80600.0,2026-04-21,187353716,8021,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.990242,Sahas Urja Limited
+2026042105016479,SAHAS,43,34,200,620.0,124000.0,2026-04-21,187353718,8021,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.990457,Sahas Urja Limited
+2026042105016480,SAHAS,21,34,10,620.0,6200.0,2026-04-21,187353720,8021,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.990642,Sahas Urja Limited
+2026042105016481,SAHAS,22,34,20,620.0,12400.0,2026-04-21,187353722,8021,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.990800,Sahas Urja Limited
+2026042105016482,SAHAS,56,34,100,620.0,62000.0,2026-04-21,187353724,8021,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.990968,Sahas Urja Limited
+2026042105016483,SAHAS,6,34,50,620.0,31000.0,2026-04-21,187353726,8021,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.991165,Sahas Urja Limited
+2026042105016484,SAHAS,41,34,50,620.0,31000.0,2026-04-21,187353728,8021,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.991366,Sahas Urja Limited
+2026042105016485,SAHAS,45,34,40,620.0,24800.0,2026-04-21,187353730,8021,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.991565,Sahas Urja Limited
+2026042105016486,SAHAS,11,34,17,620.0,10540.0,2026-04-21,187353732,8021,Malla & Malla Stock Broking Company Pvt. Limited,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.991739,Sahas Urja Limited
+2026042105016487,SAHAS,14,34,200,620.0,124000.0,2026-04-21,187353734,8021,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.991900,Sahas Urja Limited
+2026042105016488,SAHAS,38,34,15,620.0,9300.0,2026-04-21,187353736,8021,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.992061,Sahas Urja Limited
+2026042105016489,SAHAS,35,34,30,620.0,18600.0,2026-04-21,187353738,8021,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.992260,Sahas Urja Limited
+2026042105016490,SAHAS,34,34,10,620.0,6200.0,2026-04-21,187353740,8021,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.992447,Sahas Urja Limited
+2026042105016491,SAHAS,62,34,100,620.0,62000.0,2026-04-21,187353742,8021,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.992613,Sahas Urja Limited
+2026042105016492,SAHAS,16,34,186,620.0,115320.0,2026-04-21,187353743,8021,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:52:40.992783,Sahas Urja Limited
+2026042105016544,SAHAS,16,34,14,620.0,8680.0,2026-04-21,187354266,8021,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:53:03.012151,Sahas Urja Limited
+2026042105016829,SAHAS,18,48,34,619.1,21049.4,2026-04-21,187356414,8021,Sagarmatha Securities Private Limited,Trishakti Securities Public Limited,2026-04-21 14:54:22.363371,Sahas Urja Limited
+2026042105016830,SAHAS,13,48,160,619.0,99040.0,2026-04-21,187356416,8021,Thrive Brokerage House Pvt. Ltd,Trishakti Securities Public Limited,2026-04-21 14:54:22.363693,Sahas Urja Limited
+2026042105016831,SAHAS,45,48,10,619.0,6190.0,2026-04-21,187356418,8021,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-21 14:54:22.363837,Sahas Urja Limited
+2026042105016832,SAHAS,36,48,196,619.0,121324.0,2026-04-21,187356419,8021,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-21 14:54:22.363977,Sahas Urja Limited
+2026042105016999,SAHAS,58,34,300,619.9,185970.0,2026-04-21,187357850,8021,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:55:10.117855,Sahas Urja Limited
+2026042105017023,SAHAS,94,34,228,620.0,141360.0,2026-04-21,187358223,8021,K.B.L. Securities Limited ,Vision Securities Pvt. Ltd,2026-04-21 14:55:22.381409,Sahas Urja Limited
+2026042105017024,SAHAS,94,17,500,620.0,310000.0,2026-04-21,187358225,8021,K.B.L. Securities Limited ,ABC Securities Private Limited,2026-04-21 14:55:22.381718,Sahas Urja Limited
+2026042105017025,SAHAS,94,13,400,620.0,248000.0,2026-04-21,187358227,8021,K.B.L. Securities Limited ,Thrive Brokerage House Pvt. Ltd,2026-04-21 14:55:22.381864,Sahas Urja Limited
+2026042105017026,SAHAS,94,45,100,620.0,62000.0,2026-04-21,187358230,8021,K.B.L. Securities Limited ,Imperial Securities Company Pvt. Ltd.,2026-04-21 14:55:22.382003,Sahas Urja Limited
+2026042105017066,SAHAS,94,38,490,620.8,304192.0,2026-04-21,187358658,8021,K.B.L. Securities Limited ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:55:35.561845,Sahas Urja Limited
+2026042105017131,SAHAS,17,57,173,620.9,107415.7,2026-04-21,187359195,8021,ABC Securities Private Limited,Aryatara Investment & Securities,2026-04-21 14:55:49.398406,Sahas Urja Limited
+2026042105017132,SAHAS,17,52,67,621.0,41607.0,2026-04-21,187359198,8021,ABC Securities Private Limited,Sundhara Securities Limited,2026-04-21 14:55:49.398744,Sahas Urja Limited
+2026042105017162,SAHAS,11,45,36,620.2,22327.2,2026-04-21,187359443,8021,Malla & Malla Stock Broking Company Pvt. Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 14:55:58.565657,Sahas Urja Limited
+2026042105017383,SAHAS,11,99,150,620.5,93075.0,2026-04-21,187360782,8021,Malla & Malla Stock Broking Company Pvt. Limited,Prabhu Stock Market Limited,2026-04-21 14:56:35.090124,Sahas Urja Limited
+2026042105017453,SAHAS,58,48,700,620.0,434000.0,2026-04-21,187361255,8021,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-21 14:56:47.264757,Sahas Urja Limited
+2026042105017541,SAHAS,94,32,100,620.0,62000.0,2026-04-21,187361696,8021,K.B.L. Securities Limited ,Premier Securities Company Ltd.,2026-04-21 14:57:00.001771,Sahas Urja Limited
+2026042105017569,SAHAS,17,53,50,620.0,31000.0,2026-04-21,187361867,8021,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,2026-04-21 14:57:04.043462,Sahas Urja Limited
+2026042105017570,SAHAS,17,99,75,620.5,46537.5,2026-04-21,187361870,8021,ABC Securities Private Limited,Prabhu Stock Market Limited,2026-04-21 14:57:04.043797,Sahas Urja Limited
+2026042105017600,SAHAS,42,14,10,620.0,6200.0,2026-04-21,187362132,8021,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 14:57:09.502379,Sahas Urja Limited
+2026042105017653,SAHAS,94,14,40,620.0,24800.0,2026-04-21,187362474,8021,K.B.L. Securities Limited ,Nepal Stock House (PVT) Ltd.,2026-04-21 14:57:20.969149,Sahas Urja Limited
+2026042105017681,SAHAS,57,99,20,620.5,12410.0,2026-04-21,187362780,8021,Aryatara Investment & Securities,Prabhu Stock Market Limited,2026-04-21 14:57:26.745075,Sahas Urja Limited
+2026042105017704,SAHAS,14,34,300,619.2,185760.0,2026-04-21,187363114,8021,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.793933,Sahas Urja Limited
+2026042105017705,SAHAS,37,34,16,619.1,9905.6,2026-04-21,187363116,8021,Swarna Laxmi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.794218,Sahas Urja Limited
+2026042105017706,SAHAS,32,34,177,619.1,109580.7,2026-04-21,187363118,8021,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.794370,Sahas Urja Limited
+2026042105017707,SAHAS,16,34,190,619.0,117610.0,2026-04-21,187363120,8021,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.794542,Sahas Urja Limited
+2026042105017708,SAHAS,56,34,50,619.0,30950.0,2026-04-21,187363122,8021,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.794694,Sahas Urja Limited
+2026042105017709,SAHAS,51,34,100,619.0,61900.0,2026-04-21,187363124,8021,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.794852,Sahas Urja Limited
+2026042105017710,SAHAS,59,34,20,619.0,12380.0,2026-04-21,187363126,8021,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.795016,Sahas Urja Limited
+2026042105017711,SAHAS,16,34,500,618.6,309300.0,2026-04-21,187363128,8021,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.795196,Sahas Urja Limited
+2026042105017712,SAHAS,85,34,85,618.5,52572.5,2026-04-21,187363130,8021,Capital Hub P. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.795393,Sahas Urja Limited
+2026042105017713,SAHAS,18,34,100,618.5,61850.0,2026-04-21,187363132,8021,Sagarmatha Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.795558,Sahas Urja Limited
+2026042105017714,SAHAS,28,34,462,618.5,285747.0,2026-04-21,187363133,8021,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:57:34.795705,Sahas Urja Limited
+2026042105017735,SAHAS,94,99,255,620.5,158227.5,2026-04-21,187363293,8021,K.B.L. Securities Limited ,Prabhu Stock Market Limited,2026-04-21 14:57:37.568997,Sahas Urja Limited
+2026042105017736,SAHAS,94,22,456,620.5,282948.0,2026-04-21,187363295,8021,K.B.L. Securities Limited ,Siprabi Securities Pvt. Ltd.,2026-04-21 14:57:37.569352,Sahas Urja Limited
+2026042105017799,SAHAS,94,48,20,620.5,12410.0,2026-04-21,187364364,8021,K.B.L. Securities Limited ,Trishakti Securities Public Limited,2026-04-21 14:58:02.521356,Sahas Urja Limited
+2026042105017887,SAHAS,45,34,500,619.0,309500.0,2026-04-21,187365233,8021,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-21 14:58:24.855218,Sahas Urja Limited
+2026042105017891,SAHAS,57,48,20,620.5,12410.0,2026-04-21,187365242,8021,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-21 14:58:25.360443,Sahas Urja Limited
+2026042105017896,SAHAS,34,64,3,603.4,1810.2,2026-04-21,187365263,8021,Vision Securities Pvt. Ltd,SUN SECURITIES PVT LTD,2026-04-21 14:58:26.012049,Sahas Urja Limited
+2026042105017954,SAHAS,41,48,100,620.5,62050.0,2026-04-21,187365797,8021,Linch Stock Market Ltd.,Trishakti Securities Public Limited,2026-04-21 14:58:37.859923,Sahas Urja Limited
+2026042105018010,SAHAS,41,1,100,620.5,62050.0,2026-04-21,187366044,8021,Linch Stock Market Ltd.,Kumari Securities Private Limited,2026-04-21 14:58:42.524732,Sahas Urja Limited
+2026042105018011,SAHAS,45,1,400,619.0,247600.0,2026-04-21,187366045,8021,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,2026-04-21 14:58:42.525099,Sahas Urja Limited
+2026042105018059,SAHAS,45,35,100,619.0,61900.0,2026-04-21,187366642,8021,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 14:58:57.296415,Sahas Urja Limited
+2026042105018060,SAHAS,41,35,90,618.6,55674.0,2026-04-21,187366643,8021,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-21 14:58:57.296724,Sahas Urja Limited
+2026042105018128,SAHAS,53,45,20,620.0,12400.0,2026-04-21,187367140,8021,Investment Management Nepal Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-21 14:59:09.380268,Sahas Urja Limited
+2026042105018134,SAHAS,51,45,85,620.0,52700.0,2026-04-21,187367247,8021,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-21 14:59:11.119299,Sahas Urja Limited
+2026042105018320,SAHAS,53,42,20,620.0,12400.0,2026-04-21,187369322,8021,Investment Management Nepal Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 14:59:36.778621,Sahas Urja Limited
+2026042105018427,SAHAS,58,13,20,620.0,12400.0,2026-04-21,187370382,8021,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-21 14:59:50.230551,Sahas Urja Limited

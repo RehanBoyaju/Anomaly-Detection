@@ -1,0 +1,165 @@
+contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
+2026043001000127,ADBL,22,58,10,317.8,3178.0,2026-04-30,188626474,397,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 11:01:06.893292,Agricultural Development Bank Limited
+2026043001001306,ADBL,58,50,250,311.9,77975.0,2026-04-30,188630640,397,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-30 11:07:06.158095,Agricultural Development Bank Limited
+2026043001001570,ADBL,58,94,250,310.0,77500.0,2026-04-30,188631515,397,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,2026-04-30 11:08:27.433429,Agricultural Development Bank Limited
+2026043001002393,ADBL,58,4,10,308.5,3085.0,2026-04-30,188634289,397,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-30 11:12:03.665714,Agricultural Development Bank Limited
+2026043001002950,ADBL,42,19,150,307.0,46050.0,2026-04-30,188636373,397,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-30 11:14:19.268580,Agricultural Development Bank Limited
+2026043001003319,ADBL,62,32,30,310.0,9300.0,2026-04-30,188637776,397,Capital Max Securities Ltd,Premier Securities Company Ltd.,2026-04-30 11:15:50.318773,Agricultural Development Bank Limited
+2026043001003502,ADBL,38,32,10,310.0,3100.0,2026-04-30,188638342,397,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-30 11:16:30.126268,Agricultural Development Bank Limited
+2026043001004976,ADBL,45,46,20,307.1,6142.0,2026-04-30,188643817,397,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-30 11:22:15.820934,Agricultural Development Bank Limited
+2026043001005037,ADBL,45,49,10,307.1,3071.0,2026-04-30,188643965,397,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 11:22:22.377055,Agricultural Development Bank Limited
+2026043001005052,ADBL,45,29,70,307.1,21497.0,2026-04-30,188644062,397,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 11:22:27.834195,Agricultural Development Bank Limited
+2026043001005053,ADBL,42,29,19,307.0,5833.0,2026-04-30,188644063,397,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-30 11:22:27.834273,Agricultural Development Bank Limited
+2026043001005313,ADBL,42,58,300,307.0,92100.0,2026-04-30,188645107,397,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-30 11:23:27.642218,Agricultural Development Bank Limited
+2026043001006073,ADBL,45,38,200,307.1,61420.0,2026-04-30,188647652,397,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 11:26:07.291112,Agricultural Development Bank Limited
+2026043001006074,ADBL,42,38,31,307.0,9517.0,2026-04-30,188647654,397,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 11:26:07.291324,Agricultural Development Bank Limited
+2026043001006075,ADBL,58,38,25,307.0,7675.0,2026-04-30,188647656,397,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 11:26:07.291472,Agricultural Development Bank Limited
+2026043001006076,ADBL,45,38,15,306.5,4597.5,2026-04-30,188647658,397,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 11:26:07.291647,Agricultural Development Bank Limited
+2026043001006077,ADBL,58,38,38,306.0,11628.0,2026-04-30,188647659,397,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 11:26:07.291793,Agricultural Development Bank Limited
+2026043001006126,ADBL,58,38,10,306.0,3060.0,2026-04-30,188647839,397,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 11:26:19.233728,Agricultural Development Bank Limited
+2026043001006452,ADBL,58,11,202,306.0,61812.0,2026-04-30,188648924,397,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:27:22.922789,Agricultural Development Bank Limited
+2026043001006453,ADBL,51,11,100,306.0,30600.0,2026-04-30,188648926,397,Oxford Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:27:22.923049,Agricultural Development Bank Limited
+2026043001006648,ADBL,38,53,25,305.6,7640.0,2026-04-30,188649636,397,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-30 11:28:14.070590,Agricultural Development Bank Limited
+2026043001006681,ADBL,47,53,25,305.6,7640.0,2026-04-30,188649763,397,Neev Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-30 11:28:26.238260,Agricultural Development Bank Limited
+2026043001006685,ADBL,47,11,25,305.6,7640.0,2026-04-30,188649774,397,Neev Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:28:27.598966,Agricultural Development Bank Limited
+2026043001006686,ADBL,40,11,73,305.1,22272.3,2026-04-30,188649775,397,Creative Securities Pvt Ltd,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:28:27.599214,Agricultural Development Bank Limited
+2026043001006868,ADBL,50,25,10,308.0,3080.0,2026-04-30,188650367,397,Cristal Kanchanjanga Securites Pvt. Ltd.,Sweta Securities Private Limited,2026-04-30 11:29:04.658764,Agricultural Development Bank Limited
+2026043001006869,ADBL,50,58,10,309.5,3095.0,2026-04-30,188650370,397,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 11:29:04.659004,Agricultural Development Bank Limited
+2026043001008695,ADBL,58,11,35,308.0,10780.0,2026-04-30,188657260,397,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:38:19.976727,Agricultural Development Bank Limited
+2026043001008696,ADBL,17,11,10,308.0,3080.0,2026-04-30,188657262,397,ABC Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:38:19.976969,Agricultural Development Bank Limited
+2026043001008697,ADBL,58,11,10,307.0,3070.0,2026-04-30,188657264,397,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:38:19.977159,Agricultural Development Bank Limited
+2026043001008698,ADBL,45,11,45,305.3,13738.5,2026-04-30,188657265,397,Imperial Securities Company Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 11:38:19.977318,Agricultural Development Bank Limited
+2026043001008733,ADBL,36,57,2,300.7,601.4,2026-04-30,188657465,397,Secured Securities Ltd.,Aryatara Investment & Securities,2026-04-30 11:38:29.223876,Agricultural Development Bank Limited
+2026043001009481,ADBL,45,34,89,305.3,27171.7,2026-04-30,188660421,397,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 11:43:06.606691,Agricultural Development Bank Limited
+2026043001010274,ADBL,49,48,33,305.5,10081.5,2026-04-30,188663394,397,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-30 11:47:08.690077,Agricultural Development Bank Limited
+2026043001010275,ADBL,45,48,66,305.3,20149.8,2026-04-30,188663396,397,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-30 11:47:08.690360,Agricultural Development Bank Limited
+2026043001010276,ADBL,58,48,100,305.3,30530.0,2026-04-30,188663398,397,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-30 11:47:08.690532,Agricultural Development Bank Limited
+2026043001011293,ADBL,4,37,80,306.1,24488.0,2026-04-30,188667628,397,Opal Securities Investment (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-30 11:52:42.674278,Agricultural Development Bank Limited
+2026043001011294,ADBL,42,37,97,306.0,29682.0,2026-04-30,188667629,397,Sani Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-30 11:52:42.674565,Agricultural Development Bank Limited
+2026043001011619,ADBL,42,7,3,300.0,900.0,2026-04-30,188669205,397,Sani Securities Company Ltd.,J.F. Securites (PVT) Ltd.,2026-04-30 11:54:25.030870,Agricultural Development Bank Limited
+2026043001011622,ADBL,42,48,93,306.0,28458.0,2026-04-30,188669218,397,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-30 11:54:26.360637,Agricultural Development Bank Limited
+2026043001011623,ADBL,58,48,13,305.5,3971.5,2026-04-30,188669220,397,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-30 11:54:26.360806,Agricultural Development Bank Limited
+2026043001011624,ADBL,46,48,100,305.3,30530.0,2026-04-30,188669222,397,Kalika Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-30 11:54:26.360869,Agricultural Development Bank Limited
+2026043001011625,ADBL,58,48,194,305.3,59228.2,2026-04-30,188669223,397,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-30 11:54:26.360933,Agricultural Development Bank Limited
+2026043001011675,ADBL,35,58,100,309.0,30900.0,2026-04-30,188669458,397,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 11:54:49.528399,Agricultural Development Bank Limited
+2026043001013554,ADBL,13,49,91,306.0,27846.0,2026-04-30,188676283,397,Thrive Brokerage House Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-30 12:05:35.050175,Agricultural Development Bank Limited
+2026043001013616,ADBL,8,32,35,306.0,10710.0,2026-04-30,188676540,397,Brilliant Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-30 12:06:09.305289,Agricultural Development Bank Limited
+2026043001013654,ADBL,45,32,100,305.5,30550.0,2026-04-30,188676722,397,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-30 12:06:28.575165,Agricultural Development Bank Limited
+2026043001013655,ADBL,56,32,10,305.3,3053.0,2026-04-30,188676724,397,Sri Hari Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-30 12:06:28.575467,Agricultural Development Bank Limited
+2026043001013656,ADBL,45,32,50,305.3,15265.0,2026-04-30,188676726,397,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-30 12:06:28.575650,Agricultural Development Bank Limited
+2026043001013657,ADBL,94,32,300,305.2,91560.0,2026-04-30,188676727,397,K.B.L. Securities Limited ,Premier Securities Company Ltd.,2026-04-30 12:06:28.575827,Agricultural Development Bank Limited
+2026043001013858,ADBL,37,42,400,305.5,122200.0,2026-04-30,188677539,397,Swarna Laxmi Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:07:51.786510,Agricultural Development Bank Limited
+2026043001013908,ADBL,37,56,600,305.5,183300.0,2026-04-30,188677821,397,Swarna Laxmi Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-30 12:08:19.447415,Agricultural Development Bank Limited
+2026043001014409,ADBL,42,17,1,300.0,300.0,2026-04-30,188679693,397,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-30 12:10:57.390622,Agricultural Development Bank Limited
+2026043001014954,ADBL,56,34,30,308.0,9240.0,2026-04-30,188681803,397,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 12:14:18.879595,Agricultural Development Bank Limited
+2026043001014955,ADBL,56,47,70,308.9,21623.0,2026-04-30,188681805,397,Sri Hari Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-30 12:14:18.879955,Agricultural Development Bank Limited
+2026043001014956,ADBL,56,58,100,309.0,30900.0,2026-04-30,188681807,397,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 12:14:18.880186,Agricultural Development Bank Limited
+2026043001014957,ADBL,56,11,300,309.0,92700.0,2026-04-30,188681809,397,Sri Hari Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 12:14:18.880406,Agricultural Development Bank Limited
+2026043001014958,ADBL,56,42,500,309.0,154500.0,2026-04-30,188681811,397,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:14:18.880614,Agricultural Development Bank Limited
+2026043001014959,ADBL,56,42,216,309.0,66744.0,2026-04-30,188681813,397,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:14:18.880808,Agricultural Development Bank Limited
+2026043001014960,ADBL,56,42,1784,309.0,551256.0,2026-04-30,188681816,397,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:14:18.881005,Agricultural Development Bank Limited
+2026043001016277,ADBL,57,58,10,308.0,3080.0,2026-04-30,188687426,397,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-30 12:22:48.365915,Agricultural Development Bank Limited
+2026043001016434,ADBL,67,57,1,304.0,304.0,2026-04-30,188688017,397,Property Wiard Limited,Aryatara Investment & Securities,2026-04-30 12:23:46.598513,Agricultural Development Bank Limited
+2026043001016471,ADBL,67,48,1,305.3,305.3,2026-04-30,188688141,397,Property Wiard Limited,Trishakti Securities Public Limited,2026-04-30 12:24:01.276571,Agricultural Development Bank Limited
+2026043001016987,ADBL,1,48,7,305.3,2137.1,2026-04-30,188689783,397,Kumari Securities Private Limited,Trishakti Securities Public Limited,2026-04-30 12:26:56.038220,Agricultural Development Bank Limited
+2026043001017907,ADBL,22,58,141,308.0,43428.0,2026-04-30,188693097,397,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 12:33:07.457299,Agricultural Development Bank Limited
+2026043001018329,ADBL,42,14,1,300.0,300.0,2026-04-30,188694731,397,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 12:36:21.953600,Agricultural Development Bank Limited
+2026043001018599,ADBL,22,52,103,308.0,31724.0,2026-04-30,188695697,397,Siprabi Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-30 12:38:26.255731,Agricultural Development Bank Limited
+2026043001020523,ADBL,42,58,22,308.3,6782.6,2026-04-30,188702102,397,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-30 12:50:54.703053,Agricultural Development Bank Limited
+2026043001020524,ADBL,42,58,20,308.2,6164.0,2026-04-30,188702104,397,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-30 12:50:54.703385,Agricultural Development Bank Limited
+2026043001020525,ADBL,22,58,102,308.0,31416.0,2026-04-30,188702105,397,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-30 12:50:54.703605,Agricultural Development Bank Limited
+2026043001021524,ADBL,29,42,10,309.0,3090.0,2026-04-30,188705298,397,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-30 12:56:36.944834,Agricultural Development Bank Limited
+2026043001021528,ADBL,4,42,106,309.0,32754.0,2026-04-30,188705307,397,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-30 12:56:37.722437,Agricultural Development Bank Limited
+2026043001021529,ADBL,4,43,894,309.0,276246.0,2026-04-30,188705310,397,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 12:56:37.722598,Agricultural Development Bank Limited
+2026043001021573,ADBL,49,43,50,309.0,15450.0,2026-04-30,188705498,397,Online Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 12:57:01.046185,Agricultural Development Bank Limited
+2026043001022396,ADBL,58,43,10,309.0,3090.0,2026-04-30,188707756,397,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 12:59:09.287134,Agricultural Development Bank Limited
+2026043001022678,ADBL,58,49,10,308.0,3080.0,2026-04-30,188708806,397,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.929043,Agricultural Development Bank Limited
+2026043001022679,ADBL,51,49,80,308.0,24640.0,2026-04-30,188708808,397,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.929367,Agricultural Development Bank Limited
+2026043001022680,ADBL,47,49,30,306.2,9186.0,2026-04-30,188708810,397,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.929594,Agricultural Development Bank Limited
+2026043001022681,ADBL,65,49,55,306.2,16841.0,2026-04-30,188708812,397,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.929798,Agricultural Development Bank Limited
+2026043001022682,ADBL,74,49,107,306.1,32752.7,2026-04-30,188708814,397,KALASH STOCK MARKET PVT. LTD.,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.930005,Agricultural Development Bank Limited
+2026043001022683,ADBL,1,49,20,306.0,6120.0,2026-04-30,188708816,397,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.930234,Agricultural Development Bank Limited
+2026043001022684,ADBL,58,49,50,306.0,15300.0,2026-04-30,188708818,397,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.930463,Agricultural Development Bank Limited
+2026043001022685,ADBL,45,49,11,306.0,3366.0,2026-04-30,188708820,397,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.930676,Agricultural Development Bank Limited
+2026043001022686,ADBL,52,49,382,306.0,116892.0,2026-04-30,188708821,397,Sundhara Securities Limited,Online Securities Pvt. Ltd.,2026-04-30 13:00:55.930898,Agricultural Development Bank Limited
+2026043001025012,ADBL,29,47,10,308.9,3089.0,2026-04-30,188716040,397,Trisul Securities & Invt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-30 13:09:09.987263,Agricultural Development Bank Limited
+2026043001025566,ADBL,34,47,20,308.9,6178.0,2026-04-30,188717979,397,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-30 13:11:16.096729,Agricultural Development Bank Limited
+2026043001025714,ADBL,34,74,101,308.9,31198.9,2026-04-30,188718505,397,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-30 13:11:52.042732,Agricultural Development Bank Limited
+2026043001025945,ADBL,22,43,46,309.0,14214.0,2026-04-30,188719395,397,Siprabi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 13:12:56.414919,Agricultural Development Bank Limited
+2026043001025946,ADBL,22,57,50,309.0,15450.0,2026-04-30,188719397,397,Siprabi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-30 13:12:56.415246,Agricultural Development Bank Limited
+2026043001025947,ADBL,22,14,53,309.0,16377.0,2026-04-30,188719399,397,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-30 13:12:56.415451,Agricultural Development Bank Limited
+2026043001025948,ADBL,22,1,51,309.0,15759.0,2026-04-30,188719402,397,Siprabi Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-30 13:12:56.415645,Agricultural Development Bank Limited
+2026043001026121,ADBL,34,1,44,309.0,13596.0,2026-04-30,188719970,397,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,2026-04-30 13:13:31.530979,Agricultural Development Bank Limited
+2026043001026374,ADBL,58,1,20,309.0,6180.0,2026-04-30,188721000,397,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-30 13:15:06.270480,Agricultural Development Bank Limited
+2026043001027903,ADBL,38,66,161,307.1,49443.1,2026-04-30,188727371,397,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Miyo Securities Pvt Ltd,2026-04-30 13:22:17.403283,Agricultural Development Bank Limited
+2026043001028781,ADBL,42,43,1,299.7,299.7,2026-04-30,188730753,397,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-30 13:29:19.967132,Agricultural Development Bank Limited
+2026043001028966,ADBL,34,19,10,308.0,3080.0,2026-04-30,188731448,397,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-30 13:31:12.524824,Agricultural Development Bank Limited
+2026043001029062,ADBL,42,38,1,300.0,300.0,2026-04-30,188731883,397,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-30 13:32:40.221193,Agricultural Development Bank Limited
+2026043001029239,ADBL,57,19,221,308.0,68068.0,2026-04-30,188732935,397,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-30 13:35:09.279551,Agricultural Development Bank Limited
+2026043001029282,ADBL,57,1,215,309.0,66435.0,2026-04-30,188733067,397,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-30 13:35:33.545855,Agricultural Development Bank Limited
+2026043001029283,ADBL,57,52,221,309.0,68289.0,2026-04-30,188733069,397,Aryatara Investment & Securities,Sundhara Securities Limited,2026-04-30 13:35:33.546076,Agricultural Development Bank Limited
+2026043001029284,ADBL,57,42,50,309.0,15450.0,2026-04-30,188733071,397,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-30 13:35:33.546162,Agricultural Development Bank Limited
+2026043001029285,ADBL,57,56,14,309.0,4326.0,2026-04-30,188733074,397,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2026-04-30 13:35:33.546237,Agricultural Development Bank Limited
+2026043001029479,ADBL,57,56,186,309.0,57474.0,2026-04-30,188733709,397,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2026-04-30 13:37:11.996885,Agricultural Development Bank Limited
+2026043001029529,ADBL,57,7,10,309.0,3090.0,2026-04-30,188733931,397,Aryatara Investment & Securities,J.F. Securites (PVT) Ltd.,2026-04-30 13:38:08.808832,Agricultural Development Bank Limited
+2026043001029641,ADBL,75,69,180,309.9,55782.0,2026-04-30,188734258,397,N.I.M.B. Stock Markets Limited,INDEX SECURITIES LIMITED,2026-04-30 13:39:03.855898,Agricultural Development Bank Limited
+2026043001029751,ADBL,75,69,70,309.9,21693.0,2026-04-30,188734643,397,N.I.M.B. Stock Markets Limited,INDEX SECURITIES LIMITED,2026-04-30 13:39:56.617376,Agricultural Development Bank Limited
+2026043001029752,ADBL,75,42,500,309.9,154950.0,2026-04-30,188734645,397,N.I.M.B. Stock Markets Limited,Sani Securities Company Ltd.,2026-04-30 13:39:56.617748,Agricultural Development Bank Limited
+2026043001029753,ADBL,75,34,1000,309.9,309900.0,2026-04-30,188734647,397,N.I.M.B. Stock Markets Limited,Vision Securities Pvt. Ltd,2026-04-30 13:39:56.617970,Agricultural Development Bank Limited
+2026043001029754,ADBL,75,32,130,310.0,40300.0,2026-04-30,188734650,397,N.I.M.B. Stock Markets Limited,Premier Securities Company Ltd.,2026-04-30 13:39:56.618234,Agricultural Development Bank Limited
+2026043001030034,ADBL,57,32,30,310.0,9300.0,2026-04-30,188735631,397,Aryatara Investment & Securities,Premier Securities Company Ltd.,2026-04-30 13:42:15.018923,Agricultural Development Bank Limited
+2026043001030035,ADBL,57,41,21,310.0,6510.0,2026-04-30,188735633,397,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-30 13:42:15.019215,Agricultural Development Bank Limited
+2026043001030036,ADBL,57,49,20,310.0,6200.0,2026-04-30,188735635,397,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-30 13:42:15.019325,Agricultural Development Bank Limited
+2026043001030037,ADBL,57,49,12,310.0,3720.0,2026-04-30,188735638,397,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-30 13:42:15.019411,Agricultural Development Bank Limited
+2026043001030084,ADBL,35,49,10,310.0,3100.0,2026-04-30,188735882,397,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-30 13:43:05.143958,Agricultural Development Bank Limited
+2026043001030597,ADBL,4,52,10,309.0,3090.0,2026-04-30,188737782,397,Opal Securities Investment (PVT) Ltd.,Sundhara Securities Limited,2026-04-30 13:47:51.583633,Agricultural Development Bank Limited
+2026043001030598,ADBL,52,52,20,308.0,6160.0,2026-04-30,188737784,397,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-30 13:47:51.583737,Agricultural Development Bank Limited
+2026043001030599,ADBL,58,52,59,308.0,18172.0,2026-04-30,188737785,397,Naasa Securities Co. Ltd.,Sundhara Securities Limited,2026-04-30 13:47:51.583805,Agricultural Development Bank Limited
+2026043001032513,ADBL,47,8,20,307.4,6148.0,2026-04-30,188744718,397,Neev Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 14:03:42.589964,Agricultural Development Bank Limited
+2026043001032514,ADBL,58,8,20,307.4,6148.0,2026-04-30,188744720,397,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 14:03:42.590199,Agricultural Development Bank Limited
+2026043001032663,ADBL,49,8,30,307.3,9219.0,2026-04-30,188745436,397,Online Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 14:05:15.074384,Agricultural Development Bank Limited
+2026043001032702,ADBL,35,40,20,307.2,6144.0,2026-04-30,188745572,397,Kohinoor Investment & Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-30 14:05:29.892101,Agricultural Development Bank Limited
+2026043001032703,ADBL,16,40,80,307.2,24576.0,2026-04-30,188745573,397,Primo Securities (PVT) Ltd.,Creative Securities Pvt Ltd,2026-04-30 14:05:29.892480,Agricultural Development Bank Limited
+2026043001032780,ADBL,16,8,420,307.2,129024.0,2026-04-30,188745890,397,Primo Securities (PVT) Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 14:06:06.246532,Agricultural Development Bank Limited
+2026043001032835,ADBL,38,8,10,307.1,3071.0,2026-04-30,188746215,397,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-30 14:06:49.666009,Agricultural Development Bank Limited
+2026043001033668,ADBL,58,34,30,308.0,9240.0,2026-04-30,188749656,397,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:15:29.720918,Agricultural Development Bank Limited
+2026043001033669,ADBL,58,34,10,308.0,3080.0,2026-04-30,188749658,397,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:15:29.721314,Agricultural Development Bank Limited
+2026043001033670,ADBL,42,34,50,307.5,15375.0,2026-04-30,188749660,397,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:15:29.721549,Agricultural Development Bank Limited
+2026043001033671,ADBL,58,34,100,307.4,30740.0,2026-04-30,188749662,397,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:15:29.721769,Agricultural Development Bank Limited
+2026043001033672,ADBL,38,34,810,307.1,248751.0,2026-04-30,188749663,397,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-30 14:15:29.722001,Agricultural Development Bank Limited
+2026043001033890,ADBL,38,21,19,307.1,5834.9,2026-04-30,188750578,397,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-30 14:17:56.039967,Agricultural Development Bank Limited
+2026043001033891,ADBL,19,21,50,307.1,15355.0,2026-04-30,188750580,397,Nepal Investment And Securities Trading Private Limited,Midas Stock Broking Company Private Limited,2026-04-30 14:17:56.040164,Agricultural Development Bank Limited
+2026043001033892,ADBL,49,21,30,307.1,9213.0,2026-04-30,188750582,397,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-30 14:17:56.040242,Agricultural Development Bank Limited
+2026043001033893,ADBL,71,21,101,307.0,31007.0,2026-04-30,188750583,397,SHUBHAKAMANA SECURITIES PVT. LTD,Midas Stock Broking Company Private Limited,2026-04-30 14:17:56.040320,Agricultural Development Bank Limited
+2026043001034233,ADBL,29,47,92,309.0,28428.0,2026-04-30,188751766,397,Trisul Securities & Invt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-30 14:20:20.166036,Agricultural Development Bank Limited
+2026043001036415,ADBL,56,47,10,309.7,3097.0,2026-04-30,188760128,397,Sri Hari Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-30 14:33:13.535214,Agricultural Development Bank Limited
+2026043001036715,ADBL,42,37,1,301.0,301.0,2026-04-30,188761373,397,Sani Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-30 14:35:02.022977,Agricultural Development Bank Limited
+2026043001036827,ADBL,41,48,50,308.0,15400.0,2026-04-30,188761790,397,Linch Stock Market Ltd.,Trishakti Securities Public Limited,2026-04-30 14:35:51.282560,Agricultural Development Bank Limited
+2026043001036828,ADBL,49,48,15,308.0,4620.0,2026-04-30,188761792,397,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-30 14:35:51.282955,Agricultural Development Bank Limited
+2026043001036829,ADBL,60,48,26,308.0,8008.0,2026-04-30,188761794,397,Nagarik Stock Dealer ,Trishakti Securities Public Limited,2026-04-30 14:35:51.283209,Agricultural Development Bank Limited
+2026043001036830,ADBL,52,48,35,307.3,10755.5,2026-04-30,188761795,397,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-30 14:35:51.283459,Agricultural Development Bank Limited
+2026043001037607,ADBL,42,6,1,300.5,300.5,2026-04-30,188765081,397,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-30 14:40:24.219071,Agricultural Development Bank Limited
+2026043001037745,ADBL,101,59,10,308.0,3080.0,2026-04-30,188765795,397,APPLE SECURITIES PRIVATE LIMITED,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-30 14:41:23.032047,Agricultural Development Bank Limited
+2026043001037746,ADBL,101,49,10,309.0,3090.0,2026-04-30,188765797,397,APPLE SECURITIES PRIVATE LIMITED,Online Securities Pvt. Ltd.,2026-04-30 14:41:23.032235,Agricultural Development Bank Limited
+2026043001037761,ADBL,101,47,10,309.0,3090.0,2026-04-30,188765865,397,APPLE SECURITIES PRIVATE LIMITED,Neev Securities Pvt. Ltd.,2026-04-30 14:41:31.036503,Agricultural Development Bank Limited
+2026043001038484,ADBL,101,26,130,309.0,40170.0,2026-04-30,188769275,397,APPLE SECURITIES PRIVATE LIMITED,Asian Securities Private Ltd.,2026-04-30 14:46:38.922555,Agricultural Development Bank Limited
+2026043001038485,ADBL,58,26,320,309.0,98880.0,2026-04-30,188769276,397,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-30 14:46:38.922917,Agricultural Development Bank Limited
+2026043001038688,ADBL,57,85,200,307.4,61480.0,2026-04-30,188770216,397,Aryatara Investment & Securities,Capital Hub P. Ltd,2026-04-30 14:47:58.900646,Agricultural Development Bank Limited
+2026043001038689,ADBL,52,85,100,307.3,30730.0,2026-04-30,188770217,397,Sundhara Securities Limited,Capital Hub P. Ltd,2026-04-30 14:47:58.901071,Agricultural Development Bank Limited
+2026043001038789,ADBL,52,53,20,307.3,6146.0,2026-04-30,188770689,397,Sundhara Securities Limited,Investment Management Nepal Pvt. Ltd.,2026-04-30 14:48:43.885226,Agricultural Development Bank Limited
+2026043001039478,ADBL,71,11,132,309.5,40854.0,2026-04-30,188773791,397,SHUBHAKAMANA SECURITIES PVT. LTD,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-30 14:52:39.636112,Agricultural Development Bank Limited
+2026043001039479,ADBL,71,49,200,309.6,61920.0,2026-04-30,188773793,397,SHUBHAKAMANA SECURITIES PVT. LTD,Online Securities Pvt. Ltd.,2026-04-30 14:52:39.636314,Agricultural Development Bank Limited
+2026043001039480,ADBL,71,51,567,309.6,175543.2,2026-04-30,188773796,397,SHUBHAKAMANA SECURITIES PVT. LTD,Oxford Securities Pvt. Ltd.,2026-04-30 14:52:39.636397,Agricultural Development Bank Limited
+2026043001039541,ADBL,57,51,398,309.6,123220.8,2026-04-30,188773995,397,Aryatara Investment & Securities,Oxford Securities Pvt. Ltd.,2026-04-30 14:52:50.458966,Agricultural Development Bank Limited
+2026043001039629,ADBL,57,6,102,309.7,31589.4,2026-04-30,188774412,397,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-30 14:53:16.144825,Agricultural Development Bank Limited
+2026043001039905,ADBL,50,39,50,309.0,15450.0,2026-04-30,188775642,397,Cristal Kanchanjanga Securites Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:54:26.377410,Agricultural Development Bank Limited
+2026043001039906,ADBL,58,39,95,309.0,29355.0,2026-04-30,188775643,397,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-30 14:54:26.377614,Agricultural Development Bank Limited
+2026043001040002,ADBL,58,57,50,309.0,15450.0,2026-04-30,188776101,397,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-30 14:54:48.787695,Agricultural Development Bank Limited
+2026043001040020,ADBL,6,71,142,308.0,43736.0,2026-04-30,188776177,397,Agrawal Securities (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,2026-04-30 14:54:52.644609,Agricultural Development Bank Limited
+2026043001040316,ADBL,57,16,100,309.5,30950.0,2026-04-30,188777538,397,Aryatara Investment & Securities,Primo Securities (PVT) Ltd.,2026-04-30 14:56:07.015640,Agricultural Development Bank Limited
+2026043001040451,ADBL,6,6,358,308.0,110264.0,2026-04-30,188778080,397,Agrawal Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-30 14:56:29.611602,Agricultural Development Bank Limited
+2026043001040593,ADBL,35,6,1500,307.5,461250.0,2026-04-30,188779080,397,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-30 14:57:08.689821,Agricultural Development Bank Limited
+2026043001040598,ADBL,47,6,97,307.5,29827.5,2026-04-30,188779132,397,Neev Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-30 14:57:10.542241,Agricultural Development Bank Limited
+2026043001041786,ADBL,54,42,55,309.0,16995.0,2026-04-30,188785012,397,Sewa Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:59:45.430367,Agricultural Development Bank Limited
+2026043001042140,ADBL,50,42,28,309.0,8652.0,2026-04-30,188786664,397,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-30 14:59:58.523903,Agricultural Development Bank Limited
+2026043001042141,ADBL,50,16,32,309.5,9904.0,2026-04-30,188786670,397,Cristal Kanchanjanga Securites Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-30 14:59:58.524310,Agricultural Development Bank Limited
