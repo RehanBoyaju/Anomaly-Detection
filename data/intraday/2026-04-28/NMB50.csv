@@ -1,2 +1,2 @@
-Symbol,buyerMemberId,sellerMemberId,volume,rate,amount,transaction_time,Contract ID
-NMB50,58,28,1000,10.51,10510.0,"2026-04-28, 1:59:36:151 PM",2026042805009927
+stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+NMB50,58,28,1000,10.51,10510.0,2026-04-28 13:59:36.151,2026042805009927

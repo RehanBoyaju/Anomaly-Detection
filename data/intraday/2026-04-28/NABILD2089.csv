@@ -1,2 +1,2 @@
-Symbol,buyerMemberId,sellerMemberId,volume,rate,amount,transaction_time,Contract ID
-NABILD2089,58,43,21,1088.9,22866.9,"2026-04-28, 2:49:51:051 PM",2026042801102852
+stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+NABILD2089,58,43,21,1088.9,22866.9,2026-04-28 14:49:51.051,2026042801102852

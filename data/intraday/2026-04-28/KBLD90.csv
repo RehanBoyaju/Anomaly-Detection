@@ -1,2 +1,2 @@
-Symbol,buyerMemberId,sellerMemberId,volume,rate,amount,transaction_time,Contract ID
-KBLD90,49,58,5,1455.0,7275.0,"2026-04-28, 2:58:17:414 PM",2026042801108741
+stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+KBLD90,49,58,5,1455.0,7275.0,2026-04-28 14:58:17.414,2026042801108741

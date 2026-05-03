@@ -15,9 +15,7 @@ class DBSCAN:
         self.min_pts = min_pts
         self.points: List[Point] = []
 
-    # -------------------------
-    # FIT (runs clustering)
-    # -------------------------
+   
     def fit(self, X):
         self.points = [Point(row) for row in X]
 
@@ -38,9 +36,6 @@ class DBSCAN:
 
         return self
 
-    # -------------------------
-    # CLUSTER EXPANSION
-    # -------------------------
     def _expand_cluster(self, p, neighbors, cluster_id):
         p.cluster_id = cluster_id
         i = 0
@@ -60,24 +55,17 @@ class DBSCAN:
 
             i += 1
 
-    # -------------------------
-    # REGION QUERY
-    # -------------------------
+    #
     def _region_query(self, p):
         return [
             q for q in self.points
             if self._distance(p.coords, q.coords) <= self.eps
         ]
 
-    # -------------------------
-    # DISTANCE (Euclidean)
-    # -------------------------
     def _distance(self, a, b):
         return math.sqrt(sum((x - y) ** 2 for x, y in zip(a, b)))
 
-    # -------------------------
-    # OUTPUT LABELS
-    # -------------------------
+
     def get_labels(self):
         return [p.cluster_id for p in self.points]
 

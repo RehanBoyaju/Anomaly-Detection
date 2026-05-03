@@ -1,2 +1,2 @@
-Symbol,buyerMemberId,sellerMemberId,volume,rate,amount,transaction_time,Contract ID
-SGICP,5,4,39237,260.0,10201620.0,"2026-04-28, 2:33:41:017 PM",2026042801093726
+stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+SGICP,5,4,39237,260.0,10201620.0,2026-04-28 14:33:41.017,2026042801093726
