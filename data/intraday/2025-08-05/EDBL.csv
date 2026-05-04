@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,126136,2025080503000064,EDBL,Sweta Securities Private Limited,Creative Securities Pvt Ltd,50,656.0,32800.0,2025-08-05 11:03:14.820710
 2025-08-05,126135,2025080503000065,EDBL,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,30,655.0,19650.0,2025-08-05 11:03:14.820750
 2025-08-05,126134,2025080503000066,EDBL,Kohinoor Investment & Securities Pvt. Ltd.,Creative Securities Pvt Ltd,20,652.0,13040.0,2025-08-05 11:03:14.820780

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,86698,2025083103000284,JBBL,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,60,337.0,20220.0,2025-08-31T11:16:39.399366
 2025-08-31,83039,2025083103000469,JBBL,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,100,336.1,33610.0,2025-08-31T11:23:01.647339
 2025-08-31,83038,2025083103000470,JBBL,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,100,336.0,33600.0,2025-08-31T11:23:01.647506

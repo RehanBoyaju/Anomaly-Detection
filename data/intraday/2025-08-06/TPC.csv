@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92075,2025080605000436,TPC,Linch Stock Market Ltd.,Sani Securities Company Ltd.,10,376.4,3764.0,2025-08-06 11:03:44.226227
 2025-08-06,88472,2025080605001852,TPC,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,80,378.1,30248.0,2025-08-06 11:12:29.536517
 2025-08-06,88471,2025080605001853,TPC,Sweta Securities Private Limited,Midas Stock Broking Company Private Limited,1000,378.0,378000.0,2025-08-06 11:12:29.536610

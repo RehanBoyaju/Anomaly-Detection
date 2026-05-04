@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86988,2025070603000166,NLIC,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,10,802.0,8020.0,2025-07-06 11:01:49.928831
 2025-07-06,86835,2025070603000223,NLIC,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,10,801.0,8010.0,2025-07-06 11:02:29.380568
 2025-07-06,86525,2025070603000346,NLIC,Sweta Securities Private Limited,Thrive Brokerage House Pvt. Ltd,50,799.0,39950.0,2025-07-06 11:03:37.880913

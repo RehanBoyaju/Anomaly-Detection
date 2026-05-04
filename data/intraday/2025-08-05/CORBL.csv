@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,109122,2025080503001011,CORBL,Secured Securities Ltd.,Magnet Securities and Investment Company Private Limited,50,2127.0,106350.0,2025-08-05 11:21:03.549654
 2025-08-05,103887,2025080503001434,CORBL,Primo Securities (PVT) Ltd.,Magnet Securities and Investment Company Private Limited,50,2107.5,105375.0,2025-08-05 11:28:37.299780
 2025-08-05,102282,2025080503001558,CORBL,Primo Securities (PVT) Ltd.,Asian Securities Private Ltd.,90,2107.5,189675.0,2025-08-05 11:31:57.002518

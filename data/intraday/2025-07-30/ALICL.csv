@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141487,2025073003000003,ALICL,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Hub P. Ltd,10,516.1,5161.0,2025-07-30 10:46:00.031463
 2025-07-30,139210,2025073003000469,ALICL,Premier Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,526.4,5264.0,2025-07-30 11:05:48.522817
 2025-07-30,138262,2025073003000677,ALICL,Thrive Brokerage House Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,10,536.8,5368.0,2025-07-30 11:07:44.466735

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61603,2025081901000013,NABIL,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,525.0,5250.0,2025-08-19 11:00:44.306993
 2025-08-19,61520,2025081901000020,NABIL,Trishakti Securities Public Limited,Nabil Stock Dealer Ltd.,30,519.0,15570.0,2025-08-19 11:01:19.019543
 2025-08-19,61141,2025081901000090,NABIL,Secured Securities Ltd.,Premier Securities Company Ltd.,10,524.0,5240.0,2025-08-19 11:04:13.738166

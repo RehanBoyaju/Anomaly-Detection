@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57765,2025082405000233,NRN,Sipla Securities Private Limited,South Asian Bulls Pvt. Ltd.,100,2173.1,217310.0,2025-08-24 11:02:41.522064
 2025-08-24,55795,2025082405001286,NRN,Sri Hari Securities Pvt. Ltd.,K.B.L. Securities Limited ,11,2180.0,23980.0,2025-08-24 11:14:26.759012
 2025-08-24,54955,2025082405001687,NRN,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,13,2190.0,28470.0,2025-08-24 11:18:03.240877

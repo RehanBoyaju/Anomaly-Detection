@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156892,2025072904000101,SHL,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,100,599.9,59990.0,2025-07-29 11:01:55.662382
 2025-07-29,155601,2025072904000332,SHL,INDEX SECURITIES LIMITED,Online Securities Pvt. Ltd.,170,597.0,101490.0,2025-07-29 11:04:20.674366
 2025-07-29,154634,2025072904000576,SHL,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,430,597.0,256710.0,2025-07-29 11:05:59.155025

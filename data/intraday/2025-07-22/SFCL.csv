@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,175469,2025072203000789,SFCL,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,55,491.9,27054.5,2025-07-22 11:03:59.638329
 2025-07-22,175329,2025072203000855,SFCL,Agrawal Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,150,490.0,73500.0,2025-07-22 11:04:17.068447
 2025-07-22,175231,2025072203000904,SFCL,Agrawal Securities (PVT) Ltd.,Sundhara Securities Limited,150,490.0,73500.0,2025-07-22 11:04:27.817857

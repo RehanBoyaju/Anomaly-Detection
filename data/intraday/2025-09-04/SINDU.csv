@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68990,2025090403000001,SINDU,Stoxkarts Securities Limited,Vision Securities Pvt. Ltd,10,698.8,6988.0,2025-09-04T10:46:00.040942
 2025-09-04,67556,2025090403000118,SINDU,Thrive Brokerage House Pvt. Ltd,Vision Securities Pvt. Ltd,30,712.0,21360.0,2025-09-04T11:08:06.39786
 2025-09-04,67525,2025090403000124,SINDU,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,70,712.0,49840.0,2025-09-04T11:08:15.272781

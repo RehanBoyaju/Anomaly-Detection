@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,66693,2025090404000688,SPDL,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,100,394.0,39400.0,2025-09-04T11:11:52.386658
 2025-09-04,66602,2025090404000717,SPDL,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,100,393.1,39310.0,2025-09-04T11:12:07.413582
 2025-09-04,66601,2025090404000718,SPDL,Premier Securities Company Ltd.,Oxford Securities Pvt. Ltd.,200,393.0,78600.0,2025-09-04T11:12:07.413659

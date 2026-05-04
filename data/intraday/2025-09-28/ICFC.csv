@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,34833,2025092803000406,ICFC,Linch Stock Market Ltd.,Sweta Securities Private Limited,50,651.0,32550.0,2025-09-28 11:26:32.539774
 2025-09-28,34832,2025092803000407,ICFC,Sweta Securities Private Limited,Sweta Securities Private Limited,50,650.3,32515.0,2025-09-28 11:26:32.539976
 2025-09-28,34831,2025092803000408,ICFC,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,350,650.2,227570.0,2025-09-28 11:26:32.540066

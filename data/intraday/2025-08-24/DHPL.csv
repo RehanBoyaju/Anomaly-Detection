@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57264,2025082404000102,DHPL,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,20,322.0,6440.0,2025-08-24 11:05:40.556417
 2025-08-24,56870,2025082404000150,DHPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,KALASH STOCK MARKET PVT. LTD.,10,315.9,3159.0,2025-08-24 11:08:48.512842
 2025-08-24,56733,2025082404000185,DHPL,KALASH STOCK MARKET PVT. LTD.,Kalika Securities Pvt. Ltd.,12,322.2,3866.4,2025-08-24 11:09:43.702505

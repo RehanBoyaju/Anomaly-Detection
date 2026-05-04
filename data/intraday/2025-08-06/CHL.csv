@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,88334,2025080604000666,CHL,Primo Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,10,301.0,3010.0,2025-08-06 11:12:50.519124
 2025-08-06,84891,2025080604001213,CHL,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,50,302.1,15105.0,2025-08-06 11:21:47.062635
 2025-08-06,83713,2025080604001389,CHL,Sweta Securities Private Limited,Siprabi Securities Pvt. Ltd.,10,303.0,3030.0,2025-08-06 11:24:55.095011

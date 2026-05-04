@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70279,2025070704000247,SJCL,Kumari Securities Private Limited,Siprabi Securities Pvt. Ltd.,1000,320.5,320500.0,2025-07-07 11:05:31.513220
 2025-07-07,70278,2025070704000248,SJCL,Sewa Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,100,320.2,32020.0,2025-07-07 11:05:31.513285
 2025-07-07,70277,2025070704000249,SJCL,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,200,320.1,64020.0,2025-07-07 11:05:31.513333

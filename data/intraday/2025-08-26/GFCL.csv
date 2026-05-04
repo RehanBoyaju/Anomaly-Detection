@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,41996,2025082603000718,GFCL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,30,635.0,19050.0,2025-08-26 11:25:27.072830
 2025-08-26,38848,2025082603001243,GFCL,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,25,635.0,15875.0,2025-08-26 11:46:59.761206
 2025-08-26,38752,2025082603001257,GFCL,Himalayan Securities Limited,J.F. Securites (PVT) Ltd.,9,635.0,5715.0,2025-08-26 11:47:35.781506

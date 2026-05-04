@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RBCL,33,52,10,15250.0,152500.0,2026-04-28 14:59:58.084,2026042804015032
 RBCL,49,52,30,15250.0,457500.0,2026-04-28 14:59:58.083,2026042804015031
 RBCL,66,14,5,15255.0,76275.0,2026-04-28 14:58:13.207,2026042804014263

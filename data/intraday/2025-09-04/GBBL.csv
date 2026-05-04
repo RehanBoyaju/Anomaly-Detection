@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68819,2025090403000024,GBBL,Global IME Securities Limited,Vision Securities Pvt. Ltd,10,430.0,4300.0,2025-09-04T11:01:44.170488
 2025-09-04,68799,2025090403000030,GBBL,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,10,436.8,4368.0,2025-09-04T11:01:53.230791
 2025-09-04,67134,2025090403000152,GBBL,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,70,435.0,30450.0,2025-09-04T11:10:18.373603

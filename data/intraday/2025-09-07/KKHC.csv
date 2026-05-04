@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57557,2025090704000174,KKHC,Imperial Securities Company Pvt. Ltd.,Indira securities pvt. ltd,20,240.0,4800.0,2025-09-07 11:04:22.662116
 2025-09-07,56115,2025090704000502,KKHC,Dakshinkali Investment & Securities Pvt. Ltd.,Indira securities pvt. ltd,50,237.0,11850.0,2025-09-07 11:13:30.961122
 2025-09-07,56114,2025090704000503,KKHC,Aryatara Investment & Securities,Indira securities pvt. ltd,20,236.8,4736.0,2025-09-07 11:13:30.961244

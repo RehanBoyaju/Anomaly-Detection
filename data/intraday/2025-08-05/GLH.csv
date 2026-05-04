@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,122928,2025080504000288,GLH,Sharepro Securities Private Limited,Blue Chip Securities Ltd,500,280.0,140000.0,2025-08-05 11:05:50.980738
 2025-08-05,122065,2025080504000330,GLH,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,10,280.0,2800.0,2025-08-05 11:06:38.443598
 2025-08-05,121866,2025080504000339,GLH,Siprabi Securities Pvt. Ltd.,Sundhara Securities Limited,10,279.0,2790.0,2025-08-05 11:06:52.571826

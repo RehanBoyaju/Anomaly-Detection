@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,66861,2025090303000109,ICFC,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,10,670.0,6700.0,2025-09-03 11:08:26.463146
 2025-09-03,66475,2025090303000132,ICFC,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,150,669.9,100485.0,2025-09-03 11:10:05.297404
 2025-09-03,60653,2025090303000488,ICFC,Primo Securities (PVT) Ltd.,Asian Securities Private Ltd.,500,668.0,334000.0,2025-09-03 11:31:08.071667

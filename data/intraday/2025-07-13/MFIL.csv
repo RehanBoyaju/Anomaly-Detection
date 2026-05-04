@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104938,2025071303000111,MFIL,Magnet Securities and Investment Company Private Limited,Vision Securities Pvt. Ltd,100,628.0,62800.0,2025-07-13T10:46:00.096533
 2025-07-13,104937,2025071303000112,MFIL,Imperial Securities Company Pvt. Ltd.,Sundhara Securities Limited,50,628.0,31400.0,2025-07-13T10:46:00.096573
 2025-07-13,104534,2025071303000249,MFIL,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,10,640.5,6405.0,2025-07-13T11:00:23.059562

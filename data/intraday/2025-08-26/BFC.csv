@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44188,2025082603000261,BFC,Blue Chip Securities Ltd,Linch Stock Market Ltd.,10,499.0,4990.0,2025-08-26 11:09:56.560792
 2025-08-26,36557,2025082603001712,BFC,Global IME Securities Limited,Linch Stock Market Ltd.,10,499.0,4990.0,2025-08-26 12:04:10.980884
 2025-08-26,31601,2025082603002599,BFC,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,50,498.0,24900.0,2025-08-26 12:34:39.476188

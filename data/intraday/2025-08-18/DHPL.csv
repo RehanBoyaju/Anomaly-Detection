@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,65522,2025081804000593,DHPL,Oxford Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,30,306.1,9183.0,2025-08-18T11:13:47.66763
 2025-08-18,53436,2025081804003378,DHPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,50,306.6,15330.0,2025-08-18T12:00:42.336839
 2025-08-18,53119,2025081804003431,DHPL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,100,306.1,30610.0,2025-08-18T12:02:01.747343

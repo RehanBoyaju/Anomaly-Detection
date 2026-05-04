@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,146492,2025080404000657,UMRH,ABC Securities Private Limited,Siprabi Securities Pvt. Ltd.,100,615.0,61500.0,2025-08-04 11:03:08.315999
 2025-08-04,145568,2025080404000763,UMRH,Sundhara Securities Limited,Neev Securities Pvt. Ltd.,100,614.0,61400.0,2025-08-04 11:03:54.991494
 2025-08-04,136952,2025080404001839,UMRH,Sewa Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,621.0,6210.0,2025-08-04 11:11:09.192151

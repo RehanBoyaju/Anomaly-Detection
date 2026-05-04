@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,154672,2025072904000565,CHL,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,10,335.0,3350.0,2025-07-29 11:05:56.371036
 2025-07-29,154671,2025072904000566,CHL,Online Securities Pvt. Ltd.,INDEX SECURITIES LIMITED,390,335.3,130767.0,2025-07-29 11:05:56.371148
 2025-07-29,152126,2025072904001244,CHL,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,1000,330.2,330200.0,2025-07-29 11:09:25.407325

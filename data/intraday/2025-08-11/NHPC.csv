@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98522,2025081104000001,NHPC,J.F. Securites (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,219.0,2190.0,2025-08-11 10:46:00.008968
 2025-08-11,97654,2025081104000140,NHPC,J.F. Securites (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,290,218.0,63220.0,2025-08-11 11:03:00.182372
 2025-08-11,97107,2025081104000227,NHPC,J.F. Securites (PVT) Ltd.,Indira securities pvt. ltd,56,218.0,12208.0,2025-08-11 11:04:34.552772

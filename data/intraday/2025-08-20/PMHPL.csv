@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53831,2025082004000009,PMHPL,Citizens Share Broker Limited,South Asian Bulls Pvt. Ltd.,50,440.3,22015.0,2025-08-20 10:46:00.043917
 2025-08-20,53830,2025082004000010,PMHPL,Indira securities pvt. ltd,South Asian Bulls Pvt. Ltd.,11,440.3,4843.3,2025-08-20 10:46:00.043989
 2025-08-20,53791,2025082004000022,PMHPL,Hatemalo Financial Services Private Limited,Nepal Investment And Securities Trading Private Limited,10,432.0,4320.0,2025-08-20 11:00:06.493786

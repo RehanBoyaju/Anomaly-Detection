@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,69790,2025071403000315,NABBC,Sweta Securities Private Limited,ABC Securities Private Limited,20,1676.0,33520.0,2025-07-14 11:09:10.489040
 2025-07-14,63939,2025071403001182,NABBC,ABC Securities Private Limited,Midas Stock Broking Company Private Limited,10,1694.0,16940.0,2025-07-14 11:28:05.521139
 2025-07-14,63938,2025071403001183,NABBC,ABC Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,700,1708.9,1196230.0,2025-07-14 11:28:05.521180

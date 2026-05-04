@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75419,2025081401000295,SCB,Dakshinkali Investment & Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,45,639.0,28755.0,2025-08-14 11:06:46.345327
 2025-08-14,74930,2025081401000389,SCB,N.M.B. SECURITIES LIMITED,Malla & Malla Stock Broking Company Pvt. Limited,55,639.0,35145.0,2025-08-14 11:08:27.681931
 2025-08-14,70425,2025081401001472,SCB,Malla & Malla Stock Broking Company Pvt. Limited,Naasa Securities Co. Ltd.,25,636.0,15900.0,2025-08-14 11:25:41.315571

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78364,2025082805000008,NIFRA,Sagarmatha Securities Private Limited,Himalayan Securities Limited,10,282.3,2823.0,2025-08-28 10:46:00.024872
 2025-08-28,78010,2025082805000120,NIFRA,Malla & Malla Stock Broking Company Pvt. Limited,Linch Stock Market Ltd.,10,284.3,2843.0,2025-08-28 11:02:15.570026
 2025-08-28,77961,2025082805000131,NIFRA,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,300,285.0,85500.0,2025-08-28 11:02:30.132507

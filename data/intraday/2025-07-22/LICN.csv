@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177091,2025072203000004,LICN,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,13,933.0,12129.0,2025-07-22 10:46:00.015071
 2025-07-22,176922,2025072203000079,LICN,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,35,931.6,32606.0,2025-07-22 11:00:25.513570
 2025-07-22,176888,2025072203000096,LICN,Sri Hari Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,152,931.6,141603.2,2025-07-22 11:00:39.945666

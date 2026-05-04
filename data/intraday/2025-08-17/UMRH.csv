@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86608,2025081704000028,UMRH,Shree Krishna Securities Ltd.,Siprabi Securities Pvt. Ltd.,10,642.4,6424.0,2025-08-17 10:46:00.057677
 2025-08-17,85063,2025081704000244,UMRH,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,13,637.8,8291.4,2025-08-17 11:05:02.462114
 2025-08-17,85062,2025081704000245,UMRH,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,520,637.8,331656.0,2025-08-17 11:05:02.462173

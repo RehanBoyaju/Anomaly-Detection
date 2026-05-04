@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71244,2025070703000019,MPFL,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,10,627.0,6270.0,2025-07-07 10:46:00.047862
 2025-07-07,69542,2025070703000605,MPFL,Creative Securities Pvt Ltd,Sewa Securities Pvt. Ltd.,100,621.2,62120.0,2025-07-07 11:08:29.840917
 2025-07-07,67657,2025070703001151,MPFL,Aryatara Investment & Securities,Nabil Stock Dealer Ltd.,10,615.0,6150.0,2025-07-07 11:15:54.546268

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,174493,2025072003000883,NABBC,Sipla Securities Private Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,500,1679.0,839500.0,2025-07-20T11:05:18.855034
 2025-07-20,169172,2025072003002154,NABBC,Sipla Securities Private Limited,Online Securities Pvt. Ltd.,35,1700.0,59500.0,2025-07-20T11:10:55.508323
 2025-07-20,169171,2025072003002155,NABBC,Sipla Securities Private Limited,ABC Securities Private Limited,40,1700.0,68000.0,2025-07-20T11:10:55.50837

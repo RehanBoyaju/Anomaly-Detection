@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68165,2025090105000134,NYADI,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,411.0,4110.0,2025-09-01 11:02:32.792702
 2025-09-01,66152,2025090105000527,NYADI,Nepal Investment And Securities Trading Private Limited,Sundhara Securities Limited,50,415.1,20755.0,2025-09-01 11:09:40.431760
 2025-09-01,65687,2025090105000636,NYADI,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,10,415.1,4151.0,2025-09-01 11:11:09.752727

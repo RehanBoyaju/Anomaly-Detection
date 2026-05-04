@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141425,2025071704000001,BPCL,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,965.0,9650.0,2025-07-17 10:46:00.018326
 2025-07-17,141424,2025071704000002,BPCL,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,45,965.0,43425.0,2025-07-17 10:46:00.018381
 2025-07-17,141423,2025071704000003,BPCL,SUN SECURITIES PVT LTD,SHUBHAKAMANA SECURITIES PVT. LTD,255,965.0,246075.0,2025-07-17 10:46:00.018432

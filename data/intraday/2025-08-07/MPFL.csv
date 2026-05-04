@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,90914,2025080703000775,MPFL,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,8,620.0,4960.0,2025-08-07 11:16:00.842105
 2025-08-07,90466,2025080703000866,MPFL,Creative Securities Pvt Ltd,Kumari Securities Private Limited,1,615.0,615.0,2025-08-07 11:17:29.326925
 2025-08-07,89397,2025080703001097,MPFL,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,634.9,6349.0,2025-08-07 11:20:18.403050

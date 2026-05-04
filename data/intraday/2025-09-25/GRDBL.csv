@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37507,2025092503000009,GRDBL,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,20,1101.0,22020.0,2025-09-25 11:00:02.911631
 2025-09-25,37501,2025092503000010,GRDBL,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,1093.0,10930.0,2025-09-25 11:00:13.481324
 2025-09-25,37064,2025092503000057,GRDBL,Kumari Securities Private Limited,Trishakti Securities Public Limited,25,1100.0,27500.0,2025-09-25 11:04:34.517399

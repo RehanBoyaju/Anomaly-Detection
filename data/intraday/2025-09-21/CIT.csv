@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108866,2025092105000001,CIT,Asian Securities Private Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,1730.8,34616.0,2025-09-21 10:46:00.008900
 2025-09-21,108865,2025092105000002,CIT,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,1730.8,17308.0,2025-09-21 10:46:00.008951
 2025-09-21,108864,2025092105000003,CIT,Nepal Investment And Securities Trading Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,1730.8,17308.0,2025-09-21 10:46:00.008970

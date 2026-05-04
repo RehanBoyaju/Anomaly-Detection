@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GVL,65,26,11,488.4,5372.4,2026-04-28 14:59:56.229,2026042805016460
 GVL,25,90,100,488.5,48850.0,2026-04-28 14:59:54.514,2026042805016443
 GVL,52,90,240,488.5,117240.0,2026-04-28 14:58:37.676,2026042805015993

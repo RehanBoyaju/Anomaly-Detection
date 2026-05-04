@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,35840,2025092504000399,CHL,Secured Securities Ltd.,Sewa Securities Pvt. Ltd.,49,255.0,12495.0,2025-09-25 11:15:10.341580
 2025-09-25,35839,2025092504000400,CHL,Opal Securities Investment (PVT) Ltd.,Sewa Securities Pvt. Ltd.,100,255.0,25500.0,2025-09-25 11:15:10.341688
 2025-09-25,35495,2025092504000461,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,100,254.8,25480.0,2025-09-25 11:17:52.360581

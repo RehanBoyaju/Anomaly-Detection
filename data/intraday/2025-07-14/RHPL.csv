@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71654,2025071404000365,RHPL,Agrawal Securities (PVT) Ltd.,Arun Securities (PVT) Ltd.,10,325.0,3250.0,2025-07-14 11:03:20.211262
 2025-07-14,71365,2025071404000463,RHPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,55,324.0,17820.0,2025-07-14 11:04:13.585190
 2025-07-14,71364,2025071404000464,RHPL,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,160,322.0,51520.0,2025-07-14 11:04:13.585258

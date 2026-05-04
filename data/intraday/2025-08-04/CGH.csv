@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,148481,2025080404000147,CGH,Trishakti Securities Public Limited,Dynamic Money Managers Securities Pvt. Ltd.,100,1000.2,100020.0,2025-08-04 11:00:55.373194
 2025-08-04,148397,2025080404000173,CGH,Himalayan Brokerage Company Limited,Dynamic Money Managers Securities Pvt. Ltd.,65,1000.2,65013.0,2025-08-04 11:01:00.534693
 2025-08-04,148084,2025080404000251,CGH,Trishakti Securities Public Limited,Trishakti Securities Public Limited,50,1010.0,50500.0,2025-08-04 11:01:22.603110

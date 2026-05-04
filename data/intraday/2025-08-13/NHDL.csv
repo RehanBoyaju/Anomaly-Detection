@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,67407,2025081304000589,NHDL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,41,705.0,28905.0,2025-08-13 11:14:24.585947
 2025-08-13,61408,2025081304002106,NHDL,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,10,705.0,7050.0,2025-08-13 11:37:20.788291
 2025-08-13,60784,2025081304002255,NHDL,Blue Chip Securities Ltd,Sagarmatha Securities Private Limited,1,691.0,691.0,2025-08-13 11:39:49.628893

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78223,2025081205000001,CIT,Beni Securities Pvt.Ltd.,Trisul Securities & Invt. Ltd.,10,1970.0,19700.0,2025-08-12 10:46:00.007352
 2025-08-12,77597,2025081205000398,CIT,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,16,1955.0,31280.0,2025-08-12 11:02:39.091435
 2025-08-12,76877,2025081205000774,CIT,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,10,1970.0,19700.0,2025-08-12 11:05:20.568309

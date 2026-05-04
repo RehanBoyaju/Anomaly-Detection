@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MEHL,57,38,10,407.5,4075.0,2026-04-28 14:59:59.453,2026042805016547
 MEHL,57,38,10,407.5,4075.0,2026-04-28 14:58:55.962,2026042805016068
 MEHL,57,42,40,407.0,16280.0,2026-04-28 14:58:55.962,2026042805016067

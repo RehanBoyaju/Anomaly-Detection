@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 LUK,50,38,800,9.84,7872.0,2026-04-28 13:52:12.737,2026042805009453
 LUK,58,38,200,9.85,1970.0,2026-04-28 13:52:12.737,2026042805009452
 LUK,42,14,100,10.0,1000.0,2026-04-28 13:51:08.238,2026042805009399

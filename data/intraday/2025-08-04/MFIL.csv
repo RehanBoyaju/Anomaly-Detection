@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,147672,2025080403000062,MFIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,300,717.0,215100.0,2025-08-04 11:02:02.028701
 2025-08-04,147671,2025080403000063,MFIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Elite Stock House Limited,200,717.9,143580.0,2025-08-04 11:02:02.028770
 2025-08-04,147670,2025080403000064,MFIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2000,718.0,1436000.0,2025-08-04 11:02:02.028812

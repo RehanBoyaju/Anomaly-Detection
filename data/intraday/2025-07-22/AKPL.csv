@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,175756,2025072204000313,AKPL,Oxford Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,268.0,13400.0,2025-07-22 11:03:21.834752
 2025-07-22,175307,2025072204000414,AKPL,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,250,268.0,67000.0,2025-07-22 11:04:18.404174
 2025-07-22,174736,2025072204000546,AKPL,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,100,268.0,26800.0,2025-07-22 11:05:22.659653

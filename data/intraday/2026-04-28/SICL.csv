@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SICL,26,28,50,618.1,30905.0,2026-04-28 14:58:49.036,2026042804014433
 SICL,71,28,200,618.0,123600.0,2026-04-28 14:56:49.360,2026042804013957
 SICL,71,8,143,618.0,88374.0,2026-04-28 14:55:33.394,2026042804013737

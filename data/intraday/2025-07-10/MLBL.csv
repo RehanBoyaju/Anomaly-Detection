@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87330,2025071003000158,MLBL,Blue Chip Securities Ltd,Kohinoor Investment & Securities Pvt. Ltd.,10,389.0,3890.0,2025-07-10 11:06:32.396093
 2025-07-10,86983,2025071003000202,MLBL,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,45,389.0,17505.0,2025-07-10 11:08:11.886871
 2025-07-10,86047,2025071003000311,MLBL,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,10,383.1,3831.0,2025-07-10 11:11:39.066546

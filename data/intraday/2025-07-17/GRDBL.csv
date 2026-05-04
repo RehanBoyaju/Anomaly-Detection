@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141379,2025071703000015,GRDBL,Hatemalo Financial Services Private Limited,Shree Krishna Securities Ltd.,10,1457.2,14572.0,2025-07-17 10:46:00.084749
 2025-07-17,141350,2025071703000021,GRDBL,Hatemalo Financial Services Private Limited,Hatemalo Financial Services Private Limited,10,1429.0,14290.0,2025-07-17 11:00:11.924105
 2025-07-17,141339,2025071703000022,GRDBL,Hatemalo Financial Services Private Limited,Hatemalo Financial Services Private Limited,10,1401.0,14010.0,2025-07-17 11:00:20.963214

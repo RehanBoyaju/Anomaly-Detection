@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92964,2025080604000028,SSHL,Siprabi Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,205.0,2050.0,2025-08-06 11:00:49.474225
 2025-08-06,92103,2025080604000096,SSHL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,495,202.0,99990.0,2025-08-06 11:03:37.821329
 2025-08-06,92102,2025080604000097,SSHL,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,220,202.0,44440.0,2025-08-06 11:03:37.821416

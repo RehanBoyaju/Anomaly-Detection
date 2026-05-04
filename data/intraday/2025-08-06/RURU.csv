@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,91766,2025080604000154,RURU,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,10,752.6,7526.0,2025-08-06 11:04:39.015007
 2025-08-06,86612,2025080604000934,RURU,INDEX SECURITIES LIMITED,ABC Securities Private Limited,50,749.0,37450.0,2025-08-06 11:16:57.476667
 2025-08-06,84057,2025080604001341,RURU,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,200,749.3,149860.0,2025-08-06 11:24:05.950106

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37228,2025092504000067,DHPL,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,20,294.0,5880.0,2025-09-25 11:03:07.566603
 2025-09-25,37227,2025092504000068,DHPL,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,10,294.0,2940.0,2025-09-25 11:03:08.972686
 2025-09-25,32290,2025092504001262,DHPL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,10,294.0,2940.0,2025-09-25 11:42:14.937924

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SCB,75,62,25,643.0,16075.0,2026-04-28 14:57:06.493,2026042801107771
 SCB,17,57,44,645.0,28380.0,2026-04-28 14:54:49.748,2026042801106000
 SCB,52,57,10,645.0,6450.0,2026-04-28 14:54:49.748,2026042801105999

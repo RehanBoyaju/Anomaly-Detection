@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149074,2025080401000116,TPC,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,10,399.3,3993.0,2025-08-04 10:46:00.405759
 2025-08-04,128053,2025080401015320,TPC,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,122,392.0,47824.0,2025-08-04 11:17:59.865041
 2025-08-04,117934,2025080401022902,TPC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,67,394.9,26458.3,2025-08-04 11:27:40.352275

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94417,2025080701000617,GBIME,Linch Stock Market Ltd.,Primo Securities (PVT) Ltd.,28,253.0,7084.0,2025-08-07 11:04:54.124841
 2025-08-07,93996,2025080701000769,GBIME,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,257.8,2578.0,2025-08-07 11:06:21.803057
 2025-08-07,93552,2025080701000931,GBIME,Sanima Securities Limited,Sani Securities Company Ltd.,527,255.0,134385.0,2025-08-07 11:07:59.245490

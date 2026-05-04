@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61182,2025081901000072,KBL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,492,203.0,99876.0,2025-08-19 11:03:54.914055
 2025-08-19,61142,2025081901000089,KBL,Sumeru Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,108,203.0,21924.0,2025-08-19 11:04:13.612461
 2025-08-19,61127,2025081901000092,KBL,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,192,203.0,38976.0,2025-08-19 11:04:24.496173

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67973,2025090405000185,MKJC,KALASH STOCK MARKET PVT. LTD.,Oxford Securities Pvt. Ltd.,10,575.0,5750.0,2025-09-04T11:06:33.927566
 2025-09-04,67969,2025090405000187,MKJC,Indira securities pvt. ltd,Sri Hari Securities Pvt. Ltd.,10,581.9,5819.0,2025-09-04T11:06:35.08624
 2025-09-04,67381,2025090405000287,MKJC,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,20,581.8,11636.0,2025-09-04T11:09:03.233719

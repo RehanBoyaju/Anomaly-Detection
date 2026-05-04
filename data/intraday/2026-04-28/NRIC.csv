@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NRIC,34,45,10,910.0,9100.0,2026-04-28 14:59:59.716,2026042805016551
 NRIC,32,45,10,910.0,9100.0,2026-04-28 14:59:59.612,2026042805016548
 NRIC,85,45,11,910.0,10010.0,2026-04-28 14:59:59.410,2026042805016543

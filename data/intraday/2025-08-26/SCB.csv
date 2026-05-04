@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44882,2025082601000029,SCB,Bhrikuti Stock Broking Co. Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,633.0,6330.0,2025-08-26 11:02:53.597641
 2025-08-26,44004,2025082601000203,SCB,Sani Securities Company Ltd.,J.F. Securites (PVT) Ltd.,100,631.9,63190.0,2025-08-26 11:11:28.321860
 2025-08-26,43758,2025082601000242,SCB,Deevyaa Securities & Stock House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,200,631.0,126200.0,2025-08-26 11:13:16.120312

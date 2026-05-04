@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,84218,2025081704000390,NHDL,Asian Securities Private Ltd.,Aryatara Investment & Securities,700,707.0,494900.0,2025-08-17 11:07:24.564554
 2025-08-17,82881,2025081704000633,NHDL,Sani Securities Company Ltd.,K.B.L. Securities Limited ,14,715.0,10010.0,2025-08-17 11:11:18.468048
 2025-08-17,82880,2025081704000634,NHDL,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,100,717.0,71700.0,2025-08-17 11:11:18.468151

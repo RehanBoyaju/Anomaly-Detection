@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58023,2025090704000044,AKJCL,Online Securities Pvt. Ltd.,INDEX SECURITIES LIMITED,10,193.2,1932.0,2025-09-07 10:46:00.029459
 2025-09-07,57720,2025090704000111,AKJCL,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,239,197.0,47083.0,2025-09-07 11:03:15.506871
 2025-09-07,57697,2025090704000115,AKJCL,Trishakti Securities Public Limited,Sani Securities Company Ltd.,40,196.3,7852.0,2025-09-07 11:03:31.005630

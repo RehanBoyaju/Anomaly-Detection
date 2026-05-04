@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130934,2025080504000003,BARUN,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,100,378.0,37800.0,2025-08-05 10:46:00.034245
 2025-08-05,126013,2025080504000133,BARUN,Pragyan Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,379.9,18995.0,2025-08-05 11:03:21.568839
 2025-08-05,124732,2025080504000198,BARUN,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,110,380.0,41800.0,2025-08-05 11:04:21.165308

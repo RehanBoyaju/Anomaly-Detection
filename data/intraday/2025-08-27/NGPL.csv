@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,71731,2025082704000101,NGPL,Malla & Malla Stock Broking Company Pvt. Limited,Shree Krishna Securities Ltd.,13,397.2,5163.6,2025-08-27T11:07:08.219982
 2025-08-27,70900,2025082704000229,NGPL,Malla & Malla Stock Broking Company Pvt. Limited,Nepal Stock House (PVT) Ltd.,50,398.2,19910.0,2025-08-27T11:12:11.671369
 2025-08-27,70899,2025082704000230,NGPL,Malla & Malla Stock Broking Company Pvt. Limited,Nepal Stock House (PVT) Ltd.,37,398.1,14729.7,2025-08-27T11:12:11.671514

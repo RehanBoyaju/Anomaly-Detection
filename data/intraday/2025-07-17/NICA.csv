@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141418,2025071701000001,NICA,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,100,428.4,42840.0,2025-07-17 10:46:00.018687
 2025-07-17,140863,2025071701000164,NICA,Secured Securities Ltd.,Nagarik Stock Dealer ,10,426.0,4260.0,2025-07-17 11:02:06.996119
 2025-07-17,140339,2025071701000354,NICA,Agrawal Securities (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,80,423.1,33848.0,2025-07-17 11:03:23.114816

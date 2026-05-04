@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56628,2025082103000038,MNBBL,Kohinoor Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,21,447.0,9387.0,2025-08-21 11:02:23.769890
 2025-08-21,56508,2025082103000048,MNBBL,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,229,455.0,104195.0,2025-08-21 11:03:26.166802
 2025-08-21,56459,2025082103000057,MNBBL,Opal Securities Investment (PVT) Ltd.,K.B.L. Securities Limited ,50,450.1,22505.0,2025-08-21 11:03:53.157995

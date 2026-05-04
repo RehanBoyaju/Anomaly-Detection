@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 OMPL,42,52,10,1178.1,11781.0,2026-04-28 14:59:48.179,2026042801110524
 OMPL,42,7,100,1178.0,117800.0,2026-04-28 14:59:47.135,2026042801110501
 OMPL,1,42,10,1177.4,11774.0,2026-04-28 14:59:25.208,2026042801110012

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86619,2025081701000012,GBIME,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,10,255.9,2559.0,2025-08-17 10:46:00.039145
 2025-08-17,85950,2025081701000315,GBIME,Creative Securities Pvt Ltd,Elite Stock House Limited,2000,252.0,504000.0,2025-08-17 11:02:14.341597
 2025-08-17,85813,2025081701000373,GBIME,Asian Securities Private Ltd.,Agrawal Securities (PVT) Ltd.,150,250.9,37635.0,2025-08-17 11:02:40.382854

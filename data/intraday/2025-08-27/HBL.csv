@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72518,2025082701000003,HBL,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,212.6,2126.0,2025-08-27T10:46:00.016231
 2025-08-27,72273,2025082701000056,HBL,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,200,211.9,42380.0,2025-08-27T11:02:34.948909
 2025-08-27,72272,2025082701000057,HBL,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,490,212.0,103880.0,2025-08-27T11:02:34.949009

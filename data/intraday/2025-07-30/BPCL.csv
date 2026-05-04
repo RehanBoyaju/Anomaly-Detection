@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140085,2025073004000259,BPCL,Nabil Stock Dealer Ltd.,SUN SECURITIES PVT LTD,10,983.0,9830.0,2025-07-30 11:03:49.354535
 2025-07-30,139301,2025073004000425,BPCL,Sri Hari Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,100,981.8,98180.0,2025-07-30 11:05:36.760757
 2025-07-30,139238,2025073004000433,BPCL,Agrawal Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,10,966.0,9660.0,2025-07-30 11:05:43.228688

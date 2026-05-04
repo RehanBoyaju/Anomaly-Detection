@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,65572,2025090103000246,MPFL,Malla & Malla Stock Broking Company Pvt. Limited,Sundhara Securities Limited,10,588.0,5880.0,2025-09-01 11:11:31.397227
 2025-09-01,56039,2025090103001279,MPFL,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,500,585.0,292500.0,2025-09-01 11:43:56.211459
 2025-09-01,55921,2025090103001290,MPFL,Shree Krishna Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,1500,586.0,879000.0,2025-09-01 11:44:23.289359

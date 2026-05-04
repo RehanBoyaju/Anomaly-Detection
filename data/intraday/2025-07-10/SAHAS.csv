@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88188,2025071005000062,SAHAS,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,10,604.0,6040.0,2025-07-10 11:02:29.805042
 2025-07-10,88024,2025071005000080,SAHAS,Sani Securities Company Ltd.,Machhapuchchhre Securities Limited,200,600.0,120000.0,2025-07-10 11:03:14.572867
 2025-07-10,87962,2025071005000094,SAHAS,Online Securities Pvt. Ltd.,Machhapuchchhre Securities Limited,1330,600.0,798000.0,2025-07-10 11:03:35.487548

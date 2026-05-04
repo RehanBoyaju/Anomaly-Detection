@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72517,2025082705000004,HIDCL,Sri Hari Securities Pvt. Ltd.,Roadshow securities limited,10,279.8,2798.0,2025-08-27T10:46:00.017455
 2025-08-27,72191,2025082705000161,HIDCL,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,25,285.0,7125.0,2025-08-27T11:03:23.125892
 2025-08-27,72148,2025082705000180,HIDCL,Roadshow securities limited,Vision Securities Pvt. Ltd,350,290.0,101500.0,2025-08-27T11:03:52.956137

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68938,2025090404000039,PMHPL,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,50,377.0,18850.0,2025-09-04T11:00:33.121213
 2025-09-04,68937,2025090404000040,PMHPL,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,205,377.0,77285.0,2025-09-04T11:00:33.121282
 2025-09-04,68936,2025090404000041,PMHPL,South Asian Bulls Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,250,377.0,94250.0,2025-09-04T11:00:33.121307

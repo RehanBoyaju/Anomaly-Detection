@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,142052,2025080401005341,EBL,KALASH STOCK MARKET PVT. LTD.,Investment Management Nepal Pvt. Ltd.,300,715.0,214500.0,2025-08-04 11:06:45.066065
 2025-08-04,141032,2025080401006135,EBL,Nepal Investment And Securities Trading Private Limited,Secured Securities Ltd.,100,715.1,71510.0,2025-08-04 11:07:29.539439
 2025-08-04,139721,2025080401007017,EBL,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,10,719.0,7190.0,2025-08-04 11:08:44.221615

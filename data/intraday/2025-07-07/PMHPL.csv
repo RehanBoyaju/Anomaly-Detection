@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71235,2025070704000019,PMHPL,Linch Stock Market Ltd.,S.P.S.A. Securities Limited,10,392.6,3926.0,2025-07-07 10:46:00.049438
 2025-07-07,71234,2025070704000020,PMHPL,Hatemalo Financial Services Private Limited,S.P.S.A. Securities Limited,1,392.6,392.6,2025-07-07 10:46:00.049461
 2025-07-07,71031,2025070704000056,PMHPL,Hatemalo Financial Services Private Limited,Vision Securities Pvt. Ltd,100,396.0,39600.0,2025-07-07 11:01:23.428598

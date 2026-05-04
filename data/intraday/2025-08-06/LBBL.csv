@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93169,2025080603000004,LBBL,Prabhu Stock Market Limited,Vision Securities Pvt. Ltd,15000,581.0,8715000.0,2025-08-06 10:46:00.028261
 2025-08-06,92994,2025080603000043,LBBL,Prabhu Stock Market Limited,Midas Stock Broking Company Private Limited,10,592.0,5920.0,2025-08-06 11:00:38.252313
 2025-08-06,92777,2025080603000056,LBBL,Shree Krishna Securities Ltd.,ABC Securities Private Limited,10,582.5,5825.0,2025-08-06 11:01:35.332556

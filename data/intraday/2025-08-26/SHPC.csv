@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44528,2025082604000104,SHPC,Global IME Securities Limited,Aryatara Investment & Securities,10,563.8,5638.0,2025-08-26 11:06:49.579751
 2025-08-26,43623,2025082604000311,SHPC,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,40,557.0,22280.0,2025-08-26 11:14:07.475583
 2025-08-26,43622,2025082604000312,SHPC,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,90,557.0,50130.0,2025-08-26 11:14:07.475674

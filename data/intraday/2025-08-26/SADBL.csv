@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44455,2025082603000192,SADBL,Midas Stock Broking Company Private Limited,Blue Chip Securities Ltd,10,439.0,4390.0,2025-08-26 11:07:35.505907
 2025-08-26,43595,2025082603000364,SADBL,Nagarik Stock Dealer ,Aryatara Investment & Securities,10,431.0,4310.0,2025-08-26 11:14:18.839260
 2025-08-26,41132,2025082603000881,SADBL,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,40,431.0,17240.0,2025-08-26 11:31:47.111910

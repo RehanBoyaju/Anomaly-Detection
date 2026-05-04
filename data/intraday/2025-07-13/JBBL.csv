@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105077,2025071303000076,JBBL,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,158,345.0,54510.0,2025-07-13T10:46:00.076393
 2025-07-13,105076,2025071303000077,JBBL,Aryatara Investment & Securities,ABC Securities Private Limited,130,345.0,44850.0,2025-07-13T10:46:00.076436
 2025-07-13,104701,2025071303000229,JBBL,Aryatara Investment & Securities,N.M.B. SECURITIES LIMITED,212,345.0,73140.0,2025-07-13T10:46:00.222066

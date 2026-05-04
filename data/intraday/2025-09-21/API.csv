@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108562,2025092104000100,API,ABC Securities Private Limited,Capital Hub P. Ltd,333,260.5,86746.5,2025-09-21 10:46:00.040979
 2025-09-21,108561,2025092104000101,API,ABC Securities Private Limited,Aryatara Investment & Securities,667,260.5,173753.5,2025-09-21 10:46:00.041014
 2025-09-21,108560,2025092104000102,API,Aryatara Investment & Securities,Aryatara Investment & Securities,133,260.5,34646.5,2025-09-21 10:46:00.041036

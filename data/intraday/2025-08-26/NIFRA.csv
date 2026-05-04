@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44809,2025082605000097,NIFRA,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,20,280.0,5600.0,2025-08-26 11:03:48.352544
 2025-08-26,44700,2025082605000143,NIFRA,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,34,280.0,9520.0,2025-08-26 11:05:08.895484
 2025-08-26,44699,2025082605000144,NIFRA,Deevyaa Securities & Stock House Pvt. Ltd,Himalayan Brokerage Company Limited,44,280.0,12320.0,2025-08-26 11:05:08.895654

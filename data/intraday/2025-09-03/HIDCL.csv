@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68559,2025090305000002,HIDCL,Blue Chip Securities Ltd,Naasa Securities Co. Ltd.,10,287.0,2870.0,2025-09-03 10:46:00.018261
 2025-09-03,67209,2025090305000220,HIDCL,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,75,284.0,21300.0,2025-09-03 11:06:48.866369
 2025-09-03,66920,2025090305000257,HIDCL,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,40,282.0,11280.0,2025-09-03 11:08:03.437712

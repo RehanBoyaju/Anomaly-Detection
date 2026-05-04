@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57772,2025082404000035,AKPL,Secured Securities Ltd.,Secured Securities Ltd.,219,257.1,56304.9,2025-08-24 11:02:36.729971
 2025-08-24,57693,2025082404000048,AKPL,Agrawal Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,15,258.0,3870.0,2025-08-24 11:03:17.123356
 2025-08-24,57686,2025082404000050,AKPL,Blue Chip Securities Ltd,J.F. Securites (PVT) Ltd.,258,258.0,66564.0,2025-08-24 11:03:20.262123

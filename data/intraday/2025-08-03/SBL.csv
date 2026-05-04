@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151378,2025080301000729,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,386.0,3860.0,2025-08-03T11:02:10.250062
 2025-08-03,147860,2025080301002904,SBL,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,12,380.0,4560.0,2025-08-03T11:07:34.121974
 2025-08-03,147831,2025080301002925,SBL,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,188,380.0,71440.0,2025-08-03T11:07:35.858949

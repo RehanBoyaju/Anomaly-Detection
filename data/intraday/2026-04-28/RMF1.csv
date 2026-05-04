@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RMF1,64,49,4246,9.88,41950.48,2026-04-28 14:59:31.397,2026042805016258
 RMF1,64,62,100,9.87,987.0,2026-04-28 14:59:31.397,2026042805016257
 RMF1,64,39,1000,9.85,9850.0,2026-04-28 14:53:49.846,2026042805015062

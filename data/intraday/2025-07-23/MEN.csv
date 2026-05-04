@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,168124,2025072304000724,MEN,Naasa Securities Co. Ltd.,S.P.S.A. Securities Limited,20,672.0,13440.0,2025-07-23 11:03:18.848591
 2025-07-23,168123,2025072304000725,MEN,Kumari Securities Private Limited,S.P.S.A. Securities Limited,80,670.0,53600.0,2025-07-23 11:03:18.848664
 2025-07-23,166468,2025072304001346,MEN,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,10,675.0,6750.0,2025-07-23 11:05:27.320097

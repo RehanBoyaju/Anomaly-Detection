@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,85150,2025090204000113,BPCL,Kumari Securities Private Limited,ABC Securities Private Limited,30,822.0,24660.0,2025-09-02 11:06:46.027454
 2025-09-02,85149,2025090204000114,BPCL,Neev Securities Pvt. Ltd.,ABC Securities Private Limited,97,821.7,79704.9,2025-09-02 11:06:46.027609
 2025-09-02,84986,2025090204000118,BPCL,Neev Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,200,821.7,164340.0,2025-09-02 11:06:58.864279

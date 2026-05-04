@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SANIMA,45,96,100,349.0,34900.0,2026-04-28 14:59:29.806,2026042801110113
 SANIMA,34,96,300,349.0,104700.0,2026-04-28 14:59:21.404,2026042801109807
 SANIMA,45,96,13,349.0,4537.0,2026-04-28 14:59:21.404,2026042801109806

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,85273,2025090203000071,JBBL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,335.0,100500.0,2025-09-02 11:06:28.773571
 2025-09-02,84485,2025090203000087,JBBL,Linch Stock Market Ltd.,Secured Securities Ltd.,20,333.0,6660.0,2025-09-02 11:07:43.622229
 2025-09-02,84484,2025090203000088,JBBL,Online Securities Pvt. Ltd.,Secured Securities Ltd.,300,333.0,99900.0,2025-09-02 11:07:43.622295

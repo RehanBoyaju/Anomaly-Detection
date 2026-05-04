@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,165347,2025072804001623,OHL,Sweta Securities Private Limited,Neev Securities Pvt. Ltd.,183,908.5,166255.5,2025-07-28T11:10:48.688844
 2025-07-28,164556,2025072804001834,OHL,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,500,908.5,454250.0,2025-07-28T11:11:48.242771
 2025-07-28,164144,2025072804001959,OHL,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,317,908.5,287994.5,2025-07-28T11:12:16.781528

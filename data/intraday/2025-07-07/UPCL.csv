@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71223,2025070704000023,UPCL,Market Securities & Exchange (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,387.6,3876.0,2025-07-07 10:46:00.055503
 2025-07-07,71101,2025070704000039,UPCL,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,395.3,3953.0,2025-07-07 11:00:53.139296
 2025-07-07,70286,2025070704000243,UPCL,Secured Securities Ltd.,Trishakti Securities Public Limited,10,400.0,4000.0,2025-07-07 11:05:30.403864

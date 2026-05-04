@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MHNL,41,60,10,267.8,2678.0,2026-04-28 14:59:58.422,2026042804015036
 MHNL,50,60,10,267.8,2678.0,2026-04-28 14:59:57.394,2026042804015020
 MHNL,89,17,250,265.0,66250.0,2026-04-28 14:58:30.674,2026042804014337

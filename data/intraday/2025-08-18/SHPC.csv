@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67054,2025081804000202,SHPC,Kumari Securities Private Limited,Secured Securities Ltd.,300,563.1,168930.0,2025-08-18T11:06:27.696024
 2025-08-18,66203,2025081804000430,SHPC,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,100,563.0,56300.0,2025-08-18T11:10:07.230394
 2025-08-18,65869,2025081804000497,SHPC,Siprabi Securities Pvt. Ltd.,Aryatara Investment & Securities,100,563.0,56300.0,2025-08-18T11:11:46.510595

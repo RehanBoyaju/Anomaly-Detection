@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SBCF,57,26,650,9.6,6240.0,2026-04-28 14:55:48.482,2026042805015439
 SBCF,58,26,1000,9.61,9610.0,2026-04-28 14:55:48.482,2026042805015438
 SBCF,58,63,500,9.7,4850.0,2026-04-28 14:21:17.272,2026042805011681

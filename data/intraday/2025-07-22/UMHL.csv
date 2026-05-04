@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177072,2025072204000015,UMHL,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,50,560.0,28000.0,2025-07-22 10:46:00.040629
 2025-07-22,177071,2025072204000016,UMHL,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,90,560.0,50400.0,2025-07-22 10:46:00.040664
 2025-07-22,177070,2025072204000017,UMHL,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,160,560.0,89600.0,2025-07-22 10:46:00.040717

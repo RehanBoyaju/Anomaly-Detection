@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76067,2025081404000106,CHCL,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,45,520.0,23400.0,2025-08-14 11:02:47.189300
 2025-08-14,75684,2025081404000160,CHCL,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,10,522.1,5221.0,2025-08-14 11:05:13.885518
 2025-08-14,75495,2025081404000189,CHCL,ABC Securities Private Limited,Shree Krishna Securities Ltd.,200,522.1,104420.0,2025-08-14 11:06:14.430242

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,69012,2025090404000005,KKHC,Malla & Malla Stock Broking Company Pvt. Limited,Online Securities Pvt. Ltd.,125,243.4,30425.0,2025-09-04T10:46:00.0266
 2025-09-04,69011,2025090404000006,KKHC,Malla & Malla Stock Broking Company Pvt. Limited,Vision Securities Pvt. Ltd,368,243.4,89571.2,2025-09-04T10:46:00.026647
 2025-09-04,68490,2025090404000181,KKHC,Sani Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,60,240.0,14400.0,2025-09-04T11:03:51.912061

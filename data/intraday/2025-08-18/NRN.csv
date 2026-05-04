@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66972,2025081805000357,NRN,INDEX SECURITIES LIMITED,Sweta Securities Private Limited,50,2188.0,109400.0,2025-08-18T11:06:47.303253
 2025-08-18,66711,2025081805000469,NRN,Sani Securities Company Ltd.,Sweta Securities Private Limited,10,2188.0,21880.0,2025-08-18T11:07:58.530747
 2025-08-18,66577,2025081805000532,NRN,Sani Securities Company Ltd.,Trishakti Securities Public Limited,25,2188.0,54700.0,2025-08-18T11:08:27.318653

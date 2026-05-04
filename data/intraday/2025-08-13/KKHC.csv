@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69755,2025081304000039,KKHC,Aryatara Investment & Securities,Nabil Stock Dealer Ltd.,50,268.0,13400.0,2025-08-13 11:01:31.527739
 2025-08-13,69152,2025081304000165,KKHC,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,10,268.0,2680.0,2025-08-13 11:05:38.922870
 2025-08-13,68671,2025081304000265,KKHC,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,25,267.0,6675.0,2025-08-13 11:08:23.234811

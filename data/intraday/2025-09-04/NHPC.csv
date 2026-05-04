@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,69024,2025090404000001,NHPC,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,10,199.4,1994.0,2025-09-04T10:46:00.006236
 2025-09-04,68733,2025090404000105,NHPC,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,10,203.0,2030.0,2025-09-04T11:02:22.255025
 2025-09-04,68556,2025090404000148,NHPC,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,10,205.0,2050.0,2025-09-04T11:03:29.674402

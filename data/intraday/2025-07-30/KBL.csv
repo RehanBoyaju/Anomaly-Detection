@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141341,2025073001000077,KBL,ABC Securities Private Limited,Indira securities pvt. ltd,100,226.9,22690.0,2025-07-30 11:00:21.764914
 2025-07-30,141340,2025073001000078,KBL,Nepal Stock House (PVT) Ltd.,Indira securities pvt. ltd,100,225.0,22500.0,2025-07-30 11:00:21.764993
 2025-07-30,141235,2025073001000122,KBL,Dynamic Money Managers Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,500,229.0,114500.0,2025-07-30 11:00:51.127009

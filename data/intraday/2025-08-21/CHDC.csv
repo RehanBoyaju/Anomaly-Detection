@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56712,2025082105000036,CHDC,Kumari Securities Private Limited,Trishakti Securities Public Limited,10,2566.0,25660.0,2025-08-21 11:01:23.532584
 2025-08-21,56201,2025082105000209,CHDC,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,1,2566.0,2566.0,2025-08-21 11:06:36.295720
 2025-08-21,56027,2025082105000279,CHDC,Hatemalo Financial Services Private Limited,Secured Securities Ltd.,10,2609.0,26090.0,2025-08-21 11:08:18.539331

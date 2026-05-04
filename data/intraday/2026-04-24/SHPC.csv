@@ -1,212 +1,212 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026042404000006,SHPC,34,34,10,530.0,5300.0,2026-04-24,187802822,591,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-24 10:46:00.050662,Sanima Mai Hydropower Ltd.
-2026042404000007,SHPC,45,34,390,530.0,206700.0,2026-04-24,187802823,591,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 10:46:00.050689,Sanima Mai Hydropower Ltd.
-2026042404000008,SHPC,45,48,110,530.0,58300.0,2026-04-24,187802826,591,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 10:46:00.050719,Sanima Mai Hydropower Ltd.
-2026042404000496,SHPC,53,48,500,515.1,257550.0,2026-04-24,187809397,591,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 11:08:02.291967,Sanima Mai Hydropower Ltd.
-2026042404000572,SHPC,83,50,30,515.2,15456.0,2026-04-24,187809955,591,Sanima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:08:50.002988,Sanima Mai Hydropower Ltd.
-2026042404000606,SHPC,83,50,20,515.2,10304.0,2026-04-24,187810318,591,Sanima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:09:26.890439,Sanima Mai Hydropower Ltd.
-2026042404000679,SHPC,29,50,20,515.2,10304.0,2026-04-24,187810978,591,Trisul Securities & Invt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:10:17.912180,Sanima Mai Hydropower Ltd.
-2026042404000683,SHPC,53,50,10,515.2,5152.0,2026-04-24,187811039,591,Investment Management Nepal Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:10:25.347018,Sanima Mai Hydropower Ltd.
-2026042404000984,SHPC,90,59,100,515.5,51550.0,2026-04-24,187814334,591,Sajilo Broker Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952674,Sanima Mai Hydropower Ltd.
-2026042404000985,SHPC,53,59,20,515.2,10304.0,2026-04-24,187814336,591,Investment Management Nepal Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952761,Sanima Mai Hydropower Ltd.
-2026042404000986,SHPC,50,59,200,515.2,103040.0,2026-04-24,187814338,591,Cristal Kanchanjanga Securites Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952792,Sanima Mai Hydropower Ltd.
-2026042404000987,SHPC,25,59,50,515.1,25755.0,2026-04-24,187814340,591,Sweta Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952813,Sanima Mai Hydropower Ltd.
-2026042404000988,SHPC,25,59,130,515.0,66950.0,2026-04-24,187814341,591,Sweta Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952840,Sanima Mai Hydropower Ltd.
-2026042404001078,SHPC,83,49,50,515.1,25755.0,2026-04-24,187815172,591,Sanima Securities Limited,Online Securities Pvt. Ltd.,2026-04-24 11:16:19.964634,Sanima Mai Hydropower Ltd.
-2026042404001079,SHPC,25,49,250,515.0,128750.0,2026-04-24,187815173,591,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-24 11:16:19.964766,Sanima Mai Hydropower Ltd.
-2026042404001136,SHPC,25,29,100,515.0,51500.0,2026-04-24,187815833,591,Sweta Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-24 11:17:11.348114,Sanima Mai Hydropower Ltd.
-2026042404001155,SHPC,97,44,500,517.0,258500.0,2026-04-24,187816076,591,R.B.B. Securities Company Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:17:34.761829,Sanima Mai Hydropower Ltd.
-2026042404001173,SHPC,16,8,200,515.1,103020.0,2026-04-24,187816298,591,Primo Securities (PVT) Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 11:17:53.511459,Sanima Mai Hydropower Ltd.
-2026042404001174,SHPC,25,8,20,515.0,10300.0,2026-04-24,187816300,591,Sweta Securities Private Limited,Brilliant Securities Pvt. Ltd.,2026-04-24 11:17:53.511584,Sanima Mai Hydropower Ltd.
-2026042404001175,SHPC,39,8,530,515.0,272950.0,2026-04-24,187816301,591,Sumeru Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 11:17:53.511656,Sanima Mai Hydropower Ltd.
-2026042404001402,SHPC,90,44,200,515.2,103040.0,2026-04-24,187818930,591,Sajilo Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:22:04.123385,Sanima Mai Hydropower Ltd.
-2026042404001403,SHPC,36,44,100,515.2,51520.0,2026-04-24,187818931,591,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:22:04.123531,Sanima Mai Hydropower Ltd.
-2026042404001564,SHPC,83,44,50,515.2,25760.0,2026-04-24,187820722,591,Sanima Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:24:20.915502,Sanima Mai Hydropower Ltd.
-2026042404001565,SHPC,57,44,2000,515.1,1030200.0,2026-04-24,187820724,591,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:24:20.915775,Sanima Mai Hydropower Ltd.
-2026042404001566,SHPC,39,44,450,515.0,231750.0,2026-04-24,187820725,591,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:24:20.915944,Sanima Mai Hydropower Ltd.
-2026042404001671,SHPC,97,48,500,516.9,258450.0,2026-04-24,187821768,591,R.B.B. Securities Company Ltd,Trishakti Securities Public Limited,2026-04-24 11:25:38.271748,Sanima Mai Hydropower Ltd.
-2026042404001723,SHPC,90,56,500,518.0,259000.0,2026-04-24,187822322,591,Sajilo Broker Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:26:18.997294,Sanima Mai Hydropower Ltd.
-2026042404002201,SHPC,35,74,10,518.0,5180.0,2026-04-24,187827458,591,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 11:34:51.161024,Sanima Mai Hydropower Ltd.
-2026042404002276,SHPC,34,74,90,518.0,46620.0,2026-04-24,187828475,591,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-24 11:36:28.628268,Sanima Mai Hydropower Ltd.
-2026042404002277,SHPC,34,67,110,519.5,57145.0,2026-04-24,187828478,591,Vision Securities Pvt. Ltd,Property Wiard Limited,2026-04-24 11:36:28.628602,Sanima Mai Hydropower Ltd.
-2026042404002295,SHPC,41,67,200,519.5,103900.0,2026-04-24,187829108,591,Linch Stock Market Ltd.,Property Wiard Limited,2026-04-24 11:37:16.424659,Sanima Mai Hydropower Ltd.
-2026042404002319,SHPC,16,90,10,517.0,5170.0,2026-04-24,187829602,591,Primo Securities (PVT) Ltd.,Sajilo Broker Limited,2026-04-24 11:38:09.739482,Sanima Mai Hydropower Ltd.
-2026042404002320,SHPC,56,90,40,517.0,20680.0,2026-04-24,187829603,591,Sri Hari Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-24 11:38:09.739516,Sanima Mai Hydropower Ltd.
-2026042404002340,SHPC,56,14,40,517.0,20680.0,2026-04-24,187829711,591,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 11:38:26.934530,Sanima Mai Hydropower Ltd.
-2026042404002448,SHPC,56,10,20,517.0,10340.0,2026-04-24,187831004,591,Sri Hari Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-24 11:41:16.717974,Sanima Mai Hydropower Ltd.
-2026042404002449,SHPC,21,10,380,515.2,195776.0,2026-04-24,187831005,591,Midas Stock Broking Company Private Limited,Pragyan Securities (PVT) Ltd.,2026-04-24 11:41:16.718161,Sanima Mai Hydropower Ltd.
-2026042404002501,SHPC,35,18,10,516.0,5160.0,2026-04-24,187831896,591,Kohinoor Investment & Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,2026-04-24 11:43:09.298516,Sanima Mai Hydropower Ltd.
-2026042404002502,SHPC,21,18,240,515.2,123648.0,2026-04-24,187831897,591,Midas Stock Broking Company Private Limited,Sagarmatha Securities Private Limited,2026-04-24 11:43:09.298668,Sanima Mai Hydropower Ltd.
-2026042404002941,SHPC,35,36,10,516.0,5160.0,2026-04-24,187836926,591,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-24 11:52:58.487161,Sanima Mai Hydropower Ltd.
-2026042404003249,SHPC,34,66,12,516.1,6193.2,2026-04-24,187839622,591,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991016,Sanima Mai Hydropower Ltd.
-2026042404003250,SHPC,35,66,10,516.0,5160.0,2026-04-24,187839624,591,Kohinoor Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991208,Sanima Mai Hydropower Ltd.
-2026042404003251,SHPC,6,66,20,515.6,10312.0,2026-04-24,187839626,591,Agrawal Securities (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991291,Sanima Mai Hydropower Ltd.
-2026042404003252,SHPC,16,66,43,515.5,22166.5,2026-04-24,187839627,591,Primo Securities (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991415,Sanima Mai Hydropower Ltd.
-2026042404003346,SHPC,35,62,10,516.0,5160.0,2026-04-24,187840764,591,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 12:00:53.815008,Sanima Mai Hydropower Ltd.
-2026042404003347,SHPC,16,62,57,515.5,29383.5,2026-04-24,187840766,591,Primo Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-24 12:00:53.815161,Sanima Mai Hydropower Ltd.
-2026042404003348,SHPC,57,62,133,515.3,68534.9,2026-04-24,187840767,591,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-24 12:00:53.815230,Sanima Mai Hydropower Ltd.
-2026042404003456,SHPC,34,19,13,515.4,6700.2,2026-04-24,187841940,591,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-24 12:03:17.003931,Sanima Mai Hydropower Ltd.
-2026042404003457,SHPC,57,19,50,515.3,25765.0,2026-04-24,187841941,591,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-24 12:03:17.004095,Sanima Mai Hydropower Ltd.
-2026042404004024,SHPC,57,44,300,517.0,155100.0,2026-04-24,187847510,591,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:14:31.858451,Sanima Mai Hydropower Ltd.
-2026042404004059,SHPC,34,44,25,517.0,12925.0,2026-04-24,187847836,591,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:15:05.467535,Sanima Mai Hydropower Ltd.
-2026042404004104,SHPC,35,39,10,516.0,5160.0,2026-04-24,187848466,591,Kohinoor Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 12:16:43.365418,Sanima Mai Hydropower Ltd.
-2026042404004127,SHPC,34,39,40,515.7,20628.0,2026-04-24,187848757,591,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-24 12:17:26.136634,Sanima Mai Hydropower Ltd.
-2026042404004239,SHPC,32,44,10,517.0,5170.0,2026-04-24,187849988,591,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:19:33.328754,Sanima Mai Hydropower Ltd.
-2026042404004252,SHPC,45,44,165,517.0,85305.0,2026-04-24,187850079,591,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:19:42.729545,Sanima Mai Hydropower Ltd.
-2026042404004253,SHPC,45,67,500,518.0,259000.0,2026-04-24,187850081,591,Imperial Securities Company Pvt. Ltd.,Property Wiard Limited,2026-04-24 12:19:42.729733,Sanima Mai Hydropower Ltd.
-2026042404004254,SHPC,45,17,66,518.0,34188.0,2026-04-24,187850083,591,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-24 12:19:42.729813,Sanima Mai Hydropower Ltd.
-2026042404004290,SHPC,45,67,234,518.0,121212.0,2026-04-24,187850356,591,Imperial Securities Company Pvt. Ltd.,Property Wiard Limited,2026-04-24 12:20:17.894941,Sanima Mai Hydropower Ltd.
-2026042404004291,SHPC,58,67,25,518.0,12950.0,2026-04-24,187850358,591,Naasa Securities Co. Ltd.,Property Wiard Limited,2026-04-24 12:20:17.895291,Sanima Mai Hydropower Ltd.
-2026042404004474,SHPC,57,67,241,518.0,124838.0,2026-04-24,187852337,591,Aryatara Investment & Securities,Property Wiard Limited,2026-04-24 12:23:36.427568,Sanima Mai Hydropower Ltd.
-2026042404004475,SHPC,57,69,350,519.0,181650.0,2026-04-24,187852339,591,Aryatara Investment & Securities,INDEX SECURITIES LIMITED,2026-04-24 12:23:36.427944,Sanima Mai Hydropower Ltd.
-2026042404004476,SHPC,57,45,500,519.0,259500.0,2026-04-24,187852341,591,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:23:36.428177,Sanima Mai Hydropower Ltd.
-2026042404004477,SHPC,57,8,500,519.0,259500.0,2026-04-24,187852343,591,Aryatara Investment & Securities,Brilliant Securities Pvt. Ltd.,2026-04-24 12:23:36.428405,Sanima Mai Hydropower Ltd.
-2026042404004478,SHPC,57,67,190,519.5,98705.0,2026-04-24,187852345,591,Aryatara Investment & Securities,Property Wiard Limited,2026-04-24 12:23:36.428630,Sanima Mai Hydropower Ltd.
-2026042404004479,SHPC,57,33,60,519.5,31170.0,2026-04-24,187852347,591,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 12:23:36.428851,Sanima Mai Hydropower Ltd.
-2026042404004480,SHPC,57,45,1000,520.0,520000.0,2026-04-24,187852349,591,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:23:36.429064,Sanima Mai Hydropower Ltd.
-2026042404004481,SHPC,57,90,159,520.0,82680.0,2026-04-24,187852352,591,Aryatara Investment & Securities,Sajilo Broker Limited,2026-04-24 12:23:36.429285,Sanima Mai Hydropower Ltd.
-2026042404004905,SHPC,50,49,19,519.1,9862.9,2026-04-24,187855312,591,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-24 12:29:27.488132,Sanima Mai Hydropower Ltd.
-2026042404005115,SHPC,48,90,41,520.0,21320.0,2026-04-24,187857967,591,Trishakti Securities Public Limited,Sajilo Broker Limited,2026-04-24 12:34:23.554269,Sanima Mai Hydropower Ltd.
-2026042404005116,SHPC,48,67,500,520.0,260000.0,2026-04-24,187857969,591,Trishakti Securities Public Limited,Property Wiard Limited,2026-04-24 12:34:23.554441,Sanima Mai Hydropower Ltd.
-2026042404005117,SHPC,48,33,90,520.0,46800.0,2026-04-24,187857971,591,Trishakti Securities Public Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 12:34:23.554517,Sanima Mai Hydropower Ltd.
-2026042404005118,SHPC,48,49,100,520.0,52000.0,2026-04-24,187857973,591,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,2026-04-24 12:34:23.554588,Sanima Mai Hydropower Ltd.
-2026042404005119,SHPC,48,34,10,521.0,5210.0,2026-04-24,187857976,591,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-24 12:34:23.554664,Sanima Mai Hydropower Ltd.
-2026042404005230,SHPC,34,69,16,516.2,8259.2,2026-04-24,187859319,591,Vision Securities Pvt. Ltd,INDEX SECURITIES LIMITED,2026-04-24 12:37:27.341101,Sanima Mai Hydropower Ltd.
-2026042404005368,SHPC,42,66,10,517.0,5170.0,2026-04-24,187861019,591,Sani Securities Company Ltd.,Miyo Securities Pvt Ltd,2026-04-24 12:40:28.843971,Sanima Mai Hydropower Ltd.
-2026042404005716,SHPC,58,44,10,521.9,5219.0,2026-04-24,187864156,591,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:46:39.505971,Sanima Mai Hydropower Ltd.
-2026042404005846,SHPC,57,44,40,521.9,20876.0,2026-04-24,187865757,591,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:49:12.515940,Sanima Mai Hydropower Ltd.
-2026042404005847,SHPC,57,90,200,522.0,104400.0,2026-04-24,187865759,591,Aryatara Investment & Securities,Sajilo Broker Limited,2026-04-24 12:49:12.516350,Sanima Mai Hydropower Ltd.
-2026042404005848,SHPC,57,33,1000,522.0,522000.0,2026-04-24,187865761,591,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 12:49:12.516593,Sanima Mai Hydropower Ltd.
-2026042404005849,SHPC,57,45,12,522.0,6264.0,2026-04-24,187865763,591,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:49:12.516849,Sanima Mai Hydropower Ltd.
-2026042404005850,SHPC,57,66,115,522.0,60030.0,2026-04-24,187865765,591,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-24 12:49:12.517122,Sanima Mai Hydropower Ltd.
-2026042404005851,SHPC,57,39,75,522.0,39150.0,2026-04-24,187865767,591,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-24 12:49:12.517457,Sanima Mai Hydropower Ltd.
-2026042404005852,SHPC,57,66,106,522.0,55332.0,2026-04-24,187865769,591,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-24 12:49:12.517763,Sanima Mai Hydropower Ltd.
-2026042404005853,SHPC,57,39,24,522.0,12528.0,2026-04-24,187865771,591,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-24 12:49:12.518077,Sanima Mai Hydropower Ltd.
-2026042404005854,SHPC,57,66,75,522.0,39150.0,2026-04-24,187865773,591,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-24 12:49:12.518397,Sanima Mai Hydropower Ltd.
-2026042404005860,SHPC,58,83,250,523.0,130750.0,2026-04-24,187865809,591,Naasa Securities Co. Ltd.,Sanima Securities Limited,2026-04-24 12:49:17.430361,Sanima Mai Hydropower Ltd.
-2026042404005861,SHPC,58,49,250,523.0,130750.0,2026-04-24,187865812,591,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-24 12:49:17.430455,Sanima Mai Hydropower Ltd.
-2026042404005934,SHPC,57,49,170,523.0,88910.0,2026-04-24,187866480,591,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-24 12:50:50.020390,Sanima Mai Hydropower Ltd.
-2026042404006079,SHPC,52,22,200,520.0,104000.0,2026-04-24,187867525,591,Sundhara Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-24 12:52:29.692856,Sanima Mai Hydropower Ltd.
-2026042404006118,SHPC,52,90,40,520.0,20800.0,2026-04-24,187868079,591,Sundhara Securities Limited,Sajilo Broker Limited,2026-04-24 12:53:19.481616,Sanima Mai Hydropower Ltd.
-2026042404006362,SHPC,39,4,300,517.1,155130.0,2026-04-24,187870479,591,Sumeru Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-24 12:57:16.807933,Sanima Mai Hydropower Ltd.
-2026042404006656,SHPC,17,58,25,517.5,12937.5,2026-04-24,187873256,591,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-24 13:03:33.758801,Sanima Mai Hydropower Ltd.
-2026042404006767,SHPC,39,90,190,522.0,99180.0,2026-04-24,187874848,591,Sumeru Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-24 13:07:49.765718,Sanima Mai Hydropower Ltd.
-2026042404006897,SHPC,39,66,80,517.3,41384.0,2026-04-24,187876565,591,Sumeru Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 13:12:47.031070,Sanima Mai Hydropower Ltd.
-2026042404007056,SHPC,37,58,500,518.0,259000.0,2026-04-24,187878078,591,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 13:16:12.508547,Sanima Mai Hydropower Ltd.
-2026042404007114,SHPC,57,49,30,518.0,15540.0,2026-04-24,187878857,591,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-24 13:18:16.543446,Sanima Mai Hydropower Ltd.
-2026042404007135,SHPC,57,48,480,518.0,248640.0,2026-04-24,187879080,591,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-24 13:18:37.148203,Sanima Mai Hydropower Ltd.
-2026042404007136,SHPC,39,48,20,517.3,10346.0,2026-04-24,187879082,591,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.148436,Sanima Mai Hydropower Ltd.
-2026042404007137,SHPC,34,48,140,517.2,72408.0,2026-04-24,187879084,591,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-24 13:18:37.148522,Sanima Mai Hydropower Ltd.
-2026042404007138,SHPC,52,48,15,517.2,7758.0,2026-04-24,187879086,591,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.148601,Sanima Mai Hydropower Ltd.
-2026042404007139,SHPC,39,48,700,517.1,361970.0,2026-04-24,187879088,591,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.148680,Sanima Mai Hydropower Ltd.
-2026042404007140,SHPC,58,48,200,517.1,103420.0,2026-04-24,187879090,591,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.148756,Sanima Mai Hydropower Ltd.
-2026042404007141,SHPC,17,48,200,517.0,103400.0,2026-04-24,187879092,591,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.148842,Sanima Mai Hydropower Ltd.
-2026042404007142,SHPC,52,48,20,516.9,10338.0,2026-04-24,187879094,591,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.148934,Sanima Mai Hydropower Ltd.
-2026042404007143,SHPC,34,48,1000,516.9,516900.0,2026-04-24,187879096,591,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-24 13:18:37.149014,Sanima Mai Hydropower Ltd.
-2026042404007144,SHPC,48,48,90,516.8,46512.0,2026-04-24,187879098,591,Trishakti Securities Public Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.149095,Sanima Mai Hydropower Ltd.
-2026042404007145,SHPC,58,48,20,516.5,10330.0,2026-04-24,187879100,591,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149191,Sanima Mai Hydropower Ltd.
-2026042404007146,SHPC,7,48,250,516.1,129025.0,2026-04-24,187879102,591,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149272,Sanima Mai Hydropower Ltd.
-2026042404007147,SHPC,7,48,20,516.0,10320.0,2026-04-24,187879104,591,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149374,Sanima Mai Hydropower Ltd.
-2026042404007148,SHPC,35,48,10,516.0,5160.0,2026-04-24,187879106,591,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149466,Sanima Mai Hydropower Ltd.
-2026042404007150,SHPC,37,48,500,515.9,257950.0,2026-04-24,187879148,591,Swarna Laxmi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:42.471050,Sanima Mai Hydropower Ltd.
-2026042404007160,SHPC,34,48,34,515.9,17540.6,2026-04-24,187879398,591,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-24 13:19:17.151619,Sanima Mai Hydropower Ltd.
-2026042404007172,SHPC,90,48,100,515.4,51540.0,2026-04-24,187879674,591,Sajilo Broker Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.811432,Sanima Mai Hydropower Ltd.
-2026042404007173,SHPC,21,48,180,515.2,92736.0,2026-04-24,187879677,591,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.811641,Sanima Mai Hydropower Ltd.
-2026042404007174,SHPC,94,48,20,515.0,10300.0,2026-04-24,187879680,591,K.B.L. Securities Limited ,Trishakti Securities Public Limited,2026-04-24 13:20:01.811721,Sanima Mai Hydropower Ltd.
-2026042404007175,SHPC,42,48,20,515.0,10300.0,2026-04-24,187879682,591,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.811798,Sanima Mai Hydropower Ltd.
-2026042404007176,SHPC,77,48,380,515.0,195700.0,2026-04-24,187879684,591,Nabil Stock Dealer Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.811872,Sanima Mai Hydropower Ltd.
-2026042404007177,SHPC,49,48,39,515.0,20085.0,2026-04-24,187879686,591,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.811947,Sanima Mai Hydropower Ltd.
-2026042404007178,SHPC,22,48,10,515.0,5150.0,2026-04-24,187879688,591,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812020,Sanima Mai Hydropower Ltd.
-2026042404007179,SHPC,32,48,100,515.0,51500.0,2026-04-24,187879690,591,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812090,Sanima Mai Hydropower Ltd.
-2026042404007180,SHPC,42,48,100,515.0,51500.0,2026-04-24,187879692,591,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812159,Sanima Mai Hydropower Ltd.
-2026042404007181,SHPC,42,48,30,515.0,15450.0,2026-04-24,187879694,591,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812233,Sanima Mai Hydropower Ltd.
-2026042404007182,SHPC,11,48,30,515.0,15450.0,2026-04-24,187879696,591,Malla & Malla Stock Broking Company Pvt. Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812302,Sanima Mai Hydropower Ltd.
-2026042404007183,SHPC,38,48,60,515.0,30900.0,2026-04-24,187879698,591,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812434,Sanima Mai Hydropower Ltd.
-2026042404007184,SHPC,83,48,50,515.0,25750.0,2026-04-24,187879700,591,Sanima Securities Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812504,Sanima Mai Hydropower Ltd.
-2026042404007185,SHPC,62,48,200,515.0,103000.0,2026-04-24,187879702,591,Capital Max Securities Ltd,Trishakti Securities Public Limited,2026-04-24 13:20:01.812573,Sanima Mai Hydropower Ltd.
-2026042404007186,SHPC,17,48,20,515.0,10300.0,2026-04-24,187879704,591,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812643,Sanima Mai Hydropower Ltd.
-2026042404007187,SHPC,21,48,400,515.0,206000.0,2026-04-24,187879706,591,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812711,Sanima Mai Hydropower Ltd.
-2026042404007188,SHPC,45,48,500,515.0,257500.0,2026-04-24,187879708,591,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812778,Sanima Mai Hydropower Ltd.
-2026042404007189,SHPC,49,48,62,515.0,31930.0,2026-04-24,187879709,591,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812849,Sanima Mai Hydropower Ltd.
-2026042404007462,SHPC,58,46,40,516.0,20640.0,2026-04-24,187884666,591,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-24 13:30:34.718551,Sanima Mai Hydropower Ltd.
-2026042404007463,SHPC,57,46,400,516.0,206400.0,2026-04-24,187884668,591,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-24 13:30:34.719127,Sanima Mai Hydropower Ltd.
-2026042404007475,SHPC,82,46,62,515.3,31948.6,2026-04-24,187884843,591,N.M.B. SECURITIES LIMITED,Kalika Securities Pvt. Ltd.,2026-04-24 13:31:01.739173,Sanima Mai Hydropower Ltd.
-2026042404007557,SHPC,45,35,100,521.0,52100.0,2026-04-24,187886373,591,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 13:34:08.077530,Sanima Mai Hydropower Ltd.
-2026042404007558,SHPC,45,16,500,521.0,260500.0,2026-04-24,187886375,591,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.077731,Sanima Mai Hydropower Ltd.
-2026042404007559,SHPC,45,16,1550,521.0,807550.0,2026-04-24,187886377,591,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.077813,Sanima Mai Hydropower Ltd.
-2026042404007560,SHPC,45,46,500,521.6,260800.0,2026-04-24,187886379,591,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-24 13:34:08.077891,Sanima Mai Hydropower Ltd.
-2026042404007561,SHPC,45,16,800,521.6,417280.0,2026-04-24,187886381,591,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.077971,Sanima Mai Hydropower Ltd.
-2026042404007562,SHPC,45,44,500,521.8,260900.0,2026-04-24,187886383,591,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 13:34:08.078049,Sanima Mai Hydropower Ltd.
-2026042404007563,SHPC,45,47,257,521.9,134128.3,2026-04-24,187886385,591,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-24 13:34:08.078127,Sanima Mai Hydropower Ltd.
-2026042404007564,SHPC,45,16,550,521.9,287045.0,2026-04-24,187886387,591,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.078204,Sanima Mai Hydropower Ltd.
-2026042404007565,SHPC,45,90,10,522.0,5220.0,2026-04-24,187886389,591,Imperial Securities Company Pvt. Ltd.,Sajilo Broker Limited,2026-04-24 13:34:08.078295,Sanima Mai Hydropower Ltd.
-2026042404007566,SHPC,45,48,233,522.0,121626.0,2026-04-24,187886392,591,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:34:08.078403,Sanima Mai Hydropower Ltd.
-2026042404009185,SHPC,29,48,200,518.1,103620.0,2026-04-24,187906010,591,Trisul Securities & Invt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.447966,Sanima Mai Hydropower Ltd.
-2026042404009186,SHPC,49,48,800,518.0,414400.0,2026-04-24,187906012,591,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.448432,Sanima Mai Hydropower Ltd.
-2026042404009187,SHPC,37,48,200,517.0,103400.0,2026-04-24,187906014,591,Swarna Laxmi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.448704,Sanima Mai Hydropower Ltd.
-2026042404009188,SHPC,42,48,198,517.0,102366.0,2026-04-24,187906016,591,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449015,Sanima Mai Hydropower Ltd.
-2026042404009189,SHPC,22,48,100,516.3,51630.0,2026-04-24,187906018,591,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449279,Sanima Mai Hydropower Ltd.
-2026042404009190,SHPC,42,48,300,516.3,154890.0,2026-04-24,187906020,591,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449545,Sanima Mai Hydropower Ltd.
-2026042404009191,SHPC,36,48,50,516.2,25810.0,2026-04-24,187906022,591,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449810,Sanima Mai Hydropower Ltd.
-2026042404009192,SHPC,45,48,16652,516.2,8595762.4,2026-04-24,187906023,591,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.450048,Sanima Mai Hydropower Ltd.
-2026042404009233,SHPC,7,34,100,519.0,51900.0,2026-04-24,187906846,591,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:14:42.533155,Sanima Mai Hydropower Ltd.
-2026042404009765,SHPC,44,34,10,518.0,5180.0,2026-04-24,187914043,591,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:24:55.682470,Sanima Mai Hydropower Ltd.
-2026042404009806,SHPC,90,41,10,519.9,5199.0,2026-04-24,187914535,591,Sajilo Broker Limited,Linch Stock Market Ltd.,2026-04-24 14:25:38.962675,Sanima Mai Hydropower Ltd.
-2026042404009911,SHPC,58,1,115,520.0,59800.0,2026-04-24,187916051,591,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-24 14:28:14.381395,Sanima Mai Hydropower Ltd.
-2026042404009912,SHPC,58,22,85,520.0,44200.0,2026-04-24,187916054,591,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-24 14:28:14.381628,Sanima Mai Hydropower Ltd.
-2026042404009972,SHPC,22,62,96,519.9,49910.4,2026-04-24,187916848,591,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 14:29:31.679134,Sanima Mai Hydropower Ltd.
-2026042404010013,SHPC,77,72,200,519.0,103800.0,2026-04-24,187917125,591,Nabil Stock Dealer Ltd.,Hatemalo Financial Services Private Limited,2026-04-24 14:30:07.604286,Sanima Mai Hydropower Ltd.
-2026042404010160,SHPC,77,6,100,519.0,51900.0,2026-04-24,187918637,591,Nabil Stock Dealer Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 14:32:16.867563,Sanima Mai Hydropower Ltd.
-2026042404010165,SHPC,1,99,150,518.5,77775.0,2026-04-24,187918825,591,Kumari Securities Private Limited,Prabhu Stock Market Limited,2026-04-24 14:32:35.939778,Sanima Mai Hydropower Ltd.
-2026042404010192,SHPC,1,62,104,518.5,53924.0,2026-04-24,187919089,591,Kumari Securities Private Limited,Capital Max Securities Ltd,2026-04-24 14:33:02.227175,Sanima Mai Hydropower Ltd.
-2026042404010482,SHPC,56,16,100,519.1,51910.0,2026-04-24,187921152,591,Sri Hari Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:36:00.633401,Sanima Mai Hydropower Ltd.
-2026042404010483,SHPC,1,16,157,518.5,81404.5,2026-04-24,187921153,591,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-24 14:36:00.633693,Sanima Mai Hydropower Ltd.
-2026042404010491,SHPC,63,22,29,520.0,15080.0,2026-04-24,187921265,591,Himalayan Brokerage Company Limited,Siprabi Securities Pvt. Ltd.,2026-04-24 14:36:10.366473,Sanima Mai Hydropower Ltd.
-2026042404010492,SHPC,63,16,35,520.0,18200.0,2026-04-24,187921267,591,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,2026-04-24 14:36:10.366771,Sanima Mai Hydropower Ltd.
-2026042404010493,SHPC,63,37,145,521.9,75675.5,2026-04-24,187921269,591,Himalayan Brokerage Company Limited,Swarna Laxmi Securities Pvt. Ltd.,2026-04-24 14:36:10.366889,Sanima Mai Hydropower Ltd.
-2026042404010494,SHPC,63,48,267,522.0,139374.0,2026-04-24,187921271,591,Himalayan Brokerage Company Limited,Trishakti Securities Public Limited,2026-04-24 14:36:10.366983,Sanima Mai Hydropower Ltd.
-2026042404010495,SHPC,63,39,24,522.0,12528.0,2026-04-24,187921274,591,Himalayan Brokerage Company Limited,Sumeru Securities Pvt. Ltd.,2026-04-24 14:36:10.367075,Sanima Mai Hydropower Ltd.
-2026042404010706,SHPC,58,39,86,522.0,44892.0,2026-04-24,187923455,591,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:39:24.132205,Sanima Mai Hydropower Ltd.
-2026042404010707,SHPC,58,66,100,522.0,52200.0,2026-04-24,187923457,591,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 14:39:24.132411,Sanima Mai Hydropower Ltd.
-2026042404010708,SHPC,58,66,100,522.0,52200.0,2026-04-24,187923459,591,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 14:39:24.132505,Sanima Mai Hydropower Ltd.
-2026042404010709,SHPC,58,45,50,522.0,26100.0,2026-04-24,187923461,591,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:39:24.132597,Sanima Mai Hydropower Ltd.
-2026042404010710,SHPC,58,38,50,522.0,26100.0,2026-04-24,187923463,591,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:39:24.132701,Sanima Mai Hydropower Ltd.
-2026042404010768,SHPC,58,90,64,522.0,33408.0,2026-04-24,187923895,591,Naasa Securities Co. Ltd.,Sajilo Broker Limited,2026-04-24 14:40:04.715298,Sanima Mai Hydropower Ltd.
-2026042404011331,SHPC,92,38,20,521.1,10422.0,2026-04-24,187930038,591,Roadshow securities limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:46:42.434381,Sanima Mai Hydropower Ltd.
-2026042404011332,SHPC,38,38,135,521.0,70335.0,2026-04-24,187930039,591,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:46:42.434602,Sanima Mai Hydropower Ltd.
-2026042404011347,SHPC,38,38,10,521.0,5210.0,2026-04-24,187930143,591,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:46:54.425357,Sanima Mai Hydropower Ltd.
-2026042404011457,SHPC,38,16,35,521.0,18235.0,2026-04-24,187931599,591,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:48:08.393975,Sanima Mai Hydropower Ltd.
-2026042404011500,SHPC,38,57,120,521.0,62520.0,2026-04-24,187931990,591,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-24 14:48:33.596089,Sanima Mai Hydropower Ltd.
-2026042404011501,SHPC,1,57,15,521.0,7815.0,2026-04-24,187931992,591,Kumari Securities Private Limited,Aryatara Investment & Securities,2026-04-24 14:48:33.596308,Sanima Mai Hydropower Ltd.
-2026042404011828,SHPC,7,25,250,520.9,130225.0,2026-04-24,187935898,591,J.F. Securites (PVT) Ltd.,Sweta Securities Private Limited,2026-04-24 14:51:21.003209,Sanima Mai Hydropower Ltd.
-2026042404012041,SHPC,7,16,35,520.3,18210.5,2026-04-24,187937199,591,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:52:16.408941,Sanima Mai Hydropower Ltd.
-2026042404012293,SHPC,7,47,115,520.3,59834.5,2026-04-24,187939560,591,J.F. Securites (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-24 14:54:09.156689,Sanima Mai Hydropower Ltd.
-2026042404012294,SHPC,45,47,185,520.3,96255.5,2026-04-24,187939561,591,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-24 14:54:09.156768,Sanima Mai Hydropower Ltd.
-2026042404012340,SHPC,45,16,15,520.3,7804.5,2026-04-24,187940058,591,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:54:28.069430,Sanima Mai Hydropower Ltd.
-2026042404012341,SHPC,1,16,20,520.1,10402.0,2026-04-24,187940059,591,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-24 14:54:28.069649,Sanima Mai Hydropower Ltd.
-2026042404012508,SHPC,1,61,100,520.1,52010.0,2026-04-24,187941411,591,Kumari Securities Private Limited,BHOLE GANESH SECURITIES LTD,2026-04-24 14:55:23.031725,Sanima Mai Hydropower Ltd.
-2026042404012575,SHPC,6,57,65,521.0,33865.0,2026-04-24,187942089,591,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-24 14:55:46.108938,Sanima Mai Hydropower Ltd.
-2026042404012576,SHPC,6,57,105,521.0,54705.0,2026-04-24,187942092,591,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-24 14:55:46.109186,Sanima Mai Hydropower Ltd.
-2026042404012594,SHPC,1,74,180,520.1,93618.0,2026-04-24,187942244,591,Kumari Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:55:53.421972,Sanima Mai Hydropower Ltd.
-2026042404012595,SHPC,4,74,300,520.0,156000.0,2026-04-24,187942246,591,Opal Securities Investment (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:55:53.422440,Sanima Mai Hydropower Ltd.
-2026042404012596,SHPC,53,74,20,519.1,10382.0,2026-04-24,187942247,591,Investment Management Nepal Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:55:53.422715,Sanima Mai Hydropower Ltd.
-2026042404012747,SHPC,38,58,70,520.2,36414.0,2026-04-24,187943721,591,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:56:46.660425,Sanima Mai Hydropower Ltd.
-2026042404013114,SHPC,37,57,15,521.0,7815.0,2026-04-24,187946599,591,Swarna Laxmi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-24 14:58:16.523570,Sanima Mai Hydropower Ltd.
-2026042404013115,SHPC,37,41,485,521.0,252685.0,2026-04-24,187946602,591,Swarna Laxmi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-24 14:58:16.523769,Sanima Mai Hydropower Ltd.
-2026042404013183,SHPC,38,32,30,520.2,15606.0,2026-04-24,187947000,591,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:28.982310,Sanima Mai Hydropower Ltd.
-2026042404013184,SHPC,53,32,480,519.1,249168.0,2026-04-24,187947002,591,Investment Management Nepal Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:28.982710,Sanima Mai Hydropower Ltd.
-2026042404013185,SHPC,45,32,290,519.0,150510.0,2026-04-24,187947003,591,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:28.982986,Sanima Mai Hydropower Ltd.
-2026042404013217,SHPC,45,41,15,521.0,7815.0,2026-04-24,187947345,591,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-24 14:58:36.954924,Sanima Mai Hydropower Ltd.
-2026042404013218,SHPC,45,42,50,521.0,26050.0,2026-04-24,187947347,591,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:58:36.955143,Sanima Mai Hydropower Ltd.
-2026042404013219,SHPC,45,34,35,522.0,18270.0,2026-04-24,187947350,591,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:58:36.955247,Sanima Mai Hydropower Ltd.
-2026042404013309,SHPC,45,32,100,521.0,52100.0,2026-04-24,187947966,591,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:50.752062,Sanima Mai Hydropower Ltd.
-2026042404013310,SHPC,45,32,500,519.0,259500.0,2026-04-24,187947967,591,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:50.752268,Sanima Mai Hydropower Ltd.
-2026042404013431,SHPC,45,34,100,522.0,52200.0,2026-04-24,187948916,591,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:59:11.642301,Sanima Mai Hydropower Ltd.
-2026042404013457,SHPC,45,42,100,521.0,52100.0,2026-04-24,187949323,591,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:59:17.778856,Sanima Mai Hydropower Ltd.
-2026042404013553,SHPC,45,26,100,521.9,52190.0,2026-04-24,187950154,591,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-24 14:59:27.928981,Sanima Mai Hydropower Ltd.
-2026042404013554,SHPC,45,26,900,521.0,468900.0,2026-04-24,187950155,591,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-24 14:59:27.929171,Sanima Mai Hydropower Ltd.
-2026042404013657,SHPC,45,45,50,521.8,26090.0,2026-04-24,187950930,591,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:39.009150,Sanima Mai Hydropower Ltd.
-2026042404013701,SHPC,45,45,50,521.0,26050.0,2026-04-24,187951278,591,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:43.973613,Sanima Mai Hydropower Ltd.
-2026042404013702,SHPC,29,45,100,521.0,52100.0,2026-04-24,187951296,591,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:44.118855,Sanima Mai Hydropower Ltd.
-2026042404013770,SHPC,3,45,300,521.0,156300.0,2026-04-24,187951948,591,Arun Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:53.101249,Sanima Mai Hydropower Ltd.
-2026042404013778,SHPC,81,90,50,520.0,26000.0,2026-04-24,187951993,591,Aakashbhairab Securities Ltd.,Sajilo Broker Limited,2026-04-24 14:59:53.545705,Sanima Mai Hydropower Ltd.
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026042404000006,SHPC,34,34,10,530.0,5300.0,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-24 10:46:00.050662
+2026042404000007,SHPC,45,34,390,530.0,206700.0,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 10:46:00.050689
+2026042404000008,SHPC,45,48,110,530.0,58300.0,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 10:46:00.050719
+2026042404000496,SHPC,53,48,500,515.1,257550.0,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 11:08:02.291967
+2026042404000572,SHPC,83,50,30,515.2,15456.0,Sanima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:08:50.002988
+2026042404000606,SHPC,83,50,20,515.2,10304.0,Sanima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:09:26.890439
+2026042404000679,SHPC,29,50,20,515.2,10304.0,Trisul Securities & Invt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:10:17.912180
+2026042404000683,SHPC,53,50,10,515.2,5152.0,Investment Management Nepal Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-24 11:10:25.347018
+2026042404000984,SHPC,90,59,100,515.5,51550.0,Sajilo Broker Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952674
+2026042404000985,SHPC,53,59,20,515.2,10304.0,Investment Management Nepal Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952761
+2026042404000986,SHPC,50,59,200,515.2,103040.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952792
+2026042404000987,SHPC,25,59,50,515.1,25755.0,Sweta Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952813
+2026042404000988,SHPC,25,59,130,515.0,66950.0,Sweta Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-24 11:14:59.952840
+2026042404001078,SHPC,83,49,50,515.1,25755.0,Sanima Securities Limited,Online Securities Pvt. Ltd.,2026-04-24 11:16:19.964634
+2026042404001079,SHPC,25,49,250,515.0,128750.0,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,2026-04-24 11:16:19.964766
+2026042404001136,SHPC,25,29,100,515.0,51500.0,Sweta Securities Private Limited,Trisul Securities & Invt. Ltd.,2026-04-24 11:17:11.348114
+2026042404001155,SHPC,97,44,500,517.0,258500.0,R.B.B. Securities Company Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:17:34.761829
+2026042404001173,SHPC,16,8,200,515.1,103020.0,Primo Securities (PVT) Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 11:17:53.511459
+2026042404001174,SHPC,25,8,20,515.0,10300.0,Sweta Securities Private Limited,Brilliant Securities Pvt. Ltd.,2026-04-24 11:17:53.511584
+2026042404001175,SHPC,39,8,530,515.0,272950.0,Sumeru Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-24 11:17:53.511656
+2026042404001402,SHPC,90,44,200,515.2,103040.0,Sajilo Broker Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:22:04.123385
+2026042404001403,SHPC,36,44,100,515.2,51520.0,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:22:04.123531
+2026042404001564,SHPC,83,44,50,515.2,25760.0,Sanima Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:24:20.915502
+2026042404001565,SHPC,57,44,2000,515.1,1030200.0,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:24:20.915775
+2026042404001566,SHPC,39,44,450,515.0,231750.0,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 11:24:20.915944
+2026042404001671,SHPC,97,48,500,516.9,258450.0,R.B.B. Securities Company Ltd,Trishakti Securities Public Limited,2026-04-24 11:25:38.271748
+2026042404001723,SHPC,90,56,500,518.0,259000.0,Sajilo Broker Limited,Sri Hari Securities Pvt. Ltd.,2026-04-24 11:26:18.997294
+2026042404002201,SHPC,35,74,10,518.0,5180.0,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 11:34:51.161024
+2026042404002276,SHPC,34,74,90,518.0,46620.0,Vision Securities Pvt. Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-24 11:36:28.628268
+2026042404002277,SHPC,34,67,110,519.5,57145.0,Vision Securities Pvt. Ltd,Property Wiard Limited,2026-04-24 11:36:28.628602
+2026042404002295,SHPC,41,67,200,519.5,103900.0,Linch Stock Market Ltd.,Property Wiard Limited,2026-04-24 11:37:16.424659
+2026042404002319,SHPC,16,90,10,517.0,5170.0,Primo Securities (PVT) Ltd.,Sajilo Broker Limited,2026-04-24 11:38:09.739482
+2026042404002320,SHPC,56,90,40,517.0,20680.0,Sri Hari Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-24 11:38:09.739516
+2026042404002340,SHPC,56,14,40,517.0,20680.0,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-24 11:38:26.934530
+2026042404002448,SHPC,56,10,20,517.0,10340.0,Sri Hari Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-24 11:41:16.717974
+2026042404002449,SHPC,21,10,380,515.2,195776.0,Midas Stock Broking Company Private Limited,Pragyan Securities (PVT) Ltd.,2026-04-24 11:41:16.718161
+2026042404002501,SHPC,35,18,10,516.0,5160.0,Kohinoor Investment & Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,2026-04-24 11:43:09.298516
+2026042404002502,SHPC,21,18,240,515.2,123648.0,Midas Stock Broking Company Private Limited,Sagarmatha Securities Private Limited,2026-04-24 11:43:09.298668
+2026042404002941,SHPC,35,36,10,516.0,5160.0,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-24 11:52:58.487161
+2026042404003249,SHPC,34,66,12,516.1,6193.2,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991016
+2026042404003250,SHPC,35,66,10,516.0,5160.0,Kohinoor Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991208
+2026042404003251,SHPC,6,66,20,515.6,10312.0,Agrawal Securities (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991291
+2026042404003252,SHPC,16,66,43,515.5,22166.5,Primo Securities (PVT) Ltd.,Miyo Securities Pvt Ltd,2026-04-24 11:58:43.991415
+2026042404003346,SHPC,35,62,10,516.0,5160.0,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 12:00:53.815008
+2026042404003347,SHPC,16,62,57,515.5,29383.5,Primo Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-24 12:00:53.815161
+2026042404003348,SHPC,57,62,133,515.3,68534.9,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-24 12:00:53.815230
+2026042404003456,SHPC,34,19,13,515.4,6700.2,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-24 12:03:17.003931
+2026042404003457,SHPC,57,19,50,515.3,25765.0,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,2026-04-24 12:03:17.004095
+2026042404004024,SHPC,57,44,300,517.0,155100.0,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:14:31.858451
+2026042404004059,SHPC,34,44,25,517.0,12925.0,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:15:05.467535
+2026042404004104,SHPC,35,39,10,516.0,5160.0,Kohinoor Investment & Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 12:16:43.365418
+2026042404004127,SHPC,34,39,40,515.7,20628.0,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-24 12:17:26.136634
+2026042404004239,SHPC,32,44,10,517.0,5170.0,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:19:33.328754
+2026042404004252,SHPC,45,44,165,517.0,85305.0,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:19:42.729545
+2026042404004253,SHPC,45,67,500,518.0,259000.0,Imperial Securities Company Pvt. Ltd.,Property Wiard Limited,2026-04-24 12:19:42.729733
+2026042404004254,SHPC,45,17,66,518.0,34188.0,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-24 12:19:42.729813
+2026042404004290,SHPC,45,67,234,518.0,121212.0,Imperial Securities Company Pvt. Ltd.,Property Wiard Limited,2026-04-24 12:20:17.894941
+2026042404004291,SHPC,58,67,25,518.0,12950.0,Naasa Securities Co. Ltd.,Property Wiard Limited,2026-04-24 12:20:17.895291
+2026042404004474,SHPC,57,67,241,518.0,124838.0,Aryatara Investment & Securities,Property Wiard Limited,2026-04-24 12:23:36.427568
+2026042404004475,SHPC,57,69,350,519.0,181650.0,Aryatara Investment & Securities,INDEX SECURITIES LIMITED,2026-04-24 12:23:36.427944
+2026042404004476,SHPC,57,45,500,519.0,259500.0,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:23:36.428177
+2026042404004477,SHPC,57,8,500,519.0,259500.0,Aryatara Investment & Securities,Brilliant Securities Pvt. Ltd.,2026-04-24 12:23:36.428405
+2026042404004478,SHPC,57,67,190,519.5,98705.0,Aryatara Investment & Securities,Property Wiard Limited,2026-04-24 12:23:36.428630
+2026042404004479,SHPC,57,33,60,519.5,31170.0,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 12:23:36.428851
+2026042404004480,SHPC,57,45,1000,520.0,520000.0,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:23:36.429064
+2026042404004481,SHPC,57,90,159,520.0,82680.0,Aryatara Investment & Securities,Sajilo Broker Limited,2026-04-24 12:23:36.429285
+2026042404004905,SHPC,50,49,19,519.1,9862.9,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-24 12:29:27.488132
+2026042404005115,SHPC,48,90,41,520.0,21320.0,Trishakti Securities Public Limited,Sajilo Broker Limited,2026-04-24 12:34:23.554269
+2026042404005116,SHPC,48,67,500,520.0,260000.0,Trishakti Securities Public Limited,Property Wiard Limited,2026-04-24 12:34:23.554441
+2026042404005117,SHPC,48,33,90,520.0,46800.0,Trishakti Securities Public Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 12:34:23.554517
+2026042404005118,SHPC,48,49,100,520.0,52000.0,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,2026-04-24 12:34:23.554588
+2026042404005119,SHPC,48,34,10,521.0,5210.0,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-24 12:34:23.554664
+2026042404005230,SHPC,34,69,16,516.2,8259.2,Vision Securities Pvt. Ltd,INDEX SECURITIES LIMITED,2026-04-24 12:37:27.341101
+2026042404005368,SHPC,42,66,10,517.0,5170.0,Sani Securities Company Ltd.,Miyo Securities Pvt Ltd,2026-04-24 12:40:28.843971
+2026042404005716,SHPC,58,44,10,521.9,5219.0,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:46:39.505971
+2026042404005846,SHPC,57,44,40,521.9,20876.0,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 12:49:12.515940
+2026042404005847,SHPC,57,90,200,522.0,104400.0,Aryatara Investment & Securities,Sajilo Broker Limited,2026-04-24 12:49:12.516350
+2026042404005848,SHPC,57,33,1000,522.0,522000.0,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-24 12:49:12.516593
+2026042404005849,SHPC,57,45,12,522.0,6264.0,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2026-04-24 12:49:12.516849
+2026042404005850,SHPC,57,66,115,522.0,60030.0,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-24 12:49:12.517122
+2026042404005851,SHPC,57,39,75,522.0,39150.0,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-24 12:49:12.517457
+2026042404005852,SHPC,57,66,106,522.0,55332.0,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-24 12:49:12.517763
+2026042404005853,SHPC,57,39,24,522.0,12528.0,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-24 12:49:12.518077
+2026042404005854,SHPC,57,66,75,522.0,39150.0,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,2026-04-24 12:49:12.518397
+2026042404005860,SHPC,58,83,250,523.0,130750.0,Naasa Securities Co. Ltd.,Sanima Securities Limited,2026-04-24 12:49:17.430361
+2026042404005861,SHPC,58,49,250,523.0,130750.0,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-24 12:49:17.430455
+2026042404005934,SHPC,57,49,170,523.0,88910.0,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-24 12:50:50.020390
+2026042404006079,SHPC,52,22,200,520.0,104000.0,Sundhara Securities Limited,Siprabi Securities Pvt. Ltd.,2026-04-24 12:52:29.692856
+2026042404006118,SHPC,52,90,40,520.0,20800.0,Sundhara Securities Limited,Sajilo Broker Limited,2026-04-24 12:53:19.481616
+2026042404006362,SHPC,39,4,300,517.1,155130.0,Sumeru Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-24 12:57:16.807933
+2026042404006656,SHPC,17,58,25,517.5,12937.5,ABC Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-24 13:03:33.758801
+2026042404006767,SHPC,39,90,190,522.0,99180.0,Sumeru Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-24 13:07:49.765718
+2026042404006897,SHPC,39,66,80,517.3,41384.0,Sumeru Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 13:12:47.031070
+2026042404007056,SHPC,37,58,500,518.0,259000.0,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-24 13:16:12.508547
+2026042404007114,SHPC,57,49,30,518.0,15540.0,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-24 13:18:16.543446
+2026042404007135,SHPC,57,48,480,518.0,248640.0,Aryatara Investment & Securities,Trishakti Securities Public Limited,2026-04-24 13:18:37.148203
+2026042404007136,SHPC,39,48,20,517.3,10346.0,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.148436
+2026042404007137,SHPC,34,48,140,517.2,72408.0,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-24 13:18:37.148522
+2026042404007138,SHPC,52,48,15,517.2,7758.0,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.148601
+2026042404007139,SHPC,39,48,700,517.1,361970.0,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.148680
+2026042404007140,SHPC,58,48,200,517.1,103420.0,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.148756
+2026042404007141,SHPC,17,48,200,517.0,103400.0,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.148842
+2026042404007142,SHPC,52,48,20,516.9,10338.0,Sundhara Securities Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.148934
+2026042404007143,SHPC,34,48,1000,516.9,516900.0,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-24 13:18:37.149014
+2026042404007144,SHPC,48,48,90,516.8,46512.0,Trishakti Securities Public Limited,Trishakti Securities Public Limited,2026-04-24 13:18:37.149095
+2026042404007145,SHPC,58,48,20,516.5,10330.0,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149191
+2026042404007146,SHPC,7,48,250,516.1,129025.0,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149272
+2026042404007147,SHPC,7,48,20,516.0,10320.0,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149374
+2026042404007148,SHPC,35,48,10,516.0,5160.0,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:37.149466
+2026042404007150,SHPC,37,48,500,515.9,257950.0,Swarna Laxmi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:18:42.471050
+2026042404007160,SHPC,34,48,34,515.9,17540.6,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,2026-04-24 13:19:17.151619
+2026042404007172,SHPC,90,48,100,515.4,51540.0,Sajilo Broker Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.811432
+2026042404007173,SHPC,21,48,180,515.2,92736.0,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.811641
+2026042404007174,SHPC,94,48,20,515.0,10300.0,K.B.L. Securities Limited ,Trishakti Securities Public Limited,2026-04-24 13:20:01.811721
+2026042404007175,SHPC,42,48,20,515.0,10300.0,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.811798
+2026042404007176,SHPC,77,48,380,515.0,195700.0,Nabil Stock Dealer Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.811872
+2026042404007177,SHPC,49,48,39,515.0,20085.0,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.811947
+2026042404007178,SHPC,22,48,10,515.0,5150.0,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812020
+2026042404007179,SHPC,32,48,100,515.0,51500.0,Premier Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812090
+2026042404007180,SHPC,42,48,100,515.0,51500.0,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812159
+2026042404007181,SHPC,42,48,30,515.0,15450.0,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812233
+2026042404007182,SHPC,11,48,30,515.0,15450.0,Malla & Malla Stock Broking Company Pvt. Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812302
+2026042404007183,SHPC,38,48,60,515.0,30900.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812434
+2026042404007184,SHPC,83,48,50,515.0,25750.0,Sanima Securities Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812504
+2026042404007185,SHPC,62,48,200,515.0,103000.0,Capital Max Securities Ltd,Trishakti Securities Public Limited,2026-04-24 13:20:01.812573
+2026042404007186,SHPC,17,48,20,515.0,10300.0,ABC Securities Private Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812643
+2026042404007187,SHPC,21,48,400,515.0,206000.0,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-24 13:20:01.812711
+2026042404007188,SHPC,45,48,500,515.0,257500.0,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812778
+2026042404007189,SHPC,49,48,62,515.0,31930.0,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:20:01.812849
+2026042404007462,SHPC,58,46,40,516.0,20640.0,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-24 13:30:34.718551
+2026042404007463,SHPC,57,46,400,516.0,206400.0,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,2026-04-24 13:30:34.719127
+2026042404007475,SHPC,82,46,62,515.3,31948.6,N.M.B. SECURITIES LIMITED,Kalika Securities Pvt. Ltd.,2026-04-24 13:31:01.739173
+2026042404007557,SHPC,45,35,100,521.0,52100.0,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-24 13:34:08.077530
+2026042404007558,SHPC,45,16,500,521.0,260500.0,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.077731
+2026042404007559,SHPC,45,16,1550,521.0,807550.0,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.077813
+2026042404007560,SHPC,45,46,500,521.6,260800.0,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-24 13:34:08.077891
+2026042404007561,SHPC,45,16,800,521.6,417280.0,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.077971
+2026042404007562,SHPC,45,44,500,521.8,260900.0,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-24 13:34:08.078049
+2026042404007563,SHPC,45,47,257,521.9,134128.3,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-24 13:34:08.078127
+2026042404007564,SHPC,45,16,550,521.9,287045.0,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 13:34:08.078204
+2026042404007565,SHPC,45,90,10,522.0,5220.0,Imperial Securities Company Pvt. Ltd.,Sajilo Broker Limited,2026-04-24 13:34:08.078295
+2026042404007566,SHPC,45,48,233,522.0,121626.0,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 13:34:08.078403
+2026042404009185,SHPC,29,48,200,518.1,103620.0,Trisul Securities & Invt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.447966
+2026042404009186,SHPC,49,48,800,518.0,414400.0,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.448432
+2026042404009187,SHPC,37,48,200,517.0,103400.0,Swarna Laxmi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.448704
+2026042404009188,SHPC,42,48,198,517.0,102366.0,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449015
+2026042404009189,SHPC,22,48,100,516.3,51630.0,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449279
+2026042404009190,SHPC,42,48,300,516.3,154890.0,Sani Securities Company Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449545
+2026042404009191,SHPC,36,48,50,516.2,25810.0,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.449810
+2026042404009192,SHPC,45,48,16652,516.2,8595762.4,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-24 14:14:07.450048
+2026042404009233,SHPC,7,34,100,519.0,51900.0,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:14:42.533155
+2026042404009765,SHPC,44,34,10,518.0,5180.0,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:24:55.682470
+2026042404009806,SHPC,90,41,10,519.9,5199.0,Sajilo Broker Limited,Linch Stock Market Ltd.,2026-04-24 14:25:38.962675
+2026042404009911,SHPC,58,1,115,520.0,59800.0,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-24 14:28:14.381395
+2026042404009912,SHPC,58,22,85,520.0,44200.0,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-24 14:28:14.381628
+2026042404009972,SHPC,22,62,96,519.9,49910.4,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-24 14:29:31.679134
+2026042404010013,SHPC,77,72,200,519.0,103800.0,Nabil Stock Dealer Ltd.,Hatemalo Financial Services Private Limited,2026-04-24 14:30:07.604286
+2026042404010160,SHPC,77,6,100,519.0,51900.0,Nabil Stock Dealer Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-24 14:32:16.867563
+2026042404010165,SHPC,1,99,150,518.5,77775.0,Kumari Securities Private Limited,Prabhu Stock Market Limited,2026-04-24 14:32:35.939778
+2026042404010192,SHPC,1,62,104,518.5,53924.0,Kumari Securities Private Limited,Capital Max Securities Ltd,2026-04-24 14:33:02.227175
+2026042404010482,SHPC,56,16,100,519.1,51910.0,Sri Hari Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:36:00.633401
+2026042404010483,SHPC,1,16,157,518.5,81404.5,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-24 14:36:00.633693
+2026042404010491,SHPC,63,22,29,520.0,15080.0,Himalayan Brokerage Company Limited,Siprabi Securities Pvt. Ltd.,2026-04-24 14:36:10.366473
+2026042404010492,SHPC,63,16,35,520.0,18200.0,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,2026-04-24 14:36:10.366771
+2026042404010493,SHPC,63,37,145,521.9,75675.5,Himalayan Brokerage Company Limited,Swarna Laxmi Securities Pvt. Ltd.,2026-04-24 14:36:10.366889
+2026042404010494,SHPC,63,48,267,522.0,139374.0,Himalayan Brokerage Company Limited,Trishakti Securities Public Limited,2026-04-24 14:36:10.366983
+2026042404010495,SHPC,63,39,24,522.0,12528.0,Himalayan Brokerage Company Limited,Sumeru Securities Pvt. Ltd.,2026-04-24 14:36:10.367075
+2026042404010706,SHPC,58,39,86,522.0,44892.0,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-24 14:39:24.132205
+2026042404010707,SHPC,58,66,100,522.0,52200.0,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 14:39:24.132411
+2026042404010708,SHPC,58,66,100,522.0,52200.0,Naasa Securities Co. Ltd.,Miyo Securities Pvt Ltd,2026-04-24 14:39:24.132505
+2026042404010709,SHPC,58,45,50,522.0,26100.0,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:39:24.132597
+2026042404010710,SHPC,58,38,50,522.0,26100.0,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:39:24.132701
+2026042404010768,SHPC,58,90,64,522.0,33408.0,Naasa Securities Co. Ltd.,Sajilo Broker Limited,2026-04-24 14:40:04.715298
+2026042404011331,SHPC,92,38,20,521.1,10422.0,Roadshow securities limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:46:42.434381
+2026042404011332,SHPC,38,38,135,521.0,70335.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:46:42.434602
+2026042404011347,SHPC,38,38,10,521.0,5210.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-24 14:46:54.425357
+2026042404011457,SHPC,38,16,35,521.0,18235.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:48:08.393975
+2026042404011500,SHPC,38,57,120,521.0,62520.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-24 14:48:33.596089
+2026042404011501,SHPC,1,57,15,521.0,7815.0,Kumari Securities Private Limited,Aryatara Investment & Securities,2026-04-24 14:48:33.596308
+2026042404011828,SHPC,7,25,250,520.9,130225.0,J.F. Securites (PVT) Ltd.,Sweta Securities Private Limited,2026-04-24 14:51:21.003209
+2026042404012041,SHPC,7,16,35,520.3,18210.5,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:52:16.408941
+2026042404012293,SHPC,7,47,115,520.3,59834.5,J.F. Securites (PVT) Ltd.,Neev Securities Pvt. Ltd.,2026-04-24 14:54:09.156689
+2026042404012294,SHPC,45,47,185,520.3,96255.5,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-24 14:54:09.156768
+2026042404012340,SHPC,45,16,15,520.3,7804.5,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-24 14:54:28.069430
+2026042404012341,SHPC,1,16,20,520.1,10402.0,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-24 14:54:28.069649
+2026042404012508,SHPC,1,61,100,520.1,52010.0,Kumari Securities Private Limited,BHOLE GANESH SECURITIES LTD,2026-04-24 14:55:23.031725
+2026042404012575,SHPC,6,57,65,521.0,33865.0,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-24 14:55:46.108938
+2026042404012576,SHPC,6,57,105,521.0,54705.0,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-24 14:55:46.109186
+2026042404012594,SHPC,1,74,180,520.1,93618.0,Kumari Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:55:53.421972
+2026042404012595,SHPC,4,74,300,520.0,156000.0,Opal Securities Investment (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:55:53.422440
+2026042404012596,SHPC,53,74,20,519.1,10382.0,Investment Management Nepal Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-24 14:55:53.422715
+2026042404012747,SHPC,38,58,70,520.2,36414.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-24 14:56:46.660425
+2026042404013114,SHPC,37,57,15,521.0,7815.0,Swarna Laxmi Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-24 14:58:16.523570
+2026042404013115,SHPC,37,41,485,521.0,252685.0,Swarna Laxmi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-24 14:58:16.523769
+2026042404013183,SHPC,38,32,30,520.2,15606.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:28.982310
+2026042404013184,SHPC,53,32,480,519.1,249168.0,Investment Management Nepal Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:28.982710
+2026042404013185,SHPC,45,32,290,519.0,150510.0,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:28.982986
+2026042404013217,SHPC,45,41,15,521.0,7815.0,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-24 14:58:36.954924
+2026042404013218,SHPC,45,42,50,521.0,26050.0,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:58:36.955143
+2026042404013219,SHPC,45,34,35,522.0,18270.0,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:58:36.955247
+2026042404013309,SHPC,45,32,100,521.0,52100.0,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:50.752062
+2026042404013310,SHPC,45,32,500,519.0,259500.0,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-24 14:58:50.752268
+2026042404013431,SHPC,45,34,100,522.0,52200.0,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-24 14:59:11.642301
+2026042404013457,SHPC,45,42,100,521.0,52100.0,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-24 14:59:17.778856
+2026042404013553,SHPC,45,26,100,521.9,52190.0,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-24 14:59:27.928981
+2026042404013554,SHPC,45,26,900,521.0,468900.0,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,2026-04-24 14:59:27.929171
+2026042404013657,SHPC,45,45,50,521.8,26090.0,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:39.009150
+2026042404013701,SHPC,45,45,50,521.0,26050.0,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:43.973613
+2026042404013702,SHPC,29,45,100,521.0,52100.0,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:44.118855
+2026042404013770,SHPC,3,45,300,521.0,156300.0,Arun Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-24 14:59:53.101249
+2026042404013778,SHPC,81,90,50,520.0,26000.0,Aakashbhairab Securities Ltd.,Sajilo Broker Limited,2026-04-24 14:59:53.545705

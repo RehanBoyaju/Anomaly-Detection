@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71973,2025071401000275,SPC,Sewa Securities Pvt. Ltd.,Sweta Securities Private Limited,38,513.0,19494.0,2025-07-14 11:02:16.069703
 2025-07-14,71530,2025071401000481,SPC,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,20,513.0,10260.0,2025-07-14 11:03:44.340842
 2025-07-14,68898,2025071401001774,SPC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sri Hari Securities Pvt. Ltd.,10,505.5,5055.0,2025-07-14 11:12:12.672412

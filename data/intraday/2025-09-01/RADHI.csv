@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68745,2025090104000006,RADHI,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,10,771.0,7710.0,2025-09-01 10:46:00.033211
 2025-09-01,68123,2025090104000056,RADHI,Arun Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,764.0,76400.0,2025-09-01 11:02:41.047361
 2025-09-01,68122,2025090104000057,RADHI,Arun Securities (PVT) Ltd.,Sajilo Broker Limited,260,765.0,198900.0,2025-09-01 11:02:41.047436

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78207,2025081203000003,ICFC,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,10,699.0,6990.0,2025-08-12 10:46:00.023894
 2025-08-12,76975,2025081203000098,ICFC,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,50,694.0,34700.0,2025-08-12 11:05:01.869293
 2025-08-12,76974,2025081203000099,ICFC,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,110,694.0,76340.0,2025-08-12 11:05:01.869382

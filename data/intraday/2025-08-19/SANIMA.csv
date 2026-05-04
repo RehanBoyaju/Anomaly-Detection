@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61414,2025081901000039,SANIMA,Machhapuchchhre Securities Limited,Shree Krishna Securities Ltd.,10,369.1,3691.0,2025-08-19 11:02:08.681354
 2025-08-19,61343,2025081901000049,SANIMA,Dakshinkali Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,500,368.6,184300.0,2025-08-19 11:02:49.394872
 2025-08-19,61030,2025081901000109,SANIMA,Machhapuchchhre Securities Limited,Shree Krishna Securities Ltd.,10,369.1,3691.0,2025-08-19 11:05:09.193824

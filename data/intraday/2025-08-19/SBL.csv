@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61419,2025081901000035,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Shree Krishna Securities Ltd.,10,367.5,3675.0,2025-08-19 11:02:07.094206
 2025-08-19,61217,2025081901000070,SBL,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,100,362.0,36200.0,2025-08-19 11:03:41.387969
 2025-08-19,61216,2025081901000071,SBL,Pragyan Securities (PVT) Ltd.,Trishakti Securities Public Limited,10,359.0,3590.0,2025-08-19 11:03:41.388097

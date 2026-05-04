@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67615,2025090305000166,SPC,Linch Stock Market Ltd.,Nepal Investment And Securities Trading Private Limited,100,500.1,50010.0,2025-09-03 11:05:03.730503
 2025-09-03,67614,2025090305000167,SPC,Investment Management Nepal Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,100,500.0,50000.0,2025-09-03 11:05:03.730548
 2025-09-03,67613,2025090305000168,SPC,Siprabi Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,50,500.0,25000.0,2025-09-03 11:05:03.730584

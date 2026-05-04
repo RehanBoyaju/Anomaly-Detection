@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RNLI,53,45,12,461.9,5542.799999999999,2026-04-28 14:59:44.157,2026042805016371
 RNLI,21,47,12,462.0,5544.0,2026-04-28 14:59:36.056,2026042805016286
 RNLI,38,59,12,462.0,5544.0,2026-04-28 14:59:08.360,2026042805016102

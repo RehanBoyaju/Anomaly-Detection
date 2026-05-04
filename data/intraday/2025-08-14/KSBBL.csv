@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75263,2025081403000141,KSBBL,Blue Chip Securities Ltd,South Asian Bulls Pvt. Ltd.,456,522.0,238032.0,2025-08-14 11:07:27.250816
 2025-08-14,73352,2025081403000285,KSBBL,Miyo Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,300,522.2,156660.0,2025-08-14 11:13:59.236038
 2025-08-14,73116,2025081403000302,KSBBL,Miyo Securities Pvt Ltd,Malla & Malla Stock Broking Company Pvt. Limited,100,522.2,52220.0,2025-08-14 11:15:04.779642

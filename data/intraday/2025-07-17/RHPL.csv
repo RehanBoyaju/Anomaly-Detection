@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140026,2025071704000490,RHPL,Sani Securities Company Ltd.,Premier Securities Company Ltd.,20,339.9,6798.0,2025-07-17 11:04:09.918545
 2025-07-17,134980,2025071704002291,RHPL,Nepal Stock House (PVT) Ltd.,Linch Stock Market Ltd.,350,338.0,118300.0,2025-07-17 11:13:19.832436
 2025-07-17,134714,2025071704002334,RHPL,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,250,338.7,84675.0,2025-07-17 11:13:35.940057

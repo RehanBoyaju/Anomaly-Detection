@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92783,2025080604000040,NGPL,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,200,425.0,85000.0,2025-08-06 11:01:32.090018
 2025-08-06,91907,2025080604000130,NGPL,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,50,426.0,21300.0,2025-08-06 11:04:08.666109
 2025-08-06,91887,2025080604000133,NGPL,Nepal Investment And Securities Trading Private Limited,Neev Securities Pvt. Ltd.,20,426.0,8520.0,2025-08-06 11:04:12.799092

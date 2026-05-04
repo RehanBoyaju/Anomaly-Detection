@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56796,2025082104000017,HURJA,Trisul Securities & Invt. Ltd.,INDEX SECURITIES LIMITED,10,234.1,2341.0,2025-08-21 10:46:00.058349
 2025-08-21,56603,2025082104000078,HURJA,ABC Securities Private Limited,Nepal Investment And Securities Trading Private Limited,50,238.0,11900.0,2025-08-21 11:02:35.498604
 2025-08-21,56213,2025082104000248,HURJA,Premier Securities Company Ltd.,Sweta Securities Private Limited,500,238.1,119050.0,2025-08-21 11:06:25.333517

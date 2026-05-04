@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,165990,2025073105000789,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,104,2875.0,299000.0,2025-07-31 11:05:33.837850
 2025-07-31,165989,2025073105000790,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,30,2879.0,86370.0,2025-07-31 11:05:33.837921
 2025-07-31,165988,2025073105000791,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,INDEX SECURITIES LIMITED,100,2879.0,287900.0,2025-07-31 11:05:33.837951

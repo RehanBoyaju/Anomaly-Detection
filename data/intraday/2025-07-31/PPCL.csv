@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168183,2025073104000090,PPCL,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,361.1,3611.0,2025-07-31 11:01:14.237876
 2025-07-31,163848,2025073104000800,PPCL,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,10,368.3,3683.0,2025-07-31 11:08:52.299608
 2025-07-31,163847,2025073104000801,PPCL,Dynamic Money Managers Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,40,368.3,14732.0,2025-07-31 11:08:52.299663

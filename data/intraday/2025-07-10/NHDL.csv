@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,84846,2025071004001155,NHDL,Trisul Securities & Invt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,674.2,6742.0,2025-07-10 11:15:47.932018
 2025-07-10,83281,2025071004001548,NHDL,South Asian Bulls Pvt. Ltd.,Linch Stock Market Ltd.,214,680.0,145520.0,2025-07-10 11:21:04.607178
 2025-07-10,81970,2025071004001849,NHDL,South Asian Bulls Pvt. Ltd.,Creative Securities Pvt Ltd,60,684.9,41094.0,2025-07-10 11:25:05.835355

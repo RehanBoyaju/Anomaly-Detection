@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141288,2025071704000046,UPCL,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,10,409.9,4099.0,2025-07-17 11:00:36.844645
 2025-07-17,140867,2025071704000227,UPCL,Hatemalo Financial Services Private Limited,Vision Securities Pvt. Ltd,500,409.5,204750.0,2025-07-17 11:02:06.286119
 2025-07-17,140820,2025071704000247,UPCL,Secured Securities Ltd.,Vision Securities Pvt. Ltd,10,409.5,4095.0,2025-07-17 11:02:10.354067

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170231,2025072804000164,SJCL,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,200,332.0,66400.0,2025-07-28T11:01:49.425483
 2025-07-28,169081,2025072804000528,SJCL,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,10,334.9,3349.0,2025-07-28T11:04:31.232632
 2025-07-28,167544,2025072804000995,SJCL,Agrawal Securities (PVT) Ltd.,Global IME Securities Limited,40,330.1,13204.0,2025-07-28T11:07:28.389635

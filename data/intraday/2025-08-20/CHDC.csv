@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53631,2025082005000097,CHDC,Linch Stock Market Ltd.,Opal Securities Investment (PVT) Ltd.,12,2580.0,30960.0,2025-08-20 11:02:29.848798
 2025-08-20,52527,2025082005000520,CHDC,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,12,2584.0,31008.0,2025-08-20 11:10:47.173617
 2025-08-20,51276,2025082005000995,CHDC,Creative Securities Pvt Ltd,Online Securities Pvt. Ltd.,10,2584.3,25843.0,2025-08-20 11:18:56.530167

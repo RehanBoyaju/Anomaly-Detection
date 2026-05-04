@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,169394,2025072804000460,UMRH,Nepal Investment And Securities Trading Private Limited,Market Securities & Exchange (PVT) Ltd.,10,634.0,6340.0,2025-07-28T11:03:54.483961
 2025-07-28,169281,2025072804000484,UMRH,Dakshinkali Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,100,645.0,64500.0,2025-07-28T11:04:06.578088
 2025-07-28,169085,2025072804000525,UMRH,Nepal Investment And Securities Trading Private Limited,Midas Stock Broking Company Private Limited,90,645.1,58059.0,2025-07-28T11:04:30.633551

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44576,2025082605000193,NYADI,Global IME Securities Limited,Neev Securities Pvt. Ltd.,10,436.0,4360.0,2025-08-26 11:06:24.531134
 2025-08-26,42585,2025082605000914,NYADI,Primo Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,90,432.9,38961.0,2025-08-26 11:21:36.718925
 2025-08-26,42440,2025082605000974,NYADI,Primo Securities (PVT) Ltd.,Premier Securities Company Ltd.,10,432.9,4329.0,2025-08-26 11:22:28.044927

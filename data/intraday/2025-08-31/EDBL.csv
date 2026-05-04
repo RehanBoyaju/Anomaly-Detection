@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,81764,2025083103000543,EDBL,Dynamic Money Managers Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,200,630.4,126080.0,2025-08-31T11:25:37.746155
 2025-08-31,71382,2025083103001443,EDBL,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,50,633.3,31665.0,2025-08-31T11:49:38.2327
 2025-08-31,68307,2025083103001696,EDBL,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,100,638.0,63800.0,2025-08-31T11:57:28.157278

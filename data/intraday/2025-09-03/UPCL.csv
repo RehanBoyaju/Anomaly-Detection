@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,66979,2025090304000200,UPCL,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,20,382.0,7640.0,2025-09-03 11:07:50.338505
 2025-09-03,66035,2025090304000322,UPCL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,100,383.0,38300.0,2025-09-03 11:11:28.221448
 2025-09-03,65716,2025090304000357,UPCL,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,80,383.9,30712.0,2025-09-03 11:12:43.559344

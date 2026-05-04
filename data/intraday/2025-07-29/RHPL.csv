@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157468,2025072904000013,RHPL,Aryatara Investment & Securities,Sani Securities Company Ltd.,10,349.9,3499.0,2025-07-29 10:46:00.054396
 2025-07-29,157467,2025072904000014,RHPL,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,90,349.9,31491.0,2025-07-29 10:46:00.054438
 2025-07-29,155980,2025072904000241,RHPL,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,80,345.0,27600.0,2025-07-29 11:03:41.400099

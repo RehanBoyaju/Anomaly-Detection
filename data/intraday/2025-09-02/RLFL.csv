@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,84280,2025090203000094,RLFL,Blue Chip Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,474.0,4740.0,2025-09-02 11:08:07.738702
 2025-09-02,74885,2025090203000412,RLFL,Secured Securities Ltd.,Naasa Securities Co. Ltd.,50,471.0,23550.0,2025-09-02 11:27:35.980294
 2025-09-02,67299,2025090203000785,RLFL,Sundhara Securities Limited,Naasa Securities Co. Ltd.,20,470.9,9418.0,2025-09-02 11:45:34.097948

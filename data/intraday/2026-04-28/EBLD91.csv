@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 EBLD91,34,14,40,1070.0,42800.0,2026-04-28 11:40:32.628,2026042801027837
 EBLD91,58,35,25,1070.0,26750.0,2026-04-28 11:38:15.966,2026042801026711
 EBLD91,58,10,75,1069.0,80175.0,2026-04-28 11:37:55.166,2026042801026509

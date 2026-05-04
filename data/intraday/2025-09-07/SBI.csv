@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,52494,2025090701002133,SBI,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,385.0,7700.0,2025-09-07 11:32:07.102680
 2025-09-07,52493,2025090701002134,SBI,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,385.0,3850.0,2025-09-07 11:32:07.102768
 2025-09-07,49145,2025090701003346,SBI,Linch Stock Market Ltd.,Miyo Securities Pvt Ltd,50,385.3,19265.0,2025-09-07 11:46:31.588242

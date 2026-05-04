@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,69754,2025071404000962,CHCL,Ashutosh Brokerage & Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,500,523.0,261500.0,2025-07-14 11:09:16.369216
 2025-07-14,69585,2025071404001002,CHCL,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,20,522.0,10440.0,2025-07-14 11:09:56.059601
 2025-07-14,69584,2025071404001003,CHCL,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,11,522.0,5742.0,2025-07-14 11:09:56.059776

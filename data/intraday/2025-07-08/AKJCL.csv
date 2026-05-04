@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56242,2025070804000012,AKJCL,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,20,207.0,4140.0,2025-07-08 10:46:00.047061
 2025-07-08,56241,2025070804000013,AKJCL,J.F. Securites (PVT) Ltd.,Secured Securities Ltd.,80,207.0,16560.0,2025-07-08 10:46:00.047088
 2025-07-08,56141,2025070804000058,AKJCL,J.F. Securites (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,70,207.0,14490.0,2025-07-08 11:00:46.457607

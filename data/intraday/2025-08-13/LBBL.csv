@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70087,2025081303000003,LBBL,N.M.B. SECURITIES LIMITED,Swarna Laxmi Securities Pvt. Ltd.,10,548.7,5487.0,2025-08-13 10:46:00.023493
 2025-08-13,70086,2025081303000004,LBBL,N.M.B. SECURITIES LIMITED,Vision Securities Pvt. Ltd,10,548.7,5487.0,2025-08-13 10:46:00.023557
 2025-08-13,69807,2025081303000033,LBBL,Deevyaa Securities & Stock House Pvt. Ltd,ABC Securities Private Limited,10,559.6,5596.0,2025-08-13 11:01:13.921434

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88452,2025071004000044,API,Deevyaa Securities & Stock House Pvt. Ltd,NIMB Stock Markets Limited,4000,297.9,1191600.0,2025-07-10 11:00:55.529341
 2025-07-10,86238,2025071004000721,API,Online Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,36,295.0,10620.0,2025-07-10 11:10:51.383663
 2025-07-10,86139,2025071004000749,API,Creative Securities Pvt Ltd,Agrawal Securities (PVT) Ltd.,137,295.0,40415.0,2025-07-10 11:11:12.515067

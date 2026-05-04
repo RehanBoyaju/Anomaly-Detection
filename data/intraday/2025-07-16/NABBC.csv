@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98439,2025071603000152,NABBC,Sewa Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,1714.0,17140.0,2025-07-16 11:04:22.986656
 2025-07-16,92446,2025071603001343,NABBC,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,95,1690.0,160550.0,2025-07-16 11:21:23.389115
 2025-07-16,90123,2025071603001883,NABBC,Sri Hari Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,100,1685.0,168500.0,2025-07-16 11:27:28.252745

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MFIL,34,48,100,772.0,77200.0,2026-04-28 14:59:59.199,2026042803008672
 MFIL,57,51,300,773.0,231900.0,2026-04-28 14:59:49.534,2026042803008438
 MFIL,57,51,40,773.0,30920.0,2026-04-28 14:59:49.534,2026042803008437

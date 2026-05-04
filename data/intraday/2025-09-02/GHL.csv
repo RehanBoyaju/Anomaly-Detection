@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,84952,2025090204000119,GHL,Nepal Stock House (PVT) Ltd.,ABC Securities Private Limited,46,230.0,10580.0,2025-09-02 11:07:02.161217
 2025-09-02,84588,2025090204000135,GHL,Nepal Stock House (PVT) Ltd.,Sanima Securities Limited,10,230.0,2300.0,2025-09-02 11:07:29.719656
 2025-09-02,77508,2025090204000431,GHL,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,80,233.6,18688.0,2025-09-02 11:21:20.213574

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,60750,2025092303000946,EDBL,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,10,616.5,6165.0,2025-09-23 11:21:33.583708
 2025-09-23,56495,2025092303001666,EDBL,Malla & Malla Stock Broking Company Pvt. Limited,ABC Securities Private Limited,50,605.1,30255.0,2025-09-23 11:33:28.566103
 2025-09-23,56494,2025092303001667,EDBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,950,605.0,574750.0,2025-09-23 11:33:28.566159

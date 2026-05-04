@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67805,2025081804000073,BPCL,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,10,810.0,8100.0,2025-08-18T11:00:53.57757
 2025-08-18,67480,2025081804000125,BPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,10,825.0,8250.0,2025-08-18T11:03:42.609664
 2025-08-18,67368,2025081804000146,BPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,100,825.0,82500.0,2025-08-18T11:04:32.272757

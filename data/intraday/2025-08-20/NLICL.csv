@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53730,2025082003000012,NLICL,Sipla Securities Private Limited,Imperial Securities Company Pvt. Ltd.,10,606.0,6060.0,2025-08-20 11:01:07.881099
 2025-08-20,53701,2025082003000014,NLICL,Sipla Securities Private Limited,Trishakti Securities Public Limited,400,617.9,247160.0,2025-08-20 11:01:33.908144
 2025-08-20,52739,2025082003000121,NLICL,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,90,613.0,55170.0,2025-08-20 11:09:31.756879

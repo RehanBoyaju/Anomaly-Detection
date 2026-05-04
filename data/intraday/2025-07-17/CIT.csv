@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141268,2025071705000015,CIT,ABC Securities Private Limited,ABC Securities Private Limited,3,1936.3,5808.9,2025-07-17 11:00:43.053337
 2025-07-17,140896,2025071705000059,CIT,ABC Securities Private Limited,ABC Securities Private Limited,1,1936.3,1936.3,2025-07-17 11:01:58.687102
 2025-07-17,138350,2025071705000519,CIT,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,1990.0,19900.0,2025-07-17 11:07:36.567986

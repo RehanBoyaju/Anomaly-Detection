@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108572,2025092101000107,SBL,Nepal Investment And Securities Trading Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,300,356.8,107040.0,2025-09-21 10:46:00.040124
 2025-09-21,108571,2025092101000108,SBL,Nepal Investment And Securities Trading Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,300,356.8,107040.0,2025-09-21 10:46:00.040161
 2025-09-21,108570,2025092101000109,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,100,356.8,35680.0,2025-09-21 10:46:00.040211

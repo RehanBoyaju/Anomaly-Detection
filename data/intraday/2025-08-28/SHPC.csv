@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78363,2025082804000002,SHPC,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,10,587.8,5878.0,2025-08-28 10:46:00.029668
 2025-08-28,78279,2025082804000031,SHPC,Deevyaa Securities & Stock House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,100,578.0,57800.0,2025-08-28 11:00:32.338103
 2025-08-28,78069,2025082804000099,SHPC,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,100,576.1,57610.0,2025-08-28 11:01:57.862291

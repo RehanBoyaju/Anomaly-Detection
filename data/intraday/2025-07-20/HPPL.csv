@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176908,2025072004000424,HPPL,Garima Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,20,527.0,10540.0,2025-07-20T11:02:14.013725
 2025-07-20,176783,2025072004000466,HPPL,Garima Securities Limited,Siprabi Securities Pvt. Ltd.,10,527.0,5270.0,2025-07-20T11:02:23.954568
 2025-07-20,175691,2025072004000925,HPPL,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,200,528.0,105600.0,2025-07-20T11:03:52.187939

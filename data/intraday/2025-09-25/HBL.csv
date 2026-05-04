@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37559,2025092501000001,HBL,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,10,194.8,1948.0,2025-09-25 10:46:00.007417
 2025-09-25,37558,2025092501000002,HBL,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,10,194.8,1948.0,2025-09-25 10:46:00.007467
 2025-09-25,37557,2025092501000003,HBL,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,10,194.8,1948.0,2025-09-25 10:46:00.007512

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68634,2025090404000131,CHCL,Siprabi Securities Pvt. Ltd.,Global IME Securities Limited,25,502.0,12550.0,2025-09-04T11:02:54.25499
 2025-09-04,68229,2025090404000276,CHCL,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,103,502.0,51706.0,2025-09-04T11:05:14.412003
 2025-09-04,68184,2025090404000295,CHCL,Agrawal Securities (PVT) Ltd.,Property Wiard Limited,10,511.0,5110.0,2025-09-04T11:05:29.617962

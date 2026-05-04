@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7209,2025091803000046,SHINE,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,100,410.1,41010.0,2025-09-18 10:46:00.074129
 2025-09-18,7208,2025091803000047,SHINE,Himalayan Securities Limited,Thrive Brokerage House Pvt. Ltd,25,410.1,10252.5,2025-09-18 10:46:00.074170
 2025-09-18,6892,2025091803000134,SHINE,Imperial Securities Company Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,200,406.5,81300.0,2025-09-18 10:46:00.185328

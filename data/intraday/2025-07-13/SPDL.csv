@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105095,2025071304000090,SPDL,Online Securities Pvt. Ltd.,Capital Hub P. Ltd,10,407.5,4075.0,2025-07-13T10:46:00.06933
 2025-07-13,105094,2025071304000091,SPDL,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,90,407.5,36675.0,2025-07-13T10:46:00.069357
 2025-07-13,105093,2025071304000092,SPDL,Neev Securities Pvt. Ltd.,Trishakti Securities Public Limited,410,407.5,167075.0,2025-07-13T10:46:00.069375

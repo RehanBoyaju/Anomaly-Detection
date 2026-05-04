@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PHCL,25,56,2168,305.0,661240.0,2026-04-28 14:59:58.431,2026042805016529
 PHCL,25,58,2722,304.9,829937.7999999999,2026-04-28 14:59:58.431,2026042805016528
 PHCL,25,13,110,304.2,33462.0,2026-04-28 14:59:58.431,2026042805016527

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53745,2025082003000011,SIFC,K.B.L. Securities Limited ,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,524.0,5240.0,2025-08-20 11:01:03.919279
 2025-08-20,45418,2025082003001015,SIFC,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,100,523.8,52380.0,2025-08-20 11:50:45.254661
 2025-08-20,45234,2025082003001041,SIFC,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,100,523.0,52300.0,2025-08-20 11:51:34.649172

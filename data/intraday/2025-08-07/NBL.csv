@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95373,2025080701000223,NBL,Siprabi Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,10,291.9,2919.0,2025-08-07 11:01:20.006321
 2025-08-07,95035,2025080701000363,NBL,Linch Stock Market Ltd.,Trisul Securities & Invt. Ltd.,25,291.9,7297.5,2025-08-07 11:02:44.996848
 2025-08-07,94963,2025080701000385,NBL,Miyo Securities Pvt Ltd,Trisul Securities & Invt. Ltd.,65,291.9,18973.5,2025-08-07 11:02:58.345712

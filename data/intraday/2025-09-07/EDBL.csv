@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,53922,2025090703000355,EDBL,Malla & Malla Stock Broking Company Pvt. Limited,INDEX SECURITIES LIMITED,100,618.1,61810.0,2025-09-07 11:25:07.526985
 2025-09-07,53921,2025090703000356,EDBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,INDEX SECURITIES LIMITED,100,618.1,61810.0,2025-09-07 11:25:07.527099
 2025-09-07,53920,2025090703000357,EDBL,Hatemalo Financial Services Private Limited,INDEX SECURITIES LIMITED,500,618.0,309000.0,2025-09-07 11:25:07.527177

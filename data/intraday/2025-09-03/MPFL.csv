@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67857,2025090303000046,MPFL,Siprabi Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,590.0,5900.0,2025-09-03 11:03:56.370281
 2025-09-03,59905,2025090303000528,MPFL,Agrawal Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,500,587.0,293500.0,2025-09-03 11:34:25.875969
 2025-09-03,55711,2025090303000893,MPFL,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,20,586.9,11738.0,2025-09-03 11:50:18.170152

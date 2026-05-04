@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89375,2025090201000354,SBL,Sri Hari Securities Pvt. Ltd.,Sweta Securities Private Limited,10,396.5,3965.0,2025-09-02 10:46:00.123924
 2025-09-02,88702,2025090201000980,SBL,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,100,394.0,39400.0,2025-09-02 11:01:10.813786
 2025-09-02,87570,2025090201001970,SBL,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,100,393.0,39300.0,2025-09-02 11:02:38.226781

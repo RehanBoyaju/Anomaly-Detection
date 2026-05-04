@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7386,2025091803000010,LICN,Linch Stock Market Ltd.,Property Wiard Limited,10,820.0,8200.0,2025-09-18 10:46:00.021486
 2025-09-18,7382,2025091803000011,LICN,K.B.L. Securities Limited ,Property Wiard Limited,70,820.0,57400.0,2025-09-18 10:46:00.021554
 2025-09-18,6651,2025091803000162,LICN,Sundhara Securities Limited,Naasa Securities Co. Ltd.,500,819.1,409550.0,2025-09-18 11:00:22.021149

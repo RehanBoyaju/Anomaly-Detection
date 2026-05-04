@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76162,2025081404000069,UNHPL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,386.0,3860.0,2025-08-14 11:02:04.419397
 2025-08-14,72157,2025081404000638,UNHPL,Shree Krishna Securities Ltd.,J.F. Securites (PVT) Ltd.,200,381.0,76200.0,2025-08-14 11:18:34.839841
 2025-08-14,72156,2025081404000639,UNHPL,Kohinoor Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,100,380.0,38000.0,2025-08-14 11:18:34.840011

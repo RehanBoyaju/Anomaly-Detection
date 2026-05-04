@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,45054,2025092403000511,NLICL,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,17,591.0,10047.0,2025-09-24 11:14:08.077412
 2025-09-24,43482,2025092403000757,NLICL,Sumeru Securities Pvt. Ltd.,Kumari Securities Private Limited,46,591.0,27186.0,2025-09-24 11:20:40.314035
 2025-09-24,43451,2025092403000761,NLICL,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,40,594.0,23760.0,2025-09-24 11:20:43.717908

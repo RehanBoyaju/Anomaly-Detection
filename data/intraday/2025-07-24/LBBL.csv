@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154477,2025072403000030,LBBL,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,14,558.0,7812.0,2025-07-24 11:00:14.365628
 2025-07-24,154260,2025072403000054,LBBL,Indira securities pvt. ltd,Sri Hari Securities Pvt. Ltd.,200,552.1,110420.0,2025-07-24 11:00:52.759615
 2025-07-24,154120,2025072403000073,LBBL,Indira securities pvt. ltd,Kalika Securities Pvt. Ltd.,93,553.1,51438.3,2025-07-24 11:01:16.675047

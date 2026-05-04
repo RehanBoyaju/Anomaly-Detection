@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62823,2025070903000005,SINDU,Malla & Malla Stock Broking Company Pvt. Limited,Hatemalo Financial Services Private Limited,10,915.4,9154.0,2025-07-09 10:46:00.041481
 2025-07-09,62797,2025070903000011,SINDU,Arun Securities (PVT) Ltd.,Linch Stock Market Ltd.,10,900.0,9000.0,2025-07-09 11:00:07.004508
 2025-07-09,62547,2025070903000032,SINDU,Malla & Malla Stock Broking Company Pvt. Limited,Hatemalo Financial Services Private Limited,10,915.0,9150.0,2025-07-09 11:02:27.984681

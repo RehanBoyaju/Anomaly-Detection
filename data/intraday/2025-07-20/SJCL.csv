@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,175759,2025072004000888,SJCL,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,30,327.0,9810.0,2025-07-20T11:03:45.538868
 2025-07-20,175758,2025072004000889,SJCL,Aryatara Investment & Securities,J.F. Securites (PVT) Ltd.,230,327.0,75210.0,2025-07-20T11:03:45.538937
 2025-07-20,174843,2025072004001220,SJCL,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,20,327.0,6540.0,2025-07-20T11:04:55.628123

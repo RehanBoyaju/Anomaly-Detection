@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105066,2025071304000106,KPCL,Hatemalo Financial Services Private Limited,Siprabi Securities Pvt. Ltd.,100,544.8,54480.0,2025-07-13T10:46:00.081197
 2025-07-13,104300,2025071304000315,KPCL,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,50,544.0,27200.0,2025-07-13T11:00:43.438931
 2025-07-13,103313,2025071304000526,KPCL,Himalayan Brokerage Company Limited,Siprabi Securities Pvt. Ltd.,70,544.0,38080.0,2025-07-13T11:01:32.200689

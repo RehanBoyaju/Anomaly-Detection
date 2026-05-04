@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67338,2025092304000008,PMHPL,Creative Securities Pvt Ltd,N.I.M.B. Stock Markets Limited,500,346.0,173000.0,2025-09-23 10:46:00.029587
 2025-09-23,67337,2025092304000009,PMHPL,Creative Securities Pvt Ltd,Himalayan Securities Limited,500,346.0,173000.0,2025-09-23 10:46:00.029623
 2025-09-23,67254,2025092304000031,PMHPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Himalayan Securities Limited,150,340.0,51000.0,2025-09-23 11:00:39.324532

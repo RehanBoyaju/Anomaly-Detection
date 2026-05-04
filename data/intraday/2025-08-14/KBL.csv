@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76412,2025081401000016,KBL,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,11,208.0,2288.0,2025-08-14 11:00:51.117466
 2025-08-14,76303,2025081401000058,KBL,Asian Securities Private Ltd.,Indira securities pvt. ltd,10,206.0,2060.0,2025-08-14 11:01:29.534272
 2025-08-14,75816,2025081401000183,KBL,Sundhara Securities Limited,Online Securities Pvt. Ltd.,489,208.0,101712.0,2025-08-14 11:04:31.035086

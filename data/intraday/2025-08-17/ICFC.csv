@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,84013,2025081703000293,ICFC,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,10,680.0,6800.0,2025-08-17 11:08:02.545778
 2025-08-17,76704,2025081703001185,ICFC,Asian Securities Private Ltd.,Nepal Investment And Securities Trading Private Limited,500,679.0,339500.0,2025-08-17 11:27:58.298417
 2025-08-17,76419,2025081703001230,ICFC,Dynamic Money Managers Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,490,679.9,333151.0,2025-08-17 11:28:39.259955

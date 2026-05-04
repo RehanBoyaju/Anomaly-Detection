@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,60680,2025081904000464,RURU,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,10,744.1,7441.0,2025-08-19 11:07:38.630580
 2025-08-19,60543,2025081904000499,RURU,Arun Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,12,745.0,8940.0,2025-08-19 11:08:23.171730
 2025-08-19,56535,2025081904001463,RURU,Midas Stock Broking Company Private Limited,Premier Securities Company Ltd.,13,748.5,9730.5,2025-08-19 11:27:34.120467

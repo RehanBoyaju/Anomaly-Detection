@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140485,2025071705000116,NIFRA,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,285.0,85500.0,2025-07-17 11:02:58.242796
 2025-07-17,140484,2025071705000117,NIFRA,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,200,285.0,57000.0,2025-07-17 11:02:58.242914
 2025-07-17,140419,2025071705000133,NIFRA,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sri Hari Securities Pvt. Ltd.,300,285.0,85500.0,2025-07-17 11:03:10.298675

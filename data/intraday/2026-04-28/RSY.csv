@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RSY,22,49,100,9.97,997.0,2026-04-28 14:24:41.904,2026042801089797
 RSY,42,7,100,9.96,996.0,2026-04-28 14:08:46.291,2026042801082686
 RSY,42,57,100,9.96,996.0,2026-04-28 14:01:44.409,2026042801079730

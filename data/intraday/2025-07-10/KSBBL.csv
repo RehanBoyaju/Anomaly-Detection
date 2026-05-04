@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87828,2025071003000106,KSBBL,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,66,470.0,31020.0,2025-07-10 11:04:22.442655
 2025-07-10,87827,2025071003000107,KSBBL,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,79,470.8,37193.2,2025-07-10 11:04:22.442748
 2025-07-10,87826,2025071003000108,KSBBL,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,621,470.9,292428.9,2025-07-10 11:04:22.442816

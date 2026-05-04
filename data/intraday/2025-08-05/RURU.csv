@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130152,2025080504000044,RURU,Sajilo Broker Limited,Naasa Securities Co. Ltd.,10,732.1,7321.0,2025-08-05 11:01:01.639291
 2025-08-05,121539,2025080504000347,RURU,Linch Stock Market Ltd.,Opal Securities Investment (PVT) Ltd.,10,741.0,7410.0,2025-08-05 11:07:08.050610
 2025-08-05,115422,2025080504000717,RURU,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,100,755.8,75580.0,2025-08-05 11:12:52.284996

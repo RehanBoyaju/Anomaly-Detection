@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,86923,2025071003000209,SIFC,Malla & Malla Stock Broking Company Pvt. Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,185,533.2,98642.0,2025-07-10 11:08:32.098198
 2025-07-10,85055,2025071003000514,SIFC,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,15,533.2,7998.0,2025-07-10 11:15:08.529098
 2025-07-10,85054,2025071003000515,SIFC,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,220,533.2,117304.0,2025-07-10 11:15:08.529202

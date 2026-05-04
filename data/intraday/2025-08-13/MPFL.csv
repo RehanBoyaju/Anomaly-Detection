@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70060,2025081303000018,MPFL,Sweta Securities Private Limited,Swarna Laxmi Securities Pvt. Ltd.,10,602.8,6028.0,2025-08-13 10:46:00.036301
 2025-08-13,67265,2025081303000368,MPFL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,614.8,6148.0,2025-08-13 11:15:00.399400
 2025-08-13,66439,2025081303000472,MPFL,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,10,618.0,6180.0,2025-08-13 11:18:48.773529

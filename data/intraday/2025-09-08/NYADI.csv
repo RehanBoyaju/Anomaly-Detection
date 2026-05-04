@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59366,2025090805000062,NYADI,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,50,402.0,20100.0,2025-09-08 11:03:23.543129
 2025-09-08,59365,2025090805000063,NYADI,Miyo Securities Pvt Ltd,Sani Securities Company Ltd.,10,402.0,4020.0,2025-09-08 11:03:23.543186
 2025-09-08,59351,2025090805000066,NYADI,Trishakti Securities Public Limited,Trisul Securities & Invt. Ltd.,70,401.8,28126.0,2025-09-08 11:03:32.615581

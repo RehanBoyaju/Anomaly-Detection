@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86876,2025070601000108,MKJC,Pragyan Securities (PVT) Ltd.,Sanima Securities Limited,300,555.0,166500.0,2025-07-06 11:02:15.832550
 2025-07-06,86290,2025070601000206,MKJC,Deevyaa Securities & Stock House Pvt. Ltd,N.M.B. SECURITIES LIMITED,500,550.0,275000.0,2025-07-06 11:04:33.784271
 2025-07-06,85641,2025070601000333,MKJC,Sundhara Securities Limited,Sanima Securities Limited,200,546.0,109200.0,2025-07-06 11:06:42.080161

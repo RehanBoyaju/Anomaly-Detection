@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130951,2025080503000001,NABBC,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,10,1699.0,16990.0,2025-08-05 10:46:00.007853
 2025-08-05,130770,2025080503000013,NABBC,Naasa Securities Co. Ltd.,ABC Securities Private Limited,10,1699.0,16990.0,2025-08-05 11:00:14.699456
 2025-08-05,130188,2025080503000018,NABBC,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,10,1699.0,16990.0,2025-08-05 11:01:00.649918

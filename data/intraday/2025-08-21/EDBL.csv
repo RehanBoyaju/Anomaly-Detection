@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,54124,2025082103000357,EDBL,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,100,626.0,62600.0,2025-08-21 11:22:45.764283
 2025-08-21,51776,2025082103000662,EDBL,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,3,622.0,1866.0,2025-08-21 11:36:48.252097
 2025-08-21,50937,2025082103000768,EDBL,Sri Hari Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,40,623.4,24936.0,2025-08-21 11:42:36.402305

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105262,2025071303000036,SIFC,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,543.2,108640.0,2025-07-13T10:46:00.038652
 2025-07-13,103968,2025071303000378,SIFC,Creative Securities Pvt Ltd,Secured Securities Ltd.,100,550.0,55000.0,2025-07-13T11:01:01.993885
 2025-07-13,103199,2025071303000507,SIFC,Sani Securities Company Ltd.,Secured Securities Ltd.,100,550.0,55000.0,2025-07-13T11:01:37.749317

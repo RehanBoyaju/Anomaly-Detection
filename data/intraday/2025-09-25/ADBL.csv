@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37255,2025092501000095,ADBL,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,50,311.0,15550.0,2025-09-25 11:03:01.739343
 2025-09-25,35690,2025092501000564,ADBL,Secured Securities Ltd.,Kumari Securities Private Limited,52,314.0,16328.0,2025-09-25 11:16:05.951625
 2025-09-25,35146,2025092501000712,ADBL,Secured Securities Ltd.,Aakashbhairab Securities Ltd.,10,315.0,3150.0,2025-09-25 11:20:38.948661

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76318,2025081404000040,AKPL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,268.0,53600.0,2025-08-14 11:01:19.391172
 2025-08-14,76261,2025081404000044,AKPL,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,10,264.0,2640.0,2025-08-14 11:01:39.723307
 2025-08-14,76152,2025081404000071,AKPL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,90,268.0,24120.0,2025-08-14 11:02:09.005849

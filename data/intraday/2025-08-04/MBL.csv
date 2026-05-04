@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,147703,2025080401001040,MBL,Sagarmatha Securities Private Limited,Imperial Securities Company Pvt. Ltd.,900,248.0,223200.0,2025-08-04 11:01:57.411744
 2025-08-04,146634,2025080401001802,MBL,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,4000,250.0,1000000.0,2025-08-04 11:03:00.437765
 2025-08-04,146633,2025080401001803,MBL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,500,250.0,125000.0,2025-08-04 11:03:00.437812

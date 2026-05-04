@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87348,2025070601000008,GBIME,Linch Stock Market Ltd.,Creative Securities Pvt Ltd,36,245.4,8834.4,2025-07-06 10:46:00.043172
 2025-07-06,87347,2025070601000009,GBIME,Linch Stock Market Ltd.,Nepal Stock House (PVT) Ltd.,14,245.4,3435.6,2025-07-06 10:46:00.043213
 2025-07-06,87346,2025070601000010,GBIME,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,10,245.4,2454.0,2025-07-06 10:46:00.043241

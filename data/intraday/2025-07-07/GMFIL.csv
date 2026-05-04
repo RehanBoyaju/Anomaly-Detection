@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69856,2025070703000502,GMFIL,Shree Krishna Securities Ltd.,Opal Securities Investment (PVT) Ltd.,555,496.1,275335.5,2025-07-07 11:07:19.339042
 2025-07-07,69662,2025070703000566,GMFIL,Kumari Securities Private Limited,Capital Max Securities Ltd,500,496.1,248050.0,2025-07-07 11:08:02.996252
 2025-07-07,69661,2025070703000567,GMFIL,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,400,496.0,198400.0,2025-07-07 11:08:02.996310

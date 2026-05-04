@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177472,2025072003000202,SADBL,Online Securities Pvt. Ltd.,ABC Securities Private Limited,50,462.0,23100.0,2025-07-20T11:01:21.390008
 2025-07-20,177471,2025072003000203,SADBL,Online Securities Pvt. Ltd.,ABC Securities Private Limited,65,463.0,30095.0,2025-07-20T11:01:21.390095
 2025-07-20,177470,2025072003000204,SADBL,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,200,465.0,93000.0,2025-07-20T11:01:21.390132

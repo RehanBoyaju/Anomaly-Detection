@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56465,2025082504000022,CGH,Investment Management Nepal Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,20,1025.0,20500.0,2025-08-25 11:03:12.295812
 2025-08-25,55417,2025082504000108,CGH,Cristal Kanchanjanga Securites Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,500,1025.0,512500.0,2025-08-25 11:08:16.677995
 2025-08-25,53626,2025082504000368,CGH,Oxford Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,15,1021.5,15322.5,2025-08-25 11:17:28.015635

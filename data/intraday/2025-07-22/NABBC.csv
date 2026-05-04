@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,167737,2025072203004052,NABBC,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,11,1650.0,18150.0,2025-07-22 11:16:27.935082
 2025-07-22,167252,2025072203004248,NABBC,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,20,1650.0,33000.0,2025-07-22 11:17:17.321311
 2025-07-22,152755,2025072203009480,NABBC,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,100,1619.0,161900.0,2025-07-22 11:38:57.089053

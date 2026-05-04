@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85108,2025081704000236,PPCL,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,20,335.1,6702.0,2025-08-17 11:04:53.678496
 2025-08-17,83212,2025081704000571,PPCL,Sharepro Securities Private Limited,Vision Securities Pvt. Ltd,10,340.0,3400.0,2025-08-17 11:10:21.217672
 2025-08-17,83024,2025081704000599,PPCL,Capital Max Securities Ltd,Malla & Malla Stock Broking Company Pvt. Limited,95,341.0,32395.0,2025-08-17 11:10:56.058954

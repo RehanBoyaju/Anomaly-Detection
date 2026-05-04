@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108540,2025092105000082,NIFRA,Sajilo Broker Limited,ABC Securities Private Limited,50,254.0,12700.0,2025-09-21 10:46:00.043624
 2025-09-21,108539,2025092105000083,NIFRA,Sajilo Broker Limited,Asian Securities Private Ltd.,50,254.0,12700.0,2025-09-21 10:46:00.043664
 2025-09-21,108538,2025092105000084,NIFRA,Sajilo Broker Limited,Asian Securities Private Ltd.,4,254.0,1016.0,2025-09-21 10:46:00.043712

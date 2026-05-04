@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68528,2025090305000006,MKJC,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,10,592.6,5926.0,2025-09-03 10:46:00.050559
 2025-09-03,68498,2025090305000018,MKJC,KALASH STOCK MARKET PVT. LTD.,Deevyaa Securities & Stock House Pvt. Ltd,100,585.0,58500.0,2025-09-03 11:00:14.663934
 2025-09-03,68394,2025090305000048,MKJC,KALASH STOCK MARKET PVT. LTD.,Deevyaa Securities & Stock House Pvt. Ltd,500,581.1,290550.0,2025-09-03 11:01:12.320164

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,168027,2025072301000484,SPC,Elite Stock House Limited,Naasa Securities Co. Ltd.,10,542.0,5420.0,2025-07-23 11:03:27.230636
 2025-07-23,167990,2025072301000489,SPC,Elite Stock House Limited,Sani Securities Company Ltd.,11,549.9,6048.9,2025-07-23 11:03:30.249484
 2025-07-23,167420,2025072301000593,SPC,Thrive Brokerage House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,200,548.0,109600.0,2025-07-23 11:04:15.612285

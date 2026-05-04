@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,166221,2025073103000590,EDBL,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,10,670.1,6701.0,2025-07-31 11:05:13.626237
 2025-07-31,161924,2025073103001500,EDBL,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,51,670.1,34175.1,2025-07-31 11:11:30.016646
 2025-07-31,158254,2025073103002216,EDBL,Nepal Stock House (PVT) Ltd.,BHOLE GANESH SECURITIES LTD,32,679.9,21756.8,2025-07-31 11:16:18.573093

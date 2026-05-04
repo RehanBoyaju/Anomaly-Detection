@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,60331,2025070903000295,MDB,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,100,594.9,59490.0,2025-07-09 11:14:52.949819
 2025-07-09,60239,2025070903000305,MDB,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,50,594.0,29700.0,2025-07-09 11:15:30.921376
 2025-07-09,60231,2025070903000308,MDB,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,11,594.9,6543.9,2025-07-09 11:15:36.323282

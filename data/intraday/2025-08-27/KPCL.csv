@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72345,2025082704000034,KPCL,Sweta Securities Private Limited,Kalika Securities Pvt. Ltd.,300,585.0,175500.0,2025-08-27T11:01:49.029451
 2025-08-27,71967,2025082704000070,KPCL,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,50,580.1,29005.0,2025-08-27T11:05:17.718773
 2025-08-27,71966,2025082704000071,KPCL,Agrawal Securities (PVT) Ltd.,Miyo Securities Pvt Ltd,85,580.0,49300.0,2025-08-27T11:05:17.718832

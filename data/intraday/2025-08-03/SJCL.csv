@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,143853,2025080304001026,SJCL,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,40,321.1,12844.0,2025-08-03T11:12:40.045967
 2025-08-03,142376,2025080304001256,SJCL,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,10,321.1,3211.0,2025-08-03T11:14:40.868444
 2025-08-03,139362,2025080304001772,SJCL,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,100,322.0,32200.0,2025-08-03T11:18:42.971258

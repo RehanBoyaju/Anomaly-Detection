@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,67295,2025081304000634,TRH,Citizens Share Broker Limited,Naasa Securities Co. Ltd.,10,950.0,9500.0,2025-08-13 11:14:47.836887
 2025-08-13,67294,2025081304000635,TRH,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,300,948.1,284430.0,2025-08-13 11:14:47.836928
 2025-08-13,67293,2025081304000636,TRH,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,90,948.0,85320.0,2025-08-13 11:14:47.836953

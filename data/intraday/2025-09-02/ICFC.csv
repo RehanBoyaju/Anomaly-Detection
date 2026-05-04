@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,84739,2025090203000083,ICFC,Blue Chip Securities Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,10,675.0,6750.0,2025-09-02 11:07:11.580156
 2025-09-02,73053,2025090203000495,ICFC,Dakshinkali Investment & Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,38,665.2,25277.6,2025-09-02 11:31:56.596751
 2025-09-02,72817,2025090203000504,ICFC,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,5,659.0,3295.0,2025-09-02 11:32:22.831767

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47670,2025092404000080,GLH,Siprabi Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,264.0,2640.0,2025-09-24 11:00:56.175570
 2025-09-24,46757,2025092404000322,GLH,Opal Securities Investment (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,20,260.0,5200.0,2025-09-24 11:06:04.846794
 2025-09-24,46756,2025092404000323,GLH,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,30,260.0,7800.0,2025-09-24 11:06:04.846884

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86322,2025081704000065,RURU,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,730.1,7301.0,2025-08-17 11:01:13.407382
 2025-08-17,84565,2025081704000330,RURU,Dakshinkali Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,100,740.0,74000.0,2025-08-17 11:06:33.985274
 2025-08-17,83156,2025081704000581,RURU,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,50,754.0,37700.0,2025-08-17 11:10:31.838268

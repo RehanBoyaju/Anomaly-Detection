@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141304,2025073003000052,SAPDBL,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,400,920.0,368000.0,2025-07-30 11:00:35.197883
 2025-07-30,136338,2025073003001097,SAPDBL,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,71,921.0,65391.0,2025-07-30 11:11:28.268342
 2025-07-30,135569,2025073003001291,SAPDBL,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,100,917.0,91700.0,2025-07-30 11:12:43.608257

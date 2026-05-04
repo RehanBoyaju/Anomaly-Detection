@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168318,2025073101000050,CZBIL,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,400,230.0,92000.0,2025-07-31 11:00:53.770050
 2025-07-31,167341,2025073101000273,CZBIL,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,20,230.0,4600.0,2025-07-31 11:03:00.049352
 2025-07-31,166216,2025073101000648,CZBIL,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,180,230.0,41400.0,2025-07-31 11:05:14.238318

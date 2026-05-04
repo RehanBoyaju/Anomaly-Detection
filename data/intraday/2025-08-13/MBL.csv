@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69151,2025081301000410,MBL,Sewa Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,256.8,2568.0,2025-08-13 11:05:39.466959
 2025-08-13,67168,2025081301001008,MBL,Miyo Securities Pvt Ltd,Premier Securities Company Ltd.,25,255.0,6375.0,2025-08-13 11:15:26.840345
 2025-08-13,67167,2025081301001009,MBL,Miyo Securities Pvt Ltd,South Asian Bulls Pvt. Ltd.,200,255.0,51000.0,2025-08-13 11:15:26.840455

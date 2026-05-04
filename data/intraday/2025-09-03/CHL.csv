@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67983,2025090304000089,CHL,Sumeru Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,11,260.0,2860.0,2025-09-03 11:03:17.907852
 2025-09-03,66034,2025090304000323,CHL,Pragyan Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,60,260.1,15606.0,2025-09-03 11:11:29.172118
 2025-09-03,66033,2025090304000324,CHL,K.B.L. Securities Limited ,SUN SECURITIES PVT LTD,200,260.1,52020.0,2025-09-03 11:11:29.172232

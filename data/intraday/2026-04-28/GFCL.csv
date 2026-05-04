@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GFCL,60,63,131,621.5,81416.5,2026-04-28 14:57:22.122,2026042803008045
 GFCL,60,58,10,621.5,6215.0,2026-04-28 14:57:12.305,2026042803008022
 GFCL,48,63,49,623.0,30527.0,2026-04-28 14:57:02.021,2026042803008011

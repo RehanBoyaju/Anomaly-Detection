@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69455,2025070703000630,SIFC,MILKY WAY SHARE BROKER COMPANY LTD ,Sweta Securities Private Limited,200,542.5,108500.0,2025-07-07 11:08:48.878187
 2025-07-07,69454,2025070703000631,SIFC,Miyo Securities Pvt Ltd,Sweta Securities Private Limited,800,542.3,433840.0,2025-07-07 11:08:48.878237
 2025-07-07,69267,2025070703000703,SIFC,Miyo Securities Pvt Ltd,Premier Securities Company Ltd.,200,542.3,108460.0,2025-07-07 11:09:29.707452

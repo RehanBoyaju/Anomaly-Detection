@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44514,2025082603000178,PROFL,SHUBHAKAMANA SECURITIES PVT. LTD,Secured Securities Ltd.,10,503.5,5035.0,2025-08-26 11:06:59.053133
 2025-08-26,44474,2025082603000187,PROFL,Cristal Kanchanjanga Securites Pvt. Ltd.,Secured Securities Ltd.,10,503.4,5034.0,2025-08-26 11:07:20.842487
 2025-08-26,43876,2025082603000301,PROFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,250,500.0,125000.0,2025-08-26 11:12:21.959689

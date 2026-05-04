@@ -1,39 +1,39 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026042903000053,PFL,58,58,50,374.0,18700.0,2026-04-29,188418343,236,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:00:27.773378,Pokhara Finance Ltd.
-2026042903000087,PFL,58,41,100,374.0,37400.0,2026-04-29,188420929,236,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-29 11:02:53.800279,Pokhara Finance Ltd.
-2026042903000140,PFL,16,6,78,380.0,29640.0,2026-04-29,188424852,236,Primo Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-29 11:06:10.892440,Pokhara Finance Ltd.
-2026042903000592,PFL,7,88,10,378.0,3780.0,2026-04-29,188455077,236,J.F. Securites (PVT) Ltd.,Blue Chip Securities Ltd,2026-04-29 11:28:37.880981,Pokhara Finance Ltd.
-2026042903001292,PFL,7,38,30,378.0,11340.0,2026-04-29,188482008,236,J.F. Securites (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 11:56:45.365139,Pokhara Finance Ltd.
-2026042903001296,PFL,58,38,40,377.1,15084.0,2026-04-29,188482263,236,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 11:56:59.001172,Pokhara Finance Ltd.
-2026042903002071,PFL,58,62,110,377.1,41481.0,2026-04-29,188509920,236,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-29 12:28:30.139905,Pokhara Finance Ltd.
-2026042903002072,PFL,44,62,100,377.1,37710.0,2026-04-29,188509922,236,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 12:28:30.140009,Pokhara Finance Ltd.
-2026042903002073,PFL,44,62,300,377.0,113100.0,2026-04-29,188509924,236,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 12:28:30.140119,Pokhara Finance Ltd.
-2026042903002149,PFL,34,34,200,377.1,75420.0,2026-04-29,188513718,236,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-29 12:33:22.141403,Pokhara Finance Ltd.
-2026042903002150,PFL,6,34,50,377.0,18850.0,2026-04-29,188513720,236,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:33:22.141504,Pokhara Finance Ltd.
-2026042903002151,PFL,42,34,197,377.0,74269.0,2026-04-29,188513721,236,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:33:22.141544,Pokhara Finance Ltd.
-2026042903002461,PFL,33,49,53,377.1,19986.3,2026-04-29,188520959,236,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:44:04.842920,Pokhara Finance Ltd.
-2026042903002477,PFL,33,49,147,377.1,55433.7,2026-04-29,188521192,236,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:44:32.417541,Pokhara Finance Ltd.
-2026042903002491,PFL,42,49,53,377.0,19981.0,2026-04-29,188521809,236,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:45:48.073382,Pokhara Finance Ltd.
-2026042903002629,PFL,42,49,34,377.0,12818.0,2026-04-29,188524823,236,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:51:13.220040,Pokhara Finance Ltd.
-2026042903002942,PFL,4,6,30,377.2,11316.0,2026-04-29,188535778,236,Opal Securities Investment (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-29 13:09:45.262748,Pokhara Finance Ltd.
-2026042903002943,PFL,58,6,18,377.1,6787.8,2026-04-29,188535779,236,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-29 13:09:45.262928,Pokhara Finance Ltd.
-2026042903003475,PFL,47,7,2,370.0,740.0,2026-04-29,188546009,236,Neev Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-29 13:27:21.497513,Pokhara Finance Ltd.
-2026042903004667,PFL,58,58,17,377.1,6410.7,2026-04-29,188570978,236,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:11:20.091921,Pokhara Finance Ltd.
-2026042903004668,PFL,58,58,35,377.1,13198.5,2026-04-29,188570980,236,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:11:20.092058,Pokhara Finance Ltd.
-2026042903004669,PFL,42,58,148,377.0,55796.0,2026-04-29,188570981,236,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:11:20.092107,Pokhara Finance Ltd.
-2026042903005082,PFL,42,39,30,379.0,11370.0,2026-04-29,188578432,236,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:22:54.672661,Pokhara Finance Ltd.
-2026042903005203,PFL,4,39,520,379.0,197080.0,2026-04-29,188581731,236,Opal Securities Investment (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:26:54.456493,Pokhara Finance Ltd.
-2026042903005204,PFL,4,58,265,379.0,100435.0,2026-04-29,188581733,236,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:26:54.456739,Pokhara Finance Ltd.
-2026042903005205,PFL,4,22,213,379.0,80727.0,2026-04-29,188581735,236,Opal Securities Investment (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 14:26:54.456866,Pokhara Finance Ltd.
-2026042903005206,PFL,4,58,25,379.5,9487.5,2026-04-29,188581737,236,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:26:54.456991,Pokhara Finance Ltd.
-2026042903005207,PFL,4,62,765,380.0,290700.0,2026-04-29,188581739,236,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-29 14:26:54.457184,Pokhara Finance Ltd.
-2026042903005208,PFL,4,48,843,380.0,320340.0,2026-04-29,188581742,236,Opal Securities Investment (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-29 14:26:54.457311,Pokhara Finance Ltd.
-2026042903005839,PFL,39,32,20,377.3,7546.0,2026-04-29,188596649,236,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-29 14:41:17.683252,Pokhara Finance Ltd.
-2026042903005961,PFL,34,16,200,378.0,75600.0,2026-04-29,188598922,236,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-29 14:43:22.855861,Pokhara Finance Ltd.
-2026042903006715,PFL,44,49,400,377.5,151000.0,2026-04-29,188614040,236,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:55:13.533440,Pokhara Finance Ltd.
-2026042903006716,PFL,6,49,12,377.5,4530.0,2026-04-29,188614044,236,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:55:13.533590,Pokhara Finance Ltd.
-2026042903006717,PFL,39,49,268,377.3,101116.4,2026-04-29,188614046,236,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:55:13.533636,Pokhara Finance Ltd.
-2026042903006991,PFL,41,65,250,379.5,94875.0,2026-04-29,188619367,236,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-29 14:58:17.096577,Pokhara Finance Ltd.
-2026042903007019,PFL,58,1,10,378.5,3785.0,2026-04-29,188620250,236,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-29 14:58:43.618517,Pokhara Finance Ltd.
-2026042903007020,PFL,57,1,50,378.0,18900.0,2026-04-29,188620252,236,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-29 14:58:43.618702,Pokhara Finance Ltd.
-2026042903007218,PFL,88,1,10,378.0,3780.0,2026-04-29,188623892,236,Blue Chip Securities Ltd,Kumari Securities Private Limited,2026-04-29 14:59:49.805272,Pokhara Finance Ltd.
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026042903000053,PFL,58,58,50,374.0,18700.0,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 11:00:27.773378
+2026042903000087,PFL,58,41,100,374.0,37400.0,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-29 11:02:53.800279
+2026042903000140,PFL,16,6,78,380.0,29640.0,Primo Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-29 11:06:10.892440
+2026042903000592,PFL,7,88,10,378.0,3780.0,J.F. Securites (PVT) Ltd.,Blue Chip Securities Ltd,2026-04-29 11:28:37.880981
+2026042903001292,PFL,7,38,30,378.0,11340.0,J.F. Securites (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 11:56:45.365139
+2026042903001296,PFL,58,38,40,377.1,15084.0,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-29 11:56:59.001172
+2026042903002071,PFL,58,62,110,377.1,41481.0,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-29 12:28:30.139905
+2026042903002072,PFL,44,62,100,377.1,37710.0,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 12:28:30.140009
+2026042903002073,PFL,44,62,300,377.0,113100.0,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-29 12:28:30.140119
+2026042903002149,PFL,34,34,200,377.1,75420.0,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-29 12:33:22.141403
+2026042903002150,PFL,6,34,50,377.0,18850.0,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:33:22.141504
+2026042903002151,PFL,42,34,197,377.0,74269.0,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-29 12:33:22.141544
+2026042903002461,PFL,33,49,53,377.1,19986.3,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:44:04.842920
+2026042903002477,PFL,33,49,147,377.1,55433.7,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:44:32.417541
+2026042903002491,PFL,42,49,53,377.0,19981.0,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:45:48.073382
+2026042903002629,PFL,42,49,34,377.0,12818.0,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-29 12:51:13.220040
+2026042903002942,PFL,4,6,30,377.2,11316.0,Opal Securities Investment (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-29 13:09:45.262748
+2026042903002943,PFL,58,6,18,377.1,6787.8,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-29 13:09:45.262928
+2026042903003475,PFL,47,7,2,370.0,740.0,Neev Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-29 13:27:21.497513
+2026042903004667,PFL,58,58,17,377.1,6410.7,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:11:20.091921
+2026042903004668,PFL,58,58,35,377.1,13198.5,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:11:20.092058
+2026042903004669,PFL,42,58,148,377.0,55796.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:11:20.092107
+2026042903005082,PFL,42,39,30,379.0,11370.0,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:22:54.672661
+2026042903005203,PFL,4,39,520,379.0,197080.0,Opal Securities Investment (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-29 14:26:54.456493
+2026042903005204,PFL,4,58,265,379.0,100435.0,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:26:54.456739
+2026042903005205,PFL,4,22,213,379.0,80727.0,Opal Securities Investment (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-29 14:26:54.456866
+2026042903005206,PFL,4,58,25,379.5,9487.5,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-29 14:26:54.456991
+2026042903005207,PFL,4,62,765,380.0,290700.0,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-29 14:26:54.457184
+2026042903005208,PFL,4,48,843,380.0,320340.0,Opal Securities Investment (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-29 14:26:54.457311
+2026042903005839,PFL,39,32,20,377.3,7546.0,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-29 14:41:17.683252
+2026042903005961,PFL,34,16,200,378.0,75600.0,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,2026-04-29 14:43:22.855861
+2026042903006715,PFL,44,49,400,377.5,151000.0,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:55:13.533440
+2026042903006716,PFL,6,49,12,377.5,4530.0,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:55:13.533590
+2026042903006717,PFL,39,49,268,377.3,101116.4,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-29 14:55:13.533636
+2026042903006991,PFL,41,65,250,379.5,94875.0,Linch Stock Market Ltd.,Sharepro Securities Private Limited,2026-04-29 14:58:17.096577
+2026042903007019,PFL,58,1,10,378.5,3785.0,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-29 14:58:43.618517
+2026042903007020,PFL,57,1,50,378.0,18900.0,Aryatara Investment & Securities,Kumari Securities Private Limited,2026-04-29 14:58:43.618702
+2026042903007218,PFL,88,1,10,378.0,3780.0,Blue Chip Securities Ltd,Kumari Securities Private Limited,2026-04-29 14:59:49.805272

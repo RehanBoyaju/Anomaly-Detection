@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62814,2025070903000008,GRDBL,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,1420.8,14208.0,2025-07-09 10:46:00.055422
 2025-07-09,62378,2025070903000045,GRDBL,NIMB Stock Markets Limited,Hatemalo Financial Services Private Limited,10,1392.5,13925.0,2025-07-09 11:03:29.611085
 2025-07-09,62095,2025070903000099,GRDBL,Miyo Securities Pvt Ltd,SUN SECURITIES PVT LTD,20,1370.0,27400.0,2025-07-09 11:05:04.298420

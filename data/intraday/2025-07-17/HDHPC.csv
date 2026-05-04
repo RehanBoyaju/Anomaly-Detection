@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141385,2025071704000019,HDHPC,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,197.0,1970.0,2025-07-17 10:46:00.067961
 2025-07-17,141155,2025071704000101,HDHPC,Oxford Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,199.0,59700.0,2025-07-17 11:01:11.472264
 2025-07-17,141070,2025071704000139,HDHPC,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,100,200.0,20000.0,2025-07-17 11:01:27.464733

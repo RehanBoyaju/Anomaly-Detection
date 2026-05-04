@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,94015,2025081103000497,KSBBL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,50,534.0,26700.0,2025-08-11 11:11:44.895871
 2025-08-11,94014,2025081103000498,KSBBL,South Asian Bulls Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,50,533.2,26660.0,2025-08-11 11:11:44.895960
 2025-08-11,94013,2025081103000499,KSBBL,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,50,533.2,26660.0,2025-08-11 11:11:44.896014

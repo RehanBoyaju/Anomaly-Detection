@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SGIC,52,22,21,475.2,9979.2,2026-04-28 14:56:59.619,2026042804013985
 SGIC,42,38,10,475.1,4751.0,2026-04-28 14:55:56.534,2026042804013812
 SGIC,35,80,10,478.5,4785.0,2026-04-28 14:55:35.137,2026042804013741

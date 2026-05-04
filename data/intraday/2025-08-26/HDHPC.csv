@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44857,2025082604000051,HDHPC,Sri Hari Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,230,197.1,45333.0,2025-08-26 11:03:11.953425
 2025-08-26,44795,2025082604000062,HDHPC,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,70,197.1,13797.0,2025-08-26 11:03:59.311415
 2025-08-26,44478,2025082604000118,HDHPC,Kumari Securities Private Limited,Arun Securities (PVT) Ltd.,150,197.0,29550.0,2025-08-26 11:07:18.854778

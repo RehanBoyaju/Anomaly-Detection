@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NBL,65,59,511,272.0,138992.0,2026-04-28 14:59:56.959,2026042801110895
 NBL,65,10,59,272.0,16048.0,2026-04-28 14:59:56.959,2026042801110894
 NBL,65,22,500,271.9,135950.0,2026-04-28 14:59:56.959,2026042801110893

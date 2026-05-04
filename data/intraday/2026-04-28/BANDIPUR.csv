@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BANDIPUR,65,42,10,831.0,8310.0,2026-04-28 14:59:56.467,2026042801110884
 BANDIPUR,25,45,19,830.6,15781.4,2026-04-28 14:59:54.702,2026042801110721
 BANDIPUR,25,42,10,830.5,8305.0,2026-04-28 14:59:54.702,2026042801110720

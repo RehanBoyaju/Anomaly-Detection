@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152193,2025080304000033,BPCL,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,111,945.0,104895.0,2025-08-03T11:00:40.061405
 2025-08-03,152192,2025080304000034,BPCL,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,189,945.0,178605.0,2025-08-03T11:00:40.061443
 2025-08-03,151733,2025080304000064,BPCL,Property Wiard Limited,Agrawal Securities (PVT) Ltd.,10,930.1,9301.0,2025-08-03T11:01:31.404528

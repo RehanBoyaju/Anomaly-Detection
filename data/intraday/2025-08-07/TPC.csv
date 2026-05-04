@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,88963,2025080705002165,TPC,Nabil Stock Dealer Ltd.,Sweta Securities Private Limited,50,380.0,19000.0,2025-08-07 11:21:24.816669
 2025-08-07,86989,2025080705002824,TPC,Secured Securities Ltd.,Naasa Securities Co. Ltd.,50,378.0,18900.0,2025-08-07 11:27:14.500778
 2025-08-07,86988,2025080705002825,TPC,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,100,377.2,37720.0,2025-08-07 11:27:14.500924

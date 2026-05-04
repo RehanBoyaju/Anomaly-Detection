@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95834,2025080701000002,SBI,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,10,406.6,4066.0,2025-08-07 10:46:00.021784
 2025-08-07,93060,2025080701001087,SBI,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,10,423.0,4230.0,2025-08-07 11:09:17.237924
 2025-08-07,88306,2025080701002499,SBI,Imperial Securities Company Pvt. Ltd.,Trishakti Securities Public Limited,12,417.0,5004.0,2025-08-07 11:23:04.670938

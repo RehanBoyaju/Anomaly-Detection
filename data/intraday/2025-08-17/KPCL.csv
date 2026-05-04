@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86435,2025081704000049,KPCL,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,100,580.1,58010.0,2025-08-17 11:00:43.275201
 2025-08-17,85737,2025081704000130,KPCL,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,100,591.7,59170.0,2025-08-17 11:02:55.912907
 2025-08-17,85601,2025081704000158,KPCL,SUN SECURITIES PVT LTD,Naasa Securities Co. Ltd.,10,577.0,5770.0,2025-08-17 11:03:19.368490

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SFCL,35,41,700,380.0,266000.0,2026-04-28 14:59:56.237,2026042803008648
 SFCL,35,50,90,380.0,34200.0,2026-04-28 14:59:33.282,2026042803008370
 SFCL,33,50,20,380.0,7600.0,2026-04-28 14:59:33.282,2026042803008369

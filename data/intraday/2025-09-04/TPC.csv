@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67987,2025090405000179,TPC,Premier Securities Company Ltd.,Sani Securities Company Ltd.,40,339.0,13560.0,2025-09-04T11:06:27.49782
 2025-09-04,67986,2025090405000180,TPC,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,170,339.0,57630.0,2025-09-04T11:06:27.497889
 2025-09-04,67985,2025090405000181,TPC,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,55,339.9,18694.5,2025-09-04T11:06:27.497917

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,68484,2025070703000944,NLICL,Sagarmatha Securities Private Limited,ABC Securities Private Limited,10,623.0,6230.0,2025-07-07 11:12:51.262133
 2025-07-07,65431,2025070703001634,NLICL,Online Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,100,621.9,62190.0,2025-07-07 11:23:52.413649
 2025-07-07,59236,2025070703002924,NLICL,Asian Securities Private Ltd.,Swarna Laxmi Securities Pvt. Ltd.,100,619.9,61990.0,2025-07-07 11:46:34.605997

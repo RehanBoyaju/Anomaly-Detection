@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59559,2025090801000021,MBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,277,251.9,69776.3,2025-09-08 11:00:53.548778
 2025-09-08,59449,2025090801000057,MBL,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,223,251.9,56173.7,2025-09-08 11:02:28.207271
 2025-09-08,59448,2025090801000058,MBL,Dynamic Money Managers Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,10000,251.8,2518000.0,2025-09-08 11:02:28.207386

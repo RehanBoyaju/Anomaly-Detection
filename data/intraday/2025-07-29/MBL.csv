@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,155394,2025072901000662,MBL,Aryatara Investment & Securities,Sani Securities Company Ltd.,20,264.0,5280.0,2025-07-29 11:04:41.969920
 2025-07-29,155378,2025072901000664,MBL,Dakshinkali Investment & Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,500,266.0,133000.0,2025-07-29 11:04:43.147500
 2025-07-29,154850,2025072901000759,MBL,Dakshinkali Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,500,267.0,133500.0,2025-07-29 11:05:38.397323

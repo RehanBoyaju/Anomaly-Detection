@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MEL,7,94,42,254.0,10668.0,2026-04-28 14:59:37.731,2026042805016301
 MEL,7,13,28,254.0,7112.0,2026-04-28 14:59:18.334,2026042805016157
 MEL,7,89,30,253.3,7599.0,2026-04-28 14:59:18.334,2026042805016156

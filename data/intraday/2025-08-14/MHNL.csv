@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75107,2025081404000230,MHNL,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,20,265.0,5300.0,2025-08-14 11:08:05.381820
 2025-08-14,75106,2025081404000231,MHNL,Cristal Kanchanjanga Securites Pvt. Ltd.,Sweta Securities Private Limited,10,262.0,2620.0,2025-08-14 11:08:05.381872
 2025-08-14,62351,2025081404002215,MHNL,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,70,265.0,18550.0,2025-08-14 11:58:41.878369

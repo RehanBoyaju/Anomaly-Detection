@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NIMB,1,69,20,201.8,4036.0,2026-04-28 14:59:51.587,2026042801110638
 NIMB,50,69,100,201.8,20180.0,2026-04-28 14:59:13.930,2026042801109632
 NIMB,28,13,70,201.0,14070.0,2026-04-28 14:59:06.533,2026042801109433

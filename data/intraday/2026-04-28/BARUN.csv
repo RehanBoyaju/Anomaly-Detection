@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BARUN,85,64,278,345.0,95910.0,2026-04-28 14:59:56.462,2026042804015006
 BARUN,85,58,10,345.0,3450.0,2026-04-28 14:59:53.227,2026042804014970
 BARUN,85,57,86,345.0,29670.0,2026-04-28 14:59:53.227,2026042804014969

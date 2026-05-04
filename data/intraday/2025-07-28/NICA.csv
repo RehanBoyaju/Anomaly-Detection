@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170678,2025072801000003,NICA,South Asian Bulls Pvt. Ltd.,Neev Securities Pvt. Ltd.,129,400.0,51600.0,2025-07-28T10:46:00.036758
 2025-07-28,170543,2025072801000055,NICA,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,10,401.0,4010.0,2025-07-28T11:00:43.529476
 2025-07-28,170534,2025072801000057,NICA,South Asian Bulls Pvt. Ltd.,Citizens Share Broker Limited,361,401.0,144761.0,2025-07-28T11:00:45.741543

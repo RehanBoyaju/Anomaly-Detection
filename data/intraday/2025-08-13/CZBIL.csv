@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,66525,2025081301001212,CZBIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,215.2,2152.0,2025-08-13 11:18:29.981673
 2025-08-13,65633,2025081301001440,CZBIL,Thrive Brokerage House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,10,216.0,2160.0,2025-08-13 11:21:49.765675
 2025-08-13,65632,2025081301001441,CZBIL,Opal Securities Investment (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,240,215.2,51648.0,2025-08-13 11:21:49.765757

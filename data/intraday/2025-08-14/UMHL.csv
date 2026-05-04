@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76520,2025081404000004,UMHL,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,100,598.0,59800.0,2025-08-14 10:46:00.027146
 2025-08-14,76519,2025081404000005,UMHL,Dynamic Money Managers Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,50,598.0,29900.0,2025-08-14 10:46:00.027177
 2025-08-14,76518,2025081404000006,UMHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,50,598.0,29900.0,2025-08-14 10:46:00.027194

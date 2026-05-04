@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,175913,2025072204000265,RHPL,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,20,353.9,7078.0,2025-07-22 11:03:00.520553
 2025-07-22,175912,2025072204000266,RHPL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,280,354.0,99120.0,2025-07-22 11:03:00.520618
 2025-07-22,172216,2025072204001143,RHPL,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,750,353.0,264750.0,2025-07-22 11:09:25.171473

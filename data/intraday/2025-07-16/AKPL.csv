@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99468,2025071604000018,AKPL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,267.2,2672.0,2025-07-16 10:46:00.041141
 2025-07-16,99349,2025071604000057,AKPL,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,290,265.0,76850.0,2025-07-16 11:00:34.702884
 2025-07-16,99348,2025071604000058,AKPL,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,460,265.0,121900.0,2025-07-16 11:00:34.702978

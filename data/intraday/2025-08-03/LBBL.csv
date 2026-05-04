@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152314,2025080303000043,LBBL,Capital Max Securities Ltd,South Asian Bulls Pvt. Ltd.,721,605.0,436205.0,2025-08-03T11:00:10.452238
 2025-08-03,151276,2025080303000204,LBBL,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,250,617.0,154250.0,2025-08-03T11:02:17.324602
 2025-08-03,151005,2025080303000226,LBBL,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,50,617.0,30850.0,2025-08-03T11:02:39.472285

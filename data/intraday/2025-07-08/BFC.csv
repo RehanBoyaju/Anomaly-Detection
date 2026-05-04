@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56077,2025070803000039,BFC,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,200,494.5,98900.0,2025-07-08 11:01:22.749200
 2025-07-08,56076,2025070803000040,BFC,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,80,495.0,39600.0,2025-07-08 11:01:22.749258
 2025-07-08,56075,2025070803000041,BFC,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,280,499.9,139972.0,2025-07-08 11:01:22.749292

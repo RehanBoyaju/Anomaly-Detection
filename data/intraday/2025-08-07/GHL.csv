@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94670,2025080704000121,GHL,Secured Securities Ltd.,Kumari Securities Private Limited,50,252.0,12600.0,2025-08-07 11:03:55.563265
 2025-08-07,94669,2025080704000122,GHL,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,252.6,2526.0,2025-08-07 11:03:55.563338
 2025-08-07,94336,2025080704000158,GHL,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,14,250.0,3500.0,2025-08-07 11:05:12.198559

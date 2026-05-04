@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56352,2025082101000058,ADBL,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,100,333.0,33300.0,2025-08-21 11:05:06.110759
 2025-08-21,56351,2025082101000059,ADBL,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,333.0,33300.0,2025-08-21 11:05:06.110891
 2025-08-21,56079,2025082101000094,ADBL,Sani Securities Company Ltd.,Linch Stock Market Ltd.,10,334.0,3340.0,2025-08-21 11:07:53.745978

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68732,2025090103000004,GMFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,461.2,4612.0,2025-09-01 10:46:00.037841
 2025-09-01,66635,2025090103000174,GMFIL,Nepal Investment And Securities Trading Private Limited,Kumari Securities Private Limited,50,470.0,23500.0,2025-09-01 11:08:02.543340
 2025-09-01,66634,2025090103000175,GMFIL,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,40,468.0,18720.0,2025-09-01 11:08:02.543402

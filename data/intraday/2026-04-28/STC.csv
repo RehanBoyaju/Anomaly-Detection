@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 STC,77,58,14,5937.0,83118.0,2026-04-28 14:57:34.440,2026042805015757
 STC,77,101,150,5937.0,890550.0,2026-04-28 14:53:39.040,2026042805015031
 STC,77,45,16,5937.0,94992.0,2026-04-28 14:51:33.622,2026042805014668

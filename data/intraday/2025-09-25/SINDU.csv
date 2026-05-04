@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37287,2025092503000033,SINDU,Cristal Kanchanjanga Securites Pvt. Ltd.,Shree Krishna Securities Ltd.,10,735.1,7351.0,2025-09-25 11:02:41.636054
 2025-09-25,37176,2025092503000042,SINDU,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,15,735.2,11028.0,2025-09-25 11:03:37.981687
 2025-09-25,37100,2025092503000051,SINDU,Vision Securities Pvt. Ltd,South Asian Bulls Pvt. Ltd.,20,736.0,14720.0,2025-09-25 11:04:20.636076

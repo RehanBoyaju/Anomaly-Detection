@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47074,2025092404000247,HURJA,Opal Securities Investment (PVT) Ltd.,INDEX SECURITIES LIMITED,12,235.0,2820.0,2025-09-24 11:04:40.245260
 2025-09-24,46785,2025092404000317,HURJA,Opal Securities Investment (PVT) Ltd.,INDEX SECURITIES LIMITED,21,235.0,4935.0,2025-09-24 11:05:57.542075
 2025-09-24,46599,2025092404000368,HURJA,Bhrikuti Stock Broking Co. Pvt. Ltd.,Online Securities Pvt. Ltd.,100,234.0,23400.0,2025-09-24 11:06:41.923035

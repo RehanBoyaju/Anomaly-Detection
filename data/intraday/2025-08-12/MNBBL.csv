@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,75319,2025081203000306,MNBBL,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,100,440.0,44000.0,2025-08-12 11:11:21.417151
 2025-08-12,74957,2025081203000339,MNBBL,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,15,439.5,6592.5,2025-08-12 11:12:48.085674
 2025-08-12,74809,2025081203000362,MNBBL,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,20,436.0,8720.0,2025-08-12 11:13:18.309880

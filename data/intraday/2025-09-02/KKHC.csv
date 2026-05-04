@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,81021,2025090204000261,KKHC,Trademow Securities Private Limited,Sweta Securities Private Limited,100,247.8,24780.0,2025-09-02 11:14:11.932519
 2025-09-02,81020,2025090204000262,KKHC,Trademow Securities Private Limited,Vision Securities Pvt. Ltd,500,247.9,123950.0,2025-09-02 11:14:11.932585
 2025-09-02,81019,2025090204000263,KKHC,Trademow Securities Private Limited,Online Securities Pvt. Ltd.,59,247.9,14626.1,2025-09-02 11:14:11.932611

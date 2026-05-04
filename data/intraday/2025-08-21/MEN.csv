@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56481,2025082104000130,MEN,Aryatara Investment & Securities,Linch Stock Market Ltd.,100,644.0,64400.0,2025-08-21 11:03:40.495130
 2025-08-21,56480,2025082104000131,MEN,Neev Securities Pvt. Ltd.,Linch Stock Market Ltd.,75,644.0,48300.0,2025-08-21 11:03:40.495262
 2025-08-21,56296,2025082104000201,MEN,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,20,643.1,12862.0,2025-08-21 11:05:47.722287

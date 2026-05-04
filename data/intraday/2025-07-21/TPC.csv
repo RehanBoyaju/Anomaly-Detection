@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138737,2025072101000011,TPC,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,10,398.0,3980.0,2025-07-21 10:46:00.531247
 2025-07-21,137210,2025072101000310,TPC,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,30,391.1,11733.0,2025-07-21 11:03:23.594054
 2025-07-21,137209,2025072101000311,TPC,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,20,391.0,7820.0,2025-07-21 11:03:23.594149

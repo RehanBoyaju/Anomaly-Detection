@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,134073,2025072104001880,HPPL,Sani Securities Company Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,304,515.0,156560.0,2025-07-21 11:08:16.530303
 2025-07-21,134072,2025072104001881,HPPL,Bhrikuti Stock Broking Co. Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,100,515.0,51500.0,2025-07-21 11:08:16.530492
 2025-07-21,131339,2025072104002681,HPPL,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,515.0,5150.0,2025-07-21 11:12:03.358900

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73942,2025071501000035,PRVU,Siprabi Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,90,217.0,19530.0,2025-07-15 11:00:51.800965
 2025-07-15,73085,2025071501000325,PRVU,Vision Securities Pvt. Ltd,Trisul Securities & Invt. Ltd.,100,217.0,21700.0,2025-07-15 11:06:20.645073
 2025-07-15,73084,2025071501000326,PRVU,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,3000,217.0,651000.0,2025-07-15 11:06:20.645172

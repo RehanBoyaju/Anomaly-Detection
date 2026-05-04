@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170038,2025072804000248,LEC,Kalika Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,10,235.1,2351.0,2025-07-28T11:02:20.241497
 2025-07-28,169902,2025072804000304,LEC,Sani Securities Company Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,10,231.1,2311.0,2025-07-28T11:02:43.319526
 2025-07-28,169527,2025072804000406,LEC,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,300,231.6,69480.0,2025-07-28T11:03:35.131051

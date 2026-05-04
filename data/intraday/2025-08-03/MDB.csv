@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152477,2025080303000017,MDB,Infinity Securities Limited,Naasa Securities Co. Ltd.,10,688.0,6880.0,2025-08-03T10:46:00.038927
 2025-08-03,152476,2025080303000018,MDB,Infinity Securities Limited,Sumeru Securities Pvt. Ltd.,80,688.0,55040.0,2025-08-03T10:46:00.038975
 2025-08-03,152475,2025080303000019,MDB,Infinity Securities Limited,Capital Max Securities Ltd,140,688.0,96320.0,2025-08-03T10:46:00.03903

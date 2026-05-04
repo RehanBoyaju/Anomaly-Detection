@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157493,2025072903000004,PROFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,10,559.0,5590.0,2025-07-29 10:46:00.030553
 2025-07-29,156710,2025072903000127,PROFL,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,566.0,5660.0,2025-07-29 11:02:15.393883
 2025-07-29,155567,2025072903000342,PROFL,J.F. Securites (PVT) Ltd.,Indira securities pvt. ltd,50,577.0,28850.0,2025-07-29 11:04:24.399010

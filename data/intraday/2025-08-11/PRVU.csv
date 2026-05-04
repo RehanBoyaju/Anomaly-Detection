@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97565,2025081101000401,PRVU,Neev Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,62,232.0,14384.0,2025-08-11 11:03:15.354642
 2025-08-11,97396,2025081101000467,PRVU,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,300,233.9,70170.0,2025-08-11 11:03:47.559656
 2025-08-11,97377,2025081101000472,PRVU,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,50,233.9,11695.0,2025-08-11 11:03:50.099162

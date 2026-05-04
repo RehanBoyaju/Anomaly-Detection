@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72097,2025071405000027,NIFRA,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,20,284.0,5680.0,2025-07-14 11:01:46.228272
 2025-07-14,71953,2025071405000038,NIFRA,Nepal Stock House (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,44,284.0,12496.0,2025-07-14 11:02:22.901370
 2025-07-14,71525,2025071405000067,NIFRA,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,20,283.0,5660.0,2025-07-14 11:03:44.919844

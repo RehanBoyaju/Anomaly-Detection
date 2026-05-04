@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,70580,2025082803001085,GMFIL,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,89,483.0,42987.0,2025-08-28 11:26:18.785191
 2025-08-28,70486,2025082803001114,GMFIL,Imperial Securities Company Pvt. Ltd.,N.I.M.B. Stock Markets Limited,11,483.0,5313.0,2025-08-28 11:26:34.437699
 2025-08-28,70485,2025082803001115,GMFIL,Hatemalo Financial Services Private Limited,N.I.M.B. Stock Markets Limited,189,482.3,91154.7,2025-08-28 11:26:34.437771

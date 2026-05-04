@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GBBL,6,21,67,407.7,27315.9,2026-04-28 14:59:57.959,2026042803008664
 GBBL,4,21,133,407.7,54224.1,2026-04-28 14:59:57.959,2026042803008663
 GBBL,4,11,67,407.7,27315.9,2026-04-28 14:59:50.591,2026042803008443

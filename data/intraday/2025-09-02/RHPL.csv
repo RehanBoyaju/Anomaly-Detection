@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,86134,2025090204000069,RHPL,Kumari Securities Private Limited,Kumari Securities Private Limited,30,295.0,8850.0,2025-09-02 11:04:59.195416
 2025-09-02,82488,2025090204000211,RHPL,Linch Stock Market Ltd.,Shree Krishna Securities Ltd.,10,293.0,2930.0,2025-09-02 11:11:17.059240
 2025-09-02,81702,2025090204000243,RHPL,Neev Securities Pvt. Ltd.,Aryatara Investment & Securities,30,294.0,8820.0,2025-09-02 11:12:50.106094

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,154015,2025072904000710,KKHC,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,40,290.0,11600.0,2025-07-29 11:06:53.177926
 2025-07-29,153413,2025072904000850,KKHC,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,45,293.0,13185.0,2025-07-29 11:07:38.969578
 2025-07-29,153218,2025072904000887,KKHC,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,300,294.0,88200.0,2025-07-29 11:07:59.848975

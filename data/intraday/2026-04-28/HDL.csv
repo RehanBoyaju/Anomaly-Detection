@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HDL,25,22,18,1148.2,20667.6,2026-04-28 14:59:59.314,2026042805016542
 HDL,58,22,10,1148.3,11483.0,2026-04-28 14:59:59.314,2026042805016541
 HDL,45,22,10,1148.4,11484.0,2026-04-28 14:59:59.313,2026042805016540

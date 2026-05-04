@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SHIVM,16,47,50,666.0,33300.0,2026-04-28 14:59:56.287,2026042805016462
 SHIVM,29,47,438,666.0,291708.0,2026-04-28 14:59:56.234,2026042805016461
 SHIVM,29,56,25,666.0,16650.0,2026-04-28 14:59:56.160,2026042805016459

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55073,2025082501000368,CZBIL,Thrive Brokerage House Pvt. Ltd,Asian Securities Private Ltd.,410,206.7,84747.0,2025-08-25 11:09:44.529883
 2025-08-25,54413,2025082501000493,CZBIL,Property Wiard Limited,Asian Securities Private Ltd.,50,207.8,10390.0,2025-08-25 11:13:07.474163
 2025-08-25,54412,2025082501000494,CZBIL,Sipla Securities Private Limited,Asian Securities Private Ltd.,950,207.0,196650.0,2025-08-25 11:13:07.474303

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89371,2025090201000358,PRVU,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,216.7,2167.0,2025-09-02 10:46:00.143327
 2025-09-02,88549,2025090201001120,PRVU,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,490,213.0,104370.0,2025-09-02 11:01:23.787186
 2025-09-02,88159,2025090201001464,PRVU,Trishakti Securities Public Limited,Primo Securities (PVT) Ltd.,91,214.9,19555.9,2025-09-02 11:01:56.017509

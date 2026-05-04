@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157463,2025072904000018,SHEL,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,20,340.0,6800.0,2025-07-29 10:46:00.068862
 2025-07-29,157462,2025072904000019,SHEL,Secured Securities Ltd.,Asian Securities Private Ltd.,80,340.0,27200.0,2025-07-29 10:46:00.068893
 2025-07-29,157461,2025072904000020,SHEL,Secured Securities Ltd.,Sipla Securities Private Limited,20,340.0,6800.0,2025-07-29 10:46:00.068921

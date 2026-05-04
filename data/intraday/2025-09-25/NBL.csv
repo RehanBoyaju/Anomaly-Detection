@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37537,2025092501000008,NBL,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,702,250.0,175500.0,2025-09-25 10:46:00.035386
 2025-09-25,37486,2025092501000018,NBL,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,1000,250.0,250000.0,2025-09-25 11:00:28.616479
 2025-09-25,37202,2025092501000107,NBL,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,8298,250.0,2074500.0,2025-09-25 11:03:23.990270

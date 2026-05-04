@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62764,2025070903000015,LBBL,N.M.B. SECURITIES LIMITED,Sumeru Securities Pvt. Ltd.,10,438.0,4380.0,2025-07-09 11:00:36.388879
 2025-07-09,62683,2025070903000026,LBBL,ABC Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,10,444.0,4440.0,2025-07-09 11:01:28.192133
 2025-07-09,62327,2025070903000062,LBBL,MILKY WAY SHARE BROKER COMPANY LTD ,Sumeru Securities Pvt. Ltd.,500,435.2,217600.0,2025-07-09 11:03:50.083823

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149243,2025080403000006,JBBL,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,10,362.9,3629.0,2025-08-04 10:46:00.036715
 2025-08-04,147506,2025080403000078,JBBL,Midas Stock Broking Company Private Limited,Kumari Securities Private Limited,15,370.1,5551.5,2025-08-04 11:02:14.688963
 2025-08-04,146887,2025080403000104,JBBL,Sundhara Securities Limited,Sweta Securities Private Limited,100,370.1,37010.0,2025-08-04 11:02:47.939292

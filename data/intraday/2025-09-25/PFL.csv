@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,30576,2025092503001055,PFL,S.P.S.A. Securities Limited,Sani Securities Company Ltd.,10,400.0,4000.0,2025-09-25 11:57:13.030265
 2025-09-25,29282,2025092503001265,PFL,Linch Stock Market Ltd.,Investment Management Nepal Pvt. Ltd.,135,400.0,54000.0,2025-09-25 12:09:22.231226
 2025-09-25,28824,2025092503001314,PFL,Market Securities & Exchange (PVT) Ltd.,Pragyan Securities (PVT) Ltd.,325,402.0,130650.0,2025-09-25 12:12:48.170101

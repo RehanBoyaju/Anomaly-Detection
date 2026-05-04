@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,139347,2025073004000413,TRH,Sri Hari Securities Pvt. Ltd.,Creative Securities Pvt Ltd,10,1025.0,10250.0,2025-07-30 11:05:32.191170
 2025-07-30,134616,2025073004001440,TRH,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,100,1026.0,102600.0,2025-07-30 11:14:06.175036
 2025-07-30,134615,2025073004001441,TRH,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,16,1025.6,16409.6,2025-07-30 11:14:06.175090

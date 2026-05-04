@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154183,2025072401000105,SPC,SHUBHAKAMANA SECURITIES PVT. LTD,Aryatara Investment & Securities,20,571.6,11432.0,2025-07-24 11:01:08.101346
 2025-07-24,153927,2025072401000158,SPC,Agrawal Securities (PVT) Ltd.,Asian Securities Private Ltd.,180,572.0,102960.0,2025-07-24 11:01:41.052419
 2025-07-24,153623,2025072401000214,SPC,Asian Securities Private Ltd.,K.B.L. Securities Limited ,100,575.0,57500.0,2025-07-24 11:02:17.055824

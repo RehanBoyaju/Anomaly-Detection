@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170697,2025072803000002,SIFC,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,10,560.8,5608.0,2025-07-28T10:46:00.022412
 2025-07-28,169070,2025072803000317,SIFC,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,100,550.0,55000.0,2025-07-28T11:04:32.911786
 2025-07-28,169069,2025072803000318,SIFC,Aryatara Investment & Securities,Trishakti Securities Public Limited,100,550.0,55000.0,2025-07-28T11:04:32.911895

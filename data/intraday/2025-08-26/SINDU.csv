@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45091,2025082603000004,SINDU,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,10,767.3,7673.0,2025-08-26 10:46:00.052749
 2025-08-26,44625,2025082603000155,SINDU,Vision Securities Pvt. Ltd,Infinity Securities Limited,17,756.0,12852.0,2025-08-26 11:06:03.414557
 2025-08-26,44624,2025082603000156,SINDU,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,33,763.0,25179.0,2025-08-26 11:06:03.414672

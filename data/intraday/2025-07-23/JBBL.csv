@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170232,2025072303000009,JBBL,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,300,401.5,120450.0,2025-07-23 10:46:00.052731
 2025-07-23,169835,2025072303000057,JBBL,Arun Securities (PVT) Ltd.,Magnet Securities and Investment Company Private Limited,40,395.0,15800.0,2025-07-23 11:00:53.448944
 2025-07-23,169528,2025072303000094,JBBL,Sumeru Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,60,395.0,23700.0,2025-07-23 11:01:23.128037

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86713,2025070601000134,TPC,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,20,406.2,8124.0,2025-07-06 11:03:00.686202
 2025-07-06,86697,2025070601000136,TPC,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,15,412.0,6180.0,2025-07-06 11:03:04.064574
 2025-07-06,85802,2025070601000307,TPC,Nagarik Stock Dealer ,Online Securities Pvt. Ltd.,40,406.1,16244.0,2025-07-06 11:06:06.538608

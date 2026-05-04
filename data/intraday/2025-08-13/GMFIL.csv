@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,67137,2025081303000384,GMFIL,Investment Management Nepal Pvt. Ltd.,Premier Securities Company Ltd.,10,498.1,4981.0,2025-08-13 11:15:35.673263
 2025-08-13,66912,2025081303000411,GMFIL,Hatemalo Financial Services Private Limited,Premier Securities Company Ltd.,66,498.1,32874.6,2025-08-13 11:16:47.832447
 2025-08-13,64978,2025081303000696,GMFIL,Market Securities & Exchange (PVT) Ltd.,Neev Securities Pvt. Ltd.,50,498.0,24900.0,2025-08-13 11:23:57.852765

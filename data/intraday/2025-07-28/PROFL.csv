@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,168203,2025072803000484,PROFL,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,100,550.0,55000.0,2025-07-28T11:06:08.984282
 2025-07-28,166112,2025072803000954,PROFL,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,255,552.1,140785.5,2025-07-28T11:09:44.824146
 2025-07-28,166111,2025072803000955,PROFL,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,245,552.1,135264.5,2025-07-28T11:09:44.824265

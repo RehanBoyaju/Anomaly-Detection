@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154440,2025072403000031,CORBL,ABC Securities Private Limited,Online Securities Pvt. Ltd.,22,2095.0,46090.0,2025-07-24 11:00:25.649202
 2025-07-24,154218,2025072403000058,CORBL,ABC Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,28,2095.0,58660.0,2025-07-24 11:01:01.105227
 2025-07-24,151995,2025072403000403,CORBL,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,20,2070.0,41400.0,2025-07-24 11:05:16.606347

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78198,2025081204000012,RADHI,Vision Securities Pvt. Ltd,Property Wiard Limited,10,784.0,7840.0,2025-08-12 10:46:00.037745
 2025-08-12,77569,2025081204000084,RADHI,ABC Securities Private Limited,INDEX SECURITIES LIMITED,10,769.2,7692.0,2025-08-12 11:02:44.045487
 2025-08-12,77153,2025081204000155,RADHI,Vision Securities Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,50,778.0,38900.0,2025-08-12 11:04:19.473259

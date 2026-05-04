@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,53136,2025070803000460,LBBL,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,174,430.0,74820.0,2025-07-08 11:17:46.442688
 2025-07-08,52510,2025070803000547,LBBL,Online Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,10,434.9,4349.0,2025-07-08 11:21:03.914887
 2025-07-08,52224,2025070803000585,LBBL,Primo Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,5,426.3,2131.5,2025-07-08 11:22:23.824599

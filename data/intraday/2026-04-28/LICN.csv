@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 LICN,34,56,10,818.0,8180.0,2026-04-28 14:59:15.413,2026042803008295
 LICN,34,54,20,815.0,16300.0,2026-04-28 14:59:15.413,2026042803008294
 LICN,34,67,40,814.9,32596.0,2026-04-28 14:59:15.413,2026042803008293

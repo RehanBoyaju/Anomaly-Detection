@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MKCL,16,42,10,1338.0,13380.0,2026-04-28 14:59:59.045,2026042801111026
 MKCL,42,42,50,1324.0,66200.0,2026-04-28 14:56:41.617,2026042801107419
 MKCL,38,52,10,1325.0,13250.0,2026-04-28 14:56:18.761,2026042801107106

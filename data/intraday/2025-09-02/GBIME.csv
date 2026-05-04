@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89370,2025090201000359,GBIME,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,256.3,2563.0,2025-09-02 10:46:00.147221
 2025-09-02,89369,2025090201000360,GBIME,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,10,256.3,2563.0,2025-09-02 10:46:00.147266
 2025-09-02,88437,2025090201001219,GBIME,Midas Stock Broking Company Private Limited,Nepal Investment And Securities Trading Private Limited,10,252.0,2520.0,2025-09-02 11:01:34.444625

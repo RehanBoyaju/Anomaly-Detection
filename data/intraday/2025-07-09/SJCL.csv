@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62005,2025070904000494,SJCL,South Asian Bulls Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,313.5,6270.0,2025-07-09 11:05:33.006971
 2025-07-09,61556,2025070904000744,SJCL,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,100,313.7,31370.0,2025-07-09 11:08:01.240869
 2025-07-09,61479,2025070904000794,SJCL,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,314.0,3140.0,2025-07-09 11:08:27.696759

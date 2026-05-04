@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141450,2025073004000018,MEN,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,13,655.0,8515.0,2025-07-30 10:46:00.062343
 2025-07-30,140910,2025073004000100,MEN,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,487,660.0,321420.0,2025-07-30 11:02:01.778109
 2025-07-30,140909,2025073004000101,MEN,Kalika Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,13,660.0,8580.0,2025-07-30 11:02:01.778218

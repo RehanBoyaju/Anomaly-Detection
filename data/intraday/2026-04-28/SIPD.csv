@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SIPD,26,38,10,1002.0,10020.0,2026-04-28 14:59:59.451,2026042801111034
 SIPD,38,58,10,1005.0,10050.0,2026-04-28 14:59:58.715,2026042801111019
 SIPD,38,35,10,1005.0,10050.0,2026-04-28 14:59:58.714,2026042801111018

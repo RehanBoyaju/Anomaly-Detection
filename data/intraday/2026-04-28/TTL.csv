@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 TTL,49,26,139,807.1,112186.9,2026-04-28 14:59:53.777,2026042801110702
 TTL,90,26,200,807.2,161440.0,2026-04-28 14:59:53.777,2026042801110701
 TTL,10,26,11,807.2,8879.2,2026-04-28 14:59:53.777,2026042801110700

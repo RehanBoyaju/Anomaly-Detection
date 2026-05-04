@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88364,2025071003000036,GFCL,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,10,660.8,6608.0,2025-07-10 11:01:27.507058
 2025-07-10,88363,2025071003000037,GFCL,Premier Securities Company Ltd.,Midas Stock Broking Company Private Limited,10,660.8,6608.0,2025-07-10 11:01:27.507107
 2025-07-10,88324,2025071003000043,GFCL,Premier Securities Company Ltd.,Arun Securities (PVT) Ltd.,60,660.8,39648.0,2025-07-10 11:01:44.284436

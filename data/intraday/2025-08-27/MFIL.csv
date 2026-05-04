@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,71489,2025082703000126,MFIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,690.0,6900.0,2025-08-27T11:08:41.952093
 2025-08-27,71314,2025082703000155,MFIL,Asian Securities Private Ltd.,Primo Securities (PVT) Ltd.,500,681.0,340500.0,2025-08-27T11:09:44.16986
 2025-08-27,71000,2025082703000189,MFIL,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,10,681.0,6810.0,2025-08-27T11:11:31.594519

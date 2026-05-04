@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57331,2025090704000243,GLH,Sundhara Securities Limited,Linch Stock Market Ltd.,15,258.0,3870.0,2025-09-07 11:05:45.755642
 2025-09-07,55754,2025090704000565,GLH,Sundhara Securities Limited,Naasa Securities Co. Ltd.,80,257.5,20600.0,2025-09-07 11:15:37.001019
 2025-09-07,55617,2025090704000603,GLH,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,257.5,2575.0,2025-09-07 11:16:17.057685

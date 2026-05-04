@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68752,2025090104000004,AKPL,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,20,268.0,5360.0,2025-09-01 10:46:00.027530
 2025-09-01,68658,2025090104000021,AKPL,Roadshow securities limited,SUN SECURITIES PVT LTD,10,263.0,2630.0,2025-09-01 11:00:19.942654
 2025-09-01,68639,2025090104000023,AKPL,Roadshow securities limited,SUN SECURITIES PVT LTD,10,257.8,2578.0,2025-09-01 11:00:33.998712

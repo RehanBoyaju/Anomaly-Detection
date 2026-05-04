@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55952,2025082501000211,MBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,247.5,2475.0,2025-08-25 11:05:36.026427
 2025-08-25,55211,2025082501000309,MBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,245.1,2451.0,2025-08-25 11:09:07.840037
 2025-08-25,55210,2025082501000310,MBL,Investment Management Nepal Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,50,245.0,12250.0,2025-08-25 11:09:07.840096

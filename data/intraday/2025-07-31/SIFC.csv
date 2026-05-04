@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,157783,2025073103002308,SIFC,Kalika Securities Pvt. Ltd.,ABC Securities Private Limited,60,546.4,32784.0,2025-07-31 11:16:49.375605
 2025-07-31,157782,2025073103002309,SIFC,Neev Securities Pvt. Ltd.,ABC Securities Private Limited,40,546.3,21852.0,2025-07-31 11:16:49.375699
 2025-07-31,156184,2025073103002654,SIFC,Naasa Securities Co. Ltd.,ABC Securities Private Limited,50,546.5,27325.0,2025-07-31 11:18:38.203750

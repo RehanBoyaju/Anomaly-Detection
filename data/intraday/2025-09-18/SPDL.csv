@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7207,2025091804000048,SPDL,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,50,395.0,19750.0,2025-09-18 10:46:00.074786
 2025-09-18,7206,2025091804000049,SPDL,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,50,395.0,19750.0,2025-09-18 10:46:00.074834
 2025-09-18,7205,2025091804000050,SPDL,Sri Hari Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,30,395.0,11850.0,2025-09-18 10:46:00.074861

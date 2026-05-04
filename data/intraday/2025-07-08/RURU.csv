@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,54371,2025070804001037,RURU,Asian Securities Private Ltd.,Sani Securities Company Ltd.,11,714.0,7854.0,2025-07-08 11:11:04.100527
 2025-07-08,54261,2025070804001083,RURU,KALASH STOCK MARKET PVT. LTD.,Sani Securities Company Ltd.,10,714.0,7140.0,2025-07-08 11:11:44.775293
 2025-07-08,54112,2025070804001127,RURU,Neev Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,1000,700.0,700000.0,2025-07-08 11:12:25.880442

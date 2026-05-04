@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47412,2025092401000082,SANIMA,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,40,343.0,13720.0,2025-09-24 11:02:22.163526
 2025-09-24,47375,2025092401000092,SANIMA,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,10,345.0,3450.0,2025-09-24 11:02:37.559548
 2025-09-24,46958,2025092401000163,SANIMA,Dynamic Money Managers Securities Pvt. Ltd.,Sweta Securities Private Limited,10,345.0,3450.0,2025-09-24 11:05:21.277908

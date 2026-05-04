@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,135091,2025073003001416,CORBL,Sewa Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,2050.0,20500.0,2025-07-30 11:13:28.488637
 2025-07-30,130044,2025073003002528,CORBL,KALASH STOCK MARKET PVT. LTD.,Nepal Investment And Securities Trading Private Limited,50,2050.1,102505.0,2025-07-30 11:21:44.115101
 2025-07-30,129935,2025073003002549,CORBL,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,30,2051.0,61530.0,2025-07-30 11:21:59.258062

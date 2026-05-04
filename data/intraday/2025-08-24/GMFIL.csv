@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,52589,2025082403000734,GMFIL,Blue Chip Securities Ltd,Linch Stock Market Ltd.,10,488.9,4889.0,2025-08-24 11:29:56.778273
 2025-08-24,46593,2025082403001592,GMFIL,Creative Securities Pvt Ltd,N.I.M.B. Stock Markets Limited,500,482.0,241000.0,2025-08-24 12:00:56.057241
 2025-08-24,46314,2025082403001623,GMFIL,Sundhara Securities Limited,Arun Securities (PVT) Ltd.,100,483.0,48300.0,2025-08-24 12:02:30.151943

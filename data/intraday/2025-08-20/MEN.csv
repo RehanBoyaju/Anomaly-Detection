@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53441,2025082004000131,MEN,Secured Securities Ltd.,South Asian Bulls Pvt. Ltd.,20,636.1,12722.0,2025-08-20 11:04:15.151394
 2025-08-20,53440,2025082004000132,MEN,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,280,636.0,178080.0,2025-08-20 11:04:15.151502
 2025-08-20,53197,2025082004000181,MEN,K.B.L. Securities Limited ,Miyo Securities Pvt Ltd,13,636.1,8269.3,2025-08-20 11:05:59.124202

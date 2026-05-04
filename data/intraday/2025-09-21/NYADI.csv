@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,105376,2025092105001230,NYADI,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,200,377.3,75460.0,2025-09-21 11:02:46.701618
 2025-09-21,104456,2025092105001593,NYADI,Citizens Share Broker Limited,Sani Securities Company Ltd.,30,383.0,11490.0,2025-09-21 11:03:38.780814
 2025-09-21,104123,2025092105001727,NYADI,South Asian Bulls Pvt. Ltd.,Himalayan Brokerage Company Limited,93,385.0,35805.0,2025-09-21 11:03:59.931375

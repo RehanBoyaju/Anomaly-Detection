@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68994,2025090404000021,RADHI,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,30,768.4,23052.0,2025-09-04T10:46:00.036081
 2025-09-04,68993,2025090404000022,RADHI,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,200,768.4,153680.0,2025-09-04T10:46:00.036123
 2025-09-04,68992,2025090404000023,RADHI,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,70,768.4,53788.0,2025-09-04T10:46:00.036159

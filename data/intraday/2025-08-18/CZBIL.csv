@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,63654,2025081801001131,CZBIL,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,400,209.0,83600.0,2025-08-18T11:22:30.654719
 2025-08-18,63574,2025081801001144,CZBIL,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,300,209.0,62700.0,2025-08-18T11:22:53.790088
 2025-08-18,63304,2025081801001218,CZBIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,300,209.0,62700.0,2025-08-18T11:24:02.956382

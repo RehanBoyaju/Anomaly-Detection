@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56823,2025082104000001,NHPC,BHOLE GANESH SECURITIES LTD,Vision Securities Pvt. Ltd,10,208.0,2080.0,2025-08-21 10:46:00.011359
 2025-08-21,56687,2025082104000051,NHPC,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,100,208.5,20850.0,2025-08-21 11:01:43.673142
 2025-08-21,55962,2025082104000333,NHPC,Property Wiard Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,212.0,2120.0,2025-08-21 11:09:01.366705

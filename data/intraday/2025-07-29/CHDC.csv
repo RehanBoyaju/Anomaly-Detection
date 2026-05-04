@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157215,2025072905000098,CHDC,Dynamic Money Managers Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,2843.0,85290.0,2025-07-29 11:01:02.001691
 2025-07-29,156349,2025072905000415,CHDC,Nepal Investment And Securities Trading Private Limited,Sumeru Securities Pvt. Ltd.,14,2847.0,39858.0,2025-07-29 11:03:01.234040
 2025-07-29,155761,2025072905000587,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,2899.0,28990.0,2025-07-29 11:04:06.516252

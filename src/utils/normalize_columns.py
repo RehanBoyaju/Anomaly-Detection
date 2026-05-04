@@ -29,22 +29,28 @@ def normalize_intraday_columns(input,output) :
 
         df = pd.read_csv(file)
         symbol = file.stem;
-        # df = df.rename(columns={
-        #     "tradeTime":"transaction_time",
-        #     "contractQuantity":"quantity",
-        #     "contractAmount":"amount"
-        # })
-
+       
 
         if symbol not in final_symbols:
             continue
+
+        print(df.head)
+
 
         df.rename(columns={
             "tradeTime":"transaction_time",
             "contractQuantity":"volume",
             "contractRate":"price",
-            "contractAmount":"amount"
+            "contractAmount":"amount",
+            "contractId":"contract_id",
+            "stockSymbol":"symbol",
+            "buyerMemberId":"buyer_member_id",
+            "sellerMemberId":"seller_member_id",
+            "buyerBrokerName":"buyer_broker",
+            "sellerBrokerName":"seller_broker"
+
         },inplace=True)
+        df = df.drop(columns=["businessDate", "stockId", "tradeBookId","securityName"])
 
         df.to_csv(output_dir / f"{symbol}.csv",index=False)
 
@@ -64,8 +70,11 @@ def normalize_interday_columns(input) :
         df.rename(columns={
             "published_date":"transaction_time",
             "traded_quantity":"volume",
-            "traded_amount":"amount",
+            "traded_amount":"amount"
         },inplace=True)
+
+        df = df.drop(columns=["status", "per_change"],errors="ignore")
+        
 
         df.to_csv(output_dir / f"{symbol}.csv",index=False)
 
@@ -95,8 +104,13 @@ def normalize_intraday_test_columns(input,output) :
                 "Trade Time":"transaction_time",
                 "Quantity":"volume",
                 "Rate":"price",
-                "Amount":"amount"
+                "Amount":"amount",
+                "Contract ID":"contract_id",
+                "Symbol":"symbol",
+                "Buyer Broker":"buyer_broker",
+                "Seller Broker":"seller_broker"
             },inplace=True)
+            
 
             df.to_csv(output_dir / f"{symbol}.csv",index=False)
 
@@ -139,12 +153,13 @@ def normalize_scraped_floor_data(input="./floorsheet/floor-2026-04-28.csv",outpu
     
     df= df.rename(columns={
         "quantity":"volume",
-        "contractId":"contract_id",
+        "Contract ID":"contract_id",
         "buyerMemberId":"buyer_member_id",
         "sellerMemberId":"seller_member_id",
         "rate":"price",
-        "stockSymbol":"symbol"
+        "Symbol":"symbol"
     })
+
     
 
     tickers = df["symbol"].unique()
@@ -156,6 +171,7 @@ def normalize_scraped_floor_data(input="./floorsheet/floor-2026-04-28.csv",outpu
         safe_ticker = re.sub(r'[^A-Za-z0-9_\-]', '_', ticker)
 
 
+
         ticker_df.to_csv(output_dir / f"{safe_ticker}.csv", index=False)
 
 
@@ -163,9 +179,8 @@ def normalize_scraped_floor_data(input="./floorsheet/floor-2026-04-28.csv",outpu
 
 
 
-normalize_interday_columns(f"{BASE_DIR}/NepseScraper/data/company-wise")
-normalize_intraday_test_columns(f"{BASE_DIR}/nepse_floorsheet/data/intraday_testing",f"{BASE_DIR}/AnomalyEngine/data/intraday")
-
+# normalize_interday_columns(f"{BASE_DIR}/NepseScraper/data/company-wise")
+# normalize_intraday_test_columns(f"{BASE_DIR}/nepse_floorsheet/data/intraday_testing",f"{BASE_DIR}/AnomalyEngine/data/intraday")
 
 latest_daily_data = Path(f"{BASE_DIR}/NEPSE_API/data/intraday");
 
@@ -173,10 +188,11 @@ for date_folder in latest_daily_data.iterdir() :
     if not date_folder.is_dir(): continue
 
     date = date_folder.name
+
+    print(1);
     
     normalize_intraday_columns(date_folder,f"{BASE_DIR}/AnomalyEngine/data/intraday/{date}");
 
-normalize_scraped_floor_data()
-
+# normalize_scraped_floor_data()
 
 

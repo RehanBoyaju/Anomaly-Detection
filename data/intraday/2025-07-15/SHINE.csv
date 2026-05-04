@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,70495,2025071503000652,SHINE,Vision Securities Pvt. Ltd,Trisul Securities & Invt. Ltd.,10,418.0,4180.0,2025-07-15 11:17:50.434478
 2025-07-15,70085,2025071503000713,SHINE,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,1,418.0,418.0,2025-07-15 11:19:16.978657
 2025-07-15,69532,2025071503000798,SHINE,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,90,418.0,37620.0,2025-07-15 11:21:01.124581

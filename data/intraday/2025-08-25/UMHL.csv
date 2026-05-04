@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57076,2025082504000005,UMHL,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,20,570.2,11404.0,2025-08-25 11:00:19.830767
 2025-08-25,54511,2025082504000193,UMHL,S.P.S.A. Securities Limited,Creative Securities Pvt Ltd,50,572.4,28620.0,2025-08-25 11:12:40.063351
 2025-08-25,54510,2025082504000194,UMHL,Citizens Share Broker Limited,Creative Securities Pvt Ltd,200,572.4,114480.0,2025-08-25 11:12:40.063530

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62838,2025070903000004,CORBL,ABC Securities Private Limited,Roadshow securities limited,10,2547.7,25477.0,2025-07-09 10:46:00.033039
 2025-07-09,62795,2025070903000012,CORBL,Hatemalo Financial Services Private Limited,Hatemalo Financial Services Private Limited,10,2497.0,24970.0,2025-07-09 11:00:09.104417
 2025-07-09,62792,2025070903000013,CORBL,Hatemalo Financial Services Private Limited,Hatemalo Financial Services Private Limited,10,2448.0,24480.0,2025-07-09 11:00:13.123289

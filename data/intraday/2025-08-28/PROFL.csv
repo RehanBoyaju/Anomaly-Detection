@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77081,2025082803000142,PROFL,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,70,497.3,34811.0,2025-08-28 11:05:48.257139
 2025-08-28,73894,2025082803000575,PROFL,Asian Securities Private Ltd.,ABC Securities Private Limited,100,509.0,50900.0,2025-08-28 11:17:08.831779
 2025-08-28,73893,2025082803000576,PROFL,Asian Securities Private Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,350,510.0,178500.0,2025-08-28 11:17:08.831814

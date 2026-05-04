@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157466,2025072904000015,LEC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,10,248.0,2480.0,2025-07-29 10:46:00.057987
 2025-07-29,157374,2025072904000028,LEC,Trishakti Securities Public Limited,Pragyan Securities (PVT) Ltd.,200,248.0,49600.0,2025-07-29 11:00:32.519008
 2025-07-29,157269,2025072904000047,LEC,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,15,249.0,3735.0,2025-07-29 11:00:51.584587

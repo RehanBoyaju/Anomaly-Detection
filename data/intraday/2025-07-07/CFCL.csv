@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71067,2025070703000086,CFCL,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,700,544.0,380800.0,2025-07-07 11:01:10.309714
 2025-07-07,70641,2025070703000269,CFCL,Imperial Securities Company Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,800,544.0,435200.0,2025-07-07 11:03:30.247790
 2025-07-07,70607,2025070703000282,CFCL,Imperial Securities Company Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,100,544.0,54400.0,2025-07-07 11:03:41.598784

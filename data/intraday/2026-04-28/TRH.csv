@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 TRH,17,56,100,745.1,74510.0,2026-04-28 14:59:36.760,2026042804014811
 TRH,58,56,50,745.2,37260.0,2026-04-28 14:59:36.760,2026042804014810
 TRH,54,56,10,745.3,7453.0,2026-04-28 14:59:36.760,2026042804014809

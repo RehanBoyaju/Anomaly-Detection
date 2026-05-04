@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56128,2025082101000086,NMB,Cristal Kanchanjanga Securites Pvt. Ltd.,Shree Krishna Securities Ltd.,50,249.1,12455.0,2025-08-21 11:07:32.393303
 2025-08-21,56127,2025082101000087,NMB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,100,249.0,24900.0,2025-08-21 11:07:32.393390
 2025-08-21,55443,2025082101000206,NMB,Kumari Securities Private Limited,Shree Krishna Securities Ltd.,11,249.0,2739.0,2025-08-21 11:13:28.703228

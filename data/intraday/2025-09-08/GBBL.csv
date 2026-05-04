@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,56819,2025090803000241,GBBL,Malla & Malla Stock Broking Company Pvt. Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,150,430.1,64515.0,2025-09-08 11:20:53.099961
 2025-09-08,56818,2025090803000242,GBBL,ABC Securities Private Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,44,430.0,18920.0,2025-09-08 11:20:53.100194
 2025-09-08,56492,2025090803000265,GBBL,ABC Securities Private Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,93,430.0,39990.0,2025-09-08 11:22:18.364582

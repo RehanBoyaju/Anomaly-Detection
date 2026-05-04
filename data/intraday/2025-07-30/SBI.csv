@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141496,2025073001000003,SBI,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,10,451.4,4514.0,2025-07-30 10:46:00.021869
 2025-07-30,140946,2025073001000218,SBI,Ashutosh Brokerage & Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,150,445.0,66750.0,2025-07-30 11:01:55.580849
 2025-07-30,140651,2025073001000332,SBI,Ashutosh Brokerage & Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,25,445.0,11125.0,2025-07-30 11:02:41.064645

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39270,2025092804000109,API,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,180,295.0,53100.0,2025-09-28 11:03:51.793358
 2025-09-28,38609,2025092804000237,API,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,70,295.0,20650.0,2025-09-28 11:07:10.802160
 2025-09-28,38506,2025092804000258,API,Kumari Securities Private Limited,Nepal Stock House (PVT) Ltd.,100,295.0,29500.0,2025-09-28 11:07:44.752442

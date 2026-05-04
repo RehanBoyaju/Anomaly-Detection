@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,168271,2025072303000297,GMFIL,Vision Securities Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,10,529.0,5290.0,2025-07-23 11:03:09.612310
 2025-07-23,168224,2025072303000304,GMFIL,Sewa Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,200,529.0,105800.0,2025-07-23 11:03:13.603967
 2025-07-23,167470,2025072303000444,GMFIL,South Asian Bulls Pvt. Ltd.,Premier Securities Company Ltd.,20,528.9,10578.0,2025-07-23 11:04:11.911799

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NABBC,71,6,10,1209.0,12090.0,2026-04-28 14:59:59.666,2026042803008676
 NABBC,69,6,115,1209.0,139035.0,2026-04-28 14:59:59.003,2026042803008670
 NABBC,69,69,385,1200.0,462000.0,2026-04-28 14:59:59.003,2026042803008669

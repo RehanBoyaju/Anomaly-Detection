@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39466,2025092803000018,PFL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,401.0,80200.0,2025-09-28 11:02:42.118292
 2025-09-28,38973,2025092803000046,PFL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,403.0,80600.0,2025-09-28 11:05:24.694125
 2025-09-28,38972,2025092803000047,PFL,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,100,403.0,40300.0,2025-09-28 11:05:24.694279

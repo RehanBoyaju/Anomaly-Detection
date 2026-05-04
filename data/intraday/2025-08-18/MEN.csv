@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66281,2025081804000414,MEN,Creative Securities Pvt Ltd,Prabhu Stock Market Limited,50,626.0,31300.0,2025-08-18T11:09:54.16289
 2025-08-18,66280,2025081804000415,MEN,Neev Securities Pvt. Ltd.,Prabhu Stock Market Limited,10,625.0,6250.0,2025-08-18T11:09:54.162981
 2025-08-18,66279,2025081804000416,MEN,Trishakti Securities Public Limited,Prabhu Stock Market Limited,180,623.5,112230.0,2025-08-18T11:09:54.163024

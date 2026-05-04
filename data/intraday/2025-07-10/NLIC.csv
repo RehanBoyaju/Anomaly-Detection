@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88207,2025071003000061,NLIC,Online Securities Pvt. Ltd.,ABC Securities Private Limited,17,763.0,12971.0,2025-07-10 11:02:24.355206
 2025-07-10,87617,2025071003000131,NLIC,Shree Krishna Securities Ltd.,Sanima Securities Limited,10,778.0,7780.0,2025-07-10 11:05:15.968312
 2025-07-10,87187,2025071003000176,NLIC,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,6,762.5,4575.0,2025-07-10 11:07:14.349290

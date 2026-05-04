@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176937,2025072005000208,CIT,KALASH STOCK MARKET PVT. LTD.,Primo Securities (PVT) Ltd.,100,2019.9,201990.0,2025-07-20T11:02:13.201805
 2025-07-20,176100,2025072005000334,CIT,Siprabi Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,10,2023.0,20230.0,2025-07-20T11:03:18.702551
 2025-07-20,176099,2025072005000335,CIT,Siprabi Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,31,2024.0,62744.0,2025-07-20T11:03:18.702611

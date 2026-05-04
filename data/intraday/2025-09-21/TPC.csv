@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,107136,2025092105000548,TPC,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,10,305.0,3050.0,2025-09-21 11:01:15.284972
 2025-09-21,106522,2025092105000775,TPC,ABC Securities Private Limited,Thrive Brokerage House Pvt. Ltd,50,310.0,15500.0,2025-09-21 11:01:47.230599
 2025-09-21,104322,2025092105001645,TPC,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,30,310.0,9300.0,2025-09-21 11:03:47.093992

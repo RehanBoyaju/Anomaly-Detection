@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78091,2025081204000024,AHPC,Sajilo Broker Limited,Naasa Securities Co. Ltd.,10,292.1,2921.0,2025-08-12 11:00:28.068197
 2025-08-12,76677,2025081204000267,AHPC,Thrive Brokerage House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,113,295.0,33335.0,2025-08-12 11:06:21.790059
 2025-08-12,76629,2025081204000279,AHPC,Thrive Brokerage House Pvt. Ltd,Asian Securities Private Ltd.,1387,295.0,409165.0,2025-08-12 11:06:30.091513

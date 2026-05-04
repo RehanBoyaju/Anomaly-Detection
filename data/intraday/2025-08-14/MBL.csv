@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75987,2025081401000131,MBL,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,25,247.1,6177.5,2025-08-14 11:03:22.471362
 2025-08-14,75625,2025081401000235,MBL,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,100,248.0,24800.0,2025-08-14 11:05:33.029646
 2025-08-14,75624,2025081401000236,MBL,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,50,247.4,12370.0,2025-08-14 11:05:33.029769

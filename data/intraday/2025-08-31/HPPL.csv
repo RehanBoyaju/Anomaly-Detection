@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,94550,2025083104000122,HPPL,Shree Krishna Securities Ltd.,J.F. Securites (PVT) Ltd.,10,490.0,4900.0,2025-08-31T11:03:38.822099
 2025-08-31,89924,2025083104000400,HPPL,Shree Krishna Securities Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,300,495.0,148500.0,2025-08-31T11:11:21.022907
 2025-08-31,89386,2025083104000426,HPPL,Shree Krishna Securities Ltd.,Nagarik Stock Dealer ,500,495.0,247500.0,2025-08-31T11:12:18.668901

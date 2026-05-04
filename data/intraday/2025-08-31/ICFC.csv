@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,93168,2025083103000059,ICFC,Malla & Malla Stock Broking Company Pvt. Limited,Midas Stock Broking Company Private Limited,300,670.0,201000.0,2025-08-31T11:05:42.723264
 2025-08-31,91344,2025083103000111,ICFC,Malla & Malla Stock Broking Company Pvt. Limited,Agrawal Securities (PVT) Ltd.,10,679.0,6790.0,2025-08-31T11:08:47.082269
 2025-08-31,91343,2025083103000112,ICFC,Malla & Malla Stock Broking Company Pvt. Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,100,679.0,67900.0,2025-08-31T11:08:47.082408

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45106,2025082601000003,KBL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,600,205.0,123000.0,2025-08-26 10:46:00.023288
 2025-08-26,45105,2025082601000004,KBL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,400,205.0,82000.0,2025-08-26 10:46:00.023331
 2025-08-26,44030,2025082601000200,KBL,Secured Securities Ltd.,INDEX SECURITIES LIMITED,33,202.0,6666.0,2025-08-26 11:11:11.274808

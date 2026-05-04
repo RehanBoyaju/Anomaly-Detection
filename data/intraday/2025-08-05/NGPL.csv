@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,123444,2025080504000265,NGPL,Sharepro Securities Private Limited,Oxford Securities Pvt. Ltd.,100,437.0,43700.0,2025-08-05 11:05:20.711824
 2025-08-05,122888,2025080504000290,NGPL,Agrawal Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,10,439.0,4390.0,2025-08-05 11:05:53.534406
 2025-08-05,122079,2025080504000329,NGPL,Dakshinkali Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,70,439.0,30730.0,2025-08-05 11:06:37.790072

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141266,2025071705000016,NRN,Deevyaa Securities & Stock House Pvt. Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,300,2300.0,690000.0,2025-07-17 11:00:45.240088
 2025-07-17,140588,2025071705000094,NRN,BHOLE GANESH SECURITIES LTD,Premier Securities Company Ltd.,500,2300.0,1150000.0,2025-07-17 11:02:43.246863
 2025-07-17,140443,2025071705000129,NRN,Deevyaa Securities & Stock House Pvt. Ltd,INDEX SECURITIES LIMITED,200,2300.0,460000.0,2025-07-17 11:03:04.738794

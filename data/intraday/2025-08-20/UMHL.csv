@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53836,2025082004000007,UMHL,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,10,580.0,5800.0,2025-08-20 10:46:00.037994
 2025-08-20,53752,2025082004000033,UMHL,Citizens Share Broker Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,500,582.0,291000.0,2025-08-20 11:00:54.460950
 2025-08-20,53733,2025082004000039,UMHL,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,90,581.5,52335.0,2025-08-20 11:01:06.173760

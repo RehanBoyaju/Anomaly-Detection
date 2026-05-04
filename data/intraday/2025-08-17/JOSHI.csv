@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,82246,2025081704000746,JOSHI,Sundhara Securities Limited,Naasa Securities Co. Ltd.,17,324.8,5521.6,2025-08-17 11:13:06.282955
 2025-08-17,82245,2025081704000747,JOSHI,Sundhara Securities Limited,Aryatara Investment & Securities,61,324.9,19818.9,2025-08-17 11:13:06.283086
 2025-08-17,82244,2025081704000748,JOSHI,Sundhara Securities Limited,KALASH STOCK MARKET PVT. LTD.,22,325.0,7150.0,2025-08-17 11:13:06.283122

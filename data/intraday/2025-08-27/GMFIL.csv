@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,68113,2025082703000562,GMFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,30,487.0,14610.0,2025-08-27T11:26:05.465901
 2025-08-27,68112,2025082703000563,GMFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,30,487.0,14610.0,2025-08-27T11:26:05.465936
 2025-08-27,68111,2025082703000564,GMFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,10,487.5,4875.0,2025-08-27T11:26:05.465959

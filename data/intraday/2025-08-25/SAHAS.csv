@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56768,2025082505000055,SAHAS,Dynamic Money Managers Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,636.0,6360.0,2025-08-25 11:01:56.590860
 2025-08-25,56617,2025082505000075,SAHAS,Midas Stock Broking Company Private Limited,Miyo Securities Pvt Ltd,10,644.9,6449.0,2025-08-25 11:02:36.714263
 2025-08-25,56448,2025082505000107,SAHAS,Midas Stock Broking Company Private Limited,Miyo Securities Pvt Ltd,140,644.9,90286.0,2025-08-25 11:03:16.836753

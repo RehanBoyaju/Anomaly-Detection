@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HIDCL,57,57,300,269.9,80970.0,2026-04-28 14:59:56.777,2026042805016491
 HIDCL,57,14,142,269.9,38325.8,2026-04-28 14:59:56.776,2026042805016490
 HIDCL,57,3,132,269.9,35626.8,2026-04-28 14:59:56.776,2026042805016489

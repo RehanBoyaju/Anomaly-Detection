@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55958,2025070803000055,PROFL,Asian Securities Private Ltd.,ABC Securities Private Limited,10,490.0,4900.0,2025-07-08 11:02:15.866081
 2025-07-08,54518,2025070803000261,PROFL,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,10,499.8,4998.0,2025-07-08 11:10:12.619069
 2025-07-08,54514,2025070803000262,PROFL,South Asian Bulls Pvt. Ltd.,Sewa Securities Pvt. Ltd.,94,499.8,46981.2,2025-07-08 11:10:15.215998

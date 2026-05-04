@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,79841,2025081705002913,CIT,Infinity Securities Limited,Nepal Stock House (PVT) Ltd.,10,1955.0,19550.0,2025-08-17 11:19:46.431928
 2025-08-17,79060,2025081705003270,CIT,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,10,1955.0,19550.0,2025-08-17 11:21:38.737083
 2025-08-17,78113,2025081705003615,CIT,Bhrikuti Stock Broking Co. Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,15,1955.0,29325.0,2025-08-17 11:24:23.161848

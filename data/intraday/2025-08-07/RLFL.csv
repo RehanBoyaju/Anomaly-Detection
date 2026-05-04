@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94292,2025080703000217,RLFL,ABC Securities Private Limited,Blue Chip Securities Ltd,10,506.4,5064.0,2025-08-07 11:05:21.231532
 2025-08-07,94122,2025080703000229,RLFL,Oxford Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,500,516.5,258250.0,2025-08-07 11:05:56.783265
 2025-08-07,94070,2025080703000240,RLFL,Oxford Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,500,516.5,258250.0,2025-08-07 11:06:06.871959

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92261,2025080601000362,MBL,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,100,262.7,26270.0,2025-08-06 11:03:03.917750
 2025-08-06,91684,2025080601000549,MBL,Premier Securities Company Ltd.,Aakashbhairab Securities Ltd.,150,262.0,39300.0,2025-08-06 11:04:52.572056
 2025-08-06,91440,2025080601000611,MBL,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,65,261.0,16965.0,2025-08-06 11:05:30.816685

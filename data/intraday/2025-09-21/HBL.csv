@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108772,2025092101000031,HBL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,184.0,1840.0,2025-09-21 10:46:00.019550
 2025-09-21,108771,2025092101000032,HBL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,184.0,1840.0,2025-09-21 10:46:00.019591
 2025-09-21,108770,2025092101000033,HBL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,184.0,1840.0,2025-09-21 10:46:00.019624

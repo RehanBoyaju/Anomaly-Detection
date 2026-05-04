@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,63303,2025070703002150,NABBC,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,1670.0,16700.0,2025-07-07 11:31:29.155216
 2025-07-07,57781,2025070703003253,NABBC,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,56,1670.0,93520.0,2025-07-07 11:51:39.460837
 2025-07-07,51404,2025070703004695,NABBC,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,16,1670.0,26720.0,2025-07-07 12:15:08.110236

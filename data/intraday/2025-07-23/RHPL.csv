@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169801,2025072304000178,RHPL,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,40,350.0,14000.0,2025-07-23 11:00:56.638538
 2025-07-23,168741,2025072304000507,RHPL,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,40,351.0,14040.0,2025-07-23 11:02:33.251900
 2025-07-23,167424,2025072304000996,RHPL,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,70,355.0,24850.0,2025-07-23 11:04:15.407114

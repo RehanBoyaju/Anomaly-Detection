@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CYCL,41,49,15,1495.0,22425.0,2026-04-28 14:59:48.658,2026042804014933
 CYCL,41,5,40,1470.0,58800.0,2026-04-28 14:55:29.406,2026042804013711
 CYCL,88,49,90,1470.0,132300.0,2026-04-28 14:53:29.995,2026042804013191

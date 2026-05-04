@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68729,2025090104000014,HURJA,Agrawal Securities (PVT) Ltd.,INDEX SECURITIES LIMITED,10,238.4,2384.0,2025-09-01 10:46:00.041651
 2025-09-01,68728,2025090104000015,HURJA,Agrawal Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,238.4,2384.0,2025-09-01 10:46:00.041694
 2025-09-01,68434,2025090104000031,HURJA,Sani Securities Company Ltd.,INDEX SECURITIES LIMITED,10,230.0,2300.0,2025-09-01 11:01:27.140573

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,37611,2025092804000420,MHNL,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,100,246.6,24660.0,2025-09-28 11:12:31.453930
 2025-09-28,36479,2025092804000622,MHNL,Kohinoor Investment & Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,1380,246.5,340170.0,2025-09-28 11:18:49.767372
 2025-09-28,32472,2025092804001338,MHNL,Premier Securities Company Ltd.,Sani Securities Company Ltd.,365,251.0,91615.0,2025-09-28 11:41:04.762501

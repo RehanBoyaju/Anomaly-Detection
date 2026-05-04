@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138663,2025072104000046,CGH,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,200,1014.9,202980.0,2025-07-21 11:00:19.194019
 2025-07-21,138662,2025072104000047,CGH,Trishakti Securities Public Limited,Capital Max Securities Ltd,100,1030.0,103000.0,2025-07-21 11:00:19.194059
 2025-07-21,138661,2025072104000048,CGH,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,200,1030.0,206000.0,2025-07-21 11:00:19.194084

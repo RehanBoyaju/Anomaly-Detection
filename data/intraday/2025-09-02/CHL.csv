@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89754,2025090204000004,CHL,Dakshinkali Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,266.3,2663.0,2025-09-02 10:46:00.032640
 2025-09-02,89753,2025090204000005,CHL,Dakshinkali Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,266.3,2663.0,2025-09-02 10:46:00.032705
 2025-09-02,89752,2025090204000006,CHL,Dakshinkali Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,80,266.3,21304.0,2025-09-02 10:46:00.032732

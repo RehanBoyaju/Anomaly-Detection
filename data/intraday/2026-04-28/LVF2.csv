@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 LVF2,38,13,500,10.16,5080.0,2026-04-28 14:59:56.949,2026042801110891
 LVF2,19,13,13360,10.16,135737.6,2026-04-28 14:58:31.271,2026042801108949
 LVF2,58,38,482,10.1,4868.2,2026-04-28 14:51:29.056,2026042801103775

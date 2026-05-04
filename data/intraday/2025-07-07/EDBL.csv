@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,59078,2025070703002974,EDBL,Miyo Securities Pvt Ltd,Vision Securities Pvt. Ltd,545,594.1,323784.5,2025-07-07 11:47:07.956760
 2025-07-07,58202,2025070703003149,EDBL,Miyo Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,40,594.1,23764.0,2025-07-07 11:50:19.789481
 2025-07-07,58179,2025070703003158,EDBL,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,20,600.0,12000.0,2025-07-07 11:50:28.157644

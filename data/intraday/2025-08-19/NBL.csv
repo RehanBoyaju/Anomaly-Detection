@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61346,2025081901000048,NBL,Vision Securities Pvt. Ltd,Sewa Securities Pvt. Ltd.,40,259.0,10360.0,2025-08-19 11:02:48.067058
 2025-08-19,61143,2025081901000088,NBL,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,10,263.0,2630.0,2025-08-19 11:04:11.887520
 2025-08-19,61019,2025081901000111,NBL,Cristal Kanchanjanga Securites Pvt. Ltd.,K.B.L. Securities Limited ,200,259.0,51800.0,2025-08-19 11:05:12.355940

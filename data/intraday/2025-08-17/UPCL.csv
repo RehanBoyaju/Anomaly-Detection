@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86614,2025081704000024,UPCL,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,411.8,4118.0,2025-08-17 10:46:00.045714
 2025-08-17,85833,2025081704000120,UPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sajilo Broker Limited,190,405.0,76950.0,2025-08-17 11:02:34.168223
 2025-08-17,85832,2025081704000121,UPCL,Trisul Securities & Invt. Ltd.,Sajilo Broker Limited,10,405.0,4050.0,2025-08-17 11:02:34.168282

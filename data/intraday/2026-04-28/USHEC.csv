@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 USHEC,65,34,140,487.5,68250.0,2026-04-28 14:59:47.514,2026042805016382
 USHEC,42,16,120,485.5,58260.0,2026-04-28 14:59:40.235,2026042805016322
 USHEC,42,52,10,485.4,4854.0,2026-04-28 14:58:11.695,2026042805015880

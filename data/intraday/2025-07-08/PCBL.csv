@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56111,2025070801000039,PCBL,Siprabi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,259.9,2599.0,2025-07-08 11:01:04.968898
 2025-07-08,54557,2025070801000303,PCBL,J.F. Securites (PVT) Ltd.,Secured Securities Ltd.,100,257.8,25780.0,2025-07-08 11:10:04.907850
 2025-07-08,54360,2025070801000346,PCBL,Vision Securities Pvt. Ltd,Trademow Securities Private Limited,88,256.0,22528.0,2025-07-08 11:11:08.818697

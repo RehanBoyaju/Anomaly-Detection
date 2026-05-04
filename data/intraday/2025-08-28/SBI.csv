@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,76753,2025082801000427,SBI,Citizens Share Broker Limited,Shree Krishna Securities Ltd.,10,387.5,3875.0,2025-08-28 11:07:10.444002
 2025-08-28,73130,2025082801001269,SBI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,74,389.0,28786.0,2025-08-28 11:19:39.547984
 2025-08-28,70936,2025082801001778,SBI,Capital Max Securities Ltd,Kumari Securities Private Limited,10,390.0,3900.0,2025-08-28 11:25:19.516593

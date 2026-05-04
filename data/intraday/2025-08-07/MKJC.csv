@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,92867,2025080705000941,MKJC,Naasa Securities Co. Ltd.,Secured Securities Ltd.,67,593.1,39737.7,2025-08-07 11:09:55.895943
 2025-08-07,92866,2025080705000942,MKJC,SUN SECURITIES PVT LTD,Secured Securities Ltd.,933,593.0,553269.0,2025-08-07 11:09:55.896007
 2025-08-07,92297,2025080705001117,MKJC,SUN SECURITIES PVT LTD,Naasa Securities Co. Ltd.,10,598.2,5982.0,2025-08-07 11:11:48.161578

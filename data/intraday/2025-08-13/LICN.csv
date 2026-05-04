@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,68327,2025081303000209,LICN,Market Securities & Exchange (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,865.2,8652.0,2025-08-13 11:10:02.823376
 2025-08-13,68326,2025081303000210,LICN,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,100,865.1,86510.0,2025-08-13 11:10:02.823446
 2025-08-13,68325,2025081303000211,LICN,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,20,865.0,17300.0,2025-08-13 11:10:02.823479

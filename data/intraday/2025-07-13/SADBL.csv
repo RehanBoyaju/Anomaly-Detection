@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105023,2025071303000087,SADBL,Nepal Investment And Securities Trading Private Limited,Kumari Securities Private Limited,50,437.4,21870.0,2025-07-13T10:46:00.086311
 2025-07-13,105022,2025071303000088,SADBL,Nepal Investment And Securities Trading Private Limited,South Asian Bulls Pvt. Ltd.,18,437.4,7873.2,2025-07-13T10:46:00.086352
 2025-07-13,105021,2025071303000089,SADBL,Nepal Investment And Securities Trading Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,437.4,21870.0,2025-07-13T10:46:00.086387

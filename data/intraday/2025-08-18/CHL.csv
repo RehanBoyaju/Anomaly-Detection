@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,62288,2025081804001348,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,100,303.9,30390.0,2025-08-18T11:27:59.74198
 2025-08-18,62287,2025081804001349,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,280,304.0,85120.0,2025-08-18T11:27:59.742074
 2025-08-18,62286,2025081804001350,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,49,304.0,14896.0,2025-08-18T11:27:59.742172

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68695,2025090104000020,CHCL,Sri Hari Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,516.1,5161.0,2025-09-01 10:46:00.114971
 2025-09-01,67288,2025090104000118,CHCL,Sewa Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,500,506.0,253000.0,2025-09-01 11:05:41.848509
 2025-09-01,66983,2025090104000143,CHCL,Sagarmatha Securities Private Limited,Sagarmatha Securities Private Limited,100,505.8,50580.0,2025-09-01 11:06:49.590078

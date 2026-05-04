@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39850,2025092801000002,CZBIL,Linch Stock Market Ltd.,J.F. Securites (PVT) Ltd.,10,208.0,2080.0,2025-09-28 10:46:00.031036
 2025-09-28,39849,2025092801000003,CZBIL,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,10,208.0,2080.0,2025-09-28 10:46:00.031104
 2025-09-28,39465,2025092801000222,CZBIL,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,10,209.0,2090.0,2025-09-28 11:02:42.718438

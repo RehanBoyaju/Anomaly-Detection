@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,70842,2025071405000116,CIT,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,50,1934.0,96700.0,2025-07-14 11:05:36.031702
 2025-07-14,70436,2025071405000154,CIT,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,3,1896.0,5688.0,2025-07-14 11:06:47.592544
 2025-07-14,70163,2025071405000190,CIT,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,50,1941.0,97050.0,2025-07-14 11:07:42.923762

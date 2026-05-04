@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56701,2025082103000025,MDB,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,50,615.2,30760.0,2025-08-21 11:01:33.854575
 2025-08-21,55968,2025082103000120,MDB,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,10,627.0,6270.0,2025-08-21 11:08:57.299358
 2025-08-21,55526,2025082103000183,MDB,Imperial Securities Company Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,200,625.5,125100.0,2025-08-21 11:12:35.298664

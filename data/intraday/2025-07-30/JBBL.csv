@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140149,2025073003000294,JBBL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,200,400.0,80000.0,2025-07-30 11:03:40.744282
 2025-07-30,139717,2025073003000377,JBBL,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,396.0,7920.0,2025-07-30 11:04:40.377320
 2025-07-30,139716,2025073003000378,JBBL,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,100,396.0,39600.0,2025-07-30 11:04:40.377406

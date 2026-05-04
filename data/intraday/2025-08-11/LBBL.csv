@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97903,2025081103000065,LBBL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,500,576.0,288000.0,2025-08-11 11:02:12.966196
 2025-08-11,97724,2025081103000082,LBBL,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,405,576.0,233280.0,2025-08-11 11:02:41.933915
 2025-08-11,97166,2025081103000164,LBBL,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,1000,577.0,577000.0,2025-08-11 11:04:24.711321

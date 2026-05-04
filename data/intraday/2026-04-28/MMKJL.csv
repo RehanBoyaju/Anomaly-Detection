@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MMKJL,96,57,10,515.0,5150.0,2026-04-28 14:59:37.681,2026042805016300
 MMKJL,48,16,10,514.0,5140.0,2026-04-28 14:59:16.658,2026042805016134
 MMKJL,34,52,10,510.1,5101.0,2026-04-28 14:57:51.024,2026042805015834

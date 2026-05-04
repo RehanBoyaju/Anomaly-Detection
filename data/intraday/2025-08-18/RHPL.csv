@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67906,2025081804000043,RHPL,SHUBHAKAMANA SECURITIES PVT. LTD,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,306.9,3069.0,2025-08-18T10:46:00.05023
 2025-08-18,67540,2025081804000116,RHPL,Primo Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,303.0,9090.0,2025-08-18T11:03:22.413852
 2025-08-18,67169,2025081804000181,RHPL,Himalayan Securities Limited,Imperial Securities Company Pvt. Ltd.,10,301.1,3011.0,2025-08-18T11:05:50.514101

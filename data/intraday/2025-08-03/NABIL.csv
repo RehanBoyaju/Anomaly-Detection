@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152518,2025080301000001,NABIL,Vision Securities Pvt. Ltd,Sweta Securities Private Limited,80,536.0,42880.0,2025-08-03T10:46:00.006926
 2025-08-03,152517,2025080301000002,NABIL,Kohinoor Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,60,536.0,32160.0,2025-08-03T10:46:00.007319
 2025-08-03,152516,2025080301000003,NABIL,Sri Hari Securities Pvt. Ltd.,Sweta Securities Private Limited,20,536.0,10720.0,2025-08-03T10:46:00.007377

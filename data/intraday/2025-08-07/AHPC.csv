@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95411,2025080704000045,AHPC,Pragyan Securities (PVT) Ltd.,Capital Max Securities Ltd,20,291.1,5822.0,2025-08-07 11:01:13.319921
 2025-08-07,95410,2025080704000046,AHPC,Kalika Securities Pvt. Ltd.,Capital Max Securities Ltd,17,291.0,4947.0,2025-08-07 11:01:13.320010
 2025-08-07,94768,2025080704000105,AHPC,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,296.0,2960.0,2025-08-07 11:03:32.762504

@@ -1,2 +1,2 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KBLD90,49,58,5,1455.0,7275.0,2026-04-28 14:58:17.414,2026042801108741

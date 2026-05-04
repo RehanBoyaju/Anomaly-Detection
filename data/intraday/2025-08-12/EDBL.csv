@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,74267,2025081203000461,EDBL,Primo Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,100,629.0,62900.0,2025-08-12 11:15:32.289435
 2025-08-12,72327,2025081203000835,EDBL,Agrawal Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,10,619.0,6190.0,2025-08-12 11:21:37.506858
 2025-08-12,62726,2025081203002662,EDBL,Kalika Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,45,625.0,28125.0,2025-08-12 11:47:46.978247

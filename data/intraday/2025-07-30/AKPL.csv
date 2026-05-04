@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141478,2025073004000006,AKPL,Opal Securities Investment (PVT) Ltd.,Kalika Securities Pvt. Ltd.,10,292.0,2920.0,2025-07-30 10:46:00.036919
 2025-07-30,141477,2025073004000007,AKPL,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,1342,292.0,391864.0,2025-07-30 10:46:00.036946
 2025-07-30,141476,2025073004000008,AKPL,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,658,292.0,192136.0,2025-07-30 10:46:00.036970

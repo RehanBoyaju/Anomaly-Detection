@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,67578,2025090103000089,BFC,Blue Chip Securities Ltd,Vision Securities Pvt. Ltd,10,490.0,4900.0,2025-09-01 11:04:34.683291
 2025-09-01,65660,2025090103000236,BFC,Sumeru Securities Pvt. Ltd.,Secured Securities Ltd.,200,481.0,96200.0,2025-09-01 11:11:15.852131
 2025-09-01,65494,2025090103000264,BFC,Siprabi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,10,481.0,4810.0,2025-09-01 11:11:47.538784

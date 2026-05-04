@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99394,2025071601000041,SBL,Trishakti Securities Public Limited,Primo Securities (PVT) Ltd.,100,379.5,37950.0,2025-07-16 11:00:09.856503
 2025-07-16,99393,2025071601000042,SBL,Trishakti Securities Public Limited,Nepal Investment And Securities Trading Private Limited,100,380.7,38070.0,2025-07-16 11:00:09.856564
 2025-07-16,99378,2025071601000051,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Nabil Stock Dealer Ltd.,10,381.0,3810.0,2025-07-16 11:00:23.281746

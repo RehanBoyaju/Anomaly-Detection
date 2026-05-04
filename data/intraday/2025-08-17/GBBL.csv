@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,83869,2025081703000303,GBBL,Thrive Brokerage House Pvt. Ltd,South Asian Bulls Pvt. Ltd.,31,431.5,13376.5,2025-08-17 11:08:27.445078
 2025-08-17,83868,2025081703000304,GBBL,Thrive Brokerage House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,431.7,43170.0,2025-08-17 11:08:27.445215
 2025-08-17,83867,2025081703000305,GBBL,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,200,431.8,86360.0,2025-08-17 11:08:27.445316

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,146121,2025080404000697,SPDL,Primo Securities (PVT) Ltd.,Kumari Securities Private Limited,30,415.0,12450.0,2025-08-04 11:03:29.744402
 2025-08-04,143460,2025080404000973,SPDL,Primo Securities (PVT) Ltd.,Secured Securities Ltd.,100,415.0,41500.0,2025-08-04 11:05:35.469991
 2025-08-04,142942,2025080404001032,SPDL,Sumeru Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,100,412.2,41220.0,2025-08-04 11:06:01.024454

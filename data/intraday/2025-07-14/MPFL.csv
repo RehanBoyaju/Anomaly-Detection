@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71603,2025071403000101,MPFL,Aryatara Investment & Securities,Prabhu Stock Market Limited,150,624.0,93600.0,2025-07-14 11:03:30.571534
 2025-07-14,70778,2025071403000208,MPFL,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,100,623.1,62310.0,2025-07-14 11:05:45.344782
 2025-07-14,70733,2025071403000210,MPFL,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,100,623.1,62310.0,2025-07-14 11:05:49.483712

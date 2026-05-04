@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,134020,2025071704002555,JOSHI,Kohinoor Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,350.0,3500.0,2025-07-17 11:14:43.992970
 2025-07-17,133142,2025071704002851,JOSHI,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,600,350.0,210000.0,2025-07-17 11:16:00.893362
 2025-07-17,132177,2025071704003206,JOSHI,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,20,350.1,7002.0,2025-07-17 11:17:30.964826

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57930,2025082401000017,KBL,Online Securities Pvt. Ltd.,N.I.M.B. Stock Markets Limited,30,202.9,6087.0,2025-08-24 11:00:57.765720
 2025-08-24,57820,2025082401000042,KBL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,400,202.0,80800.0,2025-08-24 11:02:20.504644
 2025-08-24,57769,2025082401000045,KBL,Midas Stock Broking Company Private Limited,N.I.M.B. Stock Markets Limited,100,202.9,20290.0,2025-08-24 11:02:40.863866

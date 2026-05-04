@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39852,2025092804000003,BARUN,Capital Max Securities Ltd,Kumari Securities Private Limited,10,318.0,3180.0,2025-09-28 10:46:00.028451
 2025-09-28,37696,2025092804000396,BARUN,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,10,324.3,3243.0,2025-09-28 11:12:05.834200
 2025-09-28,37158,2025092804000488,BARUN,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,10,328.0,3280.0,2025-09-28 11:14:49.643824

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,162956,2025073101001731,SBI,Thrive Brokerage House Pvt. Ltd,Online Securities Pvt. Ltd.,50,436.8,21840.0,2025-07-31 11:10:09.492950
 2025-07-31,155386,2025073101004196,SBI,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,15,434.0,6510.0,2025-07-31 11:19:41.170509
 2025-07-31,152068,2025073101005528,SBI,Nepal Investment And Securities Trading Private Limited,Hatemalo Financial Services Private Limited,1000,432.9,432900.0,2025-07-31 11:24:10.800507

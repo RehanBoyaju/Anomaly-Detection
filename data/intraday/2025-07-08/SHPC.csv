@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56257,2025070804000004,SHPC,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,10,593.5,5935.0,2025-07-08 10:46:00.029075
 2025-07-08,55988,2025070804000151,SHPC,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,10,581.7,5817.0,2025-07-08 11:02:00.482865
 2025-07-08,55814,2025070804000264,SHPC,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,500,582.0,291000.0,2025-07-08 11:03:08.431032

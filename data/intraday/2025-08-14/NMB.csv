@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,71658,2025081401001193,NMB,Oxford Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,10,255.0,2550.0,2025-08-14 11:20:45.524420
 2025-08-14,70918,2025081401001375,NMB,Shree Krishna Securities Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,150,253.0,37950.0,2025-08-14 11:23:52.770770
 2025-08-14,70462,2025081401001458,NMB,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,38,253.0,9614.0,2025-08-14 11:25:31.438792

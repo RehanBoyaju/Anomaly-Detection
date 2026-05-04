@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,53158,2025082503001910,CFCL,Primo Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,14,507.0,7098.0,2025-08-25 11:19:34.031394
 2025-08-25,53157,2025082503001911,CFCL,Kohinoor Investment & Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,97,507.0,49179.0,2025-08-25 11:19:34.031466
 2025-08-25,53139,2025082503001915,CFCL,Kohinoor Investment & Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,10,507.0,5070.0,2025-08-25 11:19:41.053303

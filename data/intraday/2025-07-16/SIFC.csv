@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98130,2025071603000210,SIFC,Cristal Kanchanjanga Securites Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,10,551.2,5512.0,2025-07-16 11:05:23.114361
 2025-07-16,97252,2025071603000389,SIFC,Aryatara Investment & Securities,Secured Securities Ltd.,10,558.0,5580.0,2025-07-16 11:08:01.441004
 2025-07-16,96337,2025071603000540,SIFC,Linch Stock Market Ltd.,Sewa Securities Pvt. Ltd.,50,547.0,27350.0,2025-07-16 11:10:37.736815

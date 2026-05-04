@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CKHL,58,57,60,697.0,41820.0,2026-04-28 14:53:52.800,2026042805015077
 CKHL,58,49,10,697.0,6970.0,2026-04-28 14:52:18.291,2026042805014763
 CKHL,58,50,40,697.0,27880.0,2026-04-28 14:48:12.530,2026042805014209

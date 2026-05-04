@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87089,2025070603000121,GMFIL,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,200,506.0,101200.0,2025-07-06 11:01:16.245534
 2025-07-06,87088,2025070603000122,GMFIL,Trishakti Securities Public Limited,Neev Securities Pvt. Ltd.,200,506.0,101200.0,2025-07-06 11:01:16.245641
 2025-07-06,87072,2025070603000127,GMFIL,Aryatara Investment & Securities,Trishakti Securities Public Limited,400,500.0,200000.0,2025-07-06 11:01:25.310524

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SMHL,4,34,254,498.0,126492.0,2026-04-28 14:59:50.463,2026042805016411
 SMHL,58,34,70,499.0,34930.0,2026-04-28 14:59:50.463,2026042805016410
 SMHL,8,34,10,500.0,5000.0,2026-04-28 14:59:29.730,2026042805016240

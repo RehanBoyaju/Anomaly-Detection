@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,65527,2025081403001175,SIFC,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,525.0,5250.0,2025-08-14 11:45:08.141184
 2025-08-14,64611,2025081403001319,SIFC,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,190,525.0,99750.0,2025-08-14 11:48:31.018478
 2025-08-14,60712,2025081403001841,SIFC,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,525.0,5250.0,2025-08-14 12:05:31.747803

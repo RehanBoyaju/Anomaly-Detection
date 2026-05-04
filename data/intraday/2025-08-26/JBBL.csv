@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,43851,2025082603000308,JBBL,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,332.7,3327.0,2025-08-26 11:12:37.758102
 2025-08-26,43850,2025082603000309,JBBL,Secured Securities Ltd.,Sani Securities Company Ltd.,190,332.6,63194.0,2025-08-26 11:12:37.758209
 2025-08-26,43849,2025082603000310,JBBL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,300,330.1,99030.0,2025-08-26 11:12:37.758246

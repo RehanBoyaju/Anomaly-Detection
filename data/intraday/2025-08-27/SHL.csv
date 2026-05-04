@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,66920,2025082704000859,SHL,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,100,565.5,56550.0,2025-08-27T11:31:04.63999
 2025-08-27,66919,2025082704000860,SHL,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,566.0,56600.0,2025-08-27T11:31:04.640088
 2025-08-27,66918,2025082704000861,SHL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,567.0,56700.0,2025-08-27T11:31:04.640131

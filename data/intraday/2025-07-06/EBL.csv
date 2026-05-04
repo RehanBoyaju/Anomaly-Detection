@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86860,2025070601000110,EBL,Trishakti Securities Public Limited,Midas Stock Broking Company Private Limited,24,655.0,15720.0,2025-07-06 11:02:22.380841
 2025-07-06,86050,2025070601000255,EBL,Online Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,375,660.0,247500.0,2025-07-06 11:05:12.464371
 2025-07-06,83731,2025070601000761,EBL,Global IME Securities Limited,Siprabi Securities Pvt. Ltd.,10,658.0,6580.0,2025-07-06 11:12:07.136288

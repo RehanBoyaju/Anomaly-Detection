@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71228,2025070704000021,AKJCL,Thrive Brokerage House Pvt. Ltd,INDEX SECURITIES LIMITED,10,204.1,2041.0,2025-07-07 10:46:00.051474
 2025-07-07,71227,2025070704000022,AKJCL,Thrive Brokerage House Pvt. Ltd,Aryatara Investment & Securities,10,204.1,2041.0,2025-07-07 10:46:00.051515
 2025-07-07,71165,2025070704000032,AKJCL,J.F. Securites (PVT) Ltd.,Linch Stock Market Ltd.,620,212.0,131440.0,2025-07-07 11:00:21.573756

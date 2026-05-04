@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62872,2025070905000005,SAHAS,Secured Securities Ltd.,Sweta Securities Private Limited,50,589.7,29485.0,2025-07-09 10:46:00.023373
 2025-07-09,62871,2025070905000006,SAHAS,Secured Securities Ltd.,Sweta Securities Private Limited,30,589.7,17691.0,2025-07-09 10:46:00.023413
 2025-07-09,62870,2025070905000007,SAHAS,Kohinoor Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,300,589.7,176910.0,2025-07-09 10:46:00.023549

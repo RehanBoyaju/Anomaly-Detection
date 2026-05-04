@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SMPDA,62,14,90,846.3,76167.0,2026-04-28 14:59:53.204,2026042803008449
 SMPDA,1,25,10,852.0,8520.0,2026-04-28 14:59:38.093,2026042803008394
 SMPDA,29,53,19,850.0,16150.0,2026-04-28 14:59:23.986,2026042803008323

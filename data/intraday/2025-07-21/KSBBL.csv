@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138222,2025072103000132,KSBBL,Imperial Securities Company Pvt. Ltd.,K.B.L. Securities Limited ,10,512.0,5120.0,2025-07-21 11:01:22.230051
 2025-07-21,138221,2025072103000133,KSBBL,Sani Securities Company Ltd.,K.B.L. Securities Limited ,90,511.1,45999.0,2025-07-21 11:01:22.230106
 2025-07-21,138038,2025072103000164,KSBBL,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,300,520.0,156000.0,2025-07-21 11:01:47.179523

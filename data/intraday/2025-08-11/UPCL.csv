@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97204,2025081104000206,UPCL,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,200,411.0,82200.0,2025-08-11 11:04:18.004467
 2025-08-11,97086,2025081104000228,UPCL,Vision Securities Pvt. Ltd,Secured Securities Ltd.,1000,409.0,409000.0,2025-08-11 11:04:36.462227
 2025-08-11,97066,2025081104000237,UPCL,Opal Securities Investment (PVT) Ltd.,Secured Securities Ltd.,200,409.0,81800.0,2025-08-11 11:04:38.766433

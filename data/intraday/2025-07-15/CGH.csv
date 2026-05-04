@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73961,2025071504000042,CGH,Elite Stock House Limited,Oxford Securities Pvt. Ltd.,10,946.0,9460.0,2025-07-15 11:00:37.687719
 2025-07-15,73355,2025071504000262,CGH,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,70,950.0,66500.0,2025-07-15 11:04:58.958910
 2025-07-15,73012,2025071504000345,CGH,ABC Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,500,959.9,479950.0,2025-07-15 11:06:41.644092

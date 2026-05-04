@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,65107,2025090303000197,NLIC,Neev Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,37,780.0,28860.0,2025-09-03 11:15:15.789216
 2025-09-03,64514,2025090303000225,NLIC,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,48,780.0,37440.0,2025-09-03 11:17:08.421548
 2025-09-03,64203,2025090303000236,NLIC,S.P.S.A. Securities Limited,Vision Securities Pvt. Ltd,20,780.1,15602.0,2025-09-03 11:17:56.076621

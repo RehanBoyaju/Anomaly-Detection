@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,142041,2025080403000380,EDBL,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,665.0,6650.0,2025-08-04 11:06:45.433005
 2025-08-04,131078,2025080403001215,EDBL,SHUBHAKAMANA SECURITIES PVT. LTD,Capital Max Securities Ltd,250,662.0,165500.0,2025-08-04 11:15:28.291067
 2025-08-04,130863,2025080403001234,EDBL,Premier Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,50,661.0,33050.0,2025-08-04 11:15:39.913362

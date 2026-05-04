@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67282,2025092304000020,RURU,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,690.0,6900.0,2025-09-23 11:00:26.437717
 2025-09-23,64051,2025092304001125,RURU,Property Wiard Limited,Naasa Securities Co. Ltd.,10,703.8,7038.0,2025-09-23 11:10:37.293710
 2025-09-23,63605,2025092304001280,RURU,Property Wiard Limited,Capital Max Securities Ltd,10,717.0,7170.0,2025-09-23 11:12:09.131746

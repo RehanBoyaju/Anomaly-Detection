@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97456,2025081103000123,GBBL,Blue Chip Securities Ltd,Sundhara Securities Limited,10,442.0,4420.0,2025-08-11 11:03:34.276885
 2025-08-11,96880,2025081103000191,GBBL,Ashutosh Brokerage & Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,190,440.0,83600.0,2025-08-11 11:05:05.722267
 2025-08-11,96135,2025081103000259,GBBL,Nabil Stock Dealer Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,300,438.0,131400.0,2025-08-11 11:06:52.816822

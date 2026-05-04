@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,68150,2025081303000239,NFS,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,10,718.0,7180.0,2025-08-13 11:11:02.318154
 2025-08-13,67699,2025081303000298,NFS,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,48,720.0,34560.0,2025-08-13 11:12:52.379748
 2025-08-13,67698,2025081303000299,NFS,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,30,719.0,21570.0,2025-08-13 11:12:52.379804

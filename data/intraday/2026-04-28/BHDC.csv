@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BHDC,33,48,15,463.0,6945.0,2026-04-28 14:59:41.613,2026042805016329
 BHDC,33,45,35,463.0,16205.0,2026-04-28 14:59:41.613,2026042805016328
 BHDC,57,58,88,462.0,40656.0,2026-04-28 14:59:37.336,2026042805016290

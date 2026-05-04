@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56745,2025082504000014,GHL,Ashutosh Brokerage & Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,300,237.5,71250.0,2025-08-25 11:02:01.999909
 2025-08-25,55284,2025082504000117,GHL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,20,240.0,4800.0,2025-08-25 11:08:49.537405
 2025-08-25,53740,2025082504000344,GHL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,20,239.5,4790.0,2025-08-25 11:16:53.895959

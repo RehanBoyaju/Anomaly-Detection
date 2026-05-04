@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105298,2025071303000032,BFC,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,508.7,101740.0,2025-07-13T10:46:00.032928
 2025-07-13,105297,2025071303000033,BFC,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,508.7,101740.0,2025-07-13T10:46:00.032963
 2025-07-13,103896,2025071303000395,BFC,Sumeru Securities Pvt. Ltd.,Asian Securities Private Ltd.,100,518.0,51800.0,2025-07-13T11:01:05.267094

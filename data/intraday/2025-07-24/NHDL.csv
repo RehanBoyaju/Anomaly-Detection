@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,152893,2025072404000798,NHDL,Blue Chip Securities Ltd,Nepal Stock House (PVT) Ltd.,10,750.0,7500.0,2025-07-24 11:03:35.068063
 2025-07-24,152874,2025072404000809,NHDL,Blue Chip Securities Ltd,Primo Securities (PVT) Ltd.,10,751.0,7510.0,2025-07-24 11:03:39.079305
 2025-07-24,149214,2025072404002158,NHDL,Secured Securities Ltd.,Blue Chip Securities Ltd,49,746.0,36554.0,2025-07-24 11:09:58.064452

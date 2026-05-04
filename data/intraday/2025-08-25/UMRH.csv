@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,52602,2025082504000523,UMRH,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,25,601.0,15025.0,2025-08-25 11:22:08.469630
 2025-08-25,52601,2025082504000524,UMRH,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,290,600.2,174058.0,2025-08-25 11:22:08.469700
 2025-08-25,52600,2025082504000525,UMRH,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,150,600.1,90015.0,2025-08-25 11:22:08.469728

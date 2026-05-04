@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RIDI,94,21,500,348.0,174000.0,2026-04-28 14:59:59.849,2026042804015074
 RIDI,51,34,79,347.3,27436.7,2026-04-28 14:59:58.971,2026042804015048
 RIDI,51,34,271,347.4,94145.4,2026-04-28 14:59:58.971,2026042804015047

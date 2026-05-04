@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,138502,2025073004000586,NHDL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,10,765.0,7650.0,2025-07-30 11:07:15.018658
 2025-07-30,135218,2025073004001297,NHDL,Neev Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,50,763.9,38195.0,2025-07-30 11:13:12.643057
 2025-07-30,135217,2025073004001298,NHDL,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,50,764.0,38200.0,2025-07-30 11:13:12.643134

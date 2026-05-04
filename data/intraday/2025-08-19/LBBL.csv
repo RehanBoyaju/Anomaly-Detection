@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61043,2025081903000088,LBBL,Midas Stock Broking Company Private Limited,ABC Securities Private Limited,10,548.0,5480.0,2025-08-19 11:05:04.395561
 2025-08-19,60259,2025081903000147,LBBL,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,25,545.0,13625.0,2025-08-19 11:09:56.273840
 2025-08-19,59003,2025081903000263,LBBL,Infinity Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,78,545.0,42510.0,2025-08-19 11:16:41.267296

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140490,2025073004000181,LEC,Trishakti Securities Public Limited,Dakshinkali Investment & Securities Pvt. Ltd.,90,244.9,22041.0,2025-07-30 11:03:02.397135
 2025-07-30,139892,2025073004000304,LEC,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,30,243.0,7290.0,2025-07-30 11:04:15.264422
 2025-07-30,139891,2025073004000305,LEC,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,245.0,73500.0,2025-07-30 11:04:15.264486

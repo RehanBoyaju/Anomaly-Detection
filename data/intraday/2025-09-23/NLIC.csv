@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,66760,2025092303000095,NLIC,J.F. Securites (PVT) Ltd.,Secured Securities Ltd.,91,752.0,68432.0,2025-09-23 11:02:41.479204
 2025-09-23,65589,2025092303000281,NLIC,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,20,752.4,15048.0,2025-09-23 11:06:18.878196
 2025-09-23,63648,2025092303000533,NLIC,Siprabi Securities Pvt. Ltd.,Kumari Securities Private Limited,30,755.0,22650.0,2025-09-23 11:12:00.238810

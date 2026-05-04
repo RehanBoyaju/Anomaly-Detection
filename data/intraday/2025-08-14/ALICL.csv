@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,71001,2025081403000548,ALICL,Capital Hub P. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,100,491.9,49190.0,2025-08-14 11:23:27.957828
 2025-08-14,71000,2025081403000549,ALICL,Capital Hub P. Ltd,Sri Hari Securities Pvt. Ltd.,30,491.9,14757.0,2025-08-14 11:23:27.957911
 2025-08-14,65835,2025081403001127,ALICL,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,487.2,4872.0,2025-08-14 11:43:38.824256

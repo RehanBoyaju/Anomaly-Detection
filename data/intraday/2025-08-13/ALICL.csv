@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69506,2025081303000056,ALICL,Sagarmatha Securities Private Limited,Sundhara Securities Limited,10,494.9,4949.0,2025-08-13 11:03:09.789075
 2025-08-13,67030,2025081303000401,ALICL,Online Securities Pvt. Ltd.,Kumari Securities Private Limited,10,488.2,4882.0,2025-08-13 11:16:13.946504
 2025-08-13,65636,2025081303000596,ALICL,Online Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,10,488.2,4882.0,2025-08-13 11:21:49.453243

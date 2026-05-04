@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,56838,2025081903000532,SFCL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,20,467.0,9340.0,2025-08-19 11:26:14.583911
 2025-08-19,56837,2025081903000533,SFCL,Creative Securities Pvt Ltd,Sani Securities Company Ltd.,20,466.4,9328.0,2025-08-19 11:26:14.584089
 2025-08-19,56836,2025081903000534,SFCL,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,24,466.3,11191.2,2025-08-19 11:26:14.584189

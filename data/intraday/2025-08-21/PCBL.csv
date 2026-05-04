@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56600,2025082101000025,PCBL,Creative Securities Pvt Ltd,Sundhara Securities Limited,500,253.1,126550.0,2025-08-21 11:02:37.689971
 2025-08-21,56599,2025082101000026,PCBL,Thrive Brokerage House Pvt. Ltd,Sundhara Securities Limited,30,253.0,7590.0,2025-08-21 11:02:37.690093
 2025-08-21,56598,2025082101000027,PCBL,Dakshinkali Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,10,253.0,2530.0,2025-08-21 11:02:37.690190

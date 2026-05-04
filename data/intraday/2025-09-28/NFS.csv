@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38486,2025092803000076,NFS,J.F. Securites (PVT) Ltd.,Pragyan Securities (PVT) Ltd.,200,646.2,129240.0,2025-09-28 11:07:54.519189
 2025-09-28,38431,2025092803000079,NFS,Oxford Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,10,658.0,6580.0,2025-09-28 11:08:16.690339
 2025-09-28,38430,2025092803000080,NFS,Oxford Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,10,658.0,6580.0,2025-09-28 11:08:16.690379

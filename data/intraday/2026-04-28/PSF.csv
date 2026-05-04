@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PSF,29,58,100,12.17,1217.0,2026-04-28 14:27:35.985,2026042805012124
 PSF,64,58,100,12.15,1215.0,2026-04-28 13:55:23.639,2026042805009671
 PSF,29,35,800,12.24,9792.0,2026-04-28 13:49:09.852,2026042805009306

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,60434,2025070904001331,SHL,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,130,565.0,73450.0,2025-07-09 11:14:14.448157
 2025-07-09,60293,2025070904001389,SHL,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,100,569.0,56900.0,2025-07-09 11:15:07.130514
 2025-07-09,60292,2025070904001390,SHL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,400,569.9,227960.0,2025-07-09 11:15:07.130728

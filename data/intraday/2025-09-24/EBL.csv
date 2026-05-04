@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47693,2025092401000011,EBL,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,13,712.0,9256.0,2025-09-24 11:00:50.613415
 2025-09-24,47692,2025092401000012,EBL,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,200,719.6,143920.0,2025-09-24 11:00:50.613457
 2025-09-24,47691,2025092401000013,EBL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,287,720.0,206640.0,2025-09-24 11:00:50.613486

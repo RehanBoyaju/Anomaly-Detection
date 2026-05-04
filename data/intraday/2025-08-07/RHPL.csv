@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94322,2025080704000159,RHPL,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,20,325.3,6506.0,2025-08-07 11:05:15.375006
 2025-08-07,94321,2025080704000160,RHPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,20,325.1,6502.0,2025-08-07 11:05:15.375078
 2025-08-07,94320,2025080704000161,RHPL,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,20,325.1,6502.0,2025-08-07 11:05:15.375110

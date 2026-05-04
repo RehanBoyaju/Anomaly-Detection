@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ILI,42,49,12,435.7,5228.4,2026-04-28 14:59:55.281,2026042805016451
 ILI,35,4,22,436.0,9592.0,2026-04-28 14:59:50.219,2026042805016397
 ILI,19,4,10,436.0,4360.0,2026-04-28 14:59:22.094,2026042805016174

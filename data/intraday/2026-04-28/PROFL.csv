@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PROFL,58,22,351,441.0,154791.0,2026-04-28 14:59:54.056,2026042803008603
 PROFL,21,22,50,441.0,22050.0,2026-04-28 14:59:36.065,2026042803008389
 PROFL,47,7,50,444.0,22200.0,2026-04-28 14:59:34.167,2026042803008382

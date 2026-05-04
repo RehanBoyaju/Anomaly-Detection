@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72499,2025082701000010,NMB,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,254.9,2549.0,2025-08-27T10:46:00.047919
 2025-08-27,71691,2025082701000172,NMB,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,200,251.5,50300.0,2025-08-27T11:07:25.735786
 2025-08-27,71658,2025082701000180,NMB,Vision Securities Pvt. Ltd,Arun Securities (PVT) Ltd.,800,251.5,201200.0,2025-08-27T11:07:41.453241

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78341,2025082804000013,CHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,500,288.3,144150.0,2025-08-28 10:46:00.041982
 2025-08-28,77665,2025082804000220,CHL,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,400,291.0,116400.0,2025-08-28 11:03:46.233837
 2025-08-28,75832,2025082804000749,CHL,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,200,290.0,58000.0,2025-08-28 11:10:41.064999

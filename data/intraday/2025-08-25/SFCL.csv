@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55554,2025082503000951,SFCL,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,16,457.3,7316.8,2025-08-25 11:07:43.443573
 2025-08-25,53706,2025082503001682,SFCL,Nepal Investment And Securities Trading Private Limited,Online Securities Pvt. Ltd.,50,460.0,23000.0,2025-08-25 11:16:58.726628
 2025-08-25,53681,2025082503001691,SFCL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,10,458.0,4580.0,2025-08-25 11:17:06.047762

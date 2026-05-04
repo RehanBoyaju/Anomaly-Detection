@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38007,2025092801001018,NICA,Sani Securities Company Ltd.,Beni Securities Pvt.Ltd.,10,335.0,3350.0,2025-09-28 11:10:25.024404
 2025-09-28,38006,2025092801001019,NICA,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,50,336.9,16845.0,2025-09-28 11:10:25.024460
 2025-09-28,38005,2025092801001020,NICA,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,100,337.0,33700.0,2025-09-28 11:10:25.024491

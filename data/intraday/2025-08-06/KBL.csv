@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93174,2025080601000002,KBL,Beni Securities Pvt.Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,220.0,2200.0,2025-08-06 10:46:00.020375
 2025-08-06,92853,2025080601000110,KBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,KALASH STOCK MARKET PVT. LTD.,500,217.5,108750.0,2025-08-06 11:01:20.839623
 2025-08-06,92852,2025080601000111,KBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,250,217.9,54475.0,2025-08-06 11:01:20.839680

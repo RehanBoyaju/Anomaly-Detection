@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,165667,2025073101000820,ADBL,Deevyaa Securities & Stock House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,500,334.8,167400.0,2025-07-31 11:06:04.092845
 2025-07-31,165666,2025073101000821,ADBL,Deevyaa Securities & Stock House Pvt. Ltd,Creative Securities Pvt Ltd,100,334.8,33480.0,2025-07-31 11:06:04.092893
 2025-07-31,165665,2025073101000822,ADBL,Deevyaa Securities & Stock House Pvt. Ltd,Creative Securities Pvt Ltd,1000,334.9,334900.0,2025-07-31 11:06:04.092919

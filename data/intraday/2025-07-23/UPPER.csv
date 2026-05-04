@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170221,2025072304000027,UPPER,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,194,214.2,41554.8,2025-07-23 10:46:00.063885
 2025-07-23,170220,2025072304000028,UPPER,Opal Securities Investment (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,214.2,64260.0,2025-07-23 10:46:00.063922
 2025-07-23,170219,2025072304000029,UPPER,Opal Securities Investment (PVT) Ltd.,Asian Securities Private Ltd.,20,214.2,4284.0,2025-07-23 10:46:00.063955

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72398,2025071403000018,NFS,Aakashbhairab Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,750.0,75000.0,2025-07-14 11:00:48.489950
 2025-07-14,72306,2025071403000029,NFS,Aakashbhairab Securities Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,150,750.0,112500.0,2025-07-14 11:01:04.302802
 2025-07-14,72305,2025071403000030,NFS,J.F. Securites (PVT) Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,50,750.0,37500.0,2025-07-14 11:01:04.302884

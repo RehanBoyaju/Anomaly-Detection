@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55961,2025070804000170,NGPL,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,50,376.0,18800.0,2025-07-08 11:02:15.655737
 2025-07-08,55960,2025070804000171,NGPL,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,84,377.0,31668.0,2025-07-08 11:02:15.655844
 2025-07-08,55888,2025070804000211,NGPL,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,50,376.0,18800.0,2025-07-08 11:02:38.625815

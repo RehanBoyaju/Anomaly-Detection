@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38947,2025092805000208,NRN,Neev Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,1963.2,19632.0,2025-09-28 11:05:37.228230
 2025-09-28,37529,2025092805000489,NRN,Sani Securities Company Ltd.,Nagarik Stock Dealer ,200,1999.0,399800.0,2025-09-28 11:12:59.850398
 2025-09-28,37528,2025092805000490,NRN,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,2000.0,20000.0,2025-09-28 11:12:59.850437

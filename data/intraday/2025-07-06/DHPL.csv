@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86594,2025070604000195,DHPL,Trishakti Securities Public Limited,Secured Securities Ltd.,10,329.0,3290.0,2025-07-06 11:03:26.288479
 2025-07-06,84208,2025070604000907,DHPL,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,140,329.0,46060.0,2025-07-06 11:11:00.415578
 2025-07-06,82864,2025070604001259,DHPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,150,327.0,49050.0,2025-07-06 11:14:13.715381

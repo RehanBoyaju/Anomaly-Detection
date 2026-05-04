@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39842,2025092804000008,UNHPL,K.B.L. Securities Limited ,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,475.0,23750.0,2025-09-28 10:46:00.042516
 2025-09-28,39788,2025092804000023,UNHPL,Sri Hari Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,1000,473.0,473000.0,2025-09-28 11:00:54.542780
 2025-09-28,39765,2025092804000026,UNHPL,Sharepro Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,1000,477.9,477900.0,2025-09-28 11:01:12.267022

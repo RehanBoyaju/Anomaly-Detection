@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177061,2025072203000012,JBBL,Kumari Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,380.0,3800.0,2025-07-22 10:46:00.051118
 2025-07-22,176823,2025072203000137,JBBL,Asian Securities Private Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,210,379.0,79590.0,2025-07-22 11:00:56.573547
 2025-07-22,176706,2025072203000203,JBBL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,80,379.0,30320.0,2025-07-22 11:01:21.656298

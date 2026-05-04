@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,74135,2025081204000951,UNHPL,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,380.0,11400.0,2025-08-12 11:15:58.921897
 2025-08-12,74134,2025081204000952,UNHPL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,380.0,7600.0,2025-08-12 11:15:58.921984
 2025-08-12,73601,2025081204001097,UNHPL,South Asian Bulls Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,50,380.1,19005.0,2025-08-12 11:17:57.047051

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,65229,2025081803000256,NABBC,Online Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,40,1501.1,60044.0,2025-08-18T11:15:19.459355
 2025-08-18,65228,2025081803000257,NABBC,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,30,1501.0,45030.0,2025-08-18T11:15:19.459397
 2025-08-18,65227,2025081803000258,NABBC,Agrawal Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,30,1500.0,45000.0,2025-08-18T11:15:19.459424

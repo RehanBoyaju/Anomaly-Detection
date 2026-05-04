@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130947,2025080505000002,HIDCL,Asian Securities Private Ltd.,Roadshow securities limited,10,295.0,2950.0,2025-08-05 10:46:00.021239
 2025-08-05,127576,2025080505000151,HIDCL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,42,296.0,12432.0,2025-08-05 11:02:15.710945
 2025-08-05,127374,2025080505000159,HIDCL,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,500,296.0,148000.0,2025-08-05 11:02:24.718729

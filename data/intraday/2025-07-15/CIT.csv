@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,72760,2025071505000167,CIT,Vision Securities Pvt. Ltd,ABC Securities Private Limited,10,1930.0,19300.0,2025-07-15 11:08:11.190792
 2025-07-15,72528,2025071505000215,CIT,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,10,1940.0,19400.0,2025-07-15 11:09:09.467354
 2025-07-15,69566,2025071505000626,CIT,S.P.S.A. Securities Limited,J.F. Securites (PVT) Ltd.,11,1935.0,21285.0,2025-07-15 11:20:50.826973

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56470,2025082505000102,SPC,Himalayan Brokerage Company Limited,Sani Securities Company Ltd.,1000,537.4,537400.0,2025-08-25 11:03:10.613210
 2025-08-25,55446,2025082505000327,SPC,Magnet Securities and Investment Company Private Limited,Sundhara Securities Limited,10,534.9,5349.0,2025-08-25 11:08:11.949986
 2025-08-25,55445,2025082505000328,SPC,Magnet Securities and Investment Company Private Limited,Vision Securities Pvt. Ltd,200,535.0,107000.0,2025-08-25 11:08:11.950065

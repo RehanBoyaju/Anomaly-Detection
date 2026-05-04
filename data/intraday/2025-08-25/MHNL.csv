@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56698,2025082504000015,MHNL,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,10,263.1,2631.0,2025-08-25 11:02:12.006486
 2025-08-25,55442,2025082504000107,MHNL,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,271.5,13575.0,2025-08-25 11:08:12.259482
 2025-08-25,55344,2025082504000111,MHNL,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,10,276.0,2760.0,2025-08-25 11:08:37.378906

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61599,2025081904000117,UNHPL,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,15,415.9,6238.5,2025-08-19 11:00:46.552334
 2025-08-19,61576,2025081904000139,UNHPL,Secured Securities Ltd.,South Asian Bulls Pvt. Ltd.,396,415.9,164696.4,2025-08-19 11:00:50.889385
 2025-08-19,61575,2025081904000140,UNHPL,Secured Securities Ltd.,Online Securities Pvt. Ltd.,190,416.0,79040.0,2025-08-19 11:00:50.889454

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170316,2025072305000001,CIT,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,2040.0,20400.0,2025-07-23 10:46:00.006831
 2025-07-23,169749,2025072305000169,CIT,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,12,2039.0,24468.0,2025-07-23 11:01:01.805406
 2025-07-23,169557,2025072305000253,CIT,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,20,2044.9,40898.0,2025-07-23 11:01:21.447810

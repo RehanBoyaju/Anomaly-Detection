@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7090,2025091804000109,UNHPL,Prabhu Stock Market Limited,Naasa Securities Co. Ltd.,10,454.7,4547.0,2025-09-18 10:46:00.109387
 2025-09-18,7089,2025091804000110,UNHPL,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,30,454.7,13641.0,2025-09-18 10:46:00.109427
 2025-09-18,7088,2025091804000111,UNHPL,Thrive Brokerage House Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,590,454.7,268273.0,2025-09-18 10:46:00.109459

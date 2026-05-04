@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,153796,2025072904000765,PPCL,KALASH STOCK MARKET PVT. LTD.,Premier Securities Company Ltd.,10,383.2,3832.0,2025-07-29 11:07:09.923062
 2025-07-29,153199,2025072904000899,PPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,125,383.2,47900.0,2025-07-29 11:08:01.407350
 2025-07-29,153198,2025072904000900,PPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,KALASH STOCK MARKET PVT. LTD.,10,390.0,3900.0,2025-07-29 11:08:01.407389

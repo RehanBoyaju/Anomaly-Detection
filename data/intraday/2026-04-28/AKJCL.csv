@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 AKJCL,34,14,10,384.9,3849.0,2026-04-28 14:59:59.738,2026042804015073
 AKJCL,62,14,566,384.9,217853.4,2026-04-28 14:59:57.625,2026042804015026
 AKJCL,62,42,100,384.9,38490.0,2026-04-28 14:59:57.625,2026042804015025

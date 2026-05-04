@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,43592,2025082603000365,GRDBL,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,14,1140.0,15960.0,2025-08-26 11:14:20.725920
 2025-08-26,41921,2025082603000728,GRDBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,4,1150.0,4600.0,2025-08-26 11:26:04.525042
 2025-08-26,39338,2025082603001160,GRDBL,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,1140.0,22800.0,2025-08-26 11:44:14.896917

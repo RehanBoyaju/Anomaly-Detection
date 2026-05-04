@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CLI,49,57,122,456.1,55644.2,2026-04-28 14:59:43.698,2026042805016367
 CLI,49,57,200,456.2,91240.0,2026-04-28 14:59:43.698,2026042805016366
 CLI,49,57,200,456.2,91240.0,2026-04-28 14:59:43.698,2026042805016365

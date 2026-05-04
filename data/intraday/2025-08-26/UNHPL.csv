@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44917,2025082604000040,UNHPL,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,10,385.0,3850.0,2025-08-26 11:02:38.291619
 2025-08-26,44470,2025082604000122,UNHPL,Global IME Securities Limited,Vision Securities Pvt. Ltd,10,395.7,3957.0,2025-08-26 11:07:23.119858
 2025-08-26,42361,2025082604000564,UNHPL,Malla & Malla Stock Broking Company Pvt. Limited,Nabil Stock Dealer Ltd.,350,390.2,136570.0,2025-08-26 11:22:56.425070

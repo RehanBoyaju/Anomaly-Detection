@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58019,2025090704000046,RHPL,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,288.0,2880.0,2025-09-07 10:46:00.036298
 2025-09-07,56127,2025090704000500,RHPL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,14,289.0,4046.0,2025-09-07 11:13:27.492868
 2025-09-07,55955,2025090704000530,RHPL,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,15,287.0,4305.0,2025-09-07 11:14:32.589878

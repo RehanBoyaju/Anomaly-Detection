@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168386,2025073105000089,NRN,J.F. Securites (PVT) Ltd.,Arun Securities (PVT) Ltd.,10,2270.0,22700.0,2025-07-31 11:00:34.059561
 2025-07-31,166972,2025073105000521,NRN,SHUBHAKAMANA SECURITIES PVT. LTD,Ashutosh Brokerage & Securities (PVT) Ltd.,20,2298.0,45960.0,2025-07-31 11:03:46.431216
 2025-07-31,166883,2025073105000543,NRN,NIMB Stock Markets Limited,Sumeru Securities Pvt. Ltd.,300,2298.7,689610.0,2025-07-31 11:03:58.183436

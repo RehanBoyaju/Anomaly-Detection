@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,76910,2025081204000195,CHCL,KALASH STOCK MARKET PVT. LTD.,Sumeru Securities Pvt. Ltd.,10,530.0,5300.0,2025-08-12 11:05:14.928356
 2025-08-12,76884,2025081204000202,CHCL,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,450,530.0,238500.0,2025-08-12 11:05:19.992360
 2025-08-12,76883,2025081204000203,CHCL,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,63,530.0,33390.0,2025-08-12 11:05:19.992421

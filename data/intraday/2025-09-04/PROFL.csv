@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,62782,2025090403000566,PROFL,Sumeru Securities Pvt. Ltd.,Linch Stock Market Ltd.,10,490.5,4905.0,2025-09-04T11:27:02.509238
 2025-09-04,61465,2025090403000725,PROFL,Sundhara Securities Limited,Linch Stock Market Ltd.,50,490.0,24500.0,2025-09-04T11:32:24.533067
 2025-09-04,61464,2025090403000726,PROFL,Sundhara Securities Limited,Vision Securities Pvt. Ltd,90,490.3,44127.0,2025-09-04T11:32:24.533131

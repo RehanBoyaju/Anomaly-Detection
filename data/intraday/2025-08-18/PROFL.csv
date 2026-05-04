@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67854,2025081803000010,PROFL,Pragyan Securities (PVT) Ltd.,Secured Securities Ltd.,10,489.0,4890.0,2025-08-18T11:00:22.302079
 2025-08-18,65896,2025081803000185,PROFL,Sani Securities Company Ltd.,Premier Securities Company Ltd.,63,495.0,31185.0,2025-08-18T11:11:35.940798
 2025-08-18,65895,2025081803000186,PROFL,Agrawal Securities (PVT) Ltd.,Premier Securities Company Ltd.,137,494.0,67678.0,2025-08-18T11:11:35.940939

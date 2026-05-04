@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,67460,2025090103000108,CFCL,Sundhara Securities Limited,Nepal Investment And Securities Trading Private Limited,10,501.0,5010.0,2025-09-01 11:05:07.105581
 2025-09-01,67459,2025090103000109,CFCL,Linch Stock Market Ltd.,Nepal Investment And Securities Trading Private Limited,90,500.1,45009.0,2025-09-01 11:05:07.105646
 2025-09-01,63856,2025090103000401,CFCL,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,20,508.0,10160.0,2025-09-01 11:16:58.403158

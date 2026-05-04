@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47528,2025092401000050,PCBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,700,255.0,178500.0,2025-09-24 11:01:43.617848
 2025-09-24,47527,2025092401000051,PCBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Oxford Securities Pvt. Ltd.,100,255.9,25590.0,2025-09-24 11:01:43.617888
 2025-09-24,47526,2025092401000052,PCBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,50,256.0,12800.0,2025-09-24 11:01:43.617911

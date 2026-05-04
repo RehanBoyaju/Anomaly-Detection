@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,6655,2025091804000216,JOSHI,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,100,272.0,27200.0,2025-09-18 11:00:21.131424
 2025-09-18,6560,2025091804000258,JOSHI,Sani Securities Company Ltd.,Trishakti Securities Public Limited,370,272.0,100640.0,2025-09-18 11:00:42.948344
 2025-09-18,4805,2025091804000780,JOSHI,Secured Securities Ltd.,Trishakti Securities Public Limited,100,266.6,26660.0,2025-09-18 11:23:08.840887

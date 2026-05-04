@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56657,2025082103000027,NLICL,Sipla Securities Private Limited,Trisul Securities & Invt. Ltd.,10,618.0,6180.0,2025-08-21 11:02:05.181053
 2025-08-21,56656,2025082103000028,NLICL,Sipla Securities Private Limited,Trishakti Securities Public Limited,500,618.0,309000.0,2025-08-21 11:02:05.181099
 2025-08-21,56204,2025082103000088,NLICL,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,40,606.1,24244.0,2025-08-21 11:06:31.280213

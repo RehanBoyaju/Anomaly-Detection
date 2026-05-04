@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,5502,2025091803000339,EDBL,Sweta Securities Private Limited,Sumeru Securities Pvt. Ltd.,50,600.0,30000.0,2025-09-18 11:22:27.392859
 2025-09-18,4424,2025091803000453,EDBL,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,290,588.0,170520.0,2025-09-18 12:03:26.795193
 2025-09-18,4397,2025091803000462,EDBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,210,588.0,123480.0,2025-09-18 12:03:27.999395

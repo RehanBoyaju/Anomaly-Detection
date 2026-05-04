@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67730,2025090303000054,SFCL,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,50,435.0,21750.0,2025-09-03 11:04:30.272167
 2025-09-03,67729,2025090303000055,SFCL,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,30,435.0,13050.0,2025-09-03 11:04:30.272283
 2025-09-03,67629,2025090303000063,SFCL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,219,430.2,94213.8,2025-09-03 11:04:58.533121

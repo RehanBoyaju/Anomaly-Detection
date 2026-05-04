@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,150071,2025080304000215,UNHPL,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,50,407.1,20355.0,2025-08-03T11:04:02.890653
 2025-08-03,149650,2025080304000278,UNHPL,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,50,407.1,20355.0,2025-08-03T11:04:37.306368
 2025-08-03,149649,2025080304000279,UNHPL,Elite Stock House Limited,Agrawal Securities (PVT) Ltd.,500,407.0,203500.0,2025-08-03T11:04:37.306406

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141280,2025073001000107,HBL,ABC Securities Private Limited,Vision Securities Pvt. Ltd,10,246.0,2460.0,2025-07-30 11:00:41.865065
 2025-07-30,141192,2025073001000132,HBL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,190,246.0,46740.0,2025-07-30 11:01:07.768051
 2025-07-30,141191,2025073001000133,HBL,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,10,246.0,2460.0,2025-07-30 11:01:07.768101

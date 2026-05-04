@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,58840,2025090803000084,SAPDBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Hatemalo Financial Services Private Limited,10,790.0,7900.0,2025-09-08 11:08:11.500717
 2025-09-08,58772,2025090803000090,SAPDBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Shree Krishna Securities Ltd.,10,785.1,7851.0,2025-09-08 11:08:42.275615
 2025-09-08,58403,2025090803000122,SAPDBL,Nepal Investment And Securities Trading Private Limited,Capital Max Securities Ltd,200,798.5,159700.0,2025-09-08 11:10:50.899811

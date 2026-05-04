@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SINDU,39,58,10,758.9,7589.0,2026-04-28 14:59:44.183,2026042803008412
 SINDU,58,58,180,758.9,136602.0,2026-04-28 14:58:36.471,2026042803008189
 SINDU,58,45,20,758.2,15164.0,2026-04-28 14:58:36.471,2026042803008188

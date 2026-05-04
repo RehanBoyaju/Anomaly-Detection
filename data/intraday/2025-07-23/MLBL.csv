@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170238,2025072303000008,MLBL,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,447.6,4476.0,2025-07-23 10:46:00.048696
 2025-07-23,168416,2025072303000269,MLBL,Linch Stock Market Ltd.,Sani Securities Company Ltd.,50,444.0,22200.0,2025-07-23 11:02:56.259047
 2025-07-23,168266,2025072303000298,MLBL,Investment Management Nepal Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,25,443.9,11097.5,2025-07-23 11:03:10.251435

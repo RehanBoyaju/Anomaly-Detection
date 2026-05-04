@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,80227,2025081703000695,EDBL,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,10,625.0,6250.0,2025-08-17 11:18:47.099073
 2025-08-17,76196,2025081703001276,EDBL,K.B.L. Securities Limited ,Imperial Securities Company Pvt. Ltd.,15,629.0,9435.0,2025-08-17 11:29:14.666085
 2025-08-17,76195,2025081703001277,EDBL,K.B.L. Securities Limited ,Malla & Malla Stock Broking Company Pvt. Limited,50,629.9,31495.0,2025-08-17 11:29:14.666151

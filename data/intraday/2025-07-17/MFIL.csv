@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,139067,2025071703000470,MFIL,Shree Krishna Securities Ltd.,Magnet Securities and Investment Company Private Limited,50,634.0,31700.0,2025-07-17 11:06:08.726153
 2025-07-17,138808,2025071703000515,MFIL,Opal Securities Investment (PVT) Ltd.,Magnet Securities and Investment Company Private Limited,80,634.0,50720.0,2025-07-17 11:06:42.673035
 2025-07-17,138545,2025071703000559,MFIL,Linch Stock Market Ltd.,Thrive Brokerage House Pvt. Ltd,100,633.9,63390.0,2025-07-17 11:07:13.459157

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,94838,2025083103000044,RLFL,Premier Securities Company Ltd.,Sundhara Securities Limited,10,479.0,4790.0,2025-08-31T11:03:11.714559
 2025-08-31,92270,2025083103000094,RLFL,Aakashbhairab Securities Ltd.,Nepal Stock House (PVT) Ltd.,65,470.0,30550.0,2025-08-31T11:07:25.726269
 2025-08-31,87083,2025083103000266,RLFL,R.B.B. Securities Company Ltd,Midas Stock Broking Company Private Limited,200,465.1,93020.0,2025-08-31T11:15:55.984674

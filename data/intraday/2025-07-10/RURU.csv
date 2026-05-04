@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87351,2025071004000403,RURU,Asian Securities Private Ltd.,Aryatara Investment & Securities,22,722.0,15884.0,2025-07-10 11:06:27.490560
 2025-07-10,86250,2025071004000720,RURU,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,20,710.0,14200.0,2025-07-10 11:10:48.034485
 2025-07-10,78100,2025071004002939,RURU,Asian Securities Private Ltd.,Aryatara Investment & Securities,11,720.9,7929.9,2025-07-10 11:36:33.473760

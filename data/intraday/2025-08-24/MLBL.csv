@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57620,2025082403000042,MLBL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,40,393.5,15740.0,2025-08-24 11:03:41.358755
 2025-08-24,57619,2025082403000043,MLBL,Sunrise Securities Limited,Online Securities Pvt. Ltd.,1453,393.4,571610.2,2025-08-24 11:03:41.358876
 2025-08-24,56310,2025082403000191,MLBL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,20,395.2,7904.0,2025-08-24 11:12:13.335484

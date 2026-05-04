@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,97229,2025071601001040,SBI,Himalayan Brokerage Company Limited,Neev Securities Pvt. Ltd.,10,444.0,4440.0,2025-07-16 11:08:05.407032
 2025-07-16,96404,2025071601001422,SBI,Market Securities & Exchange (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,20,441.2,8824.0,2025-07-16 11:10:26.395823
 2025-07-16,95934,2025071601001608,SBI,Market Securities & Exchange (PVT) Ltd.,Neev Securities Pvt. Ltd.,80,441.2,35296.0,2025-07-16 11:11:41.625692

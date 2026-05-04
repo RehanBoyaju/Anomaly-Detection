@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98764,2025071603000080,BFC,Blue Chip Securities Ltd,Infinity Securities Limited,10,518.9,5189.0,2025-07-16 11:03:12.918968
 2025-07-16,97998,2025071603000222,BFC,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,40,518.0,20720.0,2025-07-16 11:05:53.022418
 2025-07-16,94509,2025071603000948,BFC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,10,513.5,5135.0,2025-07-16 11:15:17.665920

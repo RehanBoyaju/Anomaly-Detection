@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177678,2025072003000147,JFL,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,150,520.0,78000.0,2025-07-20T11:00:55.136516
 2025-07-20,177618,2025072003000165,JFL,Vision Securities Pvt. Ltd,SUN SECURITIES PVT LTD,150,518.0,77700.0,2025-07-20T11:01:04.795839
 2025-07-20,177617,2025072003000166,JFL,Online Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,25,517.0,12925.0,2025-07-20T11:01:04.795884

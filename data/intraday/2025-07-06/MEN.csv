@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86975,2025070604000097,MEN,Dynamic Money Managers Securities Pvt. Ltd.,ABC Securities Private Limited,100,609.0,60900.0,2025-07-06 11:01:51.497392
 2025-07-06,86782,2025070604000158,MEN,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,25,608.7,15217.5,2025-07-06 11:02:40.519377
 2025-07-06,86752,2025070604000161,MEN,Neev Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,30,601.1,18033.0,2025-07-06 11:02:50.175283

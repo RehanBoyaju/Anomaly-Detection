@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93180,2025080603000002,NFS,Beni Securities Pvt.Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,759.0,7590.0,2025-08-06 10:46:00.015429
 2025-08-06,91980,2025080603000160,NFS,Nepal Investment And Securities Trading Private Limited,Vision Securities Pvt. Ltd,50,746.0,37300.0,2025-08-06 11:04:02.740175
 2025-08-06,91813,2025080603000188,NFS,Opal Securities Investment (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,40,745.0,29800.0,2025-08-06 11:04:30.203135

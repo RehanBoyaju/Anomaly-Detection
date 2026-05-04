@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86045,2025081703000067,LBBL,Sunrise Securities Limited,Prabhu Stock Market Limited,10,546.1,5461.0,2025-08-17 11:01:59.531109
 2025-08-17,85970,2025081703000074,LBBL,Prabhu Stock Market Limited,Aakashbhairab Securities Ltd.,10,561.0,5610.0,2025-08-17 11:02:11.572923
 2025-08-17,84590,2025081703000224,LBBL,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,551.0,11020.0,2025-08-17 11:06:25.946641

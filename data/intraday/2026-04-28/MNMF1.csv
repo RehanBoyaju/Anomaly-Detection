@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MNMF1,4,57,100,9.89,989.0,2026-04-28 14:52:41.743,2026042801104689
 MNMF1,4,1,100,9.89,989.0,2026-04-28 14:28:55.250,2026042801091674
 MNMF1,42,39,100,10.0,1000.0,2026-04-28 14:00:51.605,2026042801079391

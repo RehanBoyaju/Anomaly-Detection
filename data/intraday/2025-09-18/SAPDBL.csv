@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7018,2025091803000096,SAPDBL,Dakshinkali Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,20,761.6,15232.0,2025-09-18 10:46:00.129545
 2025-09-18,7017,2025091803000097,SAPDBL,Dakshinkali Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,185,761.6,140896.0,2025-09-18 10:46:00.129611
 2025-09-18,7016,2025091803000098,SAPDBL,Dakshinkali Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,30,761.6,22848.0,2025-09-18 10:46:00.129642

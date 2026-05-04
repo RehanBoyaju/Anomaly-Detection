@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156573,2025072901000328,TPC,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,100,412.7,41270.0,2025-07-29 11:02:33.864437
 2025-07-29,156447,2025072901000361,TPC,Linch Stock Market Ltd.,Linch Stock Market Ltd.,100,412.7,41270.0,2025-07-29 11:02:48.152046
 2025-07-29,156340,2025072901000381,TPC,Pragyan Securities (PVT) Ltd.,Linch Stock Market Ltd.,790,412.7,326033.0,2025-07-29 11:03:02.729751

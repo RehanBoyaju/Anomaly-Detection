@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HDHPC,65,32,100,225.0,22500.0,2026-04-28 14:59:57.663,2026042804015028
 HDHPC,49,43,269,224.0,60256.0,2026-04-28 14:59:53.163,2026042804014968
 HDHPC,8,43,194,224.1,43475.4,2026-04-28 14:59:53.162,2026042804014967

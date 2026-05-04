@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57022,2025082504000008,KPCL,Global IME Securities Limited,Prabhu Stock Market Limited,200,581.5,116300.0,2025-08-25 11:00:45.339486
 2025-08-25,57021,2025082504000009,KPCL,Global IME Securities Limited,Prabhu Stock Market Limited,800,581.5,465200.0,2025-08-25 11:00:45.339558
 2025-08-25,56445,2025082504000027,KPCL,Aryatara Investment & Securities,Capital Hub P. Ltd,200,582.0,116400.0,2025-08-25 11:03:20.154441

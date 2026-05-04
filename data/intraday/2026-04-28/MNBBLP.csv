@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MNBBLP,67,59,25000,236.2,5905000.0,2026-04-28 13:39:14.665,2026042801071998
 MNBBLP,67,59,75005,236.2,17716181.0,2026-04-28 13:38:58.946,2026042801071940
 MNBBLP,67,59,25000,236.2,5905000.0,2026-04-28 13:38:37.409,2026042801071832

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,76348,2025082804000609,RADHI,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,778.5,7785.0,2025-08-28 11:08:42.420742
 2025-08-28,76176,2025082804000649,RADHI,Miyo Securities Pvt Ltd,Online Securities Pvt. Ltd.,200,773.2,154640.0,2025-08-28 11:09:30.720514
 2025-08-28,75901,2025082804000726,RADHI,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,100,774.0,77400.0,2025-08-28 11:10:30.801443

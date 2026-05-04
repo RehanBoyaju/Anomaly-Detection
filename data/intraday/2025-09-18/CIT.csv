@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7410,2025091805000002,CIT,Prabhu Stock Market Limited,Investment Management Nepal Pvt. Ltd.,10,1858.0,18580.0,2025-09-18 10:46:00.016201
 2025-09-18,7409,2025091805000003,CIT,South Asian Bulls Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,10,1858.0,18580.0,2025-09-18 10:46:00.016252
 2025-09-18,7408,2025091805000004,CIT,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,240,1858.0,445920.0,2025-09-18 10:46:00.016288

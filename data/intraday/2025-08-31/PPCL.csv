@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,86719,2025083104000616,PPCL,Dakshinkali Investment & Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,50,334.0,16700.0,2025-08-31T11:16:36.719063
 2025-08-31,86515,2025083104000641,PPCL,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,315,334.0,105210.0,2025-08-31T11:16:57.286085
 2025-08-31,86156,2025083104000684,PPCL,Dakshinkali Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,135,334.0,45090.0,2025-08-31T11:17:38.187346

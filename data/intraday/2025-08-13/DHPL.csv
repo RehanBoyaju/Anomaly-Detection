@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,67102,2025081304000676,DHPL,Sani Securities Company Ltd.,Sundhara Securities Limited,24,308.0,7392.0,2025-08-13 11:15:41.947015
 2025-08-13,67046,2025081304000688,DHPL,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,26,309.9,8057.4,2025-08-13 11:16:07.185107
 2025-08-13,64993,2025081304001225,DHPL,Linch Stock Market Ltd.,Sweta Securities Private Limited,318,312.0,99216.0,2025-08-13 11:23:55.440187

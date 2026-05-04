@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,54693,2025090703000290,LICN,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,10,862.6,8626.0,2025-09-07 11:21:18.013283
 2025-09-07,53993,2025090703000347,LICN,Sagarmatha Securities Private Limited,Shree Krishna Securities Ltd.,100,852.0,85200.0,2025-09-07 11:24:35.901779
 2025-09-07,53992,2025090703000348,LICN,Sagarmatha Securities Private Limited,Shree Krishna Securities Ltd.,100,850.0,85000.0,2025-09-07 11:24:35.901910

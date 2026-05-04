@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154542,2025072404000062,RURU,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,762.0,7620.0,2025-07-24 10:46:00.087074
 2025-07-24,153238,2025072404000646,RURU,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,10,770.1,7701.0,2025-07-24 11:02:55.498616
 2025-07-24,152295,2025072404001052,RURU,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,10,780.0,7800.0,2025-07-24 11:04:45.266450

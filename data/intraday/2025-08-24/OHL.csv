@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,53933,2025082404000710,OHL,Malla & Malla Stock Broking Company Pvt. Limited,Shree Krishna Securities Ltd.,50,864.0,43200.0,2025-08-24 11:23:30.241746
 2025-08-24,51556,2025082404001225,OHL,Neev Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,20,863.9,17278.0,2025-08-24 11:35:31.215659
 2025-08-24,51555,2025082404001226,OHL,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,50,864.0,43200.0,2025-08-24 11:35:31.215730

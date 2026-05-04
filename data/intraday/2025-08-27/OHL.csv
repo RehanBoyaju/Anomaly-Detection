@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72394,2025082704000030,OHL,Kohinoor Investment & Securities Pvt. Ltd.,Stoxkarts Securities Limited,10,855.0,8550.0,2025-08-27T11:01:25.435411
 2025-08-27,71945,2025082704000078,OHL,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,10,870.1,8701.0,2025-08-27T11:05:27.818571
 2025-08-27,70743,2025082704000256,OHL,Deevyaa Securities & Stock House Pvt. Ltd,Stoxkarts Securities Limited,500,875.0,437500.0,2025-08-27T11:12:52.474174

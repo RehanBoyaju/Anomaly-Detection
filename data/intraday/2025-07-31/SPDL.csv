@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,165479,2025073104000536,SPDL,Primo Securities (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,250,416.1,104025.0,2025-07-31 11:06:18.576183
 2025-07-31,164632,2025073104000670,SPDL,Primo Securities (PVT) Ltd.,Secured Securities Ltd.,150,416.1,62415.0,2025-07-31 11:07:38.088179
 2025-07-31,164363,2025073104000695,SPDL,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,600,416.1,249660.0,2025-07-31 11:08:03.117841

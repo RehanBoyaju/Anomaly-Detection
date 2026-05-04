@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,162687,2025073104001080,NHDL,Vision Securities Pvt. Ltd,Blue Chip Securities Ltd,300,735.0,220500.0,2025-07-31 11:10:31.723357
 2025-07-31,162686,2025073104001081,NHDL,Neev Securities Pvt. Ltd.,Blue Chip Securities Ltd,100,732.3,73230.0,2025-07-31 11:10:31.723420
 2025-07-31,162550,2025073104001112,NHDL,Trisul Securities & Invt. Ltd.,Blue Chip Securities Ltd,10,732.2,7322.0,2025-07-31 11:10:41.741297

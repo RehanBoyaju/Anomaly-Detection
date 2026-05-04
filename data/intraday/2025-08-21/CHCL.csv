@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56517,2025082104000115,CHCL,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,18,511.1,9199.8,2025-08-21 11:03:24.193528
 2025-08-21,56516,2025082104000116,CHCL,Nepal Investment And Securities Trading Private Limited,Aryatara Investment & Securities,25,511.0,12775.0,2025-08-21 11:03:24.193583
 2025-08-21,56515,2025082104000117,CHCL,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,25,510.2,12755.0,2025-08-21 11:03:24.193617

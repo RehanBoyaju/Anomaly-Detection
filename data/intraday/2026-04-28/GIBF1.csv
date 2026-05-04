@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GIBF1,19,4,19500,11.16,217620.0,2026-04-28 14:59:39.451,2026042805016320
 GIBF1,85,49,5000,11.13,55650.00000000001,2026-04-28 14:58:41.302,2026042805016017
 GIBF1,19,52,100,10.85,1085.0,2026-04-28 14:54:43.364,2026042805015236

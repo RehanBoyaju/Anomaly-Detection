@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141469,2025073004000013,AKJCL,J.F. Securites (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,10,219.0,2190.0,2025-07-30 10:46:00.046811
 2025-07-30,141468,2025073004000014,AKJCL,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,1,219.0,219.0,2025-07-30 10:46:00.046837
 2025-07-30,141185,2025073004000058,AKJCL,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,25,223.3,5582.5,2025-07-30 11:01:08.850083

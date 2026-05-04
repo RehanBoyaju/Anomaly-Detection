@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44966,2025082604000026,BPCL,Neev Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,25,815.0,20375.0,2025-08-26 11:01:50.709180
 2025-08-26,44962,2025082604000027,BPCL,SUN SECURITIES PVT LTD,K.B.L. Securities Limited ,50,813.0,40650.0,2025-08-26 11:01:54.770301
 2025-08-26,44946,2025082604000032,BPCL,Property Wiard Limited,Nepal Investment And Securities Trading Private Limited,95,815.0,77425.0,2025-08-26 11:02:08.705278

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154545,2025072404000059,SHEL,Trisul Securities & Invt. Ltd.,Siprabi Securities Pvt. Ltd.,10,320.0,3200.0,2025-07-24 10:46:00.085605
 2025-07-24,154544,2025072404000060,SHEL,Sundhara Securities Limited,Siprabi Securities Pvt. Ltd.,40,320.0,12800.0,2025-07-24 10:46:00.085632
 2025-07-24,154543,2025072404000061,SHEL,Sundhara Securities Limited,Aryatara Investment & Securities,75,320.0,24000.0,2025-07-24 10:46:00.085656

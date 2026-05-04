@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,60282,2025070905000386,CIT,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,1912.0,19120.0,2025-07-09 11:15:11.444952
 2025-07-09,56664,2025070905001085,CIT,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,10,1920.0,19200.0,2025-07-09 11:32:09.504217
 2025-07-09,56392,2025070905001157,CIT,Online Securities Pvt. Ltd.,Sundhara Securities Limited,10,1919.0,19190.0,2025-07-09 11:33:12.810228

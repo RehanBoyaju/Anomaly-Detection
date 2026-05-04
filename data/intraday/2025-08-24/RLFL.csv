@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,51203,2025082403000895,RLFL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,1,470.0,470.0,2025-08-24 11:37:11.779500
 2025-08-24,49000,2025082403001285,RLFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,300,478.4,143520.0,2025-08-24 11:48:42.220086
 2025-08-24,48576,2025082403001324,RLFL,Premier Securities Company Ltd.,Sagarmatha Securities Private Limited,100,483.3,48330.0,2025-08-24 11:50:42.863483

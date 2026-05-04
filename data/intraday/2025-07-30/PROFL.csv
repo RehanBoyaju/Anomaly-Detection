@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140851,2025073003000139,PROFL,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,25,576.0,14400.0,2025-07-30 11:02:09.558607
 2025-07-30,140850,2025073003000140,PROFL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,75,576.5,43237.5,2025-07-30 11:02:09.558653
 2025-07-30,140101,2025073003000299,PROFL,MILKY WAY SHARE BROKER COMPANY LTD ,SHUBHAKAMANA SECURITIES PVT. LTD,30,572.0,17160.0,2025-07-30 11:03:47.810146

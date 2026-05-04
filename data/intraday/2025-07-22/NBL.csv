@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176071,2025072201000129,NBL,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,100,300.0,30000.0,2025-07-22 11:02:39.459862
 2025-07-22,175933,2025072201000156,NBL,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,200,300.0,60000.0,2025-07-22 11:02:57.742545
 2025-07-22,175280,2025072201000277,NBL,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,1000,301.0,301000.0,2025-07-22 11:04:21.524613

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152467,2025080301000008,SANIMA,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,382.6,3826.0,2025-08-03T10:46:00.043
 2025-08-03,151517,2025080301000648,SANIMA,Sundhara Securities Limited,Online Securities Pvt. Ltd.,63,379.0,23877.0,2025-08-03T11:01:54.273851
 2025-08-03,151164,2025080301000891,SANIMA,Market Securities & Exchange (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,221,375.0,82875.0,2025-08-03T11:02:26.46912

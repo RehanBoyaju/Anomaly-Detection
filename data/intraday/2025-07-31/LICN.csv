@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167221,2025073103000335,LICN,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,10,947.0,9470.0,2025-07-31 11:03:14.437203
 2025-07-31,166107,2025073103000619,LICN,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,239,935.0,223465.0,2025-07-31 11:05:23.382702
 2025-07-31,165092,2025073103000840,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,100,929.0,92900.0,2025-07-31 11:06:58.100614

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108512,2025092104000118,KKHC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,10,230.0,2300.0,2025-09-21 10:46:00.044814
 2025-09-21,108511,2025092104000119,KKHC,Premier Securities Company Ltd.,Aryatara Investment & Securities,50,230.0,11500.0,2025-09-21 10:46:00.044838
 2025-09-21,105297,2025092104000807,KKHC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Aryatara Investment & Securities,100,227.0,22700.0,2025-09-21 11:02:50.610289

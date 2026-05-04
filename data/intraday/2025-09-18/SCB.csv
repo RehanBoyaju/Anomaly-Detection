@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7413,2025091801000017,SCB,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,50,619.1,30955.0,2025-09-18 10:46:00.015734
 2025-09-18,7412,2025091801000018,SCB,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,50,619.1,30955.0,2025-09-18 10:46:00.015767
 2025-09-18,7411,2025091801000019,SCB,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,50,619.1,30955.0,2025-09-18 10:46:00.015793

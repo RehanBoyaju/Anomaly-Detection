@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108552,2025092104000106,NGPL,Deevyaa Securities & Stock House Pvt. Ltd,Aryatara Investment & Securities,10,364.0,3640.0,2025-09-21 10:46:00.042984
 2025-09-21,108551,2025092104000107,NGPL,Sumeru Securities Pvt. Ltd.,Aryatara Investment & Securities,100,364.0,36400.0,2025-09-21 10:46:00.043019
 2025-09-21,108550,2025092104000108,NGPL,Sweta Securities Private Limited,Aryatara Investment & Securities,390,364.0,141960.0,2025-09-21 10:46:00.043041

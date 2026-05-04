@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157366,2025072904000029,HDHPC,Capital Max Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,212.0,63600.0,2025-07-29 11:00:35.676494
 2025-07-29,157273,2025072904000045,HDHPC,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,100,210.0,21000.0,2025-07-29 11:00:51.463669
 2025-07-29,157272,2025072904000046,HDHPC,J.F. Securites (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,200,210.0,42000.0,2025-07-29 11:00:51.463780

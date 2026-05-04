@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PCBL,7,34,52,241.5,12558.0,2026-04-28 14:59:54.289,2026042801110714
 PCBL,17,19,362,240.7,87133.4,2026-04-28 14:58:59.970,2026042801109346
 PCBL,45,19,138,240.8,33230.4,2026-04-28 14:58:59.969,2026042801109345

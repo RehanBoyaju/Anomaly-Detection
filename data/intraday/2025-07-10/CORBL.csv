@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88594,2025071003000003,CORBL,Nagarik Stock Dealer ,Roadshow securities limited,10,2546.2,25462.0,2025-07-10 10:46:00.034482
 2025-07-10,88593,2025071003000004,CORBL,ABC Securities Private Limited,Roadshow securities limited,10,2546.2,25462.0,2025-07-10 10:46:00.034513
 2025-07-10,88548,2025071003000010,CORBL,ABC Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,10,2495.3,24953.0,2025-07-10 11:00:06.379140

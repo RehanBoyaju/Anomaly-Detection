@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154177,2025072404000237,SPDL,Imperial Securities Company Pvt. Ltd.,Himalayan Brokerage Company Limited,10,432.0,4320.0,2025-07-24 11:01:10.342121
 2025-07-24,153978,2025072404000311,SPDL,Oxford Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,490,432.0,211680.0,2025-07-24 11:01:34.259981
 2025-07-24,153977,2025072404000312,SPDL,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,432.0,8640.0,2025-07-24 11:01:34.260039

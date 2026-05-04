@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95636,2025080704000029,BPCL,Creative Securities Pvt Ltd,Ashutosh Brokerage & Securities (PVT) Ltd.,310,914.9,283619.0,2025-08-07 11:00:23.992199
 2025-08-07,95583,2025080704000033,BPCL,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,150,915.0,137250.0,2025-08-07 11:00:36.192905
 2025-08-07,95552,2025080704000036,BPCL,Creative Securities Pvt Ltd,ABC Securities Private Limited,150,915.0,137250.0,2025-08-07 11:00:45.105182

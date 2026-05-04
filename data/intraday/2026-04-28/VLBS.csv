@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 VLBS,13,65,20,724.9,14498.0,2026-04-28 14:59:54.624,2026042803008605
 VLBS,7,34,10,723.2,7232.0,2026-04-28 14:59:43.628,2026042803008410
 VLBS,25,65,50,724.9,36245.0,2026-04-28 14:59:33.672,2026042803008378

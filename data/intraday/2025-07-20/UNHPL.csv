@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,178019,2025072004000057,UNHPL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,10,458.3,4583.0,2025-07-20T10:46:00.061774
 2025-07-20,178018,2025072004000058,UNHPL,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,300,458.3,137490.0,2025-07-20T10:46:00.061799
 2025-07-20,178017,2025072004000059,UNHPL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,50,458.3,22915.0,2025-07-20T10:46:00.061824

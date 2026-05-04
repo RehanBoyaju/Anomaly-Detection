@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,93671,2025083103000050,NFS,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,679.0,6790.0,2025-08-31T11:04:45.663308
 2025-08-31,90780,2025083103000140,NFS,Nepal Investment And Securities Trading Private Limited,Blue Chip Securities Ltd,40,673.0,26920.0,2025-08-31T11:09:48.732551
 2025-08-31,88629,2025083103000217,NFS,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,60,673.3,40398.0,2025-08-31T11:13:20.797952

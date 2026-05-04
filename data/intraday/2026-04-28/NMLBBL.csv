@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NMLBBL,45,49,20,612.4,12248.0,2026-04-28 14:59:43.249,2026042803008409
 NMLBBL,58,17,10,613.0,6130.0,2026-04-28 14:58:26.412,2026042803008177
 NMLBBL,45,13,95,612.4,58178.0,2026-04-28 14:57:50.010,2026042803008095

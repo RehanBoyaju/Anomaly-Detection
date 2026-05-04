@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,86793,2025090203000037,MPFL,Malla & Malla Stock Broking Company Pvt. Limited,Siprabi Securities Pvt. Ltd.,10,595.0,5950.0,2025-09-02 11:03:55.075964
 2025-09-02,83437,2025090203000120,MPFL,Aryatara Investment & Securities,South Asian Bulls Pvt. Ltd.,120,584.0,70080.0,2025-09-02 11:09:29.613345
 2025-09-02,83371,2025090203000122,MPFL,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,280,584.0,163520.0,2025-09-02 11:09:36.990146

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105271,2025071303000034,PFL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,427.6,85520.0,2025-07-13T10:46:00.036295
 2025-07-13,105270,2025071303000035,PFL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,427.6,85520.0,2025-07-13T10:46:00.036326
 2025-07-13,104126,2025071303000356,PFL,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,72,435.0,31320.0,2025-07-13T11:00:54.736225

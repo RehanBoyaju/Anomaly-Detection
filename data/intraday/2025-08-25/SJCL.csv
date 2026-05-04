@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55579,2025082504000092,SJCL,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,307.0,3070.0,2025-08-25 11:07:35.523216
 2025-08-25,55021,2025082504000135,SJCL,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,10,301.0,3010.0,2025-08-25 11:10:00.928290
 2025-08-25,54787,2025082504000165,SJCL,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,10,301.0,3010.0,2025-08-25 11:11:11.412218

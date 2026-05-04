@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86638,2025081705000009,NIFRA,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,277.6,2776.0,2025-08-17 10:46:00.025373
 2025-08-17,86291,2025081705000109,NIFRA,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,10,281.0,2810.0,2025-08-17 11:01:19.936113
 2025-08-17,86290,2025081705000110,NIFRA,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,44,280.5,12342.0,2025-08-17 11:01:19.936207

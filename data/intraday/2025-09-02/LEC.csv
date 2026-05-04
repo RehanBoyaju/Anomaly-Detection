@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,84711,2025090204000125,LEC,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,10,238.0,2380.0,2025-09-02 11:07:13.784096
 2025-09-02,84100,2025090204000170,LEC,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,25,241.0,6025.0,2025-09-02 11:08:27.398813
 2025-09-02,83649,2025090204000188,LEC,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,10,238.1,2381.0,2025-09-02 11:09:21.848563

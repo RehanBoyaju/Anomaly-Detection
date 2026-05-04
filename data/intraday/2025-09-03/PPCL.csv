@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,65405,2025090304000387,PPCL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,150,324.0,48600.0,2025-09-03 11:13:53.134261
 2025-09-03,65404,2025090304000388,PPCL,Nabil Stock Dealer Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,323.3,16165.0,2025-09-03 11:13:53.134381
 2025-09-03,60783,2025090304001193,PPCL,Dynamic Money Managers Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,11,328.0,3608.0,2025-09-03 11:30:32.037515

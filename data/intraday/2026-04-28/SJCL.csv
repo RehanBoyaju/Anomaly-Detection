@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SJCL,42,37,10,306.0,3060.0,2026-04-28 14:59:59.852,2026042804015075
 SJCL,4,37,10,306.0,3060.0,2026-04-28 14:59:57.110,2026042804015017
 SJCL,4,59,10,305.0,3050.0,2026-04-28 14:59:49.734,2026042804014942

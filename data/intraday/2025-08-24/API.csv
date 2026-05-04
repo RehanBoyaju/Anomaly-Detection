@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,58023,2025082404000002,API,Creative Securities Pvt Ltd,ABC Securities Private Limited,100,287.1,28710.0,2025-08-24 10:46:00.028540
 2025-08-24,57588,2025082404000065,API,Investment Management Nepal Pvt. Ltd.,Vision Securities Pvt. Ltd,219,292.0,63948.0,2025-08-24 11:03:56.402378
 2025-08-24,57042,2025082404000129,API,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,10,293.0,2930.0,2025-08-24 11:07:35.425434

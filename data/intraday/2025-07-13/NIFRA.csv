@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105314,2025071305000029,NIFRA,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,289.4,28940.0,2025-07-13T10:46:00.028975
 2025-07-13,105313,2025071305000030,NIFRA,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,170,289.4,49198.0,2025-07-13T10:46:00.029012
 2025-07-13,105312,2025071305000031,NIFRA,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,289.4,86820.0,2025-07-13T10:46:00.029044

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104850,2025071305000077,NRN,Nepal Stock House (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,35,2320.0,81200.0,2025-07-13T10:46:00.112473
 2025-07-13,104466,2025071305000093,NRN,Shree Krishna Securities Ltd.,Himalayan Brokerage Company Limited,10,2330.0,23300.0,2025-07-13T11:00:30.110768
 2025-07-13,104303,2025071305000102,NRN,Nepal Stock House (PVT) Ltd.,Sanima Securities Limited,65,2320.0,150800.0,2025-07-13T11:00:43.337731

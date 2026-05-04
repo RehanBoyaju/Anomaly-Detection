@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,54848,2025082103000271,ICFC,Premier Securities Company Ltd.,Kumari Securities Private Limited,100,668.0,66800.0,2025-08-21 11:17:43.446108
 2025-08-21,49191,2025082103001080,ICFC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,80,668.0,53440.0,2025-08-21 11:53:50.203438
 2025-08-21,49190,2025082103001081,ICFC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Investment Management Nepal Pvt. Ltd.,20,668.0,13360.0,2025-08-21 11:53:50.203542

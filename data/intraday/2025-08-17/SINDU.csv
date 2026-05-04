@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85780,2025081703000106,SINDU,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,790.0,39500.0,2025-08-17 11:02:49.129404
 2025-08-17,82716,2025081703000429,SINDU,Bhrikuti Stock Broking Co. Pvt. Ltd.,Online Securities Pvt. Ltd.,10,775.0,7750.0,2025-08-17 11:11:46.724094
 2025-08-17,77899,2025081703001024,SINDU,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,20,790.0,15800.0,2025-08-17 11:24:51.837454

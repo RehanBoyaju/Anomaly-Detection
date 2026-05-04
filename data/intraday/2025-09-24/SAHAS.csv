@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47507,2025092405000109,SAHAS,Naasa Securities Co. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,20,646.0,12920.0,2025-09-24 11:01:50.590035
 2025-09-24,47168,2025092405000214,SAHAS,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,10,641.0,6410.0,2025-09-24 11:03:54.224084
 2025-09-24,47032,2025092405000252,SAHAS,Property Wiard Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,641.1,6411.0,2025-09-24 11:05:00.936445

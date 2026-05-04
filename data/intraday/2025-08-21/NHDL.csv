@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56068,2025082104000296,NHDL,Vision Securities Pvt. Ltd,Trisul Securities & Invt. Ltd.,10,744.0,7440.0,2025-08-21 11:07:57.467952
 2025-08-21,56067,2025082104000297,NHDL,Vision Securities Pvt. Ltd,Sweta Securities Private Limited,90,744.9,67041.0,2025-08-21 11:07:57.468006
 2025-08-21,55817,2025082104000374,NHDL,Vision Securities Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,50,735.0,36750.0,2025-08-21 11:10:11.004513

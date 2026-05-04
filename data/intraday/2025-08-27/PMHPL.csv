@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72501,2025082704000008,PMHPL,Stoxkarts Securities Limited,Swarna Laxmi Securities Pvt. Ltd.,10,393.3,3933.0,2025-08-27T10:46:00.042126
 2025-08-27,71818,2025082704000088,PMHPL,SUN SECURITIES PVT LTD,Shree Krishna Securities Ltd.,16,398.1,6369.6,2025-08-27T11:06:25.046542
 2025-08-27,71640,2025082704000108,PMHPL,KALASH STOCK MARKET PVT. LTD.,Kumari Securities Private Limited,10,406.0,4060.0,2025-08-27T11:07:46.318929

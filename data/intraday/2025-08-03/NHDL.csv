@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,146967,2025080304000607,NHDL,Deevyaa Securities & Stock House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,200,731.0,146200.0,2025-08-03T11:08:47.790629
 2025-08-03,142063,2025080304001296,NHDL,Trisul Securities & Invt. Ltd.,Neev Securities Pvt. Ltd.,20,722.1,14442.0,2025-08-03T11:15:03.33793
 2025-08-03,142062,2025080304001297,NHDL,Deevyaa Securities & Stock House Pvt. Ltd,Neev Securities Pvt. Ltd.,80,722.0,57760.0,2025-08-03T11:15:03.337974

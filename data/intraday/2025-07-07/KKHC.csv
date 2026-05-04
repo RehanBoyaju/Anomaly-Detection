@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71174,2025070704000028,KKHC,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,140,439.0,61460.0,2025-07-07 11:00:15.560185
 2025-07-07,71097,2025070704000041,KKHC,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,50,439.0,21950.0,2025-07-07 11:00:54.932756
 2025-07-07,71096,2025070704000042,KKHC,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,436.0,8720.0,2025-07-07 11:00:54.932851

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,82286,2025070603001611,CFCL,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,100,533.0,53300.0,2025-07-06 11:15:27.576468
 2025-07-06,82107,2025070603001650,CFCL,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,90,533.0,47970.0,2025-07-06 11:15:52.814044
 2025-07-06,82106,2025070603001651,CFCL,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,45,533.0,23985.0,2025-07-06 11:15:52.814129

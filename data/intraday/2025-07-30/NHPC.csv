@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141507,2025073004000001,NHPC,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,10,228.7,2287.0,2025-07-30 10:46:00.006864
 2025-07-30,141183,2025073004000059,NHPC,J.F. Securites (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,10,226.0,2260.0,2025-07-30 11:01:09.606150
 2025-07-30,141009,2025073004000085,NHPC,J.F. Securites (PVT) Ltd.,Online Securities Pvt. Ltd.,15,228.0,3420.0,2025-07-30 11:01:44.879844

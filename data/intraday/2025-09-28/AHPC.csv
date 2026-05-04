@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39533,2025092804000064,AHPC,Midas Stock Broking Company Private Limited,Neev Securities Pvt. Ltd.,100,294.0,29400.0,2025-09-28 11:02:11.477974
 2025-09-28,39263,2025092804000114,AHPC,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,295.0,2950.0,2025-09-28 11:03:53.842157
 2025-09-28,38375,2025092804000274,AHPC,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,14,294.9,4128.6,2025-09-28 11:08:34.272741

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BJHL,58,34,20,1012.1,20242.0,2026-04-28 14:59:57.297,2026042801110909
 BJHL,57,34,30,1013.0,30390.0,2026-04-28 14:59:57.297,2026042801110908
 BJHL,17,59,10,1013.1,10131.0,2026-04-28 14:59:56.531,2026042801110886

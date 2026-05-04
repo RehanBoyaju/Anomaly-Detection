@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37126,2025092505000179,TPC,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,10,335.2,3352.0,2025-09-25 11:04:07.108043
 2025-09-25,37058,2025092505000198,TPC,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,10,329.0,3290.0,2025-09-25 11:04:37.262696
 2025-09-25,35173,2025092505000848,TPC,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,10,335.5,3355.0,2025-09-25 11:20:26.462134

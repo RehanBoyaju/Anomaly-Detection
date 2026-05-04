@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71272,2025070705000016,CHDC,Linch Stock Market Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,2651.0,26510.0,2025-07-07 10:46:00.029323
 2025-07-07,70980,2025070705000071,CHDC,SHUBHAKAMANA SECURITIES PVT. LTD,Sumeru Securities Pvt. Ltd.,10,2598.1,25981.0,2025-07-07 11:01:39.274743
 2025-07-07,70979,2025070705000072,CHDC,Thrive Brokerage House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,10,2598.0,25980.0,2025-07-07 11:01:39.274827

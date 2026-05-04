@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92026,2025080604000109,BARUN,Online Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,120,362.6,43512.0,2025-08-06 11:03:55.927999
 2025-08-06,92025,2025080604000110,BARUN,Sumeru Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,50,357.0,17850.0,2025-08-06 11:03:55.928045
 2025-08-06,91612,2025080604000182,BARUN,Pragyan Securities (PVT) Ltd.,Secured Securities Ltd.,400,357.0,142800.0,2025-08-06 11:05:04.012791

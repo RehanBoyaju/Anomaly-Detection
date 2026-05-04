@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,48804,2025082103001152,CFCL,Opal Securities Investment (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,10,511.0,5110.0,2025-08-21 11:56:05.390380
 2025-08-21,48803,2025082103001153,CFCL,Dynamic Money Managers Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,70,509.0,35630.0,2025-08-21 11:56:05.390475
 2025-08-21,48802,2025082103001154,CFCL,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,20,508.0,10160.0,2025-08-21 11:56:05.390550

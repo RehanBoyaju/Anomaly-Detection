@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GCIL,33,84,41,414.3,16986.3,2026-04-28 14:59:58.206,2026042805016512
 GCIL,56,48,13,424.0,5512.0,2026-04-28 14:59:42.600,2026042805016354
 GCIL,56,62,25,420.0,10500.0,2026-04-28 14:59:42.600,2026042805016353

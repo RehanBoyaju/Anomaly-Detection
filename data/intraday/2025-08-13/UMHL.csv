@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70071,2025081304000006,UMHL,Linch Stock Market Ltd.,Capital Max Securities Ltd,10,587.0,5870.0,2025-08-13 10:46:00.030551
 2025-08-13,70070,2025081304000007,UMHL,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,50,587.0,29350.0,2025-08-13 10:46:00.030579
 2025-08-13,70069,2025081304000008,UMHL,K.B.L. Securities Limited ,Capital Max Securities Ltd,40,587.0,23480.0,2025-08-13 10:46:00.030605

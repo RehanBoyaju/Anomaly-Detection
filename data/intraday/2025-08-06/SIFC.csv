@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,91489,2025080603000254,SIFC,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,10,520.1,5201.0,2025-08-06 11:05:22.051358
 2025-08-06,90083,2025080603000415,SIFC,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,100,525.0,52500.0,2025-08-06 11:09:03.907341
 2025-08-06,88631,2025080603000580,SIFC,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,10,530.0,5300.0,2025-08-06 11:12:08.039409

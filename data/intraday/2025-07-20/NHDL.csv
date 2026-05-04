@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,175367,2025072004001037,NHDL,Opal Securities Investment (PVT) Ltd.,Sweta Securities Private Limited,10,725.0,7250.0,2025-07-20T11:04:16.816022
 2025-07-20,174613,2025072004001291,NHDL,Sanima Securities Limited,Deevyaa Securities & Stock House Pvt. Ltd,27,724.0,19548.0,2025-07-20T11:05:09.773764
 2025-07-20,173298,2025072004001718,NHDL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Sweta Securities Private Limited,200,721.0,144200.0,2025-07-20T11:06:33.087105

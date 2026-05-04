@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92263,2025080601000361,NBL,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,150,290.0,43500.0,2025-08-06 11:03:03.643677
 2025-08-06,91020,2025080601000720,NBL,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,50,287.0,14350.0,2025-08-06 11:06:34.428159
 2025-08-06,90819,2025080601000768,NBL,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,100,286.2,28620.0,2025-08-06 11:07:00.854131

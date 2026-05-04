@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,151604,2025072401000701,SCB,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,12,668.1,8017.2,2025-07-24 11:05:56.821192
 2025-07-24,148367,2025072401001532,SCB,Cristal Kanchanjanga Securites Pvt. Ltd.,Primo Securities (PVT) Ltd.,25,668.2,16705.0,2025-07-24 11:11:17.536334
 2025-07-24,147788,2025072401001659,SCB,Cristal Kanchanjanga Securites Pvt. Ltd.,ABC Securities Private Limited,100,668.2,66820.0,2025-07-24 11:12:17.606359

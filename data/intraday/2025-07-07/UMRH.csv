@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69089,2025070704000514,UMRH,Trishakti Securities Public Limited,Creative Securities Pvt Ltd,24,573.1,13754.4,2025-07-07 11:10:13.362373
 2025-07-07,68796,2025070704000589,UMRH,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,44,573.2,25220.8,2025-07-07 11:11:28.982640
 2025-07-07,65968,2025070704001472,UMRH,Trishakti Securities Public Limited,Capital Max Securities Ltd,74,580.0,42920.0,2025-07-07 11:21:55.744867

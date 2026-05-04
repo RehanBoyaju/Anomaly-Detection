@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,56758,2025070903000659,GUFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,270,550.2,148554.0,2025-07-09 11:31:53.574746
 2025-07-09,56263,2025070903000710,GUFL,Sumeru Securities Pvt. Ltd.,Linch Stock Market Ltd.,100,555.0,55500.0,2025-07-09 11:33:39.781109
 2025-07-09,56004,2025070903000732,GUFL,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,12,556.0,6672.0,2025-07-09 11:34:48.777162

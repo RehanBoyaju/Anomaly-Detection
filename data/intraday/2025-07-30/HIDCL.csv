@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141027,2025073005000116,HIDCL,Capital Max Securities Ltd,Linch Stock Market Ltd.,50,312.0,15600.0,2025-07-30 11:01:43.724670
 2025-07-30,140821,2025073005000187,HIDCL,Citizens Share Broker Limited,Midas Stock Broking Company Private Limited,10,312.0,3120.0,2025-07-30 11:02:16.162335
 2025-07-30,140689,2025073005000207,HIDCL,Malla & Malla Stock Broking Company Pvt. Limited,Naasa Securities Co. Ltd.,400,314.0,125600.0,2025-07-30 11:02:34.820137

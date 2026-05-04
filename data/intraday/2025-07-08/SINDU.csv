@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56246,2025070803000005,SINDU,Sundhara Securities Limited,Hatemalo Financial Services Private Limited,10,886.5,8865.0,2025-07-08 10:46:00.042881
 2025-07-08,56245,2025070803000006,SINDU,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,10,886.5,8865.0,2025-07-08 10:46:00.042932
 2025-07-08,56198,2025070803000014,SINDU,Capital Max Securities Ltd,Hatemalo Financial Services Private Limited,10,886.5,8865.0,2025-07-08 11:00:07.801122

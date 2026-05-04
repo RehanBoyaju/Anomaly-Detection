@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141090,2025071703000073,SINDU,Sumeru Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,10,883.9,8839.0,2025-07-17 11:01:23.162648
 2025-07-17,139788,2025071703000323,SINDU,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,100,879.0,87900.0,2025-07-17 11:04:41.678346
 2025-07-17,139670,2025071703000342,SINDU,Sweta Securities Private Limited,Neev Securities Pvt. Ltd.,50,879.0,43950.0,2025-07-17 11:04:56.798410

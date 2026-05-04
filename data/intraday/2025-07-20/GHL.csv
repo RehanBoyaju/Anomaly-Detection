@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177922,2025072004000078,GHL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,264.0,26400.0,2025-07-20T11:00:03.017798
 2025-07-20,177895,2025072004000082,GHL,Himalayan Brokerage Company Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,264.0,52800.0,2025-07-20T11:00:20.691337
 2025-07-20,177830,2025072004000098,GHL,Himalayan Brokerage Company Limited,Naasa Securities Co. Ltd.,10,264.0,2640.0,2025-07-20T11:00:33.115959

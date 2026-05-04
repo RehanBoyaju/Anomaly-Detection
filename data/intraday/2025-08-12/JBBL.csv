@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78199,2025081203000004,JBBL,Beni Securities Pvt.Ltd.,Trishakti Securities Public Limited,10,362.1,3621.0,2025-08-12 10:46:00.034967
 2025-08-12,77676,2025081203000039,JBBL,K.B.L. Securities Limited ,Imperial Securities Company Pvt. Ltd.,15,358.9,5383.5,2025-08-12 11:02:18.821746
 2025-08-12,77133,2025081203000076,JBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Pragyan Securities (PVT) Ltd.,20,352.0,7040.0,2025-08-12 11:04:26.969737

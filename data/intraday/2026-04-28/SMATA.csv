@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SMATA,45,51,250,766.0,191500.0,2026-04-28 14:59:58.226,2026042805016519
 SMATA,84,51,100,766.5,76650.0,2026-04-28 14:59:58.226,2026042805016518
 SMATA,35,51,20,766.9,15338.0,2026-04-28 14:59:58.226,2026042805016517

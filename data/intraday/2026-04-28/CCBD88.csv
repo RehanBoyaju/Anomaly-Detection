@@ -1,2 +1,2 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CCBD88,21,3,25,1210.0,30250.0,2026-04-28 11:19:04.413,2026042801014444

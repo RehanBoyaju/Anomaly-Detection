@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,148657,2025080403000029,KSBBL,Sumeru Securities Pvt. Ltd.,Secured Securities Ltd.,300,539.0,161700.0,2025-08-04 11:00:47.247564
 2025-08-04,147832,2025080403000049,KSBBL,Kohinoor Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,20,535.2,10704.0,2025-08-04 11:01:46.715445
 2025-08-04,146495,2025080403000124,KSBBL,Opal Securities Investment (PVT) Ltd.,Premier Securities Company Ltd.,10,545.0,5450.0,2025-08-04 11:03:08.045042

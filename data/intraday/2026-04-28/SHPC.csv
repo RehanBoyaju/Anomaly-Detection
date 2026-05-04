@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SHPC,34,40,10,517.0,5170.0,2026-04-28 14:59:50.122,2026042804014947
 SHPC,34,52,117,516.9,60477.3,2026-04-28 14:59:50.122,2026042804014946
 SHPC,34,22,100,516.8,51679.99999999999,2026-04-28 14:59:50.122,2026042804014945

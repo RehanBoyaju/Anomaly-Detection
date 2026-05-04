@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47622,2025092403000047,LBBL,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,513.0,5130.0,2025-09-24 11:01:13.835774
 2025-09-24,47550,2025092403000058,LBBL,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,10,526.0,5260.0,2025-09-24 11:01:36.953953
 2025-09-24,47428,2025092403000097,LBBL,Nagarik Stock Dealer ,Neev Securities Pvt. Ltd.,100,526.0,52600.0,2025-09-24 11:02:16.670012

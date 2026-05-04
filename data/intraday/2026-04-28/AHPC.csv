@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 AHPC,63,58,10,281.0,2810.0,2026-04-28 14:59:43.772,2026042804014890
 AHPC,36,60,500,281.1,140550.0,2026-04-28 14:59:37.172,2026042804014830
 AHPC,101,60,21,281.1,5903.1,2026-04-28 14:58:43.740,2026042804014419

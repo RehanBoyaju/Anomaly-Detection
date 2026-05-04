@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44603,2025082604000088,KPCL,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,15,580.2,8703.0,2025-08-26 11:06:09.710479
 2025-08-26,44524,2025082604000105,KPCL,Machhapuchchhre Securities Limited,Neev Securities Pvt. Ltd.,10,591.0,5910.0,2025-08-26 11:06:54.073493
 2025-08-26,43464,2025082604000343,KPCL,Sewa Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,10,582.1,5821.0,2025-08-26 11:15:16.127023

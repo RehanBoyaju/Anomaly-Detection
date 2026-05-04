@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,75761,2025081203000250,MDB,Neev Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,50,631.0,31550.0,2025-08-12 11:09:41.667709
 2025-08-12,75760,2025081203000251,MDB,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,50,631.0,31550.0,2025-08-12 11:09:41.667809
 2025-08-12,75759,2025081203000252,MDB,Aakashbhairab Securities Ltd.,Sumeru Securities Pvt. Ltd.,91,631.0,57421.0,2025-08-12 11:09:41.667884

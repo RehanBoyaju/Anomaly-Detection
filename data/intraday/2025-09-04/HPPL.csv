@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68319,2025090404000253,HPPL,Sumeru Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,20,480.0,9600.0,2025-09-04T11:04:39.774088
 2025-09-04,67996,2025090404000357,HPPL,Sundhara Securities Limited,Shree Krishna Securities Ltd.,30,480.0,14400.0,2025-09-04T11:06:24.548882
 2025-09-04,66293,2025090404000787,HPPL,Deevyaa Securities & Stock House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,500,482.0,241000.0,2025-09-04T11:13:12.549285

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74044,2025071504000001,BPCL,Swarna Laxmi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,15,870.0,13050.0,2025-07-15 10:46:00.014861
 2025-07-15,74043,2025071504000002,BPCL,Asian Securities Private Ltd.,South Asian Bulls Pvt. Ltd.,35,870.0,30450.0,2025-07-15 10:46:00.015007
 2025-07-15,73984,2025071504000032,BPCL,Asian Securities Private Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,50,870.0,43500.0,2025-07-15 11:00:11.441611

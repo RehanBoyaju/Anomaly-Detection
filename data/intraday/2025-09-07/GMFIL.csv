@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57097,2025090703000076,GMFIL,Blue Chip Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,475.0,4750.0,2025-09-07 11:07:12.458052
 2025-09-07,45073,2025090703001223,GMFIL,Online Securities Pvt. Ltd.,Sundhara Securities Limited,690,473.5,326715.0,2025-09-07 12:05:06.622282
 2025-09-07,45072,2025090703001224,GMFIL,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,300,474.5,142350.0,2025-09-07 12:05:06.622345

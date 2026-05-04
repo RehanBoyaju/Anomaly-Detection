@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SNLI,48,13,13,454.9,5913.7,2026-04-28 14:59:35.972,2026042801110235
 SNLI,42,58,17,454.0,7718.0,2026-04-28 14:58:39.516,2026042801109033
 SNLI,42,49,17,454.0,7718.0,2026-04-28 14:58:24.349,2026042801108827

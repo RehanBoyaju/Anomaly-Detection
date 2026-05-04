@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57144,2025082504000001,BPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,11,788.9,8677.9,2025-08-25 10:46:00.009173
 2025-08-25,57143,2025082504000002,BPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,10,788.9,7889.0,2025-08-25 10:46:00.009220
 2025-08-25,57006,2025082504000010,BPCL,Premier Securities Company Ltd.,K.B.L. Securities Limited ,500,804.6,402300.0,2025-08-25 11:00:51.652503

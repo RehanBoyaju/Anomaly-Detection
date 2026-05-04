@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SKHL,13,32,10,995.0,9950.0,2026-04-28 14:59:55.453,2026042801110758
 SKHL,13,80,10,995.0,9950.0,2026-04-28 14:59:54.150,2026042801110705
 SKHL,13,56,10,995.0,9950.0,2026-04-28 14:59:52.778,2026042801110680

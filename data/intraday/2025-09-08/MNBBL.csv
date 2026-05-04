@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59652,2025090803000006,MNBBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,450.0,4500.0,2025-09-08 10:46:00.046106
 2025-09-08,58525,2025090803000117,MNBBL,Trishakti Securities Public Limited,Secured Securities Ltd.,2500,441.1,1102750.0,2025-09-08 11:10:14.891631
 2025-09-08,58342,2025090803000131,MNBBL,ABC Securities Private Limited,Online Securities Pvt. Ltd.,20,441.0,8820.0,2025-09-08 11:11:09.030140

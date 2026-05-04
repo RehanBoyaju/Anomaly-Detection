@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,65409,2025092304000650,CGH,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,10,898.1,8981.0,2025-09-23 11:06:46.556960
 2025-09-23,64427,2025092304000994,CGH,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,20,897.9,17958.0,2025-09-23 11:09:37.411259
 2025-09-23,64199,2025092304001068,CGH,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,10,897.9,8979.0,2025-09-23 11:10:09.756002

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61271,2025081904000224,KPCL,N.M.B. SECURITIES LIMITED,Capital Max Securities Ltd,10,630.0,6300.0,2025-08-19 11:03:16.759379
 2025-08-19,60964,2025081904000342,KPCL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,622.0,6220.0,2025-08-19 11:05:37.450920
 2025-08-19,60030,2025081904000677,KPCL,Linch Stock Market Ltd.,Aryatara Investment & Securities,35,623.0,21805.0,2025-08-19 11:11:12.964361

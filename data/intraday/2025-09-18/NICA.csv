@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7355,2025091801000035,NICA,Prabhu Stock Market Limited,Sri Hari Securities Pvt. Ltd.,10,333.0,3330.0,2025-09-18 10:46:00.028194
 2025-09-18,7354,2025091801000036,NICA,Trisul Securities & Invt. Ltd.,Sri Hari Securities Pvt. Ltd.,10,333.0,3330.0,2025-09-18 10:46:00.028218
 2025-09-18,7353,2025091801000037,NICA,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,80,333.0,26640.0,2025-09-18 10:46:00.028242

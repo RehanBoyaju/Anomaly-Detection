@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,67641,2025081303000306,GUFL,Opal Securities Investment (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,50,554.9,27745.0,2025-08-13 11:13:10.305972
 2025-08-13,55941,2025081303002127,GUFL,Dynamic Money Managers Securities Pvt. Ltd.,Sundhara Securities Limited,100,554.0,55400.0,2025-08-13 11:59:21.754907
 2025-08-13,55823,2025081303002156,GUFL,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,100,554.1,55410.0,2025-08-13 11:59:50.950243

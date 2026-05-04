@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,6948,2025091803000106,SADBL,Online Securities Pvt. Ltd.,Sundhara Securities Limited,500,407.9,203950.0,2025-09-18 10:46:00.182835
 2025-09-18,6652,2025091803000161,SADBL,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,60,407.9,24474.0,2025-09-18 11:00:21.993811
 2025-09-18,6444,2025091803000192,SADBL,Midas Stock Broking Company Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,40,400.0,16000.0,2025-09-18 11:01:00.412105

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SANVI,36,22,45,704.0,31680.0,2026-04-28 14:59:59.685,2026042805016550
 SANVI,36,62,15,703.0,10545.0,2026-04-28 14:59:59.685,2026042805016549
 SANVI,39,58,10,702.0,7020.0,2026-04-28 14:59:58.933,2026042805016536

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88603,2025071001000003,KBL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,215.0,43000.0,2025-07-10 10:46:00.022727
 2025-07-10,88422,2025071001000077,KBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,214.4,64320.0,2025-07-10 11:01:12.514552
 2025-07-10,88421,2025071001000078,KBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,150,215.0,32250.0,2025-07-10 11:01:12.514608

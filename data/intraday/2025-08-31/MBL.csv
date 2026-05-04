@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,96714,2025083101000389,MBL,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,50,250.0,12500.0,2025-08-31T11:00:32.1267
 2025-08-31,96410,2025083101000656,MBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,200,251.2,50240.0,2025-08-31T11:00:56.275355
 2025-08-31,96395,2025083101000671,MBL,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,50,250.0,12500.0,2025-08-31T11:00:57.674527

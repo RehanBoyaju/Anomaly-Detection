@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86880,2025070603000205,ICFC,Aryatara Investment & Securities,Market Securities & Exchange (PVT) Ltd.,100,627.0,62700.0,2025-07-06 11:02:14.316670
 2025-07-06,86348,2025070603000409,ICFC,Blue Chip Securities Ltd,Asian Securities Private Ltd.,10,637.0,6370.0,2025-07-06 11:04:16.858429
 2025-07-06,86192,2025070603000469,ICFC,Sumeru Securities Pvt. Ltd.,Asian Securities Private Ltd.,90,637.0,57330.0,2025-07-06 11:04:44.352282

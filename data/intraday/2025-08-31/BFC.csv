@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,92284,2025083103000093,BFC,Blue Chip Securities Ltd,Aryatara Investment & Securities,10,500.0,5000.0,2025-08-31T11:07:23.367582
 2025-08-31,90791,2025083103000137,BFC,Opal Securities Investment (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,487.0,4870.0,2025-08-31T11:09:47.525337
 2025-08-31,90447,2025083103000146,BFC,Malla & Malla Stock Broking Company Pvt. Limited,Kalika Securities Pvt. Ltd.,10,496.0,4960.0,2025-08-31T11:10:33.878363

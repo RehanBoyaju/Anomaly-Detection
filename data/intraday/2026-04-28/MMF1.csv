@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MMF1,26,4,3107,9.66,30013.62,2026-04-28 14:48:45.284,2026042805014336
 MMF1,26,45,1793,9.65,17302.45,2026-04-28 14:48:45.284,2026042805014335
 MMF1,26,58,100,9.6,960.0,2026-04-28 14:48:45.284,2026042805014334

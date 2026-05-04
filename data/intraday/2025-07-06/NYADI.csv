@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87304,2025070601000017,NYADI,Global IME Securities Limited,K.B.L. Securities Limited ,100,471.4,47140.0,2025-07-06 10:46:00.118733
 2025-07-06,87286,2025070601000030,NYADI,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,100,476.0,47600.0,2025-07-06 11:00:17.143969
 2025-07-06,87252,2025070601000040,NYADI,Global IME Securities Limited,Naasa Securities Co. Ltd.,122,475.0,57950.0,2025-07-06 11:00:33.330686

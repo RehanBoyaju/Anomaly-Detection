@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,166989,2025073101000369,NYADI,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,10,454.0,4540.0,2025-07-31 11:03:44.676000
 2025-07-31,166155,2025073101000671,NYADI,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,460.0,4600.0,2025-07-31 11:05:18.310033
 2025-07-31,166154,2025073101000672,NYADI,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,463.0,4630.0,2025-07-31 11:05:18.310070

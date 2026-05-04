@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154576,2025072404000031,UPCL,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,10,429.3,4293.0,2025-07-24 10:46:00.065097
 2025-07-24,154184,2025072404000235,UPCL,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,10,443.0,4430.0,2025-07-24 11:01:08.037289
 2025-07-24,154076,2025072404000275,UPCL,Infinity Securities Limited,Sumeru Securities Pvt. Ltd.,490,443.0,217070.0,2025-07-24 11:01:22.032408

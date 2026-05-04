@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,51978,2025082003000215,ICFC,J.F. Securites (PVT) Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,500,674.0,337000.0,2025-08-20 11:14:34.330983
 2025-08-20,50885,2025082003000334,ICFC,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,700,674.7,472290.0,2025-08-20 11:21:16.373806
 2025-08-20,50737,2025082003000346,ICFC,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,700,674.5,472150.0,2025-08-20 11:22:17.827725

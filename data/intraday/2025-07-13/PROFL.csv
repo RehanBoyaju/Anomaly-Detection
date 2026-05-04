@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104182,2025071303000340,PROFL,Sewa Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,150,513.7,77055.0,2025-07-13T11:00:50.839381
 2025-07-13,104181,2025071303000341,PROFL,Midas Stock Broking Company Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,300,513.7,154110.0,2025-07-13T11:00:50.839441
 2025-07-13,104180,2025071303000342,PROFL,Midas Stock Broking Company Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,50,513.7,25685.0,2025-07-13T11:00:50.839472

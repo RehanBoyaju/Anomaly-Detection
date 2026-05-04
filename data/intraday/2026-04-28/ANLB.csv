@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ANLB,62,74,26,6251.0,162526.0,2026-04-28 14:59:53.829,2026042804014978
 ANLB,62,7,60,6200.0,372000.0,2026-04-28 14:59:53.829,2026042804014977
 ANLB,62,74,10,6251.0,62510.0,2026-04-28 14:58:14.428,2026042804014274

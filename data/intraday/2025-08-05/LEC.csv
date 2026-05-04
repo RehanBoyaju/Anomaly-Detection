@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130907,2025080504000014,LEC,Dynamic Money Managers Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,242.0,2420.0,2025-08-05 10:46:00.060994
 2025-08-05,130906,2025080504000015,LEC,Citizens Share Broker Limited,Agrawal Securities (PVT) Ltd.,250,242.0,60500.0,2025-08-05 10:46:00.061020
 2025-08-05,130876,2025080504000021,LEC,Dynamic Money Managers Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,100,241.7,24170.0,2025-08-05 10:46:00.132558

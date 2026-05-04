@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UNL,33,44,10,47050.0,470500.0,2026-04-28 14:42:10.543,2026042801098301
 UNL,33,44,20,47000.0,940000.0,2026-04-28 14:42:10.543,2026042801098300
 UNL,33,44,10,46990.0,469900.0,2026-04-28 14:42:10.543,2026042801098299

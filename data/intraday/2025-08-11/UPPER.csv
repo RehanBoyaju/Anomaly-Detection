@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97946,2025081104000088,UPPER,Arun Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,201.0,60300.0,2025-08-11 11:02:00.484220
 2025-08-11,97934,2025081104000090,UPPER,Arun Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,96,201.0,19296.0,2025-08-11 11:02:03.859847
 2025-08-11,97750,2025081104000120,UPPER,Arun Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,1000,201.0,201000.0,2025-08-11 11:02:39.709281

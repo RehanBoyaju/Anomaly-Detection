@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156629,2025072904000145,API,Capital Max Securities Ltd,Malla & Malla Stock Broking Company Pvt. Limited,10,324.0,3240.0,2025-07-29 11:02:26.176715
 2025-07-29,156341,2025072904000185,API,Online Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,500,323.0,161500.0,2025-07-29 11:03:02.354456
 2025-07-29,156165,2025072904000213,API,Deevyaa Securities & Stock House Pvt. Ltd,Thrive Brokerage House Pvt. Ltd,10,323.0,3230.0,2025-07-29 11:03:20.869551

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KPCL,65,3,10,494.0,4940.0,2026-04-28 14:59:55.116,2026042804014982
 KPCL,62,39,250,493.2,123300.0,2026-04-28 14:59:11.083,2026042804014595
 KPCL,62,75,498,493.2,245613.6,2026-04-28 14:58:55.534,2026042804014458

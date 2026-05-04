@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75605,2025081404000168,SPDL,Oxford Securities Pvt. Ltd.,Capital Max Securities Ltd,11,404.0,4444.0,2025-08-14 11:05:40.137409
 2025-08-14,75604,2025081404000169,SPDL,Himalayan Brokerage Company Limited,Capital Max Securities Ltd,59,404.0,23836.0,2025-08-14 11:05:40.137495
 2025-08-14,73440,2025081404000441,SPDL,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,10,409.0,4090.0,2025-08-14 11:13:40.873853

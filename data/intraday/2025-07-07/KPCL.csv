@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,67549,2025070704000965,KPCL,Agrawal Securities (PVT) Ltd.,Linch Stock Market Ltd.,12,550.0,6600.0,2025-07-07 11:16:23.285296
 2025-07-07,67548,2025070704000966,KPCL,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,400,553.0,221200.0,2025-07-07 11:16:23.285399
 2025-07-07,67547,2025070704000967,KPCL,Agrawal Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,20,553.0,11060.0,2025-07-07 11:16:23.285431

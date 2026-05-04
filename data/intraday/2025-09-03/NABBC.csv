@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68594,2025090303000001,NABBC,Miyo Securities Pvt Ltd,INDEX SECURITIES LIMITED,10,714.4,7144.0,2025-09-03 10:46:00.005408
 2025-09-03,68593,2025090303000002,NABBC,Global IME Securities Limited,INDEX SECURITIES LIMITED,10,714.4,7144.0,2025-09-03 10:46:00.005450
 2025-09-03,60156,2025090303000515,NABBC,Kalika Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,716.0,7160.0,2025-09-03 11:33:33.526565

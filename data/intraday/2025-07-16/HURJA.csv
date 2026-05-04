@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,97978,2025071604000421,HURJA,Vision Securities Pvt. Ltd,Sundhara Securities Limited,14,253.0,3542.0,2025-07-16 11:05:59.329389
 2025-07-16,97977,2025071604000422,HURJA,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,36,254.0,9144.0,2025-07-16 11:05:59.329479
 2025-07-16,97864,2025071604000448,HURJA,Sri Hari Securities Pvt. Ltd.,Asian Securities Private Ltd.,150,254.0,38100.0,2025-07-16 11:06:25.843754

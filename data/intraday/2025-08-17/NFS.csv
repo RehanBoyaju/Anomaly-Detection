@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86640,2025081703000003,NFS,Secured Securities Ltd.,Aryatara Investment & Securities,10,720.0,7200.0,2025-08-17 10:46:00.021398
 2025-08-17,86639,2025081703000004,NFS,Secured Securities Ltd.,Aryatara Investment & Securities,10,720.0,7200.0,2025-08-17 10:46:00.021430
 2025-08-17,86474,2025081703000025,NFS,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,30,718.0,21540.0,2025-08-17 11:00:37.552264

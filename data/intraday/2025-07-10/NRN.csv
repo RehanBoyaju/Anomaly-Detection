@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88608,2025071005000004,NRN,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,100,2364.9,236490.0,2025-07-10 10:46:00.018631
 2025-07-10,88607,2025071005000005,NRN,Sumeru Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,20,2364.9,47298.0,2025-07-10 10:46:00.018656
 2025-07-10,88553,2025071005000010,NRN,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,100,2318.0,231800.0,2025-07-10 11:00:01.279430

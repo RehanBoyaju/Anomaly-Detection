@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56430,2025082501000117,GBIME,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,600,253.0,151800.0,2025-08-25 11:03:23.468478
 2025-08-25,56429,2025082501000118,GBIME,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,20,253.0,5060.0,2025-08-25 11:03:23.468613
 2025-08-25,56428,2025082501000119,GBIME,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,38,253.0,9614.0,2025-08-25 11:03:23.468705

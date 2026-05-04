@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57345,2025090703000055,ALICL,Linch Stock Market Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,479.1,4791.0,2025-09-07 11:05:38.618324
 2025-09-07,57344,2025090703000056,ALICL,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,190,478.0,90820.0,2025-09-07 11:05:38.618377
 2025-09-07,57261,2025090703000062,ALICL,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,478.0,4780.0,2025-09-07 11:06:03.012345

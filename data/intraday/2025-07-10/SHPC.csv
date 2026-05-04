@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88464,2025071004000040,SHPC,Pragyan Securities (PVT) Ltd.,Trishakti Securities Public Limited,50,604.0,30200.0,2025-07-10 11:00:49.633502
 2025-07-10,88410,2025071004000067,SHPC,Secured Securities Ltd.,Trishakti Securities Public Limited,41,604.0,24764.0,2025-07-10 11:01:15.739018
 2025-07-10,88295,2025071004000094,SHPC,Dynamic Money Managers Securities Pvt. Ltd.,Sharepro Securities Private Limited,1000,601.0,601000.0,2025-07-10 11:01:53.137749

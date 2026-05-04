@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108908,2025092104000001,SHL,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,500,480.2,240100.0,2025-09-21 10:46:00.006063
 2025-09-21,108907,2025092104000002,SHL,Primo Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,250,480.2,120050.0,2025-09-21 10:46:00.006184
 2025-09-21,108906,2025092104000003,SHL,Agrawal Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,150,480.2,72030.0,2025-09-21 10:46:00.006209

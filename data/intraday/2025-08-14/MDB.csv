@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76317,2025081403000020,MDB,Sumeru Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,20,625.0,12500.0,2025-08-14 11:01:21.291677
 2025-08-14,70958,2025081403000552,MDB,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,10,626.1,6261.0,2025-08-14 11:23:42.664749
 2025-08-14,67837,2025081403000824,MDB,ABC Securities Private Limited,Sundhara Securities Limited,20,626.0,12520.0,2025-08-14 11:33:53.553993

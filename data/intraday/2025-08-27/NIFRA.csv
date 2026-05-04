@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72506,2025082705000007,NIFRA,Sri Hari Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,283.3,2833.0,2025-08-27T10:46:00.035218
 2025-08-27,72244,2025082705000129,NIFRA,Sajilo Broker Limited,Opal Securities Investment (PVT) Ltd.,44,278.2,12240.8,2025-08-27T11:02:55.643422
 2025-08-27,72204,2025082705000153,NIFRA,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,54,278.0,15012.0,2025-08-27T11:03:15.306486

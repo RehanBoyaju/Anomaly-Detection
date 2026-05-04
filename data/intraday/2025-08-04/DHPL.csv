@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,147041,2025080404000550,DHPL,Sani Securities Company Ltd.,Sundhara Securities Limited,10,328.9,3289.0,2025-08-04 11:02:41.520536
 2025-08-04,145925,2025080404000729,DHPL,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,10,335.0,3350.0,2025-08-04 11:03:39.217478
 2025-08-04,135243,2025080404002054,DHPL,Vision Securities Pvt. Ltd,Secured Securities Ltd.,10,328.3,3283.0,2025-08-04 11:12:32.308249

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,53689,2025082103000405,CORBL,Siprabi Securities Pvt. Ltd.,Linch Stock Market Ltd.,2,1928.6,3857.2,2025-08-21 11:25:53.447125
 2025-08-21,51451,2025082103000702,CORBL,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,10,1950.0,19500.0,2025-08-21 11:39:03.874619
 2025-08-21,50774,2025082103000806,CORBL,J.F. Securites (PVT) Ltd.,Nagarik Stock Dealer ,10,1950.0,19500.0,2025-08-21 11:43:29.295824

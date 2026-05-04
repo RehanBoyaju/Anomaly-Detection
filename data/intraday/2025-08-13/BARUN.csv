@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69556,2025081304000083,BARUN,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,378.0,3780.0,2025-08-13 11:02:40.611557
 2025-08-13,69077,2025081304000179,BARUN,Pragyan Securities (PVT) Ltd.,Kumari Securities Private Limited,270,370.5,100035.0,2025-08-13 11:05:59.858647
 2025-08-13,67029,2025081304000692,BARUN,Pragyan Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,45,373.0,16785.0,2025-08-13 11:16:14.032781

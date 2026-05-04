@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86397,2025070604000264,JOSHI,Nepal Investment And Securities Trading Private Limited,Trisul Securities & Invt. Ltd.,50,336.0,16800.0,2025-07-06 11:04:05.879912
 2025-07-06,86338,2025070604000282,JOSHI,Nepal Investment And Securities Trading Private Limited,Trisul Securities & Invt. Ltd.,50,336.0,16800.0,2025-07-06 11:04:20.025658
 2025-07-06,86301,2025070604000297,JOSHI,Nabil Stock Dealer Ltd.,Imperial Securities Company Pvt. Ltd.,500,334.0,167000.0,2025-07-06 11:04:28.294695

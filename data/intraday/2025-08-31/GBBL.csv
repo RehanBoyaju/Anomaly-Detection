@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,93607,2025083103000052,GBBL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,435.0,8700.0,2025-08-31T11:04:53.021589
 2025-08-31,86539,2025083103000287,GBBL,Kumari Securities Private Limited,Nepal Stock House (PVT) Ltd.,11,431.1,4742.1,2025-08-31T11:16:54.921694
 2025-08-31,85922,2025083103000315,GBBL,Sundhara Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,182,431.0,78442.0,2025-08-31T11:17:58.775314

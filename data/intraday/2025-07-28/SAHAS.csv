@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170485,2025072805000063,SAHAS,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,900,682.0,613800.0,2025-07-28T11:00:55.979544
 2025-07-28,169645,2025072805000292,SAHAS,Nepal Investment And Securities Trading Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,50,677.0,33850.0,2025-07-28T11:03:17.954631
 2025-07-28,169577,2025072805000322,SAHAS,Nepal Investment And Securities Trading Private Limited,Imperial Securities Company Pvt. Ltd.,100,677.0,67700.0,2025-07-28T11:03:28.897999

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95772,2025080703000005,SINDU,Infinity Securities Limited,Vision Securities Pvt. Ltd,10,800.0,8000.0,2025-08-07 10:46:00.050889
 2025-08-07,94104,2025080703000232,SINDU,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,50,814.0,40700.0,2025-08-07 11:06:01.561439
 2025-08-07,92121,2025080703000581,SINDU,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,50,814.0,40700.0,2025-08-07 11:12:27.958072

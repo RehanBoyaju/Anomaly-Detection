@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168584,2025073105000003,HIDCL,Primo Securities (PVT) Ltd.,Roadshow securities limited,10,300.7,3007.0,2025-07-31 10:46:00.012476
 2025-07-31,168340,2025073105000109,HIDCL,Primo Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,200,305.0,61000.0,2025-07-31 11:00:49.835893
 2025-07-31,167935,2025073105000239,HIDCL,Primo Securities (PVT) Ltd.,Kumari Securities Private Limited,100,305.0,30500.0,2025-07-31 11:01:50.059371

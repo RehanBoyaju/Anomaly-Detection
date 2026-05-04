@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,74949,2025081405000787,CIT,Sweta Securities Private Limited,Siprabi Securities Pvt. Ltd.,43,1945.0,83635.0,2025-08-14 11:08:25.260439
 2025-08-14,74841,2025081405000844,CIT,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,50,1945.0,97250.0,2025-08-14 11:08:46.384194
 2025-08-14,74088,2025081405001245,CIT,Online Securities Pvt. Ltd.,K.B.L. Securities Limited ,20,1936.1,38722.0,2025-08-14 11:11:38.151867

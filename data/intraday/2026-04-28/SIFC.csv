@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SIFC,7,56,10,548.5,5485.0,2026-04-28 14:59:59.337,2026042803008673
 SIFC,13,37,160,545.0,87200.0,2026-04-28 14:59:53.544,2026042803008469
 SIFC,45,57,150,550.0,82500.0,2026-04-28 14:54:52.761,2026042803007760

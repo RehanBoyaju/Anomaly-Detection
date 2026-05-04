@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,74391,2025082804001176,TRH,Kalika Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,992.0,9920.0,2025-08-28 11:15:37.532486
 2025-08-28,69844,2025082804002437,TRH,Trisul Securities & Invt. Ltd.,Trishakti Securities Public Limited,29,981.0,28449.0,2025-08-28 11:28:37.239022
 2025-08-28,68253,2025082804002831,TRH,Trisul Securities & Invt. Ltd.,South Asian Bulls Pvt. Ltd.,20,981.0,19620.0,2025-08-28 11:33:16.720637

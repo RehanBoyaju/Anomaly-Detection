@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,73940,2025081404000405,UPCL,Property Wiard Limited,Aryatara Investment & Securities,50,403.8,20190.0,2025-08-14 11:12:18.789050
 2025-08-14,72171,2025081404000635,UPCL,Himalayan Brokerage Company Limited,Sani Securities Company Ltd.,495,402.0,198990.0,2025-08-14 11:18:29.684208
 2025-08-14,72055,2025081404000659,UPCL,Miyo Securities Pvt Ltd,Sani Securities Company Ltd.,20,402.0,8040.0,2025-08-14 11:19:11.341409

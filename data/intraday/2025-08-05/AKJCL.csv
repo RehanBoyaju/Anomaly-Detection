@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130921,2025080504000009,AKJCL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,219.0,2190.0,2025-08-05 10:46:00.047879
 2025-08-05,130920,2025080504000010,AKJCL,Sharepro Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,219.0,10950.0,2025-08-05 10:46:00.047906
 2025-08-05,130547,2025080504000039,AKJCL,Sharepro Securities Private Limited,Investment Management Nepal Pvt. Ltd.,10,215.0,2150.0,2025-08-05 11:00:52.060987

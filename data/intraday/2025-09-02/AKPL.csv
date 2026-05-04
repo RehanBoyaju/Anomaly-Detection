@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89758,2025090204000003,AKPL,Trishakti Securities Public Limited,Linch Stock Market Ltd.,308,265.0,81620.0,2025-09-02 10:46:00.029344
 2025-09-02,88485,2025090204000023,AKPL,Dakshinkali Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,192,264.0,50688.0,2025-09-02 11:01:29.125974
 2025-09-02,84946,2025090204000121,AKPL,ABC Securities Private Limited,Miyo Securities Pvt Ltd,10,265.0,2650.0,2025-09-02 11:07:02.791721

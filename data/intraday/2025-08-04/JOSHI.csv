@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,142019,2025080404001157,JOSHI,Sundhara Securities Limited,Sagarmatha Securities Private Limited,10,342.9,3429.0,2025-08-04 11:06:46.532552
 2025-08-04,137736,2025080404001708,JOSHI,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,100,340.0,34000.0,2025-08-04 11:10:27.525753
 2025-08-04,137735,2025080404001709,JOSHI,Sweta Securities Private Limited,Sweta Securities Private Limited,50,340.0,17000.0,2025-08-04 11:10:27.525879

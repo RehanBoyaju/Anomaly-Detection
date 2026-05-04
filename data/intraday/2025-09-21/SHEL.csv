@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108251,2025092104000214,SHEL,Arun Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,500,275.0,137500.0,2025-09-21 10:46:00.088392
 2025-09-21,107897,2025092104000244,SHEL,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2000,274.0,548000.0,2025-09-21 11:00:29.529812
 2025-09-21,107896,2025092104000245,SHEL,Swarna Laxmi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,1000,272.0,272000.0,2025-09-21 11:00:29.529881

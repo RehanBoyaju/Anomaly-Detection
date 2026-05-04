@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,93928,2025080704000235,KKHC,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,57,268.0,15276.0,2025-08-07 11:06:39.480018
 2025-08-07,93927,2025080704000236,KKHC,Siprabi Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,50,268.0,13400.0,2025-08-07 11:06:39.480085
 2025-08-07,93926,2025080704000237,KKHC,Siprabi Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,43,268.4,11541.2,2025-08-07 11:06:39.480112

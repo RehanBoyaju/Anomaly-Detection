@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,63379,2025090304000740,SJCL,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,40,301.0,12040.0,2025-09-03 11:20:59.360231
 2025-09-03,62453,2025090304000935,SJCL,Agrawal Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,20,300.1,6002.0,2025-09-03 11:24:07.332186
 2025-09-03,62155,2025090304000983,SJCL,Agrawal Securities (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,300.1,3001.0,2025-09-03 11:25:21.796245

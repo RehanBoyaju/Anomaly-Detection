@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74041,2025071501000002,HBL,Hatemalo Financial Services Private Limited,Nepal Stock House (PVT) Ltd.,10,233.1,2331.0,2025-07-15 10:46:00.018463
 2025-07-15,73788,2025071501000104,HBL,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,231.0,2310.0,2025-07-15 11:02:11.727725
 2025-07-15,73777,2025071501000109,HBL,Malla & Malla Stock Broking Company Pvt. Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,180,231.0,41580.0,2025-07-15 11:02:21.926521

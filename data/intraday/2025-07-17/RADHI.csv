@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141394,2025071704000014,RADHI,Magnet Securities and Investment Company Private Limited,SUN SECURITIES PVT LTD,100,826.4,82640.0,2025-07-17 10:46:00.051631
 2025-07-17,141393,2025071704000015,RADHI,SUN SECURITIES PVT LTD,SUN SECURITIES PVT LTD,624,826.4,515673.6,2025-07-17 10:46:00.051658
 2025-07-17,141330,2025071704000027,RADHI,Naasa Securities Co. Ltd.,INDEX SECURITIES LIMITED,100,826.5,82650.0,2025-07-17 11:00:27.202107

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,46270,2025092403000303,NLIC,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,100,773.0,77300.0,2025-09-24 11:08:14.601602
 2025-09-24,46238,2025092403000316,NLIC,Nepal Stock House (PVT) Ltd.,Arun Securities (PVT) Ltd.,50,772.5,38625.0,2025-09-24 11:08:23.804907
 2025-09-24,46237,2025092403000317,NLIC,Sumeru Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,140,772.0,108080.0,2025-09-24 11:08:23.804961

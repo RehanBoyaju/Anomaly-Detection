@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,135024,2025071704002278,RURU,Asian Securities Private Ltd.,Sani Securities Company Ltd.,13,739.0,9607.0,2025-07-17 11:13:15.521645
 2025-07-17,134699,2025071704002340,RURU,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,87,739.0,64293.0,2025-07-17 11:13:37.751166
 2025-07-17,134698,2025071704002341,RURU,Thrive Brokerage House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,10,739.9,7399.0,2025-07-17 11:13:37.751231

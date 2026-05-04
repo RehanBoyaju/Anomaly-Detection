@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99451,2025071604000029,PPCL,Himalayan Brokerage Company Limited,Nabil Stock Dealer Ltd.,10,377.8,3778.0,2025-07-16 10:46:00.060241
 2025-07-16,99133,2025071604000119,PPCL,ABC Securities Private Limited,Trishakti Securities Public Limited,80,377.0,30160.0,2025-07-16 11:01:48.328062
 2025-07-16,99132,2025071604000120,PPCL,ABC Securities Private Limited,Hatemalo Financial Services Private Limited,200,377.8,75560.0,2025-07-16 11:01:48.328172

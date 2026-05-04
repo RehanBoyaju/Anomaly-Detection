@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,74523,2025081403000205,BFC,Blue Chip Securities Ltd,Aryatara Investment & Securities,10,520.0,5200.0,2025-08-14 11:10:00.676203
 2025-08-14,74043,2025081403000250,BFC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,100,518.0,51800.0,2025-08-14 11:11:47.262670
 2025-08-14,70936,2025081403000554,BFC,Asian Securities Private Ltd.,Blue Chip Securities Ltd,50,508.0,25400.0,2025-08-14 11:23:47.358654

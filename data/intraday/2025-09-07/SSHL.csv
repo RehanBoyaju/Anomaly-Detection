@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58018,2025090704000047,SSHL,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,179.0,1790.0,2025-09-07 10:46:00.038964
 2025-09-07,57905,2025090704000063,SSHL,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,37,179.0,6623.0,2025-09-07 11:01:18.657818
 2025-09-07,57874,2025090704000074,SSHL,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,30,176.5,5295.0,2025-09-07 11:01:38.036451

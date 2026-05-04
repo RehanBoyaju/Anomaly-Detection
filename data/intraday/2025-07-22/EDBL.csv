@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,174350,2025072203001299,EDBL,Kalika Securities Pvt. Ltd.,Sharepro Securities Private Limited,255,665.0,169575.0,2025-07-22 11:06:00.605450
 2025-07-22,173899,2025072203001547,EDBL,Sri Hari Securities Pvt. Ltd.,Sharepro Securities Private Limited,200,665.0,133000.0,2025-07-22 11:06:44.189216
 2025-07-22,172513,2025072203002150,EDBL,Dakshinkali Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,45,665.0,29925.0,2025-07-22 11:09:05.221714

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,68860,2025081303000136,RLFL,Blue Chip Securities Ltd,Online Securities Pvt. Ltd.,10,495.0,4950.0,2025-08-13 11:07:23.346460
 2025-08-13,67569,2025081303000316,RLFL,Agrawal Securities (PVT) Ltd.,Property Wiard Limited,100,494.9,49490.0,2025-08-13 11:13:29.650565
 2025-08-13,67483,2025081303000336,RLFL,Investment Management Nepal Pvt. Ltd.,Property Wiard Limited,200,486.2,97240.0,2025-08-13 11:13:54.361146

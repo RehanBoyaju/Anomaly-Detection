@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,83246,2025081703000370,SFCL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Vision Securities Pvt. Ltd,100,470.0,47000.0,2025-08-17 11:10:12.235868
 2025-08-17,80965,2025081703000592,SFCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,30,470.5,14115.0,2025-08-17 11:16:43.517251
 2025-08-17,79905,2025081703000750,SFCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,20,470.5,9410.0,2025-08-17 11:19:38.873623

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,154730,2025072903000559,MPFL,Secured Securities Ltd.,Premier Securities Company Ltd.,110,683.0,75130.0,2025-07-29 11:05:49.579436
 2025-07-29,153716,2025072903000784,MPFL,Sundhara Securities Limited,Vision Securities Pvt. Ltd,10,682.0,6820.0,2025-07-29 11:07:15.663483
 2025-07-29,153715,2025072903000785,MPFL,Sundhara Securities Limited,Premier Securities Company Ltd.,50,683.0,34150.0,2025-07-29 11:07:15.663558

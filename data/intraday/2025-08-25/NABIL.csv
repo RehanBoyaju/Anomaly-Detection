@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57080,2025082501000015,NABIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,10,512.0,5120.0,2025-08-25 10:46:00.340260
 2025-08-25,57079,2025082501000016,NABIL,Naasa Securities Co. Ltd.,Shree Krishna Securities Ltd.,40,512.0,20480.0,2025-08-25 10:46:00.340465
 2025-08-25,56777,2025082501000061,NABIL,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,100,512.0,51200.0,2025-08-25 11:01:54.410241

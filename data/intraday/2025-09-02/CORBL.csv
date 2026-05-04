@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,88460,2025090203000020,CORBL,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,1900.0,19000.0,2025-09-02 11:01:31.737145
 2025-09-02,79566,2025090203000240,CORBL,Linch Stock Market Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,1938.0,19380.0,2025-09-02 11:17:25.005369
 2025-09-02,78965,2025090203000247,CORBL,Sipla Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,10,1976.0,19760.0,2025-09-02 11:18:02.299364

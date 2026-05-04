@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99380,2025071601000050,NBL,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,10,285.0,2850.0,2025-07-16 11:00:22.343382
 2025-07-16,99345,2025071601000063,NBL,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,287.0,2870.0,2025-07-16 11:00:36.428430
 2025-07-16,98872,2025071601000304,NBL,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,200,285.0,57000.0,2025-07-16 11:02:53.838290

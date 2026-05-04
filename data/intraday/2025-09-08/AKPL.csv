@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59167,2025090804000189,AKPL,Kumari Securities Private Limited,Sajilo Broker Limited,11,255.0,2805.0,2025-09-08 11:05:22.185266
 2025-09-08,59166,2025090804000190,AKPL,Imperial Securities Company Pvt. Ltd.,Sajilo Broker Limited,89,255.0,22695.0,2025-09-08 11:05:22.185382
 2025-09-08,59016,2025090804000227,AKPL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,31,255.0,7905.0,2025-09-08 11:06:58.893429

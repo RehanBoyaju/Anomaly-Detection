@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87327,2025070604000020,GLH,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,270.0,27000.0,2025-07-06 10:46:00.064890
 2025-07-06,87267,2025070604000027,GLH,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,100,267.0,26700.0,2025-07-06 11:00:26.243565
 2025-07-06,87020,2025070604000086,GLH,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,1000,269.9,269900.0,2025-07-06 11:01:40.533505

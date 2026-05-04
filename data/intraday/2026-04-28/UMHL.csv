@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UMHL,13,92,10,580.0,5800.0,2026-04-28 14:59:59.095,2026042804015056
 UMHL,39,92,1155,580.0,669900.0,2026-04-28 14:59:57.002,2026042804015016
 UMHL,39,62,1335,579.9,774166.5,2026-04-28 14:59:57.002,2026042804015015

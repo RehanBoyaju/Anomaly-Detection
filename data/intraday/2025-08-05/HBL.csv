@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130388,2025080501000442,HBL,Sri Hari Securities Pvt. Ltd.,Elite Stock House Limited,10,236.0,2360.0,2025-08-05 11:00:56.414521
 2025-08-05,129602,2025080501001198,HBL,Sri Hari Securities Pvt. Ltd.,Secured Securities Ltd.,10,237.5,2375.0,2025-08-05 11:01:13.145456
 2025-08-05,126076,2025080501004438,HBL,Aryatara Investment & Securities,Asian Securities Private Ltd.,25,237.0,5925.0,2025-08-05 11:03:18.765640

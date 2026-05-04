@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,139380,2025073004000403,HURJA,Online Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,250,265.0,66250.0,2025-07-30 11:05:28.464057
 2025-07-30,137714,2025073004000732,HURJA,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,100,263.3,26330.0,2025-07-30 11:08:44.961083
 2025-07-30,137713,2025073004000733,HURJA,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,100,263.3,26330.0,2025-07-30 11:08:44.961188

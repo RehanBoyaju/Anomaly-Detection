@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177964,2025072001000011,KBL,Beni Securities Pvt.Ltd.,Trisul Securities & Invt. Ltd.,10,225.0,2250.0,2025-07-20T10:46:00.110678
 2025-07-20,177963,2025072001000012,KBL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,800,225.0,180000.0,2025-07-20T10:46:00.110736
 2025-07-20,177962,2025072001000013,KBL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,200,225.0,45000.0,2025-07-20T10:46:00.110761

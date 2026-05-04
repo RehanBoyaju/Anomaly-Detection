@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,97771,2025071604000480,OHL,Linch Stock Market Ltd.,Midas Stock Broking Company Private Limited,10,896.0,8960.0,2025-07-16 11:06:40.769596
 2025-07-16,96411,2025071604000825,OHL,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,100,887.0,88700.0,2025-07-16 11:10:24.633108
 2025-07-16,93604,2025071604001534,OHL,Sani Securities Company Ltd.,Secured Securities Ltd.,30,888.0,26640.0,2025-07-16 11:17:41.697125

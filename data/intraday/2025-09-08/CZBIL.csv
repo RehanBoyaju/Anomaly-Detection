@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,57642,2025090801000765,CZBIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,100,205.2,20520.0,2025-09-08 11:15:56.908003
 2025-09-08,57641,2025090801000766,CZBIL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,100,205.1,20510.0,2025-09-08 11:15:56.908097
 2025-09-08,57640,2025090801000767,CZBIL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,1000,205.0,205000.0,2025-09-08 11:15:56.908138

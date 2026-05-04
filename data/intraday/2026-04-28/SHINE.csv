@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SHINE,58,41,100,401.8,40180.0,2026-04-28 14:59:38.236,2026042803008397
 SHINE,85,13,154,401.6,61846.4,2026-04-28 14:59:33.302,2026042803008371
 SHINE,36,41,50,401.8,20090.0,2026-04-28 14:59:07.798,2026042803008254

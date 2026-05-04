@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67298,2025090303000080,NFS,Opal Securities Investment (PVT) Ltd.,Premier Securities Company Ltd.,14,665.0,9310.0,2025-09-03 11:06:26.507729
 2025-09-03,66958,2025090303000104,NFS,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,17,670.0,11390.0,2025-09-03 11:07:54.894270
 2025-09-03,66713,2025090303000112,NFS,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,21,670.0,14070.0,2025-09-03 11:09:04.597007

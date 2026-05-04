@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73966,2025071504000038,NGPL,ABC Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,384.0,3840.0,2025-07-15 11:00:36.330880
 2025-07-15,73700,2025071504000143,NGPL,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,15,380.0,5700.0,2025-07-15 11:02:53.198496
 2025-07-15,73647,2025071504000157,NGPL,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,38,380.0,14440.0,2025-07-15 11:03:20.543191

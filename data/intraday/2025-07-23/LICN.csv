@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169562,2025072303000090,LICN,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,100,988.2,98820.0,2025-07-23 11:01:20.592075
 2025-07-23,169296,2025072303000115,LICN,Investment Management Nepal Pvt. Ltd.,Sani Securities Company Ltd.,100,990.0,99000.0,2025-07-23 11:01:42.107895
 2025-07-23,169024,2025072303000180,LICN,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,100,988.2,98820.0,2025-07-23 11:02:04.072338

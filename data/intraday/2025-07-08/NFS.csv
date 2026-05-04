@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56273,2025070803000002,NFS,Himalayan Brokerage Company Limited,Siprabi Securities Pvt. Ltd.,100,722.0,72200.0,2025-07-08 10:46:00.012478
 2025-07-08,56156,2025070803000025,NFS,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,50,722.0,36100.0,2025-07-08 11:00:39.700162
 2025-07-08,56104,2025070803000035,NFS,Sundhara Securities Limited,Miyo Securities Pvt Ltd,100,725.0,72500.0,2025-07-08 11:01:07.653789

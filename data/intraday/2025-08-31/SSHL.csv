@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,93570,2025083104000181,SSHL,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,189.0,1890.0,2025-08-31T11:04:56.315563
 2025-08-31,90848,2025083104000329,SSHL,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,190.9,1909.0,2025-08-31T11:09:43.371561
 2025-08-31,88504,2025083104000489,SSHL,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,10,188.1,1881.0,2025-08-31T11:13:31.446506

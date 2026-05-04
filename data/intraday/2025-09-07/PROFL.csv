@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57133,2025090703000074,PROFL,Sumeru Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,483.9,4839.0,2025-09-07 11:06:56.862821
 2025-09-07,52833,2025090703000424,PROFL,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,40,479.9,19196.0,2025-09-07 11:30:31.365425
 2025-09-07,52832,2025090703000425,PROFL,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,100,480.0,48000.0,2025-09-07 11:30:31.365536

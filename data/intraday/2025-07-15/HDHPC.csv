@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74006,2025071504000031,HDHPC,Agrawal Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,10,201.4,2014.0,2025-07-15 10:46:00.060708
 2025-07-15,73959,2025071504000044,HDHPC,Linch Stock Market Ltd.,Secured Securities Ltd.,100,199.8,19980.0,2025-07-15 11:00:40.395235
 2025-07-15,73676,2025071504000147,HDHPC,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,199.5,1995.0,2025-07-15 11:03:08.037781

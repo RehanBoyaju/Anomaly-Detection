@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53244,2025082001000098,GBIME,Nepal Stock House (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,250,250.6,62650.0,2025-08-20 11:05:41.223197
 2025-08-20,53243,2025082001000099,GBIME,Oxford Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,167,250.5,41833.5,2025-08-20 11:05:41.223249
 2025-08-20,52454,2025082001000260,GBIME,Nepal Stock House (PVT) Ltd.,Primo Securities (PVT) Ltd.,137,251.0,34387.0,2025-08-20 11:11:21.732505

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ALBSL,38,45,56,1124.0,62944.0,2026-04-28 14:59:56.858,2026042803008655
 ALBSL,38,57,23,1120.0,25760.0,2026-04-28 14:59:56.858,2026042803008654
 ALBSL,38,45,70,1116.0,78120.0,2026-04-28 14:59:56.858,2026042803008653

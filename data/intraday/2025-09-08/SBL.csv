@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59551,2025090801000023,SBL,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,50,372.0,18600.0,2025-09-08 11:01:01.029259
 2025-09-08,59526,2025090801000029,SBL,Nagarik Stock Dealer ,Nepal Stock House (PVT) Ltd.,2740,372.0,1019280.0,2025-09-08 11:01:18.648781
 2025-09-08,59133,2025090801000191,SBL,INDEX SECURITIES LIMITED,Online Securities Pvt. Ltd.,10,377.9,3779.0,2025-09-08 11:05:38.884894

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,93638,2025080701000903,SCB,Kumari Securities Private Limited,Pragyan Securities (PVT) Ltd.,16,646.3,10340.8,2025-08-07 11:07:41.796622
 2025-08-07,93555,2025080701000928,SCB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,20,647.0,12940.0,2025-08-07 11:07:58.637048
 2025-08-07,93554,2025080701000929,SCB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,10,647.0,6470.0,2025-08-07 11:07:58.637099

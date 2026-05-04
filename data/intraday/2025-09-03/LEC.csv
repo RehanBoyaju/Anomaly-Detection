@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68529,2025090304000022,LEC,Sani Securities Company Ltd.,Capital Max Securities Ltd,10,230.5,2305.0,2025-09-03 10:46:00.049240
 2025-09-03,68503,2025090304000023,LEC,Sani Securities Company Ltd.,Capital Max Securities Ltd,10,232.0,2320.0,2025-09-03 11:00:07.230521
 2025-09-03,67969,2025090304000090,LEC,Kalika Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2000,236.5,473000.0,2025-09-03 11:03:23.292490

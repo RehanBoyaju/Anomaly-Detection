@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97348,2025081104000184,MHNL,Linch Stock Market Ltd.,Sumeru Securities Pvt. Ltd.,10,275.0,2750.0,2025-08-11 11:03:54.508001
 2025-08-11,95252,2025081104000638,MHNL,Opal Securities Investment (PVT) Ltd.,Premier Securities Company Ltd.,10,266.0,2660.0,2025-08-11 11:08:56.059940
 2025-08-11,92407,2025081104001279,MHNL,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,200,270.9,54180.0,2025-08-11 11:15:26.573453

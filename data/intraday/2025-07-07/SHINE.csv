@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71057,2025070703000094,SHINE,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,24,400.0,9600.0,2025-07-07 11:01:12.191491
 2025-07-07,70413,2025070703000327,SHINE,Premier Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,401.0,4010.0,2025-07-07 11:04:42.742292
 2025-07-07,70412,2025070703000328,SHINE,Linch Stock Market Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,90,401.0,36090.0,2025-07-07 11:04:42.742358

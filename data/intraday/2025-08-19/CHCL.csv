@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61421,2025081904000180,CHCL,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,100,517.1,51710.0,2025-08-19 11:02:06.048984
 2025-08-19,61125,2025081904000285,CHCL,J.F. Securites (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,82,517.1,42402.2,2025-08-19 11:04:24.859856
 2025-08-19,61118,2025081904000288,CHCL,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,365,517.1,188741.5,2025-08-19 11:04:29.240483

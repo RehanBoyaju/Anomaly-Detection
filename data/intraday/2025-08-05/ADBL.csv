@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,128397,2025080501002345,ADBL,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,133,325.6,43304.8,2025-08-05 11:01:49.799427
 2025-08-05,125516,2025080501004909,ADBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,10,330.0,3300.0,2025-08-05 11:03:43.709992
 2025-08-05,125095,2025080501005267,ADBL,Asian Securities Private Ltd.,Sumeru Securities Pvt. Ltd.,490,330.0,161700.0,2025-08-05 11:04:02.666734

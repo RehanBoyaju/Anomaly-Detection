@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72561,2025071403000004,SINDU,Agrawal Securities (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,872.0,8720.0,2025-07-14 10:46:00.048823
 2025-07-14,72276,2025071403000032,SINDU,Primo Securities (PVT) Ltd.,Aryatara Investment & Securities,10,875.0,8750.0,2025-07-14 11:01:11.558858
 2025-07-14,71945,2025071403000064,SINDU,Asian Securities Private Ltd.,Agrawal Securities (PVT) Ltd.,100,875.0,87500.0,2025-07-14 11:02:24.637439

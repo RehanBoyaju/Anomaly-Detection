@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152451,2025080303000028,SINDU,Kumari Securities Private Limited,Infinity Securities Limited,10,876.4,8764.0,2025-08-03T10:46:00.059737
 2025-08-03,152450,2025080303000029,SINDU,Sani Securities Company Ltd.,Infinity Securities Limited,50,876.4,43820.0,2025-08-03T10:46:00.05977
 2025-08-03,152154,2025080303000066,SINDU,Secured Securities Ltd.,Kumari Securities Private Limited,50,874.0,43700.0,2025-08-03T11:00:46.643673

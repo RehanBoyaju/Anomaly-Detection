@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,54967,2025082503001186,NLIC,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,783.0,7830.0,2025-08-25 11:10:16.064329
 2025-08-25,54790,2025082503001264,NLIC,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,15,769.0,11535.0,2025-08-25 11:11:09.599488
 2025-08-25,54522,2025082503001397,NLIC,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,50,769.0,38450.0,2025-08-25 11:12:34.604822

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85819,2025081703000103,GUFL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,30,541.0,16230.0,2025-08-17 11:02:37.037178
 2025-08-17,85614,2025081703000126,GUFL,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,150,534.1,80115.0,2025-08-17 11:03:17.298400
 2025-08-17,85613,2025081703000127,GUFL,Prabhu Stock Market Limited,Vision Securities Pvt. Ltd,300,534.0,160200.0,2025-08-17 11:03:17.298499

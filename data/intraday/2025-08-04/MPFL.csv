@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149239,2025080403000007,MPFL,Sewa Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,626.2,6262.0,2025-08-04 10:46:00.040305
 2025-08-04,147662,2025080403000068,MPFL,Pragyan Securities (PVT) Ltd.,BHOLE GANESH SECURITIES LTD,10,638.7,6387.0,2025-08-04 11:02:03.159409
 2025-08-04,145739,2025080403000148,MPFL,Creative Securities Pvt Ltd,Sani Securities Company Ltd.,10,645.0,6450.0,2025-08-04 11:03:48.070842

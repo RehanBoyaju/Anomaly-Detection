@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,114146,2025080505001672,TPC,ABC Securities Private Limited,Sri Hari Securities Pvt. Ltd.,10,392.0,3920.0,2025-08-05 11:14:09.065810
 2025-08-05,114145,2025080505001673,TPC,Linch Stock Market Ltd.,Sri Hari Securities Pvt. Ltd.,215,392.0,84280.0,2025-08-05 11:14:09.065921
 2025-08-05,114144,2025080505001674,TPC,Neev Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,20,392.0,7840.0,2025-08-05 11:14:09.066003

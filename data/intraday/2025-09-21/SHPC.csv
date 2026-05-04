@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108624,2025092104000081,SHPC,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,50,491.1,24555.0,2025-09-21 10:46:00.036145
 2025-09-21,108623,2025092104000082,SHPC,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,50,491.1,24555.0,2025-09-21 10:46:00.036188
 2025-09-21,108622,2025092104000083,SHPC,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,100,491.1,49110.0,2025-09-21 10:46:00.036218

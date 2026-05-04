@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67974,2025090303000034,LBBL,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,10,525.9,5259.0,2025-09-03 11:03:19.358812
 2025-09-03,67243,2025090303000081,LBBL,Property Wiard Limited,Oxford Securities Pvt. Ltd.,249,529.1,131745.9,2025-09-03 11:06:38.224249
 2025-09-03,65897,2025090303000152,LBBL,Agrawal Securities (PVT) Ltd.,Prabhu Stock Market Limited,50,533.1,26655.0,2025-09-03 11:11:59.914407

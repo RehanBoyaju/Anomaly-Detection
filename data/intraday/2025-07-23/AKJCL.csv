@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170225,2025072304000024,AKJCL,Sweta Securities Private Limited,Sri Hari Securities Pvt. Ltd.,20,218.0,4360.0,2025-07-23 10:46:00.060802
 2025-07-23,170224,2025072304000025,AKJCL,Sweta Securities Private Limited,Opal Securities Investment (PVT) Ltd.,20,218.0,4360.0,2025-07-23 10:46:00.060880
 2025-07-23,170223,2025072304000026,AKJCL,Kohinoor Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,230,218.0,50140.0,2025-07-23 10:46:00.060920

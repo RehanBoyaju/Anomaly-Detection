@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,77204,2025080704003680,OHL,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,10,877.0,8770.0,2025-08-07 11:56:55.782625
 2025-08-07,77203,2025080704003681,OHL,Shree Krishna Securities Ltd.,Imperial Securities Company Pvt. Ltd.,10,876.1,8761.0,2025-08-07 11:56:55.782834
 2025-08-07,77202,2025080704003682,OHL,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,10,875.0,8750.0,2025-08-07 11:56:55.782930

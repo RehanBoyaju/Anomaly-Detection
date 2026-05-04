@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75424,2025081403000118,JFL,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,100,490.0,49000.0,2025-08-14 11:06:43.171155
 2025-08-14,67079,2025081403000933,JFL,Imperial Securities Company Pvt. Ltd.,Creative Securities Pvt Ltd,100,485.0,48500.0,2025-08-14 11:37:51.280784
 2025-08-14,66672,2025081403000997,JFL,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,74,484.9,35882.6,2025-08-14 11:39:44.997419

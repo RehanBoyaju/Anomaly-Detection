@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95388,2025080704000048,AKPL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,11,268.0,2948.0,2025-08-07 11:01:15.915814
 2025-08-07,94106,2025080704000223,AKPL,Ashutosh Brokerage & Securities (PVT) Ltd.,Citizens Share Broker Limited,15,267.5,4012.5,2025-08-07 11:06:01.138603
 2025-08-07,93770,2025080704000259,AKPL,Sunrise Securities Limited,Citizens Share Broker Limited,4985,267.5,1333487.5,2025-08-07 11:07:12.241026

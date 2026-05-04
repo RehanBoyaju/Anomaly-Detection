@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,58000,2025082404000010,RURU,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,10,726.0,7260.0,2025-08-24 10:46:00.059863
 2025-08-24,57321,2025082404000094,RURU,Nepal Investment And Securities Trading Private Limited,Vision Securities Pvt. Ltd,10,740.0,7400.0,2025-08-24 11:05:25.555714
 2025-08-24,55372,2025082404000468,RURU,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,27,738.0,19926.0,2025-08-24 11:16:14.249645

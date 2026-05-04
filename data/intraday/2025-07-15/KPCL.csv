@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74012,2025071504000025,KPCL,Imperial Securities Company Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,522.8,5228.0,2025-07-15 10:46:00.047407
 2025-07-15,73593,2025071504000182,KPCL,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,10,530.0,5300.0,2025-07-15 11:03:34.813659
 2025-07-15,73443,2025071504000237,KPCL,Himalayan Brokerage Company Limited,Nepal Investment And Securities Trading Private Limited,10,540.0,5400.0,2025-07-15 11:04:28.069008

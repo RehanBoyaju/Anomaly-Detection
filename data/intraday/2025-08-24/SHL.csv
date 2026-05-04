@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57626,2025082404000058,SHL,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,569.0,170700.0,2025-08-24 11:03:38.664366
 2025-08-24,57568,2025082404000069,SHL,Secured Securities Ltd.,Asian Securities Private Ltd.,100,569.0,56900.0,2025-08-24 11:04:08.273662
 2025-08-24,56917,2025082404000146,SHL,N.I.M.B. Stock Markets Limited,Imperial Securities Company Pvt. Ltd.,100,569.0,56900.0,2025-08-24 11:08:29.226610

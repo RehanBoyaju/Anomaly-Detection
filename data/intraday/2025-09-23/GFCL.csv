@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67360,2025092303000004,GFCL,Opal Securities Investment (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,100,617.1,61710.0,2025-09-23 10:46:00.015240
 2025-09-23,67359,2025092303000005,GFCL,Oxford Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,30,617.1,18513.0,2025-09-23 10:46:00.015287
 2025-09-23,67149,2025092303000033,GFCL,Oxford Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,65,617.1,40111.5,2025-09-23 11:01:12.138996

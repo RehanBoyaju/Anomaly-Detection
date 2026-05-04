@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,155403,2025072905000706,CIT,Sewa Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,36,2045.1,73623.6,2025-07-29 11:04:41.016515
 2025-07-29,154603,2025072905000913,CIT,Siprabi Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,2070.0,20700.0,2025-07-29 11:06:01.665922
 2025-07-29,154361,2025072905001001,CIT,Aryatara Investment & Securities,Premier Securities Company Ltd.,43,2065.0,88795.0,2025-07-29 11:06:21.569619

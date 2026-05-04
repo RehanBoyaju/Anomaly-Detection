@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77699,2025081205000334,NRN,BHOLE GANESH SECURITIES LTD,Sani Securities Company Ltd.,11,2244.0,24684.0,2025-08-12 11:02:15.925778
 2025-08-12,76016,2025081205001080,NRN,Trishakti Securities Public Limited,Trademow Securities Private Limited,20,2244.0,44880.0,2025-08-12 11:08:55.227333
 2025-08-12,75887,2025081205001156,NRN,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,11,2244.0,24684.0,2025-08-12 11:09:17.715060

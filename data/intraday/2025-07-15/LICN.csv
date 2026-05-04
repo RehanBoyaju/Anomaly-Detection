@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,72666,2025071503000278,LICN,Nepal Stock House (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,10,883.0,8830.0,2025-07-15 11:08:39.068501
 2025-07-15,72589,2025071503000285,LICN,Sanima Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,150,883.4,132510.0,2025-07-15 11:08:51.607891
 2025-07-15,72588,2025071503000286,LICN,Sanima Securities Limited,Sharepro Securities Private Limited,50,883.5,44175.0,2025-07-15 11:08:51.607957

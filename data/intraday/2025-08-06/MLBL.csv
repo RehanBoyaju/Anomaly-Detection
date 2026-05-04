@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,91523,2025080603000243,MLBL,Neev Securities Pvt. Ltd.,Asian Securities Private Ltd.,100,409.0,40900.0,2025-08-06 11:05:15.877888
 2025-08-06,91522,2025080603000244,MLBL,J.F. Securites (PVT) Ltd.,Asian Securities Private Ltd.,50,409.0,20450.0,2025-08-06 11:05:15.877959
 2025-08-06,91521,2025080603000245,MLBL,Sundhara Securities Limited,Asian Securities Private Ltd.,100,409.0,40900.0,2025-08-06 11:05:15.878011

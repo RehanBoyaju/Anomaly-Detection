@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68339,2025090404000244,SHPC,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,50,548.16,27408.0,2025-09-04T11:04:30.356456
 2025-09-04,67370,2025090404000478,SHPC,Sundhara Securities Limited,Siprabi Securities Pvt. Ltd.,100,550.0,55000.0,2025-09-04T11:09:06.711084
 2025-09-04,67329,2025090404000487,SHPC,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,553.0,5530.0,2025-09-04T11:09:18.464303

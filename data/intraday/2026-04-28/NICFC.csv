@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NICFC,46,26,100,9.27,927.0,2026-04-28 14:59:18.938,2026042805016160
 NICFC,46,58,100,9.25,925.0,2026-04-28 14:30:29.573,2026042805012300
 NICFC,46,6,100,9.25,925.0,2026-04-28 14:01:16.586,2026042805010038

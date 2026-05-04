@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72484,2025082701000015,NBL,Sri Hari Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,10,256.5,2565.0,2025-08-27T10:46:00.063728
 2025-08-27,72420,2025082701000026,NBL,Naasa Securities Co. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,20,255.8,5116.0,2025-08-27T11:00:58.041768
 2025-08-27,71673,2025082701000175,NBL,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,110,252.0,27720.0,2025-08-27T11:07:30.782586

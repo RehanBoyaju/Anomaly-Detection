@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HPPL,34,34,760,387.3,294348.0,2026-04-28 14:59:59.221,2026042804015072
 HPPL,34,86,10,387.2,3872.0,2026-04-28 14:59:59.221,2026042804015071
 HPPL,34,86,10,387.1,3871.0,2026-04-28 14:59:59.221,2026042804015070

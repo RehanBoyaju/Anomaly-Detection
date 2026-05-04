@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,61841,2025090304001023,JOSHI,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,30,293.3,8799.0,2025-09-03 11:26:29.106158
 2025-09-03,61840,2025090304001024,JOSHI,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,100,293.2,29320.0,2025-09-03 11:26:29.106232
 2025-09-03,61839,2025090304001025,JOSHI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,380,293.1,111378.0,2025-09-03 11:26:29.106276

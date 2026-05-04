@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71073,2025070704000047,CGH,Indira securities pvt. ltd,Kohinoor Investment & Securities Pvt. Ltd.,10,935.9,9359.0,2025-07-07 11:01:06.555514
 2025-07-07,70906,2025070704000085,CGH,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,954.0,9540.0,2025-07-07 11:02:03.018119
 2025-07-07,70729,2025070704000134,CGH,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,490,953.7,467313.0,2025-07-07 11:03:02.880817

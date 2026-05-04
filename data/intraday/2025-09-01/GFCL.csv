@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,63146,2025090103000497,GFCL,J.F. Securites (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,50,630.0,31500.0,2025-09-01 11:19:00.050459
 2025-09-01,59609,2025090103000842,GFCL,ABC Securities Private Limited,Premier Securities Company Ltd.,30,622.0,18660.0,2025-09-01 11:30:27.666371
 2025-09-01,59119,2025090103000895,GFCL,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,621.2,6212.0,2025-09-01 11:32:08.478481

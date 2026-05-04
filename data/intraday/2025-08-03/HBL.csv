@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152043,2025080301000304,HBL,Sundhara Securities Limited,Primo Securities (PVT) Ltd.,10,238.0,2380.0,2025-08-03T11:00:58.709658
 2025-08-03,152042,2025080301000305,HBL,Sundhara Securities Limited,Agrawal Securities (PVT) Ltd.,50,238.0,11900.0,2025-08-03T11:00:58.709798
 2025-08-03,152041,2025080301000306,HBL,Sundhara Securities Limited,Online Securities Pvt. Ltd.,40,238.0,9520.0,2025-08-03T11:00:58.709846

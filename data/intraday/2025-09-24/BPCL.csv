@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47847,2025092404000003,BPCL,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,10,810.6,8106.0,2025-09-24 10:46:00.008656
 2025-09-24,47208,2025092404000194,BPCL,Arun Securities (PVT) Ltd.,Himalayan Securities Limited,10,794.4,7944.0,2025-09-24 11:03:37.737722
 2025-09-24,47199,2025092404000199,BPCL,Arun Securities (PVT) Ltd.,Arun Securities (PVT) Ltd.,90,794.4,71496.0,2025-09-24 11:03:40.768977

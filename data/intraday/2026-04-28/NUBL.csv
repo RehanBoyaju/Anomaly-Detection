@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NUBL,45,1,10,678.0,6780.0,2026-04-28 14:59:52.476,2026042803008448
 NUBL,37,34,30,676.5,20295.0,2026-04-28 14:59:25.536,2026042803008332
 NUBL,25,34,20,676.6,13532.0,2026-04-28 14:59:25.536,2026042803008331

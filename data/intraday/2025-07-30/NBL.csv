@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140963,2025073001000211,NBL,Siprabi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,306.0,3060.0,2025-07-30 11:01:52.986234
 2025-07-30,139416,2025073001000732,NBL,Blue Chip Securities Ltd,Sumeru Securities Pvt. Ltd.,10,301.0,3010.0,2025-07-30 11:05:21.472707
 2025-07-30,138842,2025073001000927,NBL,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,10,305.0,3050.0,2025-07-30 11:06:33.284389

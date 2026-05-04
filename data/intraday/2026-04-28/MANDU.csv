@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MANDU,43,14,50,823.0,41150.0,2026-04-28 14:59:59.897,2026042805016552
 MANDU,63,43,200,805.5,161100.0,2026-04-28 14:59:22.677,2026042805016178
 MANDU,43,14,10,823.0,8230.0,2026-04-28 14:56:34.847,2026042805015557

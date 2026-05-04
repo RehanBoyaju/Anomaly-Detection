@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,84029,2025090203000098,PROFL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,488.0,4880.0,2025-09-02 11:08:38.330360
 2025-09-02,82758,2025090203000156,PROFL,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,190,488.0,92720.0,2025-09-02 11:10:51.478416
 2025-09-02,81309,2025090203000189,PROFL,Trishakti Securities Public Limited,Midas Stock Broking Company Private Limited,10,488.0,4880.0,2025-09-02 11:13:31.111882

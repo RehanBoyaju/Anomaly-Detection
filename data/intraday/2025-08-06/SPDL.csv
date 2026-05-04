@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,89510,2025080604000525,SPDL,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,150,405.0,60750.0,2025-08-06 11:10:12.923284
 2025-08-06,89298,2025080604000552,SPDL,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,50,405.0,20250.0,2025-08-06 11:10:42.989300
 2025-08-06,89152,2025080604000563,SPDL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,50,405.0,20250.0,2025-08-06 11:11:03.281110

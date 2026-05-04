@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UNHPL,62,11,500,487.9,243950.0,2026-04-28 14:59:58.831,2026042804015043
 UNHPL,62,11,10,487.9,4879.0,2026-04-28 14:59:57.868,2026042804015030
 UNHPL,40,6,1878,488.0,916464.0,2026-04-28 14:57:18.938,2026042804014025

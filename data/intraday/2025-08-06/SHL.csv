@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92170,2025080604000095,SHL,Kohinoor Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,100,555.0,55500.0,2025-08-06 11:03:22.482046
 2025-08-06,92007,2025080604000118,SHL,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,400,555.0,222000.0,2025-08-06 11:03:59.049700
 2025-08-06,91906,2025080604000131,SHL,Investment Management Nepal Pvt. Ltd.,Kalika Securities Pvt. Ltd.,500,558.0,279000.0,2025-08-06 11:04:08.824526

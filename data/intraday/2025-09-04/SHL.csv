@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67111,2025090404000535,SHL,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,100,558.0,55800.0,2025-09-04T11:10:23.897893
 2025-09-04,65696,2025090404000941,SHL,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,150,558.0,83700.0,2025-09-04T11:15:24.737766
 2025-09-04,64570,2025090404001199,SHL,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,2000,561.0,1122000.0,2025-09-04T11:19:36.220463

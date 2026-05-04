@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99432,2025071603000014,SAPDBL,Blue Chip Securities Ltd,Thrive Brokerage House Pvt. Ltd,10,1089.0,10890.0,2025-07-16 10:46:00.080207
 2025-07-16,99360,2025071603000022,SAPDBL,Malla & Malla Stock Broking Company Pvt. Limited,Hatemalo Financial Services Private Limited,10,1067.3,10673.0,2025-07-16 11:00:29.990195
 2025-07-16,98749,2025071603000082,SAPDBL,Vision Securities Pvt. Ltd,Hatemalo Financial Services Private Limited,460,1070.0,492200.0,2025-07-16 11:03:17.254664

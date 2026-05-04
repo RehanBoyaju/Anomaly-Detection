@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,70266,2025082704000324,AKPL,Trishakti Securities Public Limited,Malla & Malla Stock Broking Company Pvt. Limited,40,256.2,10248.0,2025-08-27T11:15:43.316731
 2025-08-27,70108,2025082704000344,AKPL,Trishakti Securities Public Limited,Opal Securities Investment (PVT) Ltd.,49,256.2,12553.8,2025-08-27T11:16:43.168287
 2025-08-27,69941,2025082704000376,AKPL,Trishakti Securities Public Limited,Creative Securities Pvt Ltd,11,256.2,2818.2,2025-08-27T11:17:39.605994

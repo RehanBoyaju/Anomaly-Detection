@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,67843,2025081304000423,MHNL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,150,261.1,39165.0,2025-08-13 11:12:17.830707
 2025-08-13,67842,2025081304000424,MHNL,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,200,261.0,52200.0,2025-08-13 11:12:17.830741
 2025-08-13,67841,2025081304000425,MHNL,Pragyan Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,500,261.0,130500.0,2025-08-13 11:12:17.830763

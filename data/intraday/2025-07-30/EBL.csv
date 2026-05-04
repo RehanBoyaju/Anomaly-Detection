@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141240,2025073001000120,EBL,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,10,749.9,7499.0,2025-07-30 11:00:50.329588
 2025-07-30,137336,2025073001001409,EBL,Secured Securities Ltd.,Kumari Securities Private Limited,50,747.0,37350.0,2025-07-30 11:09:32.127075
 2025-07-30,135773,2025073001001895,EBL,Pragyan Securities (PVT) Ltd.,Linch Stock Market Ltd.,47,745.9,35057.3,2025-07-30 11:12:23.015891

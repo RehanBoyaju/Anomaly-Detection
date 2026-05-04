@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7270,2025091801000070,GBIME,Prabhu Stock Market Limited,ABC Securities Private Limited,10,240.1,2401.0,2025-09-18 10:46:00.055912
 2025-09-18,7267,2025091801000071,GBIME,Nepal Stock House (PVT) Ltd.,ABC Securities Private Limited,20,240.1,4802.0,2025-09-18 10:46:00.055957
 2025-09-18,7266,2025091801000072,GBIME,Asian Securities Private Ltd.,ABC Securities Private Limited,50,240.1,12005.0,2025-09-18 10:46:00.055983

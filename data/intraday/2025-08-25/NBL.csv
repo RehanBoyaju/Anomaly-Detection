@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,54681,2025082501000444,NBL,Oxford Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,40,254.0,10160.0,2025-08-25 11:11:47.691118
 2025-08-25,54680,2025082501000445,NBL,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,100,254.0,25400.0,2025-08-25 11:11:47.691221
 2025-08-25,54679,2025082501000446,NBL,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,100,254.0,25400.0,2025-08-25 11:11:47.691256

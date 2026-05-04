@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,52665,2025090704001444,HPPL,ABC Securities Private Limited,ABC Securities Private Limited,10,482.0,4820.0,2025-09-07 11:31:15.387246
 2025-09-07,50092,2025090704002098,HPPL,ABC Securities Private Limited,Investment Management Nepal Pvt. Ltd.,100,486.0,48600.0,2025-09-07 11:42:29.739809
 2025-09-07,49485,2025090704002229,HPPL,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,486.9,4869.0,2025-09-07 11:44:59.169057

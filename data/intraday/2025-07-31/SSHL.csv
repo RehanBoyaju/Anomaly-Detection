@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168543,2025073104000017,SSHL,Property Wiard Limited,Naasa Securities Co. Ltd.,50,295.8,14790.0,2025-07-31 10:46:00.063137
 2025-07-31,168542,2025073104000018,SSHL,Property Wiard Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,295.8,14790.0,2025-07-31 10:46:00.063187
 2025-07-31,168541,2025073104000019,SSHL,Trisul Securities & Invt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,80,295.8,23664.0,2025-07-31 10:46:00.063218

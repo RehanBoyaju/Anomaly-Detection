@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53489,2025082001000050,NICA,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,100,353.0,35300.0,2025-08-20 11:03:56.014555
 2025-08-20,53241,2025082001000101,NICA,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,16,354.0,5664.0,2025-08-20 11:05:44.446263
 2025-08-20,53240,2025082001000102,NICA,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,184,355.0,65320.0,2025-08-20 11:05:44.446341

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99449,2025071604000030,UNHPL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,10,430.6,4306.0,2025-07-16 10:46:00.062634
 2025-07-16,99186,2025071604000104,UNHPL,Kumari Securities Private Limited,Capital Max Securities Ltd,20,422.0,8440.0,2025-07-16 11:01:31.639392
 2025-07-16,99144,2025071604000110,UNHPL,Citizens Share Broker Limited,Capital Max Securities Ltd,10,424.0,4240.0,2025-07-16 11:01:43.686500

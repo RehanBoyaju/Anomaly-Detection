@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58021,2025090705000010,NIFRA,Neev Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,54,274.0,14796.0,2025-09-07 10:46:00.031558
 2025-09-07,57934,2025090705000043,NIFRA,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,161,275.0,44275.0,2025-09-07 11:00:57.889177
 2025-09-07,57933,2025090705000044,NIFRA,Trishakti Securities Public Limited,Sani Securities Company Ltd.,20,274.0,5480.0,2025-09-07 11:00:57.889249

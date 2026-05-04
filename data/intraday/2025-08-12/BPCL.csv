@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78061,2025081204000026,BPCL,Agrawal Securities (PVT) Ltd.,INDEX SECURITIES LIMITED,10,860.0,8600.0,2025-08-12 11:00:36.652928
 2025-08-12,77943,2025081204000040,BPCL,Imperial Securities Company Pvt. Ltd.,INDEX SECURITIES LIMITED,10,852.8,8528.0,2025-08-12 11:01:08.755780
 2025-08-12,77879,2025081204000045,BPCL,Linch Stock Market Ltd.,Global IME Securities Limited,500,865.0,432500.0,2025-08-12 11:01:26.761875

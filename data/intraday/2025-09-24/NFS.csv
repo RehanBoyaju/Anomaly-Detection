@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,45701,2025092403000402,NFS,Primo Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,20,666.0,13320.0,2025-09-24 11:10:45.380535
 2025-09-24,45647,2025092403000411,NFS,Siprabi Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,200,670.8,134160.0,2025-09-24 11:11:00.346014
 2025-09-24,44355,2025092403000609,NFS,Premier Securities Company Ltd.,Midas Stock Broking Company Private Limited,10,670.0,6700.0,2025-09-24 11:16:51.124132

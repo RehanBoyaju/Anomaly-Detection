@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,75104,2025090203000404,SHINE,Malla & Malla Stock Broking Company Pvt. Limited,Midas Stock Broking Company Private Limited,250,425.0,106250.0,2025-09-02 11:27:06.262298
 2025-09-02,74583,2025090203000422,SHINE,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,50,425.0,21250.0,2025-09-02 11:28:17.187902
 2025-09-02,72223,2025090203000548,SHINE,Sanima Securities Limited,Aryatara Investment & Securities,25,428.9,10722.5,2025-09-02 11:33:54.388421

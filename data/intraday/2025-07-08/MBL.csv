@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55074,2025070801000201,MBL,Agrawal Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,319,224.2,71519.8,2025-07-08 11:07:07.674068
 2025-07-08,54344,2025070801000350,MBL,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,100,224.2,22420.0,2025-07-08 11:11:15.326924
 2025-07-08,53999,2025070801000426,MBL,Asian Securities Private Ltd.,BHOLE GANESH SECURITIES LTD,100,225.0,22500.0,2025-07-08 11:13:01.009647

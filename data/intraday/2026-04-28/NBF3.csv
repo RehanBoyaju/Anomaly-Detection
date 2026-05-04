@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NBF3,32,48,100,9.86,986.0,2026-04-28 14:58:56.633,2026042805016069
 NBF3,32,4,4050,9.86,39933.0,2026-04-28 14:57:45.728,2026042805015803
 NBF3,17,4,750,9.87,7402.499999999999,2026-04-28 14:57:45.728,2026042805015802

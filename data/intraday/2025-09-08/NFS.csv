@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,57221,2025090803000201,NFS,Agrawal Securities (PVT) Ltd.,Pragyan Securities (PVT) Ltd.,100,632.4,63240.0,2025-09-08 11:18:41.725594
 2025-09-08,54455,2025090803000457,NFS,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,100,642.0,64200.0,2025-09-08 11:31:48.161073
 2025-09-08,54330,2025090803000474,NFS,Kohinoor Investment & Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,200,643.0,128600.0,2025-09-08 11:32:20.292382

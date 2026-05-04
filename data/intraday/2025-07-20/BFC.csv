@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176739,2025072003000376,BFC,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,10,529.0,5290.0,2025-07-20T11:02:27.694669
 2025-07-20,176215,2025072003000512,BFC,Deevyaa Securities & Stock House Pvt. Ltd,Sundhara Securities Limited,500,529.0,264500.0,2025-07-20T11:03:11.446535
 2025-07-20,175572,2025072003000630,BFC,Nepal Investment And Securities Trading Private Limited,Oxford Securities Pvt. Ltd.,20,530.0,10600.0,2025-07-20T11:04:02.630888

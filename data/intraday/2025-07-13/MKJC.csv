@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,100202,2025071301002166,MKJC,Asian Securities Private Ltd.,Agrawal Securities (PVT) Ltd.,10,530.2,5302.0,2025-07-13T11:03:33.449862
 2025-07-13,99835,2025071301002304,MKJC,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,202,530.2,107100.4,2025-07-13T11:03:46.418348
 2025-07-13,99834,2025071301002305,MKJC,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,98,530.1,51949.8,2025-07-13T11:03:46.418409

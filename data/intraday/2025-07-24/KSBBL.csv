@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,153492,2025072403000167,KSBBL,Sundhara Securities Limited,Online Securities Pvt. Ltd.,11,535.0,5885.0,2025-07-24 11:02:30.327679
 2025-07-24,153027,2025072403000229,KSBBL,Sundhara Securities Limited,ABC Securities Private Limited,39,538.9,21017.1,2025-07-24 11:03:18.652336
 2025-07-24,152057,2025072403000390,KSBBL,Swarna Laxmi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,50,535.0,26750.0,2025-07-24 11:05:07.656958

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71184,2025070704000027,API,Ashutosh Brokerage & Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,10,291.0,2910.0,2025-07-07 11:00:05.736674
 2025-07-07,70737,2025070704000131,API,Dynamic Money Managers Securities Pvt. Ltd.,Secured Securities Ltd.,200,291.2,58240.0,2025-07-07 11:03:01.111205
 2025-07-07,70736,2025070704000132,API,Aryatara Investment & Securities,Secured Securities Ltd.,10,291.2,2912.0,2025-07-07 11:03:01.111360

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,58832,2025090804000296,LEC,Kumari Securities Private Limited,Aryatara Investment & Securities,200,217.0,43400.0,2025-09-08 11:08:16.336877
 2025-09-08,58712,2025090804000327,LEC,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,700,217.9,152530.0,2025-09-08 11:09:03.943130
 2025-09-08,58686,2025090804000337,LEC,Kumari Securities Private Limited,Aryatara Investment & Securities,100,217.9,21790.0,2025-09-08 11:09:13.631127

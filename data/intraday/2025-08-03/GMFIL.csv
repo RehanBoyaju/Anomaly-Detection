@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,149169,2025080303000445,GMFIL,Trishakti Securities Public Limited,Sundhara Securities Limited,10,531.5,5315.0,2025-08-03T11:05:22.484203
 2025-08-03,149074,2025080303000455,GMFIL,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,521.0,5210.0,2025-08-03T11:05:33.337887
 2025-08-03,148924,2025080303000482,GMFIL,Trishakti Securities Public Limited,Opal Securities Investment (PVT) Ltd.,10,521.0,5210.0,2025-08-03T11:05:51.634972

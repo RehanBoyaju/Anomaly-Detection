@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MPFL,50,26,96,615.0,59040.0,2026-04-28 14:59:50.772,2026042803008445
 MPFL,58,26,20,616.0,12320.0,2026-04-28 14:59:50.772,2026042803008444
 MPFL,65,95,195,618.0,120510.0,2026-04-28 14:58:00.520,2026042803008124

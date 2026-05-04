@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RLFL,49,4,179,433.0,77507.0,2026-04-28 14:59:41.215,2026042803008402
 RLFL,88,4,10,433.0,4330.0,2026-04-28 14:59:38.389,2026042803008398
 RLFL,45,4,400,433.0,173200.0,2026-04-28 14:59:32.585,2026042803008362

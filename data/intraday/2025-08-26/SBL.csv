@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44291,2025082601000141,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Creative Securities Pvt Ltd,10,364.9,3649.0,2025-08-26 11:09:05.891375
 2025-08-26,43420,2025082601000301,SBL,Neev Securities Pvt. Ltd.,Creative Securities Pvt Ltd,47,364.5,17131.5,2025-08-26 11:15:42.344582
 2025-08-26,41819,2025082601000634,SBL,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,20,360.0,7200.0,2025-08-26 11:26:44.480555

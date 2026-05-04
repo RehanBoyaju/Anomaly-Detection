@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141486,2025073005000026,SAHAS,Asian Securities Private Ltd.,Nabil Stock Dealer Ltd.,10,686.7,6867.0,2025-07-30 10:46:00.033186
 2025-07-30,141485,2025073005000027,SAHAS,Asian Securities Private Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,686.7,6867.0,2025-07-30 10:46:00.033228
 2025-07-30,141216,2025073005000054,SAHAS,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,684.0,6840.0,2025-07-30 11:00:59.720217

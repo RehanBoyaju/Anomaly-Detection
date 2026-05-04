@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55875,2025082504000066,HPPL,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,600,489.0,293400.0,2025-08-25 11:05:56.884747
 2025-08-25,55479,2025082504000104,HPPL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,44,489.0,21516.0,2025-08-25 11:08:04.225410
 2025-08-25,55478,2025082504000105,HPPL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,56,490.0,27440.0,2025-08-25 11:08:04.225495

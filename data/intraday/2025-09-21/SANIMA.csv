@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108533,2025092101000111,SANIMA,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,50,342.0,17100.0,2025-09-21 10:46:00.043881
 2025-09-21,108532,2025092101000112,SANIMA,Sajilo Broker Limited,Kumari Securities Private Limited,25,342.0,8550.0,2025-09-21 10:46:00.043921
 2025-09-21,108531,2025092101000113,SANIMA,Sajilo Broker Limited,Kumari Securities Private Limited,25,342.0,8550.0,2025-09-21 10:46:00.043948

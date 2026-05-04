@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57199,2025082403000088,MNBBL,Agrawal Securities (PVT) Ltd.,Arun Securities (PVT) Ltd.,100,445.0,44500.0,2025-08-24 11:06:22.272833
 2025-08-24,57167,2025082403000090,MNBBL,Aryatara Investment & Securities,Arun Securities (PVT) Ltd.,390,445.0,173550.0,2025-08-24 11:06:40.648070
 2025-08-24,56848,2025082403000117,MNBBL,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,110,445.0,48950.0,2025-08-24 11:08:57.009182

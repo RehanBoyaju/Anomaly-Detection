@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,33926,2025092501001075,SBL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,40,356.0,14240.0,2025-09-25 11:29:50.056468
 2025-09-25,33054,2025092501001238,SBL,INDEX SECURITIES LIMITED,Dakshinkali Investment & Securities Pvt. Ltd.,10,358.0,3580.0,2025-09-25 11:35:54.174914
 2025-09-25,31970,2025092501001486,SBL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,356.0,3560.0,2025-09-25 11:44:44.139536

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176630,2025072203000245,ALICL,NIMB Stock Markets Limited,Midas Stock Broking Company Private Limited,50,519.9,25995.0,2025-07-22 11:01:32.665964
 2025-07-22,176519,2025072203000292,ALICL,NIMB Stock Markets Limited,Vision Securities Pvt. Ltd,10,519.9,5199.0,2025-07-22 11:01:47.527954
 2025-07-22,171070,2025072203002729,ALICL,Deevyaa Securities & Stock House Pvt. Ltd,Aryatara Investment & Securities,700,528.9,370230.0,2025-07-22 11:11:12.873408

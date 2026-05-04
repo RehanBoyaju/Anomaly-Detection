@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88587,2025071003000005,MPFL,Agrawal Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,613.5,6135.0,2025-07-10 10:46:00.038191
 2025-07-10,84896,2025071003000533,MPFL,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,100,611.7,61170.0,2025-07-10 11:15:37.101722
 2025-07-10,84895,2025071003000534,MPFL,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,150,611.8,91770.0,2025-07-10 11:15:37.101881

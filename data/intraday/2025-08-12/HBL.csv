@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78088,2025081201000027,HBL,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,100,224.5,22450.0,2025-08-12 11:00:29.861424
 2025-08-12,78029,2025081201000032,HBL,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,150,222.2,33330.0,2025-08-12 11:00:44.955071
 2025-08-12,77935,2025081201000054,HBL,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,800,222.0,177600.0,2025-08-12 11:01:12.209150

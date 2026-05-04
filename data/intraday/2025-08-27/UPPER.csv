@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72500,2025082704000009,UPPER,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,197.1,1971.0,2025-08-27T10:46:00.046602
 2025-08-27,72197,2025082704000043,UPPER,Siprabi Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,194.9,1949.0,2025-08-27T11:03:19.430598
 2025-08-27,71518,2025082704000122,UPPER,Malla & Malla Stock Broking Company Pvt. Limited,Capital Max Securities Ltd,10,194.3,1943.0,2025-08-27T11:08:32.909359

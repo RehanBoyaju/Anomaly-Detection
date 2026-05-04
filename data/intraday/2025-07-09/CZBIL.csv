@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62839,2025070901000001,CZBIL,Primo Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,10,206.3,2063.0,2025-07-09 10:46:00.032480
 2025-07-09,61236,2025070901000306,CZBIL,Trisul Securities & Invt. Ltd.,Siprabi Securities Pvt. Ltd.,10,210.1,2101.0,2025-07-09 11:09:41.095477
 2025-07-09,61148,2025070901000323,CZBIL,Trisul Securities & Invt. Ltd.,Citizens Share Broker Limited,10,214.3,2143.0,2025-07-09 11:10:18.206084

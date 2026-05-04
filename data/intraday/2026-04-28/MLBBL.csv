@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MLBBL,5,36,10,1225.0,12250.0,2026-04-28 14:59:55.279,2026042803008612
 MLBBL,25,36,81,1225.0,99225.0,2026-04-28 14:59:38.155,2026042803008395
 MLBBL,16,1,111,1220.0,135420.0,2026-04-28 14:57:16.186,2026042803008030

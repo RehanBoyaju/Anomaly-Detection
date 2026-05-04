@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,52815,2025082003000111,NLIC,Cristal Kanchanjanga Securites Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,777.0,7770.0,2025-08-20 11:09:04.304797
 2025-08-20,52814,2025082003000112,NLIC,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,50,776.1,38805.0,2025-08-20 11:09:04.304915
 2025-08-20,52813,2025082003000113,NLIC,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,12,776.1,9313.2,2025-08-20 11:09:04.304992

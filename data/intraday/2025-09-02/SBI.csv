@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89386,2025090201000347,SBI,Sri Hari Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,402.1,4021.0,2025-09-02 10:46:00.102219
 2025-09-02,76561,2025090201010806,SBI,Shree Krishna Securities Ltd.,Miyo Securities Pvt Ltd,227,398.0,90346.0,2025-09-02 11:23:38.766281
 2025-09-02,76560,2025090201010807,SBI,Shree Krishna Securities Ltd.,Neev Securities Pvt. Ltd.,173,399.7,69148.1,2025-09-02 11:23:38.766374

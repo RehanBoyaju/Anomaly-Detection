@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53824,2025082004000016,SSHL,Primo Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,199.2,1992.0,2025-08-20 10:46:00.060830
 2025-08-20,53636,2025082004000073,SSHL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,195,197.0,38415.0,2025-08-20 11:02:22.772217
 2025-08-20,52886,2025082004000276,SSHL,Sri Hari Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,1000,196.0,196000.0,2025-08-20 11:08:27.046228

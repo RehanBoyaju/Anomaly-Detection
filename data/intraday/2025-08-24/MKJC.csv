@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,58019,2025082405000082,MKJC,Indira securities pvt. ltd,Secured Securities Ltd.,1000,584.8,584800.0,2025-08-24 10:46:00.034705
 2025-08-24,58018,2025082405000083,MKJC,Indira securities pvt. ltd,Linch Stock Market Ltd.,1000,584.8,584800.0,2025-08-24 10:46:00.034749
 2025-08-24,58017,2025082405000084,MKJC,Indira securities pvt. ltd,Linch Stock Market Ltd.,1000,584.8,584800.0,2025-08-24 10:46:00.034778

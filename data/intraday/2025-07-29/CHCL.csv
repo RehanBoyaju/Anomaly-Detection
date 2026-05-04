@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157025,2025072904000081,CHCL,Cristal Kanchanjanga Securites Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,565.9,5659.0,2025-07-29 11:01:37.065165
 2025-07-29,156118,2025072904000220,CHCL,Vision Securities Pvt. Ltd,Sundhara Securities Limited,50,564.9,28245.0,2025-07-29 11:03:25.787762
 2025-07-29,155967,2025072904000247,CHCL,Midas Stock Broking Company Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,500,560.0,280000.0,2025-07-29 11:03:43.021564

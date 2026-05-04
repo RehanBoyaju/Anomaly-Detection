@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69389,2025070703000648,SADBL,Blue Chip Securities Ltd,Miyo Securities Pvt Ltd,10,412.0,4120.0,2025-07-07 11:09:01.765476
 2025-07-07,67387,2025070703001216,SADBL,Deevyaa Securities & Stock House Pvt. Ltd,Online Securities Pvt. Ltd.,90,409.9,36891.0,2025-07-07 11:17:08.655685
 2025-07-07,66732,2025070703001361,SADBL,Miyo Securities Pvt Ltd,Sri Hari Securities Pvt. Ltd.,500,408.9,204450.0,2025-07-07 11:19:24.631356

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73016,2025071504000341,SSHL,Vision Securities Pvt. Ltd,Arun Securities (PVT) Ltd.,25,250.0,6250.0,2025-07-15 11:06:39.981694
 2025-07-15,72842,2025071504000392,SSHL,Creative Securities Pvt Ltd,Nepal Stock House (PVT) Ltd.,250,249.0,62250.0,2025-07-15 11:07:45.291099
 2025-07-15,72810,2025071504000410,SSHL,Kumari Securities Private Limited,Arun Securities (PVT) Ltd.,75,250.0,18750.0,2025-07-15 11:07:50.967936

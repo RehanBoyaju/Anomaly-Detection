@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75592,2025081401000245,SANIMA,Vision Securities Pvt. Ltd,K.B.L. Securities Limited ,25,368.1,9202.5,2025-08-14 11:05:44.955059
 2025-08-14,75591,2025081401000246,SANIMA,Imperial Securities Company Pvt. Ltd.,K.B.L. Securities Limited ,175,368.0,64400.0,2025-08-14 11:05:44.955142
 2025-08-14,74701,2025081401000436,SANIMA,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,1000,368.0,368000.0,2025-08-14 11:09:24.486623

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,86396,2025090203000044,KSBBL,Linch Stock Market Ltd.,Creative Securities Pvt Ltd,10,544.5,5445.0,2025-09-02 11:04:31.292952
 2025-09-02,85850,2025090203000057,KSBBL,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,200,543.0,108600.0,2025-09-02 11:05:26.965070
 2025-09-02,85849,2025090203000058,KSBBL,Imperial Securities Company Pvt. Ltd.,Capital Hub P. Ltd,100,544.0,54400.0,2025-09-02 11:05:26.965130

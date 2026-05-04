@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,66704,2025082705003060,NYADI,Imperial Securities Company Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,10,419.0,4190.0,2025-08-27T11:31:53.630711
 2025-08-27,66144,2025082705003326,NYADI,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,15,418.9,6283.5,2025-08-27T11:33:53.82584
 2025-08-27,65914,2025082705003411,NYADI,Vision Securities Pvt. Ltd,South Asian Bulls Pvt. Ltd.,500,427.0,213500.0,2025-08-27T11:34:32.377044

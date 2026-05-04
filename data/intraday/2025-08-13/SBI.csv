@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,66635,2025081301001180,SBI,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,4,402.0,1608.0,2025-08-13 11:17:54.308924
 2025-08-13,64689,2025081301001716,SBI,Kohinoor Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,200,410.0,82000.0,2025-08-13 11:25:15.222412
 2025-08-13,64688,2025081301001717,SBI,Sri Hari Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,1000,410.0,410000.0,2025-08-13 11:25:15.222554

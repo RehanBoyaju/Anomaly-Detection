@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,87430,2025090204000037,AKJCL,Siprabi Securities Pvt. Ltd.,Creative Securities Pvt Ltd,10,204.9,2049.0,2025-09-02 11:02:49.926682
 2025-09-02,78648,2025090204000344,AKJCL,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,35,202.1,7073.5,2025-09-02 11:18:50.233237
 2025-09-02,77893,2025090204000396,AKJCL,J.F. Securites (PVT) Ltd.,Kalika Securities Pvt. Ltd.,40,204.0,8160.0,2025-09-02 11:20:24.084964

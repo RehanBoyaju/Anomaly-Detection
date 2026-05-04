@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72498,2025082704000010,UPCL,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,395.9,3959.0,2025-08-27T10:46:00.049507
 2025-08-27,72451,2025082704000021,UPCL,Hatemalo Financial Services Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,392.0,39200.0,2025-08-27T11:00:25.9108
 2025-08-27,71428,2025082704000140,UPCL,Kohinoor Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,50,390.1,19505.0,2025-08-27T11:09:03.120131

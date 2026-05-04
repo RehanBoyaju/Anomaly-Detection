@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88586,2025071004000013,SPDL,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,10,416.1,4161.0,2025-07-10 10:46:00.041443
 2025-07-10,87851,2025071004000256,SPDL,Midas Stock Broking Company Private Limited,Sharepro Securities Private Limited,120,415.0,49800.0,2025-07-10 11:04:12.651327
 2025-07-10,86959,2025071004000537,SPDL,Sundhara Securities Limited,Siprabi Securities Pvt. Ltd.,100,413.0,41300.0,2025-07-10 11:08:20.480957

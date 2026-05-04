@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154577,2025072401000001,NICA,KALASH STOCK MARKET PVT. LTD.,Sani Securities Company Ltd.,10,418.8,4188.0,2025-07-24 10:46:00.064021
 2025-07-24,154288,2025072401000079,NICA,South Asian Bulls Pvt. Ltd.,K.B.L. Securities Limited ,400,416.0,166400.0,2025-07-24 11:00:48.634270
 2025-07-24,153896,2025072401000163,NICA,Sumeru Securities Pvt. Ltd.,ABC Securities Private Limited,10,407.7,4077.0,2025-07-24 11:01:44.342518

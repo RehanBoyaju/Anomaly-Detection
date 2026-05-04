@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68522,2025090301000034,NBL,Sweta Securities Private Limited,Asian Securities Private Ltd.,10,245.7,2457.0,2025-09-03 10:46:00.064271
 2025-09-03,68358,2025090301000112,NBL,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,10,250.0,2500.0,2025-09-03 11:01:26.947949
 2025-09-03,68132,2025090301000289,NBL,Linch Stock Market Ltd.,Nepal Stock House (PVT) Ltd.,10,250.1,2501.0,2025-09-03 11:02:28.588994

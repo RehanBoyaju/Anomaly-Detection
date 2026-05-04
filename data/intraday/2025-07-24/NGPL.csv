@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154602,2025072404000016,NGPL,Sagarmatha Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,10,428.1,4281.0,2025-07-24 10:46:00.038198
 2025-07-24,154494,2025072404000069,NGPL,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,218,422.0,91996.0,2025-07-24 11:00:08.596144
 2025-07-24,154389,2025072404000138,NGPL,Asian Securities Private Ltd.,Arun Securities (PVT) Ltd.,441,424.0,186984.0,2025-07-24 11:00:36.207356

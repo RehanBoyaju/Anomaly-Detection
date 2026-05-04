@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167722,2025073104000185,RHPL,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,25,333.0,8325.0,2025-07-31 11:02:18.850142
 2025-07-31,167721,2025073104000186,RHPL,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,45,333.0,14985.0,2025-07-31 11:02:18.850257
 2025-07-31,166132,2025073104000435,RHPL,Sani Securities Company Ltd.,Capital Max Securities Ltd,45,333.2,14994.0,2025-07-31 11:05:21.593564

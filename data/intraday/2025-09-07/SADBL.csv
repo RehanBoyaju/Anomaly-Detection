@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,56781,2025090703000105,SADBL,Midas Stock Broking Company Private Limited,Agrawal Securities (PVT) Ltd.,330,425.0,140250.0,2025-09-07 11:09:05.770774
 2025-09-07,56780,2025090703000106,SADBL,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,670,425.0,284750.0,2025-09-07 11:09:05.770901
 2025-09-07,56590,2025090703000114,SADBL,Midas Stock Broking Company Private Limited,Secured Securities Ltd.,433,421.0,182293.0,2025-09-07 11:10:20.230444

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151782,2025080304000059,PMHPL,Aryatara Investment & Securities,Sagarmatha Securities Private Limited,10,400.0,4000.0,2025-08-03T11:01:26.479165
 2025-08-03,149391,2025080304000306,PMHPL,Aryatara Investment & Securities,Malla & Malla Stock Broking Company Pvt. Limited,50,400.0,20000.0,2025-08-03T11:04:58.455184
 2025-08-03,147208,2025080304000574,PMHPL,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,300,402.0,120600.0,2025-08-03T11:08:28.773807

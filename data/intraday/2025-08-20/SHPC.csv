@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53192,2025082004000183,SHPC,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,200,565.0,113000.0,2025-08-20 11:06:03.081408
 2025-08-20,53056,2025082004000221,SHPC,Sumeru Securities Pvt. Ltd.,Linch Stock Market Ltd.,6,554.0,3324.0,2025-08-20 11:07:14.008704
 2025-08-20,52764,2025082004000315,SHPC,Online Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,63,562.1,35412.3,2025-08-20 11:09:21.863782

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59491,2025090804000091,UPCL,Pragyan Securities (PVT) Ltd.,Secured Securities Ltd.,100,400.7,40070.0,2025-09-08 11:01:43.617163
 2025-09-08,59481,2025090804000093,UPCL,Opal Securities Investment (PVT) Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,37,400.8,14829.6,2025-09-08 11:01:54.356233
 2025-09-08,59480,2025090804000094,UPCL,Pragyan Securities (PVT) Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,400,400.7,160280.0,2025-09-08 11:01:54.356324

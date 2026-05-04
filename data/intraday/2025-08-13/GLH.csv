@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,68583,2025081304000274,GLH,Aryatara Investment & Securities,ABC Securities Private Limited,103,269.8,27789.4,2025-08-13 11:08:43.556623
 2025-08-13,68582,2025081304000275,GLH,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,713,269.9,192438.7,2025-08-13 11:08:43.556692
 2025-08-13,68581,2025081304000276,GLH,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,184,270.0,49680.0,2025-08-13 11:08:43.556730

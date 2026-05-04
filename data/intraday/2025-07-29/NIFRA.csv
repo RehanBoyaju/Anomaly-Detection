@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157348,2025072905000058,NIFRA,Capital Max Securities Ltd,Siprabi Securities Pvt. Ltd.,10,315.0,3150.0,2025-07-29 11:00:39.685869
 2025-07-29,157203,2025072905000101,NIFRA,Nepal Investment And Securities Trading Private Limited,Siprabi Securities Pvt. Ltd.,50,315.0,15750.0,2025-07-29 11:01:03.841149
 2025-07-29,156743,2025072905000262,NIFRA,Nepal Investment And Securities Trading Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,316.5,94950.0,2025-07-29 11:02:10.629511

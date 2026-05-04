@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,169454,2025072803000239,LICN,Pragyan Securities (PVT) Ltd.,Sagarmatha Securities Private Limited,100,949.0,94900.0,2025-07-28T11:03:45.079666
 2025-07-28,167809,2025072803000589,LICN,Pragyan Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,76,949.0,72124.0,2025-07-28T11:06:59.507117
 2025-07-28,165694,2025072803001026,LICN,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,424,949.0,402376.0,2025-07-28T11:10:17.922678

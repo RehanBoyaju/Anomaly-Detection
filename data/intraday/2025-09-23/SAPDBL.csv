@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67319,2025092303000014,SAPDBL,Sweta Securities Private Limited,Sri Hari Securities Pvt. Ltd.,10,784.6,7846.0,2025-09-23 10:46:00.066716
 2025-09-23,67318,2025092303000015,SAPDBL,Sweta Securities Private Limited,Aryatara Investment & Securities,10,784.6,7846.0,2025-09-23 10:46:00.066749
 2025-09-23,67317,2025092303000016,SAPDBL,Sweta Securities Private Limited,Nepal Investment And Securities Trading Private Limited,10,784.6,7846.0,2025-09-23 10:46:00.066772

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,149877,2025080304000238,LEC,KALASH STOCK MARKET PVT. LTD.,Dynamic Money Managers Securities Pvt. Ltd.,80,228.0,18240.0,2025-08-03T11:04:19.225182
 2025-08-03,148777,2025080304000368,LEC,Infinity Securities Limited,Magnet Securities and Investment Company Private Limited,20,228.0,4560.0,2025-08-03T11:06:08.148383
 2025-08-03,146583,2025080304000646,LEC,Kalika Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,70,227.0,15890.0,2025-08-03T11:09:24.065759

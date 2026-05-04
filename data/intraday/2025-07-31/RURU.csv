@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,159854,2025073104001601,RURU,Imperial Securities Company Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,100,770.0,77000.0,2025-07-31 11:14:19.557009
 2025-07-31,158871,2025073104001757,RURU,Capital Max Securities Ltd,Opal Securities Investment (PVT) Ltd.,10,770.0,7700.0,2025-07-31 11:15:31.143389
 2025-07-31,158735,2025073104001773,RURU,Capital Max Securities Ltd,Sani Securities Company Ltd.,10,777.0,7770.0,2025-07-31 11:15:42.214499

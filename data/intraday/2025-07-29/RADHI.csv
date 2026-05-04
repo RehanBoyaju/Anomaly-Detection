@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157482,2025072904000010,RADHI,Sharepro Securities Private Limited,South Asian Bulls Pvt. Ltd.,10,860.0,8600.0,2025-07-29 10:46:00.042275
 2025-07-29,157481,2025072904000011,RADHI,Sundhara Securities Limited,South Asian Bulls Pvt. Ltd.,10,860.0,8600.0,2025-07-29 10:46:00.042308
 2025-07-29,157077,2025072904000075,RADHI,Prabhu Stock Market Limited,South Asian Bulls Pvt. Ltd.,500,854.0,427000.0,2025-07-29 11:01:26.056658

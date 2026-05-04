@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170544,2025072804000052,GLH,Sani Securities Company Ltd.,Sani Securities Company Ltd.,10,295.0,2950.0,2025-07-28T11:00:42.277448
 2025-07-28,169961,2025072804000273,GLH,Cristal Kanchanjanga Securites Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,10,291.1,2911.0,2025-07-28T11:02:33.472706
 2025-07-28,169787,2025072804000335,GLH,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,95,291.1,27654.5,2025-07-28T11:03:00.905241

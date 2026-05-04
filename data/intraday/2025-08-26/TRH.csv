@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,42225,2025082604000582,TRH,Nepal Investment And Securities Trading Private Limited,Premier Securities Company Ltd.,41,962.0,39442.0,2025-08-26 11:23:32.353288
 2025-08-26,41851,2025082604000665,TRH,Nepal Investment And Securities Trading Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,19,962.0,18278.0,2025-08-26 11:26:30.402748
 2025-08-26,41850,2025082604000666,TRH,Nepal Stock House (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,200,961.2,192240.0,2025-08-26 11:26:30.402840

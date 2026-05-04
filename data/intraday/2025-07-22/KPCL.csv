@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177064,2025072204000019,KPCL,Oxford Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,11,584.0,6424.0,2025-07-22 10:46:00.050090
 2025-07-22,177063,2025072204000020,KPCL,Oxford Securities Pvt. Ltd.,Sipla Securities Private Limited,200,584.0,116800.0,2025-07-22 10:46:00.050142
 2025-07-22,177062,2025072204000021,KPCL,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,584.0,5840.0,2025-07-22 10:46:00.050168

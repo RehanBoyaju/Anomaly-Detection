@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,142118,2025080403000371,LICN,Sagarmatha Securities Private Limited,Naasa Securities Co. Ltd.,10,924.0,9240.0,2025-08-04 11:06:41.705340
 2025-08-04,137981,2025080403000689,LICN,Opal Securities Investment (PVT) Ltd.,Asian Securities Private Ltd.,100,923.9,92390.0,2025-08-04 11:10:12.868712
 2025-08-04,137432,2025080403000750,LICN,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,20,924.0,18480.0,2025-08-04 11:10:41.571457

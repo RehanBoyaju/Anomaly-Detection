@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68754,2025090103000003,NLIC,Sri Hari Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,792.9,7929.0,2025-09-01 10:46:00.025578
 2025-09-01,68154,2025090103000040,NLIC,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,100,775.0,77500.0,2025-09-01 11:02:37.813882
 2025-09-01,68125,2025090103000044,NLIC,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,12,777.1,9325.2,2025-09-01 11:02:40.466755

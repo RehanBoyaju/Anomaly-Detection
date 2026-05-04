@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,42312,2025082003001461,MPFL,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,70,605.0,42350.0,2025-08-20 12:06:49.875217
 2025-08-20,39010,2025082003001845,MPFL,Sani Securities Company Ltd.,Capital Max Securities Ltd,40,605.4,24216.0,2025-08-20 12:25:00.398054
 2025-08-20,38663,2025082003001912,MPFL,Aryatara Investment & Securities,Capital Max Securities Ltd,55,605.0,33275.0,2025-08-20 12:27:12.630412

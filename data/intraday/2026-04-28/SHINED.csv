@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SHINED,42,64,100,1143.4,114340.0,2026-04-28 14:27:45.326,2026042801091197
 SHINED,42,10,200,1141.0,228200.0,2026-04-28 14:27:45.326,2026042801091196
 SHINED,42,58,50,1140.5,57025.0,2026-04-28 14:27:45.326,2026042801091195

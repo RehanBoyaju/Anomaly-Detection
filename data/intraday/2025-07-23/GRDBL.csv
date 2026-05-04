@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169135,2025072303000154,GRDBL,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,10,1276.0,12760.0,2025-07-23 11:01:54.017828
 2025-07-23,167697,2025072303000394,GRDBL,Thrive Brokerage House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,10,1300.0,13000.0,2025-07-23 11:03:51.453528
 2025-07-23,167579,2025072303000421,GRDBL,Neev Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,43,1300.0,55900.0,2025-07-23 11:04:01.670059

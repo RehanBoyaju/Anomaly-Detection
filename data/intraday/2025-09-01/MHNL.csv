@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68582,2025090104000027,MHNL,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,253.1,2531.0,2025-09-01 11:00:51.722036
 2025-09-01,67924,2025090104000067,MHNL,Premier Securities Company Ltd.,Sani Securities Company Ltd.,100,260.0,26000.0,2025-09-01 11:03:05.684603
 2025-09-01,67923,2025090104000068,MHNL,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,262.3,2623.0,2025-09-01 11:03:05.684718

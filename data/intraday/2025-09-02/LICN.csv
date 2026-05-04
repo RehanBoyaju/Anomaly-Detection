@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,87409,2025090203000029,LICN,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,100,856.0,85600.0,2025-09-02 11:02:53.422005
 2025-09-02,83679,2025090203000117,LICN,Naasa Securities Co. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,20,857.0,17140.0,2025-09-02 11:09:18.291953
 2025-09-02,83424,2025090203000121,LICN,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,858.0,8580.0,2025-09-02 11:09:30.661714

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,152537,2025072403000301,JBBL,Premier Securities Company Ltd.,Capital Max Securities Ltd,10,382.0,3820.0,2025-07-24 11:04:18.962982
 2025-07-24,152253,2025072403000360,JBBL,Trisul Securities & Invt. Ltd.,Magnet Securities and Investment Company Private Limited,300,383.0,114900.0,2025-07-24 11:04:49.397047
 2025-07-24,151066,2025072403000574,JBBL,Trisul Securities & Invt. Ltd.,Sweta Securities Private Limited,500,384.0,192000.0,2025-07-24 11:06:51.293692

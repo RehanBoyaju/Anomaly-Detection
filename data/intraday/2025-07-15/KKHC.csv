@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74034,2025071504000004,KKHC,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,20,300.0,6000.0,2025-07-15 10:46:00.036304
 2025-07-15,74033,2025071504000005,KKHC,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,5,300.0,1500.0,2025-07-15 10:46:00.036345
 2025-07-15,73965,2025071504000039,KKHC,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,100,304.9,30490.0,2025-07-15 11:00:36.681437

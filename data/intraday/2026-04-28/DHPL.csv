@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 DHPL,49,50,19,301.0,5719.0,2026-04-28 14:59:41.171,2026042804014865
 DHPL,45,34,200,300.0,60000.0,2026-04-28 14:54:34.225,2026042804013398
 DHPL,42,34,165,300.0,49500.0,2026-04-28 14:54:34.225,2026042804013397

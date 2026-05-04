@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67328,2025092304000014,LEC,Trisul Securities & Invt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,212.5,2125.0,2025-09-23 10:46:00.042548
 2025-09-23,67272,2025092304000024,LEC,Nepal Investment And Securities Trading Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,211.0,6330.0,2025-09-23 11:00:31.081995
 2025-09-23,67266,2025092304000026,LEC,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,80,211.0,16880.0,2025-09-23 11:00:33.457930

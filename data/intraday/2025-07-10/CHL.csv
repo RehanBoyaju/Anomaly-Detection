@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88582,2025071004000017,CHL,Secured Securities Ltd.,Online Securities Pvt. Ltd.,10,336.7,3367.0,2025-07-10 10:46:00.044476
 2025-07-10,88510,2025071004000026,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,1000,336.7,336700.0,2025-07-10 11:00:26.210773
 2025-07-10,88244,2025071004000115,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,700,336.7,235690.0,2025-07-10 11:02:13.938161

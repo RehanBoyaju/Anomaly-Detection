@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,70764,2025082705000954,NRN,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,50,2129.0,106450.0,2025-08-27T11:12:46.944823
 2025-08-27,70553,2025082705001039,NRN,Market Securities & Exchange (PVT) Ltd.,Capital Max Securities Ltd,100,2129.0,212900.0,2025-08-27T11:14:02.776377
 2025-08-27,70076,2025082705001306,NRN,Sweta Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,100,2149.0,214900.0,2025-08-27T11:16:55.992796

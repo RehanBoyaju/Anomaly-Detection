@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NICL,47,32,270,481.0,129870.0,2026-04-28 14:59:38.448,2026042804014842
 NICL,34,32,50,481.0,24050.0,2026-04-28 14:59:38.448,2026042804014841
 NICL,21,38,20,481.0,9620.0,2026-04-28 14:59:03.385,2026042804014523

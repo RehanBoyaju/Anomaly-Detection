@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78005,2025082804000113,MEN,Sundhara Securities Limited,Indira securities pvt. ltd,10,634.0,6340.0,2025-08-28 11:02:19.952358
 2025-08-28,77935,2025082804000137,MEN,Sani Securities Company Ltd.,Indira securities pvt. ltd,10,630.1,6301.0,2025-08-28 11:02:39.984322
 2025-08-28,77345,2025082804000354,MEN,Opal Securities Investment (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,10,642.0,6420.0,2025-08-28 11:04:49.185438

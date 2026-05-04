@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,84245,2025070604000889,NHDL,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,12,670.0,8040.0,2025-07-06 11:10:56.151887
 2025-07-06,80499,2025070604001966,NHDL,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,50,670.1,33505.0,2025-07-06 11:20:04.485519
 2025-07-06,78502,2025070604002533,NHDL,Opal Securities Investment (PVT) Ltd.,Secured Securities Ltd.,20,683.3,13666.0,2025-07-06 11:25:44.865178

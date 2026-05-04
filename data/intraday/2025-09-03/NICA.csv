@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,63006,2025090301003439,NICA,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,10,346.5,3465.0,2025-09-03 11:22:18.254567
 2025-09-03,63005,2025090301003440,NICA,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,60,346.0,20760.0,2025-09-03 11:22:18.254676
 2025-09-03,63004,2025090301003441,NICA,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,100,346.0,34600.0,2025-09-03 11:22:18.254723

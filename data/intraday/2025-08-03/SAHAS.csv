@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151595,2025080305000092,SAHAS,Kumari Securities Private Limited,Arun Securities (PVT) Ltd.,20,667.0,13340.0,2025-08-03T11:01:46.969151
 2025-08-03,151318,2025080305000127,SAHAS,Opal Securities Investment (PVT) Ltd.,Arun Securities (PVT) Ltd.,20,668.1,13362.0,2025-08-03T11:02:13.898536
 2025-08-03,150436,2025080305000218,SAHAS,Siprabi Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,30,670.0,20100.0,2025-08-03T11:03:30.975247

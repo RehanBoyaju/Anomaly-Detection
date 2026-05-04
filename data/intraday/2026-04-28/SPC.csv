@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SPC,67,57,11,470.0,5170.0,2026-04-28 14:59:50.672,2026042805016412
 SPC,35,45,140,469.9,65786.0,2026-04-28 14:59:29.924,2026042805016243
 SPC,35,43,40,469.8,18792.0,2026-04-28 14:59:29.924,2026042805016242

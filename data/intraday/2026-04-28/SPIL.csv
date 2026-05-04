@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SPIL,44,57,10,720.0,7200.0,2026-04-28 14:59:55.960,2026042804014989
 SPIL,19,48,10,710.0,7100.0,2026-04-28 14:52:24.583,2026042804012921
 SPIL,65,35,11,709.0,7799.0,2026-04-28 14:48:37.166,2026042804012335

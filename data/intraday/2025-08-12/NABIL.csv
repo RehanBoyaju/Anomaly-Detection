@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78226,2025081201000001,NABIL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,50,530.0,26500.0,2025-08-12 10:46:00.005890
 2025-08-12,78225,2025081201000002,NABIL,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,100,530.0,53000.0,2025-08-12 10:46:00.006051
 2025-08-12,77991,2025081201000051,NABIL,Siprabi Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,10,534.5,5345.0,2025-08-12 11:00:55.778905

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85927,2025081703000081,GRDBL,Nagarik Stock Dealer ,Hatemalo Financial Services Private Limited,10,1193.0,11930.0,2025-08-17 11:02:16.824984
 2025-08-17,85862,2025081703000094,GRDBL,Nagarik Stock Dealer ,Vision Securities Pvt. Ltd,150,1193.0,178950.0,2025-08-17 11:02:32.273860
 2025-08-17,84984,2025081703000187,GRDBL,Roadshow securities limited,Siprabi Securities Pvt. Ltd.,20,1198.0,23960.0,2025-08-17 11:05:18.178857

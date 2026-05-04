@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SHLB,10,38,10,1476.1,14761.0,2026-04-28 14:54:40.147,2026042804013426
 SHLB,74,34,10,1500.0,15000.0,2026-04-28 14:29:12.894,2026042804010392
 SHLB,38,58,10,1476.2,14762.0,2026-04-28 14:14:04.813,2026042804009200

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,81232,2025081704000967,CHL,KALASH STOCK MARKET PVT. LTD.,Online Securities Pvt. Ltd.,300,303.1,90930.0,2025-08-17 11:16:01.048231
 2025-08-17,80914,2025081704001032,CHL,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,1,300.0,300.0,2025-08-17 11:16:54.187224
 2025-08-17,80852,2025081704001048,CHL,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,1,300.0,300.0,2025-08-17 11:17:05.250721

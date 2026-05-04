@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73796,2025071504000095,PMHPL,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,16,385.7,6171.2,2025-07-15 11:02:07.085243
 2025-07-15,73784,2025071504000099,PMHPL,Trishakti Securities Public Limited,Hatemalo Financial Services Private Limited,10,390.2,3902.0,2025-07-15 11:02:14.130517
 2025-07-15,73749,2025071504000114,PMHPL,Trishakti Securities Public Limited,Kumari Securities Private Limited,10,396.0,3960.0,2025-07-15 11:02:35.237490

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69972,2025081303000026,SAPDBL,Trishakti Securities Public Limited,Hatemalo Financial Services Private Limited,10,825.0,8250.0,2025-08-13 11:00:26.232510
 2025-08-13,69660,2025081303000041,SAPDBL,NIMB Stock Markets Limited,Midas Stock Broking Company Private Limited,40,828.0,33120.0,2025-08-13 11:02:02.356294
 2025-08-13,69659,2025081303000042,SAPDBL,Trishakti Securities Public Limited,Midas Stock Broking Company Private Limited,50,827.0,41350.0,2025-08-13 11:02:02.356380

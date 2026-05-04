@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89364,2025090201000365,NBL,Sri Hari Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,10,256.6,2566.0,2025-09-02 10:46:00.164232
 2025-09-02,88781,2025090201000907,NBL,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,500,255.0,127500.0,2025-09-02 11:01:03.031982
 2025-09-02,88577,2025090201001094,NBL,Linch Stock Market Ltd.,Midas Stock Broking Company Private Limited,100,255.0,25500.0,2025-09-02 11:01:21.458923

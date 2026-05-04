@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HATHY,3,42,226,835.0,188710.0,2026-04-28 14:59:58.409,2026042805016524
 HATHY,45,42,10,835.0,8350.0,2026-04-28 14:59:58.409,2026042805016523
 HATHY,58,42,18,835.0,15030.0,2026-04-28 14:59:58.409,2026042805016522

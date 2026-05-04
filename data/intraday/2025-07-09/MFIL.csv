@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62248,2025070903000070,MFIL,Kumari Securities Private Limited,Trishakti Securities Public Limited,10,600.0,6000.0,2025-07-09 11:04:17.359844
 2025-07-09,61373,2025070903000162,MFIL,Kumari Securities Private Limited,Sewa Securities Pvt. Ltd.,20,612.0,12240.0,2025-07-09 11:09:02.586085
 2025-07-09,57506,2025070903000611,MFIL,Kumari Securities Private Limited,Kumari Securities Private Limited,30,610.0,18300.0,2025-07-09 11:29:13.985879

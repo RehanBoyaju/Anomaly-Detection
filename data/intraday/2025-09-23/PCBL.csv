@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,66821,2025092301000064,PCBL,ABC Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,249.0,12450.0,2025-09-23 11:02:31.008213
 2025-09-23,64867,2025092301000441,PCBL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,500,248.0,124000.0,2025-09-23 11:08:26.698822
 2025-09-23,64747,2025092301000473,PCBL,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,100,248.0,24800.0,2025-09-23 11:08:48.414095

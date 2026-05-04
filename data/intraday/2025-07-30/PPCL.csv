@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140951,2025073004000090,PPCL,Sharepro Securities Private Limited,Agrawal Securities (PVT) Ltd.,10,383.8,3838.0,2025-07-30 11:01:54.189415
 2025-07-30,137978,2025073004000685,PPCL,Oxford Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,20,376.2,7524.0,2025-07-30 11:08:21.972686
 2025-07-30,137977,2025073004000686,PPCL,Midas Stock Broking Company Private Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,80,376.2,30096.0,2025-07-30 11:08:21.972842

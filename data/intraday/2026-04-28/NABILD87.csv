@@ -1,2 +1,2 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NABILD87,49,21,20,1200.0,24000.0,2026-04-28 11:22:09.410,2026042801016513

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,91513,2025080604000212,SJCL,Sewa Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,40,315.0,12600.0,2025-08-06 11:05:17.735799
 2025-08-06,90576,2025080604000389,SJCL,Sewa Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,315.0,3150.0,2025-08-06 11:07:39.223001
 2025-08-06,90575,2025080604000390,SJCL,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,313.1,6262.0,2025-08-06 11:07:39.223045

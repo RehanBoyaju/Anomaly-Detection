@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NFS,49,49,100,594.0,59400.0,2026-04-28 14:59:14.780,2026042803008281
 NFS,62,58,50,591.0,29550.0,2026-04-28 14:58:51.040,2026042803008218
 NFS,62,33,44,591.0,26004.0,2026-04-28 14:58:37.353,2026042803008190

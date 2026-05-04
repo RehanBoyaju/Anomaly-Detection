@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77883,2025081204000043,KPCL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,10,575.1,5751.0,2025-08-12 11:01:25.385847
 2025-08-12,76940,2025081204000189,KPCL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,10,585.0,5850.0,2025-08-12 11:05:10.180793
 2025-08-12,76902,2025081204000201,KPCL,Deevyaa Securities & Stock House Pvt. Ltd,Online Securities Pvt. Ltd.,19,585.0,11115.0,2025-08-12 11:05:15.394000

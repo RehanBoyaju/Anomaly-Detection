@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97687,2025081104000133,KKHC,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,94,280.0,26320.0,2025-08-11 11:02:52.597819
 2025-08-11,96593,2025081104000340,KKHC,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,30,284.0,8520.0,2025-08-11 11:05:47.118875
 2025-08-11,96549,2025081104000355,KKHC,Sri Hari Securities Pvt. Ltd.,Sundhara Securities Limited,25,280.0,7000.0,2025-08-11 11:05:52.879174

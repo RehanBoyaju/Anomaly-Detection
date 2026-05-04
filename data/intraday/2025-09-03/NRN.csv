@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68160,2025090305000080,NRN,Property Wiard Limited,Nabil Stock Dealer Ltd.,400,2100.0,840000.0,2025-09-03 11:02:20.110386
 2025-09-03,66434,2025090305000326,NRN,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,50,2096.0,104800.0,2025-09-03 11:10:16.859943
 2025-09-03,66433,2025090305000327,NRN,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,42,2096.0,88032.0,2025-09-03 11:10:16.860029

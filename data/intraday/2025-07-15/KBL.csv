@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73975,2025071501000026,KBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,14,215.9,3022.6,2025-07-15 11:00:26.432399
 2025-07-15,73818,2025071501000091,KBL,Sagarmatha Securities Private Limited,Naasa Securities Co. Ltd.,40,214.0,8560.0,2025-07-15 11:01:49.776430
 2025-07-15,73806,2025071501000094,KBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,15,215.9,3238.5,2025-07-15 11:02:00.134185

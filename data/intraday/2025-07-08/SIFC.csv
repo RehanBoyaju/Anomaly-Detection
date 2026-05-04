@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55526,2025070803000108,SIFC,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,20,530.0,10600.0,2025-07-08 11:04:55.112481
 2025-07-08,53658,2025070803000396,SIFC,Kohinoor Investment & Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,50,521.0,26050.0,2025-07-08 11:15:06.105924
 2025-07-08,53474,2025070803000417,SIFC,Online Securities Pvt. Ltd.,Sundhara Securities Limited,500,529.0,264500.0,2025-07-08 11:16:05.951685

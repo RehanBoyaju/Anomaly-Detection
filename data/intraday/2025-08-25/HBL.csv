@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55871,2025082501000217,HBL,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,212.0,2120.0,2025-08-25 11:06:00.238990
 2025-08-25,55298,2025082501000301,HBL,N.I.M.B. Stock Markets Limited,Vision Securities Pvt. Ltd,10,212.0,2120.0,2025-08-25 11:08:46.532724
 2025-08-25,55297,2025082501000302,HBL,N.I.M.B. Stock Markets Limited,Imperial Securities Company Pvt. Ltd.,34,212.3,7218.2,2025-08-25 11:08:46.532811

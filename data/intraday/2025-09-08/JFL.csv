@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,56459,2025090803000272,JFL,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,50,442.0,22100.0,2025-09-08 11:22:24.922564
 2025-09-08,56458,2025090803000273,JFL,Aryatara Investment & Securities,Asian Securities Private Ltd.,150,441.0,66150.0,2025-09-08 11:22:24.922705
 2025-09-08,50037,2025090803000933,JFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,50,443.5,22175.0,2025-09-08 11:54:35.038432

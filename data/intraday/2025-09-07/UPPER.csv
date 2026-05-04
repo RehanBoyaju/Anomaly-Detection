@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57574,2025090704000168,UPPER,Sri Hari Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,50,188.0,9400.0,2025-09-07 11:04:18.330842
 2025-09-07,57573,2025090704000169,UPPER,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,18,188.0,3384.0,2025-09-07 11:04:18.330979
 2025-09-07,57408,2025090704000207,UPPER,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,194,188.0,36472.0,2025-09-07 11:05:19.604606

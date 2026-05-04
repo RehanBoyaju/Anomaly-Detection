@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70802,2025070701000097,ADBL,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,200,297.0,59400.0,2025-07-07 11:02:39.520105
 2025-07-07,70801,2025070701000098,ADBL,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,200,297.0,59400.0,2025-07-07 11:02:39.520222
 2025-07-07,70800,2025070701000099,ADBL,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,100,297.0,29700.0,2025-07-07 11:02:39.520312

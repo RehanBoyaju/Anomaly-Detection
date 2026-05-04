@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77134,2025081203000075,SADBL,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,50,436.5,21825.0,2025-08-12 11:04:26.228621
 2025-08-12,74820,2025081203000359,SADBL,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,10,444.0,4440.0,2025-08-12 11:13:15.660406
 2025-08-12,73402,2025081203000625,SADBL,Deevyaa Securities & Stock House Pvt. Ltd,Capital Max Securities Ltd,200,440.0,88000.0,2025-08-12 11:18:37.338043

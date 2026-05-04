@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67828,2025081804000054,SSHL,Linch Stock Market Ltd.,South Asian Bulls Pvt. Ltd.,403,191.1,77013.3,2025-08-18T11:00:43.207569
 2025-08-18,67420,2025081804000139,SSHL,Ashutosh Brokerage & Securities (PVT) Ltd.,Oxford Securities Pvt. Ltd.,505,193.0,97465.0,2025-08-18T11:04:09.937604
 2025-08-18,67186,2025081804000177,SSHL,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,10,193.2,1932.0,2025-08-18T11:05:45.197843

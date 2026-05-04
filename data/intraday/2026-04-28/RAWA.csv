@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RAWA,49,62,17,615.0,10455.0,2026-04-28 14:57:33.127,2026042805015755
 RAWA,49,41,20,615.0,12300.0,2026-04-28 14:54:58.054,2026042805015295
 RAWA,58,34,10,620.0,6200.0,2026-04-28 14:53:21.042,2026042805014980

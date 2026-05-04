@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,150518,2025080304000157,TRH,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,515,990.0,509850.0,2025-08-03T11:03:24.339779
 2025-08-03,145829,2025080304000754,TRH,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,200,991.0,198200.0,2025-08-03T11:10:26.851158
 2025-08-03,139724,2025080304001699,TRH,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,20,999.0,19980.0,2025-08-03T11:18:15.70643

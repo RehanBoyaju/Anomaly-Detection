@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141407,2025071703000005,LBBL,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,265,490.3,129929.5,2025-07-17 10:46:00.037784
 2025-07-17,141270,2025071703000041,LBBL,Vision Securities Pvt. Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,150,488.0,73200.0,2025-07-17 11:00:42.871917
 2025-07-17,141080,2025071703000078,LBBL,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,100,490.0,49000.0,2025-07-17 11:01:25.993326

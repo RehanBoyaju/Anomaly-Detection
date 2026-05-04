@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HIDCLP,58,34,1000,203.0,203000.0,2026-04-28 14:59:47.770,2026042801110517
 HIDCLP,58,62,575,203.0,116725.0,2026-04-28 14:59:47.770,2026042801110516
 HIDCLP,81,62,150,203.0,30450.0,2026-04-28 14:59:14.441,2026042801109639

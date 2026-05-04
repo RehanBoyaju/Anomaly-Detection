@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141211,2025073001000130,SANIMA,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,391.0,3910.0,2025-07-30 11:01:01.861256
 2025-07-30,141150,2025073001000143,SANIMA,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,100,391.0,39100.0,2025-07-30 11:01:15.370118
 2025-07-30,141074,2025073001000169,SANIMA,Sundhara Securities Limited,Sanima Securities Limited,100,391.0,39100.0,2025-07-30 11:01:33.951390

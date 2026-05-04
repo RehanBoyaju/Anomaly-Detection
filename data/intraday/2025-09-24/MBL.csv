@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47842,2025092401000002,MBL,Deevyaa Securities & Stock House Pvt. Ltd,Nabil Stock Dealer Ltd.,1500,230.0,345000.0,2025-09-24 10:46:00.019718
 2025-09-24,47841,2025092401000003,MBL,Deevyaa Securities & Stock House Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,500,230.0,115000.0,2025-09-24 10:46:00.019756
 2025-09-24,46333,2025092401000301,MBL,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,228.0,2280.0,2025-09-24 11:07:55.462935

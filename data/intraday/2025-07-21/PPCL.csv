@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,137403,2025072104000633,PPCL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,50,385.0,19250.0,2025-07-21 11:03:03.288898
 2025-07-21,136806,2025072104000899,PPCL,Neev Securities Pvt. Ltd.,Sundhara Securities Limited,370,382.0,141340.0,2025-07-21 11:04:09.577666
 2025-07-21,135744,2025072104001287,PPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,200,382.3,76460.0,2025-07-21 11:05:55.490861

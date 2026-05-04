@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53845,2025082003000001,BFC,Imperial Securities Company Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,500.0,5000.0,2025-08-20 10:46:00.010759
 2025-08-20,52032,2025082003000210,BFC,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,100,501.1,50110.0,2025-08-20 11:14:14.734681
 2025-08-20,52031,2025082003000211,BFC,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,50,500.1,25005.0,2025-08-20 11:14:14.734848

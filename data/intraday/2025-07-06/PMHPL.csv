@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86856,2025070604000135,PMHPL,Blue Chip Securities Ltd,Kohinoor Investment & Securities Pvt. Ltd.,10,420.0,4200.0,2025-07-06 11:02:23.500364
 2025-07-06,85817,2025070604000419,PMHPL,Nepal Investment And Securities Trading Private Limited,Kumari Securities Private Limited,50,412.3,20615.0,2025-07-06 11:06:03.834185
 2025-07-06,85816,2025070604000420,PMHPL,Nepal Investment And Securities Trading Private Limited,Kumari Securities Private Limited,50,412.0,20600.0,2025-07-06 11:06:03.834263

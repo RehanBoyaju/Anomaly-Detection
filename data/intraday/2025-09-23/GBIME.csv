@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67348,2025092301000002,GBIME,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,10,248.1,2481.0,2025-09-23 10:46:00.022726
 2025-09-23,67268,2025092301000010,GBIME,Vision Securities Pvt. Ltd,Elite Stock House Limited,20,245.0,4900.0,2025-09-23 11:00:33.103181
 2025-09-23,67141,2025092301000025,GBIME,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,10,244.9,2449.0,2025-09-23 11:01:14.367196

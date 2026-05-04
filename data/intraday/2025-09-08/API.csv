@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59349,2025090804000136,API,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,10,286.1,2861.0,2025-09-08 11:03:34.210633
 2025-09-08,59348,2025090804000137,API,ABC Securities Private Limited,Naasa Securities Co. Ltd.,500,286.1,143050.0,2025-09-08 11:03:34.210761
 2025-09-08,59347,2025090804000138,API,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,500,286.1,143050.0,2025-09-08 11:03:34.210854

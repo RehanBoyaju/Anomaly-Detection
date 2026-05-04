@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108258,2025092104000207,CGH,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,50,870.3,43515.0,2025-09-21 10:46:00.085242
 2025-09-21,108257,2025092104000208,CGH,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,870.3,17406.0,2025-09-21 10:46:00.085269
 2025-09-21,108256,2025092104000209,CGH,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,500,870.3,435150.0,2025-09-21 10:46:00.085301

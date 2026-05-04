@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SADBL,21,45,10,416.0,4160.0,2026-04-28 14:59:44.653,2026042803008415
 SADBL,59,35,200,414.1,82820.0,2026-04-28 14:59:33.918,2026042803008381
 SADBL,21,45,10,416.0,4160.0,2026-04-28 14:59:19.100,2026042803008309

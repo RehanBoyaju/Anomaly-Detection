@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,151906,2025072404001222,SJCL,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,20,330.2,6604.0,2025-07-24 11:05:26.487057
 2025-07-24,151465,2025072404001394,SJCL,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,40,331.0,13240.0,2025-07-24 11:06:13.860098
 2025-07-24,150492,2025072404001778,SJCL,Kumari Securities Private Limited,Aryatara Investment & Securities,30,332.0,9960.0,2025-07-24 11:07:42.141585

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67436,2025090405000277,CHDC,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2,2500.0,5000.0,2025-09-04T11:08:41.571924
 2025-09-04,67128,2025090405000373,CHDC,Premier Securities Company Ltd.,ABC Securities Private Limited,100,2521.6,252160.0,2025-09-04T11:10:19.510946
 2025-09-04,67003,2025090405000419,CHDC,Siprabi Securities Pvt. Ltd.,ABC Securities Private Limited,200,2521.8,504360.0,2025-09-04T11:10:49.608791

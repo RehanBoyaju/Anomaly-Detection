@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56711,2025082101000012,HBL,ABC Securities Private Limited,SUN SECURITIES PVT LTD,10,218.0,2180.0,2025-08-21 11:01:25.480748
 2025-08-21,56315,2025082101000066,HBL,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,93,216.9,20171.7,2025-08-21 11:05:36.052412
 2025-08-21,55225,2025082101000245,HBL,Deevyaa Securities & Stock House Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,176,216.0,38016.0,2025-08-21 11:15:03.569904

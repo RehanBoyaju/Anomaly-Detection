@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ACLBSL,58,36,50,960.1,48005.0,2026-04-28 14:59:49.693,2026042803008439
 ACLBSL,58,45,10,960.0,9600.0,2026-04-28 14:52:42.869,2026042803007579
 ACLBSL,42,45,40,960.0,38400.0,2026-04-28 14:52:38.985,2026042803007553

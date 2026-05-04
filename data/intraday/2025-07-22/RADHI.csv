@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177066,2025072204000018,RADHI,Ashutosh Brokerage & Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,825.4,8254.0,2025-07-22 10:46:00.046521
 2025-07-22,176875,2025072204000058,RADHI,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,100,820.0,82000.0,2025-07-22 11:00:42.745038
 2025-07-22,176851,2025072204000061,RADHI,KALASH STOCK MARKET PVT. LTD.,SUN SECURITIES PVT LTD,100,820.0,82000.0,2025-07-22 11:00:51.853742

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89744,2025090203000009,SINDU,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,10,754.1,7541.0,2025-09-02 10:46:00.049374
 2025-09-02,86313,2025090203000047,SINDU,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,100,740.0,74000.0,2025-09-02 11:04:40.378213
 2025-09-02,56872,2025090203001717,SINDU,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,50,740.0,37000.0,2025-09-02 12:12:16.867518

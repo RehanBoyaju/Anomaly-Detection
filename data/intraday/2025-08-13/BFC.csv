@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70094,2025081303000002,BFC,Online Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,494.5,4945.0,2025-08-13 10:46:00.013535
 2025-08-13,69022,2025081303000110,BFC,Linch Stock Market Ltd.,Blue Chip Securities Ltd,10,500.5,5005.0,2025-08-13 11:06:17.143966
 2025-08-13,68803,2025081303000149,BFC,Dakshinkali Investment & Securities Pvt. Ltd.,Blue Chip Securities Ltd,10,510.5,5105.0,2025-08-13 11:07:44.076774

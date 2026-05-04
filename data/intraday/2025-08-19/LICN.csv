@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,60168,2025081903000156,LICN,Naasa Securities Co. Ltd.,Arun Securities (PVT) Ltd.,10,871.9,8719.0,2025-08-19 11:10:31.454450
 2025-08-19,60109,2025081903000160,LICN,Imperial Securities Company Pvt. Ltd.,Arun Securities (PVT) Ltd.,90,871.9,78471.0,2025-08-19 11:10:45.589426
 2025-08-19,59362,2025081903000220,LICN,ABC Securities Private Limited,Shree Krishna Securities Ltd.,150,872.1,130815.0,2025-08-19 11:14:38.602898

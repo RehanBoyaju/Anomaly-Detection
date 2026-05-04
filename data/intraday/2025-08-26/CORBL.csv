@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,41812,2025082603000748,CORBL,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,1,1900.0,1900.0,2025-08-26 11:26:45.866871
 2025-08-26,41652,2025082603000782,CORBL,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,19,1920.0,36480.0,2025-08-26 11:28:11.351215
 2025-08-26,40643,2025082603000968,CORBL,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,40,1920.0,76800.0,2025-08-26 11:35:25.500332

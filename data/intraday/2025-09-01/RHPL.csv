@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,67120,2025090104000134,RHPL,Agrawal Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,20,293.0,5860.0,2025-09-01 11:06:22.912749
 2025-09-01,66591,2025090104000189,RHPL,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,30,293.0,8790.0,2025-09-01 11:08:08.174033
 2025-09-01,66402,2025090104000213,RHPL,Kumari Securities Private Limited,Trishakti Securities Public Limited,25,291.0,7275.0,2025-09-01 11:08:46.380482

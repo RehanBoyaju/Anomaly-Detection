@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77731,2025081204000065,API,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,1000,299.9,299900.0,2025-08-12 11:02:09.729631
 2025-08-12,77730,2025081204000066,API,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,100,300.0,30000.0,2025-08-12 11:02:09.729740
 2025-08-12,77729,2025081204000067,API,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,1000,300.0,300000.0,2025-08-12 11:02:09.729813

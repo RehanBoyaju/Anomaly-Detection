@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167992,2025073104000141,CGH,Trishakti Securities Public Limited,Investment Management Nepal Pvt. Ltd.,100,1063.0,106300.0,2025-07-31 11:01:41.024261
 2025-07-31,167868,2025073104000170,CGH,Trishakti Securities Public Limited,ABC Securities Private Limited,70,1063.0,74410.0,2025-07-31 11:01:56.711090
 2025-07-31,167801,2025073104000179,CGH,Nagarik Stock Dealer ,Capital Max Securities Ltd,50,1070.0,53500.0,2025-07-31 11:02:05.913975

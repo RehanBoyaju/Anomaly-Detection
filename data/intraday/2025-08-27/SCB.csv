@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,71695,2025082701000171,SCB,Aryatara Investment & Securities,Sajilo Broker Limited,20,634.0,12680.0,2025-08-27T11:07:25.199881
 2025-08-27,70887,2025082701000323,SCB,Linch Stock Market Ltd.,J.F. Securites (PVT) Ltd.,10,632.0,6320.0,2025-08-27T11:12:17.123086
 2025-08-27,70761,2025082701000348,SCB,Linch Stock Market Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,30,632.0,18960.0,2025-08-27T11:12:48.13152

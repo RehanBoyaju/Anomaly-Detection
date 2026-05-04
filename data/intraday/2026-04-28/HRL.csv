@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HRL,94,57,12,685.5,8226.0,2026-04-28 14:59:58.299,2026042805016521
 HRL,94,43,288,685.2,197337.6,2026-04-28 14:59:58.298,2026042805016520
 HRL,32,57,495,685.1,339124.5,2026-04-28 14:59:55.743,2026042805016453

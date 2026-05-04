@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,148664,2025080404000123,SJCL,J.F. Securites (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,326.0,3260.0,2025-08-04 11:00:46.978037
 2025-08-04,148349,2025080404000182,SJCL,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,70,321.0,22470.0,2025-08-04 11:01:03.038095
 2025-08-04,148348,2025080404000183,SJCL,Premier Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,900,320.5,288450.0,2025-08-04 11:01:03.038153

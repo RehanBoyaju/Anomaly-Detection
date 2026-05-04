@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73955,2025071501000033,GBIME,Aryatara Investment & Securities,Trishakti Securities Public Limited,11,250.0,2750.0,2025-07-15 11:00:42.401924
 2025-07-15,73688,2025071501000132,GBIME,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,11,250.3,2753.3,2025-07-15 11:03:02.375558
 2025-07-15,73496,2025071501000193,GBIME,Sharepro Securities Private Limited,Kumari Securities Private Limited,10,254.0,2540.0,2025-07-15 11:04:13.926372

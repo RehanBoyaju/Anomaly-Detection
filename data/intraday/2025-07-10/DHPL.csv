@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,84346,2025071004001270,DHPL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,22,324.2,7132.4,2025-07-10 11:17:26.716106
 2025-07-10,84104,2025071004001326,DHPL,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,1000,324.2,324200.0,2025-07-10 11:18:18.187183
 2025-07-10,84053,2025071004001333,DHPL,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,300,324.2,97260.0,2025-07-10 11:18:32.769642

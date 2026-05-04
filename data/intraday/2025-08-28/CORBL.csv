@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,75150,2025082803000425,CORBL,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,3,1918.0,5754.0,2025-08-28 11:13:17.855069
 2025-08-28,72585,2025082803000747,CORBL,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,10,1931.0,19310.0,2025-08-28 11:21:17.473287
 2025-08-28,66121,2025082803001880,CORBL,Hatemalo Financial Services Private Limited,Midas Stock Broking Company Private Limited,10,1968.0,19680.0,2025-08-28 11:40:59.627168

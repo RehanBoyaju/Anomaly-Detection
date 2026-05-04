@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,37303,2025092804000468,NHDL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,11,700.0,7700.0,2025-09-28 11:14:10.641888
 2025-09-28,36821,2025092804000554,NHDL,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,100,700.0,70000.0,2025-09-28 11:16:48.718093
 2025-09-28,36782,2025092804000567,NHDL,Sajilo Broker Limited,KALASH STOCK MARKET PVT. LTD.,30,696.0,20880.0,2025-09-28 11:17:02.443192

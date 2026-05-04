@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,67553,2025081303000321,MDB,Market Securities & Exchange (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,50,624.0,31200.0,2025-08-13 11:13:33.365709
 2025-08-13,67552,2025081303000322,MDB,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,15,624.0,9360.0,2025-08-13 11:13:33.365751
 2025-08-13,67551,2025081303000323,MDB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,100,624.0,62400.0,2025-08-13 11:13:33.365778

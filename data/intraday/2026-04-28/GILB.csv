@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GILB,45,26,10,1120.0,11200.0,2026-04-28 14:59:57.700,2026042803008661
 GILB,45,32,10,1120.0,11200.0,2026-04-28 14:59:13.134,2026042803008278
 GILB,45,52,150,1120.0,168000.0,2026-04-28 14:58:00.191,2026042803008119

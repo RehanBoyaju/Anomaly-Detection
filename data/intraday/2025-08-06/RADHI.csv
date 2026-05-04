@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93048,2025080604000010,RADHI,Capital Max Securities Ltd,Investment Management Nepal Pvt. Ltd.,10,795.0,7950.0,2025-08-06 11:00:15.589533
 2025-08-06,92455,2025080604000069,RADHI,Nepal Investment And Securities Trading Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,785.0,15700.0,2025-08-06 11:02:33.417422
 2025-08-06,92454,2025080604000070,RADHI,Thrive Brokerage House Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,153,785.0,120105.0,2025-08-06 11:02:33.417514

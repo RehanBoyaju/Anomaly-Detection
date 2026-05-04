@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38906,2025092801000517,MBL,Nepal Stock House (PVT) Ltd.,Creative Securities Pvt Ltd,10,225.0,2250.0,2025-09-28 11:05:48.620895
 2025-09-28,37735,2025092801001166,MBL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,222.0,2220.0,2025-09-28 11:11:45.628334
 2025-09-28,37672,2025092801001204,MBL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,222.0,2220.0,2025-09-28 11:12:15.521968

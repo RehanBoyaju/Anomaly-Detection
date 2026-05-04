@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,68950,2025081301000468,HBL,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,101,220.0,22220.0,2025-08-13 11:06:47.290379
 2025-08-13,68949,2025081301000469,HBL,Opal Securities Investment (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,99,220.0,21780.0,2025-08-13 11:06:47.290493
 2025-08-13,67691,2025081301000909,HBL,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,149,221.0,32929.0,2025-08-13 11:12:54.912332

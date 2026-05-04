@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176909,2025072004000423,PMHPL,Linch Stock Market Ltd.,Himalayan Brokerage Company Limited,10,430.0,4300.0,2025-07-20T11:02:13.998143
 2025-07-20,176625,2025072004000534,PMHPL,Neev Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,10,425.0,4250.0,2025-07-20T11:02:37.740925
 2025-07-20,176624,2025072004000535,PMHPL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Neev Securities Pvt. Ltd.,990,424.1,419859.0,2025-07-20T11:02:37.741008

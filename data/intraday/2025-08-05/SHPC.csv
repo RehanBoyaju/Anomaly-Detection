@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,128794,2025080504000057,SHPC,Miyo Securities Pvt Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,606.0,181800.0,2025-08-05 11:01:39.628211
 2025-08-05,128793,2025080504000058,SHPC,Miyo Securities Pvt Ltd,Sumeru Securities Pvt. Ltd.,500,606.0,303000.0,2025-08-05 11:01:39.628283
 2025-08-05,124853,2025080504000190,SHPC,Linch Stock Market Ltd.,Kumari Securities Private Limited,200,606.0,121200.0,2025-08-05 11:04:15.160012

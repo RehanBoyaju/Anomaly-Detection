@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87372,2025070604000007,NGPL,Capital Max Securities Ltd,Kohinoor Investment & Securities Pvt. Ltd.,10,397.2,3972.0,2025-07-06 10:46:00.029975
 2025-07-06,86628,2025070604000190,NGPL,Nepal Stock House (PVT) Ltd.,Arun Securities (PVT) Ltd.,10,392.9,3929.0,2025-07-06 11:03:18.509037
 2025-07-06,86507,2025070604000224,NGPL,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,20,391.0,7820.0,2025-07-06 11:03:43.818027

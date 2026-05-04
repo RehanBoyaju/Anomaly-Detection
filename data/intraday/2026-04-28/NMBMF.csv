@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NMBMF,45,68,91,655.0,59605.0,2026-04-28 14:32:00.312,2026042803006513
 NMBMF,45,35,10,655.0,6550.0,2026-04-28 14:32:00.312,2026042803006512
 NMBMF,45,7,15,655.0,9825.0,2026-04-28 14:32:00.312,2026042803006511

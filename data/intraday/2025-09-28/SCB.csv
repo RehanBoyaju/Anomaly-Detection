@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,35796,2025092801002077,SCB,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,10,636.0,6360.0,2025-09-28 11:22:12.302176
 2025-09-28,32718,2025092801003569,SCB,J.F. Securites (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,60,630.0,37800.0,2025-09-28 11:39:38.739293
 2025-09-28,32651,2025092801003604,SCB,J.F. Securites (PVT) Ltd.,J.F. Securites (PVT) Ltd.,10,630.0,6300.0,2025-09-28 11:39:59.177957

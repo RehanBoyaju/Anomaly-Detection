@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 USHL,34,58,10,650.0,6500.0,2026-04-28 14:59:53.259,2026042805016432
 USHL,34,13,40,645.0,25800.0,2026-04-28 14:59:53.259,2026042805016431
 USHL,34,14,93,644.0,59892.0,2026-04-28 14:59:53.259,2026042805016430

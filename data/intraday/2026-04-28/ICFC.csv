@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ICFC,41,58,10,625.0,6250.0,2026-04-28 14:59:21.818,2026042803008317
 ICFC,41,26,400,625.0,250000.0,2026-04-28 14:59:01.754,2026042803008240
 ICFC,41,38,81,625.0,50625.0,2026-04-28 14:55:45.099,2026042803007850

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,60492,2025070903000282,GFCL,Naasa Securities Co. Ltd.,R.B.B. Securities Company Ltd,200,651.0,130200.0,2025-07-09 11:13:55.716359
 2025-07-09,57663,2025070903000600,GFCL,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,50,651.0,32550.0,2025-07-09 11:28:40.152517
 2025-07-09,57662,2025070903000601,GFCL,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,150,651.0,97650.0,2025-07-09 11:28:40.152587

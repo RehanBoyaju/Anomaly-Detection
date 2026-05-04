@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56797,2025082104000016,UPCL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,100,400.0,40000.0,2025-08-21 10:46:00.054856
 2025-08-21,56759,2025082104000026,UPCL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,100,398.5,39850.0,2025-08-21 11:00:33.666770
 2025-08-21,56639,2025082104000066,UPCL,Premier Securities Company Ltd.,Sundhara Securities Limited,100,399.0,39900.0,2025-08-21 11:02:17.846489

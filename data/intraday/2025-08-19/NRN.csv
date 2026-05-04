@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61665,2025081905000032,NRN,N.M.B. SECURITIES LIMITED,SHUBHAKAMANA SECURITIES PVT. LTD,25,2243.0,56075.0,2025-08-19 11:00:41.327338
 2025-08-19,60850,2025081905000299,NRN,N.M.B. SECURITIES LIMITED,J.F. Securites (PVT) Ltd.,303,2248.0,681144.0,2025-08-19 11:06:21.223121
 2025-08-19,60492,2025081905000415,NRN,ABC Securities Private Limited,Asian Securities Private Ltd.,12,2240.0,26880.0,2025-08-19 11:08:40.981186

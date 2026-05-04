@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,148478,2025080304000406,HPPL,Sewa Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,507.5,5075.0,2025-08-03T11:06:39.608454
 2025-08-03,146007,2025080304000719,HPPL,Linch Stock Market Ltd.,Pragyan Securities (PVT) Ltd.,316,508.4,160654.4,2025-08-03T11:10:13.588366
 2025-08-03,144750,2025080304000904,HPPL,Capital Max Securities Ltd,South Asian Bulls Pvt. Ltd.,200,513.0,102600.0,2025-08-03T11:11:46.312404

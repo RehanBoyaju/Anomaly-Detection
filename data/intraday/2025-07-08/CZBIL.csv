@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,54991,2025070801000215,CZBIL,Sri Hari Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,10,212.0,2120.0,2025-07-08 11:07:30.554926
 2025-07-08,54661,2025070801000290,CZBIL,ABC Securities Private Limited,Aryatara Investment & Securities,26,209.0,5434.0,2025-07-08 11:09:40.442173
 2025-07-08,53988,2025070801000427,CZBIL,ABC Securities Private Limited,ABC Securities Private Limited,64,209.0,13376.0,2025-07-08 11:13:04.394783

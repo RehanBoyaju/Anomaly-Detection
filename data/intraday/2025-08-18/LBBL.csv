@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67444,2025081803000046,LBBL,Capital Max Securities Ltd,Sri Hari Securities Pvt. Ltd.,200,539.0,107800.0,2025-08-18T11:03:54.859084
 2025-08-18,67272,2025081803000065,LBBL,Naasa Securities Co. Ltd.,Sri Hari Securities Pvt. Ltd.,500,539.0,269500.0,2025-08-18T11:05:16.431356
 2025-08-18,67199,2025081803000071,LBBL,Capital Max Securities Ltd,Sri Hari Securities Pvt. Ltd.,200,539.0,107800.0,2025-08-18T11:05:35.268074

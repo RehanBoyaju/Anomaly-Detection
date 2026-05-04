@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62822,2025070904000044,UPCL,Vision Securities Pvt. Ltd,Roadshow securities limited,10,405.4,4054.0,2025-07-09 10:46:00.045841
 2025-07-09,62749,2025070904000074,UPCL,South Asian Bulls Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,401.5,120450.0,2025-07-09 11:00:42.678267
 2025-07-09,62692,2025070904000105,UPCL,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,10,403.2,4032.0,2025-07-09 11:01:22.030775

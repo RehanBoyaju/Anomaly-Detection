@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44663,2025082603000147,PFL,Blue Chip Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,411.9,4119.0,2025-08-26 11:05:34.348125
 2025-08-26,43555,2025082603000370,PFL,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,10,410.0,4100.0,2025-08-26 11:14:41.500900
 2025-08-26,40068,2025082603001061,PFL,Global IME Securities Limited,Sani Securities Company Ltd.,12,407.0,4884.0,2025-08-26 11:39:11.305576

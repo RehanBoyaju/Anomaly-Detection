@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170211,2025072304000035,HURJA,Arun Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,10,267.8,2678.0,2025-07-23 10:46:00.071184
 2025-07-23,169773,2025072304000196,HURJA,Arun Securities (PVT) Ltd.,Capital Max Securities Ltd,88,264.0,23232.0,2025-07-23 11:00:59.493175
 2025-07-23,168708,2025072304000517,HURJA,Arun Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,400,264.0,105600.0,2025-07-23 11:02:37.018644

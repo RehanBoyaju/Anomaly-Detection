@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141395,2025071703000010,CORBL,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,10,2427.3,24273.0,2025-07-17 10:46:00.050622
 2025-07-17,141352,2025071703000020,CORBL,Hatemalo Financial Services Private Limited,Hatemalo Financial Services Private Limited,10,2379.0,23790.0,2025-07-17 11:00:08.905748
 2025-07-17,141238,2025071703000045,CORBL,Ashutosh Brokerage & Securities (PVT) Ltd.,Hatemalo Financial Services Private Limited,10,2333.0,23330.0,2025-07-17 11:00:52.084942

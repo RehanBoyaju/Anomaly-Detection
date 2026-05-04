@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ULBSL,62,6,10,3013.0,30130.0,2026-04-28 14:59:58.918,2026042804015044
 ULBSL,62,6,16,3013.0,48208.0,2026-04-28 14:59:58.590,2026042804015040
 ULBSL,62,64,70,2990.0,209300.0,2026-04-28 14:59:58.590,2026042804015039

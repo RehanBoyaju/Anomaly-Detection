@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168527,2025073104000026,SHEL,Trishakti Securities Public Limited,Deevyaa Securities & Stock House Pvt. Ltd,10,322.0,3220.0,2025-07-31 10:46:00.071369
 2025-07-31,168302,2025073104000061,SHEL,Trishakti Securities Public Limited,Agrawal Securities (PVT) Ltd.,90,325.1,29259.0,2025-07-31 11:00:56.052287
 2025-07-31,168259,2025073104000070,SHEL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,110,325.0,35750.0,2025-07-31 11:01:03.471823

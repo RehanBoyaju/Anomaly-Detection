@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72463,2025082704000016,UMHL,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,10,572.0,5720.0,2025-08-27T11:00:15.135481
 2025-08-27,70329,2025082704000320,UMHL,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,60,574.3,34458.0,2025-08-27T11:15:24.343573
 2025-08-27,69758,2025082704000397,UMHL,Thrive Brokerage House Pvt. Ltd,Infinity Securities Limited,10,576.9,5769.0,2025-08-27T11:18:52.249843

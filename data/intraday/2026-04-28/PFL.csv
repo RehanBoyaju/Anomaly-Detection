@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PFL,88,22,10,380.8,3808.0,2026-04-28 14:59:53.736,2026042803008471
 PFL,42,49,530,378.1,200393.0,2026-04-28 14:59:34.593,2026042803008383
 PFL,53,38,150,378.1,56715.0,2026-04-28 14:56:48.517,2026042803007980

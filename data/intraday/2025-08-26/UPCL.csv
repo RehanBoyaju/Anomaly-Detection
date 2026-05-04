@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44972,2025082604000025,UPCL,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,50,390.0,19500.0,2025-08-26 11:01:35.599853
 2025-08-26,44765,2025082604000067,UPCL,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,393.0,3930.0,2025-08-26 11:04:13.380933
 2025-08-26,44619,2025082604000086,UPCL,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,393.0,3930.0,2025-08-26 11:06:06.508050

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38202,2025092803000086,SAPDBL,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,860.0,86000.0,2025-09-28 11:09:27.853162
 2025-09-28,38108,2025092803000091,SAPDBL,Sri Hari Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,150,860.0,129000.0,2025-09-28 11:09:52.558381
 2025-09-28,37606,2025092803000138,SAPDBL,Sri Hari Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,100,861.0,86100.0,2025-09-28 11:12:35.102807

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56260,2025070804000003,AHPC,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,288.9,2889.0,2025-07-08 10:46:00.026000
 2025-07-08,55597,2025070804000394,AHPC,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,20,284.0,5680.0,2025-07-08 11:04:29.400874
 2025-07-08,55523,2025070804000431,AHPC,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,10,284.0,2840.0,2025-07-08 11:04:57.130151

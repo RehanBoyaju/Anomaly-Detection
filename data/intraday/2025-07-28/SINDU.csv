@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170664,2025072803000013,SINDU,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,814.0,8140.0,2025-07-28T10:46:00.052991
 2025-07-28,169583,2025072803000212,SINDU,Online Securities Pvt. Ltd.,N.M.B. SECURITIES LIMITED,100,800.0,80000.0,2025-07-28T11:03:27.795177
 2025-07-28,168283,2025072803000473,SINDU,Kohinoor Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,30,800.0,24000.0,2025-07-28T11:06:02.275697

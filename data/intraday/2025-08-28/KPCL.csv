@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,74815,2025082804001025,KPCL,Vision Securities Pvt. Ltd,South Asian Bulls Pvt. Ltd.,150,591.3,88695.0,2025-08-28 11:14:35.251120
 2025-08-28,74814,2025082804001026,KPCL,Secured Securities Ltd.,South Asian Bulls Pvt. Ltd.,200,591.2,118240.0,2025-08-28 11:14:35.251215
 2025-08-28,74813,2025082804001027,KPCL,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,100,591.2,59120.0,2025-08-28 11:14:35.251288

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86625,2025081704000020,HPPL,Sani Securities Company Ltd.,J.F. Securites (PVT) Ltd.,100,523.0,52300.0,2025-08-17 10:46:00.036585
 2025-08-17,84568,2025081704000329,HPPL,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,250,516.0,129000.0,2025-08-17 11:06:32.776000
 2025-08-17,84132,2025081704000410,HPPL,Aryatara Investment & Securities,Premier Securities Company Ltd.,250,516.0,129000.0,2025-08-17 11:07:39.905069

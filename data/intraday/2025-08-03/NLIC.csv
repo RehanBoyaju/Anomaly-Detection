@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,147170,2025080303000715,NLIC,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,39,830.0,32370.0,2025-08-03T11:08:33.002744
 2025-08-03,146828,2025080303000761,NLIC,Dynamic Money Managers Securities Pvt. Ltd.,ABC Securities Private Limited,11,830.0,9130.0,2025-08-03T11:09:01.999614
 2025-08-03,146727,2025080303000783,NLIC,Trishakti Securities Public Limited,ABC Securities Private Limited,25,830.0,20750.0,2025-08-03T11:09:13.20048

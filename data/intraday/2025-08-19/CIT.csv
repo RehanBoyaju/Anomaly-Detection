@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,60693,2025081905000353,CIT,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,10,1935.0,19350.0,2025-08-19 11:07:35.667357
 2025-08-19,60692,2025081905000354,CIT,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,10,1935.0,19350.0,2025-08-19 11:07:35.667474
 2025-08-19,59586,2025081905000781,CIT,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,10,1935.0,19350.0,2025-08-19 11:13:32.054206

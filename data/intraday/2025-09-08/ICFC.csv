@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,54346,2025090803000469,ICFC,Midas Stock Broking Company Private Limited,Sweta Securities Private Limited,20,656.0,13120.0,2025-09-08 11:32:15.946702
 2025-09-08,53782,2025090803000559,ICFC,Midas Stock Broking Company Private Limited,Sharepro Securities Private Limited,30,656.0,19680.0,2025-09-08 11:34:55.736492
 2025-09-08,53781,2025090803000560,ICFC,ABC Securities Private Limited,Sharepro Securities Private Limited,50,656.0,32800.0,2025-09-08 11:34:55.736526

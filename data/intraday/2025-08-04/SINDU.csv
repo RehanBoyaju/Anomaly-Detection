@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149233,2025080403000008,SINDU,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,10,814.5,8145.0,2025-08-04 10:46:00.045384
 2025-08-04,149232,2025080403000009,SINDU,Trisul Securities & Invt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,814.5,8145.0,2025-08-04 10:46:00.045417
 2025-08-04,144952,2025080403000182,SINDU,South Asian Bulls Pvt. Ltd.,Linch Stock Market Ltd.,10,830.7,8307.0,2025-08-04 11:04:24.578435

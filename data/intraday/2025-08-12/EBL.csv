@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77986,2025081201000052,EBL,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,300,715.0,214500.0,2025-08-12 11:00:56.689067
 2025-08-12,77669,2025081201000091,EBL,Aryatara Investment & Securities,Deevyaa Securities & Stock House Pvt. Ltd,50,706.1,35305.0,2025-08-12 11:02:20.458975
 2025-08-12,76850,2025081201000266,EBL,ABC Securities Private Limited,J.F. Securites (PVT) Ltd.,40,718.0,28720.0,2025-08-12 11:05:29.979352

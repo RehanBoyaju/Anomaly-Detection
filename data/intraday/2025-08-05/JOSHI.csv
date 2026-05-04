@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,118807,2025080504000488,JOSHI,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,10,335.2,3352.0,2025-08-05 11:09:34.607062
 2025-08-05,118709,2025080504000495,JOSHI,Kumari Securities Private Limited,Siprabi Securities Pvt. Ltd.,10,335.1,3351.0,2025-08-05 11:09:39.656100
 2025-08-05,117834,2025080504000547,JOSHI,Kumari Securities Private Limited,Siprabi Securities Pvt. Ltd.,20,335.1,6702.0,2025-08-05 11:10:41.536141

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38421,2025092804000268,SHL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,15,539.9,8098.5,2025-09-28 11:08:19.308456
 2025-09-28,35548,2025092804000811,SHL,Shree Krishna Securities Ltd.,Siprabi Securities Pvt. Ltd.,505,526.5,265882.5,2025-09-28 11:23:25.671035
 2025-09-28,35547,2025092804000812,SHL,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,100,526.1,52610.0,2025-09-28 11:23:25.671095

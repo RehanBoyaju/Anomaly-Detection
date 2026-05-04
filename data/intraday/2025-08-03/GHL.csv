@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,150495,2025080304000158,GHL,Agrawal Securities (PVT) Ltd.,Nagarik Stock Dealer ,200,255.0,51000.0,2025-08-03T11:03:26.452309
 2025-08-03,149663,2025080304000276,GHL,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,256.0,25600.0,2025-08-03T11:04:36.261131
 2025-08-03,149662,2025080304000277,GHL,Agrawal Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,200,256.5,51300.0,2025-08-03T11:04:36.261193

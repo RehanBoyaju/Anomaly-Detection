@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CHDC,13,34,50,2313.0,115650.0,2026-04-28 14:59:45.997,2026042805016381
 CHDC,52,60,12,2310.0,27720.0,2026-04-28 14:56:44.081,2026042805015592
 CHDC,20,11,25,2295.0,57375.0,2026-04-28 14:56:09.377,2026042805015497

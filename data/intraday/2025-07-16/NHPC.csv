@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98452,2025071604000304,NHPC,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,214.9,2149.0,2025-07-16 11:04:19.927361
 2025-07-16,98326,2025071604000330,NHPC,Midas Stock Broking Company Private Limited,Midas Stock Broking Company Private Limited,31,212.0,6572.0,2025-07-16 11:04:44.430379
 2025-07-16,97881,2025071604000442,NHPC,SUN SECURITIES PVT LTD,Neev Securities Pvt. Ltd.,50,212.3,10615.0,2025-07-16 11:06:21.659024

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,157614,2025072804003815,TRH,Kohinoor Investment & Securities Pvt. Ltd.,Creative Securities Pvt Ltd,10,1046.9,10469.0,2025-07-28T11:19:11.926158
 2025-07-28,157613,2025072804003816,TRH,Kohinoor Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,208,1047.0,217776.0,2025-07-28T11:19:11.926273
 2025-07-28,157612,2025072804003817,TRH,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,50,1048.0,52400.0,2025-07-28T11:19:11.926386

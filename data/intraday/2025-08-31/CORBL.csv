@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,81181,2025083103000586,CORBL,Thrive Brokerage House Pvt. Ltd,Aryatara Investment & Securities,20,1927.0,38540.0,2025-08-31T11:26:36.427631
 2025-08-31,81180,2025083103000587,CORBL,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,10,1927.0,19270.0,2025-08-31T11:26:36.427678
 2025-08-31,81179,2025083103000588,CORBL,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,20,1926.5,38530.0,2025-08-31T11:26:36.427726

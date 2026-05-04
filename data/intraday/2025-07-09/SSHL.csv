@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62568,2025070904000174,SSHL,Trishakti Securities Public Limited,Secured Securities Ltd.,100,250.0,25000.0,2025-07-09 11:02:18.411191
 2025-07-09,62546,2025070904000189,SSHL,Trishakti Securities Public Limited,Neev Securities Pvt. Ltd.,100,250.0,25000.0,2025-07-09 11:02:28.361455
 2025-07-09,62401,2025070904000291,SSHL,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,100,250.0,25000.0,2025-07-09 11:03:17.229184

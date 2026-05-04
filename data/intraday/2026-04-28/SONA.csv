@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SONA,58,21,10,437.0,4370.0,2026-04-28 14:59:59.411,2026042805016544
 SONA,42,34,10,436.1,4361.0,2026-04-28 14:59:50.775,2026042805016413
 SONA,40,39,260,436.0,113360.0,2026-04-28 14:59:33.938,2026042805016272

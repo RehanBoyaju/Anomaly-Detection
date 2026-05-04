@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,50599,2025082103000829,GFCL,Shree Krishna Securities Ltd.,Neev Securities Pvt. Ltd.,50,640.0,32000.0,2025-08-21 11:44:38.913857
 2025-08-21,49056,2025082103001114,GFCL,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,635.3,6353.0,2025-08-21 11:54:26.014471
 2025-08-21,49055,2025082103001115,GFCL,Linch Stock Market Ltd.,Midas Stock Broking Company Private Limited,100,635.3,63530.0,2025-08-21 11:54:26.014573

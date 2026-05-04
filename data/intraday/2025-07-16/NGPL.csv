@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99377,2025071604000046,NGPL,Asian Securities Private Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,125,400.0,50000.0,2025-07-16 11:00:23.378377
 2025-07-16,99352,2025071604000054,NGPL,Magnet Securities and Investment Company Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,175,400.0,70000.0,2025-07-16 11:00:33.504176
 2025-07-16,99351,2025071604000055,NGPL,Magnet Securities and Investment Company Private Limited,Sani Securities Company Ltd.,21,400.0,8400.0,2025-07-16 11:00:33.504350

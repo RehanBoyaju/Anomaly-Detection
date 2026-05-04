@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71028,2025070704000057,HDHPC,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,10,197.0,1970.0,2025-07-07 11:01:23.837293
 2025-07-07,70969,2025070704000076,HDHPC,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,70,197.0,13790.0,2025-07-07 11:01:46.475661
 2025-07-07,70968,2025070704000077,HDHPC,Midas Stock Broking Company Private Limited,Aryatara Investment & Securities,110,197.0,21670.0,2025-07-07 11:01:46.475727

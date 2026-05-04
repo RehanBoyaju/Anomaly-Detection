@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78190,2025081201000006,GBIME,APPLE SECURITIES PRIVATE LIMITED,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,260.7,26070.0,2025-08-12 10:46:00.042976
 2025-08-12,78189,2025081201000007,GBIME,Beni Securities Pvt.Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,260.7,2607.0,2025-08-12 10:46:00.043008
 2025-08-12,77856,2025081201000063,GBIME,Linch Stock Market Ltd.,Sani Securities Company Ltd.,10,252.0,2520.0,2025-08-12 11:01:36.693114

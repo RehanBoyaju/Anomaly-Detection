@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NIBSF2,14,58,500,9.5,4750.0,2026-04-28 14:58:15.053,2026042805015890
 NIBSF2,14,89,210,9.5,1995.0,2026-04-28 14:58:15.053,2026042805015889
 NIBSF2,14,57,200,9.46,1892.0,2026-04-28 14:58:15.053,2026042805015888

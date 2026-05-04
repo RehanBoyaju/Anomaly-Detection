@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,89561,2025083103000191,NLICL,SHUBHAKAMANA SECURITIES PVT. LTD,Sharepro Securities Private Limited,11,595.6,6551.6,2025-08-31T11:12:05.505734
 2025-08-31,88316,2025083103000232,NLICL,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,1000,595.7,595700.0,2025-08-31T11:13:59.574128
 2025-08-31,83077,2025083103000466,NLICL,MILKY WAY SHARE BROKER COMPANY LTD ,Vision Securities Pvt. Ltd,250,596.0,149000.0,2025-08-31T11:22:57.777334

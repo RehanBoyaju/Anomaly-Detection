@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61035,2025081903000090,JFL,Global IME Securities Limited,Sani Securities Company Ltd.,155,478.0,74090.0,2025-08-19 11:05:07.045435
 2025-08-19,60782,2025081903000112,JFL,Sundhara Securities Limited,Aryatara Investment & Securities,100,475.0,47500.0,2025-08-19 11:06:48.536616
 2025-08-19,60079,2025081903000164,JFL,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,478.0,4780.0,2025-08-19 11:10:56.823747

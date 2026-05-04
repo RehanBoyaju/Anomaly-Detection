@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67224,2025090403000148,MLBL,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,250,387.2,96800.0,2025-09-04T11:09:49.391242
 2025-09-04,66657,2025090403000183,MLBL,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,50,387.4,19370.0,2025-09-04T11:11:57.756113
 2025-09-04,65392,2025090403000297,MLBL,Midas Stock Broking Company Private Limited,Sewa Securities Pvt. Ltd.,10,393.0,3930.0,2025-09-04T11:16:33.0931

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141475,2025073003000006,MLBL,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,10,443.7,4437.0,2025-07-30 10:46:00.037587
 2025-07-30,140923,2025073003000124,MLBL,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,60,452.0,27120.0,2025-07-30 11:01:59.682977
 2025-07-30,140737,2025073003000158,MLBL,Sewa Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,10,452.5,4525.0,2025-07-30 11:02:28.559075

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176907,2025072001000296,SPC,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,29,550.0,15950.0,2025-07-20T11:02:14.108104
 2025-07-20,176887,2025072001000301,SPC,Himalayan Brokerage Company Limited,KALASH STOCK MARKET PVT. LTD.,21,550.0,11550.0,2025-07-20T11:02:14.937305
 2025-07-20,176766,2025072001000327,SPC,Sundhara Securities Limited,Himalayan Brokerage Company Limited,800,556.0,444800.0,2025-07-20T11:02:25.205861

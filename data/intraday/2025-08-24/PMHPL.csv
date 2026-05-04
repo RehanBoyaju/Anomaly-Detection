@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57843,2025082404000022,PMHPL,Midas Stock Broking Company Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,500,391.0,195500.0,2025-08-24 11:02:04.324658
 2025-08-24,57842,2025082404000023,PMHPL,Miyo Securities Pvt Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,100,390.1,39010.0,2025-08-24 11:02:04.324753
 2025-08-24,57841,2025082404000024,PMHPL,Miyo Securities Pvt Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,100,390.0,39000.0,2025-08-24 11:02:04.324841

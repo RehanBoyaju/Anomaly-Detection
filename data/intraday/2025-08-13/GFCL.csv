@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69891,2025081303000027,GFCL,Linch Stock Market Ltd.,Opal Securities Investment (PVT) Ltd.,100,652.0,65200.0,2025-08-13 11:00:42.257218
 2025-08-13,65985,2025081303000536,GFCL,Sewa Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,86,665.0,57190.0,2025-08-13 11:20:36.493510
 2025-08-13,65523,2025081303000613,GFCL,Sewa Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,64,665.0,42560.0,2025-08-13 11:22:14.956166

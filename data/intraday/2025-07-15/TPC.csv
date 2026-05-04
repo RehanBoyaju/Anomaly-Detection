@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73999,2025071501000005,TPC,Thrive Brokerage House Pvt. Ltd,Thrive Brokerage House Pvt. Ltd,10,397.6,3976.0,2025-07-15 10:46:00.096870
 2025-07-15,73642,2025071501000147,TPC,Secured Securities Ltd.,Sri Hari Securities Pvt. Ltd.,12,399.0,4788.0,2025-07-15 11:03:22.844542
 2025-07-15,73641,2025071501000148,TPC,Secured Securities Ltd.,Sri Hari Securities Pvt. Ltd.,134,399.0,53466.0,2025-07-15 11:03:22.844585

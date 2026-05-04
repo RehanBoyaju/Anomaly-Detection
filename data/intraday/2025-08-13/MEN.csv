@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70051,2025081304000012,MEN,Kohinoor Investment & Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,10,638.0,6380.0,2025-08-13 10:46:00.047247
 2025-08-13,69822,2025081304000035,MEN,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,40,639.2,25568.0,2025-08-13 11:01:07.956269
 2025-08-13,69567,2025081304000081,MEN,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,150,640.0,96000.0,2025-08-13 11:02:37.527409

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99006,2025071603000065,NLIC,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,91,789.0,71799.0,2025-07-16 11:02:28.315044
 2025-07-16,98746,2025071603000083,NLIC,Property Wiard Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,44,789.0,34716.0,2025-07-16 11:03:17.399150
 2025-07-16,98745,2025071603000084,NLIC,Property Wiard Limited,Kumari Securities Private Limited,150,790.0,118500.0,2025-07-16 11:03:17.399188

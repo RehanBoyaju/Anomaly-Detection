@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99204,2025071601000140,SCB,Sharepro Securities Private Limited,Pragyan Securities (PVT) Ltd.,25,661.4,16535.0,2025-07-16 11:01:25.226871
 2025-07-16,99203,2025071601000141,SCB,Sharepro Securities Private Limited,Opal Securities Investment (PVT) Ltd.,75,661.4,49605.0,2025-07-16 11:01:25.226935
 2025-07-16,98106,2025071601000690,SCB,Online Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,49,661.0,32389.0,2025-07-16 11:05:28.245133

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,57285,2025090804000765,BARUN,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,10,328.0,3280.0,2025-09-08 11:18:22.829719
 2025-09-08,56756,2025090804000895,BARUN,Dynamic Money Managers Securities Pvt. Ltd.,Aryatara Investment & Securities,10,325.2,3252.0,2025-09-08 11:21:16.627430
 2025-09-08,56755,2025090804000896,BARUN,Sagarmatha Securities Private Limited,Aryatara Investment & Securities,300,325.0,97500.0,2025-09-08 11:21:16.627539

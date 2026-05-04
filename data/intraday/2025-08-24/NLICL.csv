@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57960,2025082403000011,NLICL,Sipla Securities Private Limited,Trishakti Securities Public Limited,500,612.5,306250.0,2025-08-24 11:00:32.357839
 2025-08-24,57763,2025082403000028,NLICL,Nepal Stock House (PVT) Ltd.,ABC Securities Private Limited,10,594.0,5940.0,2025-08-24 11:02:43.543488
 2025-08-24,55775,2025082403000269,NLICL,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,10,619.0,6190.0,2025-08-24 11:14:36.213043

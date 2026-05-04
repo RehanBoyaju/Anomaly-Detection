@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61096,2025081901000096,HBL,Sumeru Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,300,216.8,65040.0,2025-08-19 11:04:44.756500
 2025-08-19,60783,2025081901000141,HBL,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,100,216.8,21680.0,2025-08-19 11:06:47.119247
 2025-08-19,60036,2025081901000298,HBL,Aakashbhairab Securities Ltd.,Kumari Securities Private Limited,10,216.7,2167.0,2025-08-19 11:11:10.177563

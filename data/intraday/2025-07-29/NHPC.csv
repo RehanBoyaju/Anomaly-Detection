@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157519,2025072904000001,NHPC,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,10,229.5,2295.0,2025-07-29 10:46:00.007150
 2025-07-29,156523,2025072904000160,NHPC,J.F. Securites (PVT) Ltd.,Secured Securities Ltd.,300,228.9,68670.0,2025-07-29 11:02:39.684279
 2025-07-29,156522,2025072904000161,NHPC,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,100,228.9,22890.0,2025-07-29 11:02:39.684350

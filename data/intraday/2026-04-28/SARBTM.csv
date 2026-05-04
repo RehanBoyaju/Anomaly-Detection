@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SARBTM,58,22,80,839.5,67160.0,2026-04-28 14:59:41.435,2026042801110387
 SARBTM,49,62,156,838.0,130728.0,2026-04-28 14:59:36.214,2026042801110243
 SARBTM,6,62,225,838.2,188595.0,2026-04-28 14:59:36.214,2026042801110242

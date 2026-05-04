@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72598,2025071404000001,BPCL,Imperial Securities Company Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,812.6,8126.0,2025-07-14 10:46:00.007990
 2025-07-14,72345,2025071404000089,BPCL,Malla & Malla Stock Broking Company Pvt. Limited,Midas Stock Broking Company Private Limited,50,828.8,41440.0,2025-07-14 11:00:56.992209
 2025-07-14,72319,2025071404000101,BPCL,Sharepro Securities Private Limited,Agrawal Securities (PVT) Ltd.,50,845.0,42250.0,2025-07-14 11:01:02.080253

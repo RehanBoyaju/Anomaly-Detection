@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141141,2025071703000070,SAPDBL,Vision Securities Pvt. Ltd,Hatemalo Financial Services Private Limited,10,1045.1,10451.0,2025-07-17 11:01:14.135279
 2025-07-17,141072,2025071703000081,SAPDBL,Shree Krishna Securities Ltd.,Asian Securities Private Ltd.,100,1046.0,104600.0,2025-07-17 11:01:26.594768
 2025-07-17,140805,2025071703000128,SAPDBL,Vision Securities Pvt. Ltd,Asian Securities Private Ltd.,90,1046.1,94149.0,2025-07-17 11:02:12.972614

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,36209,2025092504000303,SHL,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,300,523.4,157020.0,2025-09-25 11:12:38.423131
 2025-09-25,36208,2025092504000304,SHL,Premier Securities Company Ltd.,Capital Max Securities Ltd,100,523.3,52330.0,2025-09-25 11:12:38.423276
 2025-09-25,36207,2025092504000305,SHL,Asian Securities Private Ltd.,Capital Max Securities Ltd,100,523.2,52320.0,2025-09-25 11:12:38.423388

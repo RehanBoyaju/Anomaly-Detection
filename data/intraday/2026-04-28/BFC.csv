@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BFC,45,7,101,458.0,46258.0,2026-04-28 14:59:32.055,2026042803008361
 BFC,32,7,99,458.0,45342.0,2026-04-28 14:59:06.828,2026042803008247
 BFC,32,6,101,458.0,46258.0,2026-04-28 14:59:06.828,2026042803008246

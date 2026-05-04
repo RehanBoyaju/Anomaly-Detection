@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,51659,2025082503002301,MDB,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,75,615.0,46125.0,2025-08-25 11:26:25.374256
 2025-08-25,51331,2025082503002408,MDB,Dynamic Money Managers Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,10,615.0,6150.0,2025-08-25 11:27:53.962425
 2025-08-25,48377,2025082503003183,MDB,Dynamic Money Managers Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,15,615.0,9225.0,2025-08-25 11:41:34.294494

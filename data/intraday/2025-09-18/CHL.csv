@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7175,2025091804000056,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,10,242.0,2420.0,2025-09-18 10:46:00.079902
 2025-09-18,7174,2025091804000057,CHL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,80,242.0,19360.0,2025-09-18 10:46:00.079945
 2025-09-18,7173,2025091804000058,CHL,Online Securities Pvt. Ltd.,Sundhara Securities Limited,50,242.0,12100.0,2025-09-18 10:46:00.079979

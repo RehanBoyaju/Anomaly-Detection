@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169990,2025072304000104,SHL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,500,614.5,307250.0,2025-07-23 11:00:34.263057
 2025-07-23,169959,2025072304000117,SHL,Himalayan Brokerage Company Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,200,615.0,123000.0,2025-07-23 11:00:38.842513
 2025-07-23,169597,2025072304000248,SHL,Himalayan Brokerage Company Limited,Vision Securities Pvt. Ltd,100,615.0,61500.0,2025-07-23 11:01:14.996913

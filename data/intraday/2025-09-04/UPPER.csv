@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68568,2025090404000145,UPPER,Nepal Investment And Securities Trading Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,262,190.0,49780.0,2025-09-04T11:03:22.123977
 2025-09-04,68084,2025090404000333,UPPER,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,50,191.0,9550.0,2025-09-04T11:05:54.382926
 2025-09-04,68083,2025090404000334,UPPER,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,1000,191.5,191500.0,2025-09-04T11:05:54.383038

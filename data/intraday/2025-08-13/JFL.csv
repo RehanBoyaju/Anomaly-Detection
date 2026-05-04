@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,66124,2025081303000507,JFL,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,50,487.0,24350.0,2025-08-13 11:20:06.669171
 2025-08-13,66123,2025081303000508,JFL,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,50,487.0,24350.0,2025-08-13 11:20:06.669301
 2025-08-13,64208,2025081303000818,JFL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,45,487.0,21915.0,2025-08-13 11:27:18.878816

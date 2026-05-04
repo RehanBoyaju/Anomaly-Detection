@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55712,2025070803000083,MNBBL,Naasa Securities Co. Ltd.,Global IME Securities Limited,13,379.0,4927.0,2025-07-08 11:03:48.419955
 2025-07-08,55208,2025070803000155,MNBBL,Sri Hari Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,10,378.8,3788.0,2025-07-08 11:06:34.877454
 2025-07-08,53694,2025070803000392,MNBBL,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,17,375.0,6375.0,2025-07-08 11:14:54.005213

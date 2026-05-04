@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,56564,2025090704000423,API,Neev Securities Pvt. Ltd.,Sunrise Securities Limited,14,288.3,4036.2,2025-09-07 11:10:27.849615
 2025-09-07,56086,2025090704000513,API,Online Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,77,288.5,22214.5,2025-09-07 11:13:40.661537
 2025-09-07,55956,2025090704000529,API,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2,290.0,580.0,2025-09-07 11:14:32.586856

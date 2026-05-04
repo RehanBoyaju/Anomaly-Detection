@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78202,2025081205000008,SAHAS,Sri Hari Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,667.9,6679.0,2025-08-12 10:46:00.032999
 2025-08-12,77919,2025081205000190,SAHAS,ABC Securities Private Limited,Nepal Investment And Securities Trading Private Limited,20,681.0,13620.0,2025-08-12 11:01:17.845006
 2025-08-12,77872,2025081205000224,SAHAS,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,680.3,6803.0,2025-08-12 11:01:28.229775

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105354,2025071303000020,NABBC,INDEX SECURITIES LIMITED,INDEX SECURITIES LIMITED,10,1644.8,16448.0,2025-07-13T10:46:00.018937
 2025-07-13,104160,2025071303000346,NABBC,Sipla Securities Private Limited,Miyo Securities Pvt Ltd,10,1709.5,17095.0,2025-07-13T11:00:52.506768
 2025-07-13,104159,2025071303000347,NABBC,Sipla Securities Private Limited,Naasa Securities Co. Ltd.,190,1710.0,324900.0,2025-07-13T11:00:52.506811

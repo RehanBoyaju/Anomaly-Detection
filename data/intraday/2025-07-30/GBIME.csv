@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141441,2025073001000007,GBIME,Trishakti Securities Public Limited,ABC Securities Private Limited,100,276.0,27600.0,2025-07-30 10:46:00.069009
 2025-07-30,141274,2025073001000111,GBIME,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,400,272.0,108800.0,2025-07-30 11:00:43.869266
 2025-07-30,141241,2025073001000119,GBIME,Vision Securities Pvt. Ltd,Malla & Malla Stock Broking Company Pvt. Limited,12,275.0,3300.0,2025-07-30 11:00:49.110533

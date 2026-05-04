@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,91216,2025080604000263,KPCL,Agrawal Securities (PVT) Ltd.,Kalika Securities Pvt. Ltd.,137,627.0,85899.0,2025-08-06 11:06:02.881820
 2025-08-06,91157,2025080604000284,KPCL,Agrawal Securities (PVT) Ltd.,Prabhu Stock Market Limited,1000,627.0,627000.0,2025-08-06 11:06:14.210805
 2025-08-06,91086,2025080604000306,KPCL,Agrawal Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,200,627.0,125400.0,2025-08-06 11:06:23.071516

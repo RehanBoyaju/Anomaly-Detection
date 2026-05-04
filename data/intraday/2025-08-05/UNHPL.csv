@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,125528,2025080504000153,UNHPL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,396.0,118800.0,2025-08-05 11:03:42.842083
 2025-08-05,122147,2025080504000321,UNHPL,Trishakti Securities Public Limited,Beni Securities Pvt.Ltd.,250,392.0,98000.0,2025-08-05 11:06:33.604244
 2025-08-05,121476,2025080504000351,UNHPL,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,200,397.0,79400.0,2025-08-05 11:07:12.098812

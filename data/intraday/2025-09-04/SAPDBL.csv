@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68950,2025090403000005,SAPDBL,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,795.0,7950.0,2025-09-04T11:00:21.226102
 2025-09-04,67607,2025090403000114,SAPDBL,Citizens Share Broker Limited,Creative Securities Pvt Ltd,68,805.1,54746.8,2025-09-04T11:07:50.723209
 2025-09-04,67543,2025090403000122,SAPDBL,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,820.0,8200.0,2025-09-04T11:08:09.284219

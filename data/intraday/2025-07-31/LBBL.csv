@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167934,2025073103000151,LBBL,SHUBHAKAMANA SECURITIES PVT. LTD,Agrawal Securities (PVT) Ltd.,100,617.0,61700.0,2025-07-31 11:01:50.113998
 2025-07-31,167724,2025073103000200,LBBL,SHUBHAKAMANA SECURITIES PVT. LTD,ABC Securities Private Limited,124,620.0,76880.0,2025-07-31 11:02:18.190942
 2025-07-31,167579,2025073103000233,LBBL,Neev Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,300,624.0,187200.0,2025-07-31 11:02:38.483937

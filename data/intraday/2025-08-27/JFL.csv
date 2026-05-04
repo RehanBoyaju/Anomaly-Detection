@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,69786,2025082703000369,JFL,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,20,465.0,9300.0,2025-08-27T11:18:45.621954
 2025-08-27,68047,2025082703000572,JFL,Shree Krishna Securities Ltd.,Linch Stock Market Ltd.,110,466.0,51260.0,2025-08-27T11:26:22.681238
 2025-08-27,66978,2025082703000753,JFL,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,64,466.0,29824.0,2025-08-27T11:30:54.047931

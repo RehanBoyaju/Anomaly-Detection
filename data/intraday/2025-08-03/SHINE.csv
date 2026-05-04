@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,148967,2025080303000473,SHINE,Himalayan Brokerage Company Limited,Kohinoor Investment & Securities Pvt. Ltd.,10,460.0,4600.0,2025-08-03T11:05:44.77913
 2025-08-03,146774,2025080303000774,SHINE,Sumeru Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,3,451.0,1353.0,2025-08-03T11:09:07.139622
 2025-08-03,145378,2025080303000961,SHINE,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,40,457.0,18280.0,2025-08-03T11:10:59.046799

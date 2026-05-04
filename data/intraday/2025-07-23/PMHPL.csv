@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169468,2025072304000287,PMHPL,Secured Securities Ltd.,Nepal Stock House (PVT) Ltd.,25,398.0,9950.0,2025-07-23 11:01:28.314769
 2025-07-23,168947,2025072304000446,PMHPL,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,10,393.1,3931.0,2025-07-23 11:02:12.965780
 2025-07-23,168211,2025072304000701,PMHPL,Blue Chip Securities Ltd,Nepal Stock House (PVT) Ltd.,10,398.0,3980.0,2025-07-23 11:03:14.091245

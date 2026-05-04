@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55982,2025082504000058,NHDL,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,100,710.0,71000.0,2025-08-25 11:05:28.470382
 2025-08-25,53998,2025082504000287,NHDL,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,11,717.0,7887.0,2025-08-25 11:15:25.962115
 2025-08-25,52218,2025082504000623,NHDL,Naasa Securities Co. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,12,711.5,8538.0,2025-08-25 11:23:41.878845

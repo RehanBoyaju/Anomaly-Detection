@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72311,2025082703000036,ALICL,Sagarmatha Securities Private Limited,Capital Hub P. Ltd,10,487.0,4870.0,2025-08-27T11:02:13.044138
 2025-08-27,69618,2025082703000388,ALICL,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,95,490.0,46550.0,2025-08-27T11:19:33.360531
 2025-08-27,69048,2025082703000445,ALICL,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,200,490.0,98000.0,2025-08-27T11:21:55.588647

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149194,2025080404000046,SHEL,Nepal Investment And Securities Trading Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,318.5,95550.0,2025-08-04 10:46:00.059692
 2025-08-04,149193,2025080404000047,SHEL,Nepal Investment And Securities Trading Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,200,318.5,63700.0,2025-08-04 10:46:00.059719
 2025-08-04,149192,2025080404000048,SHEL,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,318.5,6370.0,2025-08-04 10:46:00.059740

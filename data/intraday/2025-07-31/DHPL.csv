@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168181,2025073104000091,DHPL,Dakshinkali Investment & Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,10,326.5,3265.0,2025-07-31 11:01:14.658275
 2025-07-31,166434,2025073104000393,DHPL,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,333.0,3330.0,2025-07-31 11:04:48.068204
 2025-07-31,166358,2025073104000407,DHPL,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,10,339.2,3392.0,2025-07-31 11:04:58.096651

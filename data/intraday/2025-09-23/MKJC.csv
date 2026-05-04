@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,63992,2025092305001104,MKJC,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,572.0,57200.0,2025-09-23 11:10:47.886508
 2025-09-23,63336,2025092305001312,MKJC,Sani Securities Company Ltd.,R.B.B. Securities Company Ltd,50,579.0,28950.0,2025-09-23 11:12:58.353771
 2025-09-23,59878,2025092305002365,MKJC,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,10,572.2,5722.0,2025-09-23 11:24:15.248726

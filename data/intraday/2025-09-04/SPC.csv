@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,66007,2025090405000698,SPC,Malla & Malla Stock Broking Company Pvt. Limited,Trademow Securities Private Limited,60,496.2,29772.0,2025-09-04T11:14:16.269331
 2025-09-04,66006,2025090405000699,SPC,Sani Securities Company Ltd.,Trademow Securities Private Limited,300,496.1,148830.0,2025-09-04T11:14:16.269388
 2025-09-04,66005,2025090405000700,SPC,Opal Securities Investment (PVT) Ltd.,Trademow Securities Private Limited,50,496.0,24800.0,2025-09-04T11:14:16.26943

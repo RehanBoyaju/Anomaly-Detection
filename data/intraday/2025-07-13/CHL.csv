@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105081,2025071304000100,CHL,Sri Hari Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,15,333.3,4999.5,2025-07-13T10:46:00.073047
 2025-07-13,104574,2025071304000237,CHL,Sri Hari Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,333.4,3334.0,2025-07-13T11:00:17.869992
 2025-07-13,104374,2025071304000296,CHL,Sri Hari Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,900,333.4,300060.0,2025-07-13T11:00:38.046173

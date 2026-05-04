@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58062,2025090704000005,UMHL,Citizens Share Broker Limited,Capital Max Securities Ltd,300,570.0,171000.0,2025-09-07 10:46:00.023385
 2025-09-07,58061,2025090704000006,UMHL,Citizens Share Broker Limited,Capital Max Securities Ltd,300,570.0,171000.0,2025-09-07 10:46:00.023414
 2025-09-07,58060,2025090704000007,UMHL,Citizens Share Broker Limited,Capital Max Securities Ltd,500,570.0,285000.0,2025-09-07 10:46:00.023440

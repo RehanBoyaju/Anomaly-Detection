@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108502,2025092104000120,DHPL,Vision Securities Pvt. Ltd,Secured Securities Ltd.,100,272.5,27250.0,2025-09-21 10:46:00.046191
 2025-09-21,107678,2025092104000309,DHPL,Vision Securities Pvt. Ltd,SUN SECURITIES PVT LTD,435,272.5,118537.5,2025-09-21 11:00:43.236416
 2025-09-21,105491,2025092104000760,DHPL,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,300,273.0,81900.0,2025-09-21 11:02:40.568657

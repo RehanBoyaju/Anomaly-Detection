@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104465,2025071304000270,SHL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,572.6,57260.0,2025-07-13T11:00:30.166416
 2025-07-13,104455,2025071304000273,SHL,Premier Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,572.6,114520.0,2025-07-13T11:00:31.631377
 2025-07-13,104240,2025071304000322,SHL,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,200,575.0,115000.0,2025-07-13T11:00:47.107594

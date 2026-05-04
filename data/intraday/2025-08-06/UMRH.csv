@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,88670,2025080604000624,UMRH,Infinity Securities Limited,Midas Stock Broking Company Private Limited,100,617.0,61700.0,2025-08-06 11:12:01.787300
 2025-08-06,88669,2025080604000625,UMRH,Infinity Securities Limited,Asian Securities Private Ltd.,509,617.0,314053.0,2025-08-06 11:12:01.787370
 2025-08-06,86062,2025080604001016,UMRH,Infinity Securities Limited,Arun Securities (PVT) Ltd.,10,614.0,6140.0,2025-08-06 11:18:22.115449

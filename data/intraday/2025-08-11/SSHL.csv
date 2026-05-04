@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98124,2025081104000069,SSHL,Sani Securities Company Ltd.,Opal Securities Investment (PVT) Ltd.,100,202.0,20200.0,2025-08-11 11:01:26.554221
 2025-08-11,98113,2025081104000071,SSHL,Sani Securities Company Ltd.,Sani Securities Company Ltd.,395,202.0,79790.0,2025-08-11 11:01:28.870170
 2025-08-11,98112,2025081104000072,SSHL,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,20,202.0,4040.0,2025-08-11 11:01:28.870272

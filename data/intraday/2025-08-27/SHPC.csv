@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72510,2025082704000005,SHPC,K.B.L. Securities Limited ,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,570.2,5702.0,2025-08-27T10:46:00.028527
 2025-08-27,72205,2025082704000041,SHPC,Kumari Securities Private Limited,Sumeru Securities Pvt. Ltd.,500,559.0,279500.0,2025-08-27T11:03:15.132205
 2025-08-27,72187,2025082704000046,SHPC,Kumari Securities Private Limited,Sumeru Securities Pvt. Ltd.,500,559.0,279500.0,2025-08-27T11:03:27.668393

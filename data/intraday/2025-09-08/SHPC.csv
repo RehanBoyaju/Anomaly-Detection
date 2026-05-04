@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59684,2025090804000003,SHPC,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,10,551.9,5519.0,2025-09-08 10:46:00.031047
 2025-09-08,59390,2025090804000128,SHPC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Capital Max Securities Ltd,70,541.0,37870.0,2025-09-08 11:03:05.570936
 2025-09-08,59218,2025090804000175,SHPC,Opal Securities Investment (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,150,542.0,81300.0,2025-09-08 11:04:48.775970

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,58006,2025090804000563,HPPL,Opal Securities Investment (PVT) Ltd.,Secured Securities Ltd.,15,475.1,7126.5,2025-09-08 11:13:14.535737
 2025-09-08,57822,2025090804000605,HPPL,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,50,475.1,23755.0,2025-09-08 11:14:44.096388
 2025-09-08,57445,2025090804000728,HPPL,Dakshinkali Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,20,475.6,9512.0,2025-09-08 11:17:25.429005

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CREST,58,91,505,1194.7,603323.5,2026-04-28 14:59:55.965,2026042801110875
 CREST,58,45,10,1190.0,11900.0,2026-04-28 14:59:55.965,2026042801110874
 CREST,58,74,10,1190.0,11900.0,2026-04-28 14:59:55.965,2026042801110873

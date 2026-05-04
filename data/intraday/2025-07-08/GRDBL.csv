@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56219,2025070803000009,GRDBL,Oxford Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,1358.0,13580.0,2025-07-08 10:46:00.059937
 2025-07-08,56153,2025070803000028,GRDBL,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,20,1330.9,26618.0,2025-07-08 11:00:43.088943
 2025-07-08,56127,2025070803000031,GRDBL,Prabhu Stock Market Limited,South Asian Bulls Pvt. Ltd.,100,1330.0,133000.0,2025-07-08 11:00:55.176765

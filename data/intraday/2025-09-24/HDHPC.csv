@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47822,2025092404000015,HDHPC,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,191.0,1910.0,2025-09-24 10:46:00.042124
 2025-09-24,47821,2025092404000016,HDHPC,Online Securities Pvt. Ltd.,Citizens Share Broker Limited,90,191.0,17190.0,2025-09-24 10:46:00.042163
 2025-09-24,47736,2025092404000055,HDHPC,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,500,191.0,95500.0,2025-09-24 11:00:36.031696

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69976,2025081305000027,NYADI,Himalayan Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,432.0,4320.0,2025-08-13 11:00:20.934719
 2025-08-13,68017,2025081305000634,NYADI,Deevyaa Securities & Stock House Pvt. Ltd,INDEX SECURITIES LIMITED,10,424.0,4240.0,2025-08-13 11:11:36.716839
 2025-08-13,67952,2025081305000653,NYADI,Dakshinkali Investment & Securities Pvt. Ltd.,INDEX SECURITIES LIMITED,10,417.0,4170.0,2025-08-13 11:11:52.761959

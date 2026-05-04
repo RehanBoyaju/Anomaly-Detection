@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,66323,2025092301000148,SBL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,366.0,109800.0,2025-09-23 11:03:55.457889
 2025-09-23,66300,2025092301000159,SBL,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,366.0,3660.0,2025-09-23 11:03:58.177868
 2025-09-23,59151,2025092301001790,SBL,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,500,364.9,182450.0,2025-09-23 11:26:31.190731

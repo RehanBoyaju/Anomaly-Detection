@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,38907,2025082004003843,TRH,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,10,948.0,9480.0,2025-08-20 12:25:40.486150
 2025-08-20,37175,2025082004004277,TRH,Kohinoor Investment & Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,954.0,9540.0,2025-08-20 12:35:41.513628
 2025-08-20,36643,2025082004004468,TRH,Kohinoor Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,11,955.0,10505.0,2025-08-20 12:37:39.826917

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105358,2025071305000007,HIDCL,Creative Securities Pvt Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,302.5,90750.0,2025-07-13T10:46:00.018002
 2025-07-13,105357,2025071305000008,HIDCL,Creative Securities Pvt Ltd,J.F. Securites (PVT) Ltd.,10,302.5,3025.0,2025-07-13T10:46:00.018034
 2025-07-13,105356,2025071305000009,HIDCL,Creative Securities Pvt Ltd,Opal Securities Investment (PVT) Ltd.,190,302.5,57475.0,2025-07-13T10:46:00.018052

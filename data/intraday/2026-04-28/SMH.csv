@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SMH,18,48,186,568.0,105648.0,2026-04-28 14:59:53.407,2026042805016436
 SMH,45,48,50,569.0,28450.0,2026-04-28 14:59:53.407,2026042805016435
 SMH,7,48,175,569.0,99575.0,2026-04-28 14:59:53.407,2026042805016434

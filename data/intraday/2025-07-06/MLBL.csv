@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86531,2025070603000345,MLBL,SHUBHAKAMANA SECURITIES PVT. LTD,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,402.0,80400.0,2025-07-06 11:03:36.690964
 2025-07-06,85633,2025070603000646,MLBL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,33,399.0,13167.0,2025-07-06 11:06:44.099054
 2025-07-06,84616,2025070603000901,MLBL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,397.1,3971.0,2025-07-06 11:09:47.711229

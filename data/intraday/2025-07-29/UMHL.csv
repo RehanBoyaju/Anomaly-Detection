@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157486,2025072904000008,UMHL,Premier Securities Company Ltd.,Capital Max Securities Ltd,10,540.0,5400.0,2025-07-29 10:46:00.037588
 2025-07-29,157485,2025072904000009,UMHL,Premier Securities Company Ltd.,Capital Max Securities Ltd,10,540.0,5400.0,2025-07-29 10:46:00.037629
 2025-07-29,156092,2025072904000226,UMHL,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,550.8,55080.0,2025-07-29 11:03:28.540571

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,45849,2025092404000618,KKHC,Sewa Securities Pvt. Ltd.,Capital Max Securities Ltd,500,245.0,122500.0,2025-09-24 11:10:02.457653
 2025-09-24,45848,2025092404000619,KKHC,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,50,244.0,12200.0,2025-09-24 11:10:02.457754
 2025-09-24,45847,2025092404000620,KKHC,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,100,243.0,24300.0,2025-09-24 11:10:02.457832

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78329,2025082804000020,GLH,Kalika Securities Pvt. Ltd.,Sweta Securities Private Limited,500,272.0,136000.0,2025-08-28 10:46:00.068466
 2025-08-28,78167,2025082804000078,GLH,Midas Stock Broking Company Private Limited,Sweta Securities Private Limited,120,272.0,32640.0,2025-08-28 11:01:12.131861
 2025-08-28,76998,2025082804000467,GLH,Naasa Securities Co. Ltd.,Secured Securities Ltd.,50,270.0,13500.0,2025-08-28 11:06:10.366268

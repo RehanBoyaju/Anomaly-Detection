@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89372,2025090201000357,NMB,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,258.5,2585.0,2025-09-02 10:46:00.139825
 2025-09-02,88431,2025090201001224,NMB,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,100,254.3,25430.0,2025-09-02 11:01:35.248167
 2025-09-02,85994,2025090201003301,NMB,S.P.S.A. Securities Limited,Creative Securities Pvt Ltd,400,253.5,101400.0,2025-09-02 11:05:11.672665

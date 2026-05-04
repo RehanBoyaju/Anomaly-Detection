@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104783,2025071303000174,SAPDBL,Hatemalo Financial Services Private Limited,NIMB Stock Markets Limited,10,1095.0,10950.0,2025-07-13T10:46:00.152898
 2025-07-13,104782,2025071303000175,SAPDBL,Sri Hari Securities Pvt. Ltd.,NIMB Stock Markets Limited,300,1095.0,328500.0,2025-07-13T10:46:00.152937
 2025-07-13,104781,2025071303000176,SAPDBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,NIMB Stock Markets Limited,100,1095.0,109500.0,2025-07-13T10:46:00.15297

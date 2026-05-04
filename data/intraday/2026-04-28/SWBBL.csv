@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SWBBL,44,48,10,729.0,7290.0,2026-04-28 14:54:22.350,2026042803007708
 SWBBL,45,39,50,724.0,36200.0,2026-04-28 14:53:20.258,2026042803007627
 SWBBL,45,39,200,724.0,144800.0,2026-04-28 14:53:20.258,2026042803007626

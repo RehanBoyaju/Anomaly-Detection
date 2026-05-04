@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44880,2025082601000030,NICA,Secured Securities Ltd.,Nepal Stock House (PVT) Ltd.,30,349.9,10497.0,2025-08-26 11:02:53.698166
 2025-08-26,44665,2025082601000070,NICA,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,500,347.8,173900.0,2025-08-26 11:05:33.773141
 2025-08-26,44664,2025082601000071,NICA,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,273,347.9,94976.7,2025-08-26 11:05:33.773232

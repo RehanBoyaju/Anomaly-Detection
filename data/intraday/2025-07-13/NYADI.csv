@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104750,2025071301000166,NYADI,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,10,490.9,4909.0,2025-07-13T10:46:00.209738
 2025-07-13,104749,2025071301000167,NYADI,Vision Securities Pvt. Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,40,490.9,19636.0,2025-07-13T10:46:00.20978
 2025-07-13,104748,2025071301000168,NYADI,K.B.L. Securities Limited ,MILKY WAY SHARE BROKER COMPANY LTD ,10,490.9,4909.0,2025-07-13T10:46:00.209815

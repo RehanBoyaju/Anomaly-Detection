@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68535,2025090301000032,SANIMA,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,381.1,3811.0,2025-09-03 10:46:00.038594
 2025-09-03,68072,2025090301000335,SANIMA,Dynamic Money Managers Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,10,375.8,3758.0,2025-09-03 11:02:46.725493
 2025-09-03,68012,2025090301000368,SANIMA,Sharepro Securities Private Limited,Imperial Securities Company Pvt. Ltd.,20,373.5,7470.0,2025-09-03 11:03:09.235407

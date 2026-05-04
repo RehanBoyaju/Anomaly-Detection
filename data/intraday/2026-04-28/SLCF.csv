@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SLCF,4,35,1000,9.75,9750.0,2026-04-28 14:32:12.487,2026042805012441
 SLCF,4,4,100,9.75,975.0,2026-04-28 14:29:31.343,2026042805012242
 SLCF,4,48,2150,9.75,20962.5,2026-04-28 14:25:17.842,2026042805011976

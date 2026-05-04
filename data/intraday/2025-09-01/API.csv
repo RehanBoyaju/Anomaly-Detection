@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68545,2025090104000029,API,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,10,296.0,2960.0,2025-09-01 11:01:01.259771
 2025-09-01,68325,2025090104000038,API,Sipla Securities Private Limited,Trishakti Securities Public Limited,1300,294.9,383370.0,2025-09-01 11:01:55.657495
 2025-09-01,67765,2025090104000086,API,Capital Max Securities Ltd,Miyo Securities Pvt Ltd,1200,293.8,352560.0,2025-09-01 11:03:53.160243

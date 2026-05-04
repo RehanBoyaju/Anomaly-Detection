@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141498,2025073005000019,NRN,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,50,2280.8,114040.0,2025-07-30 10:46:00.021820
 2025-07-30,141497,2025073005000020,NRN,Bhrikuti Stock Broking Co. Pvt. Ltd.,J.F. Securites (PVT) Ltd.,500,2280.8,1140400.0,2025-07-30 10:46:00.021859
 2025-07-30,141495,2025073005000021,NRN,Aakashbhairab Securities Ltd.,J.F. Securites (PVT) Ltd.,150,2280.8,342120.0,2025-07-30 10:46:00.021891

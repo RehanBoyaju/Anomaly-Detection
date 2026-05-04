@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86678,2025070603000287,GUFL,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,10,565.0,5650.0,2025-07-06 11:03:07.215563
 2025-07-06,86639,2025070603000303,GUFL,Online Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,40,565.0,22600.0,2025-07-06 11:03:13.929150
 2025-07-06,86518,2025070603000350,GUFL,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,50,565.0,28250.0,2025-07-06 11:03:41.398541

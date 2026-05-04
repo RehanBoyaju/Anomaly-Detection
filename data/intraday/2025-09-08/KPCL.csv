@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59653,2025090804000029,KPCL,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,11,545.3,5998.3,2025-09-08 10:46:00.044179
 2025-09-08,59120,2025090804000201,KPCL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,15,555.0,8325.0,2025-09-08 11:05:44.380890
 2025-09-08,59074,2025090804000213,KPCL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,555.0,5550.0,2025-09-08 11:06:24.577795

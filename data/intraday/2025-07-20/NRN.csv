@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177796,2025072005000068,NRN,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,100,2380.6,238060.0,2025-07-20T11:00:39.215546
 2025-07-20,177645,2025072005000098,NRN,Imperial Securities Company Pvt. Ltd.,Himalayan Brokerage Company Limited,100,2380.6,238060.0,2025-07-20T11:01:00.767906
 2025-07-20,177388,2025072005000139,NRN,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,10,2381.0,23810.0,2025-07-20T11:01:28.436697

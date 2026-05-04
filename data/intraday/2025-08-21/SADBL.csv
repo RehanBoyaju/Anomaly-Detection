@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56734,2025082103000017,SADBL,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,10,431.1,4311.0,2025-08-21 11:01:02.238052
 2025-08-21,56222,2025082103000086,SADBL,Secured Securities Ltd.,Opal Securities Investment (PVT) Ltd.,10,439.0,4390.0,2025-08-21 11:06:18.991968
 2025-08-21,55873,2025082103000142,SADBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,20,434.0,8680.0,2025-08-21 11:09:43.864073

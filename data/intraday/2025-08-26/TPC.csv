@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,43568,2025082605000581,TPC,Trishakti Securities Public Limited,Linch Stock Market Ltd.,10,356.5,3565.0,2025-08-26 11:14:32.683815
 2025-08-26,42617,2025082605000900,TPC,Kohinoor Investment & Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,100,363.0,36300.0,2025-08-26 11:21:20.362814
 2025-08-26,41089,2025082605001447,TPC,Sundhara Securities Limited,Sundhara Securities Limited,18,360.0,6480.0,2025-08-26 11:32:08.464065

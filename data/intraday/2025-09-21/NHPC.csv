@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108831,2025092104000018,NHPC,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,10,179.0,1790.0,2025-09-21 10:46:00.013573
 2025-09-21,108830,2025092104000019,NHPC,Premier Securities Company Ltd.,Aryatara Investment & Securities,70,179.0,12530.0,2025-09-21 10:46:00.013633
 2025-09-21,107944,2025092104000239,NHPC,Premier Securities Company Ltd.,Aryatara Investment & Securities,232,179.0,41528.0,2025-09-21 11:00:24.908813

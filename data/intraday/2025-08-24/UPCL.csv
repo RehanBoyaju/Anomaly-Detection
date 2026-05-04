@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,58015,2025082404000004,UPCL,Vision Securities Pvt. Ltd,Sundhara Securities Limited,10,381.4,3814.0,2025-08-24 10:46:00.044107
 2025-08-24,57599,2025082404000062,UPCL,Premier Securities Company Ltd.,Shree Krishna Securities Ltd.,50,389.0,19450.0,2025-08-24 11:03:51.731159
 2025-08-24,57274,2025082404000097,UPCL,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,100,396.7,39670.0,2025-08-24 11:05:34.223471

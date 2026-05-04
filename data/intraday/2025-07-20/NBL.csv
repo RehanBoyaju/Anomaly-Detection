@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177953,2025072001000019,NBL,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,210,305.6,64176.0,2025-07-20T10:46:00.246959
 2025-07-20,177807,2025072001000076,NBL,Sumeru Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,500,302.9,151450.0,2025-07-20T11:00:37.308771
 2025-07-20,177778,2025072001000082,NBL,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,500,303.0,151500.0,2025-07-20T11:00:42.812124

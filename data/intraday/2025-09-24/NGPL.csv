@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47364,2025092404000145,NGPL,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,200,394.0,78800.0,2025-09-24 11:02:39.629618
 2025-09-24,46619,2025092404000360,NGPL,Malla & Malla Stock Broking Company Pvt. Limited,Nagarik Stock Dealer ,100,391.2,39120.0,2025-09-24 11:06:35.915378
 2025-09-24,46618,2025092404000361,NGPL,Opal Securities Investment (PVT) Ltd.,Nagarik Stock Dealer ,100,391.1,39110.0,2025-09-24 11:06:35.915484

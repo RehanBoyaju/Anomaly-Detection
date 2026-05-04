@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,67725,2025090103000068,SADBL,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,50,425.0,21250.0,2025-09-01 11:04:03.222735
 2025-09-01,66460,2025090103000184,SADBL,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,50,422.0,21100.0,2025-09-01 11:08:31.336210
 2025-09-01,65421,2025090103000273,SADBL,Nepal Stock House (PVT) Ltd.,Himalayan Brokerage Company Limited,50,420.6,21030.0,2025-09-01 11:12:06.491891

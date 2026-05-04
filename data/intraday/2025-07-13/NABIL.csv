@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105407,2025071301000001,NABIL,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,10,521.3,5213.0,2025-07-13T10:46:00.007242
 2025-07-13,105406,2025071301000002,NABIL,Aryatara Investment & Securities,Oxford Securities Pvt. Ltd.,50,521.3,26065.0,2025-07-13T10:46:00.007324
 2025-07-13,105405,2025071301000003,NABIL,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,50,521.3,26065.0,2025-07-13T10:46:00.007345

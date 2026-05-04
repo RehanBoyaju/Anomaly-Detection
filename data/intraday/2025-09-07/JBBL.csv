@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57078,2025090703000078,JBBL,Capital Max Securities Ltd,Sunrise Securities Limited,12,326.0,3912.0,2025-09-07 11:07:20.162434
 2025-09-07,56502,2025090703000121,JBBL,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,10,328.0,3280.0,2025-09-07 11:10:51.824282
 2025-09-07,54658,2025090703000292,JBBL,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,38,326.0,12388.0,2025-09-07 11:21:24.092103

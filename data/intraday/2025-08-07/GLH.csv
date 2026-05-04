@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94655,2025080704000123,GLH,Sundhara Securities Limited,Linch Stock Market Ltd.,10,272.0,2720.0,2025-08-07 11:03:57.672832
 2025-08-07,93394,2025080704000316,GLH,Dynamic Money Managers Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,100,272.0,27200.0,2025-08-07 11:08:27.982611
 2025-08-07,90232,2025080704000903,GLH,Malla & Malla Stock Broking Company Pvt. Limited,Sri Hari Securities Pvt. Ltd.,1200,273.0,327600.0,2025-08-07 11:18:15.152414

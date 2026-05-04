@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157491,2025072903000005,MDB,Sani Securities Company Ltd.,Sani Securities Company Ltd.,100,729.7,72970.0,2025-07-29 10:46:00.033707
 2025-07-29,157091,2025072903000059,MDB,Bhrikuti Stock Broking Co. Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,717.2,7172.0,2025-07-29 11:01:23.653971
 2025-07-29,155711,2025072903000322,MDB,Bhrikuti Stock Broking Co. Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,190,720.2,136838.0,2025-07-29 11:04:11.030498

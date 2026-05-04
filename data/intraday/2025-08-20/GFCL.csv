@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,51582,2025082003000248,GFCL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,635.7,6357.0,2025-08-20 11:17:14.426037
 2025-08-20,49018,2025082003000505,GFCL,Imperial Securities Company Pvt. Ltd.,Sundhara Securities Limited,10,638.0,6380.0,2025-08-20 11:31:45.896712
 2025-08-20,47300,2025082003000720,GFCL,Ashutosh Brokerage & Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,10,645.0,6450.0,2025-08-20 11:40:52.660007

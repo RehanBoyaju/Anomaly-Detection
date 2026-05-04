@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138825,2025072105000001,HIDCL,Arun Securities (PVT) Ltd.,Roadshow securities limited,10,301.2,3012.0,2025-07-21 10:46:00.012664
 2025-07-21,138824,2025072105000002,HIDCL,Arun Securities (PVT) Ltd.,Aryatara Investment & Securities,20,301.2,6024.0,2025-07-21 10:46:00.012702
 2025-07-21,138580,2025072105000022,HIDCL,Secured Securities Ltd.,Aryatara Investment & Securities,100,307.0,30700.0,2025-07-21 11:00:38.172330

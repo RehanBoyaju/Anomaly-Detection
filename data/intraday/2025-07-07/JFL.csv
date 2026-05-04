@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71128,2025070703000064,JFL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,60,519.0,31140.0,2025-07-07 11:00:42.025690
 2025-07-07,71114,2025070703000068,JFL,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,15,519.0,7785.0,2025-07-07 11:00:48.506503
 2025-07-07,71113,2025070703000069,JFL,Global IME Securities Limited,Online Securities Pvt. Ltd.,50,518.0,25900.0,2025-07-07 11:00:48.506612

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BUNGAL,58,33,10,594.0,5940.0,2026-04-28 14:59:52.377,2026042801110665
 BUNGAL,58,33,80,587.0,46960.0,2026-04-28 14:59:52.377,2026042801110664
 BUNGAL,58,58,10,585.0,5850.0,2026-04-28 14:59:52.377,2026042801110663

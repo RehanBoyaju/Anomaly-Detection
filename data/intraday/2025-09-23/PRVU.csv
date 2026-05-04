@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,66836,2025092301000061,PRVU,Agrawal Securities (PVT) Ltd.,Elite Stock House Limited,100,206.8,20680.0,2025-09-23 11:02:26.129243
 2025-09-23,66725,2025092301000080,PRVU,Naasa Securities Co. Ltd.,Elite Stock House Limited,54,206.8,11167.2,2025-09-23 11:02:47.564683
 2025-09-23,66530,2025092301000110,PRVU,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,800,208.0,166400.0,2025-09-23 11:03:21.513249

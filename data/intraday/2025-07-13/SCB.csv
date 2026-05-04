@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105346,2025071301000017,SCB,ABC Securities Private Limited,Trisul Securities & Invt. Ltd.,10,642.5,6425.0,2025-07-13T10:46:00.020888
 2025-07-13,103439,2025071301000763,SCB,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,10,655.3,6553.0,2025-07-13T11:01:27.261132
 2025-07-13,102106,2025071301001399,SCB,Linch Stock Market Ltd.,Kumari Securities Private Limited,60,665.0,39900.0,2025-07-13T11:02:25.18504

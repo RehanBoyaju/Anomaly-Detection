@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99184,2025071603000034,GUFL,J.F. Securites (PVT) Ltd.,Prabhu Stock Market Limited,10,589.0,5890.0,2025-07-16 11:01:32.211948
 2025-07-16,90901,2025071603001685,GUFL,Shree Krishna Securities Ltd.,Siprabi Securities Pvt. Ltd.,200,582.0,116400.0,2025-07-16 11:25:30.833754
 2025-07-16,90605,2025071603001728,GUFL,Asian Securities Private Ltd.,Thrive Brokerage House Pvt. Ltd,30,581.1,17433.0,2025-07-16 11:26:22.597837

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67725,2025090403000099,LICN,Online Securities Pvt. Ltd.,Infinity Securities Limited,10,855.1,8551.0,2025-09-04T11:07:08.830365
 2025-09-04,67724,2025090403000100,LICN,Premier Securities Company Ltd.,Infinity Securities Limited,50,855.0,42750.0,2025-09-04T11:07:08.830424
 2025-09-04,67573,2025090403000116,LICN,Naasa Securities Co. Ltd.,Infinity Securities Limited,10,855.0,8550.0,2025-09-04T11:07:59.283608

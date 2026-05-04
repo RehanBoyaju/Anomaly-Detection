@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75945,2025081404000117,MEN,Sundhara Securities Limited,Neev Securities Pvt. Ltd.,20,635.0,12700.0,2025-08-14 11:03:40.790323
 2025-08-14,75264,2025081404000210,MEN,Siprabi Securities Pvt. Ltd.,Indira securities pvt. ltd,10,626.0,6260.0,2025-08-14 11:07:26.526503
 2025-08-14,75255,2025081404000213,MEN,Dakshinkali Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,20,633.9,12678.0,2025-08-14 11:07:31.853629

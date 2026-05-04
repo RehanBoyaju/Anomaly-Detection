@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176988,2025072204000046,RURU,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,50,736.0,36800.0,2025-07-22 10:46:00.080217
 2025-07-22,173886,2025072204000732,RURU,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,50,750.7,37535.0,2025-07-22 11:06:46.047633
 2025-07-22,170556,2025072204001543,RURU,Opal Securities Investment (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,196,764.0,149744.0,2025-07-22 11:11:59.137545

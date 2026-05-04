@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141239,2025073004000046,AHPC,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,300,320.0,96000.0,2025-07-30 11:00:50.583254
 2025-07-30,141238,2025073004000047,AHPC,Sweta Securities Private Limited,Sewa Securities Pvt. Ltd.,100,320.0,32000.0,2025-07-30 11:00:50.583368
 2025-07-30,141176,2025073004000062,AHPC,Sweta Securities Private Limited,Sani Securities Company Ltd.,100,320.0,32000.0,2025-07-30 11:01:11.168501

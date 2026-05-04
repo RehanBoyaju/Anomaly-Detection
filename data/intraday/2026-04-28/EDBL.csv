@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 EDBL,41,57,45,576.0,25920.0,2026-04-28 14:59:50.865,2026042803008446
 EDBL,60,34,500,575.4,287700.0,2026-04-28 14:59:38.179,2026042803008396
 EDBL,60,28,200,575.4,115080.0,2026-04-28 14:57:53.458,2026042803008105

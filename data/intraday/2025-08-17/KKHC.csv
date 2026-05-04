@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,84410,2025081704000357,KKHC,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,20,271.0,5420.0,2025-08-17 11:06:55.880281
 2025-08-17,82668,2025081704000662,KKHC,Opal Securities Investment (PVT) Ltd.,Kumari Securities Private Limited,10,271.5,2715.0,2025-08-17 11:11:53.808182
 2025-08-17,80509,2025081704001116,KKHC,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,35,271.0,9485.0,2025-08-17 11:18:06.102185

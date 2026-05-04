@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47790,2025092404000023,AHPC,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,295.0,2950.0,2025-09-24 11:00:03.483985
 2025-09-24,47498,2025092404000107,AHPC,Imperial Securities Company Pvt. Ltd.,Sundhara Securities Limited,100,293.0,29300.0,2025-09-24 11:01:55.136844
 2025-09-24,47386,2025092404000139,AHPC,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,200,294.0,58800.0,2025-09-24 11:02:33.385502

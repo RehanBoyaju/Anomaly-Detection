@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88407,2025071004000069,CHCL,Kumari Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,275,526.0,144650.0,2025-07-10 11:01:16.697240
 2025-07-10,88079,2025071004000174,CHCL,Linch Stock Market Ltd.,Sani Securities Company Ltd.,10,525.1,5251.0,2025-07-10 11:03:02.149789
 2025-07-10,88078,2025071004000175,CHCL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,20,525.0,10500.0,2025-07-10 11:03:02.150000

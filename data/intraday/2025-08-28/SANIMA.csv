@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78303,2025082801000013,SANIMA,Kumari Securities Private Limited,Thrive Brokerage House Pvt. Ltd,25,369.9,9247.5,2025-08-28 10:46:00.241661
 2025-08-28,78118,2025082801000052,SANIMA,Global IME Securities Limited,Nepal Stock House (PVT) Ltd.,200,368.0,73600.0,2025-08-28 11:01:33.235488
 2025-08-28,78062,2025082801000069,SANIMA,Dakshinkali Investment & Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,1000,370.0,370000.0,2025-08-28 11:01:59.018125

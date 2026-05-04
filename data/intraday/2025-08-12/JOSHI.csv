@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78195,2025081204000013,JOSHI,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,100,320.0,32000.0,2025-08-12 10:46:00.040820
 2025-08-12,76418,2025081204000331,JOSHI,Naasa Securities Co. Ltd.,Roadshow securities limited,17,326.0,5542.0,2025-08-12 11:07:22.421826
 2025-08-12,74586,2025081204000815,JOSHI,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,322.1,6442.0,2025-08-12 11:14:13.192854

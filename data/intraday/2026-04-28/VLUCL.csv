@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 VLUCL,26,41,50,512.2,25610.000000000004,2026-04-28 14:59:49.084,2026042805016392
 VLUCL,57,41,10,512.3,5123.0,2026-04-28 14:59:49.084,2026042805016391
 VLUCL,35,41,20,512.4,10248.0,2026-04-28 14:59:49.084,2026042805016390

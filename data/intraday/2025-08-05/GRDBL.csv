@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,102446,2025080503001544,GRDBL,Premier Securities Company Ltd.,ABC Securities Private Limited,10,1285.0,12850.0,2025-08-05 11:31:34.868270
 2025-08-05,100069,2025080503001727,GRDBL,Nepal Stock House (PVT) Ltd.,Online Securities Pvt. Ltd.,35,1285.0,44975.0,2025-08-05 11:36:00.065367
 2025-08-05,98559,2025080503001833,GRDBL,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,65,1285.0,83525.0,2025-08-05 11:38:41.372969

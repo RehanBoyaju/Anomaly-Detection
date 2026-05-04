@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78336,2025082804000016,UPPER,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,199.2,1992.0,2025-08-28 10:46:00.050181
 2025-08-28,78294,2025082804000025,UPPER,Nepal Stock House (PVT) Ltd.,Sewa Securities Pvt. Ltd.,10,196.0,1960.0,2025-08-28 11:00:21.701737
 2025-08-28,78007,2025082804000111,UPPER,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,14,196.0,2744.0,2025-08-28 11:02:18.733475

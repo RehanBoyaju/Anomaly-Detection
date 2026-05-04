@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,71207,2025082703000169,GBBL,Capital Hub P. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,10,433.9,4339.0,2025-08-27T11:10:28.808243
 2025-08-27,70707,2025082703000221,GBBL,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,65,433.9,28203.5,2025-08-27T11:13:09.371622
 2025-08-27,70693,2025082703000223,GBBL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,50,433.9,21695.0,2025-08-27T11:13:15.971755

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151508,2025080305000113,NIFRA,ABC Securities Private Limited,Aryatara Investment & Securities,75,299.0,22425.0,2025-08-03T11:01:55.4696
 2025-08-03,151507,2025080305000114,NIFRA,ABC Securities Private Limited,Aryatara Investment & Securities,915,297.1,271846.5,2025-08-03T11:01:55.469676
 2025-08-03,151148,2025080305000140,NIFRA,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,165,299.1,49351.5,2025-08-03T11:02:27.943742

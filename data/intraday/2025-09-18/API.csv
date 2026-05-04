@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7245,2025091804000043,API,Nepal Stock House (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,200,281.6,56320.0,2025-09-18 10:46:00.063863
 2025-09-18,6341,2025091804000326,API,Naasa Securities Co. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,34,279.0,9486.0,2025-09-18 11:01:15.757843
 2025-09-18,6012,2025091804000423,API,Bhrikuti Stock Broking Co. Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,65,275.0,17875.0,2025-09-18 11:01:51.292512

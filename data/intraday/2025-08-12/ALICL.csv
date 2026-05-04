@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,72199,2025081203000858,ALICL,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,22,496.0,10912.0,2025-08-12 11:21:56.070328
 2025-08-12,68760,2025081203001587,ALICL,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,10,490.4,4904.0,2025-08-12 11:30:45.398361
 2025-08-12,68759,2025081203001588,ALICL,Primo Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,100,490.3,49030.0,2025-08-12 11:30:45.398455

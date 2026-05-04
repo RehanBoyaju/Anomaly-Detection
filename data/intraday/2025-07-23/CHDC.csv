@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,168900,2025072305000489,CHDC,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,12,2811.0,33732.0,2025-07-23 11:02:17.434488
 2025-07-23,166928,2025072305000969,CHDC,KALASH STOCK MARKET PVT. LTD.,Opal Securities Investment (PVT) Ltd.,12,2827.0,33924.0,2025-07-23 11:04:52.523134
 2025-07-23,166532,2025072305001074,CHDC,Trishakti Securities Public Limited,Sani Securities Company Ltd.,50,2840.0,142000.0,2025-07-23 11:05:22.304102

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72085,2025082704000061,API,Kumari Securities Private Limited,Creative Securities Pvt Ltd,20,294.5,5890.0,2025-08-27T11:04:26.578104
 2025-08-27,72084,2025082704000062,API,Kumari Securities Private Limited,Nepal Investment And Securities Trading Private Limited,121,295.0,35695.0,2025-08-27T11:04:26.578286
 2025-08-27,72083,2025082704000063,API,Kumari Securities Private Limited,Creative Securities Pvt Ltd,15,295.0,4425.0,2025-08-27T11:04:26.578425

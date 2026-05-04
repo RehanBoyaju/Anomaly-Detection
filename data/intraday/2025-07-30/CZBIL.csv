@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141435,2025073001000008,CZBIL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,240.1,2401.0,2025-07-30 10:46:00.074055
 2025-07-30,141116,2025073001000155,CZBIL,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,250,237.5,59375.0,2025-07-30 11:01:24.298499
 2025-07-30,141056,2025073001000179,CZBIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,490,238.0,116620.0,2025-07-30 11:01:36.107656

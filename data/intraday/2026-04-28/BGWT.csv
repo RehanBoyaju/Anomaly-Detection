@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BGWT,47,64,10,740.0,7400.0,2026-04-28 14:59:56.648,2026042805016485
 BGWT,47,45,191,735.0,140385.0,2026-04-28 14:57:49.828,2026042805015829
 BGWT,47,45,10,735.0,7350.0,2026-04-28 14:57:49.828,2026042805015828

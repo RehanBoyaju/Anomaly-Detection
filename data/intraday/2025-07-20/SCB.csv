@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,178104,2025072001000006,SCB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Linch Stock Market Ltd.,100,681.7,68170.0,2025-07-20T10:46:00.031504
 2025-07-20,177237,2025072001000232,SCB,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,100,675.0,67500.0,2025-07-20T11:01:45.205653
 2025-07-20,173225,2025072001001145,SCB,Vision Securities Pvt. Ltd,J.F. Securites (PVT) Ltd.,270,673.0,181710.0,2025-07-20T11:06:39.250087

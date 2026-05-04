@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85144,2025081704000231,SHPC,Investment Management Nepal Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,570.0,5700.0,2025-08-17 11:04:46.992224
 2025-08-17,84692,2025081704000305,SHPC,Agrawal Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,566.2,56620.0,2025-08-17 11:06:11.804298
 2025-08-17,84691,2025081704000306,SHPC,Kohinoor Investment & Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,880,566.0,498080.0,2025-08-17 11:06:11.804471

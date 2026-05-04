@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47779,2025092403000010,GRDBL,Sweta Securities Private Limited,Hatemalo Financial Services Private Limited,10,1151.0,11510.0,2025-09-24 11:00:10.711138
 2025-09-24,47759,2025092403000014,GRDBL,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,76,1173.0,89148.0,2025-09-24 11:00:20.615885
 2025-09-24,47758,2025092403000015,GRDBL,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,94,1173.0,110262.0,2025-09-24 11:00:20.615952

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104836,2025071304000209,UMRH,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,27,605.2,16340.4,2025-07-13T10:46:00.117406
 2025-07-13,104835,2025071304000210,UMRH,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,173,605.2,104699.6,2025-07-13T10:46:00.117435
 2025-07-13,104834,2025071304000211,UMRH,ABC Securities Private Limited,Online Securities Pvt. Ltd.,200,605.2,121040.0,2025-07-13T10:46:00.117463

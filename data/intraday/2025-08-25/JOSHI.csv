@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55091,2025082504000130,JOSHI,Premier Securities Company Ltd.,Trishakti Securities Public Limited,83,305.0,25315.0,2025-08-25 11:09:38.837267
 2025-08-25,52480,2025082504000546,JOSHI,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,100,307.0,30700.0,2025-08-25 11:22:42.394776
 2025-08-25,52249,2025082504000619,JOSHI,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,50,307.0,15350.0,2025-08-25 11:23:32.358246

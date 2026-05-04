@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MBJC,60,49,70,285.2,19964.0,2026-04-28 14:59:41.218,2026042805016324
 MBJC,60,60,12,285.2,3422.4,2026-04-28 14:59:26.666,2026042805016220
 MBJC,45,60,40,285.2,11408.0,2026-04-28 14:59:26.666,2026042805016219

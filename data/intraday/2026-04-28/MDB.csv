@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MDB,42,38,900,595.0,535500.0,2026-04-28 14:59:56.700,2026042803008650
 MDB,58,38,120,595.1,71412.0,2026-04-28 14:59:56.700,2026042803008649
 MDB,33,90,10,598.0,5980.0,2026-04-28 14:59:36.149,2026042803008390

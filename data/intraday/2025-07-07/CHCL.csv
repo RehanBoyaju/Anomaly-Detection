@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70017,2025070704000318,CHCL,NIMB Stock Markets Limited,Sri Hari Securities Pvt. Ltd.,200,535.0,107000.0,2025-07-07 11:06:35.689162
 2025-07-07,69050,2025070704000522,CHCL,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,531.3,53130.0,2025-07-07 11:10:20.039931
 2025-07-07,69049,2025070704000523,CHCL,Trademow Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,90,531.2,47808.0,2025-07-07 11:10:20.040068

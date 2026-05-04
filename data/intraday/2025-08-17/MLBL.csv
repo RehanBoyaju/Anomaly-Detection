@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,84929,2025081703000201,MLBL,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,100,400.0,40000.0,2025-08-17 11:05:26.338693
 2025-08-17,84380,2025081703000255,MLBL,Linch Stock Market Ltd.,ABC Securities Private Limited,25,400.0,10000.0,2025-08-17 11:06:59.210388
 2025-08-17,84379,2025081703000256,MLBL,Naasa Securities Co. Ltd.,ABC Securities Private Limited,975,400.0,390000.0,2025-08-17 11:06:59.210455

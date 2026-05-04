@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105300,2025071303000031,GUFL,South Asian Bulls Pvt. Ltd.,INDEX SECURITIES LIMITED,50,569.3,28465.0,2025-07-13T10:46:00.030752
 2025-07-13,104711,2025071303000221,GUFL,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,10,568.0,5680.0,2025-07-13T10:46:00.221069
 2025-07-13,104569,2025071303000242,GUFL,Nepal Stock House (PVT) Ltd.,INDEX SECURITIES LIMITED,50,569.0,28450.0,2025-07-13T11:00:18.646063

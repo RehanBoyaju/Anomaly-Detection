@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57051,2025082504000007,NHPC,Neev Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,210.0,2100.0,2025-08-25 11:00:32.149080
 2025-08-25,55609,2025082504000089,NHPC,Secured Securities Ltd.,Aryatara Investment & Securities,20,209.9,4198.0,2025-08-25 11:07:25.948283
 2025-08-25,54903,2025082504000156,NHPC,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,35,209.9,7346.5,2025-08-25 11:10:34.400037

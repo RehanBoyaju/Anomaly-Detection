@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73341,2025071503000124,ICFC,Blue Chip Securities Ltd,Premier Securities Company Ltd.,10,637.0,6370.0,2025-07-15 11:05:03.905449
 2025-07-15,71897,2025071503000426,ICFC,Thrive Brokerage House Pvt. Ltd,Sipla Securities Private Limited,10,635.0,6350.0,2025-07-15 11:12:19.676083
 2025-07-15,71896,2025071503000427,ICFC,Thrive Brokerage House Pvt. Ltd,SUN SECURITIES PVT LTD,25,636.0,15900.0,2025-07-15 11:12:19.676216

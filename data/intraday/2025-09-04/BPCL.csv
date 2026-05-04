@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68920,2025090404000045,BPCL,Aakashbhairab Securities Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,812.0,8120.0,2025-09-04T11:00:44.593667
 2025-09-04,68218,2025090404000279,BPCL,Himalayan Brokerage Company Limited,Nabil Stock Dealer Ltd.,20,800.0,16000.0,2025-09-04T11:05:19.570551
 2025-09-04,68217,2025090404000280,BPCL,Thrive Brokerage House Pvt. Ltd,Nabil Stock Dealer Ltd.,200,800.0,160000.0,2025-09-04T11:05:19.570724

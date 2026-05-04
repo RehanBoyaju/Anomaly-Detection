@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,167054,2025072803000739,GUFL,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,10,580.0,5800.0,2025-07-28T11:08:21.62307
 2025-07-28,167053,2025072803000740,GUFL,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,50,575.0,28750.0,2025-07-28T11:08:21.623116
 2025-07-28,167052,2025072803000741,GUFL,Sundhara Securities Limited,Asian Securities Private Ltd.,30,575.0,17250.0,2025-07-28T11:08:21.62314

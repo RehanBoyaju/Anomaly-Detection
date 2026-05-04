@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177098,2025072203000002,NLIC,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,35,835.0,29225.0,2025-07-22 10:46:00.012746
 2025-07-22,177097,2025072203000003,NLIC,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,150,835.0,125250.0,2025-07-22 10:46:00.012796
 2025-07-22,176674,2025072203000223,NLIC,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,15,832.8,12492.0,2025-07-22 11:01:27.095301

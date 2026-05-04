@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38783,2025092803000056,ALICL,Naasa Securities Co. Ltd.,Capital Hub P. Ltd,10,469.7,4697.0,2025-09-28 11:06:19.079004
 2025-09-28,37317,2025092803000163,ALICL,Aryatara Investment & Securities,Pragyan Securities (PVT) Ltd.,30,471.1,14133.0,2025-09-28 11:14:03.555414
 2025-09-28,37316,2025092803000164,ALICL,S.P.S.A. Securities Limited,Pragyan Securities (PVT) Ltd.,200,471.0,94200.0,2025-09-28 11:14:03.555465

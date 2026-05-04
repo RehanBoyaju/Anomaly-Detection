@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 AHL,7,64,196,505.0,98980.0,2026-04-28 14:59:58.120,2026042805016511
 AHL,34,64,200,505.0,101000.0,2026-04-28 14:59:58.120,2026042805016510
 AHL,57,64,50,505.1,25255.0,2026-04-28 14:59:58.120,2026042805016509

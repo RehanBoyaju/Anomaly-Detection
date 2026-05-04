@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108654,2025092104000064,AHPC,Sewa Securities Pvt. Ltd.,Trishakti Securities Public Limited,100,268.0,26800.0,2025-09-21 10:46:00.032982
 2025-09-21,108653,2025092104000065,AHPC,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,106,268.0,28408.0,2025-09-21 10:46:00.033019
 2025-09-21,108652,2025092104000066,AHPC,Sumeru Securities Pvt. Ltd.,ABC Securities Private Limited,30,268.0,8040.0,2025-09-21 10:46:00.033044

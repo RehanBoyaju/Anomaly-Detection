@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,95193,2025081104000644,PPCL,S.P.S.A. Securities Limited,Imperial Securities Company Pvt. Ltd.,100,349.0,34900.0,2025-08-11 11:09:04.587333
 2025-08-11,93424,2025081104001025,PPCL,Capital Max Securities Ltd,South Asian Bulls Pvt. Ltd.,100,345.7,34570.0,2025-08-11 11:12:59.734539
 2025-08-11,93423,2025081104001026,PPCL,Linch Stock Market Ltd.,South Asian Bulls Pvt. Ltd.,80,345.6,27648.0,2025-08-11 11:12:59.734612

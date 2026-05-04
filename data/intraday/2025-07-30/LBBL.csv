@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141263,2025073003000060,LBBL,Sundhara Securities Limited,Asian Securities Private Ltd.,500,635.0,317500.0,2025-07-30 11:00:46.221757
 2025-07-30,141262,2025073003000061,LBBL,Sundhara Securities Limited,Asian Securities Private Ltd.,500,635.0,317500.0,2025-07-30 11:00:46.221819
 2025-07-30,141215,2025073003000074,LBBL,Infinity Securities Limited,SHUBHAKAMANA SECURITIES PVT. LTD,200,635.1,127020.0,2025-07-30 11:01:00.432552

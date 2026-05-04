@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 IHL,18,58,10,426.1,4261.0,2026-04-28 14:58:04.070,2026042805015862
 IHL,32,36,416,426.2,177299.19999999998,2026-04-28 14:57:33.613,2026042805015756
 IHL,18,91,10,426.1,4261.0,2026-04-28 14:56:06.578,2026042805015491

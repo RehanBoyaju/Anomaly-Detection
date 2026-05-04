@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,155831,2025072901000539,SANIMA,Sani Securities Company Ltd.,Secured Securities Ltd.,180,380.0,68400.0,2025-07-29 11:03:59.123938
 2025-07-29,155830,2025072901000540,SANIMA,Trishakti Securities Public Limited,Secured Securities Ltd.,300,380.0,114000.0,2025-07-29 11:03:59.124125
 2025-07-29,155829,2025072901000541,SANIMA,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Secured Securities Ltd.,20,380.0,7600.0,2025-07-29 11:03:59.124243

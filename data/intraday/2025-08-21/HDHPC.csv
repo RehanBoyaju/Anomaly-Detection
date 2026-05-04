@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56617,2025082104000076,HDHPC,Premier Securities Company Ltd.,Miyo Securities Pvt Ltd,53,200.0,10600.0,2025-08-21 11:02:30.392505
 2025-08-21,56254,2025082104000221,HDHPC,Dakshinkali Investment & Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,201.0,60300.0,2025-08-21 11:06:03.360689
 2025-08-21,56193,2025082104000260,HDHPC,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,50,201.0,10050.0,2025-08-21 11:06:37.874786

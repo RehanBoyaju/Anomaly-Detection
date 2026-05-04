@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38967,2025092803000048,SHINE,Oxford Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,422.0,8440.0,2025-09-28 11:05:26.080202
 2025-09-28,38930,2025092803000051,SHINE,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,280,422.0,118160.0,2025-09-28 11:05:43.989119
 2025-09-28,38929,2025092803000052,SHINE,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,1720,422.0,725840.0,2025-09-28 11:05:43.989165

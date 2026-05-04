@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68757,2025090103000002,NLICL,Sri Hari Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,10,603.2,6032.0,2025-09-01 10:46:00.023912
 2025-09-01,68648,2025090103000019,NLICL,Sipla Securities Private Limited,Investment Management Nepal Pvt. Ltd.,156,600.0,93600.0,2025-09-01 11:00:30.373737
 2025-09-01,68647,2025090103000020,NLICL,Sipla Securities Private Limited,Oxford Securities Pvt. Ltd.,50,603.2,30160.0,2025-09-01 11:00:30.373775

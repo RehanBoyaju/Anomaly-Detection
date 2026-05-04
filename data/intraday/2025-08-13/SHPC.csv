@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70088,2025081304000003,SHPC,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,582.6,5826.0,2025-08-13 10:46:00.022608
 2025-08-13,69546,2025081304000084,SHPC,Aryatara Investment & Securities,Aryatara Investment & Securities,200,578.0,115600.0,2025-08-13 11:02:45.212768
 2025-08-13,69417,2025081304000096,SHPC,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,34,578.0,19652.0,2025-08-13 11:03:41.159120

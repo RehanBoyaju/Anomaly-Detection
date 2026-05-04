@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HFIN,58,74,100,1060.0,106000.0,2026-04-28 14:59:59.406,2026042801111032
 HFIN,39,74,50,1060.0,53000.0,2026-04-28 14:59:58.680,2026042801111013
 HFIN,35,74,10,1060.0,10600.0,2026-04-28 14:59:58.119,2026042801110991

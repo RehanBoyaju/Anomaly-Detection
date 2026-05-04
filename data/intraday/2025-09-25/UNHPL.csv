@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37538,2025092504000007,UNHPL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,474.3,4743.0,2025-09-25 10:46:00.033889
 2025-09-25,37490,2025092504000010,UNHPL,K.B.L. Securities Limited ,ABC Securities Private Limited,10,479.0,4790.0,2025-09-25 11:00:27.492521
 2025-09-25,37325,2025092504000040,UNHPL,Infinity Securities Limited,Naasa Securities Co. Ltd.,50,479.0,23950.0,2025-09-25 11:02:22.287643

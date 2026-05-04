@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140978,2025071701000131,PCBL,Nepal Stock House (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,200,276.0,55200.0,2025-07-17 11:01:42.470924
 2025-07-17,140934,2025071701000149,PCBL,Investment Management Nepal Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,276.0,27600.0,2025-07-17 11:01:50.480688
 2025-07-17,140933,2025071701000150,PCBL,Investment Management Nepal Pvt. Ltd.,J.F. Securites (PVT) Ltd.,150,276.0,41400.0,2025-07-17 11:01:50.480736

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87195,2025070604000042,BPCL,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,62,798.1,49482.2,2025-07-06 11:00:53.065866
 2025-07-06,87194,2025070604000043,BPCL,Himalayan Brokerage Company Limited,Trishakti Securities Public Limited,338,798.0,269724.0,2025-07-06 11:00:53.065943
 2025-07-06,87162,2025070604000056,BPCL,Himalayan Brokerage Company Limited,Trishakti Securities Public Limited,42,798.0,33516.0,2025-07-06 11:01:02.157003

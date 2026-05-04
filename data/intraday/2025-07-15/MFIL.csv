@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,69474,2025071503000808,MFIL,Agrawal Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,30,618.6,18558.0,2025-07-15 11:21:17.363570
 2025-07-15,69365,2025071503000825,MFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,100,618.6,61860.0,2025-07-15 11:21:35.550934
 2025-07-15,69287,2025071503000836,MFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,40,618.6,24744.0,2025-07-15 11:21:50.689072

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,66187,2025090104000262,GLH,Trishakti Securities Public Limited,Midas Stock Broking Company Private Limited,780,263.2,205296.0,2025-09-01 11:09:34.601781
 2025-09-01,66186,2025090104000263,GLH,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,200,263.1,52620.0,2025-09-01 11:09:34.601843
 2025-09-01,66185,2025090104000264,GLH,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,100,263.0,26300.0,2025-09-01 11:09:34.601876

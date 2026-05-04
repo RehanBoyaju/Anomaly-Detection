@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,66429,2025081303000473,CORBL,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,11,2019.5,22214.5,2025-08-13 11:18:51.945360
 2025-08-13,64481,2025081303000778,CORBL,Online Securities Pvt. Ltd.,Nagarik Stock Dealer ,20,1980.0,39600.0,2025-08-13 11:26:10.340997
 2025-08-13,62045,2025081303001151,CORBL,Nepal Stock House (PVT) Ltd.,Premier Securities Company Ltd.,20,1987.0,39740.0,2025-08-13 11:34:50.451744

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55891,2025070804000209,SHL,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,570.0,57000.0,2025-07-08 11:02:37.397490
 2025-07-08,54801,2025070804000790,SHL,Naasa Securities Co. Ltd.,ABC Securities Private Limited,1000,569.0,569000.0,2025-07-08 11:08:37.862129
 2025-07-08,53618,2025070804001318,SHL,INDEX SECURITIES LIMITED,J.F. Securites (PVT) Ltd.,100,567.0,56700.0,2025-07-08 11:15:21.389687

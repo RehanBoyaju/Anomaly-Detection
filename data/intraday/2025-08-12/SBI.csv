@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,76824,2025081201000272,SBI,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,118,413.0,48734.0,2025-08-12 11:05:39.034276
 2025-08-12,74765,2025081201000760,SBI,Imperial Securities Company Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,4,410.7,1642.8,2025-08-12 11:13:33.131981
 2025-08-12,74717,2025081201000779,SBI,Imperial Securities Company Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,3,415.0,1245.0,2025-08-12 11:13:43.319817

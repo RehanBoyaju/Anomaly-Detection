@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170700,2025072804000003,CHCL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,20,565.0,11300.0,2025-07-28T10:46:00.017915
 2025-07-28,170565,2025072804000044,CHCL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,180,565.0,101700.0,2025-07-28T11:00:32.855788
 2025-07-28,170457,2025072804000085,CHCL,Trisul Securities & Invt. Ltd.,Creative Securities Pvt Ltd,40,565.0,22600.0,2025-07-28T11:01:02.098682

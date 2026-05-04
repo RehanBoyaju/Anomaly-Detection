@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167491,2025073105000386,CIT,Imperial Securities Company Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,49,2079.0,101871.0,2025-07-31 11:02:47.357905
 2025-07-31,166448,2025073105000681,CIT,Bhrikuti Stock Broking Co. Pvt. Ltd.,Vision Securities Pvt. Ltd,50,2080.0,104000.0,2025-07-31 11:04:47.053949
 2025-07-31,165141,2025073105001025,CIT,Nabil Stock Dealer Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,11,2080.0,22880.0,2025-07-31 11:06:52.150578

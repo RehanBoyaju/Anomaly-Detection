@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RFPL,72,18,70,373.0,26110.0,2026-04-28 14:59:58.414,2026042805016525
 RFPL,1,52,997,372.5,371382.5,2026-04-28 14:59:56.567,2026042805016483
 RFPL,33,52,515,372.6,191889.0,2026-04-28 14:59:56.567,2026042805016482

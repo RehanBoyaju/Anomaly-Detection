@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170085,2025072804000223,MEN,Sweta Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,663.0,6630.0,2025-07-28T11:02:15.049652
 2025-07-28,170052,2025072804000235,MEN,Malla & Malla Stock Broking Company Pvt. Limited,Secured Securities Ltd.,100,660.1,66010.0,2025-07-28T11:02:19.127107
 2025-07-28,169629,2025072804000385,MEN,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,663.0,13260.0,2025-07-28T11:03:21.3198

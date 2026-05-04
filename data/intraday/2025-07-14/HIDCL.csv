@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72599,2025071405000001,HIDCL,Vision Securities Pvt. Ltd,Roadshow securities limited,10,290.8,2908.0,2025-07-14 10:46:00.006582
 2025-07-14,71923,2025071405000040,HIDCL,Nepal Stock House (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,100,296.6,29660.0,2025-07-14 11:02:27.056309
 2025-07-14,71100,2025071405000096,HIDCL,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,50,296.0,14800.0,2025-07-14 11:04:53.232836

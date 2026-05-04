@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47051,2025092401000141,CZBIL,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,250,203.1,50775.0,2025-09-24 11:04:49.492722
 2025-09-24,46765,2025092401000222,CZBIL,Imperial Securities Company Pvt. Ltd.,N.M.B. SECURITIES LIMITED,250,203.1,50775.0,2025-09-24 11:06:04.167101
 2025-09-24,46764,2025092401000223,CZBIL,MILKY WAY SHARE BROKER COMPANY LTD ,N.M.B. SECURITIES LIMITED,1000,203.1,203100.0,2025-09-24 11:06:04.167158

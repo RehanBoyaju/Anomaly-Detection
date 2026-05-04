@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95387,2025080701000222,SANIMA,Miyo Securities Pvt Ltd,Asian Securities Private Ltd.,1200,368.0,441600.0,2025-08-07 11:01:16.868514
 2025-08-07,94816,2025080701000466,SANIMA,Imperial Securities Company Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,30,370.0,11100.0,2025-08-07 11:03:25.692037
 2025-08-07,94815,2025080701000467,SANIMA,Imperial Securities Company Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,10,370.0,3700.0,2025-08-07 11:03:25.692095

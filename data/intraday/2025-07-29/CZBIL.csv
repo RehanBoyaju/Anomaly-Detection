@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157455,2025072901000008,CZBIL,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,400,235.0,94000.0,2025-07-29 10:46:00.083083
 2025-07-29,157260,2025072901000112,CZBIL,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,234.0,23400.0,2025-07-29 11:00:52.348358
 2025-07-29,156445,2025072901000362,CZBIL,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,100,234.0,23400.0,2025-07-29 11:02:48.180756

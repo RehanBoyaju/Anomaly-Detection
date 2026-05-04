@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,53000,2025082503001954,SAPDBL,Cristal Kanchanjanga Securites Pvt. Ltd.,ABC Securities Private Limited,1,814.0,814.0,2025-08-25 11:20:26.997982
 2025-08-25,52481,2025082503002092,SAPDBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,835.0,8350.0,2025-08-25 11:22:41.945524
 2025-08-25,51011,2025082503002486,SAPDBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,13,835.0,10855.0,2025-08-25 11:29:22.864369

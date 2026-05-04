@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,150328,2025080303000340,PFL,Blue Chip Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,438.0,4380.0,2025-08-03T11:03:42.607606
 2025-08-03,149873,2025080303000370,PFL,Swarna Laxmi Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,250,438.0,109500.0,2025-08-03T11:04:19.553436
 2025-08-03,148930,2025080303000481,PFL,Sumeru Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,40,438.0,17520.0,2025-08-03T11:05:50.982556

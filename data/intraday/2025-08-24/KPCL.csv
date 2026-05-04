@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,56982,2025082404000134,KPCL,Thrive Brokerage House Pvt. Ltd,Oxford Securities Pvt. Ltd.,100,597.0,59700.0,2025-08-24 11:08:03.256814
 2025-08-24,56568,2025082404000217,KPCL,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,15,596.0,8940.0,2025-08-24 11:10:34.514809
 2025-08-24,56474,2025082404000236,KPCL,Aryatara Investment & Securities,Oxford Securities Pvt. Ltd.,50,596.0,29800.0,2025-08-24 11:11:21.748519

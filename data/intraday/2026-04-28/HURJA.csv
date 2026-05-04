@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HURJA,19,96,10,260.0,2600.0,2026-04-28 14:59:57.456,2026042804015021
 HURJA,48,14,1650,258.0,425700.0,2026-04-28 14:59:46.476,2026042804014919
 HURJA,48,39,16,258.0,4128.0,2026-04-28 14:59:46.476,2026042804014918

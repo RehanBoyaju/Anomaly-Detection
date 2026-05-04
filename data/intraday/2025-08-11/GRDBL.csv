@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,95414,2025081103000316,GRDBL,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,10,1248.0,12480.0,2025-08-11 11:08:31.694570
 2025-08-11,93052,2025081103000640,GRDBL,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,10,1250.0,12500.0,2025-08-11 11:13:52.994753
 2025-08-11,93051,2025081103000641,GRDBL,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,1270.0,12700.0,2025-08-11 11:13:52.994810

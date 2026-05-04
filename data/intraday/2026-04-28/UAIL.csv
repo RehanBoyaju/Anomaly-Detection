@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UAIL,62,29,50,446.0,22300.0,2026-04-28 14:59:56.889,2026042804015009
 UAIL,62,43,10,446.0,4460.0,2026-04-28 14:59:56.889,2026042804015008
 UAIL,62,18,10,446.0,4460.0,2026-04-28 14:59:56.888,2026042804015007

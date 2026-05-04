@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177052,2025072203000018,KSBBL,Citizens Share Broker Limited,Secured Securities Ltd.,100,538.0,53800.0,2025-07-22 10:46:00.054638
 2025-07-22,177051,2025072203000019,KSBBL,Citizens Share Broker Limited,Secured Securities Ltd.,200,538.0,107600.0,2025-07-22 10:46:00.054670
 2025-07-22,177050,2025072203000020,KSBBL,Citizens Share Broker Limited,Sipla Securities Private Limited,108,538.0,58104.0,2025-07-22 10:46:00.054704

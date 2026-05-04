@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72041,2025071403000056,LBBL,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,447.0,4470.0,2025-07-14 11:02:02.678696
 2025-07-14,66686,2025071403000727,LBBL,Aakashbhairab Securities Ltd.,BHOLE GANESH SECURITIES LTD,100,450.0,45000.0,2025-07-14 11:19:35.129414
 2025-07-14,65497,2025071403000927,LBBL,Aakashbhairab Securities Ltd.,Sumeru Securities Pvt. Ltd.,400,453.0,181200.0,2025-07-14 11:23:16.763237

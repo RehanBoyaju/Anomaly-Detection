@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,85017,2025070604000668,RURU,Dynamic Money Managers Securities Pvt. Ltd.,Asian Securities Private Ltd.,35,707.3,24755.5,2025-07-06 11:08:28.426684
 2025-07-06,85016,2025070604000669,RURU,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,65,707.2,45968.0,2025-07-06 11:08:28.426765
 2025-07-06,83836,2025070604001010,RURU,Asian Securities Private Ltd.,Aryatara Investment & Securities,11,732.0,8052.0,2025-07-06 11:11:51.593202

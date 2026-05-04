@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MSLB,17,29,10,1289.0,12890.0,2026-04-28 14:59:54.977,2026042803008610
 MSLB,17,42,10,1287.0,12870.0,2026-04-28 14:59:54.977,2026042803008609
 MSLB,17,58,10,1281.7,12817.0,2026-04-28 14:59:54.977,2026042803008608

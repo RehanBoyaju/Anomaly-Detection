@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7257,2025091801000074,CZBIL,Nepal Stock House (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,200.5,4010.0,2025-09-18 10:46:00.059237
 2025-09-18,7256,2025091801000075,CZBIL,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,200.5,20050.0,2025-09-18 10:46:00.059258
 2025-09-18,6800,2025091801000134,CZBIL,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,180,200.5,36090.0,2025-09-18 10:46:00.258816

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130878,2025080501000019,PRVU,Elite Stock House Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,35,238.0,8330.0,2025-08-05 10:46:00.110380
 2025-08-05,130728,2025080501000148,PRVU,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,965,237.0,228705.0,2025-08-05 11:00:27.304176
 2025-08-05,130727,2025080501000149,PRVU,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,35,238.0,8330.0,2025-08-05 11:00:27.304232

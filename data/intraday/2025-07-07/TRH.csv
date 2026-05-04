@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,68143,2025070704000767,TRH,Secured Securities Ltd.,Vision Securities Pvt. Ltd,325,935.0,303875.0,2025-07-07 11:14:06.750577
 2025-07-07,67447,2025070704000992,TRH,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,175,935.0,163625.0,2025-07-07 11:16:56.796454
 2025-07-07,63916,2025070704002041,TRH,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,325,940.0,305500.0,2025-07-07 11:29:02.083533

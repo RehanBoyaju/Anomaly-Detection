@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,83063,2025081704000591,CGH,Sani Securities Company Ltd.,Sweta Securities Private Limited,10,996.0,9960.0,2025-08-17 11:10:47.947840
 2025-08-17,83002,2025081704000602,CGH,Sani Securities Company Ltd.,Sweta Securities Private Limited,20,996.0,19920.0,2025-08-17 11:11:00.046178
 2025-08-17,83001,2025081704000603,CGH,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,200,997.0,199400.0,2025-08-17 11:11:00.046237

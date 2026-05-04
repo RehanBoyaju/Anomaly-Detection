@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NMIC,51,85,60,1084.0,65040.0,2026-04-28 14:59:04.900,2026042801109413
 NMIC,35,85,40,1084.1,43364.0,2026-04-28 14:59:04.900,2026042801109412
 NMIC,48,45,10,1085.0,10850.0,2026-04-28 14:58:48.472,2026042801109153

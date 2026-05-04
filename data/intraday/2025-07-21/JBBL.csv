@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,137520,2025072103000238,JBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,300,362.0,108600.0,2025-07-21 11:02:47.196385
 2025-07-21,137519,2025072103000239,JBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,South Asian Bulls Pvt. Ltd.,200,362.0,72400.0,2025-07-21 11:02:47.196437
 2025-07-21,137325,2025072103000289,JBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,South Asian Bulls Pvt. Ltd.,100,362.0,36200.0,2025-07-21 11:03:11.494459

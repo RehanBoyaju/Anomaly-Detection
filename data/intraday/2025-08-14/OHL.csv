@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76329,2025081404000038,OHL,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,300,885.6,265680.0,2025-08-14 11:01:12.865621
 2025-08-14,74869,2025081404000275,OHL,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,100,868.0,86800.0,2025-08-14 11:08:37.248784
 2025-08-14,72459,2025081404000601,OHL,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,275,870.0,239250.0,2025-08-14 11:17:19.347179

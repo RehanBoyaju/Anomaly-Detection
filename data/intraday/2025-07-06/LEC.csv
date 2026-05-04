@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86751,2025070604000162,LEC,Sani Securities Company Ltd.,Secured Securities Ltd.,300,213.0,63900.0,2025-07-06 11:02:50.231968
 2025-07-06,84567,2025070604000794,LEC,Siprabi Securities Pvt. Ltd.,Creative Securities Pvt Ltd,300,214.0,64200.0,2025-07-06 11:09:58.138394
 2025-07-06,83815,2025070604001016,LEC,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,214.3,10715.0,2025-07-06 11:11:55.806282

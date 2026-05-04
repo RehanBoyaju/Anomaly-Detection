@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56223,2025082503000591,GRDBL,Sani Securities Company Ltd.,Aryatara Investment & Securities,10,1150.0,11500.0,2025-08-25 11:04:21.858289
 2025-08-25,54141,2025082503001508,GRDBL,Creative Securities Pvt Ltd,ABC Securities Private Limited,2,1128.0,2256.0,2025-08-25 11:14:40.543856
 2025-08-25,53879,2025082503001610,GRDBL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,30,1150.0,34500.0,2025-08-25 11:16:04.918703

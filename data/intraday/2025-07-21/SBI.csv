@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,135040,2025072101000801,SBI,Sweta Securities Private Limited,Asian Securities Private Ltd.,10,430.3,4303.0,2025-07-21 11:06:59.484662
 2025-07-21,133174,2025072101001313,SBI,Vision Securities Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,25,435.0,10875.0,2025-07-21 11:09:38.627652
 2025-07-21,132001,2025072101001701,SBI,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,1650,437.0,721050.0,2025-07-21 11:11:20.013764

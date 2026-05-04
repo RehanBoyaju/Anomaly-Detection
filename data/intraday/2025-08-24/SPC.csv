@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57262,2025082405000539,SPC,Aryatara Investment & Securities,ABC Securities Private Limited,10,530.0,5300.0,2025-08-24 11:05:43.072961
 2025-08-24,56315,2025082405001017,SPC,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,50,532.0,26600.0,2025-08-24 11:12:10.988303
 2025-08-24,54484,2025082405001907,SPC,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,70,532.0,37240.0,2025-08-24 11:20:39.307068

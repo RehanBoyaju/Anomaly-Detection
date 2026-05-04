@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86650,2025081703000002,NABBC,Vision Securities Pvt. Ltd,Sri Hari Securities Pvt. Ltd.,10,1527.1,15271.0,2025-08-17 10:46:00.016602
 2025-08-17,82693,2025081703000433,NABBC,Sani Securities Company Ltd.,Sweta Securities Private Limited,10,1557.6,15576.0,2025-08-17 11:11:49.375074
 2025-08-17,82314,2025081703000463,NABBC,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,1588.0,15880.0,2025-08-17 11:12:52.461174

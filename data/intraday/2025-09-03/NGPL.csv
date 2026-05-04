@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,65000,2025090304000448,NGPL,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,100,394.1,39410.0,2025-09-03 11:15:41.746267
 2025-09-03,64138,2025090304000576,NGPL,ABC Securities Private Limited,Premier Securities Company Ltd.,20,397.8,7956.0,2025-09-03 11:18:16.816547
 2025-09-03,63499,2025090304000708,NGPL,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,100,397.0,39700.0,2025-09-03 11:20:35.531596

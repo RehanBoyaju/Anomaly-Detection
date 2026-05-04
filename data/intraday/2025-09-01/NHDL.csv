@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,63467,2025090104000577,NHDL,Blue Chip Securities Ltd,Sri Hari Securities Pvt. Ltd.,10,714.0,7140.0,2025-09-01 11:18:02.200303
 2025-09-01,54677,2025090104001815,NHDL,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,14,712.0,9968.0,2025-09-01 11:49:11.755347
 2025-09-01,53427,2025090104002030,NHDL,Investment Management Nepal Pvt. Ltd.,Asian Securities Private Ltd.,6,712.5,4275.0,2025-09-01 11:54:13.937753

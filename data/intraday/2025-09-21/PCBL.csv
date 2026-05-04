@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108407,2025092101000148,PCBL,Aryatara Investment & Securities,Trishakti Securities Public Limited,100,234.0,23400.0,2025-09-21 10:46:00.062926
 2025-09-21,108406,2025092101000149,PCBL,Creative Securities Pvt Ltd,Trishakti Securities Public Limited,20,234.0,4680.0,2025-09-21 10:46:00.062967
 2025-09-21,108405,2025092101000150,PCBL,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,30,234.0,7020.0,2025-09-21 10:46:00.063040

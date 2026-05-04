@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68505,2025090305000016,NYADI,Swarna Laxmi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,405.3,4053.0,2025-09-03 11:00:03.021110
 2025-09-03,67898,2025090305000132,NYADI,Trishakti Securities Public Limited,Shree Krishna Securities Ltd.,100,413.4,41340.0,2025-09-03 11:03:42.702653
 2025-09-03,67222,2025090305000216,NYADI,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,300,419.9,125970.0,2025-09-03 11:06:45.681025

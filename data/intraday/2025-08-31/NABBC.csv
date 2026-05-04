@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,97171,2025083103000001,NABBC,Agrawal Securities (PVT) Ltd.,INDEX SECURITIES LIMITED,10,784.8,7848.0,2025-08-31T10:46:00.008968
 2025-08-31,85645,2025083103000330,NABBC,Siprabi Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,100,800.0,80000.0,2025-08-31T11:18:37.34183
 2025-08-31,85055,2025083103000365,NABBC,Sundhara Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,50,800.0,40000.0,2025-08-31T11:19:40.907577

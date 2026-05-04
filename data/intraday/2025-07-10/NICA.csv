@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88611,2025071001000001,NICA,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,100,367.6,36760.0,2025-07-10 10:46:00.012489
 2025-07-10,88610,2025071001000002,NICA,Agrawal Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,400,367.6,147040.0,2025-07-10 10:46:00.012530
 2025-07-10,88446,2025071001000071,NICA,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,20,363.0,7260.0,2025-07-10 11:00:58.449238

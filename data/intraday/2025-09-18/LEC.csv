@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7042,2025091804000125,LEC,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,200,206.7,41340.0,2025-09-18 10:46:00.118721
 2025-09-18,7041,2025091804000126,LEC,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,206.7,4134.0,2025-09-18 10:46:00.118758
 2025-09-18,7040,2025091804000127,LEC,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,500,206.7,103350.0,2025-09-18 10:46:00.118788

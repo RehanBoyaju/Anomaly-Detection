@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72344,2025082705000081,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,10,2600.0,26000.0,2025-08-27T11:01:49.375857
 2025-08-27,71515,2025082705000564,CHDC,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,15,2555.0,38325.0,2025-08-27T11:08:33.102005
 2025-08-27,70762,2025082705000955,CHDC,Asian Securities Private Ltd.,J.F. Securites (PVT) Ltd.,2,2555.0,5110.0,2025-08-27T11:12:47.62728

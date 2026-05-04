@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ULHC,17,58,50,485.0,24250.0,2026-04-28 14:59:56.506,2026042805016474
 ULHC,26,58,20,498.7,9974.0,2026-04-28 14:59:56.506,2026042805016473
 ULHC,46,58,25,498.8,12470.0,2026-04-28 14:59:56.506,2026042805016472

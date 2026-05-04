@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45102,2025082604000006,NHDL,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,10,693.9,6939.0,2025-08-26 10:46:00.031529
 2025-08-26,45070,2025082604000013,NHDL,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,10,700.0,7000.0,2025-08-26 11:00:15.867461
 2025-08-26,44202,2025082604000178,NHDL,Naasa Securities Co. Ltd.,N.I.M.B. Stock Markets Limited,11,710.0,7810.0,2025-08-26 11:09:51.605965

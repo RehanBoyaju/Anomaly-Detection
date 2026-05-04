@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70243,2025070703000388,CORBL,Naasa Securities Co. Ltd.,Hatemalo Financial Services Private Limited,10,2340.0,23400.0,2025-07-07 11:05:36.879322
 2025-07-07,67244,2025070703001241,CORBL,Capital Max Securities Ltd,Sweta Securities Private Limited,20,2344.3,46886.0,2025-07-07 11:17:42.029838
 2025-07-07,67243,2025070703001242,CORBL,Capital Max Securities Ltd,Sweta Securities Private Limited,10,2344.2,23442.0,2025-07-07 11:17:42.029922

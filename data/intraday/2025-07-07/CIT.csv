@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69766,2025070705000344,CIT,Aryatara Investment & Securities,Malla & Malla Stock Broking Company Pvt. Limited,20,1925.0,38500.0,2025-07-07 11:07:35.679136
 2025-07-07,69697,2025070705000357,CIT,Kalika Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,27,1920.0,51840.0,2025-07-07 11:07:53.767381
 2025-07-07,68839,2025070705000529,CIT,Kalika Securities Pvt. Ltd.,Trishakti Securities Public Limited,23,1920.0,44160.0,2025-07-07 11:11:16.796169

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169602,2025072301000151,SANIMA,KALASH STOCK MARKET PVT. LTD.,Linch Stock Market Ltd.,300,379.6,113880.0,2025-07-23 11:01:14.555062
 2025-07-23,169601,2025072301000152,SANIMA,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,700,379.5,265650.0,2025-07-23 11:01:14.555116
 2025-07-23,168729,2025072301000325,SANIMA,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,380.0,7600.0,2025-07-23 11:02:35.396156

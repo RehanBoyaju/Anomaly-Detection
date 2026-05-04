@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76418,2025081401000015,PRVU,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,100,220.0,22000.0,2025-08-14 11:00:48.460188
 2025-08-14,76340,2025081401000047,PRVU,Trisul Securities & Invt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,800,221.0,176800.0,2025-08-14 11:01:10.567924
 2025-08-14,76339,2025081401000048,PRVU,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,100,221.0,22100.0,2025-08-14 11:01:10.567980

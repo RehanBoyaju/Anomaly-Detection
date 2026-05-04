@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69462,2025081304000092,LEC,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,227.2,2272.0,2025-08-13 11:03:20.926504
 2025-08-13,69031,2025081304000185,LEC,Deevyaa Securities & Stock House Pvt. Ltd,ABC Securities Private Limited,50,228.0,11400.0,2025-08-13 11:06:15.265666
 2025-08-13,68954,2025081304000205,LEC,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,60,231.0,13860.0,2025-08-13 11:06:44.291050

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67605,2025081801000094,NICA,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,20,350.0,7000.0,2025-08-18T11:02:43.083918
 2025-08-18,67604,2025081801000095,NICA,J.F. Securites (PVT) Ltd.,Sewa Securities Pvt. Ltd.,20,350.0,7000.0,2025-08-18T11:02:43.084098
 2025-08-18,67027,2025081801000291,NICA,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,10,350.0,3500.0,2025-08-18T11:06:35.743172

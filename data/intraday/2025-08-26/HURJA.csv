@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45000,2025082604000019,HURJA,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,10,239.8,2398.0,2025-08-26 11:01:18.192931
 2025-08-26,43590,2025082604000318,HURJA,Thrive Brokerage House Pvt. Ltd,Online Securities Pvt. Ltd.,79,235.9,18636.1,2025-08-26 11:14:20.792684
 2025-08-26,43507,2025082604000336,HURJA,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,100,236.0,23600.0,2025-08-26 11:15:01.267913

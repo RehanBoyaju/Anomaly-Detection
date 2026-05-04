@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170308,2025072303000003,NFS,Beni Securities Pvt.Ltd.,Linch Stock Market Ltd.,10,744.8,7448.0,2025-07-23 10:46:00.016242
 2025-07-23,169498,2025072303000097,NFS,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,50,740.0,37000.0,2025-07-23 11:01:25.037186
 2025-07-23,169497,2025072303000098,NFS,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,120,740.0,88800.0,2025-07-23 11:01:25.205389

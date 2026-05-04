@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,153740,2025072404000420,RHPL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,346.2,3462.0,2025-07-24 11:02:04.044622
 2025-07-24,152143,2025072404001130,RHPL,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,50,348.0,17400.0,2025-07-24 11:05:00.146028
 2025-07-24,151744,2025072404001286,RHPL,Online Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,70,348.0,24360.0,2025-07-24 11:05:42.648557

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,140344,2025080403000477,ICFC,Trishakti Securities Public Limited,Sundhara Securities Limited,100,679.0,67900.0,2025-08-04 11:08:05.280149
 2025-08-04,137526,2025080403000742,ICFC,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,70,673.5,47145.0,2025-08-04 11:10:37.139627
 2025-08-04,137525,2025080403000743,ICFC,Sri Hari Securities Pvt. Ltd.,Asian Securities Private Ltd.,20,673.0,13460.0,2025-08-04 11:10:37.139790

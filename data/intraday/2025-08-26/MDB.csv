@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,39439,2025082603001143,MDB,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,100,620.0,62000.0,2025-08-26 11:43:32.790453
 2025-08-26,36704,2025082603001678,MDB,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,200,620.0,124000.0,2025-08-26 12:02:58.544565
 2025-08-26,33441,2025082603002329,MDB,Sani Securities Company Ltd.,Capital Max Securities Ltd,150,619.9,92985.0,2025-08-26 12:24:35.476906

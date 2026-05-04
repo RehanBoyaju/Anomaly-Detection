@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,92177,2025080703000572,GFCL,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,178,684.0,121752.0,2025-08-07 11:12:13.890535
 2025-08-07,91542,2025080703000687,GFCL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,684.9,205470.0,2025-08-07 11:14:10.061087
 2025-08-07,90676,2025080703000805,GFCL,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,10,675.0,6750.0,2025-08-07 11:16:53.793238

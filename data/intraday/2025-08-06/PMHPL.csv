@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92799,2025080604000038,PMHPL,Infinity Securities Limited,Blue Chip Securities Ltd,10,382.2,3822.0,2025-08-06 11:01:27.811172
 2025-08-06,92523,2025080604000062,PMHPL,Linch Stock Market Ltd.,Primo Securities (PVT) Ltd.,10,389.0,3890.0,2025-08-06 11:02:19.608911
 2025-08-06,92311,2025080604000081,PMHPL,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,165,389.0,64185.0,2025-08-06 11:02:53.738028

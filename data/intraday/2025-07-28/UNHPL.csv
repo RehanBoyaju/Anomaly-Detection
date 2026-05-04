@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170400,2025072804000114,UNHPL,Sri Hari Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,478,418.0,199804.0,2025-07-28T11:01:16.480432
 2025-07-28,167775,2025072804000949,UNHPL,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,419.0,4190.0,2025-07-28T11:07:04.939889
 2025-07-28,167212,2025072804001102,UNHPL,Oxford Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,13,417.0,5421.0,2025-07-28T11:08:01.795026

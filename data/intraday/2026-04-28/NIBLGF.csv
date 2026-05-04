@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NIBLGF,19,48,100,9.29,929.0,2026-04-28 14:38:21.128,2026042801096009
 NIBLGF,51,21,300,9.3,2790.0,2026-04-28 14:38:09.217,2026042801095883
 NIBLGF,51,21,700,9.3,6510.000000000001,2026-04-28 14:33:39.662,2026042801093718

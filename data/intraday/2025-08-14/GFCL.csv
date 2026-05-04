@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75270,2025081403000136,GFCL,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,10,673.9,6739.0,2025-08-14 11:07:25.052896
 2025-08-14,74721,2025081403000184,GFCL,Secured Securities Ltd.,ABC Securities Private Limited,50,673.0,33650.0,2025-08-14 11:09:19.946210
 2025-08-14,67512,2025081403000881,GFCL,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,15,668.0,10020.0,2025-08-14 11:35:54.058285

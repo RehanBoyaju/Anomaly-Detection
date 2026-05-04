@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,59533,2025081903000202,GBBL,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,30,437.9,13137.0,2025-08-19 11:13:40.516856
 2025-08-19,59532,2025081903000203,GBBL,Premier Securities Company Ltd.,ABC Securities Private Limited,17,438.0,7446.0,2025-08-19 11:13:40.516889
 2025-08-19,59531,2025081903000204,GBBL,Premier Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,153,438.0,67014.0,2025-08-19 11:13:40.516911

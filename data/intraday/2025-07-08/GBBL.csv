@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,50573,2025070803000831,GBBL,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,25,402.0,10050.0,2025-07-08 11:30:34.080745
 2025-07-08,50058,2025070803000900,GBBL,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,25,402.0,10050.0,2025-07-08 11:32:55.369299
 2025-07-08,49593,2025070803000961,GBBL,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,20,402.9,8058.0,2025-07-08 11:35:22.753453

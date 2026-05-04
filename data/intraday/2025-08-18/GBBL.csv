@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67328,2025081803000054,GBBL,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,11,435.0,4785.0,2025-08-18T11:04:49.641384
 2025-08-18,65974,2025081803000172,GBBL,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,100,431.1,43110.0,2025-08-18T11:11:07.357806
 2025-08-18,65008,2025081803000283,GBBL,Neev Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,20,432.0,8640.0,2025-08-18T11:16:25.507352

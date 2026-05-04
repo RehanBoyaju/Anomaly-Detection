@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78187,2025081203000006,SINDU,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,10,779.3,7793.0,2025-08-12 10:46:00.044781
 2025-08-12,76530,2025081203000160,SINDU,Investment Management Nepal Pvt. Ltd.,Sweta Securities Private Limited,35,795.0,27825.0,2025-08-12 11:06:56.927016
 2025-08-12,75926,2025081203000217,SINDU,Asian Securities Private Ltd.,Linch Stock Market Ltd.,100,809.0,80900.0,2025-08-12 11:09:07.259341

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53724,2025082001000013,SANIMA,Cristal Kanchanjanga Securites Pvt. Ltd.,Online Securities Pvt. Ltd.,50,365.0,18250.0,2025-08-20 11:01:13.664593
 2025-08-20,53145,2025082001000130,SANIMA,Machhapuchchhre Securities Limited,Naasa Securities Co. Ltd.,10,372.0,3720.0,2025-08-20 11:06:32.340315
 2025-08-20,52540,2025082001000234,SANIMA,Vision Securities Pvt. Ltd,Pragyan Securities (PVT) Ltd.,100,371.5,37150.0,2025-08-20 11:10:39.269858

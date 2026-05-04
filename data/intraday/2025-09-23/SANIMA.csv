@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67253,2025092301000011,SANIMA,Cristal Kanchanjanga Securites Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,120,334.0,40080.0,2025-09-23 11:00:39.455373
 2025-09-23,67222,2025092301000015,SANIMA,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,80,334.0,26720.0,2025-09-23 11:00:48.511986
 2025-09-23,67204,2025092301000017,SANIMA,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,30,334.0,10020.0,2025-09-23 11:00:53.881172

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37292,2025092504000045,UMHL,Nagarik Stock Dealer ,Sagarmatha Securities Private Limited,800,549.9,439920.0,2025-09-25 11:02:37.586464
 2025-09-25,36994,2025092504000116,UMHL,Citizens Share Broker Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,14,542.3,7592.2,2025-09-25 11:05:15.417811
 2025-09-25,36860,2025092504000145,UMHL,Citizens Share Broker Limited,Citizens Share Broker Limited,230,542.3,124729.0,2025-09-25 11:06:40.334524

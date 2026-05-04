@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177911,2025072003000078,MFIL,Linch Stock Market Ltd.,Miyo Securities Pvt Ltd,159,650.0,103350.0,2025-07-20T11:00:16.723678
 2025-07-20,177910,2025072003000079,MFIL,Nepal Investment And Securities Trading Private Limited,Miyo Securities Pvt Ltd,602,650.0,391300.0,2025-07-20T11:00:16.723779
 2025-07-20,177909,2025072003000080,MFIL,Trisul Securities & Invt. Ltd.,Miyo Securities Pvt Ltd,300,640.0,192000.0,2025-07-20T11:00:16.723866

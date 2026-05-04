@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56788,2025082505000050,CHDC,Thrive Brokerage House Pvt. Ltd,Thrive Brokerage House Pvt. Ltd,12,2520.0,30240.0,2025-08-25 11:01:52.219200
 2025-08-25,55450,2025082505000326,CHDC,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,1,2500.0,2500.0,2025-08-25 11:08:10.152607
 2025-08-25,54682,2025082505000542,CHDC,Trishakti Securities Public Limited,Secured Securities Ltd.,10,2557.0,25570.0,2025-08-25 11:11:47.589110

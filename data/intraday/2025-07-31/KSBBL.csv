@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168481,2025073103000039,KSBBL,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,10,560.0,5600.0,2025-07-31 11:00:10.581498
 2025-07-31,168079,2025073103000111,KSBBL,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,50,557.9,27895.0,2025-07-31 11:01:31.635740
 2025-07-31,168078,2025073103000112,KSBBL,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,130,558.0,72540.0,2025-07-31 11:01:31.635839

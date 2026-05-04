@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KSBBL,35,5,10,480.0,4800.0,2026-04-28 14:59:57.366,2026042803008656
 KSBBL,65,34,500,477.5,238750.0,2026-04-28 14:59:48.483,2026042803008427
 KSBBL,65,45,50,477.5,23875.0,2026-04-28 14:58:57.687,2026042803008234

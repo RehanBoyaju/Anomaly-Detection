@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88253,2025071004000110,SJCL,Agrawal Securities (PVT) Ltd.,Sanima Securities Limited,40,313.0,12520.0,2025-07-10 11:02:09.339179
 2025-07-10,87940,2025071004000224,SJCL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,20,313.1,6262.0,2025-07-10 11:03:46.552476
 2025-07-10,87409,2025071004000391,SJCL,Hatemalo Financial Services Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,20,314.0,6280.0,2025-07-10 11:06:13.886449

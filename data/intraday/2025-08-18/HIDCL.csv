@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67719,2025081805000086,HIDCL,Roadshow securities limited,Creative Securities Pvt Ltd,10,290.0,2900.0,2025-08-18T11:01:52.70663
 2025-08-18,65834,2025081805000790,HIDCL,Nepal Stock House (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,20,285.2,5704.0,2025-08-18T11:11:59.156266
 2025-08-18,65737,2025081805000825,HIDCL,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,100,285.2,28520.0,2025-08-18T11:12:29.674698

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,77758,2025090203000280,GFCL,Nepal Stock House (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,4,612.0,2448.0,2025-09-02 11:20:46.012119
 2025-09-02,69844,2025090203000673,GFCL,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,14,620.0,8680.0,2025-09-02 11:39:40.318369
 2025-09-02,69843,2025090203000674,GFCL,Thrive Brokerage House Pvt. Ltd,Trishakti Securities Public Limited,30,618.4,18552.0,2025-09-02 11:39:40.318431

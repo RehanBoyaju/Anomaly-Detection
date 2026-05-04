@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67957,2025081804000002,NHPC,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,10,204.4,2044.0,2025-08-18T10:46:00.008837
 2025-08-18,67350,2025081804000150,NHPC,Pragyan Securities (PVT) Ltd.,S.P.S.A. Securities Limited,10,208.0,2080.0,2025-08-18T11:04:40.970567
 2025-08-18,66959,2025081804000219,NHPC,Ashutosh Brokerage & Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,200,208.0,41600.0,2025-08-18T11:06:52.321585

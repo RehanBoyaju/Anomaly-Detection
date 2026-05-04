@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74046,2025071503000002,NABBC,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,1670.0,16700.0,2025-07-15 10:46:00.013448
 2025-07-15,73919,2025071503000018,NABBC,Miyo Securities Pvt Ltd,ABC Securities Private Limited,10,1665.6,16656.0,2025-07-15 11:01:11.539626
 2025-07-15,73918,2025071503000019,NABBC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,10,1637.2,16372.0,2025-07-15 11:01:11.539674

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,147579,2025072401001697,SBI,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,10,442.0,4420.0,2025-07-24 11:12:39.712109
 2025-07-24,145774,2025072401002144,SBI,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,20,442.0,8840.0,2025-07-24 11:15:29.590055
 2025-07-24,144755,2025072401002447,SBI,SHUBHAKAMANA SECURITIES PVT. LTD,Himalayan Brokerage Company Limited,100,443.4,44340.0,2025-07-24 11:17:03.576078

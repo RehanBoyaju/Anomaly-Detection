@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7212,2025091805000040,CHDC,Deevyaa Securities & Stock House Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,300,2431.2,729360.0,2025-09-18 10:46:00.073867
 2025-09-18,7211,2025091805000041,CHDC,Ashutosh Brokerage & Securities (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,2431.2,24312.0,2025-09-18 10:46:00.073893
 2025-09-18,7210,2025091805000042,CHDC,Linch Stock Market Ltd.,Swarna Laxmi Securities Pvt. Ltd.,25,2431.2,60780.0,2025-09-18 10:46:00.073920

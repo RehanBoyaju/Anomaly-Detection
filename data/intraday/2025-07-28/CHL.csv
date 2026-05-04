@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,168542,2025072804000712,CHL,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,10,333.0,3330.0,2025-07-28T11:05:31.217984
 2025-07-28,166474,2025072804001308,CHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,SUN SECURITIES PVT LTD,500,330.0,165000.0,2025-07-28T11:09:22.400926
 2025-07-28,166165,2025072804001399,CHL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,11,327.0,3597.0,2025-07-28T11:09:42.228197

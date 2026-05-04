@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157375,2025072904000027,GLH,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,297.0,2970.0,2025-07-29 11:00:32.516030
 2025-07-29,157011,2025072904000082,GLH,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,297.0,59400.0,2025-07-29 11:01:39.694004
 2025-07-29,156716,2025072904000127,GLH,Nepal Stock House (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,90,297.0,26730.0,2025-07-29 11:02:14.358381

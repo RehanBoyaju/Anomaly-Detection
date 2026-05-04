@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,126473,2025080501004098,EBL,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,725.0,7250.0,2025-08-05 11:02:59.588874
 2025-08-05,125532,2025080501004898,EBL,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,500,720.0,360000.0,2025-08-05 11:03:42.668621
 2025-08-05,122862,2025080501007100,EBL,Dynamic Money Managers Securities Pvt. Ltd.,Himalayan Securities Limited,1000,720.0,720000.0,2025-08-05 11:05:53.762004

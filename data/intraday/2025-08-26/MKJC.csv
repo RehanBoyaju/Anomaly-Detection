@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,42940,2025082605000768,MKJC,Sundhara Securities Limited,Naasa Securities Co. Ltd.,500,558.0,279000.0,2025-08-26 11:19:20.501887
 2025-08-26,42939,2025082605000769,MKJC,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,476,558.0,265608.0,2025-08-26 11:19:20.502007
 2025-08-26,42698,2025082605000860,MKJC,Indira securities pvt. ltd,Aryatara Investment & Securities,10,567.0,5670.0,2025-08-26 11:20:40.887181

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,53181,2025082503001907,PFL,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,17,399.0,6783.0,2025-08-25 11:19:29.140843
 2025-08-25,52894,2025082503001982,PFL,Opal Securities Investment (PVT) Ltd.,Aryatara Investment & Securities,83,399.0,33117.0,2025-08-25 11:20:50.346101
 2025-08-25,52619,2025082503002050,PFL,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,17,399.0,6783.0,2025-08-25 11:22:03.758909

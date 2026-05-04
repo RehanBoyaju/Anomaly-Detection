@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98832,2025071601000316,ADBL,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,10,329.9,3299.0,2025-07-16 11:03:06.041296
 2025-07-16,98317,2025071601000586,ADBL,Secured Securities Ltd.,Shree Krishna Securities Ltd.,15,329.5,4942.5,2025-07-16 11:04:45.710864
 2025-07-16,97317,2025071601001011,ADBL,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,100,329.0,32900.0,2025-07-16 11:07:52.729838

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140013,2025071703000254,SIFC,Trishakti Securities Public Limited,J.F. Securites (PVT) Ltd.,91,554.4,50450.4,2025-07-17 11:04:11.726957
 2025-07-17,140012,2025071703000255,SIFC,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,50,554.4,27720.0,2025-07-17 11:04:11.727004
 2025-07-17,140011,2025071703000256,SIFC,Trishakti Securities Public Limited,Linch Stock Market Ltd.,59,554.4,32709.6,2025-07-17 11:04:11.727036

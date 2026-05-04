@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BPCL,63,67,30,675.0,20250.0,2026-04-28 14:59:25.529,2026042804014687
 BPCL,85,34,860,670.2,576372.0,2026-04-28 14:59:01.381,2026042804014486
 BPCL,33,34,50,670.2,33510.0,2026-04-28 14:59:01.381,2026042804014485

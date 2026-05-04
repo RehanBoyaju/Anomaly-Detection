@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149228,2025080404000013,HDHPC,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,10,202.6,2026.0,2025-08-04 10:46:00.049488
 2025-08-04,148666,2025080404000122,HDHPC,pahiinvestment,Sewa Securities Pvt. Ltd.,10,205.1,2051.0,2025-08-04 11:00:46.857863
 2025-08-04,148083,2025080404000252,HDHPC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sewa Securities Pvt. Ltd.,400,205.1,82040.0,2025-08-04 11:01:22.696218

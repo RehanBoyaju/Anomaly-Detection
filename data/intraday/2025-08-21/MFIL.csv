@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,55990,2025082103000118,MFIL,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,10,678.0,6780.0,2025-08-21 11:08:42.591805
 2025-08-21,55404,2025082103000198,MFIL,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,40,678.0,27120.0,2025-08-21 11:13:45.974992
 2025-08-21,55403,2025082103000199,MFIL,Shree Krishna Securities Ltd.,Thrive Brokerage House Pvt. Ltd,50,678.0,33900.0,2025-08-21 11:13:45.975048

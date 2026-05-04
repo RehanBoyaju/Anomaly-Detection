@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61779,2025081904000001,NHPC,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,207.0,2070.0,2025-08-19 10:46:00.012464
 2025-08-19,61332,2025081904000203,NHPC,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,20,211.1,4222.0,2025-08-19 11:02:56.728899
 2025-08-19,61227,2025081904000244,NHPC,Trisul Securities & Invt. Ltd.,Trisul Securities & Invt. Ltd.,20,215.3,4306.0,2025-08-19 11:03:36.421605

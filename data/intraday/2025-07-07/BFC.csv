@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71094,2025070703000078,BFC,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,60,512.0,30720.0,2025-07-07 11:00:56.739008
 2025-07-07,70740,2025070703000227,BFC,Swarna Laxmi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,100,510.0,51000.0,2025-07-07 11:03:00.184247
 2025-07-07,70343,2025070703000349,BFC,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,25,505.0,12625.0,2025-07-07 11:05:10.698712

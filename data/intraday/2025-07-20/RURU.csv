@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,173261,2025072004001730,RURU,Asian Securities Private Ltd.,Sani Securities Company Ltd.,20,748.0,14960.0,2025-07-20T11:06:35.385575
 2025-07-20,166221,2025072004003899,RURU,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,13,736.8,9578.4,2025-07-20T11:14:27.539533
 2025-07-20,165856,2025072004004004,RURU,Himalayan Brokerage Company Limited,Midas Stock Broking Company Private Limited,200,736.9,147380.0,2025-07-20T11:14:53.936241

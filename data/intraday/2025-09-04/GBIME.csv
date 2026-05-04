@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68878,2025090401000046,GBIME,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,251.3,2513.0,2025-09-04T11:01:13.876751
 2025-09-04,67444,2025090401000722,GBIME,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,50,250.0,12500.0,2025-09-04T11:08:38.177869
 2025-09-04,67443,2025090401000723,GBIME,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,100,250.0,25000.0,2025-09-04T11:08:38.178085

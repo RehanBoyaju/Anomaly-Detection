@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141474,2025073004000009,RADHI,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,865.0,8650.0,2025-07-30 10:46:00.042526
 2025-07-30,140874,2025073004000107,RADHI,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,500,860.0,430000.0,2025-07-30 11:02:07.384005
 2025-07-30,140823,2025073004000114,RADHI,Nepal Stock House (PVT) Ltd.,Sundhara Securities Limited,11,860.0,9460.0,2025-07-30 11:02:15.887555

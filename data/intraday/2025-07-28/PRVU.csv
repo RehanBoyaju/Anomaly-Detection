@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170133,2025072801000130,PRVU,Sipla Securities Private Limited,Capital Max Securities Ltd,100,230.1,23010.0,2025-07-28T11:02:05.580821
 2025-07-28,169395,2025072801000258,PRVU,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,10,231.0,2310.0,2025-07-28T11:03:54.203228
 2025-07-28,169096,2025072801000334,PRVU,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Stoxkarts Securities Limited,990,231.0,228690.0,2025-07-28T11:04:30.177544

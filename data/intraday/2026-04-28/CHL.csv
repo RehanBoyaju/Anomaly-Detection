@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CHL,34,63,130,290.5,37765.0,2026-04-28 14:59:38.330,2026042804014840
 CHL,34,95,100,290.4,29040.0,2026-04-28 14:59:38.329,2026042804014839
 CHL,59,42,200,290.1,58020.00000000001,2026-04-28 14:59:33.597,2026042804014787

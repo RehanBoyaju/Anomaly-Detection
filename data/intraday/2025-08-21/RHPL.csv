@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56743,2025082104000036,RHPL,Sani Securities Company Ltd.,Global IME Securities Limited,50,316.0,15800.0,2025-08-21 11:00:48.701273
 2025-08-21,56732,2025082104000039,RHPL,Sani Securities Company Ltd.,Premier Securities Company Ltd.,50,316.0,15800.0,2025-08-21 11:01:03.474558
 2025-08-21,56715,2025082104000043,RHPL,Online Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,50,316.0,15800.0,2025-08-21 11:01:21.594074

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44753,2025082604000069,GLH,Siprabi Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,269.0,2690.0,2025-08-26 11:04:25.314797
 2025-08-26,43552,2025082604000326,GLH,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,73,268.0,19564.0,2025-08-26 11:14:42.997097
 2025-08-26,41324,2025082604000784,GLH,Kohinoor Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,10,267.9,2679.0,2025-08-26 11:30:15.984293

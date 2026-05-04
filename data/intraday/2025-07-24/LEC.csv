@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154570,2025072404000035,LEC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,248.7,12435.0,2025-07-24 10:46:00.074694
 2025-07-24,154126,2025072404000253,LEC,Midas Stock Broking Company Private Limited,Asian Securities Private Ltd.,10,245.3,2453.0,2025-07-24 11:01:16.298382
 2025-07-24,153893,2025072404000348,LEC,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,246.0,12300.0,2025-07-24 11:01:44.780441

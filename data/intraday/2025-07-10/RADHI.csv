@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88415,2025071004000065,RADHI,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,500,795.0,397500.0,2025-07-10 11:01:14.408975
 2025-07-10,88383,2025071004000071,RADHI,Kumari Securities Private Limited,Sumeru Securities Pvt. Ltd.,500,796.0,398000.0,2025-07-10 11:01:23.777708
 2025-07-10,88353,2025071004000078,RADHI,Kumari Securities Private Limited,South Asian Bulls Pvt. Ltd.,500,796.0,398000.0,2025-07-10 11:01:30.605588

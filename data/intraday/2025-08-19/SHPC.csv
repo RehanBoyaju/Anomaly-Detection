@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61156,2025081904000280,SHPC,Primo Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,100,564.0,56400.0,2025-08-19 11:04:06.092098
 2025-08-19,60977,2025081904000338,SHPC,Trishakti Securities Public Limited,Secured Securities Ltd.,10,568.0,5680.0,2025-08-19 11:05:30.444017
 2025-08-19,60848,2025081904000397,SHPC,Sundhara Securities Limited,Secured Securities Ltd.,90,568.0,51120.0,2025-08-19 11:06:21.650544

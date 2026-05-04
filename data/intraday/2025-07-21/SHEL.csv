@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138647,2025072104000053,SHEL,Kalika Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,1200,298.0,357600.0,2025-07-21 11:00:23.290742
 2025-07-21,138531,2025072104000100,SHEL,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,70,297.0,20790.0,2025-07-21 11:00:47.180073
 2025-07-21,138429,2025072104000164,SHEL,ABC Securities Private Limited,Online Securities Pvt. Ltd.,80,297.0,23760.0,2025-07-21 11:00:58.290604

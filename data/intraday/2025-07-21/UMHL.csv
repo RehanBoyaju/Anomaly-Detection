@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138785,2025072104000012,UMHL,K.B.L. Securities Limited ,Capital Max Securities Ltd,100,560.0,56000.0,2025-07-21 10:46:00.050291
 2025-07-21,138575,2025072104000081,UMHL,R.B.B. Securities Company Ltd,Sweta Securities Private Limited,10,573.0,5730.0,2025-07-21 11:00:39.498065
 2025-07-21,138456,2025072104000142,UMHL,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,10,567.0,5670.0,2025-07-21 11:00:56.466130

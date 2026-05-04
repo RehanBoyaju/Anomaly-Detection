@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56800,2025082104000014,AKJCL,Imperial Securities Company Pvt. Ltd.,INDEX SECURITIES LIMITED,10,201.1,2011.0,2025-08-21 10:46:00.049573
 2025-08-21,56799,2025082104000015,AKJCL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Capital Max Securities Ltd,10,201.1,2011.0,2025-08-21 10:46:00.049611
 2025-08-21,56555,2025082104000093,AKJCL,Naasa Securities Co. Ltd.,Sajilo Broker Limited,10,205.1,2051.0,2025-08-21 11:03:04.985197

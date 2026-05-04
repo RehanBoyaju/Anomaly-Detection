@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,136962,2025072104000846,GLH,Malla & Malla Stock Broking Company Pvt. Limited,Secured Securities Ltd.,10,283.0,2830.0,2025-07-21 11:03:51.790760
 2025-07-21,136900,2025072104000878,GLH,Malla & Malla Stock Broking Company Pvt. Limited,Sri Hari Securities Pvt. Ltd.,10,283.0,2830.0,2025-07-21 11:03:57.419659
 2025-07-21,136644,2025072104000966,GLH,Malla & Malla Stock Broking Company Pvt. Limited,South Asian Bulls Pvt. Ltd.,180,283.0,50940.0,2025-07-21 11:04:23.157417

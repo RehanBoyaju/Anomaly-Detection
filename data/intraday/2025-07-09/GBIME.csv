@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62766,2025070901000023,GBIME,NIMB Stock Markets Limited,Siprabi Securities Pvt. Ltd.,10,236.1,2361.0,2025-07-09 11:00:34.463747
 2025-07-09,62226,2025070901000138,GBIME,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,90,236.6,21294.0,2025-07-09 11:04:21.620879
 2025-07-09,61879,2025070901000213,GBIME,Trisul Securities & Invt. Ltd.,South Asian Bulls Pvt. Ltd.,10,238.0,2380.0,2025-07-09 11:06:28.421808

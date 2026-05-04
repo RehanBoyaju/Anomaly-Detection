@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,59710,2025081903000196,ICFC,Blue Chip Securities Ltd,Naasa Securities Co. Ltd.,10,680.0,6800.0,2025-08-19 11:12:57.348790
 2025-08-19,57394,2025081903000443,ICFC,Sajilo Broker Limited,Agrawal Securities (PVT) Ltd.,50,673.0,33650.0,2025-08-19 11:24:05.663772
 2025-08-19,56037,2025081903000651,ICFC,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,100,671.1,67110.0,2025-08-19 11:29:51.422765

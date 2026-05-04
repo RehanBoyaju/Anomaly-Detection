@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108851,2025092103000012,NABBC,Aryatara Investment & Securities,ABC Securities Private Limited,60,674.0,40440.0,2025-09-21 10:46:00.011803
 2025-09-21,106563,2025092103000389,NABBC,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,240,675.0,162000.0,2025-09-21 11:01:45.045401
 2025-09-21,104050,2025092103000793,NABBC,Deevyaa Securities & Stock House Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,500,674.0,337000.0,2025-09-21 11:04:03.713437

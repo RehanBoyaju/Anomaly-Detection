@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37540,2025092505000009,CHDC,Asian Securities Private Ltd.,ABC Securities Private Limited,20,2326.0,46520.0,2025-09-25 10:46:00.029828
 2025-09-25,37539,2025092505000010,CHDC,Naasa Securities Co. Ltd.,ABC Securities Private Limited,80,2326.0,186080.0,2025-09-25 10:46:00.029872
 2025-09-25,37007,2025092505000221,CHDC,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,10,2350.0,23500.0,2025-09-25 11:05:08.545602

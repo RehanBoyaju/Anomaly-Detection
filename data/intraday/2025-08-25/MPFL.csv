@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,54733,2025082503001292,MPFL,Malla & Malla Stock Broking Company Pvt. Limited,Online Securities Pvt. Ltd.,10,600.0,6000.0,2025-08-25 11:11:26.097376
 2025-08-25,54372,2025082503001439,MPFL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,256,600.0,153600.0,2025-08-25 11:13:21.575139
 2025-08-25,54371,2025082503001440,MPFL,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,244,600.0,146400.0,2025-08-25 11:13:21.575236

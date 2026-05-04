@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67732,2025090304000117,CHCL,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,10,501.0,5010.0,2025-09-03 11:04:29.175678
 2025-09-03,66848,2025090304000219,CHCL,Sundhara Securities Limited,Naasa Securities Co. Ltd.,9,500.0,4500.0,2025-09-03 11:08:31.010593
 2025-09-03,65203,2025090304000405,CHCL,Sweta Securities Private Limited,Prabhu Stock Market Limited,13,505.0,6565.0,2025-09-03 11:14:40.578575

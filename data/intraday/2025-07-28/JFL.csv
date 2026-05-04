@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,169343,2025072803000253,JFL,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,15,520.0,7800.0,2025-07-28T11:03:59.929741
 2025-07-28,169043,2025072803000322,JFL,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,15,520.0,7800.0,2025-07-28T11:04:35.430287
 2025-07-28,167522,2025072803000636,JFL,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,40,520.0,20800.0,2025-07-28T11:07:31.159081

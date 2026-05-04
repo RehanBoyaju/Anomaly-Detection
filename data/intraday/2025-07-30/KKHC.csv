@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140446,2025073004000191,KKHC,Ashutosh Brokerage & Securities (PVT) Ltd.,Elite Stock House Limited,10,290.0,2900.0,2025-07-30 11:03:09.140232
 2025-07-30,138232,2025073004000641,KKHC,Online Securities Pvt. Ltd.,Elite Stock House Limited,23,290.0,6670.0,2025-07-30 11:07:49.218998
 2025-07-30,136744,2025073004000925,KKHC,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,78,290.0,22620.0,2025-07-30 11:10:37.016420

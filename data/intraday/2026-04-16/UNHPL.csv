@@ -1,192 +1,192 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026041604000017,UNHPL,4,11,10,506.0,5060.0,2026-04-16,186531600,2831,Opal Securities Investment (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 10:46:00.071898,Union Hydropower Limited
-2026041604000456,UNHPL,42,36,10,516.0,5160.0,2026-04-16,186535624,2831,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-16 11:04:26.691276,Union Hydropower Limited
-2026041604000561,UNHPL,58,38,40,516.0,20640.0,2026-04-16,186537094,2831,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:05:47.730580,Union Hydropower Limited
-2026041604000566,UNHPL,8,38,50,516.0,25800.0,2026-04-16,186537140,2831,Brilliant Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:05:50.603987,Union Hydropower Limited
-2026041604000641,UNHPL,57,38,100,516.0,51600.0,2026-04-16,186538002,2831,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:06:40.732092,Union Hydropower Limited
-2026041604001356,UNHPL,51,42,1300,514.0,668200.0,2026-04-16,186544956,2831,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:12:01.741733,Union Hydropower Limited
-2026041604001670,UNHPL,43,42,100,514.0,51400.0,2026-04-16,186548414,2831,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:14:54.472551,Union Hydropower Limited
-2026041604001761,UNHPL,36,38,10,516.0,5160.0,2026-04-16,186549413,2831,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:15:42.800204,Union Hydropower Limited
-2026041604001762,UNHPL,36,21,24,516.0,12384.0,2026-04-16,186549416,2831,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:15:42.800328,Union Hydropower Limited
-2026041604002097,UNHPL,49,21,13,519.5,6753.5,2026-04-16,186552458,2831,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:18:38.194083,Union Hydropower Limited
-2026041604002265,UNHPL,34,21,467,519.5,242606.5,2026-04-16,186554211,2831,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 11:20:41.755649,Union Hydropower Limited
-2026041604002266,UNHPL,34,62,326,520.0,169520.0,2026-04-16,186554213,2831,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-16 11:20:41.755876,Union Hydropower Limited
-2026041604002297,UNHPL,34,62,107,520.0,55640.0,2026-04-16,186554541,2831,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-16 11:21:06.413990,Union Hydropower Limited
-2026041604002591,UNHPL,43,62,500,520.0,260000.0,2026-04-16,186556678,2831,South Asian Bulls Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 11:23:23.137101,Union Hydropower Limited
-2026041604002992,UNHPL,41,42,100,517.0,51700.0,2026-04-16,186560071,2831,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-16 11:26:46.244010,Union Hydropower Limited
-2026041604003099,UNHPL,36,42,10,516.2,5162.0,2026-04-16,186561208,2831,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:28:03.774204,Union Hydropower Limited
-2026041604003100,UNHPL,62,42,200,516.2,103240.0,2026-04-16,186561210,2831,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 11:28:03.774359,Union Hydropower Limited
-2026041604003101,UNHPL,36,42,70,516.1,36127.0,2026-04-16,186561212,2831,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:28:03.774414,Union Hydropower Limited
-2026041604003102,UNHPL,36,42,20,516.0,10320.0,2026-04-16,186561213,2831,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:28:03.774470,Union Hydropower Limited
-2026041604003279,UNHPL,36,42,30,516.0,15480.0,2026-04-16,186562654,2831,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:29:34.748594,Union Hydropower Limited
-2026041604003280,UNHPL,70,42,170,516.0,87720.0,2026-04-16,186562655,2831,Infinity Securities Limited,Sani Securities Company Ltd.,2026-04-16 11:29:34.748722,Union Hydropower Limited
-2026041604003587,UNHPL,70,34,30,516.0,15480.0,2026-04-16,186565160,2831,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 11:31:53.635860,Union Hydropower Limited
-2026041604004377,UNHPL,70,42,100,514.1,51410.0,2026-04-16,186571079,2831,Infinity Securities Limited,Sani Securities Company Ltd.,2026-04-16 11:36:52.523601,Union Hydropower Limited
-2026041604004434,UNHPL,70,34,100,514.1,51410.0,2026-04-16,186571506,2831,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 11:37:21.768237,Union Hydropower Limited
-2026041604004610,UNHPL,62,34,170,514.0,87380.0,2026-04-16,186572633,2831,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-16 11:38:29.717984,Union Hydropower Limited
-2026041604004957,UNHPL,39,58,10,517.0,5170.0,2026-04-16,186576628,2831,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:42:13.133007,Union Hydropower Limited
-2026041604005309,UNHPL,62,42,30,514.0,15420.0,2026-04-16,186579753,2831,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 11:45:11.816471,Union Hydropower Limited
-2026041604005412,UNHPL,41,29,50,513.4,25670.0,2026-04-16,186580616,2831,Linch Stock Market Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.731837,Union Hydropower Limited
-2026041604005413,UNHPL,19,29,100,513.3,51330.0,2026-04-16,186580618,2831,Nepal Investment And Securities Trading Private Limited,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.732000,Union Hydropower Limited
-2026041604005414,UNHPL,33,29,50,513.2,25660.0,2026-04-16,186580620,2831,Dakshinkali Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.732059,Union Hydropower Limited
-2026041604005415,UNHPL,62,29,300,513.0,153900.0,2026-04-16,186580621,2831,Capital Max Securities Ltd,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.732135,Union Hydropower Limited
-2026041604005455,UNHPL,62,65,50,513.0,25650.0,2026-04-16,186580887,2831,Capital Max Securities Ltd,Sharepro Securities Private Limited,2026-04-16 11:46:30.196383,Union Hydropower Limited
-2026041604005634,UNHPL,11,57,50,513.1,25655.0,2026-04-16,186583003,2831,Malla & Malla Stock Broking Company Pvt. Limited,Aryatara Investment & Securities,2026-04-16 11:48:55.326838,Union Hydropower Limited
-2026041604005690,UNHPL,11,62,950,513.1,487445.0,2026-04-16,186583592,2831,Malla & Malla Stock Broking Company Pvt. Limited,Capital Max Securities Ltd,2026-04-16 11:49:39.170041,Union Hydropower Limited
-2026041604005691,UNHPL,62,62,50,513.0,25650.0,2026-04-16,186583593,2831,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-16 11:49:39.170083,Union Hydropower Limited
-2026041604005796,UNHPL,42,13,20,514.0,10280.0,2026-04-16,186584670,2831,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:51:00.723269,Union Hydropower Limited
-2026041604006661,UNHPL,16,42,400,515.0,206000.0,2026-04-16,186594054,2831,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 12:01:08.662420,Union Hydropower Limited
-2026041604006958,UNHPL,39,58,10,517.0,5170.0,2026-04-16,186596536,2831,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:04:38.533101,Union Hydropower Limited
-2026041604008008,UNHPL,91,39,1000,513.7,513700.0,2026-04-16,186605592,2831,Citizens Share Broker Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.488861,Union Hydropower Limited
-2026041604008009,UNHPL,7,39,705,513.6,362088.0,2026-04-16,186605594,2831,J.F. Securites (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.488981,Union Hydropower Limited
-2026041604008010,UNHPL,62,39,200,513.5,102700.0,2026-04-16,186605596,2831,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.489071,Union Hydropower Limited
-2026041604008011,UNHPL,14,39,95,513.3,48763.5,2026-04-16,186605597,2831,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.489141,Union Hydropower Limited
-2026041604008014,UNHPL,14,39,905,513.3,464536.5,2026-04-16,186605654,2831,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:35.121769,Union Hydropower Limited
-2026041604008015,UNHPL,14,39,95,513.2,48754.0,2026-04-16,186605655,2831,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:35.121826,Union Hydropower Limited
-2026041604008017,UNHPL,14,62,295,513.2,151394.0,2026-04-16,186605672,2831,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,2026-04-16 12:16:38.945904,Union Hydropower Limited
-2026041604008018,UNHPL,41,62,100,513.1,51310.0,2026-04-16,186605674,2831,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-16 12:16:38.946055,Union Hydropower Limited
-2026041604008019,UNHPL,62,62,105,513.0,53865.0,2026-04-16,186605675,2831,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-16 12:16:38.946117,Union Hydropower Limited
-2026041604008977,UNHPL,62,42,95,513.0,48735.0,2026-04-16,186614656,2831,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 12:28:11.931635,Union Hydropower Limited
-2026041604008978,UNHPL,33,42,30,512.2,15366.0,2026-04-16,186614658,2831,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:28:11.931930,Union Hydropower Limited
-2026041604008979,UNHPL,62,42,575,512.2,294515.0,2026-04-16,186614659,2831,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 12:28:11.932141,Union Hydropower Limited
-2026041604009314,UNHPL,71,28,400,512.4,204960.0,2026-04-16,186618702,2831,SHUBHAKAMANA SECURITIES PVT. LTD,Shree Krishna Securities Ltd.,2026-04-16 12:34:13.900220,Union Hydropower Limited
-2026041604010013,UNHPL,62,7,25,512.2,12805.0,2026-04-16,186627208,2831,Capital Max Securities Ltd,J.F. Securites (PVT) Ltd.,2026-04-16 12:47:07.380181,Union Hydropower Limited
-2026041604010026,UNHPL,43,7,100,512.0,51200.0,2026-04-16,186627480,2831,South Asian Bulls Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 12:47:31.955065,Union Hydropower Limited
-2026041604010052,UNHPL,19,7,75,511.3,38347.5,2026-04-16,186627747,2831,Nepal Investment And Securities Trading Private Limited,J.F. Securites (PVT) Ltd.,2026-04-16 12:47:53.788389,Union Hydropower Limited
-2026041604010356,UNHPL,72,39,580,511.4,296612.0,2026-04-16,186631068,2831,Hatemalo Financial Services Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:04.586642,Union Hydropower Limited
-2026041604010357,UNHPL,19,39,25,511.3,12782.5,2026-04-16,186631070,2831,Nepal Investment And Securities Trading Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:04.586760,Union Hydropower Limited
-2026041604010358,UNHPL,11,39,395,511.3,201963.5,2026-04-16,186631071,2831,Malla & Malla Stock Broking Company Pvt. Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:04.586823,Union Hydropower Limited
-2026041604010378,UNHPL,11,39,1000,511.3,511300.0,2026-04-16,186631403,2831,Malla & Malla Stock Broking Company Pvt. Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:38.461750,Union Hydropower Limited
-2026041604010402,UNHPL,39,58,10,512.4,5124.0,2026-04-16,186631513,2831,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:53:44.580998,Union Hydropower Limited
-2026041604010781,UNHPL,39,50,40,512.4,20496.0,2026-04-16,186635084,2831,Sumeru Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 12:59:44.304747,Union Hydropower Limited
-2026041604010782,UNHPL,11,50,105,511.3,53686.5,2026-04-16,186635086,2831,Malla & Malla Stock Broking Company Pvt. Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 12:59:44.304926,Union Hydropower Limited
-2026041604010783,UNHPL,72,50,355,511.3,181511.5,2026-04-16,186635087,2831,Hatemalo Financial Services Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 12:59:44.304987,Union Hydropower Limited
-2026041604010860,UNHPL,72,42,500,511.3,255650.0,2026-04-16,186635583,2831,Hatemalo Financial Services Private Limited,Sani Securities Company Ltd.,2026-04-16 13:00:19.186140,Union Hydropower Limited
-2026041604010876,UNHPL,72,42,115,511.3,58799.5,2026-04-16,186635886,2831,Hatemalo Financial Services Private Limited,Sani Securities Company Ltd.,2026-04-16 13:00:53.511150,Union Hydropower Limited
-2026041604010877,UNHPL,36,42,100,511.3,51130.0,2026-04-16,186635888,2831,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 13:00:53.511344,Union Hydropower Limited
-2026041604010878,UNHPL,35,42,985,511.2,503532.0,2026-04-16,186635889,2831,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:00:53.511408,Union Hydropower Limited
-2026041604011101,UNHPL,35,19,15,511.2,7668.0,2026-04-16,186637406,2831,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:03:18.491701,Union Hydropower Limited
-2026041604011102,UNHPL,95,19,35,511.1,17888.5,2026-04-16,186637407,2831,Magnet Securities and Investment Company Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:03:18.492025,Union Hydropower Limited
-2026041604011154,UNHPL,95,38,50,511.1,25555.0,2026-04-16,186637965,2831,Magnet Securities and Investment Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:04:15.739813,Union Hydropower Limited
-2026041604011479,UNHPL,4,39,800,512.9,410320.0,2026-04-16,186640942,2831,Opal Securities Investment (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 13:07:50.055671,Union Hydropower Limited
-2026041604011597,UNHPL,4,91,200,513.0,102600.0,2026-04-16,186641712,2831,Opal Securities Investment (PVT) Ltd.,Citizens Share Broker Limited,2026-04-16 13:08:50.595752,Union Hydropower Limited
-2026041604012040,UNHPL,95,62,415,511.1,212106.5,2026-04-16,186644846,2831,Magnet Securities and Investment Company Private Limited,Capital Max Securities Ltd,2026-04-16 13:11:31.862615,Union Hydropower Limited
-2026041604012041,UNHPL,57,62,500,511.0,255500.0,2026-04-16,186644848,2831,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-16 13:11:31.862916,Union Hydropower Limited
-2026041604012158,UNHPL,4,62,113,510.0,57630.0,2026-04-16,186645614,2831,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-16 13:12:09.036568,Union Hydropower Limited
-2026041604012159,UNHPL,11,62,387,510.0,197370.0,2026-04-16,186645615,2831,Malla & Malla Stock Broking Company Pvt. Limited,Capital Max Securities Ltd,2026-04-16 13:12:09.036849,Union Hydropower Limited
-2026041604012295,UNHPL,11,58,13,510.0,6630.0,2026-04-16,186646372,2831,Malla & Malla Stock Broking Company Pvt. Limited,Naasa Securities Co. Ltd.,2026-04-16 13:12:50.754829,Union Hydropower Limited
-2026041604012296,UNHPL,58,58,137,510.0,69870.0,2026-04-16,186646373,2831,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:12:50.754991,Union Hydropower Limited
-2026041604012671,UNHPL,60,62,10,511.0,5110.0,2026-04-16,186648324,2831,Nagarik Stock Dealer ,Capital Max Securities Ltd,2026-04-16 13:14:35.132012,Union Hydropower Limited
-2026041604012762,UNHPL,49,42,20,510.0,10200.0,2026-04-16,186648772,2831,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:14:56.802155,Union Hydropower Limited
-2026041604012763,UNHPL,38,42,100,510.0,51000.0,2026-04-16,186648774,2831,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-16 13:14:56.802332,Union Hydropower Limited
-2026041604012764,UNHPL,4,42,200,510.0,102000.0,2026-04-16,186648776,2831,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 13:14:56.802415,Union Hydropower Limited
-2026041604012765,UNHPL,62,42,240,510.0,122400.0,2026-04-16,186648777,2831,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 13:14:56.802476,Union Hydropower Limited
-2026041604012882,UNHPL,62,5,360,510.0,183600.0,2026-04-16,186649312,2831,Capital Max Securities Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:15:20.181948,Union Hydropower Limited
-2026041604012883,UNHPL,58,5,10,510.0,5100.0,2026-04-16,186649313,2831,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:15:20.182237,Union Hydropower Limited
-2026041604013667,UNHPL,58,5,10,509.0,5090.0,2026-04-16,186654184,2831,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980644,Union Hydropower Limited
-2026041604013668,UNHPL,32,5,10,508.1,5081.0,2026-04-16,186654186,2831,Premier Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980811,Union Hydropower Limited
-2026041604013669,UNHPL,38,5,100,508.0,50800.0,2026-04-16,186654188,2831,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980907,Union Hydropower Limited
-2026041604013670,UNHPL,34,5,200,508.0,101600.0,2026-04-16,186654190,2831,Vision Securities Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980975,Union Hydropower Limited
-2026041604013671,UNHPL,45,5,280,508.0,142240.0,2026-04-16,186654191,2831,Imperial Securities Company Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.981045,Union Hydropower Limited
-2026041604013826,UNHPL,45,60,419,508.0,212852.0,2026-04-16,186655292,2831,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-16 13:20:00.050405,Union Hydropower Limited
-2026041604013827,UNHPL,35,60,581,508.0,295148.0,2026-04-16,186655293,2831,Kohinoor Investment & Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-16 13:20:00.050552,Union Hydropower Limited
-2026041604013927,UNHPL,35,58,19,508.0,9652.0,2026-04-16,186655860,2831,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:20:30.408952,Union Hydropower Limited
-2026041604013928,UNHPL,62,58,81,508.0,41148.0,2026-04-16,186655861,2831,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:20:30.409118,Union Hydropower Limited
-2026041604014368,UNHPL,60,80,70,509.0,35630.0,2026-04-16,186658513,2831,Nagarik Stock Dealer ,Indira securities pvt. ltd,2026-04-16 13:22:35.483980,Union Hydropower Limited
-2026041604014413,UNHPL,58,48,250,508.1,127025.0,2026-04-16,186658756,2831,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-16 13:22:46.375994,Union Hydropower Limited
-2026041604014414,UNHPL,62,48,800,508.0,406400.0,2026-04-16,186658757,2831,Capital Max Securities Ltd,Trishakti Securities Public Limited,2026-04-16 13:22:46.376165,Union Hydropower Limited
-2026041604014556,UNHPL,62,74,1000,508.0,508000.0,2026-04-16,186659759,2831,Capital Max Securities Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:23:40.762986,Union Hydropower Limited
-2026041604014974,UNHPL,39,5,10,510.9,5109.0,2026-04-16,186662658,2831,Sumeru Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:26:28.754908,Union Hydropower Limited
-2026041604014975,UNHPL,14,5,490,510.9,250341.0,2026-04-16,186662659,2831,Nepal Stock House (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:26:28.917560,Union Hydropower Limited
-2026041604015323,UNHPL,14,34,100,508.1,50810.0,2026-04-16,186665425,2831,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:29:53.523257,Union Hydropower Limited
-2026041604015373,UNHPL,14,67,33,508.1,16767.3,2026-04-16,186665894,2831,Nepal Stock House (PVT) Ltd.,Property Wiard Limited,2026-04-16 13:30:23.557833,Union Hydropower Limited
-2026041604015374,UNHPL,62,67,32,508.0,16256.0,2026-04-16,186665895,2831,Capital Max Securities Ltd,Property Wiard Limited,2026-04-16 13:30:23.558130,Union Hydropower Limited
-2026041604015622,UNHPL,33,36,51,508.1,25913.1,2026-04-16,186668403,2831,Dakshinkali Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-16 13:32:45.638694,Union Hydropower Limited
-2026041604015922,UNHPL,33,8,49,508.1,24896.9,2026-04-16,186670688,2831,Dakshinkali Investment & Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891266,Union Hydropower Limited
-2026041604015923,UNHPL,62,8,87,508.0,44196.0,2026-04-16,186670690,2831,Capital Max Securities Ltd,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891432,Union Hydropower Limited
-2026041604015924,UNHPL,58,8,10,508.0,5080.0,2026-04-16,186670692,2831,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891517,Union Hydropower Limited
-2026041604015925,UNHPL,57,8,50,508.0,25400.0,2026-04-16,186670694,2831,Aryatara Investment & Securities,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891589,Union Hydropower Limited
-2026041604015926,UNHPL,58,8,10,508.0,5080.0,2026-04-16,186670696,2831,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891657,Union Hydropower Limited
-2026041604015927,UNHPL,58,8,10,508.0,5080.0,2026-04-16,186670698,2831,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891716,Union Hydropower Limited
-2026041604015928,UNHPL,50,8,134,508.0,68072.0,2026-04-16,186670699,2831,Cristal Kanchanjanga Securites Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891773,Union Hydropower Limited
-2026041604016238,UNHPL,50,57,66,508.0,33528.0,2026-04-16,186672360,2831,Cristal Kanchanjanga Securites Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270232,Union Hydropower Limited
-2026041604016239,UNHPL,58,57,363,508.0,184404.0,2026-04-16,186672362,2831,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270319,Union Hydropower Limited
-2026041604016240,UNHPL,34,57,200,507.2,101440.0,2026-04-16,186672364,2831,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 13:36:29.270375,Union Hydropower Limited
-2026041604016241,UNHPL,98,57,200,507.1,101420.0,2026-04-16,186672366,2831,Trademow Securities Private Limited,Aryatara Investment & Securities,2026-04-16 13:36:29.270405,Union Hydropower Limited
-2026041604016242,UNHPL,32,57,10,507.1,5071.0,2026-04-16,186672368,2831,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270434,Union Hydropower Limited
-2026041604016243,UNHPL,28,57,161,507.0,81627.0,2026-04-16,186672369,2831,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270466,Union Hydropower Limited
-2026041604016296,UNHPL,28,57,39,507.0,19773.0,2026-04-16,186672668,2831,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454357,Union Hydropower Limited
-2026041604016297,UNHPL,58,57,650,507.0,329550.0,2026-04-16,186672670,2831,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454454,Union Hydropower Limited
-2026041604016298,UNHPL,38,57,100,507.0,50700.0,2026-04-16,186672672,2831,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454528,Union Hydropower Limited
-2026041604016299,UNHPL,34,57,200,507.0,101400.0,2026-04-16,186672674,2831,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 13:36:44.454638,Union Hydropower Limited
-2026041604016300,UNHPL,58,57,10,507.0,5070.0,2026-04-16,186672676,2831,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454711,Union Hydropower Limited
-2026041604016608,UNHPL,58,26,10,507.0,5070.0,2026-04-16,186674806,2831,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:38:32.958018,Union Hydropower Limited
-2026041604016609,UNHPL,58,26,10,507.0,5070.0,2026-04-16,186674808,2831,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:38:32.958351,Union Hydropower Limited
-2026041604016610,UNHPL,57,26,50,507.0,25350.0,2026-04-16,186674810,2831,Aryatara Investment & Securities,Asian Securities Private Ltd.,2026-04-16 13:38:32.958551,Union Hydropower Limited
-2026041604016815,UNHPL,7,26,30,507.0,15210.0,2026-04-16,186676152,2831,J.F. Securites (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-16 13:39:41.479152,Union Hydropower Limited
-2026041604017367,UNHPL,68,52,10,506.4,5064.0,2026-04-16,186679671,2831,Elite Stock House Limited,Sundhara Securities Limited,2026-04-16 13:43:48.575584,Union Hydropower Limited
-2026041604017369,UNHPL,42,91,50,509.9,25495.0,2026-04-16,186679682,2831,Sani Securities Company Ltd.,Citizens Share Broker Limited,2026-04-16 13:43:50.122607,Union Hydropower Limited
-2026041604017834,UNHPL,44,67,400,509.0,203600.0,2026-04-16,186683453,2831,Dynamic Money Managers Securities Pvt. Ltd.,Property Wiard Limited,2026-04-16 13:49:11.290676,Union Hydropower Limited
-2026041604017835,UNHPL,44,91,100,509.9,50990.0,2026-04-16,186683456,2831,Dynamic Money Managers Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 13:49:11.290750,Union Hydropower Limited
-2026041604018036,UNHPL,52,41,50,509.0,25450.0,2026-04-16,186685445,2831,Sundhara Securities Limited,Linch Stock Market Ltd.,2026-04-16 13:52:33.037861,Union Hydropower Limited
-2026041604018246,UNHPL,52,91,200,509.0,101800.0,2026-04-16,186686401,2831,Sundhara Securities Limited,Citizens Share Broker Limited,2026-04-16 13:54:01.004960,Union Hydropower Limited
-2026041604018416,UNHPL,52,100,150,509.0,76350.0,2026-04-16,186687983,2831,Sundhara Securities Limited,Sunrise Securities Limited,2026-04-16 13:56:40.500447,Union Hydropower Limited
-2026041604018604,UNHPL,52,100,100,509.0,50900.0,2026-04-16,186689571,2831,Sundhara Securities Limited,Sunrise Securities Limited,2026-04-16 13:59:34.513510,Union Hydropower Limited
-2026041604019054,UNHPL,25,58,50,508.0,25400.0,2026-04-16,186692520,2831,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 14:03:29.671858,Union Hydropower Limited
-2026041604019149,UNHPL,35,100,100,507.2,50720.0,2026-04-16,186693585,2831,Kohinoor Investment & Securities Pvt. Ltd.,Sunrise Securities Limited,2026-04-16 14:04:59.707985,Union Hydropower Limited
-2026041604019823,UNHPL,7,42,580,507.3,294234.0,2026-04-16,186698772,2831,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 14:12:11.304011,Union Hydropower Limited
-2026041604019824,UNHPL,62,42,300,507.3,152190.0,2026-04-16,186698774,2831,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 14:12:11.304335,Union Hydropower Limited
-2026041604019825,UNHPL,35,42,410,507.2,207952.0,2026-04-16,186698775,2831,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:12:11.304520,Union Hydropower Limited
-2026041604019940,UNHPL,35,51,10,507.2,5072.0,2026-04-16,186699521,2831,Kohinoor Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:13:11.561765,Union Hydropower Limited
-2026041604020185,UNHPL,42,58,100,508.0,50800.0,2026-04-16,186701816,2831,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:16:58.822944,Union Hydropower Limited
-2026041604020422,UNHPL,35,91,10,507.2,5072.0,2026-04-16,186704023,2831,Kohinoor Investment & Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:21:01.610964,Union Hydropower Limited
-2026041604020456,UNHPL,35,91,470,507.2,238384.0,2026-04-16,186704352,2831,Kohinoor Investment & Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:21:20.926042,Union Hydropower Limited
-2026041604020457,UNHPL,57,91,50,507.0,25350.0,2026-04-16,186704354,2831,Aryatara Investment & Securities,Citizens Share Broker Limited,2026-04-16 14:21:20.926262,Union Hydropower Limited
-2026041604020458,UNHPL,62,91,130,507.0,65910.0,2026-04-16,186704355,2831,Capital Max Securities Ltd,Citizens Share Broker Limited,2026-04-16 14:21:20.926347,Union Hydropower Limited
-2026041604020472,UNHPL,42,58,30,508.0,15240.0,2026-04-16,186704457,2831,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:21:28.693730,Union Hydropower Limited
-2026041604021213,UNHPL,42,42,20,508.0,10160.0,2026-04-16,186712256,2831,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 14:30:20.822811,Union Hydropower Limited
-2026041604021306,UNHPL,68,42,380,508.0,193040.0,2026-04-16,186713925,2831,Elite Stock House Limited,Sani Securities Company Ltd.,2026-04-16 14:31:39.465418,Union Hydropower Limited
-2026041604021480,UNHPL,44,62,500,509.0,254500.0,2026-04-16,186715533,2831,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 14:33:15.120607,Union Hydropower Limited
-2026041604021481,UNHPL,44,28,400,509.0,203600.0,2026-04-16,186715536,2831,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-16 14:33:15.120898,Union Hydropower Limited
-2026041604021746,UNHPL,84,89,6580,508.9,3348562.0,2026-04-16,186717556,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Global IME Securities Limited,2026-04-16 14:35:40.110994,Union Hydropower Limited
-2026041604021924,UNHPL,44,49,100,508.1,50810.0,2026-04-16,186718605,2831,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:36:53.565937,Union Hydropower Limited
-2026041604022552,UNHPL,42,33,50,508.0,25400.0,2026-04-16,186722991,2831,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:41:27.905167,Union Hydropower Limited
-2026041604022806,UNHPL,42,49,150,508.0,76200.0,2026-04-16,186725389,2831,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:43:44.422209,Union Hydropower Limited
-2026041604022839,UNHPL,61,91,100,507.2,50720.0,2026-04-16,186725786,2831,BHOLE GANESH SECURITIES LTD,Citizens Share Broker Limited,2026-04-16 14:44:07.581822,Union Hydropower Limited
-2026041604022840,UNHPL,16,91,250,507.1,126775.0,2026-04-16,186725788,2831,Primo Securities (PVT) Ltd.,Citizens Share Broker Limited,2026-04-16 14:44:07.582002,Union Hydropower Limited
-2026041604022841,UNHPL,33,91,50,507.1,25355.0,2026-04-16,186725790,2831,Dakshinkali Investment & Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:44:07.582064,Union Hydropower Limited
-2026041604022842,UNHPL,62,91,70,507.0,35490.0,2026-04-16,186725792,2831,Capital Max Securities Ltd,Citizens Share Broker Limited,2026-04-16 14:44:07.582127,Union Hydropower Limited
-2026041604022843,UNHPL,45,91,10,507.0,5070.0,2026-04-16,186725794,2831,Imperial Securities Company Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:44:07.582187,Union Hydropower Limited
-2026041604022844,UNHPL,84,91,20,507.0,10140.0,2026-04-16,186725795,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Citizens Share Broker Limited,2026-04-16 14:44:07.582248,Union Hydropower Limited
-2026041604022854,UNHPL,84,91,500,507.0,253500.0,2026-04-16,186725885,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Citizens Share Broker Limited,2026-04-16 14:44:13.883601,Union Hydropower Limited
-2026041604022862,UNHPL,84,91,500,507.0,253500.0,2026-04-16,186726115,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Citizens Share Broker Limited,2026-04-16 14:44:19.896155,Union Hydropower Limited
-2026041604023015,UNHPL,84,7,350,507.0,177450.0,2026-04-16,186727447,2831,MILKY WAY SHARE BROKER COMPANY LTD ,J.F. Securites (PVT) Ltd.,2026-04-16 14:45:22.167655,Union Hydropower Limited
-2026041604023202,UNHPL,22,54,150,507.1,76065.0,2026-04-16,186728591,2831,Siprabi Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-16 14:46:26.036644,Union Hydropower Limited
-2026041604023248,UNHPL,22,6,100,507.1,50710.0,2026-04-16,186729029,2831,Siprabi Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:46:52.565512,Union Hydropower Limited
-2026041604023663,UNHPL,39,28,10,509.0,5090.0,2026-04-16,186731568,2831,Sumeru Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-16 14:48:56.480955,Union Hydropower Limited
-2026041604024403,UNHPL,22,22,10,507.7,5077.0,2026-04-16,186736235,2831,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:52:42.097776,Union Hydropower Limited
-2026041604024419,UNHPL,60,58,35,508.5,17797.5,2026-04-16,186736512,2831,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-16 14:52:49.319739,Union Hydropower Limited
-2026041604024588,UNHPL,62,28,175,509.0,89075.0,2026-04-16,186738079,2831,Capital Max Securities Ltd,Shree Krishna Securities Ltd.,2026-04-16 14:53:43.162953,Union Hydropower Limited
-2026041604024589,UNHPL,62,28,500,509.0,254500.0,2026-04-16,186738081,2831,Capital Max Securities Ltd,Shree Krishna Securities Ltd.,2026-04-16 14:53:43.163112,Union Hydropower Limited
-2026041604024590,UNHPL,62,91,325,509.0,165425.0,2026-04-16,186738084,2831,Capital Max Securities Ltd,Citizens Share Broker Limited,2026-04-16 14:53:43.163175,Union Hydropower Limited
-2026041604024607,UNHPL,22,91,175,509.0,89075.0,2026-04-16,186738329,2831,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:53:53.589370,Union Hydropower Limited
-2026041604024608,UNHPL,22,6,100,509.0,50900.0,2026-04-16,186738331,2831,Siprabi Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:53:53.589656,Union Hydropower Limited
-2026041604024609,UNHPL,22,91,218,509.0,110962.0,2026-04-16,186738334,2831,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:53:53.589852,Union Hydropower Limited
-2026041604024659,UNHPL,56,91,282,509.0,143538.0,2026-04-16,186739060,2831,Sri Hari Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:54:05.998309,Union Hydropower Limited
-2026041604024694,UNHPL,39,45,11,510.0,5610.0,2026-04-16,186739338,2831,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:54:13.932360,Union Hydropower Limited
-2026041604024707,UNHPL,56,45,89,510.0,45390.0,2026-04-16,186739415,2831,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:54:17.906097,Union Hydropower Limited
-2026041604024708,UNHPL,56,62,40,510.8,20432.0,2026-04-16,186739417,2831,Sri Hari Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 14:54:17.906266,Union Hydropower Limited
-2026041604024709,UNHPL,56,38,148,510.9,75613.2,2026-04-16,186739419,2831,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:54:17.906364,Union Hydropower Limited
-2026041604025086,UNHPL,42,42,17,510.0,8670.0,2026-04-16,186742736,2831,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 14:56:25.396264,Union Hydropower Limited
-2026041604025087,UNHPL,56,42,500,508.3,254150.0,2026-04-16,186742738,2831,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:56:25.396556,Union Hydropower Limited
-2026041604025088,UNHPL,84,42,433,508.2,220050.6,2026-04-16,186742739,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-16 14:56:25.396751,Union Hydropower Limited
-2026041604025524,UNHPL,84,42,200,508.2,101640.0,2026-04-16,186745625,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-16 14:57:52.831911,Union Hydropower Limited
-2026041604025716,UNHPL,84,28,400,508.2,203280.0,2026-04-16,186747309,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Shree Krishna Securities Ltd.,2026-04-16 14:58:26.003472,Union Hydropower Limited
-2026041604025913,UNHPL,84,42,200,508.4,101680.0,2026-04-16,186748897,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-16 14:58:56.110652,Union Hydropower Limited
-2026041604025945,UNHPL,84,36,500,508.4,254200.0,2026-04-16,186749233,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Secured Securities Ltd.,2026-04-16 14:59:03.671474,Union Hydropower Limited
-2026041604026118,UNHPL,35,51,50,508.5,25425.0,2026-04-16,186750376,2831,Kohinoor Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:59:22.295091,Union Hydropower Limited
-2026041604026119,UNHPL,84,51,140,508.4,71176.0,2026-04-16,186750377,2831,MILKY WAY SHARE BROKER COMPANY LTD ,Oxford Securities Pvt. Ltd.,2026-04-16 14:59:22.295306,Union Hydropower Limited
-2026041604026126,UNHPL,36,35,203,510.0,103530.0,2026-04-16,186750394,2831,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:22.631753,Union Hydropower Limited
-2026041604026127,UNHPL,36,19,247,510.8,126167.6,2026-04-16,186750398,2831,Secured Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:59:22.631926,Union Hydropower Limited
-2026041604026232,UNHPL,84,17,50,508.4,25420.0,2026-04-16,186751167,2831,MILKY WAY SHARE BROKER COMPANY LTD ,ABC Securities Private Limited,2026-04-16 14:59:31.921743,Union Hydropower Limited
-2026041604026402,UNHPL,42,19,753,510.8,384632.4,2026-04-16,186752733,2831,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:59:47.898183,Union Hydropower Limited
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026041604000017,UNHPL,4,11,10,506.0,5060.0,Opal Securities Investment (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-16 10:46:00.071898
+2026041604000456,UNHPL,42,36,10,516.0,5160.0,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-16 11:04:26.691276
+2026041604000561,UNHPL,58,38,40,516.0,20640.0,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:05:47.730580
+2026041604000566,UNHPL,8,38,50,516.0,25800.0,Brilliant Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:05:50.603987
+2026041604000641,UNHPL,57,38,100,516.0,51600.0,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:06:40.732092
+2026041604001356,UNHPL,51,42,1300,514.0,668200.0,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:12:01.741733
+2026041604001670,UNHPL,43,42,100,514.0,51400.0,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 11:14:54.472551
+2026041604001761,UNHPL,36,38,10,516.0,5160.0,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 11:15:42.800204
+2026041604001762,UNHPL,36,21,24,516.0,12384.0,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:15:42.800328
+2026041604002097,UNHPL,49,21,13,519.5,6753.5,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-16 11:18:38.194083
+2026041604002265,UNHPL,34,21,467,519.5,242606.5,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-16 11:20:41.755649
+2026041604002266,UNHPL,34,62,326,520.0,169520.0,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-16 11:20:41.755876
+2026041604002297,UNHPL,34,62,107,520.0,55640.0,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,2026-04-16 11:21:06.413990
+2026041604002591,UNHPL,43,62,500,520.0,260000.0,South Asian Bulls Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 11:23:23.137101
+2026041604002992,UNHPL,41,42,100,517.0,51700.0,Linch Stock Market Ltd.,Sani Securities Company Ltd.,2026-04-16 11:26:46.244010
+2026041604003099,UNHPL,36,42,10,516.2,5162.0,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:28:03.774204
+2026041604003100,UNHPL,62,42,200,516.2,103240.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 11:28:03.774359
+2026041604003101,UNHPL,36,42,70,516.1,36127.0,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:28:03.774414
+2026041604003102,UNHPL,36,42,20,516.0,10320.0,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:28:03.774470
+2026041604003279,UNHPL,36,42,30,516.0,15480.0,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 11:29:34.748594
+2026041604003280,UNHPL,70,42,170,516.0,87720.0,Infinity Securities Limited,Sani Securities Company Ltd.,2026-04-16 11:29:34.748722
+2026041604003587,UNHPL,70,34,30,516.0,15480.0,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 11:31:53.635860
+2026041604004377,UNHPL,70,42,100,514.1,51410.0,Infinity Securities Limited,Sani Securities Company Ltd.,2026-04-16 11:36:52.523601
+2026041604004434,UNHPL,70,34,100,514.1,51410.0,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-16 11:37:21.768237
+2026041604004610,UNHPL,62,34,170,514.0,87380.0,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,2026-04-16 11:38:29.717984
+2026041604004957,UNHPL,39,58,10,517.0,5170.0,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 11:42:13.133007
+2026041604005309,UNHPL,62,42,30,514.0,15420.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 11:45:11.816471
+2026041604005412,UNHPL,41,29,50,513.4,25670.0,Linch Stock Market Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.731837
+2026041604005413,UNHPL,19,29,100,513.3,51330.0,Nepal Investment And Securities Trading Private Limited,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.732000
+2026041604005414,UNHPL,33,29,50,513.2,25660.0,Dakshinkali Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.732059
+2026041604005415,UNHPL,62,29,300,513.0,153900.0,Capital Max Securities Ltd,Trisul Securities & Invt. Ltd.,2026-04-16 11:46:15.732135
+2026041604005455,UNHPL,62,65,50,513.0,25650.0,Capital Max Securities Ltd,Sharepro Securities Private Limited,2026-04-16 11:46:30.196383
+2026041604005634,UNHPL,11,57,50,513.1,25655.0,Malla & Malla Stock Broking Company Pvt. Limited,Aryatara Investment & Securities,2026-04-16 11:48:55.326838
+2026041604005690,UNHPL,11,62,950,513.1,487445.0,Malla & Malla Stock Broking Company Pvt. Limited,Capital Max Securities Ltd,2026-04-16 11:49:39.170041
+2026041604005691,UNHPL,62,62,50,513.0,25650.0,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-16 11:49:39.170083
+2026041604005796,UNHPL,42,13,20,514.0,10280.0,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,2026-04-16 11:51:00.723269
+2026041604006661,UNHPL,16,42,400,515.0,206000.0,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 12:01:08.662420
+2026041604006958,UNHPL,39,58,10,517.0,5170.0,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:04:38.533101
+2026041604008008,UNHPL,91,39,1000,513.7,513700.0,Citizens Share Broker Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.488861
+2026041604008009,UNHPL,7,39,705,513.6,362088.0,J.F. Securites (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.488981
+2026041604008010,UNHPL,62,39,200,513.5,102700.0,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.489071
+2026041604008011,UNHPL,14,39,95,513.3,48763.5,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:28.489141
+2026041604008014,UNHPL,14,39,905,513.3,464536.5,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:35.121769
+2026041604008015,UNHPL,14,39,95,513.2,48754.0,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 12:16:35.121826
+2026041604008017,UNHPL,14,62,295,513.2,151394.0,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,2026-04-16 12:16:38.945904
+2026041604008018,UNHPL,41,62,100,513.1,51310.0,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-16 12:16:38.946055
+2026041604008019,UNHPL,62,62,105,513.0,53865.0,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-16 12:16:38.946117
+2026041604008977,UNHPL,62,42,95,513.0,48735.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 12:28:11.931635
+2026041604008978,UNHPL,33,42,30,512.2,15366.0,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 12:28:11.931930
+2026041604008979,UNHPL,62,42,575,512.2,294515.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 12:28:11.932141
+2026041604009314,UNHPL,71,28,400,512.4,204960.0,SHUBHAKAMANA SECURITIES PVT. LTD,Shree Krishna Securities Ltd.,2026-04-16 12:34:13.900220
+2026041604010013,UNHPL,62,7,25,512.2,12805.0,Capital Max Securities Ltd,J.F. Securites (PVT) Ltd.,2026-04-16 12:47:07.380181
+2026041604010026,UNHPL,43,7,100,512.0,51200.0,South Asian Bulls Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-16 12:47:31.955065
+2026041604010052,UNHPL,19,7,75,511.3,38347.5,Nepal Investment And Securities Trading Private Limited,J.F. Securites (PVT) Ltd.,2026-04-16 12:47:53.788389
+2026041604010356,UNHPL,72,39,580,511.4,296612.0,Hatemalo Financial Services Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:04.586642
+2026041604010357,UNHPL,19,39,25,511.3,12782.5,Nepal Investment And Securities Trading Private Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:04.586760
+2026041604010358,UNHPL,11,39,395,511.3,201963.5,Malla & Malla Stock Broking Company Pvt. Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:04.586823
+2026041604010378,UNHPL,11,39,1000,511.3,511300.0,Malla & Malla Stock Broking Company Pvt. Limited,Sumeru Securities Pvt. Ltd.,2026-04-16 12:53:38.461750
+2026041604010402,UNHPL,39,58,10,512.4,5124.0,Sumeru Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 12:53:44.580998
+2026041604010781,UNHPL,39,50,40,512.4,20496.0,Sumeru Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 12:59:44.304747
+2026041604010782,UNHPL,11,50,105,511.3,53686.5,Malla & Malla Stock Broking Company Pvt. Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 12:59:44.304926
+2026041604010783,UNHPL,72,50,355,511.3,181511.5,Hatemalo Financial Services Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-16 12:59:44.304987
+2026041604010860,UNHPL,72,42,500,511.3,255650.0,Hatemalo Financial Services Private Limited,Sani Securities Company Ltd.,2026-04-16 13:00:19.186140
+2026041604010876,UNHPL,72,42,115,511.3,58799.5,Hatemalo Financial Services Private Limited,Sani Securities Company Ltd.,2026-04-16 13:00:53.511150
+2026041604010877,UNHPL,36,42,100,511.3,51130.0,Secured Securities Ltd.,Sani Securities Company Ltd.,2026-04-16 13:00:53.511344
+2026041604010878,UNHPL,35,42,985,511.2,503532.0,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:00:53.511408
+2026041604011101,UNHPL,35,19,15,511.2,7668.0,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:03:18.491701
+2026041604011102,UNHPL,95,19,35,511.1,17888.5,Magnet Securities and Investment Company Private Limited,Nepal Investment And Securities Trading Private Limited,2026-04-16 13:03:18.492025
+2026041604011154,UNHPL,95,38,50,511.1,25555.0,Magnet Securities and Investment Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 13:04:15.739813
+2026041604011479,UNHPL,4,39,800,512.9,410320.0,Opal Securities Investment (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-16 13:07:50.055671
+2026041604011597,UNHPL,4,91,200,513.0,102600.0,Opal Securities Investment (PVT) Ltd.,Citizens Share Broker Limited,2026-04-16 13:08:50.595752
+2026041604012040,UNHPL,95,62,415,511.1,212106.5,Magnet Securities and Investment Company Private Limited,Capital Max Securities Ltd,2026-04-16 13:11:31.862615
+2026041604012041,UNHPL,57,62,500,511.0,255500.0,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-16 13:11:31.862916
+2026041604012158,UNHPL,4,62,113,510.0,57630.0,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,2026-04-16 13:12:09.036568
+2026041604012159,UNHPL,11,62,387,510.0,197370.0,Malla & Malla Stock Broking Company Pvt. Limited,Capital Max Securities Ltd,2026-04-16 13:12:09.036849
+2026041604012295,UNHPL,11,58,13,510.0,6630.0,Malla & Malla Stock Broking Company Pvt. Limited,Naasa Securities Co. Ltd.,2026-04-16 13:12:50.754829
+2026041604012296,UNHPL,58,58,137,510.0,69870.0,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:12:50.754991
+2026041604012671,UNHPL,60,62,10,511.0,5110.0,Nagarik Stock Dealer ,Capital Max Securities Ltd,2026-04-16 13:14:35.132012
+2026041604012762,UNHPL,49,42,20,510.0,10200.0,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 13:14:56.802155
+2026041604012763,UNHPL,38,42,100,510.0,51000.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-16 13:14:56.802332
+2026041604012764,UNHPL,4,42,200,510.0,102000.0,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 13:14:56.802415
+2026041604012765,UNHPL,62,42,240,510.0,122400.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 13:14:56.802476
+2026041604012882,UNHPL,62,5,360,510.0,183600.0,Capital Max Securities Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:15:20.181948
+2026041604012883,UNHPL,58,5,10,510.0,5100.0,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:15:20.182237
+2026041604013667,UNHPL,58,5,10,509.0,5090.0,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980644
+2026041604013668,UNHPL,32,5,10,508.1,5081.0,Premier Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980811
+2026041604013669,UNHPL,38,5,100,508.0,50800.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980907
+2026041604013670,UNHPL,34,5,200,508.0,101600.0,Vision Securities Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.980975
+2026041604013671,UNHPL,45,5,280,508.0,142240.0,Imperial Securities Company Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:19:13.981045
+2026041604013826,UNHPL,45,60,419,508.0,212852.0,Imperial Securities Company Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-16 13:20:00.050405
+2026041604013827,UNHPL,35,60,581,508.0,295148.0,Kohinoor Investment & Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-16 13:20:00.050552
+2026041604013927,UNHPL,35,58,19,508.0,9652.0,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-16 13:20:30.408952
+2026041604013928,UNHPL,62,58,81,508.0,41148.0,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-16 13:20:30.409118
+2026041604014368,UNHPL,60,80,70,509.0,35630.0,Nagarik Stock Dealer ,Indira securities pvt. ltd,2026-04-16 13:22:35.483980
+2026041604014413,UNHPL,58,48,250,508.1,127025.0,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-16 13:22:46.375994
+2026041604014414,UNHPL,62,48,800,508.0,406400.0,Capital Max Securities Ltd,Trishakti Securities Public Limited,2026-04-16 13:22:46.376165
+2026041604014556,UNHPL,62,74,1000,508.0,508000.0,Capital Max Securities Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-16 13:23:40.762986
+2026041604014974,UNHPL,39,5,10,510.9,5109.0,Sumeru Securities Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:26:28.754908
+2026041604014975,UNHPL,14,5,490,510.9,250341.0,Nepal Stock House (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-16 13:26:28.917560
+2026041604015323,UNHPL,14,34,100,508.1,50810.0,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-16 13:29:53.523257
+2026041604015373,UNHPL,14,67,33,508.1,16767.3,Nepal Stock House (PVT) Ltd.,Property Wiard Limited,2026-04-16 13:30:23.557833
+2026041604015374,UNHPL,62,67,32,508.0,16256.0,Capital Max Securities Ltd,Property Wiard Limited,2026-04-16 13:30:23.558130
+2026041604015622,UNHPL,33,36,51,508.1,25913.1,Dakshinkali Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-16 13:32:45.638694
+2026041604015922,UNHPL,33,8,49,508.1,24896.9,Dakshinkali Investment & Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891266
+2026041604015923,UNHPL,62,8,87,508.0,44196.0,Capital Max Securities Ltd,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891432
+2026041604015924,UNHPL,58,8,10,508.0,5080.0,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891517
+2026041604015925,UNHPL,57,8,50,508.0,25400.0,Aryatara Investment & Securities,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891589
+2026041604015926,UNHPL,58,8,10,508.0,5080.0,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891657
+2026041604015927,UNHPL,58,8,10,508.0,5080.0,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891716
+2026041604015928,UNHPL,50,8,134,508.0,68072.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-16 13:34:57.891773
+2026041604016238,UNHPL,50,57,66,508.0,33528.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270232
+2026041604016239,UNHPL,58,57,363,508.0,184404.0,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270319
+2026041604016240,UNHPL,34,57,200,507.2,101440.0,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 13:36:29.270375
+2026041604016241,UNHPL,98,57,200,507.1,101420.0,Trademow Securities Private Limited,Aryatara Investment & Securities,2026-04-16 13:36:29.270405
+2026041604016242,UNHPL,32,57,10,507.1,5071.0,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270434
+2026041604016243,UNHPL,28,57,161,507.0,81627.0,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:29.270466
+2026041604016296,UNHPL,28,57,39,507.0,19773.0,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454357
+2026041604016297,UNHPL,58,57,650,507.0,329550.0,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454454
+2026041604016298,UNHPL,38,57,100,507.0,50700.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454528
+2026041604016299,UNHPL,34,57,200,507.0,101400.0,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,2026-04-16 13:36:44.454638
+2026041604016300,UNHPL,58,57,10,507.0,5070.0,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,2026-04-16 13:36:44.454711
+2026041604016608,UNHPL,58,26,10,507.0,5070.0,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:38:32.958018
+2026041604016609,UNHPL,58,26,10,507.0,5070.0,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-16 13:38:32.958351
+2026041604016610,UNHPL,57,26,50,507.0,25350.0,Aryatara Investment & Securities,Asian Securities Private Ltd.,2026-04-16 13:38:32.958551
+2026041604016815,UNHPL,7,26,30,507.0,15210.0,J.F. Securites (PVT) Ltd.,Asian Securities Private Ltd.,2026-04-16 13:39:41.479152
+2026041604017367,UNHPL,68,52,10,506.4,5064.0,Elite Stock House Limited,Sundhara Securities Limited,2026-04-16 13:43:48.575584
+2026041604017369,UNHPL,42,91,50,509.9,25495.0,Sani Securities Company Ltd.,Citizens Share Broker Limited,2026-04-16 13:43:50.122607
+2026041604017834,UNHPL,44,67,400,509.0,203600.0,Dynamic Money Managers Securities Pvt. Ltd.,Property Wiard Limited,2026-04-16 13:49:11.290676
+2026041604017835,UNHPL,44,91,100,509.9,50990.0,Dynamic Money Managers Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 13:49:11.290750
+2026041604018036,UNHPL,52,41,50,509.0,25450.0,Sundhara Securities Limited,Linch Stock Market Ltd.,2026-04-16 13:52:33.037861
+2026041604018246,UNHPL,52,91,200,509.0,101800.0,Sundhara Securities Limited,Citizens Share Broker Limited,2026-04-16 13:54:01.004960
+2026041604018416,UNHPL,52,100,150,509.0,76350.0,Sundhara Securities Limited,Sunrise Securities Limited,2026-04-16 13:56:40.500447
+2026041604018604,UNHPL,52,100,100,509.0,50900.0,Sundhara Securities Limited,Sunrise Securities Limited,2026-04-16 13:59:34.513510
+2026041604019054,UNHPL,25,58,50,508.0,25400.0,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-16 14:03:29.671858
+2026041604019149,UNHPL,35,100,100,507.2,50720.0,Kohinoor Investment & Securities Pvt. Ltd.,Sunrise Securities Limited,2026-04-16 14:04:59.707985
+2026041604019823,UNHPL,7,42,580,507.3,294234.0,J.F. Securites (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-16 14:12:11.304011
+2026041604019824,UNHPL,62,42,300,507.3,152190.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-16 14:12:11.304335
+2026041604019825,UNHPL,35,42,410,507.2,207952.0,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:12:11.304520
+2026041604019940,UNHPL,35,51,10,507.2,5072.0,Kohinoor Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:13:11.561765
+2026041604020185,UNHPL,42,58,100,508.0,50800.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:16:58.822944
+2026041604020422,UNHPL,35,91,10,507.2,5072.0,Kohinoor Investment & Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:21:01.610964
+2026041604020456,UNHPL,35,91,470,507.2,238384.0,Kohinoor Investment & Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:21:20.926042
+2026041604020457,UNHPL,57,91,50,507.0,25350.0,Aryatara Investment & Securities,Citizens Share Broker Limited,2026-04-16 14:21:20.926262
+2026041604020458,UNHPL,62,91,130,507.0,65910.0,Capital Max Securities Ltd,Citizens Share Broker Limited,2026-04-16 14:21:20.926347
+2026041604020472,UNHPL,42,58,30,508.0,15240.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-16 14:21:28.693730
+2026041604021213,UNHPL,42,42,20,508.0,10160.0,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 14:30:20.822811
+2026041604021306,UNHPL,68,42,380,508.0,193040.0,Elite Stock House Limited,Sani Securities Company Ltd.,2026-04-16 14:31:39.465418
+2026041604021480,UNHPL,44,62,500,509.0,254500.0,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 14:33:15.120607
+2026041604021481,UNHPL,44,28,400,509.0,203600.0,Dynamic Money Managers Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-16 14:33:15.120898
+2026041604021746,UNHPL,84,89,6580,508.9,3348562.0,MILKY WAY SHARE BROKER COMPANY LTD ,Global IME Securities Limited,2026-04-16 14:35:40.110994
+2026041604021924,UNHPL,44,49,100,508.1,50810.0,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:36:53.565937
+2026041604022552,UNHPL,42,33,50,508.0,25400.0,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-16 14:41:27.905167
+2026041604022806,UNHPL,42,49,150,508.0,76200.0,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-16 14:43:44.422209
+2026041604022839,UNHPL,61,91,100,507.2,50720.0,BHOLE GANESH SECURITIES LTD,Citizens Share Broker Limited,2026-04-16 14:44:07.581822
+2026041604022840,UNHPL,16,91,250,507.1,126775.0,Primo Securities (PVT) Ltd.,Citizens Share Broker Limited,2026-04-16 14:44:07.582002
+2026041604022841,UNHPL,33,91,50,507.1,25355.0,Dakshinkali Investment & Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:44:07.582064
+2026041604022842,UNHPL,62,91,70,507.0,35490.0,Capital Max Securities Ltd,Citizens Share Broker Limited,2026-04-16 14:44:07.582127
+2026041604022843,UNHPL,45,91,10,507.0,5070.0,Imperial Securities Company Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:44:07.582187
+2026041604022844,UNHPL,84,91,20,507.0,10140.0,MILKY WAY SHARE BROKER COMPANY LTD ,Citizens Share Broker Limited,2026-04-16 14:44:07.582248
+2026041604022854,UNHPL,84,91,500,507.0,253500.0,MILKY WAY SHARE BROKER COMPANY LTD ,Citizens Share Broker Limited,2026-04-16 14:44:13.883601
+2026041604022862,UNHPL,84,91,500,507.0,253500.0,MILKY WAY SHARE BROKER COMPANY LTD ,Citizens Share Broker Limited,2026-04-16 14:44:19.896155
+2026041604023015,UNHPL,84,7,350,507.0,177450.0,MILKY WAY SHARE BROKER COMPANY LTD ,J.F. Securites (PVT) Ltd.,2026-04-16 14:45:22.167655
+2026041604023202,UNHPL,22,54,150,507.1,76065.0,Siprabi Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-16 14:46:26.036644
+2026041604023248,UNHPL,22,6,100,507.1,50710.0,Siprabi Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:46:52.565512
+2026041604023663,UNHPL,39,28,10,509.0,5090.0,Sumeru Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-16 14:48:56.480955
+2026041604024403,UNHPL,22,22,10,507.7,5077.0,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-16 14:52:42.097776
+2026041604024419,UNHPL,60,58,35,508.5,17797.5,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,2026-04-16 14:52:49.319739
+2026041604024588,UNHPL,62,28,175,509.0,89075.0,Capital Max Securities Ltd,Shree Krishna Securities Ltd.,2026-04-16 14:53:43.162953
+2026041604024589,UNHPL,62,28,500,509.0,254500.0,Capital Max Securities Ltd,Shree Krishna Securities Ltd.,2026-04-16 14:53:43.163112
+2026041604024590,UNHPL,62,91,325,509.0,165425.0,Capital Max Securities Ltd,Citizens Share Broker Limited,2026-04-16 14:53:43.163175
+2026041604024607,UNHPL,22,91,175,509.0,89075.0,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:53:53.589370
+2026041604024608,UNHPL,22,6,100,509.0,50900.0,Siprabi Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-16 14:53:53.589656
+2026041604024609,UNHPL,22,91,218,509.0,110962.0,Siprabi Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:53:53.589852
+2026041604024659,UNHPL,56,91,282,509.0,143538.0,Sri Hari Securities Pvt. Ltd.,Citizens Share Broker Limited,2026-04-16 14:54:05.998309
+2026041604024694,UNHPL,39,45,11,510.0,5610.0,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:54:13.932360
+2026041604024707,UNHPL,56,45,89,510.0,45390.0,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-16 14:54:17.906097
+2026041604024708,UNHPL,56,62,40,510.8,20432.0,Sri Hari Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-16 14:54:17.906266
+2026041604024709,UNHPL,56,38,148,510.9,75613.2,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-16 14:54:17.906364
+2026041604025086,UNHPL,42,42,17,510.0,8670.0,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-16 14:56:25.396264
+2026041604025087,UNHPL,56,42,500,508.3,254150.0,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-16 14:56:25.396556
+2026041604025088,UNHPL,84,42,433,508.2,220050.6,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-16 14:56:25.396751
+2026041604025524,UNHPL,84,42,200,508.2,101640.0,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-16 14:57:52.831911
+2026041604025716,UNHPL,84,28,400,508.2,203280.0,MILKY WAY SHARE BROKER COMPANY LTD ,Shree Krishna Securities Ltd.,2026-04-16 14:58:26.003472
+2026041604025913,UNHPL,84,42,200,508.4,101680.0,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,2026-04-16 14:58:56.110652
+2026041604025945,UNHPL,84,36,500,508.4,254200.0,MILKY WAY SHARE BROKER COMPANY LTD ,Secured Securities Ltd.,2026-04-16 14:59:03.671474
+2026041604026118,UNHPL,35,51,50,508.5,25425.0,Kohinoor Investment & Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-16 14:59:22.295091
+2026041604026119,UNHPL,84,51,140,508.4,71176.0,MILKY WAY SHARE BROKER COMPANY LTD ,Oxford Securities Pvt. Ltd.,2026-04-16 14:59:22.295306
+2026041604026126,UNHPL,36,35,203,510.0,103530.0,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-16 14:59:22.631753
+2026041604026127,UNHPL,36,19,247,510.8,126167.6,Secured Securities Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:59:22.631926
+2026041604026232,UNHPL,84,17,50,508.4,25420.0,MILKY WAY SHARE BROKER COMPANY LTD ,ABC Securities Private Limited,2026-04-16 14:59:31.921743
+2026041604026402,UNHPL,42,19,753,510.8,384632.4,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-16 14:59:47.898183

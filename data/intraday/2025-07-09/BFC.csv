@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62881,2025070903000001,BFC,Sundhara Securities Limited,Malla & Malla Stock Broking Company Pvt. Limited,10,481.3,4813.0,2025-07-09 10:46:00.010287
 2025-07-09,61945,2025070903000114,BFC,Blue Chip Securities Ltd,Sani Securities Company Ltd.,10,488.0,4880.0,2025-07-09 11:05:55.666424
 2025-07-09,61555,2025070903000143,BFC,Sundhara Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,20,486.3,9726.0,2025-07-09 11:08:01.619305

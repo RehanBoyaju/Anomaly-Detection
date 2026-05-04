@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105042,2025071303000085,MPFL,Magnet Securities and Investment Company Private Limited,Aryatara Investment & Securities,10,616.6,6166.0,2025-07-13T10:46:00.083876
 2025-07-13,105041,2025071303000086,MPFL,Magnet Securities and Investment Company Private Limited,Aryatara Investment & Securities,90,616.6,55494.0,2025-07-13T10:46:00.083907
 2025-07-13,102905,2025071303000567,MPFL,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,200,628.9,125780.0,2025-07-13T11:01:49.996125

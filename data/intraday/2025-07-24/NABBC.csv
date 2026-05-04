@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154638,2025072403000001,NABBC,Sipla Securities Private Limited,Online Securities Pvt. Ltd.,190,1630.0,309700.0,2025-07-24 10:46:00.012411
 2025-07-24,154637,2025072403000002,NABBC,Sipla Securities Private Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,810,1630.0,1320300.0,2025-07-24 10:46:00.012448
 2025-07-24,105626,2025072403009242,NABBC,Sri Hari Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,15,1598.8,23982.0,2025-07-24 12:17:15.622869

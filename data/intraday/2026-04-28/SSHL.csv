@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SSHL,28,74,500,215.0,107500.0,2026-04-28 14:59:54.465,2026042804014980
 SSHL,28,50,255,215.0,54825.0,2026-04-28 14:59:45.257,2026042804014915
 SSHL,80,50,10,215.0,2150.0,2026-04-28 14:59:45.257,2026042804014914

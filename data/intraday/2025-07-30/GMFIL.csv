@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,134863,2025073003001467,GMFIL,South Asian Bulls Pvt. Ltd.,Trishakti Securities Public Limited,200,535.0,107000.0,2025-07-30 11:13:45.605132
 2025-07-30,131607,2025073003002192,GMFIL,South Asian Bulls Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,535.0,26750.0,2025-07-30 11:18:37.326938
 2025-07-30,124133,2025073003003727,GMFIL,Kohinoor Investment & Securities Pvt. Ltd.,Sagarmatha Securities Private Limited,200,533.3,106660.0,2025-07-30 11:32:22.821945

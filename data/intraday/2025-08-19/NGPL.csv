@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61766,2025081904000009,NGPL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,415.0,4150.0,2025-08-19 10:46:00.038633
 2025-08-19,61433,2025081904000177,NGPL,BHOLE GANESH SECURITIES LTD,Nepal Stock House (PVT) Ltd.,50,410.0,20500.0,2025-08-19 11:01:57.393622
 2025-08-19,61425,2025081904000178,NGPL,Midas Stock Broking Company Private Limited,Asian Securities Private Ltd.,500,412.0,206000.0,2025-08-19 11:02:04.578382

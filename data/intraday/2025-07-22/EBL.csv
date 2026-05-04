@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176997,2025072201000002,EBL,J.F. Securites (PVT) Ltd.,Midas Stock Broking Company Private Limited,135,745.0,100575.0,2025-07-22 10:46:00.072249
 2025-07-22,176996,2025072201000003,EBL,Dynamic Money Managers Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,65,745.0,48425.0,2025-07-22 10:46:00.072307
 2025-07-22,176874,2025072201000044,EBL,Dakshinkali Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,10,750.0,7500.0,2025-07-22 11:00:43.824303

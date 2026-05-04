@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,147123,2025080404000544,TRH,Imperial Securities Company Pvt. Ltd.,Kalika Securities Pvt. Ltd.,10,994.0,9940.0,2025-08-04 11:02:37.477240
 2025-08-04,140803,2025080404001290,TRH,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,50,1000.0,50000.0,2025-08-04 11:07:40.012510
 2025-08-04,140386,2025080404001340,TRH,KALASH STOCK MARKET PVT. LTD.,Agrawal Securities (PVT) Ltd.,157,1000.0,157000.0,2025-08-04 11:08:03.259027

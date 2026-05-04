@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,165546,2025073103000745,PFL,Sumeru Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,2,440.0,880.0,2025-07-31 11:06:14.993276
 2025-07-31,164915,2025073103000894,PFL,Aryatara Investment & Securities,Asian Securities Private Ltd.,500,430.7,215350.0,2025-07-31 11:07:15.543300
 2025-07-31,157040,2025073103002471,PFL,Kumari Securities Private Limited,Aryatara Investment & Securities,10,431.1,4311.0,2025-07-31 11:17:34.455955

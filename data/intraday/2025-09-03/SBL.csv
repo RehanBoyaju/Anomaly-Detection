@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68373,2025090301000103,SBL,Trishakti Securities Public Limited,KALASH STOCK MARKET PVT. LTD.,10,392.0,3920.0,2025-09-03 11:01:22.180007
 2025-09-03,68295,2025090301000162,SBL,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,15,392.0,5880.0,2025-09-03 11:01:42.632699
 2025-09-03,68099,2025090301000315,SBL,Aryatara Investment & Securities,Trishakti Securities Public Limited,20,390.0,7800.0,2025-09-03 11:02:39.989996

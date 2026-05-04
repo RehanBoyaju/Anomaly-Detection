@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141445,2025073004000019,GLH,Midas Stock Broking Company Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,301.9,3019.0,2025-07-30 10:46:00.065442
 2025-07-30,140936,2025073004000091,GLH,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,20,295.9,5918.0,2025-07-30 11:01:56.726530
 2025-07-30,140913,2025073004000097,GLH,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,80,295.9,23672.0,2025-07-30 11:02:01.453364

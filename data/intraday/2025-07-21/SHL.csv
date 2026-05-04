@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,135453,2025072104001399,SHL,Sweta Securities Private Limited,R.B.B. Securities Company Ltd,300,581.0,174300.0,2025-07-21 11:06:22.834488
 2025-07-21,134672,2025072104001691,SHL,Asian Securities Private Ltd.,Capital Max Securities Ltd,200,581.1,116220.0,2025-07-21 11:07:26.737499
 2025-07-21,134671,2025072104001692,SHL,Sweta Securities Private Limited,Capital Max Securities Ltd,1300,581.0,755300.0,2025-07-21 11:07:26.737578

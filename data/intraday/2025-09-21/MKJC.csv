@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,106729,2025092105000694,MKJC,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,560.0,56000.0,2025-09-21 11:01:35.403881
 2025-09-21,106343,2025092105000852,MKJC,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,100,560.0,56000.0,2025-09-21 11:01:55.611631
 2025-09-21,106179,2025092105000907,MKJC,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,125,560.0,70000.0,2025-09-21 11:02:04.782779

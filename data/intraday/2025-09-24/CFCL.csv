@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,45097,2025092403000504,CFCL,Kohinoor Investment & Securities Pvt. Ltd.,K.B.L. Securities Limited ,960,499.3,479328.0,2025-09-24 11:13:58.767765
 2025-09-24,45096,2025092403000505,CFCL,Hatemalo Financial Services Private Limited,K.B.L. Securities Limited ,100,499.2,49920.0,2025-09-24 11:13:58.767851
 2025-09-24,45095,2025092403000506,CFCL,J.F. Securites (PVT) Ltd.,K.B.L. Securities Limited ,20,498.0,9960.0,2025-09-24 11:13:58.767923

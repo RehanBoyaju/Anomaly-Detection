@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170654,2025072801000007,NBL,Midas Stock Broking Company Private Limited,Premier Securities Company Ltd.,300,302.0,90600.0,2025-07-28T10:46:00.100504
 2025-07-28,170653,2025072801000008,NBL,Midas Stock Broking Company Private Limited,Nepal Investment And Securities Trading Private Limited,200,302.0,60400.0,2025-07-28T10:46:00.100557
 2025-07-28,170323,2025072801000084,NBL,Imperial Securities Company Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,300,301.0,90300.0,2025-07-28T11:01:32.293239

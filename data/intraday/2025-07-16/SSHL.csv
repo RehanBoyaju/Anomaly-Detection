@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99232,2025071604000087,SSHL,Pragyan Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,10,255.0,2550.0,2025-07-16 11:01:17.340591
 2025-07-16,99010,2025071604000164,SSHL,Neev Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,258.8,2588.0,2025-07-16 11:02:27.210230
 2025-07-16,98945,2025071604000186,SSHL,NIMB Stock Markets Limited,Siprabi Securities Pvt. Ltd.,140,258.8,36232.0,2025-07-16 11:02:41.158857

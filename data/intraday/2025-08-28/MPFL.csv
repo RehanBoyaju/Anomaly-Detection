@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77412,2025082803000112,MPFL,Sewa Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,600.1,6001.0,2025-08-28 11:04:33.860651
 2025-08-28,77342,2025082803000117,MPFL,Siprabi Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,20,609.6,12192.0,2025-08-28 11:04:50.518810
 2025-08-28,77330,2025082803000118,MPFL,Sewa Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,190,600.1,114019.0,2025-08-28 11:04:51.781167

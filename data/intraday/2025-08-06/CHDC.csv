@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,90823,2025080605000910,CHDC,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,500,2724.1,1362050.0,2025-08-06 11:06:59.700679
 2025-08-06,87445,2025080605002176,CHDC,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,100,2682.0,268200.0,2025-08-06 11:14:57.775809
 2025-08-06,87289,2025080605002237,CHDC,Asian Securities Private Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,20,2681.0,53620.0,2025-08-06 11:15:24.156776

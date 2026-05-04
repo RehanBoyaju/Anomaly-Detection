@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,76366,2025081203000178,MPFL,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,50,633.0,31650.0,2025-08-12 11:07:31.325354
 2025-08-12,75046,2025081203000330,MPFL,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,10,633.0,6330.0,2025-08-12 11:12:23.531702
 2025-08-12,73689,2025081203000578,MPFL,Linch Stock Market Ltd.,Aryatara Investment & Securities,30,628.0,18840.0,2025-08-12 11:17:34.543602

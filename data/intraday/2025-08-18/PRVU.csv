@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67208,2025081801000249,PRVU,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Stock House (PVT) Ltd.,40,212.6,8504.0,2025-08-18T11:05:33.833383
 2025-08-18,67207,2025081801000250,PRVU,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,190,212.6,40394.0,2025-08-18T11:05:33.833458
 2025-08-18,67206,2025081801000251,PRVU,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,100,212.5,21250.0,2025-08-18T11:05:33.833495

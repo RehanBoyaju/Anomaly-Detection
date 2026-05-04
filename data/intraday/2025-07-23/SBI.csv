@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,168989,2025072301000258,SBI,Secured Securities Ltd.,Sagarmatha Securities Private Limited,100,448.0,44800.0,2025-07-23 11:02:07.777871
 2025-07-23,168988,2025072301000259,SBI,Secured Securities Ltd.,Secured Securities Ltd.,9900,449.5,4450050.0,2025-07-23 11:02:07.777923
 2025-07-23,168827,2025072301000294,SBI,Swarna Laxmi Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,335,448.0,150080.0,2025-07-23 11:02:24.498739

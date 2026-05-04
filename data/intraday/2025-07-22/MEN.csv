@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176660,2025072204000101,MEN,Imperial Securities Company Pvt. Ltd.,Neev Securities Pvt. Ltd.,200,660.0,132000.0,2025-07-22 11:01:28.780083
 2025-07-22,176419,2025072204000153,MEN,Imperial Securities Company Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,300,660.0,198000.0,2025-07-22 11:02:01.199616
 2025-07-22,176364,2025072204000163,MEN,Dakshinkali Investment & Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,100,660.0,66000.0,2025-07-22 11:02:07.382565

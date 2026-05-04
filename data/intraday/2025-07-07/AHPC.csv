@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71083,2025070704000044,AHPC,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,286.5,2865.0,2025-07-07 11:00:58.968658
 2025-07-07,70896,2025070704000088,AHPC,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,10,284.0,2840.0,2025-07-07 11:02:06.267035
 2025-07-07,70824,2025070704000099,AHPC,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,90,284.0,25560.0,2025-07-07 11:02:30.024349

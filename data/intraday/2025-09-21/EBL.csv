@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108687,2025092101000068,EBL,Sweta Securities Private Limited,ABC Securities Private Limited,30,672.0,20160.0,2025-09-21 10:46:00.026259
 2025-09-21,108686,2025092101000069,EBL,Sweta Securities Private Limited,Aryatara Investment & Securities,470,672.0,315840.0,2025-09-21 10:46:00.026296
 2025-09-21,108685,2025092101000070,EBL,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,84,672.0,56448.0,2025-09-21 10:46:00.026321

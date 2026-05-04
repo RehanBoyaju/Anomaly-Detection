@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45112,2025082601000001,HBL,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,200,214.0,42800.0,2025-08-26 10:46:00.010777
 2025-08-26,45111,2025082601000002,HBL,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,600,214.0,128400.0,2025-08-26 10:46:00.010832
 2025-08-26,44172,2025082601000171,HBL,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,72,211.0,15192.0,2025-08-26 11:10:08.755193

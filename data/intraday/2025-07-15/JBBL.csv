@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73210,2025071503000169,JBBL,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,50,340.0,17000.0,2025-07-15 11:05:44.418389
 2025-07-15,72374,2025071503000332,JBBL,Sewa Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,175,339.0,59325.0,2025-07-15 11:09:57.781929
 2025-07-15,71851,2025071503000434,JBBL,Nepal Stock House (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,200,339.0,67800.0,2025-07-15 11:12:33.602143

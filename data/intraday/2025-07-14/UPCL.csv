@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72553,2025071404000026,UPCL,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,403.0,4030.0,2025-07-14 10:46:00.060181
 2025-07-14,72085,2025071404000216,UPCL,Capital Max Securities Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,10,396.0,3960.0,2025-07-14 11:01:50.030506
 2025-07-14,71599,2025071404000383,UPCL,Capital Max Securities Ltd,Property Wiard Limited,2990,396.0,1184040.0,2025-07-14 11:03:30.847932

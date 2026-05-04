@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,86817,2025083101008030,SBI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Pragyan Securities (PVT) Ltd.,103,385.0,39655.0,2025-08-31T11:16:19.375106
 2025-08-31,85513,2025083101008950,SBI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Citizens Share Broker Limited,97,385.0,37345.0,2025-08-31T11:18:50.596916
 2025-08-31,85512,2025083101008951,SBI,Market Securities & Exchange (PVT) Ltd.,Citizens Share Broker Limited,70,384.6,26922.0,2025-08-31T11:18:50.596994

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95623,2025080704000030,SSHL,Sani Securities Company Ltd.,ABC Securities Private Limited,200,202.0,40400.0,2025-08-07 11:00:26.626715
 2025-08-07,95293,2025080704000060,SSHL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,42,202.0,8484.0,2025-08-07 11:01:37.971708
 2025-08-07,94740,2025080704000112,SSHL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,110,203.0,22330.0,2025-08-07 11:03:39.623220

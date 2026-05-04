@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BEDC,34,45,50,379.0,18950.0,2026-04-28 14:59:53.752,2026042805016438
 BEDC,26,7,4396,377.0,1657292.0,2026-04-28 14:59:50.890,2026042805016422
 BEDC,35,7,10,377.0,3770.0,2026-04-28 14:59:50.890,2026042805016421

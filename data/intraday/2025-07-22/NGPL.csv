@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177082,2025072204000010,NGPL,SHUBHAKAMANA SECURITIES PVT. LTD,Midas Stock Broking Company Private Limited,10,411.8,4118.0,2025-07-22 10:46:00.033115
 2025-07-22,177081,2025072204000011,NGPL,Prabhu Stock Market Limited,Midas Stock Broking Company Private Limited,70,411.8,28826.0,2025-07-22 10:46:00.033151
 2025-07-22,177080,2025072204000012,NGPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,20,411.8,8236.0,2025-07-22 10:46:00.033178

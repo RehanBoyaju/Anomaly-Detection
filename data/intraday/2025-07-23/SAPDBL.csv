@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169594,2025072303000082,SAPDBL,Ashutosh Brokerage & Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,30,920.0,27600.0,2025-07-23 11:01:15.787243
 2025-07-23,168479,2025072303000257,SAPDBL,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,20,920.0,18400.0,2025-07-23 11:02:51.726859
 2025-07-23,168478,2025072303000258,SAPDBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,30,920.0,27600.0,2025-07-23 11:02:51.726933

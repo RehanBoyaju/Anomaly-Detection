@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72138,2025071405000026,CHDC,Nabil Stock Dealer Ltd.,Nepal Stock House (PVT) Ltd.,10,2698.0,26980.0,2025-07-14 11:01:38.476750
 2025-07-14,71726,2025071405000055,CHDC,Machhapuchchhre Securities Limited,Nabil Stock Dealer Ltd.,4000,2670.0,10680000.0,2025-07-14 11:03:07.668386
 2025-07-14,71505,2025071405000069,CHDC,Machhapuchchhre Securities Limited,Nabil Stock Dealer Ltd.,4000,2665.0,10660000.0,2025-07-14 11:03:49.791878

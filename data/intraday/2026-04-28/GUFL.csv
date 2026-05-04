@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GUFL,32,45,46,511.5,23529.0,2026-04-28 14:59:16.282,2026042803008303
 GUFL,42,45,14,511.5,7161.0,2026-04-28 14:59:16.282,2026042803008302
 GUFL,62,45,100,512.0,51200.0,2026-04-28 14:59:16.282,2026042803008301

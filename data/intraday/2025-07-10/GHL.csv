@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88432,2025071004000053,GHL,Opal Securities Investment (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,20,256.0,5120.0,2025-07-10 11:01:07.625874
 2025-07-10,88297,2025071004000093,GHL,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,10,255.0,2550.0,2025-07-10 11:01:52.898934
 2025-07-10,87928,2025071004000229,GHL,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,20,254.0,5080.0,2025-07-10 11:03:52.419963

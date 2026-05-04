@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MKHL,84,38,49,633.0,31017.0,2026-04-28 14:59:35.487,2026042805016277
 MKHL,57,38,11,634.0,6974.0,2026-04-28 14:59:35.487,2026042805016276
 MKHL,49,52,5,615.0,3075.0,2026-04-28 14:59:29.052,2026042805016233

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53828,2025082004000012,UPCL,Malla & Malla Stock Broking Company Pvt. Limited,Sweta Securities Private Limited,10,393.0,3930.0,2025-08-20 10:46:00.051861
 2025-08-20,53698,2025082004000050,UPCL,Malla & Malla Stock Broking Company Pvt. Limited,Secured Securities Ltd.,10,400.0,4000.0,2025-08-20 11:01:34.340831
 2025-08-20,53617,2025082004000082,UPCL,Secured Securities Ltd.,Sani Securities Company Ltd.,10,405.0,4050.0,2025-08-20 11:02:39.308050

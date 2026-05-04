@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69325,2025081304000119,CGH,Naasa Securities Co. Ltd.,Sagarmatha Securities Private Limited,10,971.0,9710.0,2025-08-13 11:04:22.592778
 2025-08-13,68551,2025081304000284,CGH,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,200,975.0,195000.0,2025-08-13 11:08:49.868486
 2025-08-13,68217,2025081304000337,CGH,Creative Securities Pvt Ltd,Sani Securities Company Ltd.,50,975.0,48750.0,2025-08-13 11:10:39.551504

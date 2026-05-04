@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KDL,38,17,44,841.1,37008.4,2026-04-28 14:56:04.288,2026042801106920
 KDL,8,40,10,842.0,8420.0,2026-04-28 14:55:02.862,2026042801106131
 KDL,38,21,40,841.1,33644.0,2026-04-28 14:45:05.776,2026042801100333

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,168539,2025072303000245,RLFL,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,100,525.0,52500.0,2025-07-23 11:02:47.928906
 2025-07-23,168444,2025072303000264,RLFL,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,100,525.0,52500.0,2025-07-23 11:02:54.195989
 2025-07-23,168411,2025072303000272,RLFL,Kalika Securities Pvt. Ltd.,Premier Securities Company Ltd.,33,519.0,17127.0,2025-07-23 11:02:57.094423

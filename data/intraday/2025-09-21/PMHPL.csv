@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108433,2025092104000142,PMHPL,Investment Management Nepal Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,100,323.4,32340.0,2025-09-21 10:46:00.058231
 2025-09-21,108432,2025092104000143,PMHPL,Malla & Malla Stock Broking Company Pvt. Limited,Agrawal Securities (PVT) Ltd.,10,323.4,3234.0,2025-09-21 10:46:00.058263
 2025-09-21,108431,2025092104000144,PMHPL,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,10,323.4,3234.0,2025-09-21 10:46:00.058295

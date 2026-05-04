@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138746,2025072101000005,KBL,Beni Securities Pvt.Ltd.,Imperial Securities Company Pvt. Ltd.,10,218.0,2180.0,2025-07-21 10:46:00.117937
 2025-07-21,138745,2025072101000006,KBL,Beni Securities Pvt.Ltd.,Imperial Securities Company Pvt. Ltd.,10,218.0,2180.0,2025-07-21 10:46:00.117975
 2025-07-21,138744,2025072101000007,KBL,Online Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,17,218.0,3706.0,2025-07-21 10:46:00.118018

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176987,2025072201000004,NICA,Naasa Securities Co. Ltd.,Sipla Securities Private Limited,20,410.0,8200.0,2025-07-22 10:46:00.086702
 2025-07-22,176986,2025072201000005,NICA,Sani Securities Company Ltd.,Sipla Securities Private Limited,80,410.0,32800.0,2025-07-22 10:46:00.086786
 2025-07-22,176012,2025072201000150,NICA,Sani Securities Company Ltd.,ABC Securities Private Limited,70,411.0,28770.0,2025-07-22 11:02:49.169252

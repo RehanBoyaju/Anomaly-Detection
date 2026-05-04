@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58065,2025090704000004,BARUN,Aryatara Investment & Securities,Sani Securities Company Ltd.,50,328.0,16400.0,2025-09-07 10:46:00.018364
 2025-09-07,57911,2025090704000062,BARUN,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,150,327.2,49080.0,2025-09-07 11:01:15.231862
 2025-09-07,57803,2025090704000096,BARUN,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,50,330.0,16500.0,2025-09-07 11:02:25.409212

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86695,2025070603000284,NABBC,Bhrikuti Stock Broking Co. Pvt. Ltd.,ABC Securities Private Limited,700,1667.1,1166970.0,2025-07-06 11:03:05.288106
 2025-07-06,86028,2025070603000512,NABBC,ABC Securities Private Limited,Shree Krishna Securities Ltd.,55,1700.4,93522.0,2025-07-06 11:05:15.277589
 2025-07-06,86027,2025070603000513,NABBC,ABC Securities Private Limited,Online Securities Pvt. Ltd.,19,1723.8,32752.2,2025-07-06 11:05:15.277678

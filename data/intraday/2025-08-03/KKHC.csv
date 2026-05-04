@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,144451,2025080304000953,KKHC,Secured Securities Ltd.,Sani Securities Company Ltd.,50,280.0,14000.0,2025-08-03T11:12:10.685145
 2025-08-03,143857,2025080304001025,KKHC,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,280.0,5600.0,2025-08-03T11:12:39.986866
 2025-08-03,143004,2025080304001149,KKHC,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,15,280.0,4200.0,2025-08-03T11:13:43.48907

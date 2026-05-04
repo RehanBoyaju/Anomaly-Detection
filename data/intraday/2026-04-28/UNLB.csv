@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UNLB,45,45,30,1455.5,43665.0,2026-04-28 14:59:42.353,2026042804014873
 UNLB,54,3,10,1455.4,14554.0,2026-04-28 14:48:06.636,2026042804012275
 UNLB,54,10,40,1455.4,58216.0,2026-04-28 14:36:33.736,2026042804010975

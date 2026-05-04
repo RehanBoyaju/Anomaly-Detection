@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55735,2025082504000075,API,S.P.S.A. Securities Limited,Trisul Securities & Invt. Ltd.,225,292.0,65700.0,2025-08-25 11:06:47.885651
 2025-08-25,55734,2025082504000076,API,Thrive Brokerage House Pvt. Ltd,Trisul Securities & Invt. Ltd.,20,291.1,5822.0,2025-08-25 11:06:47.885762
 2025-08-25,55733,2025082504000077,API,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,100,291.0,29100.0,2025-08-25 11:06:47.885806

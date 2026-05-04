@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87324,2025071003000159,ALICL,Imperial Securities Company Pvt. Ltd.,Creative Securities Pvt Ltd,150,500.0,75000.0,2025-07-10 11:06:34.994512
 2025-07-10,83851,2025071003000702,ALICL,Trisul Securities & Invt. Ltd.,Thrive Brokerage House Pvt. Ltd,10,505.0,5050.0,2025-07-10 11:19:21.036383
 2025-07-10,83850,2025071003000703,ALICL,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,19,505.0,9595.0,2025-07-10 11:19:21.036459

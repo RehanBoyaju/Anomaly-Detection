@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37224,2025092505000132,SAHAS,Nagarik Stock Dealer ,Market Securities & Exchange (PVT) Ltd.,700,640.0,448000.0,2025-09-25 11:03:10.580141
 2025-09-25,36898,2025092505000241,SAHAS,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,1000,640.0,640000.0,2025-09-25 11:06:18.360037
 2025-09-25,36866,2025092505000258,SAHAS,Sani Securities Company Ltd.,Market Securities & Exchange (PVT) Ltd.,400,640.0,256000.0,2025-09-25 11:06:33.552541

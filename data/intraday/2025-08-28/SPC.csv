@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,74351,2025082805001373,SPC,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,10,530.0,5300.0,2025-08-28 11:15:43.743553
 2025-08-28,71855,2025082805002195,SPC,Sani Securities Company Ltd.,Hatemalo Financial Services Private Limited,200,531.1,106220.0,2025-08-28 11:23:13.560620
 2025-08-28,71854,2025082805002196,SPC,Blue Chip Securities Ltd,Hatemalo Financial Services Private Limited,10,531.0,5310.0,2025-08-28 11:23:13.560685

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59030,2025090801000246,KBL,Premier Securities Company Ltd.,Midas Stock Broking Company Private Limited,500,197.3,98650.0,2025-09-08 11:06:45.192859
 2025-09-08,58878,2025090801000314,KBL,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,481,197.0,94757.0,2025-09-08 11:07:57.805240
 2025-09-08,58268,2025090801000505,KBL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,19,197.0,3743.0,2025-09-08 11:11:36.615754

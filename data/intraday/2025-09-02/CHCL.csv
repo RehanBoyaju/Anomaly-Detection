@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89769,2025090204000002,CHCL,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,518.3,5183.0,2025-09-02 10:46:00.012247
 2025-09-02,87920,2025090204000031,CHCL,Property Wiard Limited,Vision Securities Pvt. Ltd,10,508.0,5080.0,2025-09-02 11:02:20.923605
 2025-09-02,87919,2025090204000032,CHCL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,30,508.0,15240.0,2025-09-02 11:02:20.923668

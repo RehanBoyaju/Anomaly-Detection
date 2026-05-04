@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,61914,2025070904000538,NHDL,Agrawal Securities (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,10,672.0,6720.0,2025-07-09 11:06:13.743223
 2025-07-09,61536,2025070904000755,NHDL,Blue Chip Securities Ltd,Opal Securities Investment (PVT) Ltd.,10,684.0,6840.0,2025-07-09 11:08:09.007494
 2025-07-09,60047,2025070904001497,NHDL,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,11,680.9,7489.9,2025-07-09 11:16:44.718163

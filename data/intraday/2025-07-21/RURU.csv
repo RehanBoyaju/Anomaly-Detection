@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138748,2025072104000033,RURU,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,100,750.0,75000.0,2025-07-21 10:46:00.094674
 2025-07-21,138695,2025072104000034,RURU,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,256,743.0,190208.0,2025-07-21 11:00:01.177252
 2025-07-21,138694,2025072104000035,RURU,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,382,732.0,279624.0,2025-07-21 11:00:01.177310

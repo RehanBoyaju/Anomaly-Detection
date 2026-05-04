@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62878,2025070903000002,CFCL,Malla & Malla Stock Broking Company Pvt. Limited,Malla & Malla Stock Broking Company Pvt. Limited,10,523.8,5238.0,2025-07-09 10:46:00.016641
 2025-07-09,62263,2025070903000067,CFCL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,534.2,5342.0,2025-07-09 11:04:12.566787
 2025-07-09,62218,2025070903000074,CFCL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,534.2,5342.0,2025-07-09 11:04:26.655216

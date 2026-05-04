@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7254,2025091804000037,BARUN,Nepal Investment And Securities Trading Private Limited,J.F. Securites (PVT) Ltd.,100,309.4,30940.0,2025-09-18 10:46:00.061654
 2025-09-18,7253,2025091804000038,BARUN,Online Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,50,309.4,15470.0,2025-09-18 10:46:00.061689
 2025-09-18,7252,2025091804000039,BARUN,Linch Stock Market Ltd.,J.F. Securites (PVT) Ltd.,10,309.4,3094.0,2025-09-18 10:46:00.061724

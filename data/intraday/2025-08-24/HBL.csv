@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57613,2025082401000070,HBL,Nepal Stock House (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,20,214.0,4280.0,2025-08-24 11:03:46.770706
 2025-08-24,56968,2025082401000204,HBL,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,50,213.0,10650.0,2025-08-24 11:08:06.723420
 2025-08-24,56722,2025082401000243,HBL,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,20,213.0,4260.0,2025-08-24 11:09:50.098301

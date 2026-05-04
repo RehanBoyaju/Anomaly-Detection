@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,61307,2025070904000890,GHL,Sweta Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,25,249.9,6247.5,2025-07-09 11:09:21.883846
 2025-07-09,61306,2025070904000891,GHL,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,75,250.0,18750.0,2025-07-09 11:09:21.884046
 2025-07-09,61305,2025070904000892,GHL,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,550,250.0,137500.0,2025-07-09 11:09:21.884160

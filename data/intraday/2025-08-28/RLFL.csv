@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77259,2025082803000123,RLFL,Premier Securities Company Ltd.,Sweta Securities Private Limited,10,491.8,4918.0,2025-08-28 11:05:08.154624
 2025-08-28,77210,2025082803000130,RLFL,Blue Chip Securities Ltd,Aryatara Investment & Securities,10,491.7,4917.0,2025-08-28 11:05:17.895919
 2025-08-28,72740,2025082803000723,RLFL,Aryatara Investment & Securities,Sweta Securities Private Limited,50,490.0,24500.0,2025-08-28 11:20:48.478118

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,161202,2025073101002340,SCB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Neev Securities Pvt. Ltd.,12,660.0,7920.0,2025-07-31 11:12:25.239606
 2025-07-31,160973,2025073101002445,SCB,Asian Securities Private Ltd.,Neev Securities Pvt. Ltd.,296,660.0,195360.0,2025-07-31 11:12:43.307598
 2025-07-31,160211,2025073101002662,SCB,Oxford Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,58,658.2,38175.6,2025-07-31 11:13:49.171975

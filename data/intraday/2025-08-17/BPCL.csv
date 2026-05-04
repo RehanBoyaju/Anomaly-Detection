@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86659,2025081704000009,BPCL,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,10,849.0,8490.0,2025-08-17 10:46:00.009016
 2025-08-17,86658,2025081704000010,BPCL,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,10,849.0,8490.0,2025-08-17 10:46:00.009056
 2025-08-17,86441,2025081704000043,BPCL,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,80,848.0,67840.0,2025-08-17 11:00:43.195727

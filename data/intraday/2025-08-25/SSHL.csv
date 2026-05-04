@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56242,2025082504000039,SSHL,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,30,190.0,5700.0,2025-08-25 11:04:16.853122
 2025-08-25,56126,2025082504000043,SSHL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,129,192.0,24768.0,2025-08-25 11:04:45.799483
 2025-08-25,54438,2025082504000204,SSHL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,80,191.0,15280.0,2025-08-25 11:12:59.986045

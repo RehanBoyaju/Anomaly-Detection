@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SPDL,21,59,10,399.0,3990.0,2026-04-28 14:59:53.551,2026042804014973
 SPDL,45,59,500,399.0,199500.0,2026-04-28 14:59:42.723,2026042804014876
 SPDL,21,34,10,399.9,3999.0,2026-04-28 14:59:26.039,2026042804014694

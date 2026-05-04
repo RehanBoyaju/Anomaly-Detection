@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76033,2025081403000047,NLICL,Sagarmatha Securities Private Limited,Vision Securities Pvt. Ltd,10,625.0,6250.0,2025-08-14 11:02:59.269731
 2025-08-14,73416,2025081403000280,NLICL,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,20,615.0,12300.0,2025-08-14 11:13:45.490361
 2025-08-14,73415,2025081403000281,NLICL,South Asian Bulls Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,480,615.0,295200.0,2025-08-14 11:13:45.490415

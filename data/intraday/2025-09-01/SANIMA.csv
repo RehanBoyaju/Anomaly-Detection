@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68736,2025090101000013,SANIMA,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,373.0,3730.0,2025-09-01 10:46:00.035742
 2025-09-01,68735,2025090101000014,SANIMA,Ashutosh Brokerage & Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,10,373.0,3730.0,2025-09-01 10:46:00.035799
 2025-09-01,68163,2025090101000384,SANIMA,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,50,365.6,18280.0,2025-09-01 11:02:33.820604

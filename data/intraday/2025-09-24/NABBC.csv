@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47846,2025092403000001,NABBC,Premier Securities Company Ltd.,Miyo Securities Pvt Ltd,10,796.5,7965.0,2025-09-24 10:46:00.010416
 2025-09-24,47844,2025092403000002,NABBC,Premier Securities Company Ltd.,INDEX SECURITIES LIMITED,10,796.5,7965.0,2025-09-24 10:46:00.010510
 2025-09-24,46968,2025092403000176,NABBC,Global IME Securities Limited,Nepal Investment And Securities Trading Private Limited,10,812.4,8124.0,2025-09-24 11:05:18.341513

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56275,2025070805000001,HIDCL,Nepal Stock House (PVT) Ltd.,J.F. Securites (PVT) Ltd.,44,286.5,12606.0,2025-07-08 10:46:00.011247
 2025-07-08,56100,2025070805000019,HIDCL,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,10,290.0,2900.0,2025-07-08 11:01:12.394777
 2025-07-08,56022,2025070805000034,HIDCL,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,100,290.0,29000.0,2025-07-08 11:01:42.857128

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,54927,2025082404000538,KKHC,Miyo Securities Pvt Ltd,Vision Securities Pvt. Ltd,20,263.0,5260.0,2025-08-24 11:18:12.676996
 2025-08-24,52414,2025082404001046,KKHC,ABC Securities Private Limited,Naasa Securities Co. Ltd.,10,265.0,2650.0,2025-08-24 11:30:39.386100
 2025-08-24,51839,2025082404001151,KKHC,ABC Securities Private Limited,Naasa Securities Co. Ltd.,140,265.0,37100.0,2025-08-24 11:33:43.314708

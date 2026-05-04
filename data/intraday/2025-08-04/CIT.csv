@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,143602,2025080405000257,CIT,South Asian Bulls Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,23,2019.9,46457.7,2025-08-04 11:05:28.100170
 2025-08-04,142553,2025080405000316,CIT,Linch Stock Market Ltd.,Nepal Investment And Securities Trading Private Limited,10,2019.0,20190.0,2025-08-04 11:06:22.085926
 2025-08-04,141700,2025080405000383,CIT,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,2019.0,40380.0,2025-08-04 11:07:02.995282

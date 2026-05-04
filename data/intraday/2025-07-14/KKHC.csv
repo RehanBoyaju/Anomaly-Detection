@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72579,2025071404000005,KKHC,J.F. Securites (PVT) Ltd.,Kalika Securities Pvt. Ltd.,150,296.8,44520.0,2025-07-14 10:46:00.038056
 2025-07-14,72578,2025071404000006,KKHC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kalika Securities Pvt. Ltd.,140,296.8,41552.0,2025-07-14 10:46:00.038089
 2025-07-14,72577,2025071404000007,KKHC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,40,296.8,11872.0,2025-07-14 10:46:00.038111

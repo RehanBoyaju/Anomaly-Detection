@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 DOLTI,74,53,182,379.7,69105.4,2026-04-28 14:59:25.565,2026042805016203
 DOLTI,74,53,18,379.5,6831.0,2026-04-28 14:59:25.565,2026042805016202
 DOLTI,35,53,32,379.5,12144.0,2026-04-28 14:57:00.135,2026042805015645

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 JSLBB,42,38,11,1101.0,12111.0,2026-04-28 14:52:57.471,2026042803007594
 JSLBB,42,38,10,1102.0,11020.0,2026-04-28 14:52:57.471,2026042803007593
 JSLBB,42,38,149,1105.0,164645.0,2026-04-28 14:52:31.768,2026042803007544

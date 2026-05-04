@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176029,2025072201000145,ADBL,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,10,338.0,3380.0,2025-07-22 11:02:46.353971
 2025-07-22,172573,2025072201000800,ADBL,Naasa Securities Co. Ltd.,Investment Management Nepal Pvt. Ltd.,10,334.0,3340.0,2025-07-22 11:08:59.309193
 2025-07-22,171928,2025072201000911,ADBL,Kumari Securities Private Limited,Investment Management Nepal Pvt. Ltd.,14,334.0,4676.0,2025-07-22 11:09:55.991505

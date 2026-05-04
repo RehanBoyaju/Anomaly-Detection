@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157039,2025072901000172,HBL,Kumari Securities Private Limited,Blue Chip Securities Ltd,50,242.0,12100.0,2025-07-29 11:01:33.290301
 2025-07-29,156796,2025072901000265,HBL,Midas Stock Broking Company Private Limited,Blue Chip Securities Ltd,200,242.0,48400.0,2025-07-29 11:02:05.640058
 2025-07-29,155740,2025072901000573,HBL,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,140,242.0,33880.0,2025-07-29 11:04:09.501391

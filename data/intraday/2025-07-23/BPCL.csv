@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170311,2025072304000002,BPCL,Primo Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,989.0,19780.0,2025-07-23 10:46:00.013167
 2025-07-23,170059,2025072304000077,BPCL,Imperial Securities Company Pvt. Ltd.,Sharepro Securities Private Limited,500,970.0,485000.0,2025-07-23 11:00:21.099016
 2025-07-23,170017,2025072304000090,BPCL,Premier Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,380,980.0,372400.0,2025-07-23 11:00:31.549804

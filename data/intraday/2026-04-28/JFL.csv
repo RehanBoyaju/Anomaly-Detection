@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 JFL,52,48,11,417.0,4587.0,2026-04-28 14:59:46.707,2026042803008425
 JFL,52,43,600,417.0,250200.0,2026-04-28 14:59:46.707,2026042803008424
 JFL,52,25,23,417.0,9591.0,2026-04-28 14:59:46.707,2026042803008423

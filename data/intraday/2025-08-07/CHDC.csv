@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94527,2025080705000422,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,2750.0,27500.0,2025-08-07 11:04:26.837532
 2025-08-07,94473,2025080705000438,CHDC,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,12,2715.0,32580.0,2025-08-07 11:04:42.776832
 2025-08-07,94404,2025080705000458,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,2750.0,27500.0,2025-08-07 11:04:58.045553

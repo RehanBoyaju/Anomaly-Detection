@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76512,2025081403000005,JBBL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,353.4,3534.0,2025-08-14 10:46:00.032312
 2025-08-14,75494,2025081403000106,JBBL,Sundhara Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,245,352.0,86240.0,2025-08-14 11:06:14.496901
 2025-08-14,73758,2025081403000262,JBBL,Sewa Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,350.0,7000.0,2025-08-14 11:12:41.630454

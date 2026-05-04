@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76531,2025081403000003,ICFC,Neev Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,30,678.3,20349.0,2025-08-14 10:46:00.020290
 2025-08-14,76530,2025081403000004,ICFC,Neev Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,69,678.3,46802.7,2025-08-14 10:46:00.020365
 2025-08-14,76399,2025081403000017,ICFC,Investment Management Nepal Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,31,678.0,21018.0,2025-08-14 11:00:55.454748

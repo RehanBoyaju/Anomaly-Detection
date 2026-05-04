@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45110,2025082603000002,NABBC,Sani Securities Company Ltd.,Aryatara Investment & Securities,10,805.9,8059.0,2025-08-26 10:46:00.012561
 2025-08-26,45109,2025082603000003,NABBC,Sani Securities Company Ltd.,Sweta Securities Private Limited,20,805.9,16118.0,2025-08-26 10:46:00.012665
 2025-08-26,45075,2025082603000009,NABBC,Naasa Securities Co. Ltd.,ABC Securities Private Limited,10,822.0,8220.0,2025-08-26 11:00:10.284493

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44709,2025082603000132,LBBL,Capital Hub P. Ltd,Imperial Securities Company Pvt. Ltd.,10,533.0,5330.0,2025-08-26 11:05:01.120970
 2025-08-26,44690,2025082603000137,LBBL,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,20,542.0,10840.0,2025-08-26 11:05:13.673044
 2025-08-26,44451,2025082603000195,LBBL,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,60,539.9,32394.0,2025-08-26 11:07:36.860144

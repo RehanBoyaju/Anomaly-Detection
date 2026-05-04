@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37478,2025092501000021,PCBL,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,500,245.0,122500.0,2025-09-25 11:00:32.231847
 2025-09-25,36149,2025092501000448,PCBL,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,21,246.0,5166.0,2025-09-25 11:13:10.237907
 2025-09-25,36060,2025092501000469,PCBL,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,900,246.0,221400.0,2025-09-25 11:13:49.813117

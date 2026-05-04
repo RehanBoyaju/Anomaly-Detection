@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,55395,2025070903000805,MPFL,Vision Securities Pvt. Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,20,606.0,12120.0,2025-07-09 11:37:06.292770
 2025-07-09,55394,2025070903000806,MPFL,Trisul Securities & Invt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,30,606.0,18180.0,2025-07-09 11:37:06.292916
 2025-07-09,51464,2025070903001306,MPFL,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,35,606.0,21210.0,2025-07-09 11:53:17.034654

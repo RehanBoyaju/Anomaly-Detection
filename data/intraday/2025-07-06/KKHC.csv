@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87371,2025070604000008,KKHC,Miyo Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,468.0,46800.0,2025-07-06 10:46:00.031891
 2025-07-06,87370,2025070604000009,KKHC,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,65,468.0,30420.0,2025-07-06 10:46:00.031931
 2025-07-06,87277,2025070604000021,KKHC,J.F. Securites (PVT) Ltd.,Infinity Securities Limited,10,463.1,4631.0,2025-07-06 11:00:21.884458

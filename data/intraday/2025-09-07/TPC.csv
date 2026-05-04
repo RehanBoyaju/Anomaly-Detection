@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57835,2025090705000062,TPC,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,10,330.0,3300.0,2025-09-07 11:02:02.938463
 2025-09-07,57702,2025090705000089,TPC,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,26,325.0,8450.0,2025-09-07 11:03:28.064786
 2025-09-07,56609,2025090705000309,TPC,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,190,329.0,62510.0,2025-09-07 11:10:13.671154

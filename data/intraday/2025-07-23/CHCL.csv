@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169800,2025072304000179,CHCL,Capital Max Securities Ltd,Neev Securities Pvt. Ltd.,25,560.0,14000.0,2025-07-23 11:00:56.722147
 2025-07-23,168922,2025072304000451,CHCL,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,563.0,5630.0,2025-07-23 11:02:15.446474
 2025-07-23,168783,2025072304000500,CHCL,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,50,560.0,28000.0,2025-07-23 11:02:29.704452

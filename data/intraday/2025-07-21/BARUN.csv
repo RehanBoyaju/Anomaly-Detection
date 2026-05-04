@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138664,2025072104000045,BARUN,Pragyan Securities (PVT) Ltd.,Kumari Securities Private Limited,10,413.0,4130.0,2025-07-21 11:00:18.696463
 2025-07-21,138264,2025072104000248,BARUN,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,40,413.0,16520.0,2025-07-21 11:01:12.805896
 2025-07-21,138076,2025072104000355,BARUN,Linch Stock Market Ltd.,Oxford Securities Pvt. Ltd.,10,408.1,4081.0,2025-07-21 11:01:41.163998

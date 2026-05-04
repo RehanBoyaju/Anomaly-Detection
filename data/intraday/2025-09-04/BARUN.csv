@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,69014,2025090404000004,BARUN,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,10,340.0,3400.0,2025-09-04T10:46:00.02309
 2025-09-04,68329,2025090404000250,BARUN,Sundhara Securities Limited,Naasa Securities Co. Ltd.,50,338.0,16900.0,2025-09-04T11:04:36.085642
 2025-09-04,68259,2025090404000266,BARUN,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,19,338.0,6422.0,2025-09-04T11:05:01.143024

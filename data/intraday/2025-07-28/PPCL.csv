@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,168647,2025072804000665,PPCL,Vision Securities Pvt. Ltd,SUN SECURITIES PVT LTD,10,383.6,3836.0,2025-07-28T11:05:19.231725
 2025-07-28,168602,2025072804000685,PPCL,Premier Securities Company Ltd.,Himalayan Brokerage Company Limited,10,370.1,3701.0,2025-07-28T11:05:26.469414
 2025-07-28,167372,2025072804001054,PPCL,Oxford Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,300,375.0,112500.0,2025-07-28T11:07:43.982099

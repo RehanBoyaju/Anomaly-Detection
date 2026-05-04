@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138819,2025072103000006,NFS,Beni Securities Pvt.Ltd.,Trisul Securities & Invt. Ltd.,10,746.0,7460.0,2025-07-21 10:46:00.019367
 2025-07-21,138818,2025072103000007,NFS,Beni Securities Pvt.Ltd.,Trisul Securities & Invt. Ltd.,10,746.0,7460.0,2025-07-21 10:46:00.019409
 2025-07-21,138603,2025072103000061,NFS,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trisul Securities & Invt. Ltd.,10,745.0,7450.0,2025-07-21 11:00:34.638534

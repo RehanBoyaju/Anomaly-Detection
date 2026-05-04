@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,62016,2025090403000647,ICFC,Sani Securities Company Ltd.,Linch Stock Market Ltd.,65,660.0,42900.0,2025-09-04T11:30:26.34727
 2025-09-04,62015,2025090403000648,ICFC,Sani Securities Company Ltd.,Premier Securities Company Ltd.,85,666.0,56610.0,2025-09-04T11:30:26.347322
 2025-09-04,61528,2025090403000719,ICFC,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,20,665.9,13318.0,2025-09-04T11:32:11.854346

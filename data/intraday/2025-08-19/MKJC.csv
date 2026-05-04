@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61412,2025081905000094,MKJC,Indira securities pvt. ltd,Trademow Securities Private Limited,10,579.9,5799.0,2025-08-19 11:02:11.678122
 2025-08-19,61407,2025081905000097,MKJC,R.B.B. Securities Company Ltd,Indira securities pvt. ltd,1000,572.0,572000.0,2025-08-19 11:02:13.686796
 2025-08-19,61312,2025081905000145,MKJC,Indira securities pvt. ltd,Sumeru Securities Pvt. Ltd.,10,578.9,5789.0,2025-08-19 11:03:04.830716

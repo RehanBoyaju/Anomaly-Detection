@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97988,2025081105000179,SPC,Primo Securities (PVT) Ltd.,NIMB Stock Markets Limited,19,530.1,10071.9,2025-08-11 11:01:52.205807
 2025-08-11,93176,2025081105001742,SPC,Pragyan Securities (PVT) Ltd.,Secured Securities Ltd.,100,537.0,53700.0,2025-08-11 11:13:36.209871
 2025-08-11,92930,2025081105001815,SPC,Linch Stock Market Ltd.,Linch Stock Market Ltd.,10,540.0,5400.0,2025-08-11 11:14:10.563066

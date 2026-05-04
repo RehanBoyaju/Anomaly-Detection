@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58064,2025090701000010,NICA,Premier Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,10,338.0,3380.0,2025-09-07 10:46:00.018561
 2025-09-07,57777,2025090701000112,NICA,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,343.0,3430.0,2025-09-07 11:02:42.847282
 2025-09-07,57707,2025090701000144,NICA,Sagarmatha Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,20,344.7,6894.0,2025-09-07 11:03:25.239290

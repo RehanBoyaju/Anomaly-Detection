@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74007,2025071504000030,UNHPL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,10,416.8,4168.0,2025-07-15 10:46:00.057733
 2025-07-15,73936,2025071504000053,UNHPL,Capital Max Securities Ltd,Capital Max Securities Ltd,25,416.0,10400.0,2025-07-15 11:00:57.233538
 2025-07-15,73894,2025071504000064,UNHPL,Sri Hari Securities Pvt. Ltd.,Capital Max Securities Ltd,15,416.0,6240.0,2025-07-15 11:01:18.871353

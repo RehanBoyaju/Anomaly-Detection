@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,74555,2025082801000895,CZBIL,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,140,210.0,29400.0,2025-08-28 11:15:08.541654
 2025-08-28,74554,2025082801000896,CZBIL,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,100,210.0,21000.0,2025-08-28 11:15:08.541805
 2025-08-28,74553,2025082801000897,CZBIL,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,50,210.0,10500.0,2025-08-28 11:15:08.541907

@@ -1,2 +1,2 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SBID83,58,8,97,1080.0,104760.0,2026-04-28 11:00:43.788,2026042801001225

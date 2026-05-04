@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,142966,2025080404001029,HPPL,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,29,509.0,14761.0,2025-08-04 11:05:59.060478
 2025-08-04,142144,2025080404001145,HPPL,S.P.S.A. Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,514.0,154200.0,2025-08-04 11:06:40.386500
 2025-08-04,142143,2025080404001146,HPPL,S.P.S.A. Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,516.0,51600.0,2025-08-04 11:06:40.386560

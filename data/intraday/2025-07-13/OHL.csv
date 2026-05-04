@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104063,2025071304000363,OHL,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,10,885.4,8854.0,2025-07-13T11:00:57.369258
 2025-07-13,100548,2025071304001223,OHL,Sumeru Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,10,883.0,8830.0,2025-07-13T11:03:21.450284
 2025-07-13,100547,2025071304001224,OHL,Sri Hari Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,300,882.0,264600.0,2025-07-13T11:03:21.450335

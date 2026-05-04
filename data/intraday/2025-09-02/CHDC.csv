@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,85383,2025090205000428,CHDC,Neev Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,196,2542.8,498388.8,2025-09-02 11:06:18.413206
 2025-09-02,85144,2025090205000458,CHDC,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,2542.0,50840.0,2025-09-02 11:06:46.711707
 2025-09-02,84513,2025090205000523,CHDC,Kumari Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,2517.1,25171.0,2025-09-02 11:07:40.358870

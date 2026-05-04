@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56822,2025082103000002,BFC,KALASH STOCK MARKET PVT. LTD.,Malla & Malla Stock Broking Company Pvt. Limited,10,489.5,4895.0,2025-08-21 10:46:00.018056
 2025-08-21,56412,2025082103000065,BFC,Cristal Kanchanjanga Securites Pvt. Ltd.,Midas Stock Broking Company Private Limited,100,499.2,49920.0,2025-08-21 11:04:28.250871
 2025-08-21,56364,2025082103000068,BFC,Oxford Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,100,499.2,49920.0,2025-08-21 11:05:00.971460

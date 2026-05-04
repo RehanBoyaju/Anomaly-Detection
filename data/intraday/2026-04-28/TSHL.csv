@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 TSHL,1,42,40,647.0,25880.0,2026-04-28 14:59:49.762,2026042805016396
 TSHL,1,36,10,646.0,6460.0,2026-04-28 14:59:49.762,2026042805016395
 TSHL,17,36,10,646.0,6460.0,2026-04-28 14:59:45.233,2026042805016378

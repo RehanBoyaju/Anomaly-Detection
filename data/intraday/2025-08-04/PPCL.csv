@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149231,2025080404000012,PPCL,Deevyaa Securities & Stock House Pvt. Ltd,Oxford Securities Pvt. Ltd.,10,351.6,3516.0,2025-08-04 10:46:00.045476
 2025-08-04,144649,2025080404000877,PPCL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Kumari Securities Private Limited,25,362.0,9050.0,2025-08-04 11:04:41.100988
 2025-08-04,144648,2025080404000878,PPCL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Naasa Securities Co. Ltd.,10,363.0,3630.0,2025-08-04 11:04:41.101023

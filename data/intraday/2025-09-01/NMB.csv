@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68722,2025090101000015,NMB,Sri Hari Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,254.3,2543.0,2025-09-01 10:46:00.045833
 2025-09-01,66968,2025090101001142,NMB,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,10,250.0,2500.0,2025-09-01 11:06:53.598179
 2025-09-01,66816,2025090101001218,NMB,Linch Stock Market Ltd.,Sweta Securities Private Limited,15,250.0,3750.0,2025-09-01 11:07:30.524767

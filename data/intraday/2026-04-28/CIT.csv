@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CIT,6,26,25,1767.1,44177.5,2026-04-28 14:59:13.226,2026042805016118
 CIT,6,26,100,1767.1,176710.0,2026-04-28 14:58:31.497,2026042805015963
 CIT,6,59,53,1767.1,93656.3,2026-04-28 14:58:18.378,2026042805015935

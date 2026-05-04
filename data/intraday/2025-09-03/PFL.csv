@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67540,2025090303000067,PFL,Blue Chip Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,403.0,4030.0,2025-09-03 11:05:19.079136
 2025-09-03,65307,2025090303000185,PFL,Naasa Securities Co. Ltd.,Secured Securities Ltd.,45,400.0,18000.0,2025-09-03 11:14:16.590926
 2025-09-03,59134,2025090303000583,PFL,ABC Securities Private Limited,Secured Securities Ltd.,60,400.0,24000.0,2025-09-03 11:37:29.061424

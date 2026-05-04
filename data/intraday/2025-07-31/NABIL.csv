@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168293,2025073101000054,NABIL,Kalika Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,40,540.1,21604.0,2025-07-31 11:00:56.824886
 2025-07-31,168292,2025073101000055,NABIL,Nepal Investment And Securities Trading Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,80,540.0,43200.0,2025-07-31 11:00:56.825006
 2025-07-31,167617,2025073101000206,NABIL,Imperial Securities Company Pvt. Ltd.,J.F. Securites (PVT) Ltd.,10,545.0,5450.0,2025-07-31 11:02:34.080569

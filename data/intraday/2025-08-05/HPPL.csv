@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,128720,2025080504000059,HPPL,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,10,513.0,5130.0,2025-08-05 11:01:41.160676
 2025-08-05,127704,2025080504000087,HPPL,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,102,513.0,52326.0,2025-08-05 11:02:11.131911
 2025-08-05,123310,2025080504000269,HPPL,South Asian Bulls Pvt. Ltd.,Vision Securities Pvt. Ltd,10,514.0,5140.0,2025-08-05 11:05:28.509827

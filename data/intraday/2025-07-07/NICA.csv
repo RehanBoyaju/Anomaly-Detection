@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70012,2025070701000246,NICA,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,28,352.0,9856.0,2025-07-07 11:06:38.201890
 2025-07-07,69925,2025070701000260,NICA,Agrawal Securities (PVT) Ltd.,KALASH STOCK MARKET PVT. LTD.,200,350.0,70000.0,2025-07-07 11:06:58.277864
 2025-07-07,69103,2025070701000474,NICA,Sani Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,100,349.0,34900.0,2025-07-07 11:10:09.800371

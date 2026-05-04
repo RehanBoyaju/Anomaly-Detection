@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104853,2025071304000200,SSHL,Secured Securities Ltd.,Asian Securities Private Ltd.,10,252.9,2529.0,2025-07-13T10:46:00.112168
 2025-07-13,104852,2025071304000201,SSHL,Secured Securities Ltd.,SUN SECURITIES PVT LTD,108,252.9,27313.2,2025-07-13T10:46:00.112202
 2025-07-13,104851,2025071304000202,SSHL,Secured Securities Ltd.,Sewa Securities Pvt. Ltd.,100,252.9,25290.0,2025-07-13T10:46:00.112253

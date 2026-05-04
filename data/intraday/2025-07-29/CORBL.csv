@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,154674,2025072903000579,CORBL,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,10,2105.0,21050.0,2025-07-29 11:05:56.207589
 2025-07-29,154608,2025072903000595,CORBL,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,10,2100.0,21000.0,2025-07-29 11:06:01.043780
 2025-07-29,154340,2025072903000649,CORBL,Sweta Securities Private Limited,Swarna Laxmi Securities Pvt. Ltd.,20,2073.0,41460.0,2025-07-29 11:06:22.913224

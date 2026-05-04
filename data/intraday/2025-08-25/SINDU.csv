@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57118,2025082503000033,SINDU,Vision Securities Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,10,762.9,7629.0,2025-08-25 10:46:00.062227
 2025-08-25,54941,2025082503001195,SINDU,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,750.1,7501.0,2025-08-25 11:10:24.035887
 2025-08-25,54940,2025082503001196,SINDU,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,750.0,7500.0,2025-08-25 11:10:24.035967

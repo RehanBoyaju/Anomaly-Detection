@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169979,2025072304000110,SHPC,Nepal Stock House (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,40,633.0,25320.0,2025-07-23 11:00:36.342859
 2025-07-23,168928,2025072304000449,SHPC,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,100,629.8,62980.0,2025-07-23 11:02:14.760169
 2025-07-23,168927,2025072304000450,SHPC,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,50,629.9,31495.0,2025-07-23 11:02:14.760404

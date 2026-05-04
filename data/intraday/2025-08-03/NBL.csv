@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151889,2025080301000407,NBL,Trisul Securities & Invt. Ltd.,Investment Management Nepal Pvt. Ltd.,120,294.0,35280.0,2025-08-03T11:01:13.659059
 2025-08-03,147549,2025080301003091,NBL,Dynamic Money Managers Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,1000,291.2,291200.0,2025-08-03T11:08:02.110668
 2025-08-03,147230,2025080301003271,NBL,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,35,293.0,10255.0,2025-08-03T11:08:26.401478

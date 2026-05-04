@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86232,2025081705000129,NYADI,Himalayan Securities Limited,Oxford Securities Pvt. Ltd.,10,417.0,4170.0,2025-08-17 11:01:34.655557
 2025-08-17,86130,2025081705000167,NYADI,Citizens Share Broker Limited,Oxford Securities Pvt. Ltd.,30,417.0,12510.0,2025-08-17 11:01:49.366026
 2025-08-17,85145,2025081705000533,NYADI,Citizens Share Broker Limited,Oxford Securities Pvt. Ltd.,40,417.0,16680.0,2025-08-17 11:04:45.887110

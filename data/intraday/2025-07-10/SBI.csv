@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87750,2025071001000352,SBI,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,30,411.0,12330.0,2025-07-10 11:04:41.257158
 2025-07-10,87138,2025071001000620,SBI,Dynamic Money Managers Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,100,414.0,41400.0,2025-07-10 11:07:27.541394
 2025-07-10,87132,2025071001000622,SBI,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,100,415.0,41500.0,2025-07-10 11:07:28.622127

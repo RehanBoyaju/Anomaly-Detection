@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138063,2025072104000366,SPDL,Naasa Securities Co. Ltd.,Hatemalo Financial Services Private Limited,750,426.0,319500.0,2025-07-21 11:01:42.783363
 2025-07-21,137359,2025072104000651,SPDL,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,50,422.0,21100.0,2025-07-21 11:03:08.935652
 2025-07-21,137171,2025072104000737,SPDL,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,12,421.0,5052.0,2025-07-21 11:03:27.059039

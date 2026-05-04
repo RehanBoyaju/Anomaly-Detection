@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,65714,2025090304000359,SPDL,Siprabi Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,50,390.0,19500.0,2025-09-03 11:12:43.734692
 2025-09-03,65147,2025090304000413,SPDL,Imperial Securities Company Pvt. Ltd.,Sajilo Broker Limited,200,390.1,78020.0,2025-09-03 11:15:02.889573
 2025-09-03,65052,2025090304000432,SPDL,Nepal Investment And Securities Trading Private Limited,Sajilo Broker Limited,200,390.0,78000.0,2025-09-03 11:15:27.924018

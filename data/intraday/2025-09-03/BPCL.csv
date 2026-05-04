@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68591,2025090304000002,BPCL,Vision Securities Pvt. Ltd,Citizens Share Broker Limited,10,808.1,8081.0,2025-09-03 10:46:00.009375
 2025-09-03,68177,2025090304000065,BPCL,N.I.M.B. Stock Markets Limited,Agrawal Securities (PVT) Ltd.,300,808.0,242400.0,2025-09-03 11:02:16.077562
 2025-09-03,66705,2025090304000244,BPCL,Arun Securities (PVT) Ltd.,Citizens Share Broker Limited,10,811.1,8111.0,2025-09-03 11:09:06.944300

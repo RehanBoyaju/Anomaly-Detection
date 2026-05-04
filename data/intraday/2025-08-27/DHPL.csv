@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,65154,2025082704001124,DHPL,Linch Stock Market Ltd.,Arun Securities (PVT) Ltd.,30,311.0,9330.0,2025-08-27T11:36:44.825141
 2025-08-27,65153,2025082704001125,DHPL,Sumeru Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,170,310.0,52700.0,2025-08-27T11:36:44.825306
 2025-08-27,64433,2025082704001228,DHPL,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,100,310.1,31010.0,2025-08-27T11:39:53.945545

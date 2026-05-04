@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149262,2025080405000007,NIFRA,Nepal Stock House (PVT) Ltd.,Elite Stock House Limited,10,284.9,2849.0,2025-08-04 10:46:00.018882
 2025-08-04,148688,2025080405000025,NIFRA,Trishakti Securities Public Limited,Kumari Securities Private Limited,25,293.0,7325.0,2025-08-04 11:00:45.307228
 2025-08-04,147636,2025080405000056,NIFRA,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,100,293.1,29310.0,2025-08-04 11:02:05.917944

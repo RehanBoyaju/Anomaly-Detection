@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104886,2025071304000179,HDHPC,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,50,201.4,10070.0,2025-07-13T10:46:00.10744
 2025-07-13,104885,2025071304000180,HDHPC,Agrawal Securities (PVT) Ltd.,Trishakti Securities Public Limited,50,201.4,10070.0,2025-07-13T10:46:00.107469
 2025-07-13,104884,2025071304000181,HDHPC,Aryatara Investment & Securities,Trishakti Securities Public Limited,450,201.4,90630.0,2025-07-13T10:46:00.107489

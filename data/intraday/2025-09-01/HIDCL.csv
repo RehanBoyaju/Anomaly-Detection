@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68764,2025090105000007,HIDCL,Sri Hari Securities Pvt. Ltd.,Blue Chip Securities Ltd,10,277.5,2775.0,2025-09-01 10:46:00.019566
 2025-09-01,67606,2025090105000204,HIDCL,Dakshinkali Investment & Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,500,283.0,141500.0,2025-09-01 11:04:24.648550
 2025-09-01,67582,2025090105000208,HIDCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Arun Securities (PVT) Ltd.,10,283.0,2830.0,2025-09-01 11:04:33.539360

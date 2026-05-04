@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 TPC,48,74,10,373.5,3735.0,2026-04-28 14:59:59.916,2026042805016553
 TPC,59,47,90,373.0,33570.0,2026-04-28 14:59:51.929,2026042805016425
 TPC,59,62,2490,373.0,928770.0,2026-04-28 14:59:51.929,2026042805016424

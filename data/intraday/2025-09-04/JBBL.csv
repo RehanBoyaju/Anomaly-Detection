@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,65114,2025090403000338,JBBL,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,168,330.0,55440.0,2025-09-04T11:17:33.178344
 2025-09-04,64031,2025090403000447,JBBL,Aryatara Investment & Securities,Secured Securities Ltd.,500,331.0,165500.0,2025-09-04T11:21:34.29471
 2025-09-04,64027,2025090403000448,JBBL,Online Securities Pvt. Ltd.,Secured Securities Ltd.,206,330.0,67980.0,2025-09-04T11:21:34.97817

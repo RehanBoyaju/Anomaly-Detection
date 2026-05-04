@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SIGS3,17,58,100,10.77,1077.0,2026-04-28 14:42:32.470,2026042801098503
 SIGS3,58,48,100,11.0,1100.0,2026-04-28 13:54:17.134,2026042801076673
 SIGS3,89,17,450,11.05,4972.5,2026-04-28 13:48:30.455,2026042801074742

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85865,2025081703000093,CORBL,Midas Stock Broking Company Private Limited,Hatemalo Financial Services Private Limited,10,1951.1,19511.0,2025-08-17 11:02:31.867943
 2025-08-17,83168,2025081703000378,CORBL,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,16,1990.1,31841.6,2025-08-17 11:10:28.840553
 2025-08-17,82568,2025081703000445,CORBL,Midas Stock Broking Company Private Limited,Nepal Investment And Securities Trading Private Limited,10,1980.0,19800.0,2025-08-17 11:12:15.123184

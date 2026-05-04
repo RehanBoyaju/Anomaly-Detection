@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,85904,2025070601000283,NICA,Citizens Share Broker Limited,Premier Securities Company Ltd.,50,360.0,18000.0,2025-07-06 11:05:36.357867
 2025-07-06,85657,2025070601000330,NICA,ABC Securities Private Limited,Premier Securities Company Ltd.,150,360.0,54000.0,2025-07-06 11:06:36.937717
 2025-07-06,85656,2025070601000331,NICA,ABC Securities Private Limited,Kumari Securities Private Limited,350,360.0,126000.0,2025-07-06 11:06:36.937792

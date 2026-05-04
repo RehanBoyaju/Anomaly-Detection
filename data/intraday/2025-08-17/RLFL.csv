@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,80802,2025081703000614,RLFL,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,50,490.0,24500.0,2025-08-17 11:17:14.061810
 2025-08-17,80054,2025081703000725,RLFL,Shree Krishna Securities Ltd.,Sagarmatha Securities Private Limited,250,490.3,122575.0,2025-08-17 11:19:19.146628
 2025-08-17,78217,2025081703000989,RLFL,Midas Stock Broking Company Private Limited,Trisul Securities & Invt. Ltd.,100,490.0,49000.0,2025-08-17 11:24:05.892650

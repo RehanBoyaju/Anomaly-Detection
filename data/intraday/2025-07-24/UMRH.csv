@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154553,2025072404000052,UMRH,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,46,667.2,30691.2,2025-07-24 10:46:00.080554
 2025-07-24,153077,2025072404000725,UMRH,Oxford Securities Pvt. Ltd.,Trademow Securities Private Limited,200,657.1,131420.0,2025-07-24 11:03:11.731698
 2025-07-24,153076,2025072404000726,UMRH,Sri Hari Securities Pvt. Ltd.,Trademow Securities Private Limited,300,657.0,197100.0,2025-07-24 11:03:11.731748

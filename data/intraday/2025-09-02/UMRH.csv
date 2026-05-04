@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,78147,2025090204000365,UMRH,Elite Stock House Limited,Trishakti Securities Public Limited,10,590.0,5900.0,2025-09-02 11:19:59.653562
 2025-09-02,78146,2025090204000366,UMRH,Sani Securities Company Ltd.,Trishakti Securities Public Limited,100,586.7,58670.0,2025-09-02 11:19:59.653645
 2025-09-02,67344,2025090204001124,UMRH,Trishakti Securities Public Limited,Asian Securities Private Ltd.,10,589.0,5890.0,2025-09-02 11:45:26.665811

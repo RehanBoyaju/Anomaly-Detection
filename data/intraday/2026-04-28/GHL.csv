@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GHL,29,43,50,238.0,11900.0,2026-04-28 14:59:43.350,2026042804014887
 GHL,32,25,65,237.3,15424.5,2026-04-28 14:59:35.923,2026042804014806
 GHL,4,25,35,237.3,8305.5,2026-04-28 14:59:35.923,2026042804014805

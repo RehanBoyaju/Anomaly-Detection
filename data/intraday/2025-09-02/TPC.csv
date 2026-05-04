@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,70871,2025090205002524,TPC,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,349.9,3499.0,2025-09-02 11:37:12.147722
 2025-09-02,67499,2025090205003108,TPC,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,300,349.0,104700.0,2025-09-02 11:44:56.284853
 2025-09-02,67483,2025090205003110,TPC,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,150,349.0,52350.0,2025-09-02 11:45:00.026330

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92005,2025080601000450,SANIMA,Property Wiard Limited,Trisul Securities & Invt. Ltd.,300,366.8,110040.0,2025-08-06 11:03:59.325135
 2025-08-06,91040,2025080601000710,SANIMA,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,50,367.0,18350.0,2025-08-06 11:06:32.835879
 2025-08-06,91039,2025080601000711,SANIMA,Property Wiard Limited,Naasa Securities Co. Ltd.,50,366.8,18340.0,2025-08-06 11:06:32.835966

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169469,2025072303000101,KSBBL,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,10,545.0,5450.0,2025-07-23 11:01:28.220263
 2025-07-23,167281,2025072303000494,KSBBL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,100,539.0,53900.0,2025-07-23 11:04:28.064186
 2025-07-23,166965,2025072303000564,KSBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sundhara Securities Limited,100,538.0,53800.0,2025-07-23 11:04:50.355549

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140825,2025073001000255,PCBL,Sundhara Securities Limited,Arun Securities (PVT) Ltd.,50,284.0,14200.0,2025-07-30 11:02:15.867159
 2025-07-30,140231,2025073001000447,PCBL,Sundhara Securities Limited,Secured Securities Ltd.,50,283.0,14150.0,2025-07-30 11:03:32.242934
 2025-07-30,140035,2025073001000510,PCBL,Sundhara Securities Limited,Arun Securities (PVT) Ltd.,150,284.0,42600.0,2025-07-30 11:03:55.498234

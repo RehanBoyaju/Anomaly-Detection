@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 AKPL,40,38,10,272.0,2720.0,2026-04-28 14:59:57.151,2026042804015018
 AKPL,58,38,180,272.0,48960.0,2026-04-28 14:59:47.746,2026042804014927
 AKPL,58,22,130,271.9,35347.0,2026-04-28 14:59:47.746,2026042804014926

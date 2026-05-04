@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,58265,2025090801000508,NICA,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,40,341.0,13640.0,2025-09-08 11:11:36.885324
 2025-09-08,58159,2025090801000549,NICA,Aryatara Investment & Securities,Secured Securities Ltd.,33,341.0,11253.0,2025-09-08 11:12:21.028800
 2025-09-08,58004,2025090801000615,NICA,Thrive Brokerage House Pvt. Ltd,Kumari Securities Private Limited,10,340.1,3401.0,2025-09-08 11:13:16.573980

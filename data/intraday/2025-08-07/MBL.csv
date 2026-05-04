@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95136,2025080701000325,MBL,Shree Krishna Securities Ltd.,Property Wiard Limited,1000,256.7,256700.0,2025-08-07 11:02:21.298394
 2025-08-07,95135,2025080701000326,MBL,Shree Krishna Securities Ltd.,Property Wiard Limited,1000,256.5,256500.0,2025-08-07 11:02:21.298518
 2025-08-07,95134,2025080701000327,MBL,Shree Krishna Securities Ltd.,Property Wiard Limited,632,256.4,162044.8,2025-08-07 11:02:21.298611

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56068,2025070804000095,BARUN,Indira securities pvt. ltd,Vision Securities Pvt. Ltd,10,434.0,4340.0,2025-07-08 11:01:23.641138
 2025-07-08,56026,2025070804000124,BARUN,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,40,433.9,17356.0,2025-07-08 11:01:41.903161
 2025-07-08,56025,2025070804000125,BARUN,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,490,434.0,212660.0,2025-07-08 11:01:41.903209

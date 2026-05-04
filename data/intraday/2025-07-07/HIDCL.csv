@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71311,2025070705000001,HIDCL,Vision Securities Pvt. Ltd,Roadshow securities limited,10,293.6,2936.0,2025-07-07 10:46:00.007743
 2025-07-07,71310,2025070705000002,HIDCL,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,293.6,2936.0,2025-07-07 10:46:00.007788
 2025-07-07,71309,2025070705000003,HIDCL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,14,293.6,4110.4,2025-07-07 10:46:00.007816

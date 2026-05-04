@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,169216,2025072803000284,MPFL,Pragyan Securities (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,65,670.0,43550.0,2025-07-28T11:04:14.632807
 2025-07-28,167431,2025072803000662,MPFL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Neev Securities Pvt. Ltd.,10,656.6,6566.0,2025-07-28T11:07:37.708675
 2025-07-28,167430,2025072803000663,MPFL,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,225,647.2,145620.0,2025-07-28T11:07:37.708783

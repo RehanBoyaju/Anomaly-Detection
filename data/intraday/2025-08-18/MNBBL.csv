@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67826,2025081803000013,MNBBL,Sani Securities Company Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,20,457.0,9140.0,2025-08-18T11:00:46.560557
 2025-08-18,67695,2025081803000017,MNBBL,Sri Hari Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,30,457.0,13710.0,2025-08-18T11:02:02.309507
 2025-08-18,67679,2025081803000018,MNBBL,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,100,455.1,45510.0,2025-08-18T11:02:06.44706

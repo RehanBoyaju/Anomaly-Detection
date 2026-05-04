@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73656,2025071504000152,CHCL,Ashutosh Brokerage & Securities (PVT) Ltd.,Trishakti Securities Public Limited,18,520.0,9360.0,2025-07-15 11:03:16.460047
 2025-07-15,73655,2025071504000153,CHCL,Ashutosh Brokerage & Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,82,520.0,42640.0,2025-07-15 11:03:16.468509
 2025-07-15,73654,2025071504000154,CHCL,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,500,520.0,260000.0,2025-07-15 11:03:16.468578

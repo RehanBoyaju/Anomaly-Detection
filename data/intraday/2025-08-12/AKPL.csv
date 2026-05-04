@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77541,2025081204000086,AKPL,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,500,265.0,132500.0,2025-08-12 11:02:48.591173
 2025-08-12,76874,2025081204000209,AKPL,Garima Securities Limited,Himalayan Securities Limited,16,264.6,4233.6,2025-08-12 11:05:21.129632
 2025-08-12,76495,2025081204000304,AKPL,Investment Management Nepal Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,500,265.1,132550.0,2025-08-12 11:07:05.781041

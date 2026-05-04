@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88257,2025071001000136,EBL,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,100,666.0,66600.0,2025-07-10 11:02:09.077353
 2025-07-10,88256,2025071001000137,EBL,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,190,666.5,126635.0,2025-07-10 11:02:09.077413
 2025-07-10,88255,2025071001000138,EBL,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,72,667.0,48024.0,2025-07-10 11:02:09.077442

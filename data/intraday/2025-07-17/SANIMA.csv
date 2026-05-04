@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141012,2025071701000118,SANIMA,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,250,377.0,94250.0,2025-07-17 11:01:36.242246
 2025-07-17,140795,2025071701000182,SANIMA,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,175,377.0,65975.0,2025-07-17 11:02:13.242911
 2025-07-17,140639,2025071701000260,SANIMA,Aryatara Investment & Securities,Opal Securities Investment (PVT) Ltd.,20,378.0,7560.0,2025-07-17 11:02:33.908624

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156449,2025072903000174,GRDBL,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,50,1313.0,65650.0,2025-07-29 11:02:48.046289
 2025-07-29,155034,2025072903000473,GRDBL,Linch Stock Market Ltd.,Kumari Securities Private Limited,60,1329.0,79740.0,2025-07-29 11:05:17.665088
 2025-07-29,155033,2025072903000474,GRDBL,Linch Stock Market Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,1331.0,13310.0,2025-07-29 11:05:17.665141

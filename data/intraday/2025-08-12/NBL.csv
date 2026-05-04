@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78141,2025081201000009,NBL,Arun Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,158,286.36,45244.88,2025-08-12 10:46:00.052196
 2025-08-12,77629,2025081201000103,NBL,Arun Securities (PVT) Ltd.,Sani Securities Company Ltd.,42,287.0,12054.0,2025-08-12 11:02:31.402429
 2025-08-12,77352,2025081201000169,NBL,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,77,287.0,22099.0,2025-08-12 11:03:40.216381

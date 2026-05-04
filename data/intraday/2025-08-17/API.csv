@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86396,2025081704000054,API,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,10,305.0,3050.0,2025-08-17 11:00:55.370742
 2025-08-17,85418,2025081704000176,API,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,95,299.5,28452.5,2025-08-17 11:03:57.334690
 2025-08-17,85305,2025081704000201,API,Bhrikuti Stock Broking Co. Pvt. Ltd.,Arun Securities (PVT) Ltd.,90,299.0,26910.0,2025-08-17 11:04:20.195472

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BNT,28,19,10,11600.0,116000.0,2026-04-28 14:31:04.956,2026042801092524
 BNT,28,58,20,11590.0,231800.0,2026-04-28 14:31:04.956,2026042801092523
 BNT,28,42,10,11520.0,115200.0,2026-04-28 11:51:09.456,2026042801033054

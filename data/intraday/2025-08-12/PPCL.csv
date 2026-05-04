@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,71761,2025081204001548,PPCL,Agrawal Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,60,342.1,20526.0,2025-08-12 11:23:18.622361
 2025-08-12,71760,2025081204001549,PPCL,Asian Securities Private Ltd.,Market Securities & Exchange (PVT) Ltd.,150,342.0,51300.0,2025-08-12 11:23:18.622440
 2025-08-12,71759,2025081204001550,PPCL,Capital Max Securities Ltd,Market Securities & Exchange (PVT) Ltd.,100,341.2,34120.0,2025-08-12 11:23:18.622472

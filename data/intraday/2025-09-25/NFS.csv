@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37313,2025092503000026,NFS,South Asian Bulls Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,10,650.0,6500.0,2025-09-25 11:02:26.035923
 2025-09-25,37312,2025092503000027,NFS,Oxford Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,30,650.0,19500.0,2025-09-25 11:02:26.036113
 2025-09-25,37311,2025092503000028,NFS,Capital Max Securities Ltd,Sri Hari Securities Pvt. Ltd.,200,648.0,129600.0,2025-09-25 11:02:26.036182

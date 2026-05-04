@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55874,2025082504000067,AHPC,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,50,291.0,14550.0,2025-08-25 11:05:59.313546
 2025-08-25,55605,2025082504000090,AHPC,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,450,291.0,130950.0,2025-08-25 11:07:26.995669
 2025-08-25,55282,2025082504000118,AHPC,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,293.0,2930.0,2025-08-25 11:08:50.260843

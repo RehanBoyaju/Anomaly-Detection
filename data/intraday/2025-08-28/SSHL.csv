@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78282,2025082804000030,SSHL,Siprabi Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,193.0,1930.0,2025-08-28 11:00:29.692948
 2025-08-28,78151,2025082804000081,SSHL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,193.0,3860.0,2025-08-28 11:01:18.964722
 2025-08-28,77933,2025082804000139,SSHL,Ashutosh Brokerage & Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,250,193.0,48250.0,2025-08-28 11:02:40.458608

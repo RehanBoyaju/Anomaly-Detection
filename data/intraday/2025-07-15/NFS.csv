@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73944,2025071503000011,NFS,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,15,722.0,10830.0,2025-07-15 11:00:50.266704
 2025-07-15,73909,2025071503000022,NFS,INDEX SECURITIES LIMITED,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,740.0,7400.0,2025-07-15 11:01:14.102274
 2025-07-15,73348,2025071503000121,NFS,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,87,738.0,64206.0,2025-07-15 11:05:01.747952

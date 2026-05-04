@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149058,2025080404000052,BPCL,SUN SECURITIES PVT LTD,Nepal Investment And Securities Trading Private Limited,200,936.3,187260.0,2025-08-04 11:00:12.317881
 2025-08-04,148878,2025080404000086,BPCL,Himalayan Brokerage Company Limited,Nepal Investment And Securities Trading Private Limited,100,937.0,93700.0,2025-08-04 11:00:33.579752
 2025-08-04,148455,2025080404000158,BPCL,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,10,946.0,9460.0,2025-08-04 11:00:57.256671

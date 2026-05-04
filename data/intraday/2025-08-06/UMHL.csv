@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93053,2025080604000005,UMHL,Kumari Securities Private Limited,Capital Max Securities Ltd,10,554.0,5540.0,2025-08-06 11:00:12.722866
 2025-08-06,92955,2025080604000029,UMHL,Kumari Securities Private Limited,Trisul Securities & Invt. Ltd.,10,562.0,5620.0,2025-08-06 11:00:52.935352
 2025-08-06,92896,2025080604000031,UMHL,Kumari Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,80,562.0,44960.0,2025-08-06 11:01:11.890583

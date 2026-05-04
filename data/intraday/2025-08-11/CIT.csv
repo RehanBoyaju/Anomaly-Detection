@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97689,2025081105000275,CIT,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,56,1973.0,110488.0,2025-08-11 11:02:51.552641
 2025-08-11,94988,2025081105001132,CIT,Sweta Securities Private Limited,Hatemalo Financial Services Private Limited,10,1980.0,19800.0,2025-08-11 11:09:34.398896
 2025-08-11,94987,2025081105001133,CIT,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Hatemalo Financial Services Private Limited,20,1980.0,39600.0,2025-08-11 11:09:34.399086

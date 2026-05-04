@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,106460,2025092103000405,PROFL,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,140,457.0,63980.0,2025-09-21 11:01:50.626317
 2025-09-21,106459,2025092103000406,PROFL,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,263,457.1,120217.3,2025-09-21 11:01:50.626355
 2025-09-21,106005,2025092103000481,PROFL,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,60,460.0,27600.0,2025-09-21 11:02:13.009283

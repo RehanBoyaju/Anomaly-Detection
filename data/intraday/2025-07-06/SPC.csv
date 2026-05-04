@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87309,2025070601000012,SPC,Nepal Investment And Securities Trading Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,30,528.0,15840.0,2025-07-06 10:46:00.116592
 2025-07-06,87308,2025070601000013,SPC,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,150,528.0,79200.0,2025-07-06 10:46:00.116626
 2025-07-06,87307,2025070601000014,SPC,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,900,528.0,475200.0,2025-07-06 10:46:00.116653

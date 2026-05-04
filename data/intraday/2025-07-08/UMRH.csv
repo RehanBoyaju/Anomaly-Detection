@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,53872,2025070804001224,UMRH,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,12,572.5,6870.0,2025-07-08 11:13:44.470155
 2025-07-08,49998,2025070804002856,UMRH,Capital Max Securities Ltd,Neev Securities Pvt. Ltd.,22,573.4,12614.8,2025-07-08 11:33:16.123772
 2025-07-08,49003,2025070804003259,UMRH,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,10,575.0,5750.0,2025-07-08 11:37:57.055221

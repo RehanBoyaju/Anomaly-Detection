@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177077,2025072204000013,KKHC,Nabil Stock Dealer Ltd.,Arun Securities (PVT) Ltd.,10,295.0,2950.0,2025-07-22 10:46:00.034906
 2025-07-22,175720,2025072204000340,KKHC,Nabil Stock Dealer Ltd.,Sani Securities Company Ltd.,10,306.6,3066.0,2025-07-22 11:03:23.727789
 2025-07-22,173839,2025072204000745,KKHC,Nabil Stock Dealer Ltd.,Siprabi Securities Pvt. Ltd.,50,305.0,15250.0,2025-07-22 11:06:52.237337

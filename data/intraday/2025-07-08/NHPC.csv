@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56090,2025070804000081,NHPC,Kohinoor Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,30,210.1,6303.0,2025-07-08 11:01:18.733083
 2025-07-08,54667,2025070804000868,NHPC,Shree Krishna Securities Ltd.,pahiinvestment,47,211.0,9917.0,2025-07-08 11:09:32.907370
 2025-07-08,54020,2025070804001171,NHPC,Shree Krishna Securities Ltd.,Aryatara Investment & Securities,53,211.0,11183.0,2025-07-08 11:12:55.869355

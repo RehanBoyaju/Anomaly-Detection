@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95043,2025080703000094,GUFL,Vision Securities Pvt. Ltd,Prabhu Stock Market Limited,10,571.0,5710.0,2025-08-07 11:02:44.191673
 2025-08-07,88658,2025080703001243,GUFL,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,56,565.0,31640.0,2025-08-07 11:22:11.931494
 2025-08-07,88568,2025080703001261,GUFL,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,31,565.0,17515.0,2025-08-07 11:22:26.992440

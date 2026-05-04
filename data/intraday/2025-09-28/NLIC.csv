@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38187,2025092803000087,NLIC,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,772.0,15440.0,2025-09-28 11:09:30.990295
 2025-09-28,38186,2025092803000088,NLIC,Dynamic Money Managers Securities Pvt. Ltd.,Creative Securities Pvt Ltd,10,775.0,7750.0,2025-09-28 11:09:30.990389
 2025-09-28,38185,2025092803000089,NLIC,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,130,780.0,101400.0,2025-09-28 11:09:30.990416

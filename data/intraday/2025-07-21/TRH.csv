@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,124476,2025072104004689,TRH,Sani Securities Company Ltd.,Pragyan Securities (PVT) Ltd.,10,996.9,9969.0,2025-07-21 11:20:39.453996
 2025-07-21,121371,2025072104005586,TRH,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,50,994.0,49700.0,2025-07-21 11:24:56.480591
 2025-07-21,121370,2025072104005587,TRH,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,200,995.0,199000.0,2025-07-21 11:24:56.480739

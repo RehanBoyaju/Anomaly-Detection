@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ALICL,85,38,10,454.5,4545.0,2026-04-28 14:59:55.220,2026042803008611
 ALICL,29,38,10,454.5,4545.0,2026-04-28 14:59:49.469,2026042803008436
 ALICL,20,67,50,452.2,22610.0,2026-04-28 14:59:38.737,2026042803008399

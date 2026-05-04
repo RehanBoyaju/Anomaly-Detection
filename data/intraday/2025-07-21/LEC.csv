@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,137223,2025072104000714,LEC,Naasa Securities Co. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,15,220.0,3300.0,2025-07-21 11:03:21.944103
 2025-07-21,137148,2025072104000750,LEC,Premier Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,200,220.0,44000.0,2025-07-21 11:03:30.638684
 2025-07-21,137062,2025072104000784,LEC,Trisul Securities & Invt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,217.2,21720.0,2025-07-21 11:03:42.249545

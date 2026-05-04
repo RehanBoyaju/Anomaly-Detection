@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70064,2025081304000009,RADHI,Sharepro Securities Private Limited,Naasa Securities Co. Ltd.,10,776.3,7763.0,2025-08-13 10:46:00.033718
 2025-08-13,69762,2025081304000036,RADHI,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,90,770.0,69300.0,2025-08-13 11:01:30.069386
 2025-08-13,68122,2025081304000378,RADHI,Trishakti Securities Public Limited,Thrive Brokerage House Pvt. Ltd,10,771.0,7710.0,2025-08-13 11:11:09.163307

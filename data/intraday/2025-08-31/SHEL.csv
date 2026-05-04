@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,96708,2025083104000029,SHEL,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,2000,310.0,620000.0,2025-08-31T11:00:34.532443
 2025-08-31,96707,2025083104000030,SHEL,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,1000,310.0,310000.0,2025-08-31T11:00:34.532722
 2025-08-31,95067,2025083104000090,SHEL,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,20,306.1,6122.0,2025-08-31T11:02:35.265639

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,67998,2025082703000577,PFL,Sweta Securities Private Limited,Opal Securities Investment (PVT) Ltd.,12,407.0,4884.0,2025-08-27T11:26:33.29689
 2025-08-27,67806,2025082703000605,PFL,Siprabi Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,17,407.0,6919.0,2025-08-27T11:27:17.373289
 2025-08-27,58228,2025082703002609,PFL,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,25,405.9,10147.5,2025-08-27T12:03:21.902944

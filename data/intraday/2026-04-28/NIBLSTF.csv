@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NIBLSTF,7,57,889,9.02,8018.78,2026-04-28 14:56:05.187,2026042801106932
 NIBLSTF,38,57,1000,9.04,9040.0,2026-04-28 14:56:05.187,2026042801106931
 NIBLSTF,25,57,1000,9.05,9050.0,2026-04-28 14:56:05.187,2026042801106930

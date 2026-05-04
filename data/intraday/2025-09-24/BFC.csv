@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47055,2025092403000165,BFC,Sundhara Securities Limited,Malla & Malla Stock Broking Company Pvt. Limited,10,479.0,4790.0,2025-09-24 11:04:48.118916
 2025-09-24,46509,2025092403000261,BFC,S.P.S.A. Securities Limited,Malla & Malla Stock Broking Company Pvt. Limited,10,470.0,4700.0,2025-09-24 11:07:10.659686
 2025-09-24,45790,2025092403000392,BFC,S.P.S.A. Securities Limited,Sundhara Securities Limited,190,470.0,89300.0,2025-09-24 11:10:18.559101

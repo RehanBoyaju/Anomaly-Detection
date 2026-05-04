@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78108,2025082805000076,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,10,2675.0,26750.0,2025-08-28 11:01:37.763998
 2025-08-28,77727,2025082805000207,CHDC,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,10,2622.0,26220.0,2025-08-28 11:03:26.061999
 2025-08-28,77693,2025082805000215,CHDC,INDEX SECURITIES LIMITED,Sani Securities Company Ltd.,10,2650.0,26500.0,2025-08-28 11:03:36.883917

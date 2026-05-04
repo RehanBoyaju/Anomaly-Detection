@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39675,2025092804000030,CHL,South Asian Bulls Pvt. Ltd.,Trishakti Securities Public Limited,500,267.1,133550.0,2025-09-28 11:01:21.616926
 2025-09-28,39666,2025092804000032,CHL,Sani Securities Company Ltd.,Premier Securities Company Ltd.,11,264.5,2909.5,2025-09-28 11:01:28.434618
 2025-09-28,39302,2025092804000098,CHL,Trishakti Securities Public Limited,Trishakti Securities Public Limited,10,269.0,2690.0,2025-09-28 11:03:41.260445

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89756,2025090203000005,LBBL,MILKY WAY SHARE BROKER COMPANY LTD ,Sani Securities Company Ltd.,10,551.0,5510.0,2025-09-02 10:46:00.031003
 2025-09-02,89755,2025090203000006,LBBL,R.B.B. Securities Company Ltd,Sani Securities Company Ltd.,10,551.0,5510.0,2025-09-02 10:46:00.031081
 2025-09-02,84452,2025090203000091,LBBL,MILKY WAY SHARE BROKER COMPANY LTD ,Midas Stock Broking Company Private Limited,271,541.0,146611.0,2025-09-02 11:07:49.061400

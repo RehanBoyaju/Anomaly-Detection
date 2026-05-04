@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 OHL,48,14,16,692.0,11072.0,2026-04-28 14:59:28.043,2026042804014705
 OHL,58,45,10,690.0,6900.0,2026-04-28 14:58:50.201,2026042804014436
 OHL,45,48,45,685.0,30825.0,2026-04-28 14:55:20.475,2026042804013664

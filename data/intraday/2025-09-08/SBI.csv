@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59057,2025090801000237,SBI,Secured Securities Ltd.,ABC Securities Private Limited,432,386.0,166752.0,2025-09-08 11:06:26.150607
 2025-09-08,59029,2025090801000247,SBI,Secured Securities Ltd.,ABC Securities Private Limited,432,386.0,166752.0,2025-09-08 11:06:46.240245
 2025-09-08,58502,2025090801000430,SBI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,29,386.2,11199.8,2025-09-08 11:10:19.998851

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,83632,2025070603001207,MDB,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,15,611.0,9165.0,2025-07-06 11:12:22.093665
 2025-07-06,83561,2025070603001236,MDB,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,68,611.0,41548.0,2025-07-06 11:12:33.471035
 2025-07-06,80723,2025070603001972,MDB,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,19,607.1,11534.9,2025-07-06 11:19:22.401740

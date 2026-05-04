@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7165,2025091805000044,SAHAS,Prabhu Stock Market Limited,Linch Stock Market Ltd.,10,608.5,6085.0,2025-09-18 10:46:00.086807
 2025-09-18,7163,2025091805000045,SAHAS,Oxford Securities Pvt. Ltd.,Linch Stock Market Ltd.,100,608.5,60850.0,2025-09-18 10:46:00.086844
 2025-09-18,7162,2025091805000046,SAHAS,Aryatara Investment & Securities,Linch Stock Market Ltd.,11,608.5,6693.5,2025-09-18 10:46:00.086875

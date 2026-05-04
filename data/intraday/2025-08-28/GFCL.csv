@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,70044,2025082803001189,GFCL,Capital Max Securities Ltd,Asian Securities Private Ltd.,50,642.0,32100.0,2025-08-28 11:27:56.816827
 2025-08-28,68750,2025082803001441,GFCL,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,10,641.5,6415.0,2025-08-28 11:31:58.654304
 2025-08-28,67774,2025082803001645,GFCL,Capital Max Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,70,641.5,44905.0,2025-08-28 11:34:35.653650

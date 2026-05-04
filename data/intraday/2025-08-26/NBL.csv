@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45004,2025082601000013,NBL,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,94,252.1,23697.4,2025-08-26 11:01:16.138020
 2025-08-26,44969,2025082601000020,NBL,Market Securities & Exchange (PVT) Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,50,256.9,12845.0,2025-08-26 11:01:48.323577
 2025-08-26,44629,2025082601000079,NBL,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,12,255.0,3060.0,2025-08-26 11:05:58.644306

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176780,2025072201000054,GBIME,Asian Securities Private Ltd.,Sweta Securities Private Limited,300,260.0,78000.0,2025-07-22 11:01:06.661276
 2025-07-22,176080,2025072201000126,GBIME,Dynamic Money Managers Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,500,262.9,131450.0,2025-07-22 11:02:37.854614
 2025-07-22,176079,2025072201000127,GBIME,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,80,263.0,21040.0,2025-07-22 11:02:37.854821

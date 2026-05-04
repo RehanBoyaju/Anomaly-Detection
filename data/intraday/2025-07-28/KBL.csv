@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170667,2025072801000004,KBL,Infinity Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,226.0,2260.0,2025-07-28T10:46:00.048306
 2025-07-28,170666,2025072801000005,KBL,Beni Securities Pvt.Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,226.0,2260.0,2025-07-28T10:46:00.048352
 2025-07-28,170342,2025072801000080,KBL,Sani Securities Company Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,30,221.5,6645.0,2025-07-28T11:01:27.088158

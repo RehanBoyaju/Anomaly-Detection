@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108707,2025092101000067,SBI,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,43,370.0,15910.0,2025-09-21 10:46:00.023311
 2025-09-21,105648,2025092101000905,SBI,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,50,375.0,18750.0,2025-09-21 11:02:31.933599
 2025-09-21,105621,2025092101000910,SBI,Imperial Securities Company Pvt. Ltd.,Market Securities & Exchange (PVT) Ltd.,200,375.0,75000.0,2025-09-21 11:02:33.311120

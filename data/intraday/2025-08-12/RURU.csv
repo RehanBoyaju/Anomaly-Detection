@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78104,2025081204000022,RURU,Hatemalo Financial Services Private Limited,Naasa Securities Co. Ltd.,10,740.0,7400.0,2025-08-12 11:00:15.337711
 2025-08-12,76400,2025081204000335,RURU,Asian Securities Private Ltd.,Hatemalo Financial Services Private Limited,10,750.0,7500.0,2025-08-12 11:07:25.350939
 2025-08-12,76148,2025081204000450,RURU,Midas Stock Broking Company Private Limited,Hatemalo Financial Services Private Limited,190,750.0,142500.0,2025-08-12 11:08:18.052152

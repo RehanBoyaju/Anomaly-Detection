@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87222,2025070603000073,MFIL,Trishakti Securities Public Limited,Sani Securities Company Ltd.,10,619.0,6190.0,2025-07-06 11:00:43.969673
 2025-07-06,87046,2025070603000137,MFIL,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,90,619.0,55710.0,2025-07-06 11:01:30.544743
 2025-07-06,87045,2025070603000138,MFIL,Primo Securities (PVT) Ltd.,Hatemalo Financial Services Private Limited,10,619.8,6198.0,2025-07-06 11:01:30.544859

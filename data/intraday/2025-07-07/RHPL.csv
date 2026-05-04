@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70022,2025070704000313,RHPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,500,369.1,184550.0,2025-07-07 11:06:34.955876
 2025-07-07,70021,2025070704000314,RHPL,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,500,369.0,184500.0,2025-07-07 11:06:34.955977
 2025-07-07,69550,2025070704000424,RHPL,NIMB Stock Markets Limited,Siprabi Securities Pvt. Ltd.,28,368.6,10320.8,2025-07-07 11:08:29.722277

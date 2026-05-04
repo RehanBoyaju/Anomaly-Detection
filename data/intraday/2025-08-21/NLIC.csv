@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56569,2025082103000044,NLIC,Sundhara Securities Limited,Kalika Securities Pvt. Ltd.,20,791.0,15820.0,2025-08-21 11:02:59.759012
 2025-08-21,56278,2025082103000076,NLIC,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,114,782.0,89148.0,2025-08-21 11:05:54.136264
 2025-08-21,56271,2025082103000077,NLIC,Asian Securities Private Ltd.,Trishakti Securities Public Limited,20,789.0,15780.0,2025-08-21 11:05:56.654929

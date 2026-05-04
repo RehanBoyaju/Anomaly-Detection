@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68399,2025090103000034,MFIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,688.9,6889.0,2025-09-01 11:01:37.457447
 2025-09-01,65696,2025090103000233,MFIL,Shree Krishna Securities Ltd.,Secured Securities Ltd.,136,675.3,91840.8,2025-09-01 11:11:07.529816
 2025-09-01,65581,2025090103000244,MFIL,Shree Krishna Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,350,675.3,236355.0,2025-09-01 11:11:29.439928

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MATRI,13,58,11,924.0,10164.0,2026-04-28 14:59:36.343,2026042803008391
 MATRI,13,53,77,924.0,71148.0,2026-04-28 14:58:42.315,2026042803008202
 MATRI,57,51,82,922.4,75636.8,2026-04-28 14:50:15.742,2026042803007400

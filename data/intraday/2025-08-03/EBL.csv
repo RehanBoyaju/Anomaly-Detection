@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152490,2025080301000005,EBL,Thrive Brokerage House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,10,731.4,7314.0,2025-08-03T10:46:00.0248
 2025-08-03,151660,2025080301000569,EBL,Malla & Malla Stock Broking Company Pvt. Limited,Online Securities Pvt. Ltd.,60,718.0,43080.0,2025-08-03T11:01:38.559074
 2025-08-03,149088,2025080301002210,EBL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,130,721.0,93730.0,2025-08-03T11:05:31.497318

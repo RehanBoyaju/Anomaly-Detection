@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NWCL,6,48,50,792.0,39600.0,2026-04-28 14:59:42.510,2026042801110421
 NWCL,52,58,10,795.0,7950.0,2026-04-28 14:59:17.454,2026042801109697
 NWCL,66,56,40,792.0,31680.0,2026-04-28 14:58:55.747,2026042801109247

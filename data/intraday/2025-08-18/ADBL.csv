@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66448,2025081801000452,ADBL,Trishakti Securities Public Limited,Sumeru Securities Pvt. Ltd.,10,337.0,3370.0,2025-08-18T11:09:02.366552
 2025-08-18,66395,2025081801000470,ADBL,NIMB Stock Markets Limited,Oxford Securities Pvt. Ltd.,50,336.0,16800.0,2025-08-18T11:09:21.998236
 2025-08-18,66055,2025081801000586,ADBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Creative Securities Pvt Ltd,240,336.9,80856.0,2025-08-18T11:10:46.777004

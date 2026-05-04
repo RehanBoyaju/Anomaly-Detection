@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87393,2025070605000001,HIDCL,Sani Securities Company Ltd.,Roadshow securities limited,10,285.4,2854.0,2025-07-06 10:46:00.009494
 2025-07-06,87051,2025070605000054,HIDCL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,10,291.0,2910.0,2025-07-06 11:01:29.705903
 2025-07-06,87050,2025070605000055,HIDCL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,10,291.0,2910.0,2025-07-06 11:01:29.853994

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130933,2025080503000007,MPFL,Sani Securities Company Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,623.3,6233.0,2025-08-05 10:46:00.034572
 2025-08-05,121423,2025080503000179,MPFL,Opal Securities Investment (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,10,635.7,6357.0,2025-08-05 11:07:14.595708
 2025-08-05,119351,2025080503000244,MPFL,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,648.3,6483.0,2025-08-05 11:09:04.635723

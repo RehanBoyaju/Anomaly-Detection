@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,76889,2025081203000109,SIFC,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,531.0,5310.0,2025-08-12 11:05:17.239979
 2025-08-12,68561,2025081203001629,SIFC,Online Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,522.0,5220.0,2025-08-12 11:31:20.920434
 2025-08-12,68560,2025081203001630,SIFC,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,111,522.0,57942.0,2025-08-12 11:31:20.920504

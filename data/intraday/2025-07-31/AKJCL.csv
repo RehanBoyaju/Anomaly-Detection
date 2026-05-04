@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168552,2025073104000012,AKJCL,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,10,218.0,2180.0,2025-07-31 10:46:00.047012
 2025-07-31,168551,2025073104000013,AKJCL,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,25,218.0,5450.0,2025-07-31 10:46:00.047050
 2025-07-31,168550,2025073104000014,AKJCL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,15,218.0,3270.0,2025-07-31 10:46:00.047081

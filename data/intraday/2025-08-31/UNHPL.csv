@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,94144,2025083104000145,UNHPL,Kumari Securities Private Limited,Sharepro Securities Private Limited,100,393.1,39310.0,2025-08-31T11:04:07.393996
 2025-08-31,94143,2025083104000146,UNHPL,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,200,393.1,78620.0,2025-08-31T11:04:07.394067
 2025-08-31,90689,2025083104000343,UNHPL,Kumari Securities Private Limited,Siprabi Securities Pvt. Ltd.,100,390.1,39010.0,2025-08-31T11:09:57.516494

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68751,2025090404000100,CHL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,243.0,2430.0,2025-09-04T11:02:12.863495
 2025-09-04,68749,2025090404000101,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,30,243.0,7290.0,2025-09-04T11:02:14.249385
 2025-09-04,68748,2025090404000102,CHL,Kohinoor Investment & Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,15,243.5,3652.5,2025-09-04T11:02:14.249426

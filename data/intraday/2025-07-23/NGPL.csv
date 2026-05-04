@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170263,2025072304000010,NGPL,Arun Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,10,428.8,4288.0,2025-07-23 10:46:00.037498
 2025-07-23,170262,2025072304000011,NGPL,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,30,428.8,12864.0,2025-07-23 10:46:00.037526
 2025-07-23,170261,2025072304000012,NGPL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,428.8,8576.0,2025-07-23 10:46:00.037564

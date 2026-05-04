@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PRVU,21,49,110,199.5,21945.0,2026-04-28 14:59:39.733,2026042801110297
 PRVU,49,49,390,199.8,77922.0,2026-04-28 14:59:39.731,2026042801110296
 PRVU,35,22,300,199.9,59970.0,2026-04-28 14:59:28.185,2026042801110084

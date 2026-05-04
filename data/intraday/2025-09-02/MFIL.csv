@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,78195,2025090203000267,MFIL,Asian Securities Private Ltd.,Primo Securities (PVT) Ltd.,500,683.0,341500.0,2025-09-02 11:19:51.327744
 2025-09-02,77806,2025090203000276,MFIL,Asian Securities Private Ltd.,Primo Securities (PVT) Ltd.,500,683.0,341500.0,2025-09-02 11:20:38.843888
 2025-09-02,77551,2025090203000286,MFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,31,683.0,21173.0,2025-09-02 11:21:14.599152

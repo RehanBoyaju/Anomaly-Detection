@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72592,2025071401000004,NICA,Ashutosh Brokerage & Securities (PVT) Ltd.,Sani Securities Company Ltd.,50,413.5,20675.0,2025-07-14 10:46:00.022811
 2025-07-14,72591,2025071401000005,NICA,Ashutosh Brokerage & Securities (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,20,413.5,8270.0,2025-07-14 10:46:00.022854
 2025-07-14,72590,2025071401000006,NICA,Ashutosh Brokerage & Securities (PVT) Ltd.,Oxford Securities Pvt. Ltd.,30,413.5,12405.0,2025-07-14 10:46:00.022880

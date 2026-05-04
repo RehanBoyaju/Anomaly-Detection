@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97607,2025081104000148,CHL,Vision Securities Pvt. Ltd,Primo Securities (PVT) Ltd.,10,320.0,3200.0,2025-08-11 11:03:08.968123
 2025-08-11,97373,2025081104000182,CHL,Capital Max Securities Ltd,Trishakti Securities Public Limited,50,320.0,16000.0,2025-08-11 11:03:50.903613
 2025-08-11,96654,2025081104000327,CHL,Naasa Securities Co. Ltd.,BHOLE GANESH SECURITIES LTD,10,315.0,3150.0,2025-08-11 11:05:36.049725

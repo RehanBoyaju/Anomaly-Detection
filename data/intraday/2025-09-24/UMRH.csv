@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,46562,2025092404000390,UMRH,Magnet Securities and Investment Company Private Limited,Imperial Securities Company Pvt. Ltd.,500,590.5,295250.0,2025-09-24 11:06:49.498024
 2025-09-24,46496,2025092404000402,UMRH,Magnet Securities and Investment Company Private Limited,Agrawal Securities (PVT) Ltd.,500,590.5,295250.0,2025-09-24 11:07:13.290400
 2025-09-24,46022,2025092404000554,UMRH,Nagarik Stock Dealer ,Agrawal Securities (PVT) Ltd.,100,590.1,59010.0,2025-09-24 11:09:21.012523

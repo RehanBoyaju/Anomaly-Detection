@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68727,2025090401000094,SBI,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,10,398.7,3987.0,2025-09-04T11:02:24.316411
 2025-09-04,65301,2025090401001478,SBI,Aryatara Investment & Securities,ABC Securities Private Limited,24,390.8,9379.2,2025-09-04T11:16:53.94206
 2025-09-04,63610,2025090401002138,SBI,Aryatara Investment & Securities,Sweta Securities Private Limited,50,390.8,19540.0,2025-09-04T11:23:23.126706

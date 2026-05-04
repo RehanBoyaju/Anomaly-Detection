@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SAHAS,92,51,200,618.4,123680.0,2026-04-28 14:59:56.948,2026042805016495
 SAHAS,92,50,10,618.0,6180.0,2026-04-28 14:59:56.948,2026042805016494
 SAHAS,14,50,40,618.0,24720.0,2026-04-28 14:59:43.183,2026042805016358

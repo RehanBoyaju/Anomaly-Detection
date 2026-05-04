@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92050,2025080605000444,SPC,Secured Securities Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,50,535.0,26750.0,2025-08-06 11:03:50.970947
 2025-08-06,88866,2025080605001714,SPC,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,536.0,5360.0,2025-08-06 11:11:35.964073
 2025-08-06,85070,2025080605003105,SPC,ABC Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,400,536.0,214400.0,2025-08-06 11:21:15.172748

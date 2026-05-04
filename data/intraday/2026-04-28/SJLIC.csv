@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SJLIC,67,49,10,435.0,4350.0,2026-04-28 14:59:53.369,2026042803008468
 SJLIC,67,11,10,435.0,4350.0,2026-04-28 14:59:53.369,2026042803008467
 SJLIC,67,38,10,435.0,4350.0,2026-04-28 14:59:53.369,2026042803008466

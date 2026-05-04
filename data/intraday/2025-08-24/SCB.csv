@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,56689,2025082401000249,SCB,Secured Securities Ltd.,Nepal Stock House (PVT) Ltd.,25,624.0,15600.0,2025-08-24 11:10:01.672267
 2025-08-24,55976,2025082401000362,SCB,Aryatara Investment & Securities,K.B.L. Securities Limited ,20,624.6,12492.0,2025-08-24 11:13:38.625601
 2025-08-24,55893,2025082401000378,SCB,J.F. Securites (PVT) Ltd.,K.B.L. Securities Limited ,10,624.6,6246.0,2025-08-24 11:13:57.818044

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44814,2025082604000061,AKPL,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,200,260.0,52000.0,2025-08-26 11:03:46.074203
 2025-08-26,44642,2025082604000084,AKPL,Secured Securities Ltd.,Online Securities Pvt. Ltd.,100,260.0,26000.0,2025-08-26 11:05:47.035761
 2025-08-26,44580,2025082604000093,AKPL,Secured Securities Ltd.,Online Securities Pvt. Ltd.,50,260.0,13000.0,2025-08-26 11:06:21.536888

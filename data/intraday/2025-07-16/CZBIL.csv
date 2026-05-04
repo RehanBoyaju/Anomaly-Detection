@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98660,2025071601000427,CZBIL,Elite Stock House Limited,Online Securities Pvt. Ltd.,100,227.8,22780.0,2025-07-16 11:03:28.947074
 2025-07-16,98659,2025071601000428,CZBIL,Elite Stock House Limited,ABC Securities Private Limited,40,227.8,9112.0,2025-07-16 11:03:28.947111
 2025-07-16,98658,2025071601000429,CZBIL,Elite Stock House Limited,Agrawal Securities (PVT) Ltd.,150,227.9,34185.0,2025-07-16 11:03:28.947137

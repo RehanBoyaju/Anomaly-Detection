@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61539,2025081904000154,DHPL,Asian Securities Private Ltd.,Sani Securities Company Ltd.,10,317.0,3170.0,2025-08-19 11:01:12.359147
 2025-08-19,61283,2025081904000223,DHPL,Asian Securities Private Ltd.,Himalayan Brokerage Company Limited,17,317.0,5389.0,2025-08-19 11:03:13.815148
 2025-08-19,61245,2025081904000235,DHPL,Asian Securities Private Ltd.,Sani Securities Company Ltd.,100,317.0,31700.0,2025-08-19 11:03:26.625125

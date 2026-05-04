@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66937,2025081804000223,SPDL,Sani Securities Company Ltd.,Infinity Securities Limited,10,405.0,4050.0,2025-08-18T11:06:59.306828
 2025-08-18,66840,2025081804000243,SPDL,Aryatara Investment & Securities,Infinity Securities Limited,20,406.0,8120.0,2025-08-18T11:07:23.373668
 2025-08-18,66818,2025081804000249,SPDL,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,80,406.0,32480.0,2025-08-18T11:07:31.783932

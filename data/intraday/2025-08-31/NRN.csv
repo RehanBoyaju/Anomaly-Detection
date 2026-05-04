@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,96232,2025083105000075,NRN,Capital Max Securities Ltd,Shree Krishna Securities Ltd.,11,2105.9,23164.9,2025-08-31T11:01:11.139319
 2025-08-31,92631,2025083105000564,NRN,Miyo Securities Pvt Ltd,ABC Securities Private Limited,10,2125.0,21250.0,2025-08-31T11:06:39.653863
 2025-08-31,92187,2025083105000683,NRN,Miyo Securities Pvt Ltd,Oxford Securities Pvt. Ltd.,272,2125.0,578000.0,2025-08-31T11:07:37.196911

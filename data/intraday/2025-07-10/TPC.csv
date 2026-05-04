@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87311,2025071001000546,TPC,Dakshinkali Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,500,409.0,204500.0,2025-07-10 11:06:37.136665
 2025-07-10,84685,2025071001001638,TPC,Oxford Securities Pvt. Ltd.,Kumari Securities Private Limited,10,401.2,4012.0,2025-07-10 11:16:20.304956
 2025-07-10,83333,2025071001002224,TPC,Himalayan Brokerage Company Limited,Imperial Securities Company Pvt. Ltd.,500,403.1,201550.0,2025-07-10 11:20:54.553019

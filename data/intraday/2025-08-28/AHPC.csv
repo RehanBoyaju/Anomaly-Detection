@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78111,2025082804000092,AHPC,Linch Stock Market Ltd.,Sewa Securities Pvt. Ltd.,30,297.0,8910.0,2025-08-28 11:01:36.528548
 2025-08-28,77983,2025082804000125,AHPC,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,10,299.0,2990.0,2025-08-28 11:02:23.701002
 2025-08-28,77853,2025082804000170,AHPC,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,1000,297.0,297000.0,2025-08-28 11:02:59.524450

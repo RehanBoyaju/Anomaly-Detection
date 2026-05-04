@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177606,2025072004000174,NGPL,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,10,415.0,4150.0,2025-07-20T11:01:06.069609
 2025-07-20,177441,2025072004000234,NGPL,Sipla Securities Private Limited,Sani Securities Company Ltd.,10,415.0,4150.0,2025-07-20T11:01:24.458724
 2025-07-20,177357,2025072004000255,NGPL,Sipla Securities Private Limited,Opal Securities Investment (PVT) Ltd.,40,415.0,16600.0,2025-07-20T11:01:31.875981

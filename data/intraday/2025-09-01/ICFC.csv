@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,67501,2025090103000102,ICFC,Blue Chip Securities Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,10,672.0,6720.0,2025-09-01 11:04:56.755803
 2025-09-01,66257,2025090103000204,ICFC,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,58,663.0,38454.0,2025-09-01 11:09:13.789289
 2025-09-01,66232,2025090103000205,ICFC,Creative Securities Pvt Ltd,Market Securities & Exchange (PVT) Ltd.,20,661.0,13220.0,2025-09-01 11:09:20.960251

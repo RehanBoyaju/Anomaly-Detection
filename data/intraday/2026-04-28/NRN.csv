@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NRN,58,25,100,1475.0,147500.0,2026-04-28 14:59:59.112,2026042805016537
 NRN,77,94,25,1465.0,36625.0,2026-04-28 14:59:57.762,2026042805016497
 NRN,58,94,775,1474.0,1142350.0,2026-04-28 14:59:57.762,2026042805016496

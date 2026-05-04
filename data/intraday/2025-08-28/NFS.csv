@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77820,2025082803000073,NFS,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,700.0,7000.0,2025-08-28 11:03:06.012282
 2025-08-28,77819,2025082803000074,NFS,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,100,700.0,70000.0,2025-08-28 11:03:06.012389
 2025-08-28,77647,2025082803000091,NFS,SHUBHAKAMANA SECURITIES PVT. LTD,Primo Securities (PVT) Ltd.,80,696.0,55680.0,2025-08-28 11:03:50.008718

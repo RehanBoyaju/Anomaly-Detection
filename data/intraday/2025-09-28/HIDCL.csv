@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39767,2025092805000033,HIDCL,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,10,274.0,2740.0,2025-09-28 11:01:12.060622
 2025-09-28,39444,2025092805000092,HIDCL,Secured Securities Ltd.,Vision Securities Pvt. Ltd,500,275.9,137950.0,2025-09-28 11:02:52.637463
 2025-09-28,38942,2025092805000211,HIDCL,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,364,274.0,99736.0,2025-09-28 11:05:39.837736

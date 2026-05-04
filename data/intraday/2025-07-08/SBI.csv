@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56271,2025070801000001,SBI,Dynamic Money Managers Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,4783,410.0,1961030.0,2025-07-08 10:46:00.014251
 2025-07-08,52481,2025070801000880,SBI,Sundhara Securities Limited,Sri Hari Securities Pvt. Ltd.,13,405.0,5265.0,2025-07-08 11:21:12.125991
 2025-07-08,50603,2025070801001294,SBI,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,17,405.3,6890.1,2025-07-08 11:30:23.262467

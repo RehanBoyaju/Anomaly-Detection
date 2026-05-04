@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,150647,2025080303000284,ICFC,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,500,691.0,345500.0,2025-08-03T11:03:10.925597
 2025-08-03,150395,2025080303000328,ICFC,Sri Hari Securities Pvt. Ltd.,K.B.L. Securities Limited ,100,690.0,69000.0,2025-08-03T11:03:35.85098
 2025-08-03,149652,2025080303000384,ICFC,Investment Management Nepal Pvt. Ltd.,K.B.L. Securities Limited ,50,690.0,34500.0,2025-08-03T11:04:37.144789

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NLG,95,82,10,614.7,6147.0,2026-04-28 14:59:58.817,2026042804015042
 NLG,75,14,1034,610.0,630740.0,2026-04-28 14:59:43.037,2026042804014885
 NLG,75,77,2000,609.0,1218000.0,2026-04-28 14:59:43.037,2026042804014884

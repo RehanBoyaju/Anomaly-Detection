@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108271,2025092103000127,GRDBL,Vision Securities Pvt. Ltd,Sagarmatha Securities Private Limited,100,969.6,96960.0,2025-09-21 10:46:00.083283
 2025-09-21,108270,2025092103000128,GRDBL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,10,969.6,9696.0,2025-09-21 10:46:00.083310
 2025-09-21,108269,2025092103000129,GRDBL,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,53,969.6,51388.8,2025-09-21 10:46:00.083338

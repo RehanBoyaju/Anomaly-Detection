@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67028,2025081803000092,SADBL,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,15,444.0,6660.0,2025-08-18T11:06:35.699523
 2025-08-18,64577,2025081803000346,SADBL,Sweta Securities Private Limited,Sundhara Securities Limited,100,442.0,44200.0,2025-08-18T11:18:34.034051
 2025-08-18,64465,2025081803000373,SADBL,KALASH STOCK MARKET PVT. LTD.,Sani Securities Company Ltd.,10,440.0,4400.0,2025-08-18T11:19:01.681259

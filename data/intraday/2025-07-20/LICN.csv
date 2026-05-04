@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,175905,2025072003000565,LICN,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,20,918.8,18376.0,2025-07-20T11:03:34.430505
 2025-07-20,173150,2025072003001143,LICN,Market Securities & Exchange (PVT) Ltd.,Vision Securities Pvt. Ltd,20,919.0,18380.0,2025-07-20T11:06:45.381893
 2025-07-20,173149,2025072003001144,LICN,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,20,919.0,18380.0,2025-07-20T11:06:45.381952

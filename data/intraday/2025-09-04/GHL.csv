@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68602,2025090404000138,GHL,Blue Chip Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,230.0,2300.0,2025-09-04T11:03:07.601915
 2025-09-04,68069,2025090404000335,GHL,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,10,226.0,2260.0,2025-09-04T11:05:57.005115
 2025-09-04,66927,2025090404000593,GHL,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,100,227.1,22710.0,2025-09-04T11:11:05.135398

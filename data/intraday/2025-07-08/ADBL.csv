@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,53525,2025070801000547,ADBL,Creative Securities Pvt Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,150,295.2,44280.0,2025-07-08 11:15:53.018125
 2025-07-08,52479,2025070801000881,ADBL,Kumari Securities Private Limited,South Asian Bulls Pvt. Ltd.,50,295.7,14785.0,2025-07-08 11:21:13.510884
 2025-07-08,52056,2025070801000972,ADBL,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,20,295.0,5900.0,2025-07-08 11:23:15.679360

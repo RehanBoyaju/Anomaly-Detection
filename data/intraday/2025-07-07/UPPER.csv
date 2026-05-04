@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71060,2025070704000050,UPPER,Premier Securities Company Ltd.,KALASH STOCK MARKET PVT. LTD.,50,198.0,9900.0,2025-07-07 11:01:11.666527
 2025-07-07,71059,2025070704000051,UPPER,Aryatara Investment & Securities,KALASH STOCK MARKET PVT. LTD.,500,198.0,99000.0,2025-07-07 11:01:11.666602
 2025-07-07,70992,2025070704000070,UPPER,Kumari Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,150,198.0,29700.0,2025-07-07 11:01:35.845233

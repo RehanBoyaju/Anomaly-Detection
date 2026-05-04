@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67778,2025081805000049,NYADI,Himalayan Brokerage Company Limited,Himalayan Brokerage Company Limited,500,426.4,213200.0,2025-08-18T11:01:11.613562
 2025-08-18,67255,2025081805000242,NYADI,Premier Securities Company Ltd.,ABC Securities Private Limited,10,418.0,4180.0,2025-08-18T11:05:25.660701
 2025-08-18,66542,2025081805000542,NYADI,Premier Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,10,418.0,4180.0,2025-08-18T11:08:39.058946

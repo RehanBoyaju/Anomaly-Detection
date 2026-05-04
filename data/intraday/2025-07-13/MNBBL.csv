@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104976,2025071303000099,MNBBL,Sani Securities Company Ltd.,Capital Hub P. Ltd,100,397.0,39700.0,2025-07-13T10:46:00.091372
 2025-07-13,104975,2025071303000100,MNBBL,Sani Securities Company Ltd.,Trishakti Securities Public Limited,10,397.0,3970.0,2025-07-13T10:46:00.091404
 2025-07-13,104974,2025071303000101,MNBBL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,190,397.0,75430.0,2025-07-13T10:46:00.091428

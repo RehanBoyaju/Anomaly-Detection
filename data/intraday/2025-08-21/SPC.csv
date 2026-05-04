@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56776,2025082105000016,SPC,Elite Stock House Limited,Online Securities Pvt. Ltd.,10,530.0,5300.0,2025-08-21 10:46:00.167614
 2025-08-21,55761,2025082105000361,SPC,Nabil Stock Dealer Ltd.,Naasa Securities Co. Ltd.,10,533.1,5331.0,2025-08-21 11:10:37.271252
 2025-08-21,55355,2025082105000517,SPC,Nabil Stock Dealer Ltd.,Market Securities & Exchange (PVT) Ltd.,150,533.1,79965.0,2025-08-21 11:14:06.771596

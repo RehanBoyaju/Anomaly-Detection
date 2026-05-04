@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,70506,2025081403000594,GUFL,Capital Max Securities Ltd,Creative Securities Pvt Ltd,10,554.0,5540.0,2025-08-14 11:25:22.552329
 2025-08-14,70505,2025081403000595,GUFL,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,20,554.0,11080.0,2025-08-14 11:25:22.552444
 2025-08-14,66266,2025081403001063,GUFL,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,100,554.0,55400.0,2025-08-14 11:41:28.425462

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,58896,2025090801000309,SCB,Aryatara Investment & Securities,J.F. Securites (PVT) Ltd.,10,630.1,6301.0,2025-09-08 11:07:49.348791
 2025-09-08,58668,2025090801000382,SCB,Primo Securities (PVT) Ltd.,Kumari Securities Private Limited,10,631.0,6310.0,2025-09-08 11:09:19.082681
 2025-09-08,58519,2025090801000422,SCB,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,20,631.1,12622.0,2025-09-08 11:10:15.054647

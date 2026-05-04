@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,84804,2025070601000518,NMB,Trishakti Securities Public Limited,Sani Securities Company Ltd.,107,252.0,26964.0,2025-07-06 11:09:10.480735
 2025-07-06,83314,2025070601000858,NMB,Trishakti Securities Public Limited,Kumari Securities Private Limited,393,252.0,99036.0,2025-07-06 11:13:10.146439
 2025-07-06,82253,2025070601001108,NMB,Imperial Securities Company Pvt. Ltd.,Arun Securities (PVT) Ltd.,200,251.0,50200.0,2025-07-06 11:15:32.646707

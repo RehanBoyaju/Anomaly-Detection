@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44905,2025082604000044,GHL,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,20,235.0,4700.0,2025-08-26 11:02:44.105602
 2025-08-26,44904,2025082604000045,GHL,Beni Securities Pvt.Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,20,235.0,4700.0,2025-08-26 11:02:44.105736
 2025-08-26,44903,2025082604000046,GHL,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,50,235.0,11750.0,2025-08-26 11:02:44.105810

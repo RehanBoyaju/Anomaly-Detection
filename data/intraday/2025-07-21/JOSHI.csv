@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,136802,2025072104000903,JOSHI,KALASH STOCK MARKET PVT. LTD.,Naasa Securities Co. Ltd.,100,358.0,35800.0,2025-07-21 11:04:09.835515
 2025-07-21,136288,2025072104001102,JOSHI,Midas Stock Broking Company Private Limited,Capital Hub P. Ltd,100,355.0,35500.0,2025-07-21 11:05:06.437158
 2025-07-21,136273,2025072104001109,JOSHI,Midas Stock Broking Company Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,100,355.0,35500.0,2025-07-21 11:05:07.694836

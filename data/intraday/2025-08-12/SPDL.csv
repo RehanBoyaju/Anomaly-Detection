@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,76825,2025081204000223,SPDL,Oxford Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,100,400.0,40000.0,2025-08-12 11:05:39.030448
 2025-08-12,76765,2025081204000242,SPDL,Midas Stock Broking Company Private Limited,BHOLE GANESH SECURITIES LTD,1000,398.2,398200.0,2025-08-12 11:05:56.077819
 2025-08-12,76421,2025081204000330,SPDL,Dynamic Money Managers Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,50,400.0,20000.0,2025-08-12 11:07:20.290225

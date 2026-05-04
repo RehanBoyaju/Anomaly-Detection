@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61282,2025081903000064,EDBL,Malla & Malla Stock Broking Company Pvt. Limited,Vision Securities Pvt. Ltd,10,618.3,6183.0,2025-08-19 11:03:14.350345
 2025-08-19,59870,2025081903000182,EDBL,Naasa Securities Co. Ltd.,Citizens Share Broker Limited,10,628.0,6280.0,2025-08-19 11:12:01.683618
 2025-08-19,59207,2025081903000239,EDBL,Sumeru Securities Pvt. Ltd.,Citizens Share Broker Limited,50,628.0,31400.0,2025-08-19 11:15:36.540262

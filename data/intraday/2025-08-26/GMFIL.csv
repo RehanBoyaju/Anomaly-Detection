@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44001,2025082603000286,GMFIL,Citizens Share Broker Limited,Midas Stock Broking Company Private Limited,10,487.3,4873.0,2025-08-26 11:11:29.848651
 2025-08-26,40147,2025082603001053,GMFIL,Shree Krishna Securities Ltd.,South Asian Bulls Pvt. Ltd.,350,478.0,167300.0,2025-08-26 11:38:34.591617
 2025-08-26,40137,2025082603001054,GMFIL,Shree Krishna Securities Ltd.,Kumari Securities Private Limited,650,478.0,310700.0,2025-08-26 11:38:36.392155

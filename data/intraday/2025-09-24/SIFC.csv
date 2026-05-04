@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,46622,2025092403000237,SIFC,Asian Securities Private Ltd.,Trisul Securities & Invt. Ltd.,10,512.0,5120.0,2025-09-24 11:06:34.347375
 2025-09-24,46592,2025092403000242,SIFC,Asian Securities Private Ltd.,Trisul Securities & Invt. Ltd.,15,511.5,7672.5,2025-09-24 11:06:45.392882
 2025-09-24,46529,2025092403000254,SIFC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Trisul Securities & Invt. Ltd.,10,511.1,5111.0,2025-09-24 11:07:01.449342

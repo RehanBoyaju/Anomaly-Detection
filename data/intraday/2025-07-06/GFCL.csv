@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87300,2025070603000047,GFCL,Opal Securities Investment (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,50,655.0,32750.0,2025-07-06 10:46:00.136107
 2025-07-06,87152,2025070603000101,GFCL,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,10,653.0,6530.0,2025-07-06 11:01:04.344631
 2025-07-06,87151,2025070603000102,GFCL,Asian Securities Private Ltd.,Sri Hari Securities Pvt. Ltd.,20,653.59,13071.8,2025-07-06 11:01:04.344695

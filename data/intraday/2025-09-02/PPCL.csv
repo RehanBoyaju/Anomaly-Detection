@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,70360,2025090204000923,PPCL,Capital Max Securities Ltd,Linch Stock Market Ltd.,20,330.1,6602.0,2025-09-02 11:38:23.338842
 2025-09-02,66570,2025090204001201,PPCL,Capital Max Securities Ltd,Vision Securities Pvt. Ltd,70,330.1,23107.0,2025-09-02 11:47:31.306476
 2025-09-02,66009,2025090204001243,PPCL,Capital Max Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,110,330.1,36311.0,2025-09-02 11:48:40.013463

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,165957,2025072803000975,CFCL,Opal Securities Investment (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,564.0,5640.0,2025-07-28T11:09:56.845366
 2025-07-28,163772,2025072803001451,CFCL,ABC Securities Private Limited,Trisul Securities & Invt. Ltd.,10,560.0,5600.0,2025-07-28T11:12:45.798563
 2025-07-28,162894,2025072803001623,CFCL,ABC Securities Private Limited,Agrawal Securities (PVT) Ltd.,10,559.0,5590.0,2025-07-28T11:13:46.685811

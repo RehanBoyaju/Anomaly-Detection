@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,63815,2025090303000279,SIFC,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,100,501.0,50100.0,2025-09-03 11:19:34.292734
 2025-09-03,61672,2025090303000428,SIFC,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,200,505.0,101000.0,2025-09-03 11:27:12.318235
 2025-09-03,61468,2025090303000437,SIFC,Linch Stock Market Ltd.,Sewa Securities Pvt. Ltd.,200,507.0,101400.0,2025-09-03 11:27:59.960161

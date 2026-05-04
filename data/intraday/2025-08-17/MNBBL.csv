@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86444,2025081703000026,MNBBL,Sundhara Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,452.0,4520.0,2025-08-17 11:00:42.973377
 2025-08-17,86358,2025081703000031,MNBBL,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,80,451.8,36144.0,2025-08-17 11:01:02.882037
 2025-08-17,86283,2025081703000039,MNBBL,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,20,451.8,9036.0,2025-08-17 11:01:21.997857

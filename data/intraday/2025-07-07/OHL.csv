@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69514,2025070704000440,OHL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,889.9,8899.0,2025-07-07 11:08:37.055861
 2025-07-07,62620,2025070704002394,OHL,Trishakti Securities Public Limited,South Asian Bulls Pvt. Ltd.,250,886.6,221650.0,2025-07-07 11:34:06.894925
 2025-07-07,62619,2025070704002395,OHL,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,150,886.7,133005.0,2025-07-07 11:34:06.895086

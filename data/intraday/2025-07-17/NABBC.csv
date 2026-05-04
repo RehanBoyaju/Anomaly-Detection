@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140985,2025071703000097,NABBC,ABC Securities Private Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,10,1676.8,16768.0,2025-07-17 11:01:40.503130
 2025-07-17,140960,2025071703000100,NABBC,Shree Krishna Securities Ltd.,ABC Securities Private Limited,10,1612.0,16120.0,2025-07-17 11:01:44.583696
 2025-07-17,140751,2025071703000135,NABBC,Ashutosh Brokerage & Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,1710.0,513000.0,2025-07-17 11:02:21.396112

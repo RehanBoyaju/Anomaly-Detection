@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,49816,2025082503002833,GUFL,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,532.0,10640.0,2025-08-25 11:34:58.663589
 2025-08-25,46765,2025082503003558,GUFL,Malla & Malla Stock Broking Company Pvt. Limited,Premier Securities Company Ltd.,37,531.0,19647.0,2025-08-25 11:49:18.982441
 2025-08-25,46764,2025082503003559,GUFL,Deevyaa Securities & Stock House Pvt. Ltd,Premier Securities Company Ltd.,20,530.0,10600.0,2025-08-25 11:49:18.982612

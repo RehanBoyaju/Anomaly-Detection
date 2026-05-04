@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170153,2025072804000201,PMHPL,KALASH STOCK MARKET PVT. LTD.,Online Securities Pvt. Ltd.,500,399.0,199500.0,2025-07-28T11:02:04.22321
 2025-07-28,170051,2025072804000236,PMHPL,Miyo Securities Pvt Ltd,Pragyan Securities (PVT) Ltd.,300,400.0,120000.0,2025-07-28T11:02:19.341908
 2025-07-28,170050,2025072804000237,PMHPL,Miyo Securities Pvt Ltd,Sweta Securities Private Limited,100,402.0,40200.0,2025-07-28T11:02:19.34201

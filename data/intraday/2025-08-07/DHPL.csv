@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,92822,2025080704000440,DHPL,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,90,326.0,29340.0,2025-08-07 11:10:03.641065
 2025-08-07,92652,2025080704000472,DHPL,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,320.1,3201.0,2025-08-07 11:10:33.788755
 2025-08-07,86973,2025080704001571,DHPL,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,10,325.6,3256.0,2025-08-07 11:27:17.995445

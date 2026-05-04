@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,81059,2025081704001000,DHPL,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,10,308.0,3080.0,2025-08-17 11:16:24.682107
 2025-08-17,81058,2025081704001001,DHPL,Sani Securities Company Ltd.,Kalika Securities Pvt. Ltd.,10,310.9,3109.0,2025-08-17 11:16:24.682160
 2025-08-17,80619,2025081704001096,DHPL,Opal Securities Investment (PVT) Ltd.,Sani Securities Company Ltd.,10,317.1,3171.0,2025-08-17 11:17:47.356223

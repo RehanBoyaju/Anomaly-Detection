@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,137278,2025072103000299,MLBL,Citizens Share Broker Limited,Deevyaa Securities & Stock House Pvt. Ltd,100,417.0,41700.0,2025-07-21 11:03:15.916925
 2025-07-21,136875,2025072103000387,MLBL,Capital Max Securities Ltd,Aryatara Investment & Securities,110,417.1,45881.0,2025-07-21 11:03:59.977146
 2025-07-21,136817,2025072103000397,MLBL,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,890,417.1,371219.0,2025-07-21 11:04:06.464916

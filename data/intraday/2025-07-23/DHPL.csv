@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169761,2025072304000201,DHPL,Vision Securities Pvt. Ltd,Elite Stock House Limited,400,343.0,137200.0,2025-07-23 11:01:00.806281
 2025-07-23,168392,2025072304000628,DHPL,Ashutosh Brokerage & Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,1000,342.0,342000.0,2025-07-23 11:02:59.362219
 2025-07-23,168332,2025072304000655,DHPL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,30,342.0,10260.0,2025-07-23 11:03:04.628512

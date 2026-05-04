@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169571,2025072303000088,NLICL,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,10,689.0,6890.0,2025-07-23 11:01:19.789233
 2025-07-23,168587,2025072303000239,NLICL,Dynamic Money Managers Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,500,688.9,344450.0,2025-07-23 11:02:44.994086
 2025-07-23,168586,2025072303000240,NLICL,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,90,689.0,62010.0,2025-07-23 11:02:44.994134

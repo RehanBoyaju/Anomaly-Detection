@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SAGAR,17,100,10,1780.0,17800.0,2026-04-28 14:59:59.639,2026042801111041
 SAGAR,16,100,10,1780.0,17800.0,2026-04-28 14:59:59.348,2026042801111030
 SAGAR,59,100,10,1780.0,17800.0,2026-04-28 14:59:58.352,2026042801110998

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99477,2025071604000013,BARUN,Nepal Stock House (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,12,433.0,5196.0,2025-07-16 10:46:00.036221
 2025-07-16,99476,2025071604000014,BARUN,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,88,433.0,38104.0,2025-07-16 10:46:00.036248
 2025-07-16,99475,2025071604000015,BARUN,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,112,433.0,48496.0,2025-07-16 10:46:00.036290

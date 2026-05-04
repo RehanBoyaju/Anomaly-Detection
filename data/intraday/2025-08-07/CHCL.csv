@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95423,2025080704000040,CHCL,Agrawal Securities (PVT) Ltd.,Market Securities & Exchange (PVT) Ltd.,10,530.0,5300.0,2025-08-07 11:01:09.702362
 2025-08-07,95155,2025080704000073,CHCL,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,540.0,5400.0,2025-08-07 11:02:16.718688
 2025-08-07,93776,2025080704000258,CHCL,Ashutosh Brokerage & Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,150,538.0,80700.0,2025-08-07 11:07:10.909653

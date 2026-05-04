@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169269,2025072303000120,SIFC,Creative Securities Pvt Ltd,Agrawal Securities (PVT) Ltd.,25,567.0,14175.0,2025-07-23 11:01:43.226017
 2025-07-23,168635,2025072303000227,SIFC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Vision Securities Pvt. Ltd,13,558.0,7254.0,2025-07-23 11:02:41.868828
 2025-07-23,168136,2025072303000317,SIFC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Kumari Securities Private Limited,200,558.0,111600.0,2025-07-23 11:03:17.219691

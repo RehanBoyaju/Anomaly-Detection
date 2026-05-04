@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,89653,2025080703001054,PROFL,Trisul Securities & Invt. Ltd.,S.P.S.A. Securities Limited,10,525.0,5250.0,2025-08-07 11:19:43.185962
 2025-08-07,88530,2025080703001277,PROFL,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,40,525.0,21000.0,2025-08-07 11:22:34.077514
 2025-08-07,87697,2025080703001450,PROFL,Sri Hari Securities Pvt. Ltd.,Stoxkarts Securities Limited,100,526.0,52600.0,2025-08-07 11:24:54.337392

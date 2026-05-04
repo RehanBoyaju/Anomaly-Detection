@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73980,2025071501000023,SBL,Sani Securities Company Ltd.,K.B.L. Securities Limited ,10,356.0,3560.0,2025-07-15 11:00:18.765558
 2025-07-15,73843,2025071501000076,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,360.0,3600.0,2025-07-15 11:01:40.572373
 2025-07-15,73809,2025071501000092,SBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,200,358.0,71600.0,2025-07-15 11:01:57.184456

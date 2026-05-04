@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,148418,2025080404000167,CHCL,Capital Max Securities Ltd,Sani Securities Company Ltd.,100,540.0,54000.0,2025-08-04 11:00:59.651575
 2025-08-04,148240,2025080404000214,CHCL,Malla & Malla Stock Broking Company Pvt. Limited,Sani Securities Company Ltd.,100,540.0,54000.0,2025-08-04 11:01:09.181311
 2025-08-04,147653,2025080404000430,CHCL,Online Securities Pvt. Ltd.,Sajilo Broker Limited,20,541.0,10820.0,2025-08-04 11:02:04.580191

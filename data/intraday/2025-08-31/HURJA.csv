@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,97154,2025083104000015,HURJA,Premier Securities Company Ltd.,Primo Securities (PVT) Ltd.,100,242.5,24250.0,2025-08-31T10:46:00.037107
 2025-08-31,96957,2025083104000018,HURJA,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,30,242.0,7260.0,2025-08-31T11:00:10.458538
 2025-08-31,96762,2025083104000027,HURJA,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,20,242.0,4840.0,2025-08-31T11:00:29.82892

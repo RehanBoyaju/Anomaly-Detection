@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,52780,2025082001000213,MBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,250,249.9,62475.0,2025-08-20 11:09:16.561572
 2025-08-20,51931,2025082001000369,MBL,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,10,247.1,2471.0,2025-08-20 11:14:48.297767
 2025-08-20,50612,2025082001000606,MBL,Nepal Stock House (PVT) Ltd.,Opal Securities Investment (PVT) Ltd.,50,249.8,12490.0,2025-08-20 11:23:06.009467

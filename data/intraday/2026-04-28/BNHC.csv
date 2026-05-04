@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BNHC,42,33,50,332.0,16600.0,2026-04-28 14:59:34.714,2026042805016274
 BNHC,54,75,5,332.0,1660.0,2026-04-28 14:58:53.737,2026042805016061
 BNHC,53,75,10,332.0,3320.0,2026-04-28 14:58:53.737,2026042805016060

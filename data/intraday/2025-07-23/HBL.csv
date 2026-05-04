@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170248,2025072301000003,HBL,Dakshinkali Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,10,245.0,2450.0,2025-07-23 10:46:00.046247
 2025-07-23,168088,2025072301000474,HBL,ABC Securities Private Limited,Sani Securities Company Ltd.,10,249.9,2499.0,2025-07-23 11:03:22.237709
 2025-07-23,167186,2025072301000641,HBL,Aakashbhairab Securities Ltd.,Sani Securities Company Ltd.,1398,249.9,349360.2,2025-07-23 11:04:33.567259

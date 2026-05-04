@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140523,2025071703000164,CFCL,Premier Securities Company Ltd.,Secured Securities Ltd.,10,545.0,5450.0,2025-07-17 11:02:53.684046
 2025-07-17,136499,2025071703000898,CFCL,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,30,555.9,16677.0,2025-07-17 11:10:51.090178
 2025-07-17,136180,2025071703000936,CFCL,BHOLE GANESH SECURITIES LTD,Sweta Securities Private Limited,350,567.0,198450.0,2025-07-17 11:11:27.695074

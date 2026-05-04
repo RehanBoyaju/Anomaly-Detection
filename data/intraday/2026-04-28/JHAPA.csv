@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 JHAPA,39,67,155,1731.0,268305.0,2026-04-28 14:59:58.928,2026042801111024
 JHAPA,39,58,10,1730.4,17304.0,2026-04-28 14:59:58.928,2026042801111023
 JHAPA,39,51,10,1730.4,17304.0,2026-04-28 14:59:58.928,2026042801111022

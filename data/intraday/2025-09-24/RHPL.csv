@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47099,2025092404000235,RHPL,Capital Max Securities Ltd,Global IME Securities Limited,171,293.0,50103.0,2025-09-24 11:04:28.224037
 2025-09-24,47098,2025092404000236,RHPL,Linch Stock Market Ltd.,Global IME Securities Limited,29,293.0,8497.0,2025-09-24 11:04:28.224087
 2025-09-24,47020,2025092404000258,RHPL,Linch Stock Market Ltd.,Asian Securities Private Ltd.,107,293.0,31351.0,2025-09-24 11:05:04.398444

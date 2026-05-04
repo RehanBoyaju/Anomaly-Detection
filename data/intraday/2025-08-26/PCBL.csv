@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44964,2025082601000021,PCBL,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,50,253.1,12655.0,2025-08-26 11:01:53.853087
 2025-08-26,44963,2025082601000022,PCBL,Ashutosh Brokerage & Securities (PVT) Ltd.,Aryatara Investment & Securities,73,253.1,18476.3,2025-08-26 11:01:53.853137
 2025-08-26,44630,2025082601000078,PCBL,Siprabi Securities Pvt. Ltd.,Aryatara Investment & Securities,10,258.1,2581.0,2025-08-26 11:05:58.146655

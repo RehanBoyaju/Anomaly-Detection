@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56586,2025082105000088,NYADI,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,432.0,4320.0,2025-08-21 11:02:48.249700
 2025-08-21,55844,2025082105000334,NYADI,Opal Securities Investment (PVT) Ltd.,INDEX SECURITIES LIMITED,10,440.0,4400.0,2025-08-21 11:09:58.778656
 2025-08-21,55036,2025082105000620,NYADI,Citizens Share Broker Limited,Sundhara Securities Limited,40,434.5,17380.0,2025-08-21 11:16:22.483258

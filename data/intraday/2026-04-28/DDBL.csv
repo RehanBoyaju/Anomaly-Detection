@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 DDBL,38,4,14,830.0,11620.0,2026-04-28 14:59:56.208,2026042803008647
 DDBL,51,74,230,828.1,190463.0,2026-04-28 14:59:37.840,2026042803008393
 DDBL,75,74,70,829.0,58030.0,2026-04-28 14:59:37.840,2026042803008392

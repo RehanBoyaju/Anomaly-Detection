@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149251,2025080403000004,MDB,Sewa Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,653.8,6538.0,2025-08-04 10:46:00.028210
 2025-08-04,148104,2025080403000036,MDB,Nepal Stock House (PVT) Ltd.,Trisul Securities & Invt. Ltd.,200,666.0,133200.0,2025-08-04 11:01:19.884512
 2025-08-04,147911,2025080403000044,MDB,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,100,675.0,67500.0,2025-08-04 11:01:41.057156

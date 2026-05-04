@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157483,2025072903000006,MLBL,S.P.S.A. Securities Limited,Online Securities Pvt. Ltd.,50,465.0,23250.0,2025-07-29 10:46:00.038947
 2025-07-29,157450,2025072903000013,MLBL,S.P.S.A. Securities Limited,Neev Securities Pvt. Ltd.,34,465.0,15810.0,2025-07-29 10:46:00.134236
 2025-07-29,157283,2025072903000028,MLBL,S.P.S.A. Securities Limited,Online Securities Pvt. Ltd.,382,465.0,177630.0,2025-07-29 11:00:46.943802

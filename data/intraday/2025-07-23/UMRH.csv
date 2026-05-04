@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,165719,2025072304001617,UMRH,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,10,636.0,6360.0,2025-07-23 11:06:17.725661
 2025-07-23,161653,2025072304002852,UMRH,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,20,636.1,12722.0,2025-07-23 11:10:54.192200
 2025-07-23,159510,2025072304003472,UMRH,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,500,636.1,318050.0,2025-07-23 11:13:03.470512

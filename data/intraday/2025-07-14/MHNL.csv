@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71140,2025071404000546,MHNL,Trishakti Securities Public Limited,Primo Securities (PVT) Ltd.,10,265.0,2650.0,2025-07-14 11:04:47.751552
 2025-07-14,69027,2025071404001171,MHNL,Siprabi Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,30,260.5,7815.0,2025-07-14 11:11:50.929733
 2025-07-14,68729,2025071404001251,MHNL,Vision Securities Pvt. Ltd,Kalika Securities Pvt. Ltd.,900,262.0,235800.0,2025-07-14 11:12:47.016716

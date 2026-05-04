@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,142717,2025080404001071,MEN,Aryatara Investment & Securities,Sweta Securities Private Limited,20,633.0,12660.0,2025-08-04 11:06:12.327976
 2025-08-04,140788,2025080404001293,MEN,Kumari Securities Private Limited,Sweta Securities Private Limited,10,633.0,6330.0,2025-08-04 11:07:41.182293
 2025-08-04,137611,2025080404001728,MEN,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,15,635.9,9538.5,2025-08-04 11:10:33.349300

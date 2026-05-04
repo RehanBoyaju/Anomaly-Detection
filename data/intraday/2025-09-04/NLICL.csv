@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67319,2025090403000141,NLICL,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,50,590.1,29505.0,2025-09-04T11:09:19.91783
 2025-09-04,67318,2025090403000142,NLICL,Nepal Stock House (PVT) Ltd.,Shree Krishna Securities Ltd.,35,590.09,20653.15,2025-09-04T11:09:19.917883
 2025-09-04,65762,2025090403000257,NLICL,K.B.L. Securities Limited ,Online Securities Pvt. Ltd.,10,591.0,5910.0,2025-09-04T11:15:08.799924

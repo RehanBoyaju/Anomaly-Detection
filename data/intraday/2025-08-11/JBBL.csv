@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98491,2025081103000003,JBBL,Opal Securities Investment (PVT) Ltd.,Vision Securities Pvt. Ltd,10,355.1,3551.0,2025-08-11 10:46:00.033812
 2025-08-11,97340,2025081103000139,JBBL,Sumeru Securities Pvt. Ltd.,Premier Securities Company Ltd.,52,362.2,18834.4,2025-08-11 11:03:55.175804
 2025-08-11,96825,2025081103000196,JBBL,K.B.L. Securities Limited ,Kohinoor Investment & Securities Pvt. Ltd.,10,369.3,3693.0,2025-08-11 11:05:14.158935

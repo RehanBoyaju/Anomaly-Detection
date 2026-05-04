@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99502,2025071605000001,HIDCL,KALASH STOCK MARKET PVT. LTD.,Roadshow securities limited,10,287.4,2874.0,2025-07-16 10:46:00.008367
 2025-07-16,99501,2025071605000002,HIDCL,KALASH STOCK MARKET PVT. LTD.,Miyo Securities Pvt Ltd,11,287.4,3161.4,2025-07-16 10:46:00.008402
 2025-07-16,99279,2025071605000022,HIDCL,Malla & Malla Stock Broking Company Pvt. Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,200,293.1,58620.0,2025-07-16 11:00:55.069987

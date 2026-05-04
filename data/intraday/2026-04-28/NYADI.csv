@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NYADI,57,1,30,395.0,11850.0,2026-04-28 14:57:59.297,2026042805015848
 NYADI,42,1,120,395.0,47400.0,2026-04-28 14:57:59.297,2026042805015847
 NYADI,25,42,15,399.7,5995.5,2026-04-28 14:49:35.168,2026042805014416

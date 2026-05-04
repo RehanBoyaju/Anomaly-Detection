@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RSDC,91,17,15,672.2,10083.0,2026-04-28 14:56:28.945,2026042803007938
 RSDC,33,26,316,672.1,212383.6,2026-04-28 14:55:11.001,2026042803007784
 RSDC,35,58,20,672.0,13440.0,2026-04-28 14:54:17.419,2026042803007702

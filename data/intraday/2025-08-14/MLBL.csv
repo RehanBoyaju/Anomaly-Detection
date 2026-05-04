@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76288,2025081403000023,MLBL,Nepal Investment And Securities Trading Private Limited,ABC Securities Private Limited,500,403.0,201500.0,2025-08-14 11:01:34.604015
 2025-08-14,75969,2025081403000051,MLBL,Sunrise Securities Limited,Premier Securities Company Ltd.,10,395.8,3958.0,2025-08-14 11:03:29.553990
 2025-08-14,75621,2025081403000084,MLBL,Midas Stock Broking Company Private Limited,ABC Securities Private Limited,10,403.0,4030.0,2025-08-14 11:05:34.485555

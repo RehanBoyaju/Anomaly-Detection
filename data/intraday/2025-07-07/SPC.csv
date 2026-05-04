@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69154,2025070701000462,SPC,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,19,515.1,9786.9,2025-07-07 11:09:55.126866
 2025-07-07,68144,2025070701000710,SPC,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,10,515.2,5152.0,2025-07-07 11:14:06.659617
 2025-07-07,67347,2025070701000891,SPC,K.B.L. Securities Limited ,Opal Securities Investment (PVT) Ltd.,10,519.5,5195.0,2025-07-07 11:17:16.701726

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53506,2025082003000030,CORBL,Shree Krishna Securities Ltd.,NIMB Stock Markets Limited,11,2000.0,22000.0,2025-08-20 11:03:50.608065
 2025-08-20,52446,2025082003000158,CORBL,Himalayan Brokerage Company Limited,Midas Stock Broking Company Private Limited,60,1970.0,118200.0,2025-08-20 11:11:23.070139
 2025-08-20,52412,2025082003000160,CORBL,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,45,1970.0,88650.0,2025-08-20 11:11:40.523146

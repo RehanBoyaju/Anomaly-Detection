@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53632,2025082004000074,AKPL,Vision Securities Pvt. Ltd,Miyo Securities Pvt Ltd,25,262.1,6552.5,2025-08-20 11:02:28.388257
 2025-08-20,53543,2025082004000101,AKPL,Indira securities pvt. ltd,Deevyaa Securities & Stock House Pvt. Ltd,80,263.0,21040.0,2025-08-20 11:03:32.771905
 2025-08-20,52753,2025082004000316,AKPL,Siprabi Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,100,263.0,26300.0,2025-08-20 11:09:25.964193

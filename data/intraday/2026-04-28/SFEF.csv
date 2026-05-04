@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SFEF,34,21,500,10.1,5050.0,2026-04-28 14:53:08.219,2026042805014938
 SFEF,34,42,200,10.1,2020.0,2026-04-28 14:47:02.966,2026042805014007
 SFEF,58,21,700,10.12,7083.999999999999,2026-04-28 14:16:01.290,2026042805011342

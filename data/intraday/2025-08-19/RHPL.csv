@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,59817,2025081904000747,RHPL,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,10,302.9,3029.0,2025-08-19 11:12:19.857896
 2025-08-19,59816,2025081904000748,RHPL,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,50,303.0,15150.0,2025-08-19 11:12:19.858046
 2025-08-19,59649,2025081904000786,RHPL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,40,303.0,12120.0,2025-08-19 11:13:11.144392

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,54965,2025070903000881,EDBL,South Asian Bulls Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,585.0,5850.0,2025-07-09 11:38:59.893459
 2025-07-09,54724,2025070903000910,EDBL,KALASH STOCK MARKET PVT. LTD.,Trishakti Securities Public Limited,100,593.9,59390.0,2025-07-09 11:40:00.759087
 2025-07-09,54723,2025070903000911,EDBL,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,300,594.0,178200.0,2025-07-09 11:40:00.759253

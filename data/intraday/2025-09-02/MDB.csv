@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,79787,2025090203000222,MDB,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,109,616.5,67198.5,2025-09-02 11:16:49.901525
 2025-09-02,77215,2025090203000302,MDB,Capital Max Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,628.0,12560.0,2025-09-02 11:22:01.601969
 2025-09-02,77214,2025090203000303,MDB,Capital Max Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,80,628.0,50240.0,2025-09-02 11:22:01.602048

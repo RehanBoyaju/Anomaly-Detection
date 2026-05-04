@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72528,2025082701000001,NABIL,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,539.9,5399.0,2025-08-27T10:46:00.007009
 2025-08-27,72416,2025082701000028,NABIL,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,100,535.0,53500.0,2025-08-27T11:01:00.957688
 2025-08-27,72331,2025082701000043,NABIL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,90,532.0,47880.0,2025-08-27T11:01:57.192313

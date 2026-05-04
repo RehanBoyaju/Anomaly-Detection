@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169552,2025072304000261,MHNL,Aryatara Investment & Securities,Premier Securities Company Ltd.,10,291.0,2910.0,2025-07-23 11:01:22.060778
 2025-07-23,162297,2025072304002682,MHNL,Sani Securities Company Ltd.,Sajilo Broker Limited,30,293.0,8790.0,2025-07-23 11:10:10.586641
 2025-07-23,161701,2025072304002836,MHNL,Kohinoor Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,65,291.3,18934.5,2025-07-23 11:10:49.874920

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,138621,2025073003000591,CFCL,Sewa Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,7,560.0,3920.0,2025-07-30 11:06:57.149725
 2025-07-30,137037,2025073003000946,CFCL,K.B.L. Securities Limited ,Dynamic Money Managers Securities Pvt. Ltd.,100,560.1,56010.0,2025-07-30 11:10:05.029984
 2025-07-30,137036,2025073003000947,CFCL,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,50,560.0,28000.0,2025-07-30 11:10:05.030069

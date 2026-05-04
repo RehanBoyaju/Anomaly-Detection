@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,79872,2025083103000714,GFCL,Sundhara Securities Limited,Creative Securities Pvt Ltd,345,632.0,218040.0,2025-08-31T11:29:23.215506
 2025-08-31,79653,2025083103000738,GFCL,J.F. Securites (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,10,643.0,6430.0,2025-08-31T11:29:51.550334
 2025-08-31,76665,2025083103001001,GFCL,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,20,642.0,12840.0,2025-08-31T11:36:10.011067

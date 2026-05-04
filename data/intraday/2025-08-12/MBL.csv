@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78208,2025081201000003,MBL,Beni Securities Pvt.Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,260.9,2609.0,2025-08-12 10:46:00.023618
 2025-08-12,77532,2025081201000124,MBL,MILKY WAY SHARE BROKER COMPANY LTD ,KALASH STOCK MARKET PVT. LTD.,500,255.7,127850.0,2025-08-12 11:02:51.408609
 2025-08-12,76394,2025081201000366,MBL,Ashutosh Brokerage & Securities (PVT) Ltd.,Secured Securities Ltd.,50,255.0,12750.0,2025-08-12 11:07:26.419624

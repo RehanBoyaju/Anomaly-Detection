@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,69185,2025082803001359,LICN,Property Wiard Limited,Asian Securities Private Ltd.,10,879.9,8799.0,2025-08-28 11:30:35.928883
 2025-08-28,68056,2025082803001608,LICN,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,9,865.0,7785.0,2025-08-28 11:33:49.409934
 2025-08-28,66494,2025082803001827,LICN,Malla & Malla Stock Broking Company Pvt. Limited,Roadshow securities limited,100,876.0,87600.0,2025-08-28 11:39:16.959852

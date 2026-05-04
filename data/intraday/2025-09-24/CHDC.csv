@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47837,2025092405000005,CHDC,Asian Securities Private Ltd.,ABC Securities Private Limited,20,2410.0,48200.0,2025-09-24 10:46:00.026194
 2025-09-24,47836,2025092405000006,CHDC,Asian Securities Private Ltd.,ABC Securities Private Limited,20,2410.0,48200.0,2025-09-24 10:46:00.026231
 2025-09-24,47711,2025092405000041,CHDC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,30,2405.0,72150.0,2025-09-24 11:00:44.254888

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,71861,2025082701000143,CZBIL,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,13,206.4,2683.2,2025-08-27T11:06:09.563502
 2025-08-27,70759,2025082701000350,CZBIL,Opal Securities Investment (PVT) Ltd.,Linch Stock Market Ltd.,230,207.1,47633.0,2025-08-27T11:12:48.694193
 2025-08-27,70706,2025082701000357,CZBIL,Opal Securities Investment (PVT) Ltd.,Kumari Securities Private Limited,30,207.1,6213.0,2025-08-27T11:13:09.3784

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167928,2025073104000161,GHL,Linch Stock Market Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,200,258.0,51600.0,2025-07-31 11:01:50.536163
 2025-07-31,167822,2025073104000176,GHL,South Asian Bulls Pvt. Ltd.,Aryatara Investment & Securities,10,260.0,2600.0,2025-07-31 11:02:02.390279
 2025-07-31,167821,2025073104000177,GHL,South Asian Bulls Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,190,262.0,49780.0,2025-07-31 11:02:02.390411

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67718,2025081801000052,GBIME,Trishakti Securities Public Limited,Arun Securities (PVT) Ltd.,20,249.0,4980.0,2025-08-18T11:01:53.577805
 2025-08-18,67717,2025081801000053,GBIME,Shree Krishna Securities Ltd.,Arun Securities (PVT) Ltd.,564,248.2,139984.8,2025-08-18T11:01:53.57794
 2025-08-18,67374,2025081801000194,GBIME,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,100,249.9,24990.0,2025-08-18T11:04:29.069833

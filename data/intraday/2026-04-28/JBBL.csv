@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 JBBL,58,43,100,366.0,36600.0,2026-04-28 14:59:29.614,2026042803008353
 JBBL,29,1,40,365.0,14600.0,2026-04-28 14:59:11.929,2026042803008274
 JBBL,45,1,100,365.0,36500.0,2026-04-28 14:58:42.871,2026042803008204

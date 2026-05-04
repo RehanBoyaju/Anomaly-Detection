@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168544,2025073104000016,LEC,Primo Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,240.7,2407.0,2025-07-31 10:46:00.061008
 2025-07-31,168355,2025073104000047,LEC,Opal Securities Investment (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,20,239.0,4780.0,2025-07-31 11:00:42.980937
 2025-07-31,168129,2025073104000109,LEC,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,150,239.0,35850.0,2025-07-31 11:01:23.978212

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,84951,2025081703000195,PROFL,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,513.4,5134.0,2025-08-17 11:05:25.139409
 2025-08-17,72436,2025081703001933,PROFL,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,500,506.0,253000.0,2025-08-17 11:38:49.913605
 2025-08-17,72346,2025081703001959,PROFL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,150,505.0,75750.0,2025-08-17 11:39:04.099718

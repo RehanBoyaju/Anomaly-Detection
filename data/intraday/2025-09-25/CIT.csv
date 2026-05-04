@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,36554,2025092505000363,CIT,Aryatara Investment & Securities,Sweta Securities Private Limited,12,1896.0,22752.0,2025-09-25 11:09:34.983784
 2025-09-25,36553,2025092505000364,CIT,Sundhara Securities Limited,Sweta Securities Private Limited,20,1895.2,37904.0,2025-09-25 11:09:34.983988
 2025-09-25,36552,2025092505000365,CIT,Sani Securities Company Ltd.,Sweta Securities Private Limited,66,1895.2,125083.2,2025-09-25 11:09:34.984023

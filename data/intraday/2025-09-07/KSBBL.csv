@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57804,2025090703000025,KSBBL,Midas Stock Broking Company Private Limited,Vision Securities Pvt. Ltd,10,523.2,5232.0,2025-09-07 11:02:25.405128
 2025-09-07,56813,2025090703000103,KSBBL,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,490,527.6,258524.0,2025-09-07 11:08:50.105869
 2025-09-07,56812,2025090703000104,KSBBL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,10,527.5,5275.0,2025-09-07 11:08:50.106068

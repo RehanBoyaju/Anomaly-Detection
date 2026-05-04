@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NLIC,93,6,100,768.0,76800.0,2026-04-28 14:58:56.273,2026042803008227
 NLIC,93,11,384,768.0,294912.0,2026-04-28 14:58:11.330,2026042803008146
 NLIC,13,11,51,768.0,39168.0,2026-04-28 14:58:11.330,2026042803008145

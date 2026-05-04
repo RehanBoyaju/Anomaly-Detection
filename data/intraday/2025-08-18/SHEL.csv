@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67056,2025081804000200,SHEL,Global IME Securities Limited,Nepal Investment And Securities Trading Private Limited,20,303.3,6066.0,2025-08-18T11:06:25.404586
 2025-08-18,66593,2025081804000316,SHEL,Sumeru Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,303.6,3036.0,2025-08-18T11:08:22.111193
 2025-08-18,66455,2025081804000358,SHEL,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,303.6,30360.0,2025-08-18T11:08:57.676598

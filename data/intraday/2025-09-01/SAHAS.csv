@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68720,2025090105000015,SAHAS,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,644.0,6440.0,2025-09-01 10:46:00.048377
 2025-09-01,68457,2025090105000079,SAHAS,Kohinoor Investment & Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,644.0,6440.0,2025-09-01 11:01:22.441212
 2025-09-01,68439,2025090105000090,SAHAS,Linch Stock Market Ltd.,Nepal Stock House (PVT) Ltd.,18,644.0,11592.0,2025-09-01 11:01:25.981119

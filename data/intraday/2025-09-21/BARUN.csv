@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108582,2025092104000094,BARUN,Nagarik Stock Dealer ,J.F. Securites (PVT) Ltd.,70,292.1,20447.0,2025-09-21 10:46:00.039561
 2025-09-21,108581,2025092104000095,BARUN,South Asian Bulls Pvt. Ltd.,J.F. Securites (PVT) Ltd.,100,292.1,29210.0,2025-09-21 10:46:00.039590
 2025-09-21,108580,2025092104000096,BARUN,Sweta Securities Private Limited,J.F. Securites (PVT) Ltd.,50,292.1,14605.0,2025-09-21 10:46:00.039612

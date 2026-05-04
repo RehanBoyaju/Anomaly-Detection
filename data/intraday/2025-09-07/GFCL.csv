@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,56359,2025090703000133,GFCL,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,40,608.0,24320.0,2025-09-07 11:11:56.039508
 2025-09-07,56358,2025090703000134,GFCL,Sweta Securities Private Limited,Sani Securities Company Ltd.,55,606.0,33330.0,2025-09-07 11:11:56.039580
 2025-09-07,40135,2025090703001783,GFCL,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,20,610.0,12200.0,2025-09-07 12:27:23.444128

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,165593,2025073104000515,UMRH,ABC Securities Private Limited,Thrive Brokerage House Pvt. Ltd,100,646.0,64600.0,2025-07-31 11:06:10.739850
 2025-07-31,165592,2025073104000516,UMRH,Cristal Kanchanjanga Securites Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,500,646.0,323000.0,2025-07-31 11:06:10.739966
 2025-07-31,165464,2025073104000539,UMRH,Dakshinkali Investment & Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,200,641.0,128200.0,2025-07-31 11:06:18.759942

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74032,2025071504000006,SPDL,Naasa Securities Co. Ltd.,Capital Hub P. Ltd,10,404.7,4047.0,2025-07-15 10:46:00.039485
 2025-07-15,74031,2025071504000007,SPDL,Naasa Securities Co. Ltd.,KALASH STOCK MARKET PVT. LTD.,236,404.7,95509.2,2025-07-15 10:46:00.039513
 2025-07-15,74030,2025071504000008,SPDL,South Asian Bulls Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,500,404.7,202350.0,2025-07-15 10:46:00.039537

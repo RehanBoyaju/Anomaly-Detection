@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74027,2025071504000011,UMHL,Asian Securities Private Ltd.,Capital Max Securities Ltd,180,542.1,97578.0,2025-07-15 10:46:00.040865
 2025-07-15,74026,2025071504000012,UMHL,Siprabi Securities Pvt. Ltd.,Capital Max Securities Ltd,200,542.1,108420.0,2025-07-15 10:46:00.040910
 2025-07-15,74025,2025071504000013,UMHL,K.B.L. Securities Limited ,Capital Max Securities Ltd,970,542.1,525837.0,2025-07-15 10:46:00.040936

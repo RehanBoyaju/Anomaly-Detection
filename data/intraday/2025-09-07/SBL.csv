@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57484,2025090701000234,SBL,Aakashbhairab Securities Ltd.,Online Securities Pvt. Ltd.,20,380.0,7600.0,2025-09-07 11:04:49.680398
 2025-09-07,57299,2025090701000326,SBL,Nabil Stock Dealer Ltd.,Nepal Investment And Securities Trading Private Limited,18,378.9,6820.2,2025-09-07 11:05:51.600708
 2025-09-07,57298,2025090701000327,SBL,Nabil Stock Dealer Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,379.0,3790.0,2025-09-07 11:05:51.600742

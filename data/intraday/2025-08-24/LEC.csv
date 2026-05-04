@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57722,2025082404000043,LEC,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,40,244.7,9788.0,2025-08-24 11:03:07.063400
 2025-08-24,57691,2025082404000049,LEC,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,50,244.6,12230.0,2025-08-24 11:03:17.164029
 2025-08-24,57616,2025082404000059,LEC,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,250,244.6,61150.0,2025-08-24 11:03:44.623734

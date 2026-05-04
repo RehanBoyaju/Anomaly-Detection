@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108418,2025092101000143,CZBIL,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,30,197.0,5910.0,2025-09-21 10:46:00.060480
 2025-09-21,108417,2025092101000144,CZBIL,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,20,197.0,3940.0,2025-09-21 10:46:00.060522
 2025-09-21,108416,2025092101000145,CZBIL,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,67,197.0,13199.0,2025-09-21 10:46:00.060549

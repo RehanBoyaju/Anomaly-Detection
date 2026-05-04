@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,74962,2025081404000251,HPPL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,17,513.0,8721.0,2025-08-14 11:08:21.717498
 2025-08-14,74961,2025081404000252,HPPL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,43,513.0,22059.0,2025-08-14 11:08:21.717743
 2025-08-14,74960,2025081404000253,HPPL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,23,513.0,11799.0,2025-08-14 11:08:21.717844

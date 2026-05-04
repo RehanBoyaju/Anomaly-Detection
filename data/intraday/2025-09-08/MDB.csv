@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,53769,2025090803000564,MDB,Sani Securities Company Ltd.,Secured Securities Ltd.,30,609.0,18270.0,2025-09-08 11:34:58.383486
 2025-09-08,52944,2025090803000649,MDB,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,200,610.0,122000.0,2025-09-08 11:39:15.125980
 2025-09-08,47944,2025090803001188,MDB,Naasa Securities Co. Ltd.,Indira securities pvt. ltd,50,610.1,30505.0,2025-09-08 12:05:30.780764

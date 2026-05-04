@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87307,2025071001000548,MBL,Trisul Securities & Invt. Ltd.,Primo Securities (PVT) Ltd.,10,233.8,2338.0,2025-07-10 11:06:37.864457
 2025-07-10,86985,2025071001000687,MBL,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,990,233.8,231462.0,2025-07-10 11:08:11.861512
 2025-07-10,86984,2025071001000688,MBL,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,10,234.0,2340.0,2025-07-10 11:08:11.861587

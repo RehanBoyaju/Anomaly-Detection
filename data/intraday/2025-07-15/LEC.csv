@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73230,2025071504000312,LEC,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,92,213.0,19596.0,2025-07-15 11:05:36.411851
 2025-07-15,73159,2025071504000321,LEC,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,213.0,2130.0,2025-07-15 11:05:56.347814
 2025-07-15,73118,2025071504000326,LEC,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,96,213.0,20448.0,2025-07-15 11:06:08.394686

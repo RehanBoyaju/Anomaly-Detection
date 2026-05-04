@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SKHEL,42,59,10,1414.0,14140.0,2026-04-28 14:59:59.944,2026042801111046
 SKHEL,60,49,10,1415.0,14150.0,2026-04-28 14:59:56.172,2026042801110883
 SKHEL,42,34,10,1414.0,14140.0,2026-04-28 14:59:54.888,2026042801110732

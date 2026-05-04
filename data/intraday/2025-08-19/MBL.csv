@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,60667,2025081901000162,MBL,Trishakti Securities Public Limited,Global IME Securities Limited,10,248.0,2480.0,2025-08-19 11:07:42.545458
 2025-08-19,60023,2025081901000302,MBL,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,500,251.0,125500.0,2025-08-19 11:11:15.951165
 2025-08-19,60022,2025081901000303,MBL,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,550,251.0,138050.0,2025-08-19 11:11:15.951228

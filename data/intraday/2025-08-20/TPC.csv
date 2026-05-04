@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,47639,2025082005002547,TPC,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,366.3,3663.0,2025-08-20 11:39:01.854288
 2025-08-20,42624,2025082005004409,TPC,Trisul Securities & Invt. Ltd.,Nepal Investment And Securities Trading Private Limited,90,366.3,32967.0,2025-08-20 12:05:09.645959
 2025-08-20,42623,2025082005004410,TPC,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,10,366.3,3663.0,2025-08-20 12:05:09.646139

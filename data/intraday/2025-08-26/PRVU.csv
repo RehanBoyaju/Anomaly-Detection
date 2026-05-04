@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44646,2025082601000074,PRVU,Neev Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,150,210.7,31605.0,2025-08-26 11:05:42.214097
 2025-08-26,44521,2025082601000101,PRVU,Midas Stock Broking Company Private Limited,Online Securities Pvt. Ltd.,45,211.9,9535.5,2025-08-26 11:06:55.732867
 2025-08-26,44228,2025082601000158,PRVU,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,500,211.9,105950.0,2025-08-26 11:09:38.681351

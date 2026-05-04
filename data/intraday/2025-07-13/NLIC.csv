@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105329,2025071303000023,NLIC,Cristal Kanchanjanga Securites Pvt. Ltd.,Oxford Securities Pvt. Ltd.,10,790.0,7900.0,2025-07-13T10:46:00.023686
 2025-07-13,105328,2025071303000024,NLIC,ABC Securities Private Limited,Oxford Securities Pvt. Ltd.,85,790.0,67150.0,2025-07-13T10:46:00.023729
 2025-07-13,105327,2025071303000025,NLIC,Neev Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,5,790.0,3950.0,2025-07-13T10:46:00.023752

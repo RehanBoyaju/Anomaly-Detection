@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68835,2025090401000056,PCBL,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,255.0,2550.0,2025-09-04T11:01:33.986465
 2025-09-04,67472,2025090401000706,PCBL,Premier Securities Company Ltd.,Sewa Securities Pvt. Ltd.,8,250.0,2000.0,2025-09-04T11:08:30.617624
 2025-09-04,67149,2025090401000837,PCBL,Sri Hari Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,210,254.9,53529.0,2025-09-04T11:10:13.753912

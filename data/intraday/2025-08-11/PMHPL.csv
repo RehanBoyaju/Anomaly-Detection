@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98006,2025081104000083,PMHPL,Blue Chip Securities Ltd,Secured Securities Ltd.,10,388.0,3880.0,2025-08-11 11:01:48.954817
 2025-08-11,97965,2025081104000086,PMHPL,Linch Stock Market Ltd.,Secured Securities Ltd.,20,388.0,7760.0,2025-08-11 11:01:55.534215
 2025-08-11,97904,2025081104000092,PMHPL,Linch Stock Market Ltd.,Himalayan Brokerage Company Limited,10,395.0,3950.0,2025-08-11 11:02:12.687415

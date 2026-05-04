@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 FMDBL,59,17,21,802.1,16844.100000000002,2026-04-28 14:59:33.685,2026042803008379
 FMDBL,36,48,99,802.0,79398.0,2026-04-28 14:57:30.236,2026042803008054
 FMDBL,90,57,65,801.1,52071.5,2026-04-28 14:56:50.070,2026042803007981

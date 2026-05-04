@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,65092,2025090104000420,UMRH,Opal Securities Investment (PVT) Ltd.,Secured Securities Ltd.,140,585.2,81928.0,2025-09-01 11:13:10.045937
 2025-09-01,64800,2025090104000456,UMRH,Trishakti Securities Public Limited,Kumari Securities Private Limited,696,590.0,410640.0,2025-09-01 11:14:04.081786
 2025-09-01,62469,2025090104000692,UMRH,Trishakti Securities Public Limited,Trisul Securities & Invt. Ltd.,350,589.9,206465.0,2025-09-01 11:21:20.975433

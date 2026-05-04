@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57131,2025082505000002,HIDCL,Aryatara Investment & Securities,Roadshow securities limited,10,280.0,2800.0,2025-08-25 10:46:00.018713
 2025-08-25,56744,2025082505000056,HIDCL,Aryatara Investment & Securities,Thrive Brokerage House Pvt. Ltd,57,283.0,16131.0,2025-08-25 11:02:02.260742
 2025-08-25,55708,2025082505000251,HIDCL,Aryatara Investment & Securities,Sani Securities Company Ltd.,100,283.2,28320.0,2025-08-25 11:06:57.495227

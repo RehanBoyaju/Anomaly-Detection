@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71162,2025071404000540,UMRH,Sweta Securities Private Limited,Imperial Securities Company Pvt. Ltd.,39,593.0,23127.0,2025-07-14 11:04:44.033819
 2025-07-14,70310,2025071404000817,UMRH,Machhapuchchhre Securities Limited,Kumari Securities Private Limited,10,604.0,6040.0,2025-07-14 11:07:13.944247
 2025-07-14,69837,2025071404000947,UMRH,Sharepro Securities Private Limited,Aakashbhairab Securities Ltd.,30,602.0,18060.0,2025-07-14 11:08:55.123213

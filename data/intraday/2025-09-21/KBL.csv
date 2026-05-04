@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108617,2025092101000081,KBL,Kohinoor Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,10,175.5,1755.0,2025-09-21 10:46:00.036916
 2025-09-21,108616,2025092101000082,KBL,Kohinoor Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,50,175.5,8775.0,2025-09-21 10:46:00.036958
 2025-09-21,108615,2025092101000083,KBL,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,50,175.5,8775.0,2025-09-21 10:46:00.036989

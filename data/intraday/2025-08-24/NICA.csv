@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57110,2025082401000164,NICA,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,348.2,17410.0,2025-08-24 11:07:16.584318
 2025-08-24,57109,2025082401000165,NICA,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,348.1,34810.0,2025-08-24 11:07:16.584519
 2025-08-24,57108,2025082401000166,NICA,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,348.0,3480.0,2025-08-24 11:07:16.584620

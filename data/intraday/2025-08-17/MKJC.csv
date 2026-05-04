@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,82904,2025081705001525,MKJC,BHOLE GANESH SECURITIES LTD,Indira securities pvt. ltd,10,570.0,5700.0,2025-08-17 11:11:12.346150
 2025-08-17,81482,2025081705002206,MKJC,S.P.S.A. Securities Limited,Indira securities pvt. ltd,200,566.0,113200.0,2025-08-17 11:15:22.220016
 2025-08-17,81481,2025081705002207,MKJC,S.P.S.A. Securities Limited,Indira securities pvt. ltd,200,566.0,113200.0,2025-08-17 11:15:22.220122

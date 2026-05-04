@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98465,2025081104000016,LEC,Primo Securities (PVT) Ltd.,Property Wiard Limited,10,249.1,2491.0,2025-08-11 10:46:00.055793
 2025-08-11,98464,2025081104000017,LEC,Kohinoor Investment & Securities Pvt. Ltd.,Property Wiard Limited,500,249.1,124550.0,2025-08-11 10:46:00.055822
 2025-08-11,98463,2025081104000018,LEC,Nepal Stock House (PVT) Ltd.,Property Wiard Limited,1136,249.1,282977.6,2025-08-11 10:46:00.055864

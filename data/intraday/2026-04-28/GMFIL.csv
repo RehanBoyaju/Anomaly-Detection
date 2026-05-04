@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GMFIL,33,33,100,464.1,46410.0,2026-04-28 14:59:42.915,2026042803008408
 GMFIL,33,41,300,464.1,139230.0,2026-04-28 14:51:26.946,2026042803007477
 GMFIL,83,83,1000,463.2,463200.0,2026-04-28 14:39:22.765,2026042803006859

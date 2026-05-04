@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104924,2025071304000169,HURJA,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,100,252.4,25240.0,2025-07-13T10:46:00.100645
 2025-07-13,104923,2025071304000170,HURJA,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,100,252.4,25240.0,2025-07-13T10:46:00.100683
 2025-07-13,104922,2025071304000171,HURJA,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,200,252.4,50480.0,2025-07-13T10:46:00.100712

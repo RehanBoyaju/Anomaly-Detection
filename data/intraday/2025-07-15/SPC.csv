@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,71909,2025071501000736,SPC,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,10,513.8,5138.0,2025-07-15 11:12:14.755007
 2025-07-15,70790,2025071501001056,SPC,Vision Securities Pvt. Ltd,Market Securities & Exchange (PVT) Ltd.,50,510.0,25500.0,2025-07-15 11:16:39.421774
 2025-07-15,69078,2025071501001658,SPC,Elite Stock House Limited,Trishakti Securities Public Limited,11,512.0,5632.0,2025-07-15 11:22:42.622790

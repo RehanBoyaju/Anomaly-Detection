@@ -1,377 +1,377 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026041504000055,MHNL,42,62,10,274.2,2742.0,2026-04-15,186285183,2811,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-15 11:00:44.162964,Mountain Hydro Nepal Limited
-2026041504000134,MHNL,62,52,10,284.4,2844.0,2026-04-15,186286246,2811,Capital Max Securities Ltd,Sundhara Securities Limited,2026-04-15 11:02:00.976556,Mountain Hydro Nepal Limited
-2026041504000226,MHNL,77,52,690,284.2,196098.0,2026-04-15,186287165,2811,Nabil Stock Dealer Ltd.,Sundhara Securities Limited,2026-04-15 11:02:46.790900,Mountain Hydro Nepal Limited
-2026041504000227,MHNL,77,35,126,284.3,35821.8,2026-04-15,186287167,2811,Nabil Stock Dealer Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:02:46.790946,Mountain Hydro Nepal Limited
-2026041504000228,MHNL,77,4,900,284.5,256050.0,2026-04-15,186287169,2811,Nabil Stock Dealer Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-15 11:02:46.790978,Mountain Hydro Nepal Limited
-2026041504000274,MHNL,62,62,10,290.0,2900.0,2026-04-15,186287552,2811,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-15 11:03:03.198814,Mountain Hydro Nepal Limited
-2026041504000281,MHNL,77,51,284,285.0,80940.0,2026-04-15,186287648,2811,Nabil Stock Dealer Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 11:03:09.944842,Mountain Hydro Nepal Limited
-2026041504000372,MHNL,62,39,10,288.0,2880.0,2026-04-15,186288590,2811,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,2026-04-15 11:04:01.464089,Mountain Hydro Nepal Limited
-2026041504000491,MHNL,13,1,190,284.9,54131.0,2026-04-15,186289452,2811,Thrive Brokerage House Pvt. Ltd,Kumari Securities Private Limited,2026-04-15 11:04:57.517977,Mountain Hydro Nepal Limited
-2026041504000526,MHNL,44,22,15,284.9,4273.5,2026-04-15,186289700,2811,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:05:18.816022,Mountain Hydro Nepal Limited
-2026041504000575,MHNL,74,35,10,280.1,2801.0,2026-04-15,186290031,2811,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:05:46.999886,Mountain Hydro Nepal Limited
-2026041504000788,MHNL,57,17,30,280.1,8403.0,2026-04-15,186291379,2811,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-15 11:07:22.669716,Mountain Hydro Nepal Limited
-2026041504000913,MHNL,58,22,10,284.9,2849.0,2026-04-15,186292296,2811,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:08:16.445211,Mountain Hydro Nepal Limited
-2026041504000925,MHNL,62,1,10,284.8,2848.0,2026-04-15,186292370,2811,Capital Max Securities Ltd,Kumari Securities Private Limited,2026-04-15 11:08:22.878862,Mountain Hydro Nepal Limited
-2026041504001090,MHNL,56,21,245,284.5,69702.5,2026-04-15,186293610,2811,Sri Hari Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 11:09:54.730672,Mountain Hydro Nepal Limited
-2026041504001158,MHNL,57,35,11,280.1,3081.1,2026-04-15,186294099,2811,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:10:24.399216,Mountain Hydro Nepal Limited
-2026041504002560,MHNL,89,90,10,282.0,2820.0,2026-04-15,186303874,2811,Global IME Securities Limited,Sajilo Broker Limited,2026-04-15 11:21:44.540664,Mountain Hydro Nepal Limited
-2026041504003115,MHNL,38,35,10,281.0,2810.0,2026-04-15,186309051,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:26:59.869852,Mountain Hydro Nepal Limited
-2026041504003194,MHNL,52,90,190,282.9,53751.0,2026-04-15,186309931,2811,Sundhara Securities Limited,Sajilo Broker Limited,2026-04-15 11:27:46.395589,Mountain Hydro Nepal Limited
-2026041504003195,MHNL,52,7,310,283.0,87730.0,2026-04-15,186309934,2811,Sundhara Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-15 11:27:46.395670,Mountain Hydro Nepal Limited
-2026041504003805,MHNL,38,7,90,283.0,25470.0,2026-04-15,186315321,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,J.F. Securites (PVT) Ltd.,2026-04-15 11:33:20.105884,Mountain Hydro Nepal Limited
-2026041504003806,MHNL,38,91,200,284.0,56800.0,2026-04-15,186315323,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Citizens Share Broker Limited,2026-04-15 11:33:20.105966,Mountain Hydro Nepal Limited
-2026041504003807,MHNL,38,21,2110,284.0,599240.0,2026-04-15,186315326,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 11:33:20.106021,Mountain Hydro Nepal Limited
-2026041504004611,MHNL,59,21,145,284.0,41180.0,2026-04-15,186321109,2811,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-15 11:39:14.854475,Mountain Hydro Nepal Limited
-2026041504004612,MHNL,59,42,55,284.0,15620.0,2026-04-15,186321112,2811,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-15 11:39:14.854657,Mountain Hydro Nepal Limited
-2026041504005081,MHNL,51,35,10,281.2,2812.0,2026-04-15,186325205,2811,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:43:38.569482,Mountain Hydro Nepal Limited
-2026041504006538,MHNL,58,90,20,283.9,5678.0,2026-04-15,186336622,2811,Naasa Securities Co. Ltd.,Sajilo Broker Limited,2026-04-15 11:52:19.720795,Mountain Hydro Nepal Limited
-2026041504006618,MHNL,1,90,180,283.9,51102.0,2026-04-15,186337215,2811,Kumari Securities Private Limited,Sajilo Broker Limited,2026-04-15 11:52:47.739916,Mountain Hydro Nepal Limited
-2026041504006722,MHNL,38,42,45,284.0,12780.0,2026-04-15,186338015,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-15 11:53:15.173723,Mountain Hydro Nepal Limited
-2026041504007185,MHNL,47,1,180,284.0,51120.0,2026-04-15,186341883,2811,Neev Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-15 11:56:07.240824,Mountain Hydro Nepal Limited
-2026041504007186,MHNL,47,39,40,284.4,11376.0,2026-04-15,186341885,2811,Neev Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 11:56:07.240991,Mountain Hydro Nepal Limited
-2026041504007187,MHNL,47,90,100,284.6,28460.0,2026-04-15,186341887,2811,Neev Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 11:56:07.241108,Mountain Hydro Nepal Limited
-2026041504007188,MHNL,47,90,100,284.7,28470.0,2026-04-15,186341889,2811,Neev Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 11:56:07.241223,Mountain Hydro Nepal Limited
-2026041504007189,MHNL,47,1,170,284.8,48416.0,2026-04-15,186341891,2811,Neev Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-15 11:56:07.241347,Mountain Hydro Nepal Limited
-2026041504007190,MHNL,47,48,360,284.8,102528.0,2026-04-15,186341894,2811,Neev Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:56:07.241452,Mountain Hydro Nepal Limited
-2026041504007720,MHNL,38,22,10,284.7,2847.0,2026-04-15,186345322,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:58:49.991384,Mountain Hydro Nepal Limited
-2026041504007721,MHNL,38,22,12,284.7,3416.4,2026-04-15,186345324,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:58:49.999378,Mountain Hydro Nepal Limited
-2026041504007722,MHNL,38,48,12,284.8,3417.6,2026-04-15,186345326,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.064905,Mountain Hydro Nepal Limited
-2026041504007723,MHNL,38,48,20,284.8,5696.0,2026-04-15,186345338,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.265910,Mountain Hydro Nepal Limited
-2026041504007724,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345344,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.298131,Mountain Hydro Nepal Limited
-2026041504007725,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345346,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.300885,Mountain Hydro Nepal Limited
-2026041504007726,MHNL,38,48,18,284.8,5126.4,2026-04-15,186345348,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.310557,Mountain Hydro Nepal Limited
-2026041504007727,MHNL,38,48,17,284.8,4841.6,2026-04-15,186345350,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.318275,Mountain Hydro Nepal Limited
-2026041504007728,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345352,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.355128,Mountain Hydro Nepal Limited
-2026041504007729,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345354,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.369957,Mountain Hydro Nepal Limited
-2026041504007731,MHNL,38,48,12,284.8,3417.6,2026-04-15,186345358,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.456805,Mountain Hydro Nepal Limited
-2026041504007732,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345360,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.457724,Mountain Hydro Nepal Limited
-2026041504007734,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345364,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.501010,Mountain Hydro Nepal Limited
-2026041504007735,MHNL,38,48,13,284.8,3702.4,2026-04-15,186345366,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.514178,Mountain Hydro Nepal Limited
-2026041504007736,MHNL,38,48,12,284.8,3417.6,2026-04-15,186345374,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.823536,Mountain Hydro Nepal Limited
-2026041504007737,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345376,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.855901,Mountain Hydro Nepal Limited
-2026041504007738,MHNL,38,48,33,284.8,9398.4,2026-04-15,186345378,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.858222,Mountain Hydro Nepal Limited
-2026041504007740,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345382,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.899108,Mountain Hydro Nepal Limited
-2026041504007741,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345384,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.929980,Mountain Hydro Nepal Limited
-2026041504007742,MHNL,38,48,32,284.8,9113.6,2026-04-15,186345386,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.949518,Mountain Hydro Nepal Limited
-2026041504007743,MHNL,38,48,29,284.8,8259.2,2026-04-15,186345388,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.956531,Mountain Hydro Nepal Limited
-2026041504007744,MHNL,38,48,25,284.8,7120.0,2026-04-15,186345390,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.016101,Mountain Hydro Nepal Limited
-2026041504007745,MHNL,38,48,13,284.8,3702.4,2026-04-15,186345402,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.055626,Mountain Hydro Nepal Limited
-2026041504007746,MHNL,38,48,27,284.8,7689.6,2026-04-15,186345404,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.087796,Mountain Hydro Nepal Limited
-2026041504007747,MHNL,38,48,12,284.8,3417.6,2026-04-15,186345406,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.099409,Mountain Hydro Nepal Limited
-2026041504007748,MHNL,38,48,13,284.8,3702.4,2026-04-15,186345408,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.166773,Mountain Hydro Nepal Limited
-2026041504007749,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345428,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.302410,Mountain Hydro Nepal Limited
-2026041504007750,MHNL,38,48,11,284.8,3132.8,2026-04-15,186345430,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.331184,Mountain Hydro Nepal Limited
-2026041504007751,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345432,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.339808,Mountain Hydro Nepal Limited
-2026041504007756,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345460,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.457536,Mountain Hydro Nepal Limited
-2026041504007757,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345462,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.475181,Mountain Hydro Nepal Limited
-2026041504007758,MHNL,38,48,12,284.8,3417.6,2026-04-15,186345466,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.484070,Mountain Hydro Nepal Limited
-2026041504007759,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345468,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.516744,Mountain Hydro Nepal Limited
-2026041504007760,MHNL,99,48,16,284.8,4556.8,2026-04-15,186345470,2811,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.570803,Mountain Hydro Nepal Limited
-2026041504007761,MHNL,38,48,14,284.8,3987.2,2026-04-15,186345472,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.586479,Mountain Hydro Nepal Limited
-2026041504007762,MHNL,38,48,12,284.8,3417.6,2026-04-15,186345474,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.594867,Mountain Hydro Nepal Limited
-2026041504007763,MHNL,38,48,38,284.8,10822.4,2026-04-15,186345478,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.680971,Mountain Hydro Nepal Limited
-2026041504007764,MHNL,38,48,13,284.8,3702.4,2026-04-15,186345480,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.755386,Mountain Hydro Nepal Limited
-2026041504007765,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345482,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.763069,Mountain Hydro Nepal Limited
-2026041504007766,MHNL,38,48,20,284.8,5696.0,2026-04-15,186345484,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.848462,Mountain Hydro Nepal Limited
-2026041504007767,MHNL,38,48,20,284.8,5696.0,2026-04-15,186345488,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.858223,Mountain Hydro Nepal Limited
-2026041504007768,MHNL,99,48,11,284.8,3132.8,2026-04-15,186345490,2811,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.877761,Mountain Hydro Nepal Limited
-2026041504007769,MHNL,99,48,29,284.8,8259.2,2026-04-15,186345492,2811,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.904282,Mountain Hydro Nepal Limited
-2026041504007770,MHNL,99,48,10,284.8,2848.0,2026-04-15,186345494,2811,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.933070,Mountain Hydro Nepal Limited
-2026041504007771,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345497,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.958170,Mountain Hydro Nepal Limited
-2026041504007772,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345500,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.995122,Mountain Hydro Nepal Limited
-2026041504007773,MHNL,99,48,18,284.8,5126.4,2026-04-15,186345502,2811,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:52.002054,Mountain Hydro Nepal Limited
-2026041504007774,MHNL,99,48,14,284.8,3987.2,2026-04-15,186345504,2811,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:52.011706,Mountain Hydro Nepal Limited
-2026041504007775,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345506,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:52.019378,Mountain Hydro Nepal Limited
-2026041504007776,MHNL,99,48,14,284.8,3987.2,2026-04-15,186345508,2811,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:52.024755,Mountain Hydro Nepal Limited
-2026041504007777,MHNL,38,48,24,284.8,6835.2,2026-04-15,186345510,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:52.029136,Mountain Hydro Nepal Limited
-2026041504007778,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345512,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:52.063813,Mountain Hydro Nepal Limited
-2026041504007782,MHNL,38,48,10,284.8,2848.0,2026-04-15,186345560,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:53.336516,Mountain Hydro Nepal Limited
-2026041504007872,MHNL,64,48,42,284.8,11961.6,2026-04-15,186346508,2811,SUN SECURITIES PVT LTD,Trishakti Securities Public Limited,2026-04-15 11:59:35.319140,Mountain Hydro Nepal Limited
-2026041504007924,MHNL,51,48,234,284.8,66643.2,2026-04-15,186346831,2811,Oxford Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:59:49.398372,Mountain Hydro Nepal Limited
-2026041504007945,MHNL,51,42,24,284.8,6835.2,2026-04-15,186346939,2811,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:59:51.986550,Mountain Hydro Nepal Limited
-2026041504008089,MHNL,52,1,150,284.9,42735.0,2026-04-15,186347998,2811,Sundhara Securities Limited,Kumari Securities Private Limited,2026-04-15 12:00:47.893918,Mountain Hydro Nepal Limited
-2026041504008243,MHNL,64,1,26,284.9,7407.4,2026-04-15,186348820,2811,SUN SECURITIES PVT LTD,Kumari Securities Private Limited,2026-04-15 12:01:30.101921,Mountain Hydro Nepal Limited
-2026041504008268,MHNL,64,6,26,284.9,7407.4,2026-04-15,186348940,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:01:39.205897,Mountain Hydro Nepal Limited
-2026041504008352,MHNL,64,6,18,284.9,5128.2,2026-04-15,186349198,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:01:47.651181,Mountain Hydro Nepal Limited
-2026041504008361,MHNL,64,6,16,284.9,4558.4,2026-04-15,186349310,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:01:54.677477,Mountain Hydro Nepal Limited
-2026041504008394,MHNL,64,6,15,284.9,4273.5,2026-04-15,186349452,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:02.665886,Mountain Hydro Nepal Limited
-2026041504008429,MHNL,64,6,14,284.9,3988.6,2026-04-15,186349640,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:13.436188,Mountain Hydro Nepal Limited
-2026041504008471,MHNL,64,6,14,284.9,3988.6,2026-04-15,186349888,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:23.798464,Mountain Hydro Nepal Limited
-2026041504008504,MHNL,64,6,13,284.9,3703.7,2026-04-15,186350040,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:32.099307,Mountain Hydro Nepal Limited
-2026041504008527,MHNL,64,6,13,284.9,3703.7,2026-04-15,186350196,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:40.365860,Mountain Hydro Nepal Limited
-2026041504008562,MHNL,64,6,12,284.9,3418.8,2026-04-15,186350360,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:47.118897,Mountain Hydro Nepal Limited
-2026041504008573,MHNL,64,6,12,284.9,3418.8,2026-04-15,186350470,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:54.210854,Mountain Hydro Nepal Limited
-2026041504008593,MHNL,64,6,11,284.9,3133.9,2026-04-15,186350578,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:03:01.209765,Mountain Hydro Nepal Limited
-2026041504008639,MHNL,64,6,10,284.9,2849.0,2026-04-15,186350848,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:03:09.875785,Mountain Hydro Nepal Limited
-2026041504008653,MHNL,64,6,10,284.9,2849.0,2026-04-15,186351002,2811,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:03:16.965022,Mountain Hydro Nepal Limited
-2026041504008719,MHNL,51,22,13,284.8,3702.4,2026-04-15,186351465,2811,Oxford Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:03:48.085761,Mountain Hydro Nepal Limited
-2026041504009022,MHNL,51,45,19,284.8,5411.2,2026-04-15,186353090,2811,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:05:12.240615,Mountain Hydro Nepal Limited
-2026041504009052,MHNL,52,45,150,284.0,42600.0,2026-04-15,186353332,2811,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:05:29.189566,Mountain Hydro Nepal Limited
-2026041504009053,MHNL,1,45,16,284.0,4544.0,2026-04-15,186353333,2811,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:05:29.189652,Mountain Hydro Nepal Limited
-2026041504009074,MHNL,1,35,200,284.0,56800.0,2026-04-15,186353471,2811,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:05:37.898802,Mountain Hydro Nepal Limited
-2026041504009722,MHNL,38,6,46,284.9,13105.4,2026-04-15,186357437,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 12:09:28.664993,Mountain Hydro Nepal Limited
-2026041504009723,MHNL,38,35,117,284.9,33333.3,2026-04-15,186357440,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:09:28.665221,Mountain Hydro Nepal Limited
-2026041504009724,MHNL,38,35,133,284.9,37891.7,2026-04-15,186357441,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:09:28.697631,Mountain Hydro Nepal Limited
-2026041504009725,MHNL,38,48,94,284.9,26780.6,2026-04-15,186357443,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 12:09:28.697793,Mountain Hydro Nepal Limited
-2026041504009726,MHNL,38,25,72,285.0,20520.0,2026-04-15,186357446,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.697910,Mountain Hydro Nepal Limited
-2026041504009727,MHNL,38,25,167,285.0,47595.0,2026-04-15,186357448,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.711775,Mountain Hydro Nepal Limited
-2026041504009728,MHNL,38,25,206,285.0,58710.0,2026-04-15,186357450,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.715875,Mountain Hydro Nepal Limited
-2026041504009729,MHNL,38,25,152,285.0,43320.0,2026-04-15,186357454,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.816411,Mountain Hydro Nepal Limited
-2026041504009730,MHNL,38,25,101,285.0,28785.0,2026-04-15,186357456,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.836940,Mountain Hydro Nepal Limited
-2026041504009731,MHNL,38,25,160,285.0,45600.0,2026-04-15,186357458,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.863856,Mountain Hydro Nepal Limited
-2026041504009732,MHNL,38,25,72,285.0,20520.0,2026-04-15,186357460,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.881781,Mountain Hydro Nepal Limited
-2026041504009733,MHNL,38,25,54,285.0,15390.0,2026-04-15,186357462,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.963956,Mountain Hydro Nepal Limited
-2026041504009734,MHNL,38,25,16,285.0,4560.0,2026-04-15,186357463,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.967018,Mountain Hydro Nepal Limited
-2026041504009735,MHNL,38,66,30,285.0,8550.0,2026-04-15,186357465,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Miyo Securities Pvt Ltd,2026-04-15 12:09:28.967083,Mountain Hydro Nepal Limited
-2026041504009736,MHNL,38,68,61,285.0,17385.0,2026-04-15,186357468,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.967119,Mountain Hydro Nepal Limited
-2026041504009737,MHNL,38,68,62,285.0,17670.0,2026-04-15,186357470,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.989175,Mountain Hydro Nepal Limited
-2026041504009738,MHNL,38,68,74,285.0,21090.0,2026-04-15,186357472,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.992427,Mountain Hydro Nepal Limited
-2026041504009740,MHNL,38,68,65,285.0,18525.0,2026-04-15,186357476,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.998073,Mountain Hydro Nepal Limited
-2026041504009741,MHNL,38,68,153,285.0,43605.0,2026-04-15,186357478,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.017150,Mountain Hydro Nepal Limited
-2026041504009743,MHNL,38,68,41,285.0,11685.0,2026-04-15,186357484,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.041063,Mountain Hydro Nepal Limited
-2026041504009744,MHNL,38,68,50,285.0,14250.0,2026-04-15,186357486,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.052187,Mountain Hydro Nepal Limited
-2026041504009745,MHNL,38,68,127,285.0,36195.0,2026-04-15,186357488,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.062639,Mountain Hydro Nepal Limited
-2026041504009751,MHNL,38,68,68,285.0,19380.0,2026-04-15,186357522,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:30.559458,Mountain Hydro Nepal Limited
-2026041504009853,MHNL,64,68,199,285.0,56715.0,2026-04-15,186358137,2811,SUN SECURITIES PVT LTD,Elite Stock House Limited,2026-04-15 12:10:17.853200,Mountain Hydro Nepal Limited
-2026041504009854,MHNL,64,45,21,285.0,5985.0,2026-04-15,186358140,2811,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:10:17.853349,Mountain Hydro Nepal Limited
-2026041504009891,MHNL,64,65,157,285.3,44792.1,2026-04-15,186358352,2811,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:10:32.676279,Mountain Hydro Nepal Limited
-2026041504009904,MHNL,64,65,17,285.3,4850.1,2026-04-15,186358440,2811,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:10:40.630916,Mountain Hydro Nepal Limited
-2026041504009919,MHNL,1,42,15,284.0,4260.0,2026-04-15,186358535,2811,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-15 12:10:46.276984,Mountain Hydro Nepal Limited
-2026041504009978,MHNL,64,65,130,285.3,37089.0,2026-04-15,186358902,2811,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:11:10.719923,Mountain Hydro Nepal Limited
-2026041504010002,MHNL,64,65,130,285.3,37089.0,2026-04-15,186359038,2811,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:11:21.633020,Mountain Hydro Nepal Limited
-2026041504010012,MHNL,64,65,66,285.3,18829.8,2026-04-15,186359211,2811,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:11:32.551578,Mountain Hydro Nepal Limited
-2026041504010013,MHNL,64,35,54,285.7,15427.8,2026-04-15,186359214,2811,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:11:32.551757,Mountain Hydro Nepal Limited
-2026041504011076,MHNL,64,21,62,285.0,17670.0,2026-04-15,186369210,2811,SUN SECURITIES PVT LTD,Midas Stock Broking Company Private Limited,2026-04-15 12:18:04.664529,Mountain Hydro Nepal Limited
-2026041504011114,MHNL,64,21,70,285.0,19950.0,2026-04-15,186369424,2811,SUN SECURITIES PVT LTD,Midas Stock Broking Company Private Limited,2026-04-15 12:18:12.158029,Mountain Hydro Nepal Limited
-2026041504011117,MHNL,45,21,500,285.0,142500.0,2026-04-15,186369440,2811,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:18:13.452272,Mountain Hydro Nepal Limited
-2026041504011236,MHNL,38,21,360,285.0,102600.0,2026-04-15,186370138,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:18:36.201044,Mountain Hydro Nepal Limited
-2026041504011265,MHNL,36,5,1000,285.0,285000.0,2026-04-15,186370488,2811,Secured Securities Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-15 12:18:53.114087,Mountain Hydro Nepal Limited
-2026041504011956,MHNL,58,42,10,285.7,2857.0,2026-04-15,186375094,2811,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:22:32.278398,Mountain Hydro Nepal Limited
-2026041504012108,MHNL,38,42,190,285.0,54150.0,2026-04-15,186376051,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-15 12:23:18.221081,Mountain Hydro Nepal Limited
-2026041504012369,MHNL,29,42,30,285.7,8571.0,2026-04-15,186378181,2811,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:24:48.737608,Mountain Hydro Nepal Limited
-2026041504012370,MHNL,29,45,50,287.0,14350.0,2026-04-15,186378183,2811,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:24:48.737689,Mountain Hydro Nepal Limited
-2026041504012371,MHNL,29,45,10,287.0,2870.0,2026-04-15,186378185,2811,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:24:48.737745,Mountain Hydro Nepal Limited
-2026041504012372,MHNL,29,39,410,288.0,118080.0,2026-04-15,186378188,2811,Trisul Securities & Invt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:24:48.737784,Mountain Hydro Nepal Limited
-2026041504012690,MHNL,48,35,10,285.2,2852.0,2026-04-15,186380217,2811,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:26:32.119663,Mountain Hydro Nepal Limited
-2026041504012765,MHNL,74,39,80,288.0,23040.0,2026-04-15,186380777,2811,KALASH STOCK MARKET PVT. LTD.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:27:01.889045,Mountain Hydro Nepal Limited
-2026041504012766,MHNL,74,35,214,288.9,61824.6,2026-04-15,186380779,2811,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:27:01.889217,Mountain Hydro Nepal Limited
-2026041504012767,MHNL,74,51,216,289.0,62424.0,2026-04-15,186380781,2811,KALASH STOCK MARKET PVT. LTD.,Oxford Securities Pvt. Ltd.,2026-04-15 12:27:01.889354,Mountain Hydro Nepal Limited
-2026041504012768,MHNL,74,1,180,289.0,52020.0,2026-04-15,186380783,2811,KALASH STOCK MARKET PVT. LTD.,Kumari Securities Private Limited,2026-04-15 12:27:01.889470,Mountain Hydro Nepal Limited
-2026041504012769,MHNL,74,35,310,289.0,89590.0,2026-04-15,186380786,2811,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:27:01.889581,Mountain Hydro Nepal Limited
-2026041504012973,MHNL,26,35,10,286.0,2860.0,2026-04-15,186381699,2811,Asian Securities Private Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:27:47.886859,Mountain Hydro Nepal Limited
-2026041504013166,MHNL,58,22,10,288.9,2889.0,2026-04-15,186382890,2811,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:28:52.147421,Mountain Hydro Nepal Limited
-2026041504013258,MHNL,45,22,10,288.9,2889.0,2026-04-15,186383442,2811,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:29:21.492786,Mountain Hydro Nepal Limited
-2026041504013271,MHNL,45,35,10,286.2,2862.0,2026-04-15,186383561,2811,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:29:29.846229,Mountain Hydro Nepal Limited
-2026041504013593,MHNL,7,52,500,289.0,144500.0,2026-04-15,186385767,2811,J.F. Securites (PVT) Ltd.,Sundhara Securities Limited,2026-04-15 12:31:29.219416,Mountain Hydro Nepal Limited
-2026041504013594,MHNL,7,62,80,290.0,23200.0,2026-04-15,186385769,2811,J.F. Securites (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:31:29.219596,Mountain Hydro Nepal Limited
-2026041504013595,MHNL,7,54,420,290.0,121800.0,2026-04-15,186385772,2811,J.F. Securites (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:31:29.219645,Mountain Hydro Nepal Limited
-2026041504013623,MHNL,7,54,80,290.0,23200.0,2026-04-15,186385953,2811,J.F. Securites (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:31:43.542941,Mountain Hydro Nepal Limited
-2026041504013624,MHNL,7,22,30,290.0,8700.0,2026-04-15,186385955,2811,J.F. Securites (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:31:43.543130,Mountain Hydro Nepal Limited
-2026041504013625,MHNL,7,35,21,290.0,6090.0,2026-04-15,186385957,2811,J.F. Securites (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:31:43.543255,Mountain Hydro Nepal Limited
-2026041504013626,MHNL,7,33,19,290.0,5510.0,2026-04-15,186385960,2811,J.F. Securites (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 12:31:43.543401,Mountain Hydro Nepal Limited
-2026041504013757,MHNL,59,35,10,286.3,2863.0,2026-04-15,186386621,2811,Deevyaa Securities & Stock House Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:32:17.952861,Mountain Hydro Nepal Limited
-2026041504013776,MHNL,57,57,1500,290.1,435150.0,2026-04-15,186386754,2811,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-15 12:32:25.743161,Mountain Hydro Nepal Limited
-2026041504014017,MHNL,59,41,30,287.1,8613.0,2026-04-15,186388595,2811,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-15 12:33:53.197388,Mountain Hydro Nepal Limited
-2026041504014154,MHNL,45,39,110,289.9,31889.0,2026-04-15,186389698,2811,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:34:39.676298,Mountain Hydro Nepal Limited
-2026041504014196,MHNL,62,39,80,289.9,23192.0,2026-04-15,186389973,2811,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,2026-04-15 12:34:55.974388,Mountain Hydro Nepal Limited
-2026041504014197,MHNL,62,57,100,290.1,29010.0,2026-04-15,186389975,2811,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-15 12:34:55.974476,Mountain Hydro Nepal Limited
-2026041504014198,MHNL,62,46,25,290.4,7260.0,2026-04-15,186389977,2811,Capital Max Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-15 12:34:55.974518,Mountain Hydro Nepal Limited
-2026041504014199,MHNL,62,7,10,291.0,2910.0,2026-04-15,186389979,2811,Capital Max Securities Ltd,J.F. Securites (PVT) Ltd.,2026-04-15 12:34:55.974558,Mountain Hydro Nepal Limited
-2026041504014200,MHNL,62,54,285,291.0,82935.0,2026-04-15,186389982,2811,Capital Max Securities Ltd,Sewa Securities Pvt. Ltd.,2026-04-15 12:34:55.974605,Mountain Hydro Nepal Limited
-2026041504014261,MHNL,62,51,30,291.7,8751.0,2026-04-15,186390543,2811,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:35:27.562519,Mountain Hydro Nepal Limited
-2026041504014262,MHNL,62,17,100,292.5,29250.0,2026-04-15,186390545,2811,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-15 12:35:27.562622,Mountain Hydro Nepal Limited
-2026041504014263,MHNL,62,52,300,293.7,88110.0,2026-04-15,186390547,2811,Capital Max Securities Ltd,Sundhara Securities Limited,2026-04-15 12:35:27.562672,Mountain Hydro Nepal Limited
-2026041504014264,MHNL,62,35,70,294.0,20580.0,2026-04-15,186390550,2811,Capital Max Securities Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:35:27.562709,Mountain Hydro Nepal Limited
-2026041504014427,MHNL,45,89,1000,292.0,292000.0,2026-04-15,186392095,2811,Imperial Securities Company Pvt. Ltd.,Global IME Securities Limited,2026-04-15 12:36:37.236585,Mountain Hydro Nepal Limited
-2026041504014428,MHNL,45,49,100,294.0,29400.0,2026-04-15,186392097,2811,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:36:37.236664,Mountain Hydro Nepal Limited
-2026041504014429,MHNL,45,53,300,294.0,88200.0,2026-04-15,186392099,2811,Imperial Securities Company Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-15 12:36:37.236703,Mountain Hydro Nepal Limited
-2026041504014430,MHNL,45,51,100,295.0,29500.0,2026-04-15,186392102,2811,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:36:37.236737,Mountain Hydro Nepal Limited
-2026041504014457,MHNL,28,35,30,290.0,8700.0,2026-04-15,186392485,2811,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:36:55.680842,Mountain Hydro Nepal Limited
-2026041504014618,MHNL,48,52,500,292.0,146000.0,2026-04-15,186393874,2811,Trishakti Securities Public Limited,Sundhara Securities Limited,2026-04-15 12:38:06.022518,Mountain Hydro Nepal Limited
-2026041504014653,MHNL,45,52,50,292.0,14600.0,2026-04-15,186394256,2811,Imperial Securities Company Pvt. Ltd.,Sundhara Securities Limited,2026-04-15 12:38:27.122498,Mountain Hydro Nepal Limited
-2026041504014713,MHNL,45,89,1000,294.0,294000.0,2026-04-15,186394723,2811,Imperial Securities Company Pvt. Ltd.,Global IME Securities Limited,2026-04-15 12:38:54.606280,Mountain Hydro Nepal Limited
-2026041504014714,MHNL,45,51,900,295.0,265500.0,2026-04-15,186394725,2811,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:38:54.606509,Mountain Hydro Nepal Limited
-2026041504014715,MHNL,45,39,50,295.0,14750.0,2026-04-15,186394727,2811,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:38:54.606630,Mountain Hydro Nepal Limited
-2026041504014716,MHNL,45,58,50,295.0,14750.0,2026-04-15,186394730,2811,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:38:54.606735,Mountain Hydro Nepal Limited
-2026041504014740,MHNL,48,35,10,291.2,2912.0,2026-04-15,186394919,2811,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:39:08.486650,Mountain Hydro Nepal Limited
-2026041504014756,MHNL,45,54,10,292.0,2920.0,2026-04-15,186395204,2811,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:39:23.323145,Mountain Hydro Nepal Limited
-2026041504014800,MHNL,62,17,100,294.9,29490.0,2026-04-15,186395617,2811,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-15 12:39:47.716296,Mountain Hydro Nepal Limited
-2026041504014801,MHNL,62,57,100,295.0,29500.0,2026-04-15,186395619,2811,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-15 12:39:47.716494,Mountain Hydro Nepal Limited
-2026041504014802,MHNL,62,6,200,295.0,59000.0,2026-04-15,186395621,2811,Capital Max Securities Ltd,Agrawal Securities (PVT) Ltd.,2026-04-15 12:39:47.716611,Mountain Hydro Nepal Limited
-2026041504014803,MHNL,62,49,150,295.0,44250.0,2026-04-15,186395623,2811,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,2026-04-15 12:39:47.716723,Mountain Hydro Nepal Limited
-2026041504014804,MHNL,62,36,30,295.9,8877.0,2026-04-15,186395625,2811,Capital Max Securities Ltd,Secured Securities Ltd.,2026-04-15 12:39:47.716848,Mountain Hydro Nepal Limited
-2026041504014805,MHNL,62,45,100,296.8,29680.0,2026-04-15,186395627,2811,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:39:47.716972,Mountain Hydro Nepal Limited
-2026041504014806,MHNL,62,58,200,296.8,59360.0,2026-04-15,186395629,2811,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-15 12:39:47.717085,Mountain Hydro Nepal Limited
-2026041504014807,MHNL,62,17,100,297.5,29750.0,2026-04-15,186395631,2811,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-15 12:39:47.717195,Mountain Hydro Nepal Limited
-2026041504014808,MHNL,62,40,20,297.7,5954.0,2026-04-15,186395634,2811,Capital Max Securities Ltd,Creative Securities Pvt Ltd,2026-04-15 12:39:47.717301,Mountain Hydro Nepal Limited
-2026041504014833,MHNL,62,45,500,294.0,147000.0,2026-04-15,186395931,2811,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:40:05.946215,Mountain Hydro Nepal Limited
-2026041504014852,MHNL,62,40,280,297.7,83356.0,2026-04-15,186396255,2811,Capital Max Securities Ltd,Creative Securities Pvt Ltd,2026-04-15 12:40:23.598571,Mountain Hydro Nepal Limited
-2026041504014853,MHNL,62,45,20,299.0,5980.0,2026-04-15,186396258,2811,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:40:23.598681,Mountain Hydro Nepal Limited
-2026041504015207,MHNL,42,18,50,297.0,14850.0,2026-04-15,186398852,2811,Sani Securities Company Ltd.,Sagarmatha Securities Private Limited,2026-04-15 12:42:40.749273,Mountain Hydro Nepal Limited
-2026041504015226,MHNL,80,62,10,296.0,2960.0,2026-04-15,186399060,2811,Indira securities pvt. ltd,Capital Max Securities Ltd,2026-04-15 12:42:51.366832,Mountain Hydro Nepal Limited
-2026041504015289,MHNL,34,90,10,294.0,2940.0,2026-04-15,186399592,2811,Vision Securities Pvt. Ltd,Sajilo Broker Limited,2026-04-15 12:43:20.393548,Mountain Hydro Nepal Limited
-2026041504015290,MHNL,14,90,250,294.0,73500.0,2026-04-15,186399594,2811,Nepal Stock House (PVT) Ltd.,Sajilo Broker Limited,2026-04-15 12:43:20.393751,Mountain Hydro Nepal Limited
-2026041504015302,MHNL,64,90,140,294.0,41160.0,2026-04-15,186399699,2811,SUN SECURITIES PVT LTD,Sajilo Broker Limited,2026-04-15 12:43:25.310101,Mountain Hydro Nepal Limited
-2026041504015347,MHNL,34,51,20,295.9,5918.0,2026-04-15,186399910,2811,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:43:37.186640,Mountain Hydro Nepal Limited
-2026041504015348,MHNL,64,62,60,294.0,17640.0,2026-04-15,186399918,2811,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-15 12:43:37.846482,Mountain Hydro Nepal Limited
-2026041504015400,MHNL,38,62,100,291.4,29140.0,2026-04-15,186400478,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836442,Mountain Hydro Nepal Limited
-2026041504015401,MHNL,48,62,490,291.2,142688.0,2026-04-15,186400480,2811,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-15 12:44:20.836538,Mountain Hydro Nepal Limited
-2026041504015402,MHNL,28,62,970,290.0,281300.0,2026-04-15,186400482,2811,Shree Krishna Securities Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836602,Mountain Hydro Nepal Limited
-2026041504015403,MHNL,58,62,14,290.0,4060.0,2026-04-15,186400484,2811,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836675,Mountain Hydro Nepal Limited
-2026041504015404,MHNL,41,62,5000,288.0,1440000.0,2026-04-15,186400486,2811,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836747,Mountain Hydro Nepal Limited
-2026041504015405,MHNL,59,62,160,287.1,45936.0,2026-04-15,186400488,2811,Deevyaa Securities & Stock House Pvt. Ltd,Capital Max Securities Ltd,2026-04-15 12:44:20.836821,Mountain Hydro Nepal Limited
-2026041504015406,MHNL,45,62,266,287.1,76368.6,2026-04-15,186400489,2811,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836894,Mountain Hydro Nepal Limited
-2026041504015525,MHNL,62,51,30,292.8,8784.0,2026-04-15,186401375,2811,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:45:23.052746,Mountain Hydro Nepal Limited
-2026041504015526,MHNL,62,57,100,295.0,29500.0,2026-04-15,186401377,2811,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-15 12:45:23.052835,Mountain Hydro Nepal Limited
-2026041504015527,MHNL,62,51,10,295.9,2959.0,2026-04-15,186401380,2811,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:45:23.052859,Mountain Hydro Nepal Limited
-2026041504015543,MHNL,58,51,90,295.9,26631.0,2026-04-15,186401656,2811,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:45:35.774325,Mountain Hydro Nepal Limited
-2026041504015590,MHNL,39,90,600,295.0,177000.0,2026-04-15,186402120,2811,Sumeru Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 12:46:02.008783,Mountain Hydro Nepal Limited
-2026041504015649,MHNL,45,62,10,287.1,2871.0,2026-04-15,186402661,2811,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:46:41.047588,Mountain Hydro Nepal Limited
-2026041504015675,MHNL,39,62,400,288.0,115200.0,2026-04-15,186403014,2811,Sumeru Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016369,Mountain Hydro Nepal Limited
-2026041504015676,MHNL,45,62,324,287.1,93020.4,2026-04-15,186403016,2811,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016485,Mountain Hydro Nepal Limited
-2026041504015677,MHNL,35,62,78,287.1,22393.8,2026-04-15,186403018,2811,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016533,Mountain Hydro Nepal Limited
-2026041504015678,MHNL,48,62,200,287.1,57420.0,2026-04-15,186403020,2811,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-15 12:47:04.016577,Mountain Hydro Nepal Limited
-2026041504015679,MHNL,57,62,300,287.0,86100.0,2026-04-15,186403022,2811,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-15 12:47:04.016622,Mountain Hydro Nepal Limited
-2026041504015680,MHNL,26,62,680,287.0,195160.0,2026-04-15,186403024,2811,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016667,Mountain Hydro Nepal Limited
-2026041504015681,MHNL,57,62,80,287.0,22960.0,2026-04-15,186403026,2811,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-15 12:47:04.016710,Mountain Hydro Nepal Limited
-2026041504015682,MHNL,6,62,500,285.3,142650.0,2026-04-15,186403028,2811,Agrawal Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016756,Mountain Hydro Nepal Limited
-2026041504015683,MHNL,64,62,138,285.3,39371.4,2026-04-15,186403030,2811,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-15 12:47:04.016801,Mountain Hydro Nepal Limited
-2026041504015684,MHNL,42,62,1750,285.1,498925.0,2026-04-15,186403032,2811,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016843,Mountain Hydro Nepal Limited
-2026041504015685,MHNL,38,62,310,285.0,88350.0,2026-04-15,186403034,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016881,Mountain Hydro Nepal Limited
-2026041504015686,MHNL,62,62,100,285.0,28500.0,2026-04-15,186403036,2811,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-15 12:47:04.016922,Mountain Hydro Nepal Limited
-2026041504015687,MHNL,36,62,140,285.0,39900.0,2026-04-15,186403037,2811,Secured Securities Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016964,Mountain Hydro Nepal Limited
-2026041504015726,MHNL,62,42,10,292.9,2929.0,2026-04-15,186403437,2811,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-15 12:47:26.975899,Mountain Hydro Nepal Limited
-2026041504015727,MHNL,62,42,10,293.9,2939.0,2026-04-15,186403439,2811,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-15 12:47:26.975980,Mountain Hydro Nepal Limited
-2026041504015728,MHNL,62,42,10,294.9,2949.0,2026-04-15,186403441,2811,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-15 12:47:26.976008,Mountain Hydro Nepal Limited
-2026041504015729,MHNL,62,74,10,295.8,2958.0,2026-04-15,186403444,2811,Capital Max Securities Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-15 12:47:26.976029,Mountain Hydro Nepal Limited
-2026041504015820,MHNL,28,35,20,295.0,5900.0,2026-04-15,186403940,2811,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:48:02.517558,Mountain Hydro Nepal Limited
-2026041504015994,MHNL,58,62,50,289.9,14495.0,2026-04-15,186405226,2811,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:27.928809,Mountain Hydro Nepal Limited
-2026041504015995,MHNL,45,62,1500,289.9,434850.0,2026-04-15,186405228,2811,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:27.928938,Mountain Hydro Nepal Limited
-2026041504016048,MHNL,3,62,100,289.9,28990.0,2026-04-15,186405438,2811,Arun Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:42.902625,Mountain Hydro Nepal Limited
-2026041504016098,MHNL,58,62,20,289.9,5798.0,2026-04-15,186405596,2811,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:48.777100,Mountain Hydro Nepal Limited
-2026041504016111,MHNL,58,62,15,289.9,4348.5,2026-04-15,186405684,2811,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:53.149437,Mountain Hydro Nepal Limited
-2026041504016209,MHNL,62,62,100,289.9,28990.0,2026-04-15,186406366,2811,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-15 12:50:49.964656,Mountain Hydro Nepal Limited
-2026041504016309,MHNL,58,42,8,285.0,2280.0,2026-04-15,186407653,2811,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:51:51.906549,Mountain Hydro Nepal Limited
-2026041504016345,MHNL,16,62,200,289.9,57980.0,2026-04-15,186407948,2811,Primo Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:52:10.232813,Mountain Hydro Nepal Limited
-2026041504016397,MHNL,45,62,15,289.9,4348.5,2026-04-15,186408199,2811,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:52:27.903041,Mountain Hydro Nepal Limited
-2026041504016398,MHNL,45,49,10,289.9,2899.0,2026-04-15,186408202,2811,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:52:27.903153,Mountain Hydro Nepal Limited
-2026041504016717,MHNL,45,42,10,290.7,2907.0,2026-04-15,186410561,2811,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:54:51.491916,Mountain Hydro Nepal Limited
-2026041504016718,MHNL,45,28,400,291.0,116400.0,2026-04-15,186410564,2811,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-15 12:54:51.491955,Mountain Hydro Nepal Limited
-2026041504016921,MHNL,52,42,10,291.0,2910.0,2026-04-15,186412131,2811,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-15 12:56:24.621132,Mountain Hydro Nepal Limited
-2026041504017049,MHNL,41,63,150,290.2,43530.0,2026-04-15,186413274,2811,Linch Stock Market Ltd.,Himalayan Brokerage Company Limited,2026-04-15 12:57:26.100232,Mountain Hydro Nepal Limited
-2026041504017241,MHNL,58,63,10,290.0,2900.0,2026-04-15,186414758,2811,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-15 12:59:00.666531,Mountain Hydro Nepal Limited
-2026041504017273,MHNL,58,62,50,288.1,14405.0,2026-04-15,186414990,2811,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:59:20.938780,Mountain Hydro Nepal Limited
-2026041504017274,MHNL,68,62,68,288.0,19584.0,2026-04-15,186414992,2811,Elite Stock House Limited,Capital Max Securities Ltd,2026-04-15 12:59:20.938913,Mountain Hydro Nepal Limited
-2026041504017275,MHNL,80,62,100,288.0,28800.0,2026-04-15,186414994,2811,Indira securities pvt. ltd,Capital Max Securities Ltd,2026-04-15 12:59:20.938962,Mountain Hydro Nepal Limited
-2026041504017276,MHNL,41,62,500,287.0,143500.0,2026-04-15,186414996,2811,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-15 12:59:20.939013,Mountain Hydro Nepal Limited
-2026041504017426,MHNL,35,62,20,289.9,5798.0,2026-04-15,186416214,2811,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 13:00:50.469283,Mountain Hydro Nepal Limited
-2026041504017714,MHNL,58,62,25,289.9,7247.5,2026-04-15,186417828,2811,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 13:02:43.015564,Mountain Hydro Nepal Limited
-2026041504017779,MHNL,53,62,107,289.9,31019.3,2026-04-15,186418307,2811,Investment Management Nepal Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 13:03:12.670471,Mountain Hydro Nepal Limited
-2026041504017780,MHNL,53,56,50,289.9,14495.0,2026-04-15,186418309,2811,Investment Management Nepal Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 13:03:12.670704,Mountain Hydro Nepal Limited
-2026041504017781,MHNL,53,63,240,290.0,69600.0,2026-04-15,186418311,2811,Investment Management Nepal Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-15 13:03:12.670855,Mountain Hydro Nepal Limited
-2026041504017782,MHNL,53,66,103,290.0,29870.0,2026-04-15,186418314,2811,Investment Management Nepal Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-15 13:03:12.671000,Mountain Hydro Nepal Limited
-2026041504018377,MHNL,21,66,46,290.0,13340.0,2026-04-15,186423060,2811,Midas Stock Broking Company Private Limited,Miyo Securities Pvt Ltd,2026-04-15 13:08:00.114964,Mountain Hydro Nepal Limited
-2026041504018475,MHNL,45,66,350,290.0,101500.0,2026-04-15,186423616,2811,Imperial Securities Company Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-15 13:08:32.975271,Mountain Hydro Nepal Limited
-2026041504018562,MHNL,53,63,100,290.2,29020.0,2026-04-15,186424455,2811,Investment Management Nepal Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-15 13:09:26.055017,Mountain Hydro Nepal Limited
-2026041504018563,MHNL,53,1,180,290.8,52344.0,2026-04-15,186424457,2811,Investment Management Nepal Pvt. Ltd.,Kumari Securities Private Limited,2026-04-15 13:09:26.055275,Mountain Hydro Nepal Limited
-2026041504018564,MHNL,53,14,10,290.8,2908.0,2026-04-15,186424459,2811,Investment Management Nepal Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:09:26.055454,Mountain Hydro Nepal Limited
-2026041504018565,MHNL,53,41,10,291.0,2910.0,2026-04-15,186424462,2811,Investment Management Nepal Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 13:09:26.055614,Mountain Hydro Nepal Limited
-2026041504019118,MHNL,5,35,19,290.0,5510.0,2026-04-15,186427917,2811,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 13:13:05.980460,Mountain Hydro Nepal Limited
-2026041504019318,MHNL,5,22,10,290.0,2900.0,2026-04-15,186429139,2811,Market Securities & Exchange (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 13:14:26.221121,Mountain Hydro Nepal Limited
-2026041504019343,MHNL,5,48,100,290.0,29000.0,2026-04-15,186429403,2811,Market Securities & Exchange (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-15 13:14:43.907626,Mountain Hydro Nepal Limited
-2026041504019367,MHNL,5,38,300,290.0,87000.0,2026-04-15,186429599,2811,Market Securities & Exchange (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:14:57.364018,Mountain Hydro Nepal Limited
-2026041504019369,MHNL,45,39,180,290.9,52362.0,2026-04-15,186429615,2811,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 13:14:59.059602,Mountain Hydro Nepal Limited
-2026041504019370,MHNL,45,11,50,290.9,14545.0,2026-04-15,186429617,2811,Imperial Securities Company Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-15 13:14:59.059704,Mountain Hydro Nepal Limited
-2026041504019371,MHNL,45,59,200,290.9,58180.0,2026-04-15,186429620,2811,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 13:14:59.059764,Mountain Hydro Nepal Limited
-2026041504019482,MHNL,5,45,40,290.0,11600.0,2026-04-15,186430321,2811,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:15:36.839684,Mountain Hydro Nepal Limited
-2026041504019768,MHNL,5,35,20,290.0,5800.0,2026-04-15,186432475,2811,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 13:18:18.099437,Mountain Hydro Nepal Limited
-2026041504019902,MHNL,5,45,11,290.0,3190.0,2026-04-15,186433360,2811,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:19:26.813746,Mountain Hydro Nepal Limited
-2026041504020048,MHNL,45,45,20,289.0,5780.0,2026-04-15,186434384,2811,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:20:49.920359,Mountain Hydro Nepal Limited
-2026041504020992,MHNL,74,45,95,288.0,27360.0,2026-04-15,186441240,2811,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:29:05.546354,Mountain Hydro Nepal Limited
-2026041504020993,MHNL,39,45,405,288.0,116640.0,2026-04-15,186441241,2811,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:29:05.546473,Mountain Hydro Nepal Limited
-2026041504021046,MHNL,39,41,95,288.0,27360.0,2026-04-15,186441726,2811,Sumeru Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 13:29:36.750818,Mountain Hydro Nepal Limited
-2026041504021168,MHNL,34,21,15,287.5,4312.5,2026-04-15,186442768,2811,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127707,Mountain Hydro Nepal Limited
-2026041504021169,MHNL,47,21,200,287.3,57460.0,2026-04-15,186442770,2811,Neev Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127808,Mountain Hydro Nepal Limited
-2026041504021170,MHNL,39,21,500,287.0,143500.0,2026-04-15,186442772,2811,Sumeru Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127891,Mountain Hydro Nepal Limited
-2026041504021171,MHNL,28,21,1000,287.0,287000.0,2026-04-15,186442774,2811,Shree Krishna Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127957,Mountain Hydro Nepal Limited
-2026041504021172,MHNL,53,21,785,286.6,224981.0,2026-04-15,186442775,2811,Investment Management Nepal Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.128030,Mountain Hydro Nepal Limited
-2026041504021415,MHNL,53,38,40,286.6,11464.0,2026-04-15,186444971,2811,Investment Management Nepal Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:33:44.400968,Mountain Hydro Nepal Limited
-2026041504021533,MHNL,53,16,175,286.6,50155.0,2026-04-15,186445651,2811,Investment Management Nepal Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:34:30.579882,Mountain Hydro Nepal Limited
-2026041504021980,MHNL,41,38,50,286.1,14305.0,2026-04-15,186449343,2811,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:40:13.705737,Mountain Hydro Nepal Limited
-2026041504022209,MHNL,45,6,10,286.6,2866.0,2026-04-15,186451102,2811,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 13:42:40.492980,Mountain Hydro Nepal Limited
-2026041504022337,MHNL,95,51,300,289.0,86700.0,2026-04-15,186452035,2811,Magnet Securities and Investment Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-15 13:43:58.669890,Mountain Hydro Nepal Limited
-2026041504022338,MHNL,95,21,120,289.0,34680.0,2026-04-15,186452037,2811,Magnet Securities and Investment Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-15 13:43:58.670018,Mountain Hydro Nepal Limited
-2026041504022339,MHNL,95,41,215,289.7,62285.5,2026-04-15,186452039,2811,Magnet Securities and Investment Company Private Limited,Linch Stock Market Ltd.,2026-04-15 13:43:58.670086,Mountain Hydro Nepal Limited
-2026041504022340,MHNL,95,45,365,289.8,105777.0,2026-04-15,186452042,2811,Magnet Securities and Investment Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:43:58.670177,Mountain Hydro Nepal Limited
-2026041504023144,MHNL,6,45,100,289.8,28980.0,2026-04-15,186457582,2811,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:50:50.337735,Mountain Hydro Nepal Limited
-2026041504023300,MHNL,45,54,500,289.8,144900.0,2026-04-15,186458812,2811,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 13:51:54.082491,Mountain Hydro Nepal Limited
-2026041504024290,MHNL,49,38,50,290.8,14540.0,2026-04-15,186465328,2811,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:00:49.326292,Mountain Hydro Nepal Limited
-2026041504024400,MHNL,38,49,10,290.0,2900.0,2026-04-15,186466359,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-15 14:02:39.678556,Mountain Hydro Nepal Limited
-2026041504024464,MHNL,45,38,150,290.8,43620.0,2026-04-15,186467104,2811,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:03:48.248705,Mountain Hydro Nepal Limited
-2026041504024499,MHNL,38,41,90,290.0,26100.0,2026-04-15,186467431,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Linch Stock Market Ltd.,2026-04-15 14:04:22.396088,Mountain Hydro Nepal Limited
-2026041504024566,MHNL,19,41,10,290.8,2908.0,2026-04-15,186467923,2811,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:05:09.702116,Mountain Hydro Nepal Limited
-2026041504024567,MHNL,19,26,990,290.9,287991.0,2026-04-15,186467926,2811,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-15 14:05:09.702274,Mountain Hydro Nepal Limited
-2026041504024646,MHNL,19,26,10,290.9,2909.0,2026-04-15,186468793,2811,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-15 14:06:27.968492,Mountain Hydro Nepal Limited
-2026041504024647,MHNL,19,41,50,290.9,14545.0,2026-04-15,186468796,2811,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:06:27.968757,Mountain Hydro Nepal Limited
-2026041504024804,MHNL,19,41,100,291.0,29100.0,2026-04-15,186470048,2811,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:08:46.700228,Mountain Hydro Nepal Limited
-2026041504024811,MHNL,46,41,325,291.0,94575.0,2026-04-15,186470124,2811,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 14:08:49.469661,Mountain Hydro Nepal Limited
-2026041504024886,MHNL,19,41,20,291.0,5820.0,2026-04-15,186470758,2811,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:09:53.501052,Mountain Hydro Nepal Limited
-2026041504024951,MHNL,38,45,100,290.0,29000.0,2026-04-15,186471143,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:10:35.033199,Mountain Hydro Nepal Limited
-2026041504025008,MHNL,58,45,10,290.0,2900.0,2026-04-15,186471653,2811,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:11:21.139124,Mountain Hydro Nepal Limited
-2026041504025046,MHNL,58,32,20,290.0,5800.0,2026-04-15,186471905,2811,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-15 14:11:47.788297,Mountain Hydro Nepal Limited
-2026041504025140,MHNL,19,21,8,285.0,2280.0,2026-04-15,186472611,2811,Nepal Investment And Securities Trading Private Limited,Midas Stock Broking Company Private Limited,2026-04-15 14:12:59.295938,Mountain Hydro Nepal Limited
-2026041504025301,MHNL,19,74,2,290.0,580.0,2026-04-15,186473717,2811,Nepal Investment And Securities Trading Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-15 14:14:40.421193,Mountain Hydro Nepal Limited
-2026041504025565,MHNL,53,44,100,290.4,29040.0,2026-04-15,186475696,2811,Investment Management Nepal Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:17:37.449448,Mountain Hydro Nepal Limited
-2026041504025774,MHNL,58,42,11,290.0,3190.0,2026-04-15,186476700,2811,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:18:41.762220,Mountain Hydro Nepal Limited
-2026041504027418,MHNL,58,44,10,289.5,2895.0,2026-04-15,186487256,2811,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:28:25.008164,Mountain Hydro Nepal Limited
-2026041504027919,MHNL,45,38,140,286.3,40082.0,2026-04-15,186490385,2811,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:31:11.077628,Mountain Hydro Nepal Limited
-2026041504028178,MHNL,45,34,360,286.3,103068.0,2026-04-15,186492142,2811,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:32:37.668468,Mountain Hydro Nepal Limited
-2026041504028179,MHNL,38,34,640,286.3,183232.0,2026-04-15,186492143,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:32:37.668579,Mountain Hydro Nepal Limited
-2026041504028416,MHNL,52,65,15,289.0,4335.0,2026-04-15,186493928,2811,Sundhara Securities Limited,Sharepro Securities Private Limited,2026-04-15 14:34:23.500784,Mountain Hydro Nepal Limited
-2026041504028644,MHNL,29,65,485,289.0,140165.0,2026-04-15,186495711,2811,Trisul Securities & Invt. Ltd.,Sharepro Securities Private Limited,2026-04-15 14:35:55.149741,Mountain Hydro Nepal Limited
-2026041504028645,MHNL,29,41,15,289.0,4335.0,2026-04-15,186495714,2811,Trisul Securities & Invt. Ltd.,Linch Stock Market Ltd.,2026-04-15 14:35:55.149895,Mountain Hydro Nepal Limited
-2026041504028657,MHNL,77,6,40,287.1,11484.0,2026-04-15,186495851,2811,Nabil Stock Dealer Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:36:03.881251,Mountain Hydro Nepal Limited
-2026041504028735,MHNL,29,74,19,288.9,5489.1,2026-04-15,186496404,2811,Trisul Securities & Invt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-15 14:36:35.585154,Mountain Hydro Nepal Limited
-2026041504028781,MHNL,29,41,85,289.0,24565.0,2026-04-15,186496678,2811,Trisul Securities & Invt. Ltd.,Linch Stock Market Ltd.,2026-04-15 14:36:52.641454,Mountain Hydro Nepal Limited
-2026041504028809,MHNL,29,34,500,289.4,144700.0,2026-04-15,186496882,2811,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:37:12.457499,Mountain Hydro Nepal Limited
-2026041504028868,MHNL,29,42,150,289.0,43350.0,2026-04-15,186497274,2811,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:37:36.147621,Mountain Hydro Nepal Limited
-2026041504028884,MHNL,29,38,90,289.4,26046.0,2026-04-15,186497446,2811,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:37:50.465506,Mountain Hydro Nepal Limited
-2026041504028970,MHNL,29,17,500,289.0,144500.0,2026-04-15,186497978,2811,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,2026-04-15 14:38:22.387319,Mountain Hydro Nepal Limited
-2026041504028994,MHNL,29,44,490,289.5,141855.0,2026-04-15,186498228,2811,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:38:37.201502,Mountain Hydro Nepal Limited
-2026041504029030,MHNL,58,42,40,290.0,11600.0,2026-04-15,186498440,2811,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:38:51.103074,Mountain Hydro Nepal Limited
-2026041504029203,MHNL,29,74,50,289.9,14495.0,2026-04-15,186499659,2811,Trisul Securities & Invt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-15 14:40:09.311354,Mountain Hydro Nepal Limited
-2026041504029204,MHNL,29,6,37,289.9,10726.3,2026-04-15,186499662,2811,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:40:09.311511,Mountain Hydro Nepal Limited
-2026041504030097,MHNL,44,35,70,287.0,20090.0,2026-04-15,186506847,2811,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:47:04.052201,Mountain Hydro Nepal Limited
-2026041504030219,MHNL,40,80,100,286.5,28650.0,2026-04-15,186507970,2811,Creative Securities Pvt Ltd,Indira securities pvt. ltd,2026-04-15 14:48:06.957432,Mountain Hydro Nepal Limited
-2026041504030220,MHNL,38,80,360,286.3,103068.0,2026-04-15,186507972,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Indira securities pvt. ltd,2026-04-15 14:48:06.957547,Mountain Hydro Nepal Limited
-2026041504030221,MHNL,41,80,440,286.1,125884.0,2026-04-15,186507973,2811,Linch Stock Market Ltd.,Indira securities pvt. ltd,2026-04-15 14:48:06.957606,Mountain Hydro Nepal Limited
-2026041504030869,MHNL,34,45,4,280.4,1121.6,2026-04-15,186513517,2811,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:51:30.775733,Mountain Hydro Nepal Limited
-2026041504031024,MHNL,48,38,10,288.0,2880.0,2026-04-15,186514535,2811,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:52:18.347785,Mountain Hydro Nepal Limited
-2026041504031029,MHNL,45,6,200,288.6,57720.0,2026-04-15,186514596,2811,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:52:21.459585,Mountain Hydro Nepal Limited
-2026041504031154,MHNL,1,6,50,288.6,14430.0,2026-04-15,186515478,2811,Kumari Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-15 14:53:05.248205,Mountain Hydro Nepal Limited
-2026041504031221,MHNL,19,6,80,288.6,23088.0,2026-04-15,186515916,2811,Nepal Investment And Securities Trading Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-15 14:53:32.032433,Mountain Hydro Nepal Limited
-2026041504031410,MHNL,48,39,90,288.0,25920.0,2026-04-15,186517348,2811,Trishakti Securities Public Limited,Sumeru Securities Pvt. Ltd.,2026-04-15 14:54:37.878864,Mountain Hydro Nepal Limited
-2026041504031528,MHNL,6,35,100,286.2,28620.0,2026-04-15,186518332,2811,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145092,Mountain Hydro Nepal Limited
-2026041504031529,MHNL,41,35,10,286.1,2861.0,2026-04-15,186518334,2811,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145262,Mountain Hydro Nepal Limited
-2026041504031530,MHNL,57,35,46,286.1,13160.6,2026-04-15,186518336,2811,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145328,Mountain Hydro Nepal Limited
-2026041504031531,MHNL,29,35,300,286.1,85830.0,2026-04-15,186518338,2811,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145384,Mountain Hydro Nepal Limited
-2026041504031532,MHNL,53,35,500,286.1,143050.0,2026-04-15,186518340,2811,Investment Management Nepal Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145439,Mountain Hydro Nepal Limited
-2026041504031533,MHNL,38,35,1000,286.1,286100.0,2026-04-15,186518342,2811,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145493,Mountain Hydro Nepal Limited
-2026041504031534,MHNL,36,35,330,286.1,94413.0,2026-04-15,186518343,2811,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145546,Mountain Hydro Nepal Limited
-2026041504031575,MHNL,5,35,500,286.0,143000.0,2026-04-15,186518678,2811,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:22.048362,Mountain Hydro Nepal Limited
-2026041504031576,MHNL,11,35,10,286.0,2860.0,2026-04-15,186518680,2811,Malla & Malla Stock Broking Company Pvt. Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:22.048640,Mountain Hydro Nepal Limited
-2026041504031577,MHNL,58,35,20,286.0,5720.0,2026-04-15,186518681,2811,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:22.048822,Mountain Hydro Nepal Limited
-2026041504032328,MHNL,43,42,150,286.1,42915.0,2026-04-15,186523106,2811,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:57:41.678207,Mountain Hydro Nepal Limited
-2026041504032329,MHNL,14,42,1114,286.0,318604.0,2026-04-15,186523107,2811,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-15 14:57:41.678365,Mountain Hydro Nepal Limited
-2026041504032473,MHNL,42,6,170,287.0,48790.0,2026-04-15,186523768,2811,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:57:59.641629,Mountain Hydro Nepal Limited
-2026041504032474,MHNL,14,6,419,287.0,120253.0,2026-04-15,186523769,2811,Nepal Stock House (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:57:59.641764,Mountain Hydro Nepal Limited
-2026041504032645,MHNL,14,44,41,287.0,11767.0,2026-04-15,186525028,2811,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:58:34.282680,Mountain Hydro Nepal Limited
-2026041504032706,MHNL,80,44,70,287.0,20090.0,2026-04-15,186525330,2811,Indira securities pvt. ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:58:42.703773,Mountain Hydro Nepal Limited
-2026041504032782,MHNL,45,44,100,287.0,28700.0,2026-04-15,186525726,2811,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:58:49.675940,Mountain Hydro Nepal Limited
-2026041504033126,MHNL,45,44,100,287.0,28700.0,2026-04-15,186527906,2811,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:59:28.443646,Mountain Hydro Nepal Limited
-2026041504033228,MHNL,17,45,300,286.1,85830.0,2026-04-15,186528622,2811,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:59:37.971179,Mountain Hydro Nepal Limited
-2026041504033229,MHNL,14,45,386,286.0,110396.0,2026-04-15,186528624,2811,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:59:37.971305,Mountain Hydro Nepal Limited
-2026041504033230,MHNL,48,45,114,285.3,32524.2,2026-04-15,186528625,2811,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:59:37.971367,Mountain Hydro Nepal Limited
-2026041504033345,MHNL,48,18,140,285.3,39942.0,2026-04-15,186529545,2811,Trishakti Securities Public Limited,Sagarmatha Securities Private Limited,2026-04-15 14:59:47.541362,Mountain Hydro Nepal Limited
-2026041504033430,MHNL,58,44,10,287.0,2870.0,2026-04-15,186530212,2811,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:59:54.132261,Mountain Hydro Nepal Limited
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026041504000055,MHNL,42,62,10,274.2,2742.0,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-15 11:00:44.162964
+2026041504000134,MHNL,62,52,10,284.4,2844.0,Capital Max Securities Ltd,Sundhara Securities Limited,2026-04-15 11:02:00.976556
+2026041504000226,MHNL,77,52,690,284.2,196098.0,Nabil Stock Dealer Ltd.,Sundhara Securities Limited,2026-04-15 11:02:46.790900
+2026041504000227,MHNL,77,35,126,284.3,35821.8,Nabil Stock Dealer Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:02:46.790946
+2026041504000228,MHNL,77,4,900,284.5,256050.0,Nabil Stock Dealer Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-15 11:02:46.790978
+2026041504000274,MHNL,62,62,10,290.0,2900.0,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-15 11:03:03.198814
+2026041504000281,MHNL,77,51,284,285.0,80940.0,Nabil Stock Dealer Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 11:03:09.944842
+2026041504000372,MHNL,62,39,10,288.0,2880.0,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,2026-04-15 11:04:01.464089
+2026041504000491,MHNL,13,1,190,284.9,54131.0,Thrive Brokerage House Pvt. Ltd,Kumari Securities Private Limited,2026-04-15 11:04:57.517977
+2026041504000526,MHNL,44,22,15,284.9,4273.5,Dynamic Money Managers Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:05:18.816022
+2026041504000575,MHNL,74,35,10,280.1,2801.0,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:05:46.999886
+2026041504000788,MHNL,57,17,30,280.1,8403.0,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-15 11:07:22.669716
+2026041504000913,MHNL,58,22,10,284.9,2849.0,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:08:16.445211
+2026041504000925,MHNL,62,1,10,284.8,2848.0,Capital Max Securities Ltd,Kumari Securities Private Limited,2026-04-15 11:08:22.878862
+2026041504001090,MHNL,56,21,245,284.5,69702.5,Sri Hari Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 11:09:54.730672
+2026041504001158,MHNL,57,35,11,280.1,3081.1,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:10:24.399216
+2026041504002560,MHNL,89,90,10,282.0,2820.0,Global IME Securities Limited,Sajilo Broker Limited,2026-04-15 11:21:44.540664
+2026041504003115,MHNL,38,35,10,281.0,2810.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:26:59.869852
+2026041504003194,MHNL,52,90,190,282.9,53751.0,Sundhara Securities Limited,Sajilo Broker Limited,2026-04-15 11:27:46.395589
+2026041504003195,MHNL,52,7,310,283.0,87730.0,Sundhara Securities Limited,J.F. Securites (PVT) Ltd.,2026-04-15 11:27:46.395670
+2026041504003805,MHNL,38,7,90,283.0,25470.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,J.F. Securites (PVT) Ltd.,2026-04-15 11:33:20.105884
+2026041504003806,MHNL,38,91,200,284.0,56800.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Citizens Share Broker Limited,2026-04-15 11:33:20.105966
+2026041504003807,MHNL,38,21,2110,284.0,599240.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 11:33:20.106021
+2026041504004611,MHNL,59,21,145,284.0,41180.0,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-15 11:39:14.854475
+2026041504004612,MHNL,59,42,55,284.0,15620.0,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-15 11:39:14.854657
+2026041504005081,MHNL,51,35,10,281.2,2812.0,Oxford Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 11:43:38.569482
+2026041504006538,MHNL,58,90,20,283.9,5678.0,Naasa Securities Co. Ltd.,Sajilo Broker Limited,2026-04-15 11:52:19.720795
+2026041504006618,MHNL,1,90,180,283.9,51102.0,Kumari Securities Private Limited,Sajilo Broker Limited,2026-04-15 11:52:47.739916
+2026041504006722,MHNL,38,42,45,284.0,12780.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-15 11:53:15.173723
+2026041504007185,MHNL,47,1,180,284.0,51120.0,Neev Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-15 11:56:07.240824
+2026041504007186,MHNL,47,39,40,284.4,11376.0,Neev Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 11:56:07.240991
+2026041504007187,MHNL,47,90,100,284.6,28460.0,Neev Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 11:56:07.241108
+2026041504007188,MHNL,47,90,100,284.7,28470.0,Neev Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 11:56:07.241223
+2026041504007189,MHNL,47,1,170,284.8,48416.0,Neev Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-15 11:56:07.241347
+2026041504007190,MHNL,47,48,360,284.8,102528.0,Neev Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:56:07.241452
+2026041504007720,MHNL,38,22,10,284.7,2847.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:58:49.991384
+2026041504007721,MHNL,38,22,12,284.7,3416.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 11:58:49.999378
+2026041504007722,MHNL,38,48,12,284.8,3417.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.064905
+2026041504007723,MHNL,38,48,20,284.8,5696.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.265910
+2026041504007724,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.298131
+2026041504007725,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.300885
+2026041504007726,MHNL,38,48,18,284.8,5126.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.310557
+2026041504007727,MHNL,38,48,17,284.8,4841.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.318275
+2026041504007728,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.355128
+2026041504007729,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.369957
+2026041504007731,MHNL,38,48,12,284.8,3417.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.456805
+2026041504007732,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.457724
+2026041504007734,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.501010
+2026041504007735,MHNL,38,48,13,284.8,3702.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.514178
+2026041504007736,MHNL,38,48,12,284.8,3417.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.823536
+2026041504007737,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.855901
+2026041504007738,MHNL,38,48,33,284.8,9398.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.858222
+2026041504007740,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.899108
+2026041504007741,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.929980
+2026041504007742,MHNL,38,48,32,284.8,9113.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.949518
+2026041504007743,MHNL,38,48,29,284.8,8259.2,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:50.956531
+2026041504007744,MHNL,38,48,25,284.8,7120.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.016101
+2026041504007745,MHNL,38,48,13,284.8,3702.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.055626
+2026041504007746,MHNL,38,48,27,284.8,7689.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.087796
+2026041504007747,MHNL,38,48,12,284.8,3417.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.099409
+2026041504007748,MHNL,38,48,13,284.8,3702.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.166773
+2026041504007749,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.302410
+2026041504007750,MHNL,38,48,11,284.8,3132.8,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.331184
+2026041504007751,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.339808
+2026041504007756,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.457536
+2026041504007757,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.475181
+2026041504007758,MHNL,38,48,12,284.8,3417.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.484070
+2026041504007759,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.516744
+2026041504007760,MHNL,99,48,16,284.8,4556.8,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.570803
+2026041504007761,MHNL,38,48,14,284.8,3987.2,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.586479
+2026041504007762,MHNL,38,48,12,284.8,3417.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.594867
+2026041504007763,MHNL,38,48,38,284.8,10822.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.680971
+2026041504007764,MHNL,38,48,13,284.8,3702.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.755386
+2026041504007765,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.763069
+2026041504007766,MHNL,38,48,20,284.8,5696.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.848462
+2026041504007767,MHNL,38,48,20,284.8,5696.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.858223
+2026041504007768,MHNL,99,48,11,284.8,3132.8,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.877761
+2026041504007769,MHNL,99,48,29,284.8,8259.2,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.904282
+2026041504007770,MHNL,99,48,10,284.8,2848.0,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:51.933070
+2026041504007771,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.958170
+2026041504007772,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:51.995122
+2026041504007773,MHNL,99,48,18,284.8,5126.4,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:52.002054
+2026041504007774,MHNL,99,48,14,284.8,3987.2,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:52.011706
+2026041504007775,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:52.019378
+2026041504007776,MHNL,99,48,14,284.8,3987.2,Prabhu Stock Market Limited,Trishakti Securities Public Limited,2026-04-15 11:58:52.024755
+2026041504007777,MHNL,38,48,24,284.8,6835.2,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:52.029136
+2026041504007778,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:52.063813
+2026041504007782,MHNL,38,48,10,284.8,2848.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 11:58:53.336516
+2026041504007872,MHNL,64,48,42,284.8,11961.6,SUN SECURITIES PVT LTD,Trishakti Securities Public Limited,2026-04-15 11:59:35.319140
+2026041504007924,MHNL,51,48,234,284.8,66643.2,Oxford Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-15 11:59:49.398372
+2026041504007945,MHNL,51,42,24,284.8,6835.2,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 11:59:51.986550
+2026041504008089,MHNL,52,1,150,284.9,42735.0,Sundhara Securities Limited,Kumari Securities Private Limited,2026-04-15 12:00:47.893918
+2026041504008243,MHNL,64,1,26,284.9,7407.4,SUN SECURITIES PVT LTD,Kumari Securities Private Limited,2026-04-15 12:01:30.101921
+2026041504008268,MHNL,64,6,26,284.9,7407.4,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:01:39.205897
+2026041504008352,MHNL,64,6,18,284.9,5128.2,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:01:47.651181
+2026041504008361,MHNL,64,6,16,284.9,4558.4,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:01:54.677477
+2026041504008394,MHNL,64,6,15,284.9,4273.5,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:02.665886
+2026041504008429,MHNL,64,6,14,284.9,3988.6,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:13.436188
+2026041504008471,MHNL,64,6,14,284.9,3988.6,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:23.798464
+2026041504008504,MHNL,64,6,13,284.9,3703.7,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:32.099307
+2026041504008527,MHNL,64,6,13,284.9,3703.7,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:40.365860
+2026041504008562,MHNL,64,6,12,284.9,3418.8,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:47.118897
+2026041504008573,MHNL,64,6,12,284.9,3418.8,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:02:54.210854
+2026041504008593,MHNL,64,6,11,284.9,3133.9,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:03:01.209765
+2026041504008639,MHNL,64,6,10,284.9,2849.0,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:03:09.875785
+2026041504008653,MHNL,64,6,10,284.9,2849.0,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,2026-04-15 12:03:16.965022
+2026041504008719,MHNL,51,22,13,284.8,3702.4,Oxford Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:03:48.085761
+2026041504009022,MHNL,51,45,19,284.8,5411.2,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:05:12.240615
+2026041504009052,MHNL,52,45,150,284.0,42600.0,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:05:29.189566
+2026041504009053,MHNL,1,45,16,284.0,4544.0,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:05:29.189652
+2026041504009074,MHNL,1,35,200,284.0,56800.0,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:05:37.898802
+2026041504009722,MHNL,38,6,46,284.9,13105.4,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 12:09:28.664993
+2026041504009723,MHNL,38,35,117,284.9,33333.3,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:09:28.665221
+2026041504009724,MHNL,38,35,133,284.9,37891.7,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:09:28.697631
+2026041504009725,MHNL,38,48,94,284.9,26780.6,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,2026-04-15 12:09:28.697793
+2026041504009726,MHNL,38,25,72,285.0,20520.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.697910
+2026041504009727,MHNL,38,25,167,285.0,47595.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.711775
+2026041504009728,MHNL,38,25,206,285.0,58710.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.715875
+2026041504009729,MHNL,38,25,152,285.0,43320.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.816411
+2026041504009730,MHNL,38,25,101,285.0,28785.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.836940
+2026041504009731,MHNL,38,25,160,285.0,45600.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.863856
+2026041504009732,MHNL,38,25,72,285.0,20520.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.881781
+2026041504009733,MHNL,38,25,54,285.0,15390.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.963956
+2026041504009734,MHNL,38,25,16,285.0,4560.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sweta Securities Private Limited,2026-04-15 12:09:28.967018
+2026041504009735,MHNL,38,66,30,285.0,8550.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Miyo Securities Pvt Ltd,2026-04-15 12:09:28.967083
+2026041504009736,MHNL,38,68,61,285.0,17385.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.967119
+2026041504009737,MHNL,38,68,62,285.0,17670.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.989175
+2026041504009738,MHNL,38,68,74,285.0,21090.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.992427
+2026041504009740,MHNL,38,68,65,285.0,18525.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:28.998073
+2026041504009741,MHNL,38,68,153,285.0,43605.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.017150
+2026041504009743,MHNL,38,68,41,285.0,11685.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.041063
+2026041504009744,MHNL,38,68,50,285.0,14250.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.052187
+2026041504009745,MHNL,38,68,127,285.0,36195.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:29.062639
+2026041504009751,MHNL,38,68,68,285.0,19380.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,2026-04-15 12:09:30.559458
+2026041504009853,MHNL,64,68,199,285.0,56715.0,SUN SECURITIES PVT LTD,Elite Stock House Limited,2026-04-15 12:10:17.853200
+2026041504009854,MHNL,64,45,21,285.0,5985.0,SUN SECURITIES PVT LTD,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:10:17.853349
+2026041504009891,MHNL,64,65,157,285.3,44792.1,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:10:32.676279
+2026041504009904,MHNL,64,65,17,285.3,4850.1,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:10:40.630916
+2026041504009919,MHNL,1,42,15,284.0,4260.0,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-15 12:10:46.276984
+2026041504009978,MHNL,64,65,130,285.3,37089.0,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:11:10.719923
+2026041504010002,MHNL,64,65,130,285.3,37089.0,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:11:21.633020
+2026041504010012,MHNL,64,65,66,285.3,18829.8,SUN SECURITIES PVT LTD,Sharepro Securities Private Limited,2026-04-15 12:11:32.551578
+2026041504010013,MHNL,64,35,54,285.7,15427.8,SUN SECURITIES PVT LTD,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:11:32.551757
+2026041504011076,MHNL,64,21,62,285.0,17670.0,SUN SECURITIES PVT LTD,Midas Stock Broking Company Private Limited,2026-04-15 12:18:04.664529
+2026041504011114,MHNL,64,21,70,285.0,19950.0,SUN SECURITIES PVT LTD,Midas Stock Broking Company Private Limited,2026-04-15 12:18:12.158029
+2026041504011117,MHNL,45,21,500,285.0,142500.0,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:18:13.452272
+2026041504011236,MHNL,38,21,360,285.0,102600.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 12:18:36.201044
+2026041504011265,MHNL,36,5,1000,285.0,285000.0,Secured Securities Ltd.,Market Securities & Exchange (PVT) Ltd.,2026-04-15 12:18:53.114087
+2026041504011956,MHNL,58,42,10,285.7,2857.0,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:22:32.278398
+2026041504012108,MHNL,38,42,190,285.0,54150.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,2026-04-15 12:23:18.221081
+2026041504012369,MHNL,29,42,30,285.7,8571.0,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:24:48.737608
+2026041504012370,MHNL,29,45,50,287.0,14350.0,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:24:48.737689
+2026041504012371,MHNL,29,45,10,287.0,2870.0,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:24:48.737745
+2026041504012372,MHNL,29,39,410,288.0,118080.0,Trisul Securities & Invt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:24:48.737784
+2026041504012690,MHNL,48,35,10,285.2,2852.0,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:26:32.119663
+2026041504012765,MHNL,74,39,80,288.0,23040.0,KALASH STOCK MARKET PVT. LTD.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:27:01.889045
+2026041504012766,MHNL,74,35,214,288.9,61824.6,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:27:01.889217
+2026041504012767,MHNL,74,51,216,289.0,62424.0,KALASH STOCK MARKET PVT. LTD.,Oxford Securities Pvt. Ltd.,2026-04-15 12:27:01.889354
+2026041504012768,MHNL,74,1,180,289.0,52020.0,KALASH STOCK MARKET PVT. LTD.,Kumari Securities Private Limited,2026-04-15 12:27:01.889470
+2026041504012769,MHNL,74,35,310,289.0,89590.0,KALASH STOCK MARKET PVT. LTD.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:27:01.889581
+2026041504012973,MHNL,26,35,10,286.0,2860.0,Asian Securities Private Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:27:47.886859
+2026041504013166,MHNL,58,22,10,288.9,2889.0,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:28:52.147421
+2026041504013258,MHNL,45,22,10,288.9,2889.0,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:29:21.492786
+2026041504013271,MHNL,45,35,10,286.2,2862.0,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:29:29.846229
+2026041504013593,MHNL,7,52,500,289.0,144500.0,J.F. Securites (PVT) Ltd.,Sundhara Securities Limited,2026-04-15 12:31:29.219416
+2026041504013594,MHNL,7,62,80,290.0,23200.0,J.F. Securites (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:31:29.219596
+2026041504013595,MHNL,7,54,420,290.0,121800.0,J.F. Securites (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:31:29.219645
+2026041504013623,MHNL,7,54,80,290.0,23200.0,J.F. Securites (PVT) Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:31:43.542941
+2026041504013624,MHNL,7,22,30,290.0,8700.0,J.F. Securites (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 12:31:43.543130
+2026041504013625,MHNL,7,35,21,290.0,6090.0,J.F. Securites (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:31:43.543255
+2026041504013626,MHNL,7,33,19,290.0,5510.0,J.F. Securites (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-15 12:31:43.543401
+2026041504013757,MHNL,59,35,10,286.3,2863.0,Deevyaa Securities & Stock House Pvt. Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:32:17.952861
+2026041504013776,MHNL,57,57,1500,290.1,435150.0,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-15 12:32:25.743161
+2026041504014017,MHNL,59,41,30,287.1,8613.0,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-15 12:33:53.197388
+2026041504014154,MHNL,45,39,110,289.9,31889.0,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:34:39.676298
+2026041504014196,MHNL,62,39,80,289.9,23192.0,Capital Max Securities Ltd,Sumeru Securities Pvt. Ltd.,2026-04-15 12:34:55.974388
+2026041504014197,MHNL,62,57,100,290.1,29010.0,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-15 12:34:55.974476
+2026041504014198,MHNL,62,46,25,290.4,7260.0,Capital Max Securities Ltd,Kalika Securities Pvt. Ltd.,2026-04-15 12:34:55.974518
+2026041504014199,MHNL,62,7,10,291.0,2910.0,Capital Max Securities Ltd,J.F. Securites (PVT) Ltd.,2026-04-15 12:34:55.974558
+2026041504014200,MHNL,62,54,285,291.0,82935.0,Capital Max Securities Ltd,Sewa Securities Pvt. Ltd.,2026-04-15 12:34:55.974605
+2026041504014261,MHNL,62,51,30,291.7,8751.0,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:35:27.562519
+2026041504014262,MHNL,62,17,100,292.5,29250.0,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-15 12:35:27.562622
+2026041504014263,MHNL,62,52,300,293.7,88110.0,Capital Max Securities Ltd,Sundhara Securities Limited,2026-04-15 12:35:27.562672
+2026041504014264,MHNL,62,35,70,294.0,20580.0,Capital Max Securities Ltd,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:35:27.562709
+2026041504014427,MHNL,45,89,1000,292.0,292000.0,Imperial Securities Company Pvt. Ltd.,Global IME Securities Limited,2026-04-15 12:36:37.236585
+2026041504014428,MHNL,45,49,100,294.0,29400.0,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:36:37.236664
+2026041504014429,MHNL,45,53,300,294.0,88200.0,Imperial Securities Company Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-15 12:36:37.236703
+2026041504014430,MHNL,45,51,100,295.0,29500.0,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:36:37.236737
+2026041504014457,MHNL,28,35,30,290.0,8700.0,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:36:55.680842
+2026041504014618,MHNL,48,52,500,292.0,146000.0,Trishakti Securities Public Limited,Sundhara Securities Limited,2026-04-15 12:38:06.022518
+2026041504014653,MHNL,45,52,50,292.0,14600.0,Imperial Securities Company Pvt. Ltd.,Sundhara Securities Limited,2026-04-15 12:38:27.122498
+2026041504014713,MHNL,45,89,1000,294.0,294000.0,Imperial Securities Company Pvt. Ltd.,Global IME Securities Limited,2026-04-15 12:38:54.606280
+2026041504014714,MHNL,45,51,900,295.0,265500.0,Imperial Securities Company Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:38:54.606509
+2026041504014715,MHNL,45,39,50,295.0,14750.0,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 12:38:54.606630
+2026041504014716,MHNL,45,58,50,295.0,14750.0,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-15 12:38:54.606735
+2026041504014740,MHNL,48,35,10,291.2,2912.0,Trishakti Securities Public Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:39:08.486650
+2026041504014756,MHNL,45,54,10,292.0,2920.0,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 12:39:23.323145
+2026041504014800,MHNL,62,17,100,294.9,29490.0,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-15 12:39:47.716296
+2026041504014801,MHNL,62,57,100,295.0,29500.0,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-15 12:39:47.716494
+2026041504014802,MHNL,62,6,200,295.0,59000.0,Capital Max Securities Ltd,Agrawal Securities (PVT) Ltd.,2026-04-15 12:39:47.716611
+2026041504014803,MHNL,62,49,150,295.0,44250.0,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,2026-04-15 12:39:47.716723
+2026041504014804,MHNL,62,36,30,295.9,8877.0,Capital Max Securities Ltd,Secured Securities Ltd.,2026-04-15 12:39:47.716848
+2026041504014805,MHNL,62,45,100,296.8,29680.0,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:39:47.716972
+2026041504014806,MHNL,62,58,200,296.8,59360.0,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,2026-04-15 12:39:47.717085
+2026041504014807,MHNL,62,17,100,297.5,29750.0,Capital Max Securities Ltd,ABC Securities Private Limited,2026-04-15 12:39:47.717195
+2026041504014808,MHNL,62,40,20,297.7,5954.0,Capital Max Securities Ltd,Creative Securities Pvt Ltd,2026-04-15 12:39:47.717301
+2026041504014833,MHNL,62,45,500,294.0,147000.0,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:40:05.946215
+2026041504014852,MHNL,62,40,280,297.7,83356.0,Capital Max Securities Ltd,Creative Securities Pvt Ltd,2026-04-15 12:40:23.598571
+2026041504014853,MHNL,62,45,20,299.0,5980.0,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 12:40:23.598681
+2026041504015207,MHNL,42,18,50,297.0,14850.0,Sani Securities Company Ltd.,Sagarmatha Securities Private Limited,2026-04-15 12:42:40.749273
+2026041504015226,MHNL,80,62,10,296.0,2960.0,Indira securities pvt. ltd,Capital Max Securities Ltd,2026-04-15 12:42:51.366832
+2026041504015289,MHNL,34,90,10,294.0,2940.0,Vision Securities Pvt. Ltd,Sajilo Broker Limited,2026-04-15 12:43:20.393548
+2026041504015290,MHNL,14,90,250,294.0,73500.0,Nepal Stock House (PVT) Ltd.,Sajilo Broker Limited,2026-04-15 12:43:20.393751
+2026041504015302,MHNL,64,90,140,294.0,41160.0,SUN SECURITIES PVT LTD,Sajilo Broker Limited,2026-04-15 12:43:25.310101
+2026041504015347,MHNL,34,51,20,295.9,5918.0,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:43:37.186640
+2026041504015348,MHNL,64,62,60,294.0,17640.0,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-15 12:43:37.846482
+2026041504015400,MHNL,38,62,100,291.4,29140.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836442
+2026041504015401,MHNL,48,62,490,291.2,142688.0,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-15 12:44:20.836538
+2026041504015402,MHNL,28,62,970,290.0,281300.0,Shree Krishna Securities Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836602
+2026041504015403,MHNL,58,62,14,290.0,4060.0,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836675
+2026041504015404,MHNL,41,62,5000,288.0,1440000.0,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836747
+2026041504015405,MHNL,59,62,160,287.1,45936.0,Deevyaa Securities & Stock House Pvt. Ltd,Capital Max Securities Ltd,2026-04-15 12:44:20.836821
+2026041504015406,MHNL,45,62,266,287.1,76368.6,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:44:20.836894
+2026041504015525,MHNL,62,51,30,292.8,8784.0,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:45:23.052746
+2026041504015526,MHNL,62,57,100,295.0,29500.0,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-15 12:45:23.052835
+2026041504015527,MHNL,62,51,10,295.9,2959.0,Capital Max Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-15 12:45:23.052859
+2026041504015543,MHNL,58,51,90,295.9,26631.0,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-15 12:45:35.774325
+2026041504015590,MHNL,39,90,600,295.0,177000.0,Sumeru Securities Pvt. Ltd.,Sajilo Broker Limited,2026-04-15 12:46:02.008783
+2026041504015649,MHNL,45,62,10,287.1,2871.0,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:46:41.047588
+2026041504015675,MHNL,39,62,400,288.0,115200.0,Sumeru Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016369
+2026041504015676,MHNL,45,62,324,287.1,93020.4,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016485
+2026041504015677,MHNL,35,62,78,287.1,22393.8,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016533
+2026041504015678,MHNL,48,62,200,287.1,57420.0,Trishakti Securities Public Limited,Capital Max Securities Ltd,2026-04-15 12:47:04.016577
+2026041504015679,MHNL,57,62,300,287.0,86100.0,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-15 12:47:04.016622
+2026041504015680,MHNL,26,62,680,287.0,195160.0,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016667
+2026041504015681,MHNL,57,62,80,287.0,22960.0,Aryatara Investment & Securities,Capital Max Securities Ltd,2026-04-15 12:47:04.016710
+2026041504015682,MHNL,6,62,500,285.3,142650.0,Agrawal Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016756
+2026041504015683,MHNL,64,62,138,285.3,39371.4,SUN SECURITIES PVT LTD,Capital Max Securities Ltd,2026-04-15 12:47:04.016801
+2026041504015684,MHNL,42,62,1750,285.1,498925.0,Sani Securities Company Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016843
+2026041504015685,MHNL,38,62,310,285.0,88350.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016881
+2026041504015686,MHNL,62,62,100,285.0,28500.0,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-15 12:47:04.016922
+2026041504015687,MHNL,36,62,140,285.0,39900.0,Secured Securities Ltd.,Capital Max Securities Ltd,2026-04-15 12:47:04.016964
+2026041504015726,MHNL,62,42,10,292.9,2929.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-15 12:47:26.975899
+2026041504015727,MHNL,62,42,10,293.9,2939.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-15 12:47:26.975980
+2026041504015728,MHNL,62,42,10,294.9,2949.0,Capital Max Securities Ltd,Sani Securities Company Ltd.,2026-04-15 12:47:26.976008
+2026041504015729,MHNL,62,74,10,295.8,2958.0,Capital Max Securities Ltd,KALASH STOCK MARKET PVT. LTD.,2026-04-15 12:47:26.976029
+2026041504015820,MHNL,28,35,20,295.0,5900.0,Shree Krishna Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 12:48:02.517558
+2026041504015994,MHNL,58,62,50,289.9,14495.0,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:27.928809
+2026041504015995,MHNL,45,62,1500,289.9,434850.0,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:27.928938
+2026041504016048,MHNL,3,62,100,289.9,28990.0,Arun Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:42.902625
+2026041504016098,MHNL,58,62,20,289.9,5798.0,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:48.777100
+2026041504016111,MHNL,58,62,15,289.9,4348.5,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:49:53.149437
+2026041504016209,MHNL,62,62,100,289.9,28990.0,Capital Max Securities Ltd,Capital Max Securities Ltd,2026-04-15 12:50:49.964656
+2026041504016309,MHNL,58,42,8,285.0,2280.0,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:51:51.906549
+2026041504016345,MHNL,16,62,200,289.9,57980.0,Primo Securities (PVT) Ltd.,Capital Max Securities Ltd,2026-04-15 12:52:10.232813
+2026041504016397,MHNL,45,62,15,289.9,4348.5,Imperial Securities Company Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 12:52:27.903041
+2026041504016398,MHNL,45,49,10,289.9,2899.0,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-15 12:52:27.903153
+2026041504016717,MHNL,45,42,10,290.7,2907.0,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 12:54:51.491916
+2026041504016718,MHNL,45,28,400,291.0,116400.0,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-15 12:54:51.491955
+2026041504016921,MHNL,52,42,10,291.0,2910.0,Sundhara Securities Limited,Sani Securities Company Ltd.,2026-04-15 12:56:24.621132
+2026041504017049,MHNL,41,63,150,290.2,43530.0,Linch Stock Market Ltd.,Himalayan Brokerage Company Limited,2026-04-15 12:57:26.100232
+2026041504017241,MHNL,58,63,10,290.0,2900.0,Naasa Securities Co. Ltd.,Himalayan Brokerage Company Limited,2026-04-15 12:59:00.666531
+2026041504017273,MHNL,58,62,50,288.1,14405.0,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 12:59:20.938780
+2026041504017274,MHNL,68,62,68,288.0,19584.0,Elite Stock House Limited,Capital Max Securities Ltd,2026-04-15 12:59:20.938913
+2026041504017275,MHNL,80,62,100,288.0,28800.0,Indira securities pvt. ltd,Capital Max Securities Ltd,2026-04-15 12:59:20.938962
+2026041504017276,MHNL,41,62,500,287.0,143500.0,Linch Stock Market Ltd.,Capital Max Securities Ltd,2026-04-15 12:59:20.939013
+2026041504017426,MHNL,35,62,20,289.9,5798.0,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 13:00:50.469283
+2026041504017714,MHNL,58,62,25,289.9,7247.5,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-15 13:02:43.015564
+2026041504017779,MHNL,53,62,107,289.9,31019.3,Investment Management Nepal Pvt. Ltd.,Capital Max Securities Ltd,2026-04-15 13:03:12.670471
+2026041504017780,MHNL,53,56,50,289.9,14495.0,Investment Management Nepal Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-15 13:03:12.670704
+2026041504017781,MHNL,53,63,240,290.0,69600.0,Investment Management Nepal Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-15 13:03:12.670855
+2026041504017782,MHNL,53,66,103,290.0,29870.0,Investment Management Nepal Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-15 13:03:12.671000
+2026041504018377,MHNL,21,66,46,290.0,13340.0,Midas Stock Broking Company Private Limited,Miyo Securities Pvt Ltd,2026-04-15 13:08:00.114964
+2026041504018475,MHNL,45,66,350,290.0,101500.0,Imperial Securities Company Pvt. Ltd.,Miyo Securities Pvt Ltd,2026-04-15 13:08:32.975271
+2026041504018562,MHNL,53,63,100,290.2,29020.0,Investment Management Nepal Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-15 13:09:26.055017
+2026041504018563,MHNL,53,1,180,290.8,52344.0,Investment Management Nepal Pvt. Ltd.,Kumari Securities Private Limited,2026-04-15 13:09:26.055275
+2026041504018564,MHNL,53,14,10,290.8,2908.0,Investment Management Nepal Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-15 13:09:26.055454
+2026041504018565,MHNL,53,41,10,291.0,2910.0,Investment Management Nepal Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 13:09:26.055614
+2026041504019118,MHNL,5,35,19,290.0,5510.0,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 13:13:05.980460
+2026041504019318,MHNL,5,22,10,290.0,2900.0,Market Securities & Exchange (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-15 13:14:26.221121
+2026041504019343,MHNL,5,48,100,290.0,29000.0,Market Securities & Exchange (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-15 13:14:43.907626
+2026041504019367,MHNL,5,38,300,290.0,87000.0,Market Securities & Exchange (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:14:57.364018
+2026041504019369,MHNL,45,39,180,290.9,52362.0,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-15 13:14:59.059602
+2026041504019370,MHNL,45,11,50,290.9,14545.0,Imperial Securities Company Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-15 13:14:59.059704
+2026041504019371,MHNL,45,59,200,290.9,58180.0,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-15 13:14:59.059764
+2026041504019482,MHNL,5,45,40,290.0,11600.0,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:15:36.839684
+2026041504019768,MHNL,5,35,20,290.0,5800.0,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 13:18:18.099437
+2026041504019902,MHNL,5,45,11,290.0,3190.0,Market Securities & Exchange (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:19:26.813746
+2026041504020048,MHNL,45,45,20,289.0,5780.0,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:20:49.920359
+2026041504020992,MHNL,74,45,95,288.0,27360.0,KALASH STOCK MARKET PVT. LTD.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:29:05.546354
+2026041504020993,MHNL,39,45,405,288.0,116640.0,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:29:05.546473
+2026041504021046,MHNL,39,41,95,288.0,27360.0,Sumeru Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 13:29:36.750818
+2026041504021168,MHNL,34,21,15,287.5,4312.5,Vision Securities Pvt. Ltd,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127707
+2026041504021169,MHNL,47,21,200,287.3,57460.0,Neev Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127808
+2026041504021170,MHNL,39,21,500,287.0,143500.0,Sumeru Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127891
+2026041504021171,MHNL,28,21,1000,287.0,287000.0,Shree Krishna Securities Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.127957
+2026041504021172,MHNL,53,21,785,286.6,224981.0,Investment Management Nepal Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-15 13:31:07.128030
+2026041504021415,MHNL,53,38,40,286.6,11464.0,Investment Management Nepal Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:33:44.400968
+2026041504021533,MHNL,53,16,175,286.6,50155.0,Investment Management Nepal Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-15 13:34:30.579882
+2026041504021980,MHNL,41,38,50,286.1,14305.0,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 13:40:13.705737
+2026041504022209,MHNL,45,6,10,286.6,2866.0,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 13:42:40.492980
+2026041504022337,MHNL,95,51,300,289.0,86700.0,Magnet Securities and Investment Company Private Limited,Oxford Securities Pvt. Ltd.,2026-04-15 13:43:58.669890
+2026041504022338,MHNL,95,21,120,289.0,34680.0,Magnet Securities and Investment Company Private Limited,Midas Stock Broking Company Private Limited,2026-04-15 13:43:58.670018
+2026041504022339,MHNL,95,41,215,289.7,62285.5,Magnet Securities and Investment Company Private Limited,Linch Stock Market Ltd.,2026-04-15 13:43:58.670086
+2026041504022340,MHNL,95,45,365,289.8,105777.0,Magnet Securities and Investment Company Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:43:58.670177
+2026041504023144,MHNL,6,45,100,289.8,28980.0,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 13:50:50.337735
+2026041504023300,MHNL,45,54,500,289.8,144900.0,Imperial Securities Company Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-15 13:51:54.082491
+2026041504024290,MHNL,49,38,50,290.8,14540.0,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:00:49.326292
+2026041504024400,MHNL,38,49,10,290.0,2900.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,2026-04-15 14:02:39.678556
+2026041504024464,MHNL,45,38,150,290.8,43620.0,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:03:48.248705
+2026041504024499,MHNL,38,41,90,290.0,26100.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Linch Stock Market Ltd.,2026-04-15 14:04:22.396088
+2026041504024566,MHNL,19,41,10,290.8,2908.0,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:05:09.702116
+2026041504024567,MHNL,19,26,990,290.9,287991.0,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-15 14:05:09.702274
+2026041504024646,MHNL,19,26,10,290.9,2909.0,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-15 14:06:27.968492
+2026041504024647,MHNL,19,41,50,290.9,14545.0,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:06:27.968757
+2026041504024804,MHNL,19,41,100,291.0,29100.0,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:08:46.700228
+2026041504024811,MHNL,46,41,325,291.0,94575.0,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-15 14:08:49.469661
+2026041504024886,MHNL,19,41,20,291.0,5820.0,Nepal Investment And Securities Trading Private Limited,Linch Stock Market Ltd.,2026-04-15 14:09:53.501052
+2026041504024951,MHNL,38,45,100,290.0,29000.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:10:35.033199
+2026041504025008,MHNL,58,45,10,290.0,2900.0,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:11:21.139124
+2026041504025046,MHNL,58,32,20,290.0,5800.0,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-15 14:11:47.788297
+2026041504025140,MHNL,19,21,8,285.0,2280.0,Nepal Investment And Securities Trading Private Limited,Midas Stock Broking Company Private Limited,2026-04-15 14:12:59.295938
+2026041504025301,MHNL,19,74,2,290.0,580.0,Nepal Investment And Securities Trading Private Limited,KALASH STOCK MARKET PVT. LTD.,2026-04-15 14:14:40.421193
+2026041504025565,MHNL,53,44,100,290.4,29040.0,Investment Management Nepal Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:17:37.449448
+2026041504025774,MHNL,58,42,11,290.0,3190.0,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:18:41.762220
+2026041504027418,MHNL,58,44,10,289.5,2895.0,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:28:25.008164
+2026041504027919,MHNL,45,38,140,286.3,40082.0,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:31:11.077628
+2026041504028178,MHNL,45,34,360,286.3,103068.0,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:32:37.668468
+2026041504028179,MHNL,38,34,640,286.3,183232.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:32:37.668579
+2026041504028416,MHNL,52,65,15,289.0,4335.0,Sundhara Securities Limited,Sharepro Securities Private Limited,2026-04-15 14:34:23.500784
+2026041504028644,MHNL,29,65,485,289.0,140165.0,Trisul Securities & Invt. Ltd.,Sharepro Securities Private Limited,2026-04-15 14:35:55.149741
+2026041504028645,MHNL,29,41,15,289.0,4335.0,Trisul Securities & Invt. Ltd.,Linch Stock Market Ltd.,2026-04-15 14:35:55.149895
+2026041504028657,MHNL,77,6,40,287.1,11484.0,Nabil Stock Dealer Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:36:03.881251
+2026041504028735,MHNL,29,74,19,288.9,5489.1,Trisul Securities & Invt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-15 14:36:35.585154
+2026041504028781,MHNL,29,41,85,289.0,24565.0,Trisul Securities & Invt. Ltd.,Linch Stock Market Ltd.,2026-04-15 14:36:52.641454
+2026041504028809,MHNL,29,34,500,289.4,144700.0,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,2026-04-15 14:37:12.457499
+2026041504028868,MHNL,29,42,150,289.0,43350.0,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:37:36.147621
+2026041504028884,MHNL,29,38,90,289.4,26046.0,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:37:50.465506
+2026041504028970,MHNL,29,17,500,289.0,144500.0,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,2026-04-15 14:38:22.387319
+2026041504028994,MHNL,29,44,490,289.5,141855.0,Trisul Securities & Invt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:38:37.201502
+2026041504029030,MHNL,58,42,40,290.0,11600.0,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:38:51.103074
+2026041504029203,MHNL,29,74,50,289.9,14495.0,Trisul Securities & Invt. Ltd.,KALASH STOCK MARKET PVT. LTD.,2026-04-15 14:40:09.311354
+2026041504029204,MHNL,29,6,37,289.9,10726.3,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:40:09.311511
+2026041504030097,MHNL,44,35,70,287.0,20090.0,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:47:04.052201
+2026041504030219,MHNL,40,80,100,286.5,28650.0,Creative Securities Pvt Ltd,Indira securities pvt. ltd,2026-04-15 14:48:06.957432
+2026041504030220,MHNL,38,80,360,286.3,103068.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Indira securities pvt. ltd,2026-04-15 14:48:06.957547
+2026041504030221,MHNL,41,80,440,286.1,125884.0,Linch Stock Market Ltd.,Indira securities pvt. ltd,2026-04-15 14:48:06.957606
+2026041504030869,MHNL,34,45,4,280.4,1121.6,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:51:30.775733
+2026041504031024,MHNL,48,38,10,288.0,2880.0,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-15 14:52:18.347785
+2026041504031029,MHNL,45,6,200,288.6,57720.0,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:52:21.459585
+2026041504031154,MHNL,1,6,50,288.6,14430.0,Kumari Securities Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-15 14:53:05.248205
+2026041504031221,MHNL,19,6,80,288.6,23088.0,Nepal Investment And Securities Trading Private Limited,Agrawal Securities (PVT) Ltd.,2026-04-15 14:53:32.032433
+2026041504031410,MHNL,48,39,90,288.0,25920.0,Trishakti Securities Public Limited,Sumeru Securities Pvt. Ltd.,2026-04-15 14:54:37.878864
+2026041504031528,MHNL,6,35,100,286.2,28620.0,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145092
+2026041504031529,MHNL,41,35,10,286.1,2861.0,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145262
+2026041504031530,MHNL,57,35,46,286.1,13160.6,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145328
+2026041504031531,MHNL,29,35,300,286.1,85830.0,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145384
+2026041504031532,MHNL,53,35,500,286.1,143050.0,Investment Management Nepal Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145439
+2026041504031533,MHNL,38,35,1000,286.1,286100.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145493
+2026041504031534,MHNL,36,35,330,286.1,94413.0,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:10.145546
+2026041504031575,MHNL,5,35,500,286.0,143000.0,Market Securities & Exchange (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:22.048362
+2026041504031576,MHNL,11,35,10,286.0,2860.0,Malla & Malla Stock Broking Company Pvt. Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:22.048640
+2026041504031577,MHNL,58,35,20,286.0,5720.0,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-15 14:55:22.048822
+2026041504032328,MHNL,43,42,150,286.1,42915.0,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-15 14:57:41.678207
+2026041504032329,MHNL,14,42,1114,286.0,318604.0,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-15 14:57:41.678365
+2026041504032473,MHNL,42,6,170,287.0,48790.0,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:57:59.641629
+2026041504032474,MHNL,14,6,419,287.0,120253.0,Nepal Stock House (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-15 14:57:59.641764
+2026041504032645,MHNL,14,44,41,287.0,11767.0,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:58:34.282680
+2026041504032706,MHNL,80,44,70,287.0,20090.0,Indira securities pvt. ltd,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:58:42.703773
+2026041504032782,MHNL,45,44,100,287.0,28700.0,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:58:49.675940
+2026041504033126,MHNL,45,44,100,287.0,28700.0,Imperial Securities Company Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:59:28.443646
+2026041504033228,MHNL,17,45,300,286.1,85830.0,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:59:37.971179
+2026041504033229,MHNL,14,45,386,286.0,110396.0,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:59:37.971305
+2026041504033230,MHNL,48,45,114,285.3,32524.2,Trishakti Securities Public Limited,Imperial Securities Company Pvt. Ltd.,2026-04-15 14:59:37.971367
+2026041504033345,MHNL,48,18,140,285.3,39942.0,Trishakti Securities Public Limited,Sagarmatha Securities Private Limited,2026-04-15 14:59:47.541362
+2026041504033430,MHNL,58,44,10,287.0,2870.0,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-15 14:59:54.132261

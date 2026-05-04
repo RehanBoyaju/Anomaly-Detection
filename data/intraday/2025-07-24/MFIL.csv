@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,150248,2025072403000748,MFIL,Neev Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,10,681.2,6812.0,2025-07-24 11:08:06.635981
 2025-07-24,145732,2025072403001760,MFIL,Agrawal Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,50,682.2,34110.0,2025-07-24 11:15:33.443749
 2025-07-24,145731,2025072403001761,MFIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,50,682.1,34105.0,2025-07-24 11:15:33.443836

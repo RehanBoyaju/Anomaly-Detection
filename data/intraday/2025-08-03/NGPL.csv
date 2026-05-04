@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152028,2025080304000043,NGPL,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,61,430.0,26230.0,2025-08-03T11:00:59.639464
 2025-08-03,151624,2025080304000074,NGPL,Cristal Kanchanjanga Securites Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,400,430.1,172040.0,2025-08-03T11:01:42.787184
 2025-08-03,151423,2025080304000088,NGPL,Cristal Kanchanjanga Securites Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,100,430.1,43010.0,2025-08-03T11:02:05.205308

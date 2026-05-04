@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BHL,43,22,250,218.0,54500.0,2026-04-28 14:59:58.665,2026042805016532
 BHL,41,25,50,217.5,10875.0,2026-04-28 14:59:58.602,2026042805016531
 BHL,74,22,545,218.0,118810.0,2026-04-28 14:59:39.282,2026042805016319

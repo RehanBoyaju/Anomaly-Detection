@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108679,2025092101000073,NICA,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,60,310.5,18630.0,2025-09-21 10:46:00.028947
 2025-09-21,108678,2025092101000074,NICA,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,100,310.5,31050.0,2025-09-21 10:46:00.028989
 2025-09-21,108677,2025092101000075,NICA,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,140,310.5,43470.0,2025-09-21 10:46:00.029019

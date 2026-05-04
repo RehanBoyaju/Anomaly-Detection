@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71226,2025070701000010,GBIME,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,10,242.75,2427.5,2025-07-07 10:46:00.051750
 2025-07-07,70423,2025070701000177,GBIME,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,50,240.3,12015.0,2025-07-07 11:04:37.959749
 2025-07-07,69835,2025070701000285,GBIME,APPLE SECURITIES PRIVATE LIMITED,Sharepro Securities Private Limited,1000,240.4,240400.0,2025-07-07 11:07:21.595646

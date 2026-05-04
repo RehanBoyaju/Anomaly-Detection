@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68876,2025090403000015,KSBBL,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,10,527.5,5275.0,2025-09-04T11:01:16.549533
 2025-09-04,67975,2025090403000085,KSBBL,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,500,535.0,267500.0,2025-09-04T11:06:32.879313
 2025-09-04,67236,2025090403000145,KSBBL,Deevyaa Securities & Stock House Pvt. Ltd,Siprabi Securities Pvt. Ltd.,250,535.0,133750.0,2025-09-04T11:09:47.135602

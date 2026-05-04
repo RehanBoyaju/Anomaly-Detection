@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72488,2025071401000047,NABIL,Asian Securities Private Ltd.,J.F. Securites (PVT) Ltd.,100,538.0,53800.0,2025-07-14 11:00:23.779219
 2025-07-14,72482,2025071401000050,NABIL,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,20,536.0,10720.0,2025-07-14 11:00:26.023436
 2025-07-14,72481,2025071401000051,NABIL,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,300,535.0,160500.0,2025-07-14 11:00:26.023537

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,95322,2025083101001573,CZBIL,Secured Securities Ltd.,Online Securities Pvt. Ltd.,60,206.2,12372.0,2025-08-31T11:02:17.904915
 2025-08-31,90968,2025083101004886,CZBIL,Naasa Securities Co. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,10,210.3,2103.0,2025-08-31T11:09:30.143724
 2025-08-31,85310,2025083101009076,CZBIL,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,500,210.0,105000.0,2025-08-31T11:19:15.283733

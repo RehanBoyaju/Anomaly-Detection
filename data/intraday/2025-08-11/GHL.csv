@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,96446,2025081104000381,GHL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,200,253.7,50740.0,2025-08-11 11:06:06.757959
 2025-08-11,96209,2025081104000425,GHL,Primo Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,500,252.0,126000.0,2025-08-11 11:06:41.641366
 2025-08-11,95401,2025081104000590,GHL,Trishakti Securities Public Limited,Secured Securities Ltd.,1000,251.0,251000.0,2025-08-11 11:08:33.120244

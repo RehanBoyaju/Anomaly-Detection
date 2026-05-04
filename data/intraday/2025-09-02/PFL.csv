@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,84608,2025090203000084,PFL,Blue Chip Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,408.0,4080.0,2025-09-02 11:07:26.619664
 2025-09-02,82175,2025090203000167,PFL,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,10,400.1,4001.0,2025-09-02 11:11:53.401848
 2025-09-02,74051,2025090203000445,PFL,Linch Stock Market Ltd.,Imperial Securities Company Pvt. Ltd.,20,402.5,8050.0,2025-09-02 11:29:38.850185

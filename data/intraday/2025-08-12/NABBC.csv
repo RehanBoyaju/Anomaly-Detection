@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78224,2025081203000001,NABBC,N.M.B. SECURITIES LIMITED,Sri Hari Securities Pvt. Ltd.,10,1615.8,16158.0,2025-08-12 10:46:00.006978
 2025-08-12,76586,2025081203000150,NABBC,Shree Krishna Securities Ltd.,Midas Stock Broking Company Private Limited,10,1648.0,16480.0,2025-08-12 11:06:43.364228
 2025-08-12,76585,2025081203000151,NABBC,Shree Krishna Securities Ltd.,ABC Securities Private Limited,10,1648.1,16481.0,2025-08-12 11:06:43.364326

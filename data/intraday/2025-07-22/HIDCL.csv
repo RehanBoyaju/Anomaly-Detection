@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,175713,2025072205000178,HIDCL,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,100,312.0,31200.0,2025-07-22 11:03:25.425365
 2025-07-22,175679,2025072205000187,HIDCL,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,65,312.0,20280.0,2025-07-22 11:03:30.091192
 2025-07-22,174995,2025072205000297,HIDCL,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,35,312.0,10920.0,2025-07-22 11:04:56.906053

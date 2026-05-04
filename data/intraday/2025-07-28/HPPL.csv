@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,163445,2025072804002196,HPPL,J.F. Securites (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,20,533.0,10660.0,2025-07-28T11:13:08.777637
 2025-07-28,162751,2025072804002377,HPPL,J.F. Securites (PVT) Ltd.,ABC Securities Private Limited,10,532.0,5320.0,2025-07-28T11:13:55.750284
 2025-07-28,161675,2025072804002651,HPPL,Kohinoor Investment & Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,480,533.0,255840.0,2025-07-28T11:14:57.777153

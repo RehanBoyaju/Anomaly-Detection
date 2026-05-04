@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39846,2025092804000005,PMHPL,KALASH STOCK MARKET PVT. LTD.,Himalayan Brokerage Company Limited,40,342.7,13708.0,2025-09-28 10:46:00.035616
 2025-09-28,39798,2025092804000020,PMHPL,KALASH STOCK MARKET PVT. LTD.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,349.0,3490.0,2025-09-28 11:00:49.853783
 2025-09-28,39303,2025092804000097,PMHPL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,450,342.1,153945.0,2025-09-28 11:03:40.561666

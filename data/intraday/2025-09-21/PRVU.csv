@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108470,2025092101000125,PRVU,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,188.0,18800.0,2025-09-21 10:46:00.054263
 2025-09-21,108468,2025092101000126,PRVU,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,700,188.0,131600.0,2025-09-21 10:46:00.054349
 2025-09-21,108466,2025092101000127,PRVU,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,150,188.0,28200.0,2025-09-21 10:46:00.054383

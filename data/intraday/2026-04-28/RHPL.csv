@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RHPL,38,58,100,280.0,28000.0,2026-04-28 14:59:05.347,2026042804014550
 RHPL,21,58,100,280.0,28000.0,2026-04-28 14:59:05.347,2026042804014549
 RHPL,41,58,130,280.0,36400.0,2026-04-28 14:59:05.347,2026042804014548

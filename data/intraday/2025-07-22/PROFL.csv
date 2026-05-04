@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,174773,2025072203001076,PROFL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,150,554.9,83235.0,2025-07-22 11:05:18.418009
 2025-07-22,174772,2025072203001077,PROFL,Vision Securities Pvt. Ltd,Secured Securities Ltd.,200,555.0,111000.0,2025-07-22 11:05:18.418071
 2025-07-22,174771,2025072203001078,PROFL,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,10,555.0,5550.0,2025-07-22 11:05:18.418101

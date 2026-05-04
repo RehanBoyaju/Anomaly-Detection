@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177042,2025072204000027,LEC,Nepal Stock House (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,10,214.2,2142.0,2025-07-22 10:46:00.066388
 2025-07-22,176599,2025072204000120,LEC,Aryatara Investment & Securities,K.B.L. Securities Limited ,10,218.4,2184.0,2025-07-22 11:01:37.735692
 2025-07-22,175618,2025072204000359,LEC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,10,221.0,2210.0,2025-07-22 11:03:36.486289

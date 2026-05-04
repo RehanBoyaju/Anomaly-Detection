@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KDBY,42,49,100,11.54,1154.0,2026-04-28 14:59:54.443,2026042805016442
 KDBY,49,5,2283,11.36,25934.88,2026-04-28 14:59:33.684,2026042805016270
 KDBY,19,5,6000,11.37,68220.0,2026-04-28 14:59:27.673,2026042805016222

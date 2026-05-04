@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140591,2025071703000159,LICN,Hatemalo Financial Services Private Limited,Nepal Stock House (PVT) Ltd.,10,901.0,9010.0,2025-07-17 11:02:42.856077
 2025-07-17,139578,2025071703000366,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,100,899.0,89900.0,2025-07-17 11:05:08.237894
 2025-07-17,139577,2025071703000367,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Creative Securities Pvt Ltd,300,900.0,270000.0,2025-07-17 11:05:08.237962

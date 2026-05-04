@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SPHL,42,74,10,523.0,5230.0,2026-04-28 14:59:45.612,2026042805016380
 SPHL,42,11,130,520.0,67600.0,2026-04-28 14:59:45.612,2026042805016379
 SPHL,14,41,10,515.6,5156.0,2026-04-28 14:35:53.059,2026042805012707

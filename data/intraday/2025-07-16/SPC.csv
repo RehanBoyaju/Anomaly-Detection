@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99331,2025071601000071,SPC,Primo Securities (PVT) Ltd.,Himalayan Brokerage Company Limited,200,522.0,104400.0,2025-07-16 11:00:44.121810
 2025-07-16,99282,2025071601000098,SPC,Elite Stock House Limited,Dakshinkali Investment & Securities Pvt. Ltd.,21,523.0,10983.0,2025-07-16 11:00:53.376318
 2025-07-16,99022,2025071601000224,SPC,Elite Stock House Limited,Online Securities Pvt. Ltd.,191,523.6,100007.6,2025-07-16 11:02:22.686109

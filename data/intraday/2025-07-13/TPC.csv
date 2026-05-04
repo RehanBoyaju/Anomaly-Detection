@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104751,2025071301000165,TPC,Thrive Brokerage House Pvt. Ltd,Miyo Securities Pvt Ltd,10,404.3,4043.0,2025-07-13T10:46:00.203859
 2025-07-13,103905,2025071301000552,TPC,Aryatara Investment & Securities,Miyo Securities Pvt Ltd,300,404.3,121290.0,2025-07-13T11:01:04.958405
 2025-07-13,103894,2025071301000555,TPC,Linch Stock Market Ltd.,Miyo Securities Pvt Ltd,100,404.3,40430.0,2025-07-13T11:01:05.386678

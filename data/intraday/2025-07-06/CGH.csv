@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87328,2025070604000019,CGH,Sani Securities Company Ltd.,Sanima Securities Limited,10,968.1,9681.0,2025-07-06 10:46:00.063101
 2025-07-06,87229,2025070604000036,CGH,Neev Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,942.0,9420.0,2025-07-06 11:00:41.295269
 2025-07-06,86677,2025070604000178,CGH,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,10,960.8,9608.0,2025-07-06 11:03:08.959821

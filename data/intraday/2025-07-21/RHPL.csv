@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,135912,2025072104001240,RHPL,Trisul Securities & Invt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,349.1,3491.0,2025-07-21 11:05:39.718077
 2025-07-21,135911,2025072104001241,RHPL,ABC Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,490,349.0,171010.0,2025-07-21 11:05:39.718186
 2025-07-21,134107,2025072104001872,RHPL,ABC Securities Private Limited,J.F. Securites (PVT) Ltd.,10,349.0,3490.0,2025-07-21 11:08:13.823815

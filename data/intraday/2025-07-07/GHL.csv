@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71127,2025070704000036,GHL,Kumari Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,251.1,2511.0,2025-07-07 11:00:42.078604
 2025-07-07,70383,2025070704000224,GHL,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,251.0,5020.0,2025-07-07 11:04:54.649739
 2025-07-07,70146,2025070704000279,GHL,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,50,250.0,12500.0,2025-07-07 11:06:04.775783

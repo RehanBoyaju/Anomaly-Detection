@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,94980,2025083105000242,CIT,Capital Max Securities Ltd,Nepal Investment And Securities Trading Private Limited,10,1920.2,19202.0,2025-08-31T11:02:58.338449
 2025-08-31,89676,2025083105001073,CIT,Miyo Securities Pvt Ltd,Kumari Securities Private Limited,50,1925.0,96250.0,2025-08-31T11:11:51.330304
 2025-08-31,89575,2025083105001082,CIT,Secured Securities Ltd.,Kumari Securities Private Limited,50,1925.0,96250.0,2025-08-31T11:12:05.170766

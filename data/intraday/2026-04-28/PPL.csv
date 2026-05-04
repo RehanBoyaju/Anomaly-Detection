@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PPL,34,34,10,356.0,3560.0,2026-04-28 14:59:59.429,2026042805016545
 PPL,34,34,27,356.0,9612.0,2026-04-28 14:59:55.806,2026042805016456
 PPL,34,34,100,355.0,35500.0,2026-04-28 14:59:55.806,2026042805016455

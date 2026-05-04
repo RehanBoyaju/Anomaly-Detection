@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,85812,2025083105001586,TPC,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,360.9,3609.0,2025-08-31T11:18:11.793934
 2025-08-31,80319,2025083105002630,TPC,Pragyan Securities (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,358.9,3589.0,2025-08-31T11:28:23.029216
 2025-08-31,78777,2025083105002954,TPC,Secured Securities Ltd.,Premier Securities Company Ltd.,200,357.5,71500.0,2025-08-31T11:31:43.862001

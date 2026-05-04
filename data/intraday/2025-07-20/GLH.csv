@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176868,2025072004000431,GLH,Bhrikuti Stock Broking Co. Pvt. Ltd.,J.F. Securites (PVT) Ltd.,200,285.0,57000.0,2025-07-20T11:02:16.905743
 2025-07-20,176481,2025072004000593,GLH,Asian Securities Private Ltd.,J.F. Securites (PVT) Ltd.,100,285.0,28500.0,2025-07-20T11:02:49.655407
 2025-07-20,176473,2025072004000595,GLH,Online Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,30,285.0,8550.0,2025-07-20T11:02:50.574035

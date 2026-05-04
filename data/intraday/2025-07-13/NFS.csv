@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105317,2025071303000029,NFS,Online Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,10,748.7,7487.0,2025-07-13T10:46:00.028034
 2025-07-13,105316,2025071303000030,NFS,Capital Max Securities Ltd,Linch Stock Market Ltd.,100,748.7,74870.0,2025-07-13T10:46:00.028072
 2025-07-13,104315,2025071303000300,NFS,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,763.0,38150.0,2025-07-13T11:00:42.740229

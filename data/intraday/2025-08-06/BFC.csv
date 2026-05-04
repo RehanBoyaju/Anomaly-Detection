@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,90712,2025080603000351,BFC,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,50,519.0,25950.0,2025-08-06 11:07:15.495250
 2025-08-06,89122,2025080603000530,BFC,Blue Chip Securities Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,527.0,5270.0,2025-08-06 11:11:08.396215
 2025-08-06,88512,2025080603000607,BFC,Sumeru Securities Pvt. Ltd.,Kumari Securities Private Limited,70,519.0,36330.0,2025-08-06 11:12:22.513466

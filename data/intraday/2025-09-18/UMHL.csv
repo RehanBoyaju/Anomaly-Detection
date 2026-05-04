@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7180,2025091804000051,UMHL,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,55,565.0,31075.0,2025-09-18 10:46:00.077243
 2025-09-18,7179,2025091804000052,UMHL,SHUBHAKAMANA SECURITIES PVT. LTD,Premier Securities Company Ltd.,400,565.0,226000.0,2025-09-18 10:46:00.077328
 2025-09-18,7178,2025091804000053,UMHL,SHUBHAKAMANA SECURITIES PVT. LTD,Siprabi Securities Pvt. Ltd.,745,565.0,420925.0,2025-09-18 10:46:00.077362

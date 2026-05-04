@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78373,2025082804000001,BPCL,Agrawal Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,835.1,8351.0,2025-08-28 10:46:00.009671
 2025-08-28,78297,2025082804000024,BPCL,Agrawal Securities (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,850.0,8500.0,2025-08-28 11:00:14.077500
 2025-08-28,78235,2025082804000047,BPCL,INDEX SECURITIES LIMITED,SHUBHAKAMANA SECURITIES PVT. LTD,490,857.0,419930.0,2025-08-28 11:00:49.071495

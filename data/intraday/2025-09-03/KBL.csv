@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68380,2025090301000100,KBL,Kohinoor Investment & Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,11,199.0,2189.0,2025-09-03 11:01:18.092163
 2025-09-03,68245,2025090301000208,KBL,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,196,198.9,38984.4,2025-09-03 11:01:50.933541
 2025-09-03,68201,2025090301000238,KBL,Aryatara Investment & Securities,Dakshinkali Investment & Securities Pvt. Ltd.,54,198.9,10740.6,2025-09-03 11:02:07.927736

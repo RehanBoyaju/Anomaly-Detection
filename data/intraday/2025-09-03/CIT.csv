@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,59290,2025090305001770,CIT,Neev Securities Pvt. Ltd.,Linch Stock Market Ltd.,3,1878.0,5634.0,2025-09-03 11:36:46.666967
 2025-09-03,59061,2025090305001848,CIT,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,11,1920.0,21120.0,2025-09-03 11:37:43.677810
 2025-09-03,58843,2025090305001901,CIT,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,33,1920.0,63360.0,2025-09-03 11:38:35.137670

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78209,2025081204000007,SHPC,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,10,591.2,5912.0,2025-08-12 10:46:00.023559
 2025-08-12,77342,2025081204000123,SHPC,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,300,581.0,174300.0,2025-08-12 11:03:41.199308
 2025-08-12,77341,2025081204000124,SHPC,Secured Securities Ltd.,Siprabi Securities Pvt. Ltd.,62,580.2,35972.4,2025-08-12 11:03:41.199397

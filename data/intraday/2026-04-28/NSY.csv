@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NSY,52,34,100,9.31,931.0,2026-04-28 14:58:35.853,2026042801108981
 NSY,41,34,1000,9.31,9310.0,2026-04-28 14:58:35.853,2026042801108980
 NSY,41,34,800,9.32,7456.0,2026-04-28 14:58:35.853,2026042801108979

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SRLI,16,42,10,394.0,3940.0,2026-04-28 14:59:59.036,2026042801111025
 SRLI,44,82,64,392.3,25107.2,2026-04-28 14:59:57.016,2026042801110897
 SRLI,49,82,26,393.0,10218.0,2026-04-28 14:59:57.016,2026042801110896

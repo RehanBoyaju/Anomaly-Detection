@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67057,2025081803000088,KSBBL,Aakashbhairab Securities Ltd.,Imperial Securities Company Pvt. Ltd.,223,518.0,115514.0,2025-08-18T11:06:24.936365
 2025-08-18,66439,2025081803000137,KSBBL,Nagarik Stock Dealer ,Linch Stock Market Ltd.,10,525.9,5259.0,2025-08-18T11:09:03.400867
 2025-08-18,64462,2025081803000374,KSBBL,Aakashbhairab Securities Ltd.,Neev Securities Pvt. Ltd.,1500,521.0,781500.0,2025-08-18T11:19:03.450224

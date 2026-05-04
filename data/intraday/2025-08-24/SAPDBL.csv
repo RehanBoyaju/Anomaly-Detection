@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57962,2025082403000010,SAPDBL,Naasa Securities Co. Ltd.,Hatemalo Financial Services Private Limited,10,840.1,8401.0,2025-08-24 11:00:30.175157
 2025-08-24,57821,2025082403000022,SAPDBL,Nagarik Stock Dealer ,Thrive Brokerage House Pvt. Ltd,190,856.9,162811.0,2025-08-24 11:02:20.128981
 2025-08-24,57739,2025082403000031,SAPDBL,Nagarik Stock Dealer ,Vision Securities Pvt. Ltd,40,856.0,34240.0,2025-08-24 11:02:56.215459

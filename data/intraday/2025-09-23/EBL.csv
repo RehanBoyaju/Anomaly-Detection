@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,65816,2025092301000249,EBL,Sweta Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,60,705.0,42300.0,2025-09-23 11:05:34.425189
 2025-09-23,65188,2025092301000362,EBL,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,10,704.0,7040.0,2025-09-23 11:07:23.959001
 2025-09-23,65187,2025092301000363,EBL,Secured Securities Ltd.,Linch Stock Market Ltd.,100,702.0,70200.0,2025-09-23 11:07:23.959072

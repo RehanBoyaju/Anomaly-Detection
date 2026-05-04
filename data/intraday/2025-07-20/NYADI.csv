@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,173594,2025072001001024,NYADI,Online Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,10,472.0,4720.0,2025-07-20T11:06:15.930702
 2025-07-20,172273,2025072001001396,NYADI,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,10,472.0,4720.0,2025-07-20T11:07:38.504887
 2025-07-20,172040,2025072001001441,NYADI,Linch Stock Market Ltd.,Linch Stock Market Ltd.,10,472.0,4720.0,2025-07-20T11:07:51.578048

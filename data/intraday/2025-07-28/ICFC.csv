@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170025,2025072803000115,ICFC,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,500,687.0,343500.0,2025-07-28T11:02:22.13237
 2025-07-28,169499,2025072803000230,ICFC,Sumeru Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,100,687.0,68700.0,2025-07-28T11:03:38.447103
 2025-07-28,169494,2025072803000233,ICFC,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,200,687.0,137400.0,2025-07-28T11:03:39.63949

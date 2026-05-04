@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39671,2025092804000031,MEN,ABC Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,50,638.0,31900.0,2025-09-28 11:01:24.432576
 2025-09-28,38192,2025092804000297,MEN,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,14,626.0,8764.0,2025-09-28 11:09:29.230949
 2025-09-28,38055,2025092804000331,MEN,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,56,636.8,35660.8,2025-09-28 11:10:09.629236

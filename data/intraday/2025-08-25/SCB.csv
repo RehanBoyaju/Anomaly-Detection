@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55359,2025082501000287,SCB,Aryatara Investment & Securities,ABC Securities Private Limited,21,620.2,13024.2,2025-08-25 11:08:30.154189
 2025-08-25,54283,2025082501000518,SCB,Aryatara Investment & Securities,Ashutosh Brokerage & Securities (PVT) Ltd.,47,620.3,29154.1,2025-08-25 11:13:53.071099
 2025-08-25,53763,2025082501000620,SCB,Thrive Brokerage House Pvt. Ltd,Opal Securities Investment (PVT) Ltd.,20,625.0,12500.0,2025-08-25 11:16:47.934647

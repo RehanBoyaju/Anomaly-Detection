@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140682,2025073003000170,ICFC,Blue Chip Securities Ltd,Oxford Securities Pvt. Ltd.,10,725.0,7250.0,2025-07-30 11:02:36.414634
 2025-07-30,138291,2025073003000666,ICFC,Kohinoor Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,300,718.0,215400.0,2025-07-30 11:07:41.425363
 2025-07-30,138290,2025073003000667,ICFC,Kohinoor Investment & Securities Pvt. Ltd.,Sweta Securities Private Limited,100,719.9,71990.0,2025-07-30 11:07:41.425543

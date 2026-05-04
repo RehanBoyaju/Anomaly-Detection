@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,137862,2025071704001269,DHPL,Sundhara Securities Limited,Sani Securities Company Ltd.,130,325.0,42250.0,2025-07-17 11:08:31.447940
 2025-07-17,137183,2025071704001537,DHPL,South Asian Bulls Pvt. Ltd.,Sani Securities Company Ltd.,200,325.0,65000.0,2025-07-17 11:09:53.172096
 2025-07-17,137047,2025071704001597,DHPL,Naasa Securities Co. Ltd.,Secured Securities Ltd.,25,324.0,8100.0,2025-07-17 11:10:06.109012

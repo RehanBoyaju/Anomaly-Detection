@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47523,2025092404000104,API,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,10,294.0,2940.0,2025-09-24 11:01:44.569041
 2025-09-24,47114,2025092404000231,API,Cristal Kanchanjanga Securites Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,290.0,29000.0,2025-09-24 11:04:19.624236
 2025-09-24,47019,2025092404000259,API,Aryatara Investment & Securities,Trishakti Securities Public Limited,30,292.9,8787.0,2025-09-24 11:05:05.595335

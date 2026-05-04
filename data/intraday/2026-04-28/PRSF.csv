@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PRSF,38,47,100,12.98,1298.0,2026-04-28 14:59:57.792,2026042801110919
 PRSF,83,34,300,13.2,3960.0,2026-04-28 14:50:38.637,2026042801103325
 PRSF,83,76,700,13.19,9233.0,2026-04-28 14:50:38.637,2026042801103324

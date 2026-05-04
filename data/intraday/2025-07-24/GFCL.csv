@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154354,2025072403000039,GFCL,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,19,738.0,14022.0,2025-07-24 11:00:41.709808
 2025-07-24,152773,2025072403000272,GFCL,Sundhara Securities Limited,Asian Securities Private Ltd.,10,750.0,7500.0,2025-07-24 11:03:50.881559
 2025-07-24,152502,2025072403000304,GFCL,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,85,740.0,62900.0,2025-07-24 11:04:21.773258

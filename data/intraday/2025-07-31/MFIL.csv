@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167842,2025073103000174,MFIL,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,100,714.0,71400.0,2025-07-31 11:01:59.650231
 2025-07-31,167520,2025073103000254,MFIL,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,100,714.0,71400.0,2025-07-31 11:02:44.176734
 2025-07-31,166008,2025073103000645,MFIL,Sani Securities Company Ltd.,Sanima Securities Limited,110,703.0,77330.0,2025-07-31 11:05:33.060921

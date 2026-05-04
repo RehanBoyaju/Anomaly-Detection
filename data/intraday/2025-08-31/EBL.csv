@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,91786,2025083101004295,EBL,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,1000,746.1,746100.0,2025-08-31T11:08:06.258006
 2025-08-31,91785,2025083101004296,EBL,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,746.0,7460.0,2025-08-31T11:08:06.258084
 2025-08-31,90643,2025083101005132,EBL,Primo Securities (PVT) Ltd.,Kumari Securities Private Limited,50,745.6,37280.0,2025-08-31T11:10:01.751936

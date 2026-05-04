@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NESDO,50,46,10,1558.0,15580.0,2026-04-28 14:59:58.791,2026042804015041
 NESDO,45,48,45,1536.0,69120.0,2026-04-28 14:59:48.759,2026042804014935
 NESDO,63,48,15,1536.1,23041.5,2026-04-28 14:59:48.759,2026042804014934

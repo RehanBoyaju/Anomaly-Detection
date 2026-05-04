@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,55125,2025082504000127,TRH,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,10,960.0,9600.0,2025-08-25 11:09:27.772960
 2025-08-25,53113,2025082504000441,TRH,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,20,960.0,19200.0,2025-08-25 11:19:49.271309
 2025-08-25,52566,2025082504000531,TRH,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,180,960.0,172800.0,2025-08-25 11:22:19.137005

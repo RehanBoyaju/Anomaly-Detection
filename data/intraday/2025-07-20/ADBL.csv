@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176803,2025072001000317,ADBL,Kumari Securities Private Limited,Secured Securities Ltd.,240,334.9,80376.0,2025-07-20T11:02:22.610002
 2025-07-20,176802,2025072001000318,ADBL,Kumari Securities Private Limited,Capital Max Securities Ltd,175,335.0,58625.0,2025-07-20T11:02:22.61008
 2025-07-20,176801,2025072001000319,ADBL,Kumari Securities Private Limited,ABC Securities Private Limited,51,335.0,17085.0,2025-07-20T11:02:22.610119

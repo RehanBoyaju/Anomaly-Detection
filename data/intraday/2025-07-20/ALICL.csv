@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,175988,2025072003000547,ALICL,Sani Securities Company Ltd.,Sweta Securities Private Limited,10,519.8,5198.0,2025-07-20T11:03:25.821779
 2025-07-20,173827,2025072003001015,ALICL,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,50,519.0,25950.0,2025-07-20T11:06:04.45736
 2025-07-20,173826,2025072003001016,ALICL,Sani Securities Company Ltd.,Trishakti Securities Public Limited,80,519.0,41520.0,2025-07-20T11:06:04.457509

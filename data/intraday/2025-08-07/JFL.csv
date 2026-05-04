@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,91165,2025080703000732,JFL,Sri Hari Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,50,505.0,25250.0,2025-08-07 11:15:14.897701
 2025-08-07,90776,2025080703000792,JFL,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,10,504.0,5040.0,2025-08-07 11:16:36.828347
 2025-08-07,90077,2025080703000951,JFL,Citizens Share Broker Limited,Kalika Securities Pvt. Ltd.,200,501.0,100200.0,2025-08-07 11:18:45.825264

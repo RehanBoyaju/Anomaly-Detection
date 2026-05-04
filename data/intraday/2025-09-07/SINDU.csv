@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57603,2025090703000043,SINDU,Sri Hari Securities Pvt. Ltd.,Kumari Securities Private Limited,10,709.0,7090.0,2025-09-07 11:04:09.780533
 2025-09-07,57602,2025090703000044,SINDU,Sri Hari Securities Pvt. Ltd.,Premier Securities Company Ltd.,18,709.0,12762.0,2025-09-07 11:04:09.780658
 2025-09-07,57336,2025090703000058,SINDU,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,20,709.0,14180.0,2025-09-07 11:05:42.922601

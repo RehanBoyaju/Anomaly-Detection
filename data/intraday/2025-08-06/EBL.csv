@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92260,2025080601000363,EBL,Primo Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,70,703.8,49266.0,2025-08-06 11:03:04.455620
 2025-08-06,90112,2025080601000994,EBL,Beni Securities Pvt.Ltd.,Asian Securities Private Ltd.,10,713.9,7139.0,2025-08-06 11:09:00.035350
 2025-08-06,85232,2025080601002650,EBL,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,446,712.0,317552.0,2025-08-06 11:20:43.961425

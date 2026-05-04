@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95426,2025080701000205,EBL,Nepal Stock House (PVT) Ltd.,Sweta Securities Private Limited,20,701.0,14020.0,2025-08-07 11:01:07.628176
 2025-08-07,95072,2025080701000345,EBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,100,709.0,70900.0,2025-08-07 11:02:36.303300
 2025-08-07,94577,2025080701000552,EBL,Sumeru Securities Pvt. Ltd.,Sani Securities Company Ltd.,5,700.0,3500.0,2025-08-07 11:04:15.058504

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157403,2025072903000014,GFCL,Trishakti Securities Public Limited,Sweta Securities Private Limited,10,740.9,7409.0,2025-07-29 11:00:20.447844
 2025-07-29,157019,2025072903000071,GFCL,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,10,728.0,7280.0,2025-07-29 11:01:37.576913
 2025-07-29,156838,2025072903000102,GFCL,Dynamic Money Managers Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,30,740.0,22200.0,2025-07-29 11:02:02.429094

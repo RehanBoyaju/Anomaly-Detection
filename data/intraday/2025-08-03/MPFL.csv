@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152461,2025080303000027,MPFL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,645.1,6451.0,2025-08-03T10:46:00.051593
 2025-08-03,147626,2025080303000648,MPFL,Vision Securities Pvt. Ltd,Malla & Malla Stock Broking Company Pvt. Limited,10,658.0,6580.0,2025-08-03T11:07:55.771004
 2025-08-03,144146,2025080303001115,MPFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,670.0,6700.0,2025-08-03T11:12:21.325908

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,92237,2025083101003930,GBIME,Siprabi Securities Pvt. Ltd.,Aryatara Investment & Securities,28,250.0,7000.0,2025-08-31T11:07:28.191907
 2025-08-31,92236,2025083101003931,GBIME,Thrive Brokerage House Pvt. Ltd,Aryatara Investment & Securities,127,250.0,31750.0,2025-08-31T11:07:28.191986
 2025-08-31,91743,2025083101004328,GBIME,Thrive Brokerage House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,30,250.0,7500.0,2025-08-31T11:08:11.263524

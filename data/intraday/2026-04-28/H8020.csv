@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 H8020,26,6,200,11.71,2342.0,2026-04-28 14:59:52.282,2026042801110662
 H8020,38,6,1900,11.71,22249.0,2026-04-28 14:59:52.282,2026042801110661
 H8020,3,6,500,11.72,5860.0,2026-04-28 14:59:52.282,2026042801110660

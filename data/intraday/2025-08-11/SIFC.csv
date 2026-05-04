@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,94607,2025081103000387,SIFC,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,10,540.0,5400.0,2025-08-11 11:10:25.236348
 2025-08-11,94606,2025081103000388,SIFC,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,540.0,5400.0,2025-08-11 11:10:25.236400
 2025-08-11,94129,2025081103000475,SIFC,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,10,541.0,5410.0,2025-08-11 11:11:28.242681

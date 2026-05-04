@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,95615,2025083105000126,SAHAS,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,647.0,6470.0,2025-08-31T11:01:49.296878
 2025-08-31,95428,2025083105000154,SAHAS,Cristal Kanchanjanga Securites Pvt. Ltd.,N.I.M.B. Stock Markets Limited,50,657.0,32850.0,2025-08-31T11:02:07.886049
 2025-08-31,94377,2025083105000311,SAHAS,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,647.0,6470.0,2025-08-31T11:03:43.996999

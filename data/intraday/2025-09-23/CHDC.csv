@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67342,2025092305000022,CHDC,Asian Securities Private Ltd.,ABC Securities Private Limited,20,2348.9,46978.0,2025-09-23 10:46:00.029154
 2025-09-23,67341,2025092305000023,CHDC,Asian Securities Private Ltd.,ABC Securities Private Limited,20,2348.9,46978.0,2025-09-23 10:46:00.029192
 2025-09-23,67340,2025092305000024,CHDC,Asian Securities Private Ltd.,ABC Securities Private Limited,20,2348.9,46978.0,2025-09-23 10:46:00.029215

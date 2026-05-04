@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SAIL,1,58,180,1155.0,207900.0,2026-04-28 14:59:55.326,2026042801110753
 SAIL,1,34,20,1154.9,23098.0,2026-04-28 14:59:55.325,2026042801110752
 SAIL,58,42,10,1154.0,11540.0,2026-04-28 14:59:55.216,2026042801110749

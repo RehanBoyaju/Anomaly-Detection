@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,74516,2025081404000320,KKHC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Online Securities Pvt. Ltd.,10,269.9,2699.0,2025-08-14 11:10:04.185674
 2025-08-14,73974,2025081404000399,KKHC,J.F. Securites (PVT) Ltd.,Sundhara Securities Limited,200,267.0,53400.0,2025-08-14 11:12:10.180302
 2025-08-14,73783,2025081404000413,KKHC,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,18,269.9,4858.2,2025-08-14 11:12:35.321725

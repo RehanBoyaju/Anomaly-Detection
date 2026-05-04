@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78254,2025082803000024,MLBL,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,10,409.0,4090.0,2025-08-28 11:00:43.019207
 2025-08-28,78253,2025082803000025,MLBL,J.F. Securites (PVT) Ltd.,Kalika Securities Pvt. Ltd.,500,409.0,204500.0,2025-08-28 11:00:43.019293
 2025-08-28,78125,2025082803000046,MLBL,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,125,406.0,50750.0,2025-08-28 11:01:30.347466

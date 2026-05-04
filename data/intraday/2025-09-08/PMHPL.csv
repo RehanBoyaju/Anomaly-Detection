@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59567,2025090804000075,PMHPL,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,225,350.6,78885.0,2025-09-08 11:00:47.383855
 2025-09-08,58723,2025090804000321,PMHPL,Nepal Investment And Securities Trading Private Limited,Sani Securities Company Ltd.,100,355.1,35510.0,2025-09-08 11:09:00.240370
 2025-09-08,58480,2025090804000426,PMHPL,Sundhara Securities Limited,Linch Stock Market Ltd.,10,357.0,3570.0,2025-09-08 11:10:29.636936

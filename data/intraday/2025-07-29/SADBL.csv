@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157475,2025072903000008,SADBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,50,526.5,26325.0,2025-07-29 10:46:00.047732
 2025-07-29,157182,2025072903000046,SADBL,S.P.S.A. Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,10,518.0,5180.0,2025-07-29 11:01:07.660622
 2025-07-29,157090,2025072903000060,SADBL,Primo Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,500,525.0,262500.0,2025-07-29 11:01:24.007989

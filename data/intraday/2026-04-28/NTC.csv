@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NTC,58,45,20,876.0,17520.0,2026-04-28 14:59:38.239,2026042805016305
 NTC,49,45,60,876.0,52560.0,2026-04-28 14:59:28.373,2026042805016228
 NTC,13,53,41,873.1,35797.1,2026-04-28 14:58:51.175,2026042805016052

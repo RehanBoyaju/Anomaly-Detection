@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108668,2025092103000045,SFCL,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,150,423.0,63450.0,2025-09-21 10:46:00.029859
 2025-09-21,103790,2025092103000826,SFCL,Miyo Securities Pvt Ltd,Sundhara Securities Limited,100,418.9,41890.0,2025-09-21 11:04:18.331173
 2025-09-21,103262,2025092103000899,SFCL,Thrive Brokerage House Pvt. Ltd,Sharepro Securities Private Limited,84,415.0,34860.0,2025-09-21 11:04:49.255491

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,175564,2025072204000373,PMHPL,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,50,403.1,20155.0,2025-07-22 11:03:45.032765
 2025-07-22,173105,2025072204000938,PMHPL,Blue Chip Securities Ltd,Online Securities Pvt. Ltd.,20,409.0,8180.0,2025-07-22 11:08:08.568169
 2025-07-22,172989,2025072204000964,PMHPL,Blue Chip Securities Ltd,Naasa Securities Co. Ltd.,10,415.9,4159.0,2025-07-22 11:08:20.589380

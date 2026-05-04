@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86633,2025081704000013,UMHL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Capital Max Securities Ltd,320,600.0,192000.0,2025-08-17 10:46:00.033913
 2025-08-17,86632,2025081704000014,UMHL,Online Securities Pvt. Ltd.,Capital Max Securities Ltd,70,600.0,42000.0,2025-08-17 10:46:00.033956
 2025-08-17,86631,2025081704000015,UMHL,Sani Securities Company Ltd.,Capital Max Securities Ltd,90,600.0,54000.0,2025-08-17 10:46:00.033981

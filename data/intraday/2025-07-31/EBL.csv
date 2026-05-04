@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168577,2025073101000002,EBL,Thrive Brokerage House Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,10,715.0,7150.0,2025-07-31 10:46:00.021950
 2025-07-31,168576,2025073101000003,EBL,Primo Securities (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,128,715.0,91520.0,2025-07-31 10:46:00.021997
 2025-07-31,167517,2025073101000238,EBL,Dakshinkali Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,50,719.0,35950.0,2025-07-31 11:02:44.235075

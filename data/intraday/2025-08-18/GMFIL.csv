@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,60888,2025081803000918,GMFIL,S.P.S.A. Securities Limited,Opal Securities Investment (PVT) Ltd.,100,482.0,48200.0,2025-08-18T11:34:05.553133
 2025-08-18,53580,2025081803002005,GMFIL,Hatemalo Financial Services Private Limited,Opal Securities Investment (PVT) Ltd.,507,482.0,244374.0,2025-08-18T12:00:05.968393
 2025-08-18,53579,2025081803002006,GMFIL,Hatemalo Financial Services Private Limited,Imperial Securities Company Pvt. Ltd.,100,482.0,48200.0,2025-08-18T12:00:05.96849

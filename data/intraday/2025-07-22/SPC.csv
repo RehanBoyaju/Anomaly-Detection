@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,174975,2025072201000347,SPC,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,10,534.2,5342.0,2025-07-22 11:04:59.639418
 2025-07-22,173801,2025072201000549,SPC,Aryatara Investment & Securities,Kalika Securities Pvt. Ltd.,10,535.0,5350.0,2025-07-22 11:06:55.923993
 2025-07-22,172994,2025072201000737,SPC,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,10,541.9,5419.0,2025-07-22 11:08:19.262840

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,53751,2025070801000497,SCB,Trishakti Securities Public Limited,Opal Securities Investment (PVT) Ltd.,25,635.1,15877.5,2025-07-08 11:14:31.778538
 2025-07-08,53200,2025070801000676,SCB,Trishakti Securities Public Limited,Agrawal Securities (PVT) Ltd.,31,631.0,19561.0,2025-07-08 11:17:26.338639
 2025-07-08,50724,2025070801001271,SCB,Opal Securities Investment (PVT) Ltd.,Online Securities Pvt. Ltd.,100,632.5,63250.0,2025-07-08 11:29:43.521912

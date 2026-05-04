@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67903,2025081804000044,HDHPC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Agrawal Securities (PVT) Ltd.,10,197.0,1970.0,2025-08-18T10:46:00.052293
 2025-08-18,67655,2025081804000096,HDHPC,Premier Securities Company Ltd.,Kumari Securities Private Limited,10,200.9,2009.0,2025-08-18T11:02:19.758296
 2025-08-18,67518,2025081804000120,HDHPC,Magnet Securities and Investment Company Private Limited,Naasa Securities Co. Ltd.,360,201.0,72360.0,2025-08-18T11:03:31.3215

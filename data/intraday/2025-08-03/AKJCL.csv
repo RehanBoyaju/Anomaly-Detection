@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151022,2025080304000122,AKJCL,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,500,215.0,107500.0,2025-08-03T11:02:37.960011
 2025-08-03,149095,2025080304000345,AKJCL,Nagarik Stock Dealer ,Magnet Securities and Investment Company Private Limited,100,213.6,21360.0,2025-08-03T11:05:31.052766
 2025-08-03,149094,2025080304000346,AKJCL,Sri Hari Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,500,213.6,106800.0,2025-08-03T11:05:31.052904

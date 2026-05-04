@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62157,2025070904000407,AKJCL,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,25,209.9,5247.5,2025-07-09 11:04:46.296715
 2025-07-09,61941,2025070904000526,AKJCL,ABC Securities Private Limited,Sharepro Securities Private Limited,100,208.0,20800.0,2025-07-09 11:05:58.636468
 2025-07-09,61880,2025070904000554,AKJCL,ABC Securities Private Limited,ABC Securities Private Limited,200,208.0,41600.0,2025-07-09 11:06:28.202468

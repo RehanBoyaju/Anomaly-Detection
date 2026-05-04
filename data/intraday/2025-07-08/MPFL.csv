@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,46868,2025070803001351,MPFL,ABC Securities Private Limited,ABC Securities Private Limited,1,597.0,597.0,2025-07-08 11:47:30.055912
 2025-07-08,45453,2025070803001526,MPFL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Vision Securities Pvt. Ltd,20,596.0,11920.0,2025-07-08 11:54:01.025447
 2025-07-08,44614,2025070803001745,MPFL,SUN SECURITIES PVT LTD,Primo Securities (PVT) Ltd.,100,600.0,60000.0,2025-07-08 11:57:39.280492

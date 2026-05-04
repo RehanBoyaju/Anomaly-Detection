@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,139888,2025073004000307,SJCL,Sweta Securities Private Limited,J.F. Securites (PVT) Ltd.,10,325.1,3251.0,2025-07-30 11:04:15.701533
 2025-07-30,138932,2025073004000497,SJCL,Vision Securities Pvt. Ltd,Stoxkarts Securities Limited,10,325.6,3256.0,2025-07-30 11:06:20.756959
 2025-07-30,137135,2025073004000816,SJCL,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,40,328.0,13120.0,2025-07-30 11:09:53.370679

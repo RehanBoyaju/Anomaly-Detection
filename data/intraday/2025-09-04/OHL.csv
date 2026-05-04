@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68525,2025090404000169,OHL,Imperial Securities Company Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,20,808.0,16160.0,2025-09-04T11:03:38.482517
 2025-09-04,68524,2025090404000170,OHL,Vision Securities Pvt. Ltd,Ashutosh Brokerage & Securities (PVT) Ltd.,300,807.1,242130.0,2025-09-04T11:03:38.482559
 2025-09-04,68523,2025090404000171,OHL,Cristal Kanchanjanga Securites Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,180,807.0,145260.0,2025-09-04T11:03:38.482584

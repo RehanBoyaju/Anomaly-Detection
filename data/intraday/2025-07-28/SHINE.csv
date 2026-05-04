@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170604,2025072803000015,SHINE,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,303,475.0,143925.0,2025-07-28T11:00:21.515901
 2025-07-28,170603,2025072803000016,SHINE,Sri Hari Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,151,476.0,71876.0,2025-07-28T11:00:21.515973
 2025-07-28,170602,2025072803000017,SHINE,Sri Hari Securities Pvt. Ltd.,Asian Securities Private Ltd.,15,477.0,7155.0,2025-07-28T11:00:21.516012

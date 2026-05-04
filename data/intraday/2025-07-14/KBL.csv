@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72586,2025071401000008,KBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Sewa Securities Pvt. Ltd.,53,221.0,11713.0,2025-07-14 10:46:00.031139
 2025-07-14,72585,2025071401000009,KBL,Aryatara Investment & Securities,Sewa Securities Pvt. Ltd.,342,221.0,75582.0,2025-07-14 10:46:00.031188
 2025-07-14,72442,2025071401000082,KBL,Aryatara Investment & Securities,Prabhu Stock Market Limited,1000,220.0,220000.0,2025-07-14 11:00:35.720223

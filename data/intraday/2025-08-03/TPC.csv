@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,148324,2025080301002616,TPC,Global IME Securities Limited,Nepal Stock House (PVT) Ltd.,30,395.0,11850.0,2025-08-03T11:06:52.916448
 2025-08-03,148323,2025080301002617,TPC,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,50,395.0,19750.0,2025-08-03T11:06:52.9165
 2025-08-03,148051,2025080301002782,TPC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,70,394.0,27580.0,2025-08-03T11:07:20.274872

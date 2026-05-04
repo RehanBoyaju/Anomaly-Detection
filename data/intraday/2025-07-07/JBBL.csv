@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,68499,2025070703000935,JBBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,30,333.0,9990.0,2025-07-07 11:12:48.334525
 2025-07-07,67544,2025070703001175,JBBL,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,53,333.0,17649.0,2025-07-07 11:16:24.151749
 2025-07-07,67543,2025070703001176,JBBL,Dakshinkali Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,53,333.0,17649.0,2025-07-07 11:16:24.151915

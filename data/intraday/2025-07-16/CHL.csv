@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,96251,2025071604000864,CHL,Pragyan Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,328.0,16400.0,2025-07-16 11:10:54.878516
 2025-07-16,96250,2025071604000865,CHL,Pragyan Securities (PVT) Ltd.,Himalayan Brokerage Company Limited,280,329.0,92120.0,2025-07-16 11:10:54.878641
 2025-07-16,96249,2025071604000866,CHL,Pragyan Securities (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,20,329.0,6580.0,2025-07-16 11:10:54.878684

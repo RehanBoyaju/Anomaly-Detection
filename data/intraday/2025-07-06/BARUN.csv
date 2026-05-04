@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87375,2025070604000004,BARUN,Sanima Securities Limited,Prabhu Stock Market Limited,10,454.7,4547.0,2025-07-06 10:46:00.027484
 2025-07-06,87374,2025070604000005,BARUN,Sanima Securities Limited,Capital Max Securities Ltd,200,454.7,90940.0,2025-07-06 10:46:00.027513
 2025-07-06,87373,2025070604000006,BARUN,Sanima Securities Limited,Capital Max Securities Ltd,40,454.7,18188.0,2025-07-06 10:46:00.027530

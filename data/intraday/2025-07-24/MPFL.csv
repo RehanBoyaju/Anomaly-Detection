@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154231,2025072403000057,MPFL,Primo Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,10,691.0,6910.0,2025-07-24 11:00:57.796335
 2025-07-24,152403,2025072403000324,MPFL,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,679.0,6790.0,2025-07-24 11:04:31.971004
 2025-07-24,150654,2025072403000663,MPFL,Sani Securities Company Ltd.,Premier Securities Company Ltd.,100,679.1,67910.0,2025-07-24 11:07:27.753558

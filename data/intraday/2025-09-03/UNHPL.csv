@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68496,2025090304000024,UNHPL,Kohinoor Investment & Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,268,406.0,108808.0,2025-09-03 11:00:17.864070
 2025-09-03,68482,2025090304000027,UNHPL,SUN SECURITIES PVT LTD,Bhrikuti Stock Broking Co. Pvt. Ltd.,32,406.0,12992.0,2025-09-03 11:00:33.210546
 2025-09-03,68463,2025090304000030,UNHPL,Shree Krishna Securities Ltd.,Agrawal Securities (PVT) Ltd.,50,408.0,20400.0,2025-09-03 11:00:45.318212

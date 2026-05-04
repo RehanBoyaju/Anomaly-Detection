@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77988,2025082804000120,PPCL,Capital Max Securities Ltd,Premier Securities Company Ltd.,10,340.0,3400.0,2025-08-28 11:02:22.953006
 2025-08-28,75426,2025082804000854,PPCL,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,90,345.0,31050.0,2025-08-28 11:12:11.312032
 2025-08-28,74268,2025082804001226,PPCL,South Asian Bulls Pvt. Ltd.,Arun Securities (PVT) Ltd.,10,346.0,3460.0,2025-08-28 11:15:58.196194

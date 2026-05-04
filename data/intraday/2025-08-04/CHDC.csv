@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,148511,2025080405000030,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,2800.0,28000.0,2025-08-04 11:00:52.435076
 2025-08-04,147519,2025080405000067,CHDC,Aakashbhairab Securities Ltd.,Trishakti Securities Public Limited,10,2710.0,27100.0,2025-08-04 11:02:13.010661
 2025-08-04,144663,2025080405000187,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,NIMB Stock Markets Limited,11,2764.0,30404.0,2025-08-04 11:04:39.962604

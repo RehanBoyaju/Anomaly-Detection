@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78172,2025082803000037,NLICL,Sipla Securities Private Limited,Trishakti Securities Public Limited,500,619.0,309500.0,2025-08-28 11:01:09.511653
 2025-08-28,76000,2025082803000303,NLICL,Dakshinkali Investment & Securities Pvt. Ltd.,Sani Securities Company Ltd.,11,610.1,6711.1,2025-08-28 11:10:11.270559
 2025-08-28,75644,2025082803000341,NLICL,Dakshinkali Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,289,610.1,176318.9,2025-08-28 11:11:25.558561

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KBSH,29,57,10,1620.0,16200.0,2026-04-28 14:59:51.442,2026042805016423
 KBSH,17,48,15,1601.0,24015.0,2026-04-28 14:55:20.479,2026042805015357
 KBSH,58,57,1,1572.0,1572.0,2026-04-28 14:53:49.893,2026042805015065

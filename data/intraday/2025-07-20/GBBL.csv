@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176602,2025072003000405,GBBL,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,1000,444.0,444000.0,2025-07-20T11:02:40.47446
 2025-07-20,176425,2025072003000448,GBBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Aryatara Investment & Securities,100,446.0,44600.0,2025-07-20T11:02:55.309108
 2025-07-20,176424,2025072003000449,GBBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,446.0,8920.0,2025-07-20T11:02:55.30917

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108346,2025092103000122,RLFL,Neev Securities Pvt. Ltd.,Kumari Securities Private Limited,100,425.4,42540.0,2025-09-21 10:46:00.070835
 2025-09-21,108345,2025092103000123,RLFL,Neev Securities Pvt. Ltd.,Kumari Securities Private Limited,30,425.4,12762.0,2025-09-21 10:46:00.070871
 2025-09-21,108344,2025092103000124,RLFL,Neev Securities Pvt. Ltd.,ABC Securities Private Limited,30,425.4,12762.0,2025-09-21 10:46:00.070908

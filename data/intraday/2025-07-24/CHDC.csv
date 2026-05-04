@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154429,2025072405000022,CHDC,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,500,2870.0,1435000.0,2025-07-24 11:00:28.488106
 2025-07-24,154207,2025072405000055,CHDC,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,12,2870.0,34440.0,2025-07-24 11:01:03.808541
 2025-07-24,154187,2025072405000059,CHDC,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,150,2870.0,430500.0,2025-07-24 11:01:07.167953

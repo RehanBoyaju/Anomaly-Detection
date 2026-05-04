@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86263,2025081703000044,JFL,Sani Securities Company Ltd.,Aryatara Investment & Securities,60,470.0,28200.0,2025-08-17 11:01:27.201463
 2025-08-17,86262,2025081703000045,JFL,Miyo Securities Pvt Ltd,Aryatara Investment & Securities,25,470.0,11750.0,2025-08-17 11:01:27.201540
 2025-08-17,86247,2025081703000046,JFL,J.F. Securites (PVT) Ltd.,Premier Securities Company Ltd.,55,469.0,25795.0,2025-08-17 11:01:31.655269

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,52301,2025082001000292,SBI,Bhrikuti Stock Broking Co. Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,13,391.0,5083.0,2025-08-20 11:12:28.577397
 2025-08-20,52162,2025082001000323,SBI,Bhrikuti Stock Broking Co. Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,11,391.0,4301.0,2025-08-20 11:13:24.765387
 2025-08-20,49374,2025082001000850,SBI,Naasa Securities Co. Ltd.,ABC Securities Private Limited,10,397.0,3970.0,2025-08-20 11:30:11.942176

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,64619,2025081803000342,NFS,Primo Securities (PVT) Ltd.,Beni Securities Pvt.Ltd.,60,725.0,43500.0,2025-08-18T11:18:21.385724
 2025-08-18,62761,2025081803000622,NFS,Sundhara Securities Limited,Online Securities Pvt. Ltd.,150,727.0,109050.0,2025-08-18T11:25:59.631356
 2025-08-18,62068,2025081803000738,NFS,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,729.0,14580.0,2025-08-18T11:28:59.526895

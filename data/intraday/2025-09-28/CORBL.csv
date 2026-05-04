@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39808,2025092803000006,CORBL,Sweta Securities Private Limited,Shree Krishna Securities Ltd.,10,1923.8,19238.0,2025-09-28 11:00:40.180762
 2025-09-28,33996,2025092803000481,CORBL,Midas Stock Broking Company Private Limited,Primo Securities (PVT) Ltd.,10,1962.2,19622.0,2025-09-28 11:31:48.925313
 2025-09-28,32602,2025092803000621,CORBL,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,20,1962.0,39240.0,2025-09-28 11:40:09.759166

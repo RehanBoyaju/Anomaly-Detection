@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,69936,2025070703000482,GBBL,Aryatara Investment & Securities,Hatemalo Financial Services Private Limited,10,400.5,4005.0,2025-07-07 11:06:57.088530
 2025-07-07,69901,2025070703000491,GBBL,Sharepro Securities Private Limited,Hatemalo Financial Services Private Limited,490,400.1,196049.0,2025-07-07 11:07:06.113175
 2025-07-07,67822,2025070703001116,GBBL,Sharepro Securities Private Limited,Sani Securities Company Ltd.,299,400.1,119629.9,2025-07-07 11:15:17.657079

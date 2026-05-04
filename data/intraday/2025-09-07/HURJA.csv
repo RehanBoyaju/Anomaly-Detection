@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58020,2025090704000045,HURJA,Trademow Securities Private Limited,INDEX SECURITIES LIMITED,10,224.6,2246.0,2025-09-07 10:46:00.034498
 2025-09-07,57341,2025090704000241,HURJA,Blue Chip Securities Ltd,Nepal Stock House (PVT) Ltd.,10,229.0,2290.0,2025-09-07 11:05:39.824931
 2025-09-07,57232,2025090704000266,HURJA,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,100,229.0,22900.0,2025-09-07 11:06:14.313177

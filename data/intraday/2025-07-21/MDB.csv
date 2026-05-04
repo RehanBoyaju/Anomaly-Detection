@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,135783,2025072103000668,MDB,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,100,661.2,66120.0,2025-07-21 11:05:51.260209
 2025-07-21,135124,2025072103000808,MDB,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,80,668.9,53512.0,2025-07-21 11:06:52.997995
 2025-07-21,135123,2025072103000809,MDB,Thrive Brokerage House Pvt. Ltd,Vision Securities Pvt. Ltd,200,669.0,133800.0,2025-07-21 11:06:52.998178

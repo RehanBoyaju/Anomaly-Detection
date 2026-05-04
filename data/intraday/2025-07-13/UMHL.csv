@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105086,2025071304000095,UMHL,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,500,560.0,280000.0,2025-07-13T10:46:00.07133
 2025-07-13,105085,2025071304000096,UMHL,Trisul Securities & Invt. Ltd.,Capital Max Securities Ltd,100,560.0,56000.0,2025-07-13T10:46:00.071356
 2025-07-13,105084,2025071304000097,UMHL,Thrive Brokerage House Pvt. Ltd,Capital Max Securities Ltd,10,560.0,5600.0,2025-07-13T10:46:00.071383

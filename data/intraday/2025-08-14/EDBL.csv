@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,70168,2025081403000639,EDBL,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,100,620.5,62050.0,2025-08-14 11:26:31.607114
 2025-08-14,70167,2025081403000640,EDBL,Malla & Malla Stock Broking Company Pvt. Limited,Online Securities Pvt. Ltd.,50,620.4,31020.0,2025-08-14 11:26:31.607185
 2025-08-14,70166,2025081403000641,EDBL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,250,620.3,155075.0,2025-08-14 11:26:31.607217

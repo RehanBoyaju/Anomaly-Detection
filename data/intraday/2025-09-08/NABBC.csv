@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,57886,2025090803000155,NABBC,Capital Max Securities Ltd,Nabil Stock Dealer Ltd.,59,690.1,40715.9,2025-09-08 11:14:15.024977
 2025-09-08,57885,2025090803000156,NABBC,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,66,690.0,45540.0,2025-09-08 11:14:15.025016
 2025-09-08,57884,2025090803000157,NABBC,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,31,690.0,21390.0,2025-09-08 11:14:15.025057

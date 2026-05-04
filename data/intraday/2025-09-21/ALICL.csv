@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108556,2025092103000057,ALICL,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,40,453.6,18144.0,2025-09-21 10:46:00.042436
 2025-09-21,108555,2025092103000058,ALICL,Agrawal Securities (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,20,453.6,9072.0,2025-09-21 10:46:00.042471
 2025-09-21,108554,2025092103000059,ALICL,Sri Hari Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,10,453.6,4536.0,2025-09-21 10:46:00.042508

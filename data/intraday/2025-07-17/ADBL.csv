@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140931,2025071701000152,ADBL,Premier Securities Company Ltd.,Naasa Securities Co. Ltd.,100,328.0,32800.0,2025-07-17 11:01:50.695039
 2025-07-17,140366,2025071701000347,ADBL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,50,328.0,16400.0,2025-07-17 11:03:17.585254
 2025-07-17,137292,2025071701001220,ADBL,Sipla Securities Private Limited,Premier Securities Company Ltd.,40,328.5,13140.0,2025-07-17 11:09:38.297470

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SALICO,71,11,300,595.2,178560.0,2026-04-28 14:58:31.113,2026042804014339
 SALICO,5,29,60,595.3,35718.0,2026-04-28 14:58:20.665,2026042804014305
 SALICO,36,29,140,595.3,83342.0,2026-04-28 14:56:54.652,2026042804013974

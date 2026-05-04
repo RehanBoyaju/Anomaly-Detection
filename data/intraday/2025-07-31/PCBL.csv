@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,167014,2025073101000363,PCBL,Pragyan Securities (PVT) Ltd.,Linch Stock Market Ltd.,100,270.1,27010.0,2025-07-31 11:03:41.587834
 2025-07-31,165621,2025073101000838,PCBL,Vision Securities Pvt. Ltd,Secured Securities Ltd.,185,273.0,50505.0,2025-07-31 11:06:07.858928
 2025-07-31,163978,2025073101001392,PCBL,Pragyan Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,20,270.1,5402.0,2025-07-31 11:08:42.823935

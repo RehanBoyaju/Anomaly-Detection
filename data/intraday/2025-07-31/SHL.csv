@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168593,2025073104000001,SHL,Vision Securities Pvt. Ltd,INDEX SECURITIES LIMITED,100,564.7,56470.0,2025-07-31 10:46:00.005593
 2025-07-31,168173,2025073104000093,SHL,Kohinoor Investment & Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,100,575.0,57500.0,2025-07-31 11:01:17.076147
 2025-07-31,168118,2025073104000110,SHL,ABC Securities Private Limited,Arun Securities (PVT) Ltd.,192,575.0,110400.0,2025-07-31 11:01:26.435579

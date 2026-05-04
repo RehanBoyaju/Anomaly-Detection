@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156125,2025072904000218,UNHPL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,428.0,128400.0,2025-07-29 11:03:24.654684
 2025-07-29,155684,2025072904000317,UNHPL,Agrawal Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,50,429.0,21450.0,2025-07-29 11:04:14.603577
 2025-07-29,155683,2025072904000318,UNHPL,Agrawal Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,430.0,129000.0,2025-07-29 11:04:14.603672

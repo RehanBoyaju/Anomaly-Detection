@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,85907,2025083103000317,MPFL,Siprabi Securities Pvt. Ltd.,Asian Securities Private Ltd.,10,600.0,6000.0,2025-08-31T11:18:01.087476
 2025-08-31,79222,2025083103000792,MPFL,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,15,589.0,8835.0,2025-08-31T11:30:46.629047
 2025-08-31,72553,2025083103001326,MPFL,Siprabi Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,598.0,5980.0,2025-08-31T11:46:20.139423

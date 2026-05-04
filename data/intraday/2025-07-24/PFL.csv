@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154147,2025072403000071,PFL,Oxford Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,70,458.0,32060.0,2025-07-24 11:01:14.096138
 2025-07-24,153762,2025072403000122,PFL,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,100,455.3,45530.0,2025-07-24 11:02:00.964928
 2025-07-24,153624,2025072403000145,PFL,Blue Chip Securities Ltd,Sewa Securities Pvt. Ltd.,10,460.9,4609.0,2025-07-24 11:02:16.928449

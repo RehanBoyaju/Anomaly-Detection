@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,44724,2025092403000568,LICN,Sri Hari Securities Pvt. Ltd.,K.B.L. Securities Limited ,25,839.0,20975.0,2025-09-24 11:15:36.071484
 2025-09-24,40872,2025092403001150,LICN,Sri Hari Securities Pvt. Ltd.,ABC Securities Private Limited,25,835.0,20875.0,2025-09-24 11:33:23.223832
 2025-09-24,38376,2025092403001519,LICN,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,100,836.5,83650.0,2025-09-24 11:45:12.521548

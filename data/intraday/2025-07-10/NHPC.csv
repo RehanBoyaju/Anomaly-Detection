@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,87845,2025071004000260,NHPC,Kumari Securities Private Limited,Linch Stock Market Ltd.,300,211.1,63330.0,2025-07-10 11:04:15.676502
 2025-07-10,87844,2025071004000261,NHPC,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,100,211.1,21110.0,2025-07-10 11:04:15.676592
 2025-07-10,87830,2025071004000265,NHPC,Pragyan Securities (PVT) Ltd.,Linch Stock Market Ltd.,100,211.0,21100.0,2025-07-10 11:04:21.716577

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62840,2025070904000030,CHL,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,335.3,3353.0,2025-07-09 10:46:00.031834
 2025-07-09,62694,2025070904000103,CHL,Miyo Securities Pvt Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,335.0,6700.0,2025-07-09 11:01:21.599105
 2025-07-09,62693,2025070904000104,CHL,Miyo Securities Pvt Ltd,Online Securities Pvt. Ltd.,10,335.3,3353.0,2025-07-09 11:01:21.599206

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130689,2025080501000177,SCB,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,100,670.0,67000.0,2025-08-05 11:00:37.767806
 2025-08-05,130688,2025080501000178,SCB,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,94,670.8,63055.2,2025-08-05 11:00:37.767852
 2025-08-05,126052,2025080501004462,SCB,Linch Stock Market Ltd.,Kumari Securities Private Limited,40,679.0,27160.0,2025-08-05 11:03:19.601149

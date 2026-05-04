@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73956,2025071501000032,MBL,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,80,238.8,19104.0,2025-07-15 11:00:41.677216
 2025-07-15,73871,2025071501000057,MBL,Thrive Brokerage House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,10,241.0,2410.0,2025-07-15 11:01:28.604161
 2025-07-15,72813,2025071501000413,MBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,244.0,4880.0,2025-07-15 11:07:50.570703

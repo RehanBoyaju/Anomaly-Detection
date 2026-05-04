@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71001,2025070704000067,UNHPL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,10,434.0,4340.0,2025-07-07 11:01:32.401078
 2025-07-07,70892,2025070704000090,UNHPL,Imperial Securities Company Pvt. Ltd.,Online Securities Pvt. Ltd.,18,430.0,7740.0,2025-07-07 11:02:10.151449
 2025-07-07,70521,2025070704000188,UNHPL,ABC Securities Private Limited,Sweta Securities Private Limited,100,431.0,43100.0,2025-07-07 11:04:08.763243

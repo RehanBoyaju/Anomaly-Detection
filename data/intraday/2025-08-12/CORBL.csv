@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,70254,2025081203001235,CORBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,50,2001.0,100050.0,2025-08-12 11:27:05.206214
 2025-08-12,70253,2025081203001236,CORBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,25,2000.4,50010.0,2025-08-12 11:27:05.206352
 2025-08-12,70252,2025081203001237,CORBL,Asian Securities Private Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,40,2000.3,80012.0,2025-08-12 11:27:05.206480

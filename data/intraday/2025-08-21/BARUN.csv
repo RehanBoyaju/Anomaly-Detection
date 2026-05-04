@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56814,2025082104000005,BARUN,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,10,376.0,3760.0,2025-08-21 10:46:00.029918
 2025-08-21,56489,2025082104000127,BARUN,Pragyan Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,12,372.0,4464.0,2025-08-21 11:03:37.708179
 2025-08-21,55448,2025082104000499,BARUN,Pragyan Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,40,372.0,14880.0,2025-08-21 11:13:24.503088

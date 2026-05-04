@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99107,2025071603000043,KSBBL,Sri Hari Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,10,497.0,4970.0,2025-07-16 11:01:55.386604
 2025-07-16,99103,2025071603000044,KSBBL,Sharepro Securities Private Limited,Neev Securities Pvt. Ltd.,90,497.0,44730.0,2025-07-16 11:01:57.364066
 2025-07-16,99102,2025071603000045,KSBBL,Sharepro Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,100,497.5,49750.0,2025-07-16 11:01:57.364097

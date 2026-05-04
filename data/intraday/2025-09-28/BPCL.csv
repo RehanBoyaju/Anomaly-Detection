@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39856,2025092804000001,BPCL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,10,773.1,7731.0,2025-09-28 10:46:00.016749
 2025-09-28,39819,2025092804000014,BPCL,Kohinoor Investment & Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,10,760.0,7600.0,2025-09-28 11:00:26.188456
 2025-09-28,39817,2025092804000015,BPCL,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,1500,760.0,1140000.0,2025-09-28 11:00:27.626129

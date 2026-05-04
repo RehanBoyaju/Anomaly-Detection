@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,59999,2025081901000314,CZBIL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,10,211.0,2110.0,2025-08-19 11:11:24.189203
 2025-08-19,59410,2025081901000472,CZBIL,Kumari Securities Private Limited,Sagarmatha Securities Private Limited,196,208.9,40944.4,2025-08-19 11:14:25.130259
 2025-08-19,59228,2025081901000523,CZBIL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,10,211.0,2110.0,2025-08-19 11:15:30.187843

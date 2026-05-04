@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87011,2025070603000157,CORBL,Miyo Securities Pvt Ltd,Hatemalo Financial Services Private Limited,10,2374.0,23740.0,2025-07-06 11:01:43.001358
 2025-07-06,85922,2025070603000564,CORBL,Market Securities & Exchange (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,10,2421.0,24210.0,2025-07-06 11:05:34.101768
 2025-07-06,85875,2025070603000577,CORBL,S.P.S.A. Securities Limited,Thrive Brokerage House Pvt. Ltd,20,2465.0,49300.0,2025-07-06 11:05:45.000200

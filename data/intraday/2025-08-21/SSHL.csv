@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56429,2025082104000150,SSHL,Sani Securities Company Ltd.,Capital Max Securities Ltd,38,193.2,7341.6,2025-08-21 11:04:06.333428
 2025-08-21,56378,2025082104000170,SSHL,Siprabi Securities Pvt. Ltd.,Trishakti Securities Public Limited,10,195.5,1955.0,2025-08-21 11:04:52.609229
 2025-08-21,55949,2025082104000335,SSHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,98,195.4,19149.2,2025-08-21 11:09:06.816084

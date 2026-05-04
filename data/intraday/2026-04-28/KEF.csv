@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KEF,42,20,100,10.79,1079.0,2026-04-28 14:59:34.546,2026042805016273
 KEF,56,57,300,10.73,3219.0,2026-04-28 14:53:10.369,2026042805014943
 KEF,56,50,100,10.73,1073.0,2026-04-28 14:52:38.377,2026042805014836

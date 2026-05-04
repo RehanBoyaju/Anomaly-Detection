@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76472,2025081405000036,NIFRA,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,600,284.0,170400.0,2025-08-14 11:00:22.876413
 2025-08-14,76471,2025081405000037,NIFRA,Shree Krishna Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,285.0,85500.0,2025-08-14 11:00:22.876517
 2025-08-14,76470,2025081405000038,NIFRA,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,398,285.0,113430.0,2025-08-14 11:00:22.876553

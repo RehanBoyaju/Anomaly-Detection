@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61692,2025081903000012,NABBC,Sipla Securities Private Limited,Vision Securities Pvt. Ltd,20,1581.0,31620.0,2025-08-19 11:00:17.961790
 2025-08-19,61673,2025081903000013,NABBC,SUN SECURITIES PVT LTD,ABC Securities Private Limited,10,1524.0,15240.0,2025-08-19 11:00:27.844331
 2025-08-19,61609,2025081903000015,NABBC,Sipla Securities Private Limited,Aryatara Investment & Securities,20,1580.0,31600.0,2025-08-19 11:00:44.046770

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,122476,2025080503000144,NLIC,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,1,810.0,810.0,2025-08-05 11:06:17.488079
 2025-08-05,121985,2025080503000158,NLIC,Opal Securities Investment (PVT) Ltd.,Secured Securities Ltd.,50,821.3,41065.0,2025-08-05 11:06:44.736248
 2025-08-05,120302,2025080503000201,NLIC,Miyo Securities Pvt Ltd,Naasa Securities Co. Ltd.,10,822.0,8220.0,2025-08-05 11:08:12.937020

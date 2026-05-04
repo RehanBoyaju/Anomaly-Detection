@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,61963,2025070905000101,NIFRA,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,50,276.0,13800.0,2025-07-09 11:05:51.843834
 2025-07-09,61566,2025070905000176,NIFRA,ABC Securities Private Limited,Naasa Securities Co. Ltd.,20,275.0,5500.0,2025-07-09 11:07:59.678197
 2025-07-09,61529,2025070905000179,NIFRA,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,44,274.3,12069.2,2025-07-09 11:08:10.935545

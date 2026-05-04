@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141387,2025071704000017,GHL,Agrawal Securities (PVT) Ltd.,Trisul Securities & Invt. Ltd.,10,253.7,2537.0,2025-07-17 10:46:00.059118
 2025-07-17,140911,2025071704000204,GHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trisul Securities & Invt. Ltd.,110,252.0,27720.0,2025-07-17 11:01:55.489592
 2025-07-17,140825,2025071704000244,GHL,Sumeru Securities Pvt. Ltd.,Capital Max Securities Ltd,313,253.5,79345.5,2025-07-17 11:02:09.751129

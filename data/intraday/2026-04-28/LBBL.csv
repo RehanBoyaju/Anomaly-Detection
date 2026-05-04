@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 LBBL,34,57,15,487.0,7305.0,2026-04-28 14:59:32.905,2026042803008364
 LBBL,34,6,735,486.0,357210.0,2026-04-28 14:59:32.905,2026042803008363
 LBBL,45,13,95,485.0,46075.0,2026-04-28 14:59:08.904,2026042803008258

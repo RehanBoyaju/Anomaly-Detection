@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72044,2025082704000066,MEN,Asian Securities Private Ltd.,Asian Securities Private Ltd.,538,639.0,343782.0,2025-08-27T11:04:47.221607
 2025-08-27,71755,2025082704000095,MEN,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,18,637.0,11466.0,2025-08-27T11:06:55.782699
 2025-08-27,71214,2025082704000177,MEN,Asian Securities Private Ltd.,Aryatara Investment & Securities,13,629.5,8183.5,2025-08-27T11:10:25.767425

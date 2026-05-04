@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141473,2025073003000007,KSBBL,J.F. Securites (PVT) Ltd.,Naasa Securities Co. Ltd.,25,585.0,14625.0,2025-07-30 10:46:00.042552
 2025-07-30,140928,2025073003000123,KSBBL,J.F. Securites (PVT) Ltd.,K.B.L. Securities Limited ,25,580.0,14500.0,2025-07-30 11:01:58.970201
 2025-07-30,140642,2025073003000177,KSBBL,Trisul Securities & Invt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,575.0,5750.0,2025-07-30 11:02:41.938136

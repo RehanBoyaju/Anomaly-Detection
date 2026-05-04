@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170703,2025072803000001,NLIC,Imperial Securities Company Pvt. Ltd.,Asian Securities Private Ltd.,10,862.94,8629.4,2025-07-28T10:46:00.014758
 2025-07-28,170425,2025072803000055,NLIC,Sundhara Securities Limited,Neev Securities Pvt. Ltd.,500,850.0,425000.0,2025-07-28T11:01:11.142904
 2025-07-28,169708,2025072803000190,NLIC,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,54,860.0,46440.0,2025-07-28T11:03:09.822851

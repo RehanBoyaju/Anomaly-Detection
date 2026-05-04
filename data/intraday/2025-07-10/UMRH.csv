@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,85343,2025071004000991,UMRH,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,12,583.0,6996.0,2025-07-10 11:14:19.255087
 2025-07-10,85217,2025071004001025,UMRH,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,100,583.0,58300.0,2025-07-10 11:14:44.358171
 2025-07-10,84016,2025071004001344,UMRH,Premier Securities Company Ltd.,Oxford Securities Pvt. Ltd.,88,582.0,51216.0,2025-07-10 11:18:42.227462

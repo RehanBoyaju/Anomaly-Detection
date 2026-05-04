@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7170,2025091805000043,MKJC,SHUBHAKAMANA SECURITIES PVT. LTD,N.I.M.B. Stock Markets Limited,100,587.4,58740.0,2025-09-18 10:46:00.083271
 2025-09-18,6700,2025091805000196,MKJC,ABC Securities Private Limited,N.I.M.B. Stock Markets Limited,1500,587.4,881100.0,2025-09-18 10:46:00.303046
 2025-09-18,6350,2025091805000331,MKJC,KALASH STOCK MARKET PVT. LTD.,Online Securities Pvt. Ltd.,15,575.7,8635.5,2025-09-18 11:01:14.361363

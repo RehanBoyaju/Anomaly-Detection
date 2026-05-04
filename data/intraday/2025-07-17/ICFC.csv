@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141053,2025071703000083,ICFC,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,653.0,65300.0,2025-07-17 11:01:29.512413
 2025-07-17,139930,2025071703000278,ICFC,Kohinoor Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,648.0,6480.0,2025-07-17 11:04:20.063338
 2025-07-17,139199,2025071703000448,ICFC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,20,648.0,12960.0,2025-07-17 11:05:51.204591

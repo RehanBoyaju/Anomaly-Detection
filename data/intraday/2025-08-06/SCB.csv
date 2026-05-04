@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92127,2025080601000411,SCB,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,10,648.0,6480.0,2025-08-06 11:03:30.793115
 2025-08-06,91765,2025080601000527,SCB,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,60,638.0,38280.0,2025-08-06 11:04:39.307972
 2025-08-06,91676,2025080601000551,SCB,Malla & Malla Stock Broking Company Pvt. Limited,Sumeru Securities Pvt. Ltd.,14,640.0,8960.0,2025-08-06 11:04:54.199215

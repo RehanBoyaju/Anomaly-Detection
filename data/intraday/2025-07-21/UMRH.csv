@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,135279,2025072104001455,UMRH,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,10,632.1,6321.0,2025-07-21 11:06:38.654219
 2025-07-21,135278,2025072104001456,UMRH,Trademow Securities Private Limited,Aryatara Investment & Securities,129,632.0,81528.0,2025-07-21 11:06:38.654286
 2025-07-21,134505,2025072104001753,UMRH,Trademow Securities Private Limited,Kumari Securities Private Limited,371,632.0,234472.0,2025-07-21 11:07:41.422426

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,64974,2025092303000374,ICFC,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,196,667.0,130732.0,2025-09-23 11:08:04.368340
 2025-09-23,62221,2025092303000757,ICFC,Elite Stock House Limited,SUN SECURITIES PVT LTD,10,666.9,6669.0,2025-09-23 11:16:22.614354
 2025-09-23,58800,2025092303001307,ICFC,Sundhara Securities Limited,Kumari Securities Private Limited,304,666.0,202464.0,2025-09-23 11:27:27.891756

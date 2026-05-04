@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89385,2025090201000348,EBL,Sri Hari Securities Pvt. Ltd.,Sweta Securities Private Limited,10,780.6,7806.0,2025-09-02 10:46:00.105631
 2025-09-02,89223,2025090201000494,EBL,Swarna Laxmi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,100,765.0,76500.0,2025-09-02 11:00:19.511575
 2025-09-02,87520,2025090201002018,EBL,Kohinoor Investment & Securities Pvt. Ltd.,Linch Stock Market Ltd.,100,765.0,76500.0,2025-09-02 11:02:39.955054

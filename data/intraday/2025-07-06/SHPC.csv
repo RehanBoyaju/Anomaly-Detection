@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86343,2025070604000280,SHPC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Stoxkarts Securities Limited,80,604.9,48392.0,2025-07-06 11:04:17.738989
 2025-07-06,86162,2025070604000329,SHPC,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,50,600.1,30005.0,2025-07-06 11:04:50.301369
 2025-07-06,86161,2025070604000330,SHPC,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,85,600.0,51000.0,2025-07-06 11:04:50.301595

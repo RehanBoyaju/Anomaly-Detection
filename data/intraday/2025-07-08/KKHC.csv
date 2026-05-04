@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56187,2025070804000037,KKHC,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,164,430.0,70520.0,2025-07-08 11:00:22.556660
 2025-07-08,56122,2025070804000070,KKHC,Deevyaa Securities & Stock House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,442.0,4420.0,2025-07-08 11:00:58.668001
 2025-07-08,56093,2025070804000080,KKHC,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,1000,442.7,442700.0,2025-07-08 11:01:16.661537

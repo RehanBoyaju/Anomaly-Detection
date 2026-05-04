@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108657,2025092101000078,MBL,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,100,225.0,22500.0,2025-09-21 10:46:00.031342
 2025-09-21,108656,2025092101000079,MBL,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,100,225.0,22500.0,2025-09-21 10:46:00.031385
 2025-09-21,107680,2025092101000340,MBL,Imperial Securities Company Pvt. Ltd.,Linch Stock Market Ltd.,200,221.1,44220.0,2025-09-21 11:00:43.212888

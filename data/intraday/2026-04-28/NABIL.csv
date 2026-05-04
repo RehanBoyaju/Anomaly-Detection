@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NABIL,34,57,60,525.0,31500.0,2026-04-28 14:59:54.886,2026042801110731
 NABIL,34,57,33,525.0,17325.0,2026-04-28 14:59:40.251,2026042801110308
 NABIL,6,57,67,525.0,35175.0,2026-04-28 14:59:28.556,2026042801110090

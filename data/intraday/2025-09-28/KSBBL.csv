@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39774,2025092803000011,KSBBL,Creative Securities Pvt Ltd,KALASH STOCK MARKET PVT. LTD.,10,480.0,4800.0,2025-09-28 11:01:05.884610
 2025-09-28,37739,2025092803000124,KSBBL,Sundhara Securities Limited,Property Wiard Limited,1000,479.0,479000.0,2025-09-28 11:11:43.435891
 2025-09-28,36280,2025092803000282,KSBBL,S.P.S.A. Securities Limited,Naasa Securities Co. Ltd.,100,472.0,47200.0,2025-09-28 11:19:58.944816

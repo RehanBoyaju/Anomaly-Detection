@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73861,2025071504000077,JOSHI,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,347.0,34700.0,2025-07-15 11:01:31.384223
 2025-07-15,72150,2025071504000622,JOSHI,Sani Securities Company Ltd.,Secured Securities Ltd.,40,348.5,13940.0,2025-07-15 11:10:58.940891
 2025-07-15,72101,2025071504000644,JOSHI,Nepal Investment And Securities Trading Private Limited,Secured Securities Ltd.,100,348.5,34850.0,2025-07-15 11:11:10.527468

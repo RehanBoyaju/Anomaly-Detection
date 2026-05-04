@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97745,2025081104000124,SPDL,ABC Securities Private Limited,Linch Stock Market Ltd.,25,417.9,10447.5,2025-08-11 11:02:40.202242
 2025-08-11,96827,2025081104000287,SPDL,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,80,415.0,33200.0,2025-08-11 11:05:13.723908
 2025-08-11,96669,2025081104000323,SPDL,Sani Securities Company Ltd.,J.F. Securites (PVT) Ltd.,100,415.0,41500.0,2025-08-11 11:05:34.146689

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NIFRA,26,58,64,264.3,16915.2,2026-04-28 14:59:56.843,2026042805016493
 NIFRA,26,7,54,264.2,14266.8,2026-04-28 14:59:56.842,2026042805016492
 NIFRA,62,17,41,264.1,10828.1,2026-04-28 14:59:55.015,2026042805016450

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94600,2025080704000132,UMRH,Nagarik Stock Dealer ,Sani Securities Company Ltd.,10,630.0,6300.0,2025-08-07 11:04:07.596053
 2025-08-07,94234,2025080704000197,UMRH,Trishakti Securities Public Limited,Sani Securities Company Ltd.,18,630.1,11341.8,2025-08-07 11:05:34.294922
 2025-08-07,91863,2025080704000638,UMRH,Nagarik Stock Dealer ,Sri Hari Securities Pvt. Ltd.,99,632.1,62577.9,2025-08-07 11:13:17.293902

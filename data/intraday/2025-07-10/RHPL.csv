@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88301,2025071004000091,RHPL,Kumari Securities Private Limited,Sanima Securities Limited,35,344.0,12040.0,2025-07-10 11:01:50.262877
 2025-07-10,88300,2025071004000092,RHPL,Online Securities Pvt. Ltd.,Sanima Securities Limited,45,342.1,15394.5,2025-07-10 11:01:50.263031
 2025-07-10,88283,2025071004000099,RHPL,Siprabi Securities Pvt. Ltd.,Kumari Securities Private Limited,50,342.2,17110.0,2025-07-10 11:01:56.088941

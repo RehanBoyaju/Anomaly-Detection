@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37475,2025092504000011,SHEL,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,500,296.0,148000.0,2025-09-25 11:00:36.233886
 2025-09-25,37151,2025092504000076,SHEL,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,100,290.5,29050.0,2025-09-25 11:03:54.402016
 2025-09-25,37150,2025092504000077,SHEL,Blue Chip Securities Ltd,Nepal Stock House (PVT) Ltd.,50,290.2,14510.0,2025-09-25 11:03:54.402122

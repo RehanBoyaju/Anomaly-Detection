@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141179,2025073001000138,SCB,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,10,673.0,6730.0,2025-07-30 11:01:10.603909
 2025-07-30,141131,2025073001000149,SCB,Trisul Securities & Invt. Ltd.,Aryatara Investment & Securities,40,673.0,26920.0,2025-07-30 11:01:18.659109
 2025-07-30,141130,2025073001000150,SCB,Trisul Securities & Invt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,10,679.0,6790.0,2025-07-30 11:01:18.659254

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69218,2025081303000091,SADBL,Agrawal Securities (PVT) Ltd.,Primo Securities (PVT) Ltd.,10,442.0,4420.0,2025-08-13 11:05:13.116228
 2025-08-13,69177,2025081303000093,SADBL,Premier Securities Company Ltd.,Primo Securities (PVT) Ltd.,990,436.0,431640.0,2025-08-13 11:05:27.430102
 2025-08-13,68057,2025081303000247,SADBL,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,1000,438.0,438000.0,2025-08-13 11:11:30.902657

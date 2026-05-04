@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97842,2025081104000105,CHCL,Aakashbhairab Securities Ltd.,Aryatara Investment & Securities,100,539.8,53980.0,2025-08-11 11:02:22.649643
 2025-08-11,96007,2025081104000478,CHCL,Sundhara Securities Limited,Nepal Investment And Securities Trading Private Limited,100,535.0,53500.0,2025-08-11 11:07:07.406682
 2025-08-11,94999,2025081104000689,CHCL,Creative Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,50,532.0,26600.0,2025-08-11 11:09:34.100923

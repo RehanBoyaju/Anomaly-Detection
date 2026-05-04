@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,153985,2025072401000145,SANIMA,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,900,378.0,340200.0,2025-07-24 11:01:32.956301
 2025-07-24,153125,2025072401000322,SANIMA,Sagarmatha Securities Private Limited,Aryatara Investment & Securities,500,379.9,189950.0,2025-07-24 11:03:07.099111
 2025-07-24,153124,2025072401000323,SANIMA,Sagarmatha Securities Private Limited,Imperial Securities Company Pvt. Ltd.,10,380.0,3800.0,2025-07-24 11:03:07.099159

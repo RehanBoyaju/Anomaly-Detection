@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 EBL,42,56,10,698.1,6981.0,2026-04-28 14:59:14.290,2026042801109637
 EBL,49,42,30,698.2,20946.0,2026-04-28 14:58:13.908,2026042801108712
 EBL,42,66,147,698.1,102620.7,2026-04-28 14:56:20.756,2026042801107135

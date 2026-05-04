@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,66380,2025092303000154,SIFC,Thrive Brokerage House Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,517.0,103400.0,2025-09-23 11:03:44.550280
 2025-09-23,63118,2025092303000597,SIFC,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,56,506.7,28375.2,2025-09-23 11:13:30.629208
 2025-09-23,62530,2025092303000696,SIFC,ABC Securities Private Limited,ABC Securities Private Limited,100,507.0,50700.0,2025-09-23 11:15:21.900556

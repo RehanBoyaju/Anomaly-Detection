@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68914,2025090405000020,NYADI,Himalayan Securities Limited,Naasa Securities Co. Ltd.,10,398.1,3981.0,2025-09-04T11:00:51.760075
 2025-09-04,67894,2025090405000211,NYADI,N.I.M.B. Stock Markets Limited,Dakshinkali Investment & Securities Pvt. Ltd.,200,406.0,81200.0,2025-09-04T11:06:58.600691
 2025-09-04,65766,2025090405000769,NYADI,Sri Hari Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,405.0,4050.0,2025-09-04T11:15:07.283803

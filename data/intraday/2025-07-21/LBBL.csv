@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138801,2025072103000019,LBBL,BHOLE GANESH SECURITIES LTD,Naasa Securities Co. Ltd.,10,500.2,5002.0,2025-07-21 10:46:00.036349
 2025-07-21,138630,2025072103000060,LBBL,Vision Securities Pvt. Ltd,Linch Stock Market Ltd.,100,510.0,51000.0,2025-07-21 11:00:28.048935
 2025-07-21,138591,2025072103000066,LBBL,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,117,510.0,59670.0,2025-07-21 11:00:36.860567

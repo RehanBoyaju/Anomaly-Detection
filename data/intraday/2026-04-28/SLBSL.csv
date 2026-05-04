@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SLBSL,25,22,10,1231.9,12319.0,2026-04-28 14:59:33.137,2026042803008366
 SLBSL,58,58,20,1211.0,24220.0,2026-04-28 14:32:46.384,2026042803006604
 SLBSL,57,58,8,1206.0,9648.0,2026-04-28 14:32:17.098,2026042803006521

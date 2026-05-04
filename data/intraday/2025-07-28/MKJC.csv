@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,168161,2025072801000522,MKJC,Oxford Securities Pvt. Ltd.,Capital Max Securities Ltd,20,556.0,11120.0,2025-07-28T11:06:15.099969
 2025-07-28,165450,2025072801001219,MKJC,Oxford Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,547.0,5470.0,2025-07-28T11:10:42.918988
 2025-07-28,164136,2025072801001547,MKJC,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,19,547.0,10393.0,2025-07-28T11:12:17.742837

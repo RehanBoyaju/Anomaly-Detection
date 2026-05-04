@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138527,2025072103000078,GMFIL,Midas Stock Broking Company Private Limited,Opal Securities Investment (PVT) Ltd.,180,520.0,93600.0,2025-07-21 11:00:47.693106
 2025-07-21,138019,2025072103000168,GMFIL,Oxford Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,20,520.0,10400.0,2025-07-21 11:01:49.276804
 2025-07-21,135132,2025072103000806,GMFIL,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,30,515.0,15450.0,2025-07-21 11:06:52.253104

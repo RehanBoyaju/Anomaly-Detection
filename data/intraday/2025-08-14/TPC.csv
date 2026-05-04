@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,73977,2025081405001282,TPC,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,50,374.9,18745.0,2025-08-14 11:12:10.021604
 2025-08-14,73976,2025081405001283,TPC,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,101,375.0,37875.0,2025-08-14 11:12:10.021724
 2025-08-14,73975,2025081405001284,TPC,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,349,375.0,130875.0,2025-08-14 11:12:10.021866

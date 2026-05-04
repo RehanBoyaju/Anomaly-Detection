@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,96695,2025071605000278,CIT,Kohinoor Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,60,1944.0,116640.0,2025-07-16 11:09:33.021760
 2025-07-16,96575,2025071605000290,CIT,Miyo Securities Pvt Ltd,Arun Securities (PVT) Ltd.,10,1949.0,19490.0,2025-07-16 11:09:54.996675
 2025-07-16,96574,2025071605000291,CIT,Miyo Securities Pvt Ltd,Nepal Investment And Securities Trading Private Limited,10,1949.0,19490.0,2025-07-16 11:09:54.996767

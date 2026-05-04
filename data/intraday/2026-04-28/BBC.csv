@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BBC,43,54,10,4780.0,47800.0,2026-04-28 14:55:15.480,2026042805015349
 BBC,57,54,40,4780.0,191200.0,2026-04-28 14:55:15.480,2026042805015348
 BBC,47,54,10,4780.0,47800.0,2026-04-28 14:55:15.479,2026042805015347

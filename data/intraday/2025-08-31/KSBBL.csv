@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,92590,2025083103000078,KSBBL,Kumari Securities Private Limited,Stoxkarts Securities Limited,50,521.1,26055.0,2025-08-31T11:06:43.76016
 2025-08-31,92589,2025083103000079,KSBBL,Kohinoor Investment & Securities Pvt. Ltd.,Stoxkarts Securities Limited,50,521.1,26055.0,2025-08-31T11:06:43.760268
 2025-08-31,92588,2025083103000080,KSBBL,Kohinoor Investment & Securities Pvt. Ltd.,Stoxkarts Securities Limited,112,521.0,58352.0,2025-08-31T11:06:43.760334

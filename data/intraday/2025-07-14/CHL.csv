@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71912,2025071404000272,CHL,Sani Securities Company Ltd.,Asian Securities Private Ltd.,100,323.0,32300.0,2025-07-14 11:02:28.977501
 2025-07-14,71683,2025071404000357,CHL,Arun Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,323.7,3237.0,2025-07-14 11:03:15.933702
 2025-07-14,71314,2025071404000478,CHL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,323.7,6474.0,2025-07-14 11:04:18.712256

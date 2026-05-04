@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85469,2025081701000489,ADBL,Oxford Securities Pvt. Ltd.,Creative Securities Pvt Ltd,150,332.5,49875.0,2025-08-17 11:03:45.939235
 2025-08-17,85468,2025081701000490,ADBL,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,30,332.5,9975.0,2025-08-17 11:03:45.939385
 2025-08-17,84900,2025081701000648,ADBL,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,211,335.0,70685.0,2025-08-17 11:05:32.376452

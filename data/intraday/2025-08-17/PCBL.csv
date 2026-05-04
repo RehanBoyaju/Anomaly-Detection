@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86191,2025081701000195,PCBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,180,253.8,45684.0,2025-08-17 11:01:42.352436
 2025-08-17,85805,2025081701000378,PCBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,80,253.8,20304.0,2025-08-17 11:02:43.026015
 2025-08-17,85802,2025081701000381,PCBL,Thrive Brokerage House Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,500,252.1,126050.0,2025-08-17 11:02:44.030818

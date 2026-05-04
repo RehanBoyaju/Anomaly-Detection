@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NLICL,33,54,10,590.0,5900.0,2026-04-28 14:59:17.697,2026042803008307
 NLICL,33,63,290,590.0,171100.0,2026-04-28 14:59:17.696,2026042803008306
 NLICL,33,38,10,589.5,5895.0,2026-04-28 14:59:17.696,2026042803008305

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95472,2025080704000039,SHEL,Shree Krishna Securities Ltd.,Trademow Securities Private Limited,1500,307.0,460500.0,2025-08-07 11:00:58.597207
 2025-08-07,95194,2025080704000071,SHEL,Citizens Share Broker Limited,Agrawal Securities (PVT) Ltd.,50,309.8,15490.0,2025-08-07 11:02:08.234539
 2025-08-07,94955,2025080704000094,SHEL,Hatemalo Financial Services Private Limited,Agrawal Securities (PVT) Ltd.,500,309.8,154900.0,2025-08-07 11:03:00.042749

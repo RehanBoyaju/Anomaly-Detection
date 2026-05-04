@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87197,2025070604000040,PPCL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,51,385.0,19635.0,2025-07-06 11:00:52.601081
 2025-07-06,87021,2025070604000085,PPCL,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,50,385.0,19250.0,2025-07-06 11:01:40.136525
 2025-07-06,86881,2025070604000128,PPCL,Sharepro Securities Private Limited,Online Securities Pvt. Ltd.,250,383.0,95750.0,2025-07-06 11:02:14.218491

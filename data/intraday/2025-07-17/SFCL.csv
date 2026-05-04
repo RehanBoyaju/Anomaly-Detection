@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,139541,2025071703000376,SFCL,Secured Securities Ltd.,Secured Securities Ltd.,200,541.0,108200.0,2025-07-17 11:05:12.736703
 2025-07-17,138520,2025071703000560,SFCL,SHUBHAKAMANA SECURITIES PVT. LTD,ABC Securities Private Limited,200,545.0,109000.0,2025-07-17 11:07:19.816998
 2025-07-17,138519,2025071703000561,SFCL,SHUBHAKAMANA SECURITIES PVT. LTD,ABC Securities Private Limited,300,545.0,163500.0,2025-07-17 11:07:19.817069

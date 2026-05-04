@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89366,2025090201000363,ADBL,Vision Securities Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,10,334.0,3340.0,2025-09-02 10:46:00.158346
 2025-09-02,89365,2025090201000364,ADBL,Sri Hari Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,10,334.0,3340.0,2025-09-02 10:46:00.158379
 2025-09-02,85530,2025090201003694,ADBL,J.F. Securites (PVT) Ltd.,Linch Stock Market Ltd.,2,327.4,654.8,2025-09-02 11:05:56.706597

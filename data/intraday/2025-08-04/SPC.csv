@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149183,2025080401000008,SPC,Imperial Securities Company Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,531.2,5312.0,2025-08-04 10:46:00.124523
 2025-08-04,140015,2025080401006867,SPC,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,10,541.8,5418.0,2025-08-04 11:08:23.733671
 2025-08-04,136840,2025080401008936,SPC,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,100,552.6,55260.0,2025-08-04 11:11:16.251121

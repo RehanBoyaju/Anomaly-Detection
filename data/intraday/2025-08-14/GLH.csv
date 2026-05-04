@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76072,2025081404000105,GLH,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,270.0,2700.0,2025-08-14 11:02:45.951716
 2025-08-14,72508,2025081404000591,GLH,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,10,266.1,2661.0,2025-08-14 11:17:05.563665
 2025-08-14,71698,2025081404000704,GLH,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,10,267.0,2670.0,2025-08-14 11:20:29.349044

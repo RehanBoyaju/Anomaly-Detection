@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UHEWA,42,38,11,568.1,6249.1,2026-04-28 14:58:07.423,2026042805015871
 UHEWA,42,49,1,568.1,568.1,2026-04-28 14:57:59.817,2026042805015852
 UHEWA,42,33,1,564.0,564.0,2026-04-28 14:57:35.449,2026042805015762

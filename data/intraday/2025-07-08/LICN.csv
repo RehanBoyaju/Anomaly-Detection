@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55341,2025070803000119,LICN,Nepal Investment And Securities Trading Private Limited,Nepal Stock House (PVT) Ltd.,24,880.0,21120.0,2025-07-08 11:05:55.210057
 2025-07-08,55142,2025070803000169,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,26,880.0,22880.0,2025-07-08 11:06:48.596302
 2025-07-08,54890,2025070803000214,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Himalayan Securities Limited,19,888.0,16872.0,2025-07-08 11:08:03.980745

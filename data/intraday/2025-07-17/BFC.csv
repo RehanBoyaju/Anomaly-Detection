@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,138719,2025071703000531,BFC,Midas Stock Broking Company Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,300,520.0,156000.0,2025-07-17 11:06:55.991781
 2025-07-17,138718,2025071703000532,BFC,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,150,520.0,78000.0,2025-07-17 11:06:55.991835
 2025-07-17,138717,2025071703000533,BFC,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,50,520.0,26000.0,2025-07-17 11:06:55.991862

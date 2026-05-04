@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77877,2025082804000152,CGH,Creative Securities Pvt Ltd,Sani Securities Company Ltd.,200,1055.0,211000.0,2025-08-28 11:02:56.248930
 2025-08-28,77876,2025082804000153,CGH,Cristal Kanchanjanga Securites Pvt. Ltd.,Sani Securities Company Ltd.,100,1055.0,105500.0,2025-08-28 11:02:56.249060
 2025-08-28,77875,2025082804000154,CGH,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,10,1050.1,10501.0,2025-08-28 11:02:56.249163

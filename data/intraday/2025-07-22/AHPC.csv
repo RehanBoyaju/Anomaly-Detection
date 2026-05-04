@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177087,2025072204000007,AHPC,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,10,305.4,3054.0,2025-07-22 10:46:00.025709
 2025-07-22,176692,2025072204000093,AHPC,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,183,301.0,55083.0,2025-07-22 11:01:23.403122
 2025-07-22,175721,2025072204000339,AHPC,Sri Hari Securities Pvt. Ltd.,Sharepro Securities Private Limited,50,301.0,15050.0,2025-07-22 11:03:23.552838

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HLI,26,7,1,340.0,340.0,2026-04-28 14:59:53.711,2026042803008470
 HLI,51,16,78,345.0,26910.0,2026-04-28 14:59:48.995,2026042803008434
 HLI,51,43,122,345.0,42090.0,2026-04-28 14:59:48.995,2026042803008433

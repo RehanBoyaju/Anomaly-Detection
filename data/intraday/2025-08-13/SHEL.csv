@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69200,2025081304000150,SHEL,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,20,299.2,5984.0,2025-08-13 11:05:18.804632
 2025-08-13,68811,2025081304000237,SHEL,Aryatara Investment & Securities,BHOLE GANESH SECURITIES LTD,500,302.0,151000.0,2025-08-13 11:07:41.971727
 2025-08-13,68466,2025081304000294,SHEL,Sani Securities Company Ltd.,Linch Stock Market Ltd.,300,302.0,90600.0,2025-08-13 11:09:11.944620

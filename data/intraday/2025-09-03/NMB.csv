@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68532,2025090301000033,NMB,Secured Securities Ltd.,Midas Stock Broking Company Private Limited,10,258.0,2580.0,2025-09-03 10:46:00.048316
 2025-09-03,67259,2025090301000882,NMB,J.F. Securites (PVT) Ltd.,Shree Krishna Securities Ltd.,20,253.8,5076.0,2025-09-03 11:06:33.726002
 2025-09-03,65326,2025090301002152,NMB,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,98,250.1,24509.8,2025-09-03 11:14:13.247049

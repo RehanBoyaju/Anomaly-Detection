@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66974,2025081803000094,ALICL,Secured Securities Ltd.,Vision Securities Pvt. Ltd,30,481.1,14433.0,2025-08-18T11:06:46.218708
 2025-08-18,65918,2025081803000178,ALICL,Secured Securities Ltd.,Oxford Securities Pvt. Ltd.,110,483.1,53141.0,2025-08-18T11:11:29.806472
 2025-08-18,62458,2025081803000670,ALICL,Indira securities pvt. ltd,Kohinoor Investment & Securities Pvt. Ltd.,100,485.0,48500.0,2025-08-18T11:27:19.005654

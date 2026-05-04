@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88500,2025071001000054,NBL,Nepal Stock House (PVT) Ltd.,Stoxkarts Securities Limited,50,268.0,13400.0,2025-07-10 11:00:31.559744
 2025-07-10,88135,2025071001000187,NBL,Nabil Stock Dealer Ltd.,Creative Securities Pvt Ltd,10,267.9,2679.0,2025-07-10 11:02:48.166248
 2025-07-10,88134,2025071001000188,NBL,Nabil Stock Dealer Ltd.,Stoxkarts Securities Limited,90,268.0,24120.0,2025-07-10 11:02:48.166306

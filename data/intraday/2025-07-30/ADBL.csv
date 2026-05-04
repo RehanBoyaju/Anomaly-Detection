@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141425,2025073001000009,ADBL,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,10,342.0,3420.0,2025-07-30 10:46:00.081997
 2025-07-30,140153,2025073001000471,ADBL,Market Securities & Exchange (PVT) Ltd.,Sani Securities Company Ltd.,100,336.2,33620.0,2025-07-30 11:03:39.937454
 2025-07-30,139636,2025073001000650,ADBL,Pragyan Securities (PVT) Ltd.,Aryatara Investment & Securities,90,338.0,30420.0,2025-07-30 11:04:50.168047

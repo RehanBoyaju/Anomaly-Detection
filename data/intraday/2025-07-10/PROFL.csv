@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88465,2025071003000014,PROFL,Capital Max Securities Ltd,ABC Securities Private Limited,10,493.0,4930.0,2025-07-10 11:00:47.737690
 2025-07-10,87497,2025071003000141,PROFL,Asian Securities Private Ltd.,Midas Stock Broking Company Private Limited,500,510.0,255000.0,2025-07-10 11:05:53.284020
 2025-07-10,87127,2025071003000184,PROFL,Naasa Securities Co. Ltd.,ABC Securities Private Limited,10,500.2,5002.0,2025-07-10 11:07:30.341588

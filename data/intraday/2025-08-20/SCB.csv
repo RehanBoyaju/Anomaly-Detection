@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,52531,2025082001000238,SCB,Nepal Stock House (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,24,630.0,15120.0,2025-08-20 11:10:44.551456
 2025-08-20,52358,2025082001000285,SCB,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,76,630.0,47880.0,2025-08-20 11:11:59.887121
 2025-08-20,52034,2025082001000346,SCB,Capital Max Securities Ltd,Dynamic Money Managers Securities Pvt. Ltd.,40,630.0,25200.0,2025-08-20 11:14:14.691093

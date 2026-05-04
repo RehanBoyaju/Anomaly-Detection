@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7131,2025091804000079,GHL,Premier Securities Company Ltd.,Sani Securities Company Ltd.,200,212.9,42580.0,2025-09-18 10:46:00.097714
 2025-09-18,7130,2025091804000080,GHL,Primo Securities (PVT) Ltd.,Sani Securities Company Ltd.,50,212.9,10645.0,2025-09-18 10:46:00.097745
 2025-09-18,6962,2025091804000158,GHL,Trishakti Securities Public Limited,Sani Securities Company Ltd.,150,212.9,31935.0,2025-09-18 10:46:00.181854

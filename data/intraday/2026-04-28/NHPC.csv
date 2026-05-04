@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NHPC,48,96,650,297.0,193050.0,2026-04-28 14:59:59.942,2026042804015078
 NHPC,21,96,10,297.0,2970.0,2026-04-28 14:59:58.170,2026042804015034
 NHPC,44,65,170,296.5,50405.0,2026-04-28 14:59:55.665,2026042804014985

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,153195,2025072404000666,DHPL,Trishakti Securities Public Limited,Sani Securities Company Ltd.,180,358.0,64440.0,2025-07-24 11:02:59.542049
 2025-07-24,153194,2025072404000667,DHPL,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,250,358.0,89500.0,2025-07-24 11:02:59.542103
 2025-07-24,153193,2025072404000668,DHPL,Trishakti Securities Public Limited,Malla & Malla Stock Broking Company Pvt. Limited,20,358.1,7162.0,2025-07-24 11:02:59.542134

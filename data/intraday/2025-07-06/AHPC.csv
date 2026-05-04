@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87383,2025070604000001,AHPC,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,20,290.0,5800.0,2025-07-06 10:46:00.021725
 2025-07-06,87382,2025070604000002,AHPC,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,30,290.0,8700.0,2025-07-06 10:46:00.021767
 2025-07-06,87248,2025070604000032,AHPC,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,50,290.0,14500.0,2025-07-06 11:00:33.902330

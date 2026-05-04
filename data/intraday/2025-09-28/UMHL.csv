@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38925,2025092804000166,UMHL,Property Wiard Limited,Capital Max Securities Ltd,70,550.0,38500.0,2025-09-28 11:05:44.295014
 2025-09-28,38512,2025092804000256,UMHL,ABC Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,10,544.0,5440.0,2025-09-28 11:07:42.692515
 2025-09-28,38495,2025092804000259,UMHL,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,10,550.0,5500.0,2025-09-28 11:07:50.289754

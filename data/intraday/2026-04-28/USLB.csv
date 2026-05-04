@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 USLB,66,59,10,1324.0,13240.0,2026-04-28 14:59:58.552,2026042803008665
 USLB,57,54,20,1320.0,26400.0,2026-04-28 14:58:46.483,2026042803008209
 USLB,10,54,10,1320.0,13200.0,2026-04-28 14:58:20.412,2026042803008162

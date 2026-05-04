@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154633,2025072403000003,NFS,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,769.9,7699.0,2025-07-24 10:46:00.018053
 2025-07-24,154632,2025072403000004,NFS,Beni Securities Pvt.Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,769.9,7699.0,2025-07-24 10:46:00.018092
 2025-07-24,153359,2025072403000191,NFS,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,50,760.0,38000.0,2025-07-24 11:02:48.217926

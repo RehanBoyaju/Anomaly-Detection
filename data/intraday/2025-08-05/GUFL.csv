@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,111050,2025080503000835,GUFL,Secured Securities Ltd.,Aryatara Investment & Securities,11,578.0,6358.0,2025-08-05 11:18:07.199112
 2025-08-05,109298,2025080503000996,GUFL,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,20,578.0,11560.0,2025-08-05 11:20:44.892301
 2025-08-05,103474,2025080503001475,GUFL,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,50,577.0,28850.0,2025-08-05 11:29:22.620906

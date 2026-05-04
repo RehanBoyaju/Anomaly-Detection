@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,166300,2025073103000565,NLICL,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,31,636.1,19719.1,2025-07-31 11:05:04.682848
 2025-07-31,164395,2025073103001030,NLICL,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,636.6,6366.0,2025-07-31 11:08:00.737619
 2025-07-31,163209,2025073103001263,NLICL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,637.0,19110.0,2025-07-31 11:09:48.555792

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,155013,2025072904000485,NHDL,Kohinoor Investment & Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,315,754.4,237636.0,2025-07-29 11:05:19.193631
 2025-07-29,151709,2025072904001377,NHDL,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,769.0,76900.0,2025-07-29 11:09:59.602943
 2025-07-29,146382,2025072904002763,NHDL,Online Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,200,754.0,150800.0,2025-07-29 11:17:42.603404

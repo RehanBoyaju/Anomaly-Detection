@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,91053,2025080604000318,JOSHI,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,45,324.0,14580.0,2025-08-06 11:06:30.508363
 2025-08-06,90164,2025080604000451,JOSHI,Thrive Brokerage House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,10,320.0,3200.0,2025-08-06 11:08:48.589895
 2025-08-06,89641,2025080604000516,JOSHI,Thrive Brokerage House Pvt. Ltd,Sani Securities Company Ltd.,90,320.0,28800.0,2025-08-06 11:09:55.957367

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CORBL,17,3,10,2353.0,23530.0,2026-04-28 14:59:59.121,2026042803008671
 CORBL,46,32,10,3183.0,31830.0,2026-04-28 14:59:55.359,2026042803008645
 CORBL,46,58,100,3160.0,316000.0,2026-04-28 14:59:55.359,2026042803008644

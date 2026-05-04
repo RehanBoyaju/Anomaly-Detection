@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152496,2025080303000012,GUFL,Investment Management Nepal Pvt. Ltd.,J.F. Securites (PVT) Ltd.,100,570.4,57040.0,2025-08-03T10:46:00.021378
 2025-08-03,152495,2025080303000013,GUFL,J.F. Securites (PVT) Ltd.,J.F. Securites (PVT) Ltd.,50,570.4,28520.0,2025-08-03T10:46:00.021405
 2025-08-03,152494,2025080303000014,GUFL,Neev Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,500,570.4,285200.0,2025-08-03T10:46:00.021449

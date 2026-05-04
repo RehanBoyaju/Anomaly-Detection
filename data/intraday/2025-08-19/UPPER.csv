@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61231,2025081904000243,UPPER,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,150,197.0,29550.0,2025-08-19 11:03:30.579114
 2025-08-19,61185,2025081904000270,UPPER,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,350,197.0,68950.0,2025-08-19 11:03:53.760361
 2025-08-19,61184,2025081904000271,UPPER,Sundhara Securities Limited,Naasa Securities Co. Ltd.,150,197.0,29550.0,2025-08-19 11:03:53.760501

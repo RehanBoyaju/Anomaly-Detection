@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 DORDI,7,34,100,277.5,27750.0,2026-04-28 14:59:53.515,2026042805016437
 DORDI,42,48,329,277.0,91133.0,2026-04-28 14:59:50.863,2026042805016418
 DORDI,48,48,400,277.0,110800.0,2026-04-28 14:59:50.863,2026042805016417

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74003,2025071503000007,SAPDBL,SHUBHAKAMANA SECURITIES PVT. LTD,Sundhara Securities Limited,10,1078.6,10786.0,2025-07-15 10:46:00.079998
 2025-07-15,74002,2025071503000008,SAPDBL,Premier Securities Company Ltd.,Sundhara Securities Limited,10,1078.6,10786.0,2025-07-15 10:46:00.080053
 2025-07-15,73973,2025071503000009,SAPDBL,Hatemalo Financial Services Private Limited,Blue Chip Securities Ltd,10,1058.0,10580.0,2025-07-15 11:00:27.024482

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170356,2025072801000078,GBIME,Global IME Securities Limited,Naasa Securities Co. Ltd.,1,264.0,264.0,2025-07-28T11:01:23.712545
 2025-07-28,167087,2025072801000777,GBIME,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,1000,261.0,261000.0,2025-07-28T11:08:18.36786
 2025-07-28,166741,2025072801000863,GBIME,ABC Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,100,260.0,26000.0,2025-07-28T11:08:56.024195

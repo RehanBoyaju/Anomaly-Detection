@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56083,2025082501000184,PRVU,Kumari Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,600,211.0,126600.0,2025-08-25 11:04:58.135319
 2025-08-25,56082,2025082501000185,PRVU,Kumari Securities Private Limited,Oxford Securities Pvt. Ltd.,40,211.0,8440.0,2025-08-25 11:04:58.135445
 2025-08-25,54829,2025082501000406,PRVU,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,211.0,2110.0,2025-08-25 11:11:00.118600

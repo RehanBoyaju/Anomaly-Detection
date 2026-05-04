@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39781,2025092804000024,SSHL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,23,183.0,4209.0,2025-09-28 11:00:59.080419
 2025-09-28,39590,2025092804000050,SSHL,Sweta Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,183.0,36600.0,2025-09-28 11:01:58.741038
 2025-09-28,39269,2025092804000110,SSHL,Sweta Securities Private Limited,Nepal Stock House (PVT) Ltd.,30,182.0,5460.0,2025-09-28 11:03:52.062141

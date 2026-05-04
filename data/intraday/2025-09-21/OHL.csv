@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108853,2025092104000016,OHL,Creative Securities Pvt Ltd,Sumeru Securities Pvt. Ltd.,200,700.0,140000.0,2025-09-21 10:46:00.011406
 2025-09-21,108852,2025092104000017,OHL,Trisul Securities & Invt. Ltd.,Sumeru Securities Pvt. Ltd.,80,700.0,56000.0,2025-09-21 10:46:00.011443
 2025-09-21,106025,2025092104000663,OHL,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,50,700.0,35000.0,2025-09-21 11:02:12.470890

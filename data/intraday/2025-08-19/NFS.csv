@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61055,2025081903000087,NFS,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2000,737.7,1475400.0,2025-08-19 11:04:58.578422
 2025-08-19,60097,2025081903000161,NFS,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,50,735.0,36750.0,2025-08-19 11:10:50.711865
 2025-08-19,60096,2025081903000162,NFS,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,80,735.0,58800.0,2025-08-19 11:10:50.712096

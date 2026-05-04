@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,152113,2025072403000383,GMFIL,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,20,545.0,10900.0,2025-07-24 11:05:02.778873
 2025-07-24,149837,2025072403000835,GMFIL,Trishakti Securities Public Limited,Himalayan Securities Limited,350,548.9,192115.0,2025-07-24 11:08:51.341351
 2025-07-24,146377,2025072403001619,GMFIL,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,50,538.0,26900.0,2025-07-24 11:14:38.551854

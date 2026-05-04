@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,53571,2025082505000833,NYADI,Bhrikuti Stock Broking Co. Pvt. Ltd.,Citizens Share Broker Limited,20,429.0,8580.0,2025-08-25 11:17:48.637139
 2025-08-25,51953,2025082505001385,NYADI,Swarna Laxmi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,423.0,4230.0,2025-08-25 11:24:48.040241
 2025-08-25,51202,2025082505001585,NYADI,Swarna Laxmi Securities Pvt. Ltd.,Sani Securities Company Ltd.,10,423.0,4230.0,2025-08-25 11:28:36.786616

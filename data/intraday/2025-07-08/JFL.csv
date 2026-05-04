@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55558,2025070803000099,JFL,Sani Securities Company Ltd.,Kumari Securities Private Limited,13,494.0,6422.0,2025-07-08 11:04:43.179070
 2025-07-08,55521,2025070803000110,JFL,Aryatara Investment & Securities,Kumari Securities Private Limited,37,494.0,18278.0,2025-07-08 11:04:58.618479
 2025-07-08,55520,2025070803000111,JFL,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,20,500.0,10000.0,2025-07-08 11:04:58.618602

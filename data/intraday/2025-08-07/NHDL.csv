@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,92707,2025080704000463,NHDL,Blue Chip Securities Ltd,Agrawal Securities (PVT) Ltd.,1,702.2,702.2,2025-08-07 11:10:21.427149
 2025-08-07,88638,2025080704001277,NHDL,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,14,711.5,9961.0,2025-08-07 11:22:14.945908
 2025-08-07,84052,2025080704002166,NHDL,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,30,725.7,21771.0,2025-08-07 11:36:22.578460

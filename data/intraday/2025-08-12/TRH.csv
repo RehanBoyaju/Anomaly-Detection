@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,71469,2025081204001622,TRH,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,942.0,9420.0,2025-08-12 11:24:02.402665
 2025-08-12,62466,2025081204003761,TRH,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,960.0,48000.0,2025-08-12 11:48:30.366973
 2025-08-12,62060,2025081204003856,TRH,Secured Securities Ltd.,Shree Krishna Securities Ltd.,100,965.0,96500.0,2025-08-12 11:49:36.103654

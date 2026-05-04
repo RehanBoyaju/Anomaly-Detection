@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,155002,2025072903000485,CFCL,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,50,585.0,29250.0,2025-07-29 11:05:20.529278
 2025-07-29,153982,2025072903000731,CFCL,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,20,585.0,11700.0,2025-07-29 11:06:55.469576
 2025-07-29,153001,2025072903000926,CFCL,Sagarmatha Securities Private Limited,Online Securities Pvt. Ltd.,50,580.0,29000.0,2025-07-29 11:08:19.777612

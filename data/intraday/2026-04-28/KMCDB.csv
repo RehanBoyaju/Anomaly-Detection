@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KMCDB,65,50,161,885.1,142501.1,2026-04-28 14:59:28.403,2026042803008347
 KMCDB,13,50,49,886.0,43414.0,2026-04-28 14:59:28.403,2026042803008346
 KMCDB,80,50,20,888.0,17760.0,2026-04-28 14:59:28.403,2026042803008345

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,145596,2025073103004327,GUFL,Kalika Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,100,578.0,57800.0,2025-07-31 11:31:45.458161
 2025-07-31,141625,2025073103004830,GUFL,Secured Securities Ltd.,Citizens Share Broker Limited,10,578.0,5780.0,2025-07-31 11:36:12.056932
 2025-07-31,139593,2025073103005061,GUFL,Neev Securities Pvt. Ltd.,Citizens Share Broker Limited,40,576.5,23060.0,2025-07-31 11:38:38.053457

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67275,2025081803000064,CORBL,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,100,1974.0,197400.0,2025-08-18T11:05:14.510818
 2025-08-18,66480,2025081803000126,CORBL,KALASH STOCK MARKET PVT. LTD.,Sweta Securities Private Limited,475,1960.0,931000.0,2025-08-18T11:08:49.830274
 2025-08-18,66291,2025081803000148,CORBL,Nepal Stock House (PVT) Ltd.,Sweta Securities Private Limited,25,1960.0,49000.0,2025-08-18T11:09:50.64353

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,145132,2025080404000817,BARUN,Ashutosh Brokerage & Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,10,375.0,3750.0,2025-08-04 11:04:15.101995
 2025-08-04,145131,2025080404000818,BARUN,Ashutosh Brokerage & Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,30,375.0,11250.0,2025-08-04 11:04:15.102040
 2025-08-04,144904,2025080404000848,BARUN,Ashutosh Brokerage & Securities (PVT) Ltd.,Trishakti Securities Public Limited,500,375.0,187500.0,2025-08-04 11:04:28.155751

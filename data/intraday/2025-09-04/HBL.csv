@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,69020,2025090401000001,HBL,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,10,200.0,2000.0,2025-09-04T10:46:00.010815
 2025-09-04,69019,2025090401000002,HBL,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,200.0,2000.0,2025-09-04T10:46:00.010879
 2025-09-04,68963,2025090401000017,HBL,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,10,202.0,2020.0,2025-09-04T10:46:00.327944

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,97155,2025083104000014,UPPER,Sri Hari Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,50,195.5,9775.0,2025-08-31T10:46:00.033195
 2025-08-31,96476,2025083104000040,UPPER,Malla & Malla Stock Broking Company Pvt. Limited,Neev Securities Pvt. Ltd.,100,195.0,19500.0,2025-08-31T11:00:50.376491
 2025-08-31,96054,2025083104000057,UPPER,Sundhara Securities Limited,Neev Securities Pvt. Ltd.,50,195.0,9750.0,2025-08-31T11:01:24.796139

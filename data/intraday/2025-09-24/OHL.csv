@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,39972,2025092404002213,OHL,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,40,732.0,29280.0,2025-09-24 11:37:29.015182
 2025-09-24,38037,2025092404002756,OHL,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,50,738.0,36900.0,2025-09-24 11:47:40.801597
 2025-09-24,37350,2025092404002932,OHL,Neev Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,30,738.0,22140.0,2025-09-24 11:52:24.678631

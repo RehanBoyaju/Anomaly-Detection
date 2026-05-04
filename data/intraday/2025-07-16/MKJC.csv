@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99429,2025071601000008,MKJC,Linch Stock Market Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,527.3,5273.0,2025-07-16 10:46:00.117165
 2025-07-16,99428,2025071601000009,MKJC,KALASH STOCK MARKET PVT. LTD.,KALASH STOCK MARKET PVT. LTD.,10,527.3,5273.0,2025-07-16 10:46:00.117200
 2025-07-16,99316,2025071601000083,MKJC,KALASH STOCK MARKET PVT. LTD.,Creative Securities Pvt Ltd,10,537.0,5370.0,2025-07-16 11:00:47.947829

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105126,2025071303000060,MDB,Online Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,50,614.8,30740.0,2025-07-13T10:46:00.060968
 2025-07-13,105125,2025071303000061,MDB,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,100,614.8,61480.0,2025-07-13T10:46:00.06102
 2025-07-13,102303,2025071303000710,MDB,Midas Stock Broking Company Private Limited,Asian Securities Private Ltd.,100,620.0,62000.0,2025-07-13T11:02:16.42029

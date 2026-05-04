@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SBL,58,4,120,389.0,46680.0,2026-04-28 14:59:36.924,2026042801110259
 SBL,44,4,15,389.0,5835.0,2026-04-28 14:59:33.412,2026042801110185
 SBL,67,4,100,389.0,38900.0,2026-04-28 14:59:24.185,2026042801109850

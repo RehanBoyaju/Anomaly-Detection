@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,66794,2025090304000237,GLH,Siprabi Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,10,265.4,2654.0,2025-09-03 11:08:40.106794
 2025-09-03,66623,2025090304000256,GLH,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,262.0,2620.0,2025-09-03 11:09:27.511304
 2025-09-03,64668,2025090304000470,GLH,Vision Securities Pvt. Ltd,K.B.L. Securities Limited ,10,262.2,2622.0,2025-09-03 11:16:37.765692

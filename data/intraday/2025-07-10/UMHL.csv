@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88585,2025071004000014,UMHL,Sani Securities Company Ltd.,Capital Max Securities Ltd,20,560.1,11202.0,2025-07-10 10:46:00.042909
 2025-07-10,88584,2025071004000015,UMHL,Himalayan Brokerage Company Limited,Capital Max Securities Ltd,2500,560.1,1400250.0,2025-07-10 10:46:00.042940
 2025-07-10,88583,2025071004000016,UMHL,Sagarmatha Securities Private Limited,Capital Max Securities Ltd,480,560.1,268848.0,2025-07-10 10:46:00.042968

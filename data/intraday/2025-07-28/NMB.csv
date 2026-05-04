@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170229,2025072801000113,NMB,Arun Securities (PVT) Ltd.,Sweta Securities Private Limited,10,270.0,2700.0,2025-07-28T11:01:49.76072
 2025-07-28,168883,2025072801000378,NMB,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,58,270.0,15660.0,2025-07-28T11:04:53.578161
 2025-07-28,168882,2025072801000379,NMB,Naasa Securities Co. Ltd.,J.F. Securites (PVT) Ltd.,115,270.0,31050.0,2025-07-28T11:04:53.578247

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67181,2025092304000060,NGPL,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,200,391.0,78200.0,2025-09-23 11:01:00.165300
 2025-09-23,67101,2025092304000085,NGPL,Nepal Stock House (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,400,396.0,158400.0,2025-09-23 11:01:27.681955
 2025-09-23,66924,2025092304000152,NGPL,Nepal Stock House (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,100,396.0,39600.0,2025-09-23 11:02:05.121928

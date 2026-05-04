@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56802,2025082104000012,KPCL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,600.0,30000.0,2025-08-21 10:46:00.048285
 2025-08-21,56801,2025082104000013,KPCL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,600.0,30000.0,2025-08-21 10:46:00.048310
 2025-08-21,56668,2025082104000056,KPCL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,50,598.0,29900.0,2025-08-21 11:01:58.103405

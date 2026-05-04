@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,34525,2025092503000374,MDB,KALASH STOCK MARKET PVT. LTD.,South Asian Bulls Pvt. Ltd.,400,608.0,243200.0,2025-09-25 11:25:24.217805
 2025-09-25,33269,2025092503000590,MDB,KALASH STOCK MARKET PVT. LTD.,South Asian Bulls Pvt. Ltd.,100,608.0,60800.0,2025-09-25 11:34:10.346365
 2025-09-25,30898,2025092503001002,MDB,Neev Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,27,602.5,16267.5,2025-09-25 11:54:05.379532

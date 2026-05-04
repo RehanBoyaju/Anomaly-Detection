@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86523,2025081701000066,NMB,Bhrikuti Stock Broking Co. Pvt. Ltd.,Arun Securities (PVT) Ltd.,50,254.0,12700.0,2025-08-17 11:00:09.099540
 2025-08-17,84866,2025081701000655,NMB,Trishakti Securities Public Limited,Kumari Securities Private Limited,200,253.2,50640.0,2025-08-17 11:05:37.857416
 2025-08-17,84836,2025081701000665,NMB,ABC Securities Private Limited,Kalika Securities Pvt. Ltd.,39,253.1,9870.9,2025-08-17 11:05:45.847448

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98483,2025081101000020,CZBIL,Sani Securities Company Ltd.,Sweta Securities Private Limited,65,228.0,14820.0,2025-08-11 10:46:00.040666
 2025-08-11,98482,2025081101000021,CZBIL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,135,228.0,30780.0,2025-08-11 10:46:00.040692
 2025-08-11,97763,2025081101000323,CZBIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Thrive Brokerage House Pvt. Ltd,250,226.0,56500.0,2025-08-11 11:02:36.815190

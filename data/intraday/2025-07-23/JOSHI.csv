@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169716,2025072304000214,JOSHI,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,350,352.0,123200.0,2025-07-23 11:01:03.077709
 2025-07-23,168898,2025072304000459,JOSHI,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,15,358.9,5383.5,2025-07-23 11:02:17.672129
 2025-07-23,166685,2025072304001267,JOSHI,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,1000,352.0,352000.0,2025-07-23 11:05:08.533890

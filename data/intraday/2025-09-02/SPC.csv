@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,83143,2025090205000745,SPC,Sani Securities Company Ltd.,Aryatara Investment & Securities,10,515.0,5150.0,2025-09-02 11:10:06.149716
 2025-09-02,82065,2025090205000890,SPC,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,509.0,5090.0,2025-09-02 11:12:11.947121
 2025-09-02,79750,2025090205001172,SPC,Capital Hub P. Ltd,Malla & Malla Stock Broking Company Pvt. Limited,20,510.2,10204.0,2025-09-02 11:16:57.345327

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HBL,29,39,113,206.8,23368.4,2026-04-28 14:59:57.813,2026042801110932
 HBL,29,32,10,206.5,2065.0,2026-04-28 14:59:57.813,2026042801110931
 HBL,29,43,10,206.5,2065.0,2026-04-28 14:59:57.813,2026042801110930

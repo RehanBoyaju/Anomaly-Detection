@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170240,2025072803000086,MDB,Nepal Stock House (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,200,694.0,138800.0,2025-07-28T11:01:47.827444
 2025-07-28,170239,2025072803000087,MDB,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,600,695.0,417000.0,2025-07-28T11:01:47.827555
 2025-07-28,170015,2025072803000119,MDB,Sumeru Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,32,694.9,22236.8,2025-07-28T11:02:23.273604

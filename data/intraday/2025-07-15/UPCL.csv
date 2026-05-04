@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74008,2025071504000029,UPCL,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,402.6,4026.0,2025-07-15 10:46:00.053999
 2025-07-15,73972,2025071504000034,UPCL,SHUBHAKAMANA SECURITIES PVT. LTD,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,400.0,4000.0,2025-07-15 11:00:29.650008
 2025-07-15,73964,2025071504000040,UPCL,Naasa Securities Co. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,395.0,3950.0,2025-07-15 11:00:36.691245

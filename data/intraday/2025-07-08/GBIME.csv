@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56102,2025070801000043,GBIME,J.F. Securites (PVT) Ltd.,Online Securities Pvt. Ltd.,100,239.0,23900.0,2025-07-08 11:01:08.696688
 2025-07-08,55985,2025070801000054,GBIME,Sundhara Securities Limited,Kalika Securities Pvt. Ltd.,108,238.8,25790.4,2025-07-08 11:02:02.087683
 2025-07-08,55489,2025070801000139,GBIME,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,30,239.0,7170.0,2025-07-08 11:05:07.525368

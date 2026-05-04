@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66666,2025081804000284,SHL,Nagarik Stock Dealer ,Vision Securities Pvt. Ltd,100,566.8,56680.0,2025-08-18T11:08:10.246824
 2025-08-18,65387,2025081804000623,SHL,Dynamic Money Managers Securities Pvt. Ltd.,Property Wiard Limited,100,563.2,56320.0,2025-08-18T11:14:37.651923
 2025-08-18,65375,2025081804000626,SHL,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,100,566.0,56600.0,2025-08-18T11:14:40.521535

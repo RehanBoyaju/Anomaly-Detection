@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77585,2025081203000044,NLIC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,10,790.0,7900.0,2025-08-12 11:02:41.687921
 2025-08-12,77584,2025081203000045,NLIC,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,50,786.0,39300.0,2025-08-12 11:02:41.687975
 2025-08-12,76083,2025081203000206,NLIC,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,2,771.0,1542.0,2025-08-12 11:08:37.175216

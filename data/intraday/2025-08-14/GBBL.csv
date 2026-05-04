@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75465,2025081403000111,GBBL,Online Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,100,426.0,42600.0,2025-08-14 11:06:28.740881
 2025-08-14,75464,2025081403000112,GBBL,Himalayan Brokerage Company Limited,Aakashbhairab Securities Ltd.,100,425.1,42510.0,2025-08-14 11:06:28.740943
 2025-08-14,75463,2025081403000113,GBBL,Property Wiard Limited,Aakashbhairab Securities Ltd.,120,425.1,51012.0,2025-08-14 11:06:28.740980

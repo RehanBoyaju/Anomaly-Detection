@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,88103,2025090204000030,CGH,Naasa Securities Co. Ltd.,Market Securities & Exchange (PVT) Ltd.,10,1060.0,10600.0,2025-09-02 11:02:01.365833
 2025-09-02,86493,2025090204000057,CGH,Capital Max Securities Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,10,1046.0,10460.0,2025-09-02 11:04:24.386028
 2025-09-02,86492,2025090204000058,CGH,Capital Max Securities Ltd,Market Securities & Exchange (PVT) Ltd.,350,1048.0,366800.0,2025-09-02 11:04:24.386131

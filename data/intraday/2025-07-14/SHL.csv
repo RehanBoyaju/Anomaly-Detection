@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72170,2025071404000181,SHL,Kalika Securities Pvt. Ltd.,Kumari Securities Private Limited,200,568.1,113620.0,2025-07-14 11:01:30.417889
 2025-07-14,72121,2025071404000194,SHL,KALASH STOCK MARKET PVT. LTD.,Sani Securities Company Ltd.,100,570.0,57000.0,2025-07-14 11:01:41.712468
 2025-07-14,72032,2025071404000244,SHL,Hatemalo Financial Services Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,572.9,57290.0,2025-07-14 11:02:03.642171

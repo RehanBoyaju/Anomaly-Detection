@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77317,2025081205000551,MKJC,Indira securities pvt. ltd,Investment Management Nepal Pvt. Ltd.,10,578.0,5780.0,2025-08-12 11:03:44.817934
 2025-08-12,76209,2025081205000998,MKJC,Vision Securities Pvt. Ltd,Secured Securities Ltd.,10,566.7,5667.0,2025-08-12 11:08:01.722413
 2025-08-12,75264,2025081205001401,MKJC,Imperial Securities Company Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,10,568.0,5680.0,2025-08-12 11:11:39.352507

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68103,2025090305000087,NIFRA,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,54,273.1,14747.4,2025-09-03 11:02:38.093319
 2025-09-03,68044,2025090305000096,NIFRA,Kumari Securities Private Limited,Online Securities Pvt. Ltd.,54,273.1,14747.4,2025-09-03 11:02:53.842343
 2025-09-03,67215,2025090305000219,NIFRA,Linch Stock Market Ltd.,Sani Securities Company Ltd.,10,275.0,2750.0,2025-09-03 11:06:47.644345

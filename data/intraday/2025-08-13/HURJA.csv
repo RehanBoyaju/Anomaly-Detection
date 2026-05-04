@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70057,2025081304000010,HURJA,Kohinoor Investment & Securities Pvt. Ltd.,INDEX SECURITIES LIMITED,10,237.5,2375.0,2025-08-13 10:46:00.040715
 2025-08-13,69855,2025081304000024,HURJA,Kohinoor Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,242.0,2420.0,2025-08-13 11:00:53.685517
 2025-08-13,69734,2025081304000041,HURJA,Infinity Securities Limited,Kohinoor Investment & Securities Pvt. Ltd.,10,246.0,2460.0,2025-08-13 11:01:42.060187

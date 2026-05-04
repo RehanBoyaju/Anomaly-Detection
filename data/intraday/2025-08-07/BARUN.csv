@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,94710,2025080704000117,BARUN,Himalayan Brokerage Company Limited,Online Securities Pvt. Ltd.,240,363.6,87264.0,2025-08-07 11:03:44.944504
 2025-08-07,94709,2025080704000118,BARUN,Himalayan Brokerage Company Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,363.6,36360.0,2025-08-07 11:03:44.944741
 2025-08-07,94708,2025080704000119,BARUN,Himalayan Brokerage Company Limited,Siprabi Securities Pvt. Ltd.,10,363.6,3636.0,2025-08-07 11:03:44.944818

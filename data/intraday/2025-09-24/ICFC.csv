@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47272,2025092403000124,ICFC,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,665.0,66500.0,2025-09-24 11:03:15.832086
 2025-09-24,47251,2025092403000127,ICFC,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,665.0,33250.0,2025-09-24 11:03:21.645100
 2025-09-24,45278,2025092403000474,ICFC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,10,665.1,6651.0,2025-09-24 11:12:55.771519

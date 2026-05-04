@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45098,2025082604000008,MHNL,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,150,277.2,41580.0,2025-08-26 10:46:00.038959
 2025-08-26,45097,2025082604000009,MHNL,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,500,277.2,138600.0,2025-08-26 10:46:00.038988
 2025-08-26,45096,2025082604000010,MHNL,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,300,277.2,83160.0,2025-08-26 10:46:00.039026

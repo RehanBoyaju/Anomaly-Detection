@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7295,2025091801000065,PRVU,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,50,201.3,10065.0,2025-09-18 10:46:00.052532
 2025-09-18,7294,2025091801000066,PRVU,Trisul Securities & Invt. Ltd.,Sani Securities Company Ltd.,50,201.3,10065.0,2025-09-18 10:46:00.052615
 2025-09-18,7293,2025091801000067,PRVU,Trishakti Securities Public Limited,Sani Securities Company Ltd.,200,201.3,40260.0,2025-09-18 10:46:00.052654

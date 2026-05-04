@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95506,2025080701000150,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,373.0,3730.0,2025-08-07 11:00:54.197087
 2025-08-07,94931,2025080701000399,SBL,Kumari Securities Private Limited,Asian Securities Private Ltd.,700,372.0,260400.0,2025-08-07 11:03:04.368227
 2025-08-07,92444,2025080701001275,SBL,Sumeru Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,369.9,3699.0,2025-08-07 11:11:16.981366

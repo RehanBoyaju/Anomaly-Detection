@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108305,2025092104000186,HDHPC,Nepal Stock House (PVT) Ltd.,Linch Stock Market Ltd.,200,162.0,32400.0,2025-09-21 10:46:00.076874
 2025-09-21,108304,2025092104000187,HDHPC,Malla & Malla Stock Broking Company Pvt. Limited,Linch Stock Market Ltd.,200,162.0,32400.0,2025-09-21 10:46:00.076939
 2025-09-21,108303,2025092104000188,HDHPC,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,30,162.0,4860.0,2025-09-21 10:46:00.076962

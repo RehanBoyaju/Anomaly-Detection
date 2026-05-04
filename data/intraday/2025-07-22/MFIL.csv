@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,173074,2025072203001869,MFIL,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,100,658.0,65800.0,2025-07-22 11:08:11.473889
 2025-07-22,172850,2025072203001981,MFIL,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,495,659.0,326205.0,2025-07-22 11:08:33.494270
 2025-07-22,172259,2025072203002301,MFIL,Shree Krishna Securities Ltd.,Sewa Securities Pvt. Ltd.,500,660.0,330000.0,2025-07-22 11:09:20.380613

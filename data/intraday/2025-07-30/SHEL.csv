@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141444,2025073004000020,SHEL,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,10,343.0,3430.0,2025-07-30 10:46:00.067046
 2025-07-30,141443,2025073004000021,SHEL,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,190,343.0,65170.0,2025-07-30 10:46:00.067088
 2025-07-30,141442,2025073004000022,SHEL,Imperial Securities Company Pvt. Ltd.,Citizens Share Broker Limited,310,343.0,106330.0,2025-07-30 10:46:00.067110

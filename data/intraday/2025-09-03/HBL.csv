@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68589,2025090301000001,HBL,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,10,204.0,2040.0,2025-09-03 10:46:00.017420
 2025-09-03,68588,2025090301000002,HBL,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,10,204.0,2040.0,2025-09-03 10:46:00.017465
 2025-09-03,68587,2025090301000003,HBL,Kumari Securities Private Limited,Oxford Securities Pvt. Ltd.,10,204.0,2040.0,2025-09-03 10:46:00.017505

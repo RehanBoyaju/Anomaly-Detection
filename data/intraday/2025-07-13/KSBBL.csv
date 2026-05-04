@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105065,2025071303000079,KSBBL,Sharepro Securities Private Limited,Thrive Brokerage House Pvt. Ltd,20,481.5,9630.0,2025-07-13T10:46:00.081307
 2025-07-13,105064,2025071303000080,KSBBL,Sharepro Securities Private Limited,Kumari Securities Private Limited,80,481.5,38520.0,2025-07-13T10:46:00.081351
 2025-07-13,105063,2025071303000081,KSBBL,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,300,481.5,144450.0,2025-07-13T10:46:00.081392

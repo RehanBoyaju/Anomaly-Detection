@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37296,2025092503000032,LBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,10,502.7,5027.0,2025-09-25 11:02:35.834926
 2025-09-25,36999,2025092503000067,LBBL,Nagarik Stock Dealer ,Sundhara Securities Limited,100,510.0,51000.0,2025-09-25 11:05:13.464384
 2025-09-25,36955,2025092503000080,LBBL,Nagarik Stock Dealer ,Vision Securities Pvt. Ltd,400,510.0,204000.0,2025-09-25 11:05:37.078288

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105269,2025071305000043,SAHAS,Investment Management Nepal Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,102,605.0,61710.0,2025-07-13T10:46:00.036364
 2025-07-13,105268,2025071305000044,SAHAS,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,47,605.0,28435.0,2025-07-13T10:46:00.036394
 2025-07-13,105267,2025071305000045,SAHAS,Asian Securities Private Ltd.,Opal Securities Investment (PVT) Ltd.,3,605.0,1815.0,2025-07-13T10:46:00.036415

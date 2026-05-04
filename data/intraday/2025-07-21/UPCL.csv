@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138233,2025072104000261,UPCL,Sewa Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,100,420.0,42000.0,2025-07-21 11:01:19.256619
 2025-07-21,138228,2025072104000266,UPCL,SHUBHAKAMANA SECURITIES PVT. LTD,Cristal Kanchanjanga Securites Pvt. Ltd.,10,421.0,4210.0,2025-07-21 11:01:21.321410
 2025-07-21,137700,2025072104000519,UPCL,Trishakti Securities Public Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,190,421.0,79990.0,2025-07-21 11:02:25.364577

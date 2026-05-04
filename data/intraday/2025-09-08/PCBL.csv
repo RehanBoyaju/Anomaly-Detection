@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59651,2025090801000007,PCBL,Himalayan Brokerage Company Limited,KALASH STOCK MARKET PVT. LTD.,3500,254.9,892150.0,2025-09-08 10:46:00.047580
 2025-09-08,59473,2025090801000050,PCBL,KALASH STOCK MARKET PVT. LTD.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,256.0,2560.0,2025-09-08 11:01:58.563657
 2025-09-08,59173,2025090801000169,PCBL,Sani Securities Company Ltd.,Agrawal Securities (PVT) Ltd.,100,250.9,25090.0,2025-09-08 11:05:19.073366

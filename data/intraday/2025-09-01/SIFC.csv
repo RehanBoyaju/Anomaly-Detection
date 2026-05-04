@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,65139,2025090103000301,SIFC,Linch Stock Market Ltd.,Agrawal Securities (PVT) Ltd.,10,503.6,5036.0,2025-09-01 11:12:58.727302
 2025-09-01,65138,2025090103000302,SIFC,Deevyaa Securities & Stock House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,190,503.5,95665.0,2025-09-01 11:12:58.727359
 2025-09-01,64527,2025090103000362,SIFC,Deevyaa Securities & Stock House Pvt. Ltd,Siprabi Securities Pvt. Ltd.,60,503.1,30186.0,2025-09-01 11:14:53.055457

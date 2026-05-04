@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,55174,2025082404000496,HURJA,Market Securities & Exchange (PVT) Ltd.,Online Securities Pvt. Ltd.,20,237.0,4740.0,2025-08-24 11:17:05.008093
 2025-08-24,54498,2025082404000609,HURJA,Market Securities & Exchange (PVT) Ltd.,Hatemalo Financial Services Private Limited,30,237.0,7110.0,2025-08-24 11:20:34.168825
 2025-08-24,54497,2025082404000610,HURJA,Market Securities & Exchange (PVT) Ltd.,Hatemalo Financial Services Private Limited,20,237.0,4740.0,2025-08-24 11:20:34.169024

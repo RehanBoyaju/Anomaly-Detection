@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140891,2025073003000126,RLFL,Blue Chip Securities Ltd,Market Securities & Exchange (PVT) Ltd.,10,552.0,5520.0,2025-07-30 11:02:04.324376
 2025-07-30,138741,2025073003000572,RLFL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,10,547.0,5470.0,2025-07-30 11:06:46.456541
 2025-07-30,138740,2025073003000573,RLFL,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,547.0,5470.0,2025-07-30 11:06:46.456663

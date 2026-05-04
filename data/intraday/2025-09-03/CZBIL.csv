@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,66532,2025090301001362,CZBIL,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,11,205.0,2255.0,2025-09-03 11:09:53.050271
 2025-09-03,65193,2025090301002242,CZBIL,Cristal Kanchanjanga Securites Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,500,205.1,102550.0,2025-09-03 11:14:45.068632
 2025-09-03,64013,2025090301002949,CZBIL,Bhrikuti Stock Broking Co. Pvt. Ltd.,ABC Securities Private Limited,17,205.2,3488.4,2025-09-03 11:18:54.431077

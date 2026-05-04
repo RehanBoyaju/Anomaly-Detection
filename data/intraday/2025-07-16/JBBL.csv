@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98431,2025071603000157,JBBL,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,343.0,102900.0,2025-07-16 11:04:24.110000
 2025-07-16,97990,2025071603000224,JBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,345.0,34500.0,2025-07-16 11:05:55.838513
 2025-07-16,97936,2025071603000245,JBBL,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,345.0,69000.0,2025-07-16 11:06:06.656264

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59020,2025090803000069,BFC,Blue Chip Securities Ltd,Online Securities Pvt. Ltd.,10,484.0,4840.0,2025-09-08 11:06:54.853900
 2025-09-08,55787,2025090803000348,BFC,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,466.2,4662.0,2025-09-08 11:25:08.711754
 2025-09-08,54345,2025090803000470,BFC,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,20,467.0,9340.0,2025-09-08 11:32:16.092107

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170312,2025072304000001,NHPC,Online Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,20,225.0,4500.0,2025-07-23 10:46:00.009809
 2025-07-23,170064,2025072304000072,NHPC,Kohinoor Investment & Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,50,229.0,11450.0,2025-07-23 11:00:19.862954
 2025-07-23,170063,2025072304000073,NHPC,Kohinoor Investment & Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,62,229.0,14198.0,2025-07-23 11:00:19.863022

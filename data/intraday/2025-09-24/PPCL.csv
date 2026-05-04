@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,46808,2025092404000311,PPCL,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,500,330.0,165000.0,2025-09-24 11:05:54.015561
 2025-09-24,44905,2025092404000887,PPCL,Premier Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,200,330.0,66000.0,2025-09-24 11:14:55.785027
 2025-09-24,43445,2025092404001280,PPCL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,81,323.7,26219.7,2025-09-24 11:20:46.162553

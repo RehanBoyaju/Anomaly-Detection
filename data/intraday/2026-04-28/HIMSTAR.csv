@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HIMSTAR,52,91,30,872.0,26160.0,2026-04-28 14:59:59.815,2026042801111044
 HIMSTAR,43,17,10,880.0,8800.0,2026-04-28 14:59:57.427,2026042801110911
 HIMSTAR,32,53,225,871.0,195975.0,2026-04-28 14:59:44.492,2026042801110457

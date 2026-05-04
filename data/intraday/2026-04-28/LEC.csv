@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 LEC,57,45,10,225.5,2255.0,2026-04-28 14:59:58.161,2026042804015033
 LEC,91,4,12,228.0,2736.0,2026-04-28 14:59:48.645,2026042804014932
 LEC,91,3,50,228.0,11400.0,2026-04-28 14:59:48.645,2026042804014931

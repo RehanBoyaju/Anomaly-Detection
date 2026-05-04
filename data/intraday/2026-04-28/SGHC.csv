@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SGHC,44,34,38,370.4,14075.2,2026-04-28 14:59:25.020,2026042805016201
 SGHC,74,34,100,370.4,37040.0,2026-04-28 14:59:25.020,2026042805016200
 SGHC,17,34,60,370.5,22230.0,2026-04-28 14:59:25.019,2026042805016199

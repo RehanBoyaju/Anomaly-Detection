@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67911,2025081804000041,PMHPL,Swarna Laxmi Securities Pvt. Ltd.,Indira securities pvt. ltd,11,427.0,4697.0,2025-08-18T10:46:00.039168
 2025-08-18,67772,2025081804000077,PMHPL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,20,430.0,8600.0,2025-08-18T11:01:14.627442
 2025-08-18,67771,2025081804000078,PMHPL,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,10,429.0,4290.0,2025-08-18T11:01:14.627502

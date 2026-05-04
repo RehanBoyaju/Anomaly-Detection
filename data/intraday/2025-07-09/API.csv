@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62706,2025070904000094,API,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,295.0,2950.0,2025-07-09 11:01:07.756654
 2025-07-09,62688,2025070904000108,API,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,10,290.0,2900.0,2025-07-09 11:01:23.926010
 2025-07-09,62153,2025070904000411,API,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,300,290.2,87060.0,2025-07-09 11:04:48.378229

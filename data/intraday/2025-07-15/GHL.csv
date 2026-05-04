@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74009,2025071504000028,GHL,Secured Securities Ltd.,Sani Securities Company Ltd.,90,242.4,21816.0,2025-07-15 10:46:00.052478
 2025-07-15,73971,2025071504000035,GHL,Secured Securities Ltd.,Sani Securities Company Ltd.,10,247.2,2472.0,2025-07-15 11:00:30.349656
 2025-07-15,71831,2025071504000710,GHL,Dynamic Money Managers Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,100,249.0,24900.0,2025-07-15 11:12:39.750121

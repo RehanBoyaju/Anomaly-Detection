@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53829,2025082004000011,UPPER,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,199.6,5988.0,2025-08-20 10:46:00.049218
 2025-08-20,53742,2025082004000037,UPPER,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,197.0,19700.0,2025-08-20 11:01:04.740054
 2025-08-20,53652,2025082004000065,UPPER,Cristal Kanchanjanga Securites Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,170,197.0,33490.0,2025-08-20 11:02:11.760852

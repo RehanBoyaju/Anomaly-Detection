@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,169430,2025072803000245,CORBL,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,10,2030.0,20300.0,2025-07-28T11:03:47.784336
 2025-07-28,163047,2025072803001593,CORBL,Oxford Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,20,2029.0,40580.0,2025-07-28T11:13:36.326365
 2025-07-28,158789,2025072803002677,CORBL,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,40,2027.9,81116.0,2025-07-28T11:17:48.086883

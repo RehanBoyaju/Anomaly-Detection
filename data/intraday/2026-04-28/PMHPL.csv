@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PMHPL,67,42,11,343.0,3773.0,2026-04-28 14:59:07.700,2026042804014577
 PMHPL,67,6,10,340.0,3400.0,2026-04-28 14:59:04.270,2026042804014524
 PMHPL,17,36,50,339.0,16950.0,2026-04-28 14:58:48.097,2026042804014429

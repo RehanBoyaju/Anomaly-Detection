@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,55650,2025070801000110,NICA,KALASH STOCK MARKET PVT. LTD.,Sundhara Securities Limited,50,349.5,17475.0,2025-07-08 11:04:09.608498
 2025-07-08,55578,2025070801000124,NICA,Sri Hari Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,100,348.0,34800.0,2025-07-08 11:04:34.500566
 2025-07-08,55577,2025070801000125,NICA,KALASH STOCK MARKET PVT. LTD.,Nepal Stock House (PVT) Ltd.,50,348.0,17400.0,2025-07-08 11:04:34.500612

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141415,2025071703000003,GFCL,South Asian Bulls Pvt. Ltd.,Aryatara Investment & Securities,100,728.6,72860.0,2025-07-17 10:46:00.024899
 2025-07-17,141414,2025071703000004,GFCL,South Asian Bulls Pvt. Ltd.,Online Securities Pvt. Ltd.,50,728.6,36430.0,2025-07-17 10:46:00.024937
 2025-07-17,141250,2025071703000043,GFCL,South Asian Bulls Pvt. Ltd.,Premier Securities Company Ltd.,50,728.6,36430.0,2025-07-17 11:00:48.605646

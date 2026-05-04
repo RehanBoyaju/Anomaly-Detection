@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37543,2025092504000005,RADHI,Vision Securities Pvt. Ltd,Aakashbhairab Securities Ltd.,10,770.1,7701.0,2025-09-25 10:46:00.026107
 2025-09-25,36875,2025092504000140,RADHI,Sri Hari Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,10,754.7,7547.0,2025-09-25 11:06:26.482337
 2025-09-25,35952,2025092504000382,RADHI,Opal Securities Investment (PVT) Ltd.,Capital Max Securities Ltd,12,750.0,9000.0,2025-09-25 11:14:28.013010

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,152803,2025072403000270,SHINE,Linch Stock Market Ltd.,Capital Max Securities Ltd,13,455.6,5922.8,2025-07-24 11:03:46.770202
 2025-07-24,149809,2025072403000844,SHINE,Sweta Securities Private Limited,Agrawal Securities (PVT) Ltd.,1000,458.7,458700.0,2025-07-24 11:08:53.920347
 2025-07-24,148270,2025072403001180,SHINE,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,7,450.0,3150.0,2025-07-24 11:11:28.352528

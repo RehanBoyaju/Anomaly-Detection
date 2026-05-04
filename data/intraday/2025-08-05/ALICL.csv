@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,116239,2025080503000408,ALICL,Vision Securities Pvt. Ltd,Dynamic Money Managers Securities Pvt. Ltd.,100,511.9,51190.0,2025-08-05 11:12:08.541365
 2025-08-05,110295,2025080503000915,ALICL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Opal Securities Investment (PVT) Ltd.,30,505.1,15153.0,2025-08-05 11:19:16.192097
 2025-08-05,110294,2025080503000916,ALICL,Online Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,505.1,5051.0,2025-08-05 11:19:16.192137

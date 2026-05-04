@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SMJC,43,99,10,467.0,4670.0,2026-04-28 14:59:58.054,2026042805016499
 SMJC,46,99,100,467.0,46700.0,2026-04-28 14:59:56.635,2026042805016484
 SMJC,50,34,10,466.0,4660.0,2026-04-28 14:59:55.926,2026042805016457

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,75990,2025081404000113,CHL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Aryatara Investment & Securities,100,295.0,29500.0,2025-08-14 11:03:21.839458
 2025-08-14,75989,2025081404000114,CHL,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,300,295.0,88500.0,2025-08-14 11:03:21.839557
 2025-08-14,73209,2025081404000472,CHL,Sundhara Securities Limited,Vision Securities Pvt. Ltd,200,300.0,60000.0,2025-08-14 11:14:38.742984

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68712,2025090101000020,ADBL,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,329.6,3296.0,2025-09-01 10:46:00.059491
 2025-09-01,67649,2025090101000754,ADBL,Neev Securities Pvt. Ltd.,Aryatara Investment & Securities,20,327.0,6540.0,2025-09-01 11:04:17.985520
 2025-09-01,67176,2025090101001012,ADBL,Sani Securities Company Ltd.,Kumari Securities Private Limited,40,325.0,13000.0,2025-09-01 11:06:08.281510

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56815,2025082103000003,ALICL,Sumeru Securities Pvt. Ltd.,Capital Hub P. Ltd,10,478.0,4780.0,2025-08-21 10:46:00.027696
 2025-08-21,56181,2025082103000089,ALICL,Investment Management Nepal Pvt. Ltd.,Neev Securities Pvt. Ltd.,20,487.5,9750.0,2025-08-21 11:06:46.832516
 2025-08-21,56180,2025082103000090,ALICL,Investment Management Nepal Pvt. Ltd.,Shree Krishna Securities Ltd.,100,487.5,48750.0,2025-08-21 11:06:46.832561

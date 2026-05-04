@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154311,2025072401000074,NBL,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,888,309.0,274392.0,2025-07-24 11:00:44.529279
 2025-07-24,154209,2025072401000095,NBL,Miyo Securities Pvt Ltd,Ashutosh Brokerage & Securities (PVT) Ltd.,200,310.0,62000.0,2025-07-24 11:01:03.710188
 2025-07-24,154208,2025072401000096,NBL,Dynamic Money Managers Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,1800,309.0,556200.0,2025-07-24 11:01:03.710260

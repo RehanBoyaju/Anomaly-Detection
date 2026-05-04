@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39820,2025092804000013,LEC,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,210.0,42000.0,2025-09-28 11:00:21.401418
 2025-09-28,39404,2025092804000080,LEC,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,210.0,21000.0,2025-09-28 11:03:08.539886
 2025-09-28,39403,2025092804000081,LEC,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,100,210.0,21000.0,2025-09-28 11:03:08.539935

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77995,2025081204000031,SHEL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Sundhara Securities Limited,10,300.0,3000.0,2025-08-12 11:00:55.457994
 2025-08-12,77799,2025081204000059,SHEL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,302.1,3021.0,2025-08-12 11:01:50.990230
 2025-08-12,77791,2025081204000060,SHEL,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,10,302.1,3021.0,2025-08-12 11:01:52.585168

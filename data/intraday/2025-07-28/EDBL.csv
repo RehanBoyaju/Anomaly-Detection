@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170528,2025072803000030,EDBL,Kalika Securities Pvt. Ltd.,Creative Securities Pvt Ltd,100,680.0,68000.0,2025-07-28T11:00:47.515182
 2025-07-28,170446,2025072803000052,EDBL,Kalika Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,16,680.0,10880.0,2025-07-28T11:01:06.76794
 2025-07-28,170005,2025072803000123,EDBL,Global IME Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,10,670.1,6701.0,2025-07-28T11:02:27.419791

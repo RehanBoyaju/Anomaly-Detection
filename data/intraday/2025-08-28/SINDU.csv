@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,75262,2025082803000404,SINDU,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,10,773.5,7735.0,2025-08-28 11:12:52.629684
 2025-08-28,74240,2025082803000534,SINDU,Agrawal Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,50,761.0,38050.0,2025-08-28 11:16:03.687458
 2025-08-28,72787,2025082803000718,SINDU,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,50,761.0,38050.0,2025-08-28 11:20:40.530261

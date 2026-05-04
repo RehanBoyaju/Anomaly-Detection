@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56143,2025082504000041,KKHC,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,33,265.0,8745.0,2025-08-25 11:04:42.870586
 2025-08-25,54600,2025082504000182,KKHC,Kalika Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,20,263.0,5260.0,2025-08-25 11:12:12.328907
 2025-08-25,50411,2025082504001038,KKHC,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,35,258.5,9047.5,2025-08-25 11:32:20.599386

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,84736,2025081703000216,NLIC,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,7,798.0,5586.0,2025-08-17 11:06:06.650557
 2025-08-17,83697,2025081703000337,NLIC,Linch Stock Market Ltd.,Linch Stock Market Ltd.,1,769.0,769.0,2025-08-17 11:08:55.047785
 2025-08-17,82290,2025081703000467,NLIC,Trishakti Securities Public Limited,Trishakti Securities Public Limited,10,788.0,7880.0,2025-08-17 11:12:54.658106

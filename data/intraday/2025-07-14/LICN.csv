@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,70465,2025071403000248,LICN,Sani Securities Company Ltd.,Sani Securities Company Ltd.,10,901.6,9016.0,2025-07-14 11:06:44.657051
 2025-07-14,68742,2025071403000439,LICN,Sumeru Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,1,919.6,919.6,2025-07-14 11:12:43.207438
 2025-07-14,66529,2025071403000744,LICN,Investment Management Nepal Pvt. Ltd.,Sweta Securities Private Limited,166,892.0,148072.0,2025-07-14 11:20:03.096705

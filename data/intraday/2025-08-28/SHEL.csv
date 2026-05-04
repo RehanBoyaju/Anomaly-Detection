@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78328,2025082804000021,SHEL,Premier Securities Company Ltd.,Primo Securities (PVT) Ltd.,300,320.0,96000.0,2025-08-28 10:46:00.069902
 2025-08-28,78287,2025082804000027,SHEL,Global IME Securities Limited,Vision Securities Pvt. Ltd,100,318.0,31800.0,2025-08-28 11:00:27.428573
 2025-08-28,78286,2025082804000028,SHEL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,50,318.0,15900.0,2025-08-28 11:00:27.428772

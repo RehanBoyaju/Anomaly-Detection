@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,153663,2025072403000137,NLIC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,128,872.1,111628.8,2025-07-24 11:02:12.908173
 2025-07-24,153662,2025072403000138,NLIC,Linch Stock Market Ltd.,Kumari Securities Private Limited,22,872.0,19184.0,2025-07-24 11:02:12.908371
 2025-07-24,153620,2025072403000147,NLIC,Linch Stock Market Ltd.,Sweta Securities Private Limited,28,872.0,24416.0,2025-07-24 11:02:17.815748

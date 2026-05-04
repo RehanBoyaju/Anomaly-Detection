@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168547,2025073101000006,GBIME,Trishakti Securities Public Limited,Malla & Malla Stock Broking Company Pvt. Limited,10,270.0,2700.0,2025-07-31 10:46:00.049787
 2025-07-31,168254,2025073101000057,GBIME,Arun Securities (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,18,266.0,4788.0,2025-07-31 11:01:03.997852
 2025-07-31,168253,2025073101000058,GBIME,Arun Securities (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,500,269.9,134950.0,2025-07-31 11:01:03.997919

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,89469,2025083104000423,SJCL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,20,295.0,5900.0,2025-08-31T11:12:10.342426
 2025-08-31,89196,2025083104000445,SJCL,Premier Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,40,296.0,11840.0,2025-08-31T11:12:39.685923
 2025-08-31,87785,2025083104000530,SJCL,Oxford Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,295.3,2953.0,2025-08-31T11:14:54.514192

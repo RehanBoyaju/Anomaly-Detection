@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88347,2025071004000080,PPCL,South Asian Bulls Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,10,385.0,3850.0,2025-07-10 11:01:34.628512
 2025-07-10,87850,2025071004000257,PPCL,Sani Securities Company Ltd.,Aryatara Investment & Securities,60,384.9,23094.0,2025-07-10 11:04:13.378989
 2025-07-10,87160,2025071004000462,PPCL,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,69,380.0,26220.0,2025-07-10 11:07:25.097233

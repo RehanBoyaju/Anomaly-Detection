@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141357,2025073001000064,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,10,397.0,3970.0,2025-07-30 11:00:15.088170
 2025-07-30,135993,2025073001001845,SBL,Sundhara Securities Limited,Nepal Stock House (PVT) Ltd.,200,390.0,78000.0,2025-07-30 11:12:03.879543
 2025-07-30,133965,2025073001002435,SBL,Imperial Securities Company Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,500,391.0,195500.0,2025-07-30 11:15:02.791778

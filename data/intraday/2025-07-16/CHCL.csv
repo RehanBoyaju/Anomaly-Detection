@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,98842,2025071604000222,CHCL,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,530.0,10600.0,2025-07-16 11:03:01.534500
 2025-07-16,98841,2025071604000223,CHCL,Dakshinkali Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,150,530.0,79500.0,2025-07-16 11:03:01.534551
 2025-07-16,98697,2025071604000243,CHCL,Sharepro Securities Private Limited,Investment Management Nepal Pvt. Ltd.,850,530.0,450500.0,2025-07-16 11:03:21.749685

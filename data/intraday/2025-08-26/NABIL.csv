@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44920,2025082601000026,NABIL,Aryatara Investment & Securities,Aryatara Investment & Securities,23,514.5,11833.5,2025-08-26 11:02:34.042957
 2025-08-26,44653,2025082601000072,NABIL,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,100,517.0,51700.0,2025-08-26 11:05:36.867295
 2025-08-26,44341,2025082601000135,NABIL,Sri Hari Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,910,524.0,476840.0,2025-08-26 11:08:34.039634

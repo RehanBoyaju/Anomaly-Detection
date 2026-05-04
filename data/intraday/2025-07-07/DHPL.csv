@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,67936,2025070704000833,DHPL,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,50,323.5,16175.0,2025-07-07 11:14:48.325039
 2025-07-07,65768,2025070704001553,DHPL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,324.0,3240.0,2025-07-07 11:22:43.980210
 2025-07-07,65212,2025070704001689,DHPL,Sani Securities Company Ltd.,Kumari Securities Private Limited,10,323.1,3231.0,2025-07-07 11:24:36.784339

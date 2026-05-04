@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138771,2025072104000017,SSHL,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,68,295.8,20114.4,2025-07-21 10:46:00.081376
 2025-07-21,138770,2025072104000018,SSHL,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,100,295.8,29580.0,2025-07-21 10:46:00.081435
 2025-07-21,138769,2025072104000019,SSHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Midas Stock Broking Company Private Limited,132,295.8,39045.6,2025-07-21 10:46:00.081467

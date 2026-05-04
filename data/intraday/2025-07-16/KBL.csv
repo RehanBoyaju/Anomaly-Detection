@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99165,2025071601000160,KBL,Online Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,223.0,22300.0,2025-07-16 11:01:38.337496
 2025-07-16,98782,2025071601000358,KBL,BHOLE GANESH SECURITIES LTD,Midas Stock Broking Company Private Limited,100,222.9,22290.0,2025-07-16 11:03:10.261201
 2025-07-16,98781,2025071601000359,KBL,BHOLE GANESH SECURITIES LTD,Bhrikuti Stock Broking Co. Pvt. Ltd.,700,223.0,156100.0,2025-07-16 11:03:10.261256

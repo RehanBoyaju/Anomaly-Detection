@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76527,2025081405000009,NRN,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,25,2266.0,56650.0,2025-08-14 10:46:00.025447
 2025-08-14,76526,2025081405000010,NRN,Secured Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,2266.0,226600.0,2025-08-14 10:46:00.025475
 2025-08-14,76525,2025081405000011,NRN,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,2266.0,45320.0,2025-08-14 10:46:00.025496

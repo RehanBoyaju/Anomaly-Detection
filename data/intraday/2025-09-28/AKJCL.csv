@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38219,2025092804000293,AKJCL,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,195.1,1951.0,2025-09-28 11:09:21.307569
 2025-09-28,38084,2025092804000329,AKJCL,Trademow Securities Private Limited,Malla & Malla Stock Broking Company Pvt. Limited,70,194.0,13580.0,2025-09-28 11:10:01.650634
 2025-09-28,37360,2025092804000457,AKJCL,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,30,196.1,5883.0,2025-09-28 11:13:43.065354

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47362,2025092404000146,CHCL,Midas Stock Broking Company Private Limited,J.F. Securites (PVT) Ltd.,43,505.0,21715.0,2025-09-24 11:02:40.428050
 2025-09-24,45167,2025092404000825,CHCL,Sewa Securities Pvt. Ltd.,Property Wiard Limited,200,501.0,100200.0,2025-09-24 11:13:40.586450
 2025-09-24,44979,2025092404000871,CHCL,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,501.0,50100.0,2025-09-24 11:14:36.067513

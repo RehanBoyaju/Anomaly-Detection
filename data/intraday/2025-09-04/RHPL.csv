@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67896,2025090404000381,RHPL,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,10,289.0,2890.0,2025-09-04T11:06:57.702931
 2025-09-04,67562,2025090404000429,RHPL,Sundhara Securities Limited,Aryatara Investment & Securities,90,289.0,26010.0,2025-09-04T11:08:04.108964
 2025-09-04,67371,2025090404000477,RHPL,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,286.0,5720.0,2025-09-04T11:09:06.314777

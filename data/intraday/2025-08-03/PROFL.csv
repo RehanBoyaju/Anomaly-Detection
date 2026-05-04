@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,148260,2025080303000568,PROFL,Oxford Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,35,554.0,19390.0,2025-08-03T11:06:56.979914
 2025-08-03,147140,2025080303000719,PROFL,Sundhara Securities Limited,Oxford Securities Pvt. Ltd.,10,554.0,5540.0,2025-08-03T11:08:35.040687
 2025-08-03,142139,2025080303001385,PROFL,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,10,555.0,5550.0,2025-08-03T11:14:54.77974

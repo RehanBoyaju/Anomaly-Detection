@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170677,2025072804000007,API,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,324.0,6480.0,2025-07-28T10:46:00.0379
 2025-07-28,170529,2025072804000054,API,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,30,320.0,9600.0,2025-07-28T11:00:46.229947
 2025-07-28,170215,2025072804000177,API,Online Securities Pvt. Ltd.,Sajilo Broker Limited,155,318.0,49290.0,2025-07-28T11:01:51.752874

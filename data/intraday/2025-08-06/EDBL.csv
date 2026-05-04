@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92903,2025080603000048,EDBL,Vision Securities Pvt. Ltd,Thrive Brokerage House Pvt. Ltd,100,648.9,64890.0,2025-08-06 11:01:09.233579
 2025-08-06,90442,2025080603000381,EDBL,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,10,636.0,6360.0,2025-08-06 11:08:01.810046
 2025-08-06,89909,2025080603000441,EDBL,Aryatara Investment & Securities,Nepal Investment And Securities Trading Private Limited,25,636.0,15900.0,2025-08-06 11:09:29.848089

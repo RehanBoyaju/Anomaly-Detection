@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 TVCL,14,49,10,559.0,5590.0,2026-04-28 14:59:24.796,2026042805016193
 TVCL,14,49,216,560.0,120960.0,2026-04-28 14:58:40.726,2026042805016015
 TVCL,14,39,20,560.0,11200.0,2026-04-28 14:58:40.726,2026042805016014

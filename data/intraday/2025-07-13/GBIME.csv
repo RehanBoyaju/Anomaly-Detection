@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105006,2025071301000110,GBIME,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,10,256.6,2566.0,2025-07-13T10:46:00.089004
 2025-07-13,105002,2025071301000111,GBIME,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,20,256.6,5132.0,2025-07-13T10:46:00.08907
 2025-07-13,105000,2025071301000112,GBIME,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,20,256.6,5132.0,2025-07-13T10:46:00.089094

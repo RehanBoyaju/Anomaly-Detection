@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140957,2025071704000180,AKPL,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,50,264.2,13210.0,2025-07-17 11:01:45.114081
 2025-07-17,140956,2025071704000181,AKPL,Midas Stock Broking Company Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,266.0,26600.0,2025-07-17 11:01:45.114152
 2025-07-17,140633,2025071704000295,AKPL,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,45,264.1,11884.5,2025-07-17 11:02:34.871429

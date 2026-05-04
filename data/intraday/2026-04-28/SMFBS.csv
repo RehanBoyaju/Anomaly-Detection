@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SMFBS,62,41,10,1685.0,16850.0,2026-04-28 14:59:58.864,2026042803008666
 SMFBS,34,21,8,1650.0,13200.0,2026-04-28 14:17:33.982,2026042803005943
 SMFBS,58,52,1,1650.0,1650.0,2026-04-28 14:07:06.051,2026042803005399

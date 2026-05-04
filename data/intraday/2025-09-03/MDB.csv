@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,57557,2025090303000718,MDB,KALASH STOCK MARKET PVT. LTD.,Nepal Stock House (PVT) Ltd.,11,621.4,6835.4,2025-09-03 11:43:23.765516
 2025-09-03,48829,2025090303001633,MDB,Dakshinkali Investment & Securities Pvt. Ltd.,Nagarik Stock Dealer ,100,613.2,61320.0,2025-09-03 12:17:58.189477
 2025-09-03,48828,2025090303001634,MDB,Midas Stock Broking Company Private Limited,Nagarik Stock Dealer ,100,613.1,61310.0,2025-09-03 12:17:58.189729

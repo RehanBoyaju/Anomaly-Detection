@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,172975,2025072201000740,NYADI,Sharepro Securities Private Limited,Sharepro Securities Private Limited,485,468.0,226980.0,2025-07-22 11:08:20.705634
 2025-07-22,172974,2025072201000741,NYADI,Sharepro Securities Private Limited,Trishakti Securities Public Limited,15,468.0,7020.0,2025-07-22 11:08:20.705692
 2025-07-22,172567,2025072201000803,NYADI,Sewa Securities Pvt. Ltd.,Trishakti Securities Public Limited,175,468.0,81900.0,2025-07-22 11:09:00.240718

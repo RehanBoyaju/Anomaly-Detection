@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,43446,2025082603000413,MLBL,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,500,396.0,198000.0,2025-08-26 11:15:24.191005
 2025-08-26,43445,2025082603000414,MLBL,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,200,396.9,79380.0,2025-08-26 11:15:24.191072
 2025-08-26,43444,2025082603000415,MLBL,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,290,397.0,115130.0,2025-08-26 11:15:24.191106

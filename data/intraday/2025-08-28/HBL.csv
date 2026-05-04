@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77941,2025082801000104,HBL,Aryatara Investment & Securities,Trishakti Securities Public Limited,300,213.0,63900.0,2025-08-28 11:02:37.722040
 2025-08-28,77577,2025082801000207,HBL,Trishakti Securities Public Limited,Online Securities Pvt. Ltd.,11,211.27,2323.97,2025-08-28 11:04:04.846960
 2025-08-28,77149,2025082801000318,HBL,Trishakti Securities Public Limited,N.I.M.B. Stock Markets Limited,90,211.27,19014.3,2025-08-28 11:05:35.559373

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44063,2025082603000280,RLFL,Blue Chip Securities Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,10,475.0,4750.0,2025-08-26 11:10:56.716740
 2025-08-26,36800,2025082603001645,RLFL,Global IME Securities Limited,Aryatara Investment & Securities,20,473.9,9478.0,2025-08-26 12:02:15.049170
 2025-08-26,30827,2025082603002707,RLFL,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,100,473.7,47370.0,2025-08-26 12:38:56.204779

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,139637,2025073003000402,GBBL,Sumeru Securities Pvt. Ltd.,Aryatara Investment & Securities,10,483.0,4830.0,2025-07-30 11:04:49.832755
 2025-07-30,136850,2025073003000989,GBBL,Asian Securities Private Ltd.,Arun Securities (PVT) Ltd.,93,482.9,44909.7,2025-07-30 11:10:23.904885
 2025-07-30,136678,2025073003001035,GBBL,Asian Securities Private Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,57,482.9,27525.3,2025-07-30 11:10:45.281187

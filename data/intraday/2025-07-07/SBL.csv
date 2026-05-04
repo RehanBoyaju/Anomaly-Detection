@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70924,2025070701000072,SBL,Nabil Stock Dealer Ltd.,Creative Securities Pvt Ltd,250,341.0,85250.0,2025-07-07 11:01:56.736980
 2025-07-07,70841,2025070701000088,SBL,Nabil Stock Dealer Ltd.,Capital Hub P. Ltd,900,341.0,306900.0,2025-07-07 11:02:24.458878
 2025-07-07,70790,2025070701000102,SBL,Nabil Stock Dealer Ltd.,South Asian Bulls Pvt. Ltd.,112,341.0,38192.0,2025-07-07 11:02:44.523696

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47492,2025092401000066,SBL,Nabil Stock Dealer Ltd.,Nepal Stock House (PVT) Ltd.,10,365.0,3650.0,2025-09-24 11:01:57.622591
 2025-09-24,47365,2025092401000094,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,30,365.0,10950.0,2025-09-24 11:02:39.620191
 2025-09-24,45192,2025092401000553,SBL,Primo Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,300,360.1,108030.0,2025-09-24 11:13:35.505282

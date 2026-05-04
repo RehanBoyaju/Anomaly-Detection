@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170213,2025072304000033,GHL,Nepal Stock House (PVT) Ltd.,Sani Securities Company Ltd.,10,275.1,2751.0,2025-07-23 10:46:00.066703
 2025-07-23,170212,2025072304000034,GHL,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,90,275.1,24759.0,2025-07-23 10:46:00.066748
 2025-07-23,169491,2025072304000277,GHL,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,370,270.0,99900.0,2025-07-23 11:01:26.180163

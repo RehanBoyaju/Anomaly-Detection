@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,65848,2025090303000155,SADBL,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,70,424.0,29680.0,2025-09-03 11:12:08.921567
 2025-09-03,64117,2025090303000247,SADBL,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,21,424.0,8904.0,2025-09-03 11:18:24.883530
 2025-09-03,61651,2025090303000431,SADBL,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,12,428.9,5146.8,2025-09-03 11:27:18.422534

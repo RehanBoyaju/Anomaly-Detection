@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62818,2025070904000047,RHPL,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,200,343.7,68740.0,2025-07-09 10:46:00.053378
 2025-07-09,62817,2025070904000048,RHPL,Himalayan Brokerage Company Limited,Primo Securities (PVT) Ltd.,300,343.7,103110.0,2025-07-09 10:46:00.053405
 2025-07-09,62816,2025070904000049,RHPL,Asian Securities Private Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,40,343.7,13748.0,2025-07-09 10:46:00.053433

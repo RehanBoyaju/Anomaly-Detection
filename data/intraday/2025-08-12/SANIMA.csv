@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,75956,2025081201000450,SANIMA,MILKY WAY SHARE BROKER COMPANY LTD ,Vision Securities Pvt. Ltd,300,371.6,111480.0,2025-08-12 11:09:00.317515
 2025-08-12,75955,2025081201000451,SANIMA,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,600,371.6,222960.0,2025-08-12 11:09:00.317599
 2025-08-12,75929,2025081201000457,SANIMA,ABC Securities Private Limited,Online Securities Pvt. Ltd.,100,371.5,37150.0,2025-08-12 11:09:06.435060

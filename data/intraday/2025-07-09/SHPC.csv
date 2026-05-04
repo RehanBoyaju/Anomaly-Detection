@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62659,2025070904000124,SHPC,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,601.5,12030.0,2025-07-09 11:01:42.087575
 2025-07-09,62650,2025070904000131,SHPC,Opal Securities Investment (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,601.5,120300.0,2025-07-09 11:01:48.267544
 2025-07-09,62626,2025070904000145,SHPC,Siprabi Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,200,601.4,120280.0,2025-07-09 11:02:04.992673

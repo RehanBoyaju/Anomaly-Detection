@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78371,2025082803000002,NABBC,Naasa Securities Co. Ltd.,INDEX SECURITIES LIMITED,10,813.5,8135.0,2025-08-28 10:46:00.011884
 2025-08-28,75624,2025082803000346,NABBC,Siprabi Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,829.7,8297.0,2025-08-28 11:11:29.065248
 2025-08-28,75247,2025082803000408,NABBC,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,25,846.0,21150.0,2025-08-28 11:12:56.670707

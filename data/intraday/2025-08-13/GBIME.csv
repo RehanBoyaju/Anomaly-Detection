@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70063,2025081301000004,GBIME,Shree Krishna Securities Ltd.,Nepal Stock House (PVT) Ltd.,400,258.1,103240.0,2025-08-13 10:46:00.035547
 2025-08-13,70062,2025081301000005,GBIME,Shree Krishna Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,500,258.1,129050.0,2025-08-13 10:46:00.035611
 2025-08-13,70061,2025081301000006,GBIME,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,100,258.1,25810.0,2025-08-13 10:46:00.035640

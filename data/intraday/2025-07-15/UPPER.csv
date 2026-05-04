@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73781,2025071504000100,UPPER,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,197.0,1970.0,2025-07-15 11:02:18.342655
 2025-07-15,73780,2025071504000101,UPPER,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,197.0,1970.0,2025-07-15 11:02:18.342826
 2025-07-15,73743,2025071504000116,UPPER,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,197.0,1970.0,2025-07-15 11:02:37.711553

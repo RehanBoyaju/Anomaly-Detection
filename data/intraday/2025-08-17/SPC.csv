@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86489,2025081705000045,SPC,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,531.1,5311.0,2025-08-17 11:00:31.755167
 2025-08-17,85297,2025081705000447,SPC,Deevyaa Securities & Stock House Pvt. Ltd,Midas Stock Broking Company Private Limited,10,533.2,5332.0,2025-08-17 11:04:21.638051
 2025-08-17,85267,2025081705000460,SPC,Malla & Malla Stock Broking Company Pvt. Limited,SUN SECURITIES PVT LTD,200,548.0,109600.0,2025-08-17 11:04:28.883484

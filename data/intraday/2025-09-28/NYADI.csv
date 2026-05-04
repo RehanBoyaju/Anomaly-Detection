@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38106,2025092805000368,NYADI,Sweta Securities Private Limited,Online Securities Pvt. Ltd.,10,416.0,4160.0,2025-09-28 11:09:53.259686
 2025-09-28,33733,2025092805001369,NYADI,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,10,416.1,4161.0,2025-09-28 11:33:33.312148
 2025-09-28,33132,2025092805001558,NYADI,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,25,416.0,10400.0,2025-09-28 11:36:54.596573

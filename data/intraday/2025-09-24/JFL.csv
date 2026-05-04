@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47200,2025092403000137,JFL,Oxford Securities Pvt. Ltd.,Sweta Securities Private Limited,10,461.0,4610.0,2025-09-24 11:03:39.606374
 2025-09-24,46610,2025092403000239,JFL,Agrawal Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,463.0,46300.0,2025-09-24 11:06:38.438477
 2025-09-24,46603,2025092403000240,JFL,Agrawal Securities (PVT) Ltd.,Sweta Securities Private Limited,100,463.0,46300.0,2025-09-24 11:06:41.365903

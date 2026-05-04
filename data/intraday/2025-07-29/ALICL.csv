@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,153409,2025072903000845,ALICL,J.F. Securites (PVT) Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,50,531.5,26575.0,2025-07-29 11:07:39.406490
 2025-07-29,153385,2025072903000848,ALICL,Prabhu Stock Market Limited,SHUBHAKAMANA SECURITIES PVT. LTD,250,531.5,132875.0,2025-07-29 11:07:43.455947
 2025-07-29,153384,2025072903000849,ALICL,Prabhu Stock Market Limited,Sri Hari Securities Pvt. Ltd.,250,532.0,133000.0,2025-07-29 11:07:43.456000

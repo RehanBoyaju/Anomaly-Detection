@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 BHCL,57,58,10,536.2,5362.0,2026-04-28 14:59:57.224,2026042801110907
 BHCL,77,45,10,537.9,5379.0,2026-04-28 14:59:40.812,2026042801110369
 BHCL,77,63,390,537.8,209742.0,2026-04-28 14:59:32.057,2026042801110154

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168556,2025073104000011,PMHPL,Malla & Malla Stock Broking Company Pvt. Limited,Linch Stock Market Ltd.,10,432.0,4320.0,2025-07-31 10:46:00.044841
 2025-07-31,167675,2025073104000194,PMHPL,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,20,423.4,8468.0,2025-07-31 11:02:27.136106
 2025-07-31,167674,2025073104000195,PMHPL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,30,423.4,12702.0,2025-07-31 11:02:27.136159

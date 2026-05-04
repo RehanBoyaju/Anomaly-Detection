@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141331,2025071703000023,MDB,Malla & Malla Stock Broking Company Pvt. Limited,Sani Securities Company Ltd.,50,698.0,34900.0,2025-07-17 11:00:25.645442
 2025-07-17,141060,2025071703000082,MDB,Investment Management Nepal Pvt. Ltd.,Sani Securities Company Ltd.,80,698.0,55840.0,2025-07-17 11:01:28.137534
 2025-07-17,140952,2025071703000101,MDB,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,214,697.0,149158.0,2025-07-17 11:01:46.407265

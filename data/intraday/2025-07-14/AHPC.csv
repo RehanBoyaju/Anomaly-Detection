@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71777,2025071404000323,AHPC,Sundhara Securities Limited,Elite Stock House Limited,345,286.0,98670.0,2025-07-14 11:02:57.281585
 2025-07-14,71578,2025071404000391,AHPC,Agrawal Securities (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,100,285.0,28500.0,2025-07-14 11:03:35.019789
 2025-07-14,71493,2025071404000428,AHPC,Oxford Securities Pvt. Ltd.,Elite Stock House Limited,55,286.0,15730.0,2025-07-14 11:03:51.707928

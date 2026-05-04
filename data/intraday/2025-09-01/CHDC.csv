@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68234,2025090105000121,CHDC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Kumari Securities Private Limited,500,2522.0,1261000.0,2025-09-01 11:02:15.232730
 2025-09-01,68070,2025090105000149,CHDC,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,12,2501.0,30012.0,2025-09-01 11:02:49.256547
 2025-09-01,67716,2025090105000185,CHDC,INDEX SECURITIES LIMITED,Sumeru Securities Pvt. Ltd.,10,2522.0,25220.0,2025-09-01 11:04:04.661572

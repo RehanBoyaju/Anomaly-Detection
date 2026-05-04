@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,56665,2025090301006611,SBI,Sundhara Securities Limited,Midas Stock Broking Company Private Limited,50,391.0,19550.0,2025-09-03 11:46:15.874634
 2025-09-03,56664,2025090301006612,SBI,Shree Krishna Securities Ltd.,Midas Stock Broking Company Private Limited,100,390.0,39000.0,2025-09-03 11:46:15.874798
 2025-09-03,54906,2025090301007445,SBI,Market Securities & Exchange (PVT) Ltd.,Linch Stock Market Ltd.,20,397.8,7956.0,2025-09-03 11:53:15.640989

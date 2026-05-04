@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99448,2025071604000031,HDHPC,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,10,196.0,1960.0,2025-07-16 10:46:00.066539
 2025-07-16,99094,2025071604000130,HDHPC,Aryatara Investment & Securities,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,198.0,59400.0,2025-07-16 11:01:59.970425
 2025-07-16,99093,2025071604000131,HDHPC,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,200,198.0,39600.0,2025-07-16 11:01:59.970512

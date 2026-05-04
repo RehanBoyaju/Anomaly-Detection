@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57961,2025082404000012,RADHI,Sharepro Securities Private Limited,Primo Securities (PVT) Ltd.,42,766.0,32172.0,2025-08-24 11:00:32.045598
 2025-08-24,55838,2025082404000362,RADHI,Sajilo Broker Limited,K.B.L. Securities Limited ,30,766.0,22980.0,2025-08-24 11:14:12.717236
 2025-08-24,54785,2025082404000569,RADHI,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,30,766.6,22998.0,2025-08-24 11:19:01.092408

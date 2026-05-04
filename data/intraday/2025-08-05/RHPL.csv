@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130908,2025080504000013,RHPL,Aryatara Investment & Securities,Sani Securities Company Ltd.,10,326.0,3260.0,2025-08-05 10:46:00.058052
 2025-08-05,128156,2025080504000069,RHPL,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,331.0,6620.0,2025-08-05 11:01:57.516393
 2025-08-05,124823,2025080504000192,RHPL,Elite Stock House Limited,Asian Securities Private Ltd.,100,337.5,33750.0,2025-08-05 11:04:15.953968

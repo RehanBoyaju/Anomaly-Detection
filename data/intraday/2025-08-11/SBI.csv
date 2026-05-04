@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98069,2025081101000196,SBI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,33,423.0,13959.0,2025-08-11 11:01:38.008485
 2025-08-11,96649,2025081101000733,SBI,Sumeru Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,100,423.5,42350.0,2025-08-11 11:05:37.058134
 2025-08-11,96648,2025081101000734,SBI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,967,423.0,409041.0,2025-08-11 11:05:37.058254

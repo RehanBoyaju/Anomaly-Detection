@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,54420,2025082504000210,DHPL,Ashutosh Brokerage & Securities (PVT) Ltd.,Citizens Share Broker Limited,30,309.0,9270.0,2025-08-25 11:13:06.786999
 2025-08-25,54419,2025082504000211,DHPL,J.F. Securites (PVT) Ltd.,Citizens Share Broker Limited,100,309.0,30900.0,2025-08-25 11:13:06.787088
 2025-08-25,54418,2025082504000212,DHPL,Midas Stock Broking Company Private Limited,Citizens Share Broker Limited,95,308.0,29260.0,2025-08-25 11:13:06.787170

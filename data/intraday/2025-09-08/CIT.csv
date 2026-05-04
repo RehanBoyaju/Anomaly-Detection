@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,58431,2025090805000253,CIT,Opal Securities Investment (PVT) Ltd.,Trishakti Securities Public Limited,1000,1906.0,1906000.0,2025-09-08 11:10:42.182164
 2025-09-08,56920,2025090805000679,CIT,Aryatara Investment & Securities,Shree Krishna Securities Ltd.,12,1905.0,22860.0,2025-09-08 11:20:16.927567
 2025-09-08,56919,2025090805000680,CIT,South Asian Bulls Pvt. Ltd.,Shree Krishna Securities Ltd.,10,1905.0,19050.0,2025-09-08 11:20:16.927665

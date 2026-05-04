@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93068,2025080604000004,RHPL,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,10,332.0,3320.0,2025-08-06 11:00:09.112606
 2025-08-06,91874,2025080604000138,RHPL,Secured Securities Ltd.,Capital Max Securities Ltd,70,332.0,23240.0,2025-08-06 11:04:14.484176
 2025-08-06,91688,2025080604000173,RHPL,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,50,332.0,16600.0,2025-08-06 11:04:51.532507

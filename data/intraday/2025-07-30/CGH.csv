@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,139211,2025073004000440,CGH,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,10,1109.0,11090.0,2025-07-30 11:05:48.436681
 2025-07-30,139022,2025073004000470,CGH,Kohinoor Investment & Securities Pvt. Ltd.,Global IME Securities Limited,100,1098.1,109810.0,2025-07-30 11:06:08.809019
 2025-07-30,139021,2025073004000471,CGH,Aryatara Investment & Securities,Global IME Securities Limited,100,1098.0,109800.0,2025-07-30 11:06:08.809099

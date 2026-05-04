@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87360,2025070604000010,SPDL,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,10,406.0,4060.0,2025-07-06 10:46:00.034965
 2025-07-06,87262,2025070604000028,SPDL,ABC Securities Private Limited,Premier Securities Company Ltd.,10,406.0,4060.0,2025-07-06 11:00:29.073125
 2025-07-06,87160,2025070604000058,SPDL,Kalika Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,20,407.0,8140.0,2025-07-06 11:01:02.208106

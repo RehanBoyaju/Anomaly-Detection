@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68648,2025090404000122,AKJCL,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,20,200.0,4000.0,2025-09-04T11:02:51.510395
 2025-09-04,67478,2025090404000448,AKJCL,Thrive Brokerage House Pvt. Ltd,Naasa Securities Co. Ltd.,70,198.0,13860.0,2025-09-04T11:08:27.049243
 2025-09-04,67074,2025090404000542,AKJCL,Thrive Brokerage House Pvt. Ltd,Midas Stock Broking Company Private Limited,50,198.0,9900.0,2025-09-04T11:10:32.544265

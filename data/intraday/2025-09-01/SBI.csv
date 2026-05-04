@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68761,2025090101000004,SBI,Sri Hari Securities Pvt. Ltd.,Trishakti Securities Public Limited,10,398.9,3989.0,2025-09-01 10:46:00.021491
 2025-09-01,67904,2025090101000590,SBI,Nepal Investment And Securities Trading Private Limited,Capital Max Securities Ltd,300,391.0,117300.0,2025-09-01 11:03:09.985115
 2025-09-01,66807,2025090101001224,SBI,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,50,390.0,19500.0,2025-09-01 11:07:31.760016

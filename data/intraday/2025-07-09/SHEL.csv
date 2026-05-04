@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62778,2025070904000063,SHEL,Sani Securities Company Ltd.,Capital Max Securities Ltd,10,289.0,2890.0,2025-07-09 11:00:24.307649
 2025-07-09,62729,2025070904000084,SHEL,Linch Stock Market Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,289.4,86820.0,2025-07-09 11:00:54.310783
 2025-07-09,62713,2025070904000092,SHEL,Linch Stock Market Ltd.,Roadshow securities limited,200,290.0,58000.0,2025-07-09 11:01:05.184403

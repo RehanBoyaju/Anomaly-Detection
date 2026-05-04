@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,165683,2025072304001627,RURU,Swarna Laxmi Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,200,784.2,156840.0,2025-07-23 11:06:19.978721
 2025-07-23,165682,2025072304001628,RURU,Dakshinkali Investment & Securities Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,50,784.1,39205.0,2025-07-23 11:06:19.978791
 2025-07-23,165275,2025072304001750,RURU,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,797.9,7979.0,2025-07-23 11:06:49.036403

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KBL,57,38,50,221.0,11050.0,2026-04-28 14:59:59.680,2026042801111043
 KBL,32,38,61,221.0,13481.0,2026-04-28 14:59:58.026,2026042801110989
 KBL,32,64,39,221.0,8619.0,2026-04-28 14:59:58.024,2026042801110988

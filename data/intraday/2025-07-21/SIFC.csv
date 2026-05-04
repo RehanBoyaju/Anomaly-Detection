@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,130620,2025072103001950,SIFC,Trishakti Securities Public Limited,Hatemalo Financial Services Private Limited,20,545.0,10900.0,2025-07-21 11:12:48.727304
 2025-07-21,129715,2025072103002198,SIFC,Sundhara Securities Limited,Sumeru Securities Pvt. Ltd.,100,544.0,54400.0,2025-07-21 11:13:46.460320
 2025-07-21,129714,2025072103002199,SIFC,Sundhara Securities Limited,Hatemalo Financial Services Private Limited,280,545.0,152600.0,2025-07-21 11:13:46.460383

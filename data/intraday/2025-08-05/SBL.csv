@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,127994,2025080501002717,SBL,Sharepro Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,10,367.7,3677.0,2025-08-05 11:02:03.082872
 2025-08-05,127424,2025080501003231,SBL,Trisul Securities & Invt. Ltd.,Oxford Securities Pvt. Ltd.,10,380.9,3809.0,2025-08-05 11:02:22.334264
 2025-08-05,127036,2025080501003582,SBL,Cristal Kanchanjanga Securites Pvt. Ltd.,Oxford Securities Pvt. Ltd.,10,380.9,3809.0,2025-08-05 11:02:36.318513

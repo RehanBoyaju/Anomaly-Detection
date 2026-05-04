@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73369,2025071501000242,NMB,Opal Securities Investment (PVT) Ltd.,Aryatara Investment & Securities,500,261.0,130500.0,2025-07-15 11:04:54.925212
 2025-07-15,73160,2025071501000299,NMB,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,80,260.0,20800.0,2025-07-15 11:05:56.346343
 2025-07-15,72689,2025071501000462,NMB,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,500,260.0,130000.0,2025-07-15 11:08:31.950954

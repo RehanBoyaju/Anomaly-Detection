@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108413,2025092103000099,MNBBL,Capital Max Securities Ltd,ABC Securities Private Limited,10,426.0,4260.0,2025-09-21 10:46:00.061199
 2025-09-21,108412,2025092103000100,MNBBL,Sundhara Securities Limited,ABC Securities Private Limited,29,426.0,12354.0,2025-09-21 10:46:00.061228
 2025-09-21,108411,2025092103000101,MNBBL,Sundhara Securities Limited,Primo Securities (PVT) Ltd.,71,426.0,30246.0,2025-09-21 10:46:00.061252

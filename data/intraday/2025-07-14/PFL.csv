@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,71146,2025071403000161,PFL,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,50,428.0,21400.0,2025-07-14 11:04:45.693207
 2025-07-14,68798,2025071403000429,PFL,Primo Securities (PVT) Ltd.,Kumari Securities Private Limited,30,428.7,12861.0,2025-07-14 11:12:33.968650
 2025-07-14,68797,2025071403000430,PFL,Primo Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,50,428.7,21435.0,2025-07-14 11:12:33.968738

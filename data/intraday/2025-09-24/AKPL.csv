@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47838,2025092404000004,AKPL,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,10,255.8,2558.0,2025-09-24 10:46:00.024236
 2025-09-24,47745,2025092404000049,AKPL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,1000,260.9,260900.0,2025-09-24 11:00:32.176663
 2025-09-24,47588,2025092404000094,AKPL,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,10,264.9,2649.0,2025-09-24 11:01:26.757588

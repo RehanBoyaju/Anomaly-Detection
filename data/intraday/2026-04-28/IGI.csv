@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 IGI,34,48,200,430.0,86000.0,2026-04-28 14:59:28.555,2026042804014709
 IGI,42,48,200,430.0,86000.0,2026-04-28 14:54:55.988,2026042804013574
 IGI,66,62,267,430.0,114810.0,2026-04-28 14:53:29.434,2026042804013190

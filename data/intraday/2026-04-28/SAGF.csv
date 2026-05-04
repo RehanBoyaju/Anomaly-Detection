@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SAGF,43,42,100,10.11,1011.0,2026-04-28 14:02:15.071,2026042805010111
 SAGF,43,6,100,10.11,1011.0,2026-04-28 14:02:07.624,2026042805010103
 SAGF,43,42,100,10.11,1011.0,2026-04-28 14:01:19.423,2026042805010039

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,136709,2025071703000856,GMFIL,Aryatara Investment & Securities,Linch Stock Market Ltd.,400,512.0,204800.0,2025-07-17 11:10:34.776913
 2025-07-17,136104,2025071703000948,GMFIL,Aryatara Investment & Securities,Trishakti Securities Public Limited,100,512.9,51290.0,2025-07-17 11:11:34.934533
 2025-07-17,135518,2025071703001062,GMFIL,Nepal Stock House (PVT) Ltd.,Aryatara Investment & Securities,200,512.0,102400.0,2025-07-17 11:12:28.803693

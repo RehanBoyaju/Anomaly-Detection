@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61778,2025081904000002,BPCL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,100,830.0,83000.0,2025-08-19 10:46:00.015022
 2025-08-19,61546,2025081904000149,BPCL,SUN SECURITIES PVT LTD,Naasa Securities Co. Ltd.,500,845.0,422500.0,2025-08-19 11:01:06.862436
 2025-08-19,61545,2025081904000150,BPCL,SUN SECURITIES PVT LTD,Agrawal Securities (PVT) Ltd.,100,846.6,84660.0,2025-08-19 11:01:06.862473

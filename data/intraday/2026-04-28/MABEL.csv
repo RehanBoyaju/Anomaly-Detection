@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MABEL,74,4,10,672.3,6723.0,2026-04-28 14:59:53.222,2026042801110685
 MABEL,74,58,10,677.0,6770.0,2026-04-28 14:58:14.884,2026042801108720
 MABEL,74,26,10,677.0,6770.0,2026-04-28 14:58:14.883,2026042801108719

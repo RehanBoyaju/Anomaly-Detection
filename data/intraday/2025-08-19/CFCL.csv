@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,57048,2025081903000497,CFCL,Linch Stock Market Ltd.,Sani Securities Company Ltd.,30,515.0,15450.0,2025-08-19 11:25:29.239407
 2025-08-19,55632,2025081903000706,CFCL,Opal Securities Investment (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,2,510.0,1020.0,2025-08-19 11:31:52.059130
 2025-08-19,55072,2025081903000791,CFCL,Linch Stock Market Ltd.,Neev Securities Pvt. Ltd.,200,515.0,103000.0,2025-08-19 11:34:19.286757

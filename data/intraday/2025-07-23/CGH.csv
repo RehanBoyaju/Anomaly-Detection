@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170196,2025072304000047,CGH,Asian Securities Private Ltd.,Elite Stock House Limited,10,1118.0,11180.0,2025-07-23 10:46:00.085570
 2025-07-23,170010,2025072304000095,CGH,Midas Stock Broking Company Private Limited,Sumeru Securities Pvt. Ltd.,15,1100.0,16500.0,2025-07-23 11:00:32.635090
 2025-07-23,169653,2025072304000237,CGH,Asian Securities Private Ltd.,ABC Securities Private Limited,100,1100.0,110000.0,2025-07-23 11:01:09.482390

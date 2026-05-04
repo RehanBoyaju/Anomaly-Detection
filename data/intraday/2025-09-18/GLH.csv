@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,6642,2025091804000220,GLH,Sewa Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,246.0,2460.0,2025-09-18 11:00:22.848914
 2025-09-18,6641,2025091804000221,GLH,Nepal Investment And Securities Trading Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,490,246.0,120540.0,2025-09-18 11:00:22.848959
 2025-09-18,6635,2025091804000224,GLH,Nepal Investment And Securities Trading Private Limited,Ashutosh Brokerage & Securities (PVT) Ltd.,150,246.0,36900.0,2025-09-18 11:00:26.353391

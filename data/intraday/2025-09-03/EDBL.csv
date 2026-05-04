@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,62829,2025090303000353,EDBL,Malla & Malla Stock Broking Company Pvt. Limited,Nepal Stock House (PVT) Ltd.,20,629.1,12582.0,2025-09-03 11:22:51.254368
 2025-09-03,61664,2025090303000429,EDBL,INDEX SECURITIES LIMITED,Dynamic Money Managers Securities Pvt. Ltd.,100,632.9,63290.0,2025-09-03 11:27:14.642846
 2025-09-03,61663,2025090303000430,EDBL,INDEX SECURITIES LIMITED,Opal Securities Investment (PVT) Ltd.,142,633.0,89886.0,2025-09-03 11:27:14.642953

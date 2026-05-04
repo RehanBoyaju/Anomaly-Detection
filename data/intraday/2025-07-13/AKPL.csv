@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105105,2025071304000083,AKPL,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,259.3,77790.0,2025-07-13T10:46:00.066786
 2025-07-13,105104,2025071304000084,AKPL,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,259.3,77790.0,2025-07-13T10:46:00.066814
 2025-07-13,105103,2025071304000085,AKPL,Sri Hari Securities Pvt. Ltd.,N.M.B. SECURITIES LIMITED,100,259.3,25930.0,2025-07-13T10:46:00.066837

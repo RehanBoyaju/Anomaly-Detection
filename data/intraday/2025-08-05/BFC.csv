@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130949,2025080503000002,BFC,Neev Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,520.9,5209.0,2025-08-05 10:46:00.014257
 2025-08-05,122762,2025080503000131,BFC,Capital Max Securities Ltd,Blue Chip Securities Ltd,10,526.0,5260.0,2025-08-05 11:05:58.568484
 2025-08-05,120744,2025080503000187,BFC,Blue Chip Securities Ltd,Thrive Brokerage House Pvt. Ltd,10,536.5,5365.0,2025-08-05 11:07:48.454120

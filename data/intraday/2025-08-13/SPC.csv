@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,70056,2025081305000010,SPC,Citizens Share Broker Limited,Swarna Laxmi Securities Pvt. Ltd.,10,523.9,5239.0,2025-08-13 10:46:00.042817
 2025-08-13,69690,2025081305000120,SPC,Elite Stock House Limited,Sumeru Securities Pvt. Ltd.,50,532.0,26600.0,2025-08-13 11:01:53.317269
 2025-08-13,64521,2025081305001714,SPC,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,10,530.0,5300.0,2025-08-13 11:25:57.323440

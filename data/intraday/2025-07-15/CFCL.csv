@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73732,2025071503000050,CFCL,Aakashbhairab Securities Ltd.,Sani Securities Company Ltd.,11,555.0,6105.0,2025-07-15 11:02:44.384500
 2025-07-15,72078,2025071503000398,CFCL,Neev Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,16,554.9,8878.4,2025-07-15 11:11:13.694424
 2025-07-15,72077,2025071503000399,CFCL,Neev Securities Pvt. Ltd.,Sani Securities Company Ltd.,20,554.9,11098.0,2025-07-15 11:11:13.694502

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130661,2025080505000046,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,10,2795.0,27950.0,2025-08-05 11:00:40.792582
 2025-08-05,129868,2025080505000075,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Asian Securities Private Ltd.,30,2795.0,83850.0,2025-08-05 11:01:06.335171
 2025-08-05,129867,2025080505000076,CHDC,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,2840.0,28400.0,2025-08-05 11:01:06.335227

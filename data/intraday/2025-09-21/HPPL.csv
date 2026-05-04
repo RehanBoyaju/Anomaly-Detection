@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108469,2025092104000137,HPPL,Capital Max Securities Ltd,Sweta Securities Private Limited,12,411.1,4933.2,2025-09-21 10:46:00.054334
 2025-09-21,108467,2025092104000138,HPPL,Arun Securities (PVT) Ltd.,Sweta Securities Private Limited,78,411.1,32065.8,2025-09-21 10:46:00.054365
 2025-09-21,108464,2025092104000139,HPPL,Arun Securities (PVT) Ltd.,Sani Securities Company Ltd.,105,411.1,43165.5,2025-09-21 10:46:00.054425

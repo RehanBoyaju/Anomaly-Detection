@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,178102,2025072005000014,SAHAS,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,10,670.0,6700.0,2025-07-20T10:46:00.031691
 2025-07-20,178101,2025072005000015,SAHAS,Sani Securities Company Ltd.,Trademow Securities Private Limited,290,670.0,194300.0,2025-07-20T10:46:00.03173
 2025-07-20,178100,2025072005000016,SAHAS,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trademow Securities Private Limited,50,670.0,33500.0,2025-07-20T10:46:00.031757

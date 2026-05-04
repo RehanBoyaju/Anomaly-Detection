@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95599,2025080701000108,NABIL,Dynamic Money Managers Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,50,534.9,26745.0,2025-08-07 11:00:32.656814
 2025-08-07,95173,2025080701000310,NABIL,Elite Stock House Limited,Shree Krishna Securities Ltd.,18,534.0,9612.0,2025-08-07 11:02:12.832445
 2025-08-07,94393,2025080701000630,NABIL,Elite Stock House Limited,Indira securities pvt. ltd,18,533.9,9610.2,2025-08-07 11:04:59.368642

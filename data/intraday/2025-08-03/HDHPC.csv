@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152453,2025080304000008,HDHPC,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,10,210.0,2100.0,2025-08-03T10:46:00.059505
 2025-08-03,152452,2025080304000009,HDHPC,J.F. Securites (PVT) Ltd.,Vision Securities Pvt. Ltd,19,210.0,3990.0,2025-08-03T10:46:00.059535
 2025-08-03,152140,2025080304000039,HDHPC,J.F. Securites (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,400,210.0,84000.0,2025-08-03T11:00:47.997183

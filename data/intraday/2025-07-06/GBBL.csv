@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,85778,2025070603000607,GBBL,Kumari Securities Private Limited,Opal Securities Investment (PVT) Ltd.,25,406.5,10162.5,2025-07-06 11:06:15.072361
 2025-07-06,85777,2025070603000608,GBBL,Secured Securities Ltd.,Opal Securities Investment (PVT) Ltd.,50,406.0,20300.0,2025-07-06 11:06:15.072412
 2025-07-06,85028,2025070603000778,GBBL,Sumeru Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,25,405.0,10125.0,2025-07-06 11:08:25.910198

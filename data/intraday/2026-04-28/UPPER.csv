@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UPPER,38,38,73,205.6,15008.8,2026-04-28 14:59:59.918,2026042804015077
 UPPER,41,56,1000,205.7,205700.0,2026-04-28 14:59:57.636,2026042804015027
 UPPER,38,25,200,205.6,41120.0,2026-04-28 14:59:52.389,2026042804014958

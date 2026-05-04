@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,85298,2025090203000068,NFS,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,10,657.0,6570.0,2025-09-02 11:06:25.935263
 2025-09-02,81602,2025090203000180,NFS,J.F. Securites (PVT) Ltd.,Siprabi Securities Pvt. Ltd.,10,659.1,6591.0,2025-09-02 11:13:02.440460
 2025-09-02,77719,2025090203000282,NFS,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,670.0,6700.0,2025-09-02 11:20:50.654881

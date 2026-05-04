@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58087,2025090701000001,NABIL,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,10,507.3,5073.0,2025-09-07 10:46:00.002337
 2025-09-07,57881,2025090701000058,NABIL,Trisul Securities & Invt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,515.0,5150.0,2025-09-07 11:01:32.622981
 2025-09-07,57833,2025090701000081,NABIL,Trisul Securities & Invt. Ltd.,ABC Securities Private Limited,200,515.0,103000.0,2025-09-07 11:02:05.223285

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76148,2025081404000072,PMHPL,Blue Chip Securities Ltd,Sani Securities Company Ltd.,10,407.0,4070.0,2025-08-14 11:02:13.367367
 2025-08-14,76078,2025081404000102,PMHPL,Blue Chip Securities Ltd,Sani Securities Company Ltd.,10,407.0,4070.0,2025-08-14 11:02:41.441326
 2025-08-14,72960,2025081404000511,PMHPL,Siprabi Securities Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,401.3,4013.0,2025-08-14 11:15:35.884257

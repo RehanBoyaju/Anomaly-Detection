@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,165473,2025072804001588,JOSHI,Kohinoor Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,20,337.0,6740.0,2025-07-28T11:10:40.541353
 2025-07-28,163132,2025072804002285,JOSHI,Kohinoor Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,20,337.0,6740.0,2025-07-28T11:13:30.144152
 2025-07-28,162270,2025072804002501,JOSHI,Kohinoor Investment & Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,337.0,3370.0,2025-07-28T11:14:25.180998

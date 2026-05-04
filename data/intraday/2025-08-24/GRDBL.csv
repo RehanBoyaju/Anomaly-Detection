@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57947,2025082403000012,GRDBL,Thrive Brokerage House Pvt. Ltd,Hatemalo Financial Services Private Limited,10,1149.0,11490.0,2025-08-24 11:00:42.196945
 2025-08-24,56819,2025082403000125,GRDBL,Creative Securities Pvt Ltd,Sweta Securities Private Limited,10,1171.9,11719.0,2025-08-24 11:09:12.072262
 2025-08-24,56204,2025082403000211,GRDBL,Shree Krishna Securities Ltd.,Sweta Securities Private Limited,10,1194.0,11940.0,2025-08-24 11:12:49.468124

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98525,2025081103000001,NABBC,Sipla Securities Private Limited,Miyo Securities Pvt Ltd,10,1654.4,16544.0,2025-08-11 10:46:00.005672
 2025-08-11,98361,2025081103000013,NABBC,Sipla Securities Private Limited,Sweta Securities Private Limited,50,1695.0,84750.0,2025-08-11 11:00:31.314187
 2025-08-11,98311,2025081103000018,NABBC,Sipla Securities Private Limited,Sipla Securities Private Limited,10,1728.0,17280.0,2025-08-11 11:00:46.361579

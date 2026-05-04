@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149271,2025080403000001,NABBC,Miyo Securities Pvt Ltd,Midas Stock Broking Company Private Limited,10,1688.5,16885.0,2025-08-04 10:46:00.006504
 2025-08-04,141635,2025080403000410,NABBC,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,10,1700.1,17001.0,2025-08-04 11:07:06.359698
 2025-08-04,139496,2025080403000542,NABBC,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,20,1733.0,34660.0,2025-08-04 11:08:55.080142

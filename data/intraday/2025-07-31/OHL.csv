@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,146394,2025073104003779,OHL,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,20,893.1,17862.0,2025-07-31 11:30:48.406380
 2025-07-31,146393,2025073104003780,OHL,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,80,893.0,71440.0,2025-07-31 11:30:48.406444
 2025-07-31,146064,2025073104003821,OHL,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,20,893.0,17860.0,2025-07-31 11:31:10.754704

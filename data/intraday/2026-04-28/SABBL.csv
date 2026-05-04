@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SABBL,41,84,19,1429.0,27151.0,2026-04-28 14:59:58.212,2026042801110997
 SABBL,50,84,50,1429.0,71450.0,2026-04-28 14:59:58.211,2026042801110996
 SABBL,6,84,10,1429.0,14290.0,2026-04-28 14:59:58.211,2026042801110995

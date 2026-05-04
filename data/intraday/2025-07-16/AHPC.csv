@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99057,2025071604000148,AHPC,Naasa Securities Co. Ltd.,Sundhara Securities Limited,10,292.0,2920.0,2025-07-16 11:02:13.914680
 2025-07-16,99056,2025071604000149,AHPC,Naasa Securities Co. Ltd.,Sundhara Securities Limited,90,291.2,26208.0,2025-07-16 11:02:13.914782
 2025-07-16,98062,2025071604000394,AHPC,Himalayan Brokerage Company Limited,Sharepro Securities Private Limited,100,292.0,29200.0,2025-07-16 11:05:39.402182

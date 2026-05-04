@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,66845,2025090404000640,NHDL,Naasa Securities Co. Ltd.,Kalika Securities Pvt. Ltd.,13,682.0,8866.0,2025-09-04T11:11:19.679603
 2025-09-04,66207,2025090404000814,NHDL,Nagarik Stock Dealer ,Trademow Securities Private Limited,850,682.0,579700.0,2025-09-04T11:13:29.112239
 2025-09-04,64109,2025090404001320,NHDL,Ashutosh Brokerage & Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,15,684.0,10260.0,2025-09-04T11:21:16.090206

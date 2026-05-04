@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156943,2025072904000092,HURJA,Trisul Securities & Invt. Ltd.,Imperial Securities Company Pvt. Ltd.,20,269.0,5380.0,2025-07-29 11:01:49.242367
 2025-07-29,156216,2025072904000206,HURJA,Sewa Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,480,269.0,129120.0,2025-07-29 11:03:14.544245
 2025-07-29,156101,2025072904000225,HURJA,Sewa Securities Pvt. Ltd.,Sani Securities Company Ltd.,220,269.0,59180.0,2025-07-29 11:03:28.227262

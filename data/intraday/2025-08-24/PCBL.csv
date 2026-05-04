@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57249,2025082401000128,PCBL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,400,257.0,102800.0,2025-08-24 11:05:50.529481
 2025-08-24,57248,2025082401000129,PCBL,Vision Securities Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,258.0,77400.0,2025-08-24 11:05:50.529593
 2025-08-24,56925,2025082401000209,PCBL,S.P.S.A. Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,258.0,5160.0,2025-08-24 11:08:23.148820

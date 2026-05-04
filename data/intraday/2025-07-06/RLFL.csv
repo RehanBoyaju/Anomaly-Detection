@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87256,2025070603000057,RLFL,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,500.0,50000.0,2025-07-06 11:00:31.299887
 2025-07-06,87139,2025070603000107,RLFL,Midas Stock Broking Company Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,500.0,10000.0,2025-07-06 11:01:06.990615
 2025-07-06,86652,2025070603000298,RLFL,Capital Max Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,40,500.0,20000.0,2025-07-06 11:03:11.355228

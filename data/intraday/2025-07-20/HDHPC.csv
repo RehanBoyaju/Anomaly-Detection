@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,178012,2025072004000063,HDHPC,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,10,207.0,2070.0,2025-07-20T10:46:00.065453
 2025-07-20,178011,2025072004000064,HDHPC,Capital Max Securities Ltd,Naasa Securities Co. Ltd.,50,207.0,10350.0,2025-07-20T10:46:00.065479
 2025-07-20,178010,2025072004000065,HDHPC,NIMB Stock Markets Limited,Naasa Securities Co. Ltd.,20,207.0,4140.0,2025-07-20T10:46:00.065499

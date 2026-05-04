@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98324,2025081101000089,SCB,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,10,656.7,6567.0,2025-08-11 11:00:40.229008
 2025-08-11,98034,2025081101000205,SCB,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,90,669.7,60273.0,2025-08-11 11:01:44.749811
 2025-08-11,97731,2025081101000328,SCB,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,25,656.7,16417.5,2025-08-11 11:02:41.363990

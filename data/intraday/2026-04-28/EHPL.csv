@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 EHPL,19,57,20,394.1,7882.0,2026-04-28 14:59:59.431,2026042805016546
 EHPL,11,5,2,395.0,790.0,2026-04-28 14:59:54.399,2026042805016441
 EHPL,36,57,50,396.0,19800.0,2026-04-28 14:59:35.733,2026042805016278

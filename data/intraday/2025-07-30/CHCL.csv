@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140711,2025073004000135,CHCL,Cristal Kanchanjanga Securites Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,10,563.9,5639.0,2025-07-30 11:02:31.886404
 2025-07-30,139850,2025073004000320,CHCL,J.F. Securites (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,100,560.0,56000.0,2025-07-30 11:04:21.394625
 2025-07-30,139235,2025073004000434,CHCL,Sharepro Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,200,558.9,111780.0,2025-07-30 11:05:43.569601

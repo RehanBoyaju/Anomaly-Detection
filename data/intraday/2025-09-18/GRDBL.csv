@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7101,2025091803000084,GRDBL,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,15,990.0,14850.0,2025-09-18 10:46:00.104991
 2025-09-18,7100,2025091803000085,GRDBL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,990.0,9900.0,2025-09-18 10:46:00.105017
 2025-09-18,7099,2025091803000086,GRDBL,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,990.0,9900.0,2025-09-18 10:46:00.105044

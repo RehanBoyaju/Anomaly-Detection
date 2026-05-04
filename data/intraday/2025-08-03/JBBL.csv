@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,148351,2025080303000561,JBBL,Imperial Securities Company Pvt. Ltd.,Miyo Securities Pvt Ltd,50,377.0,18850.0,2025-08-03T11:06:50.334436
 2025-08-03,148350,2025080303000562,JBBL,Imperial Securities Company Pvt. Ltd.,Vision Securities Pvt. Ltd,50,377.0,18850.0,2025-08-03T11:06:50.334527
 2025-08-03,147965,2025080303000611,JBBL,Vision Securities Pvt. Ltd,South Asian Bulls Pvt. Ltd.,10,373.8,3738.0,2025-08-03T11:07:28.993383

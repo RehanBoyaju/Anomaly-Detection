@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53780,2025082003000009,MDB,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,953,637.9,607918.7,2025-08-20 11:00:24.972533
 2025-08-20,52649,2025082003000134,MDB,Linch Stock Market Ltd.,Sumeru Securities Pvt. Ltd.,20,625.5,12510.0,2025-08-20 11:10:10.618161
 2025-08-20,49796,2025082003000446,MDB,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,200,627.9,125580.0,2025-08-20 11:27:17.921860

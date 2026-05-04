@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68719,2025090101000016,PRVU,Sri Hari Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,10,213.8,2138.0,2025-09-01 10:46:00.048409
 2025-09-01,67416,2025090101000882,PRVU,Aryatara Investment & Securities,Dynamic Money Managers Securities Pvt. Ltd.,1000,210.0,210000.0,2025-09-01 11:05:17.413524
 2025-09-01,67405,2025090101000891,PRVU,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,165,209.6,34584.0,2025-09-01 11:05:18.362001

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67099,2025092304000086,KPCL,Aryatara Investment & Securities,Premier Securities Company Ltd.,10,557.1,5571.0,2025-09-23 11:01:28.048042
 2025-09-23,65469,2025092304000625,KPCL,Nagarik Stock Dealer ,Naasa Securities Co. Ltd.,10,547.1,5471.0,2025-09-23 11:06:37.910932
 2025-09-23,64768,2025092304000850,KPCL,Nagarik Stock Dealer ,Market Securities & Exchange (PVT) Ltd.,190,547.1,103949.0,2025-09-23 11:08:46.636169

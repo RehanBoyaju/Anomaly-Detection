@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,86870,2025071003000213,ICFC,Blue Chip Securities Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,10,627.5,6275.0,2025-07-10 11:08:40.805730
 2025-07-10,86751,2025071003000231,ICFC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,627.9,18837.0,2025-07-10 11:09:10.044179
 2025-07-10,86750,2025071003000232,ICFC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Trisul Securities & Invt. Ltd.,331,628.0,207868.0,2025-07-10 11:09:10.044297

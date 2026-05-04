@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UMRH,46,17,50,531.4,26570.0,2026-04-28 14:59:41.994,2026042804014869
 UMRH,37,48,25,531.3,13282.499999999998,2026-04-28 14:56:21.587,2026042804013882
 UMRH,45,48,10,532.0,5320.0,2026-04-28 14:56:21.587,2026042804013881

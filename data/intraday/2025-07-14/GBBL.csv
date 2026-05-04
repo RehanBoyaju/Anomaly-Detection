@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,69294,2025071403000381,GBBL,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,414.0,41400.0,2025-07-14 11:10:56.530843
 2025-07-14,68752,2025071403000436,GBBL,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,41,415.0,17015.0,2025-07-14 11:12:40.598500
 2025-07-14,67789,2025071403000556,GBBL,Dynamic Money Managers Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,400,417.8,167120.0,2025-07-14 11:15:35.734079

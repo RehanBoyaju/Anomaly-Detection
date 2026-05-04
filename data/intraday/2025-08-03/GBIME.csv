@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151235,2025080301000831,GBIME,Pragyan Securities (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,1000,259.0,259000.0,2025-08-03T11:02:21.040314
 2025-08-03,151234,2025080301000832,GBIME,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,10,259.0,2590.0,2025-08-03T11:02:21.040381
 2025-08-03,150996,2025080301001017,GBIME,Dynamic Money Managers Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,1000,257.3,257300.0,2025-08-03T11:02:40.058884

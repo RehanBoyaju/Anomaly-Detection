@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,94936,2025083104000108,UPCL,Secured Securities Ltd.,Vision Securities Pvt. Ltd,100,393.9,39390.0,2025-08-31T11:03:03.526671
 2025-08-31,94320,2025083104000128,UPCL,Sajilo Broker Limited,Vision Securities Pvt. Ltd,200,389.0,77800.0,2025-08-31T11:03:50.475102
 2025-08-31,94319,2025083104000129,UPCL,Creative Securities Pvt Ltd,Vision Securities Pvt. Ltd,100,389.0,38900.0,2025-08-31T11:03:50.475188

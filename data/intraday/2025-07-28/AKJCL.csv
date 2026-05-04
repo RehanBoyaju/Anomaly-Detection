@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170617,2025072804000022,AKJCL,Thrive Brokerage House Pvt. Ltd,Linch Stock Market Ltd.,500,223.0,111500.0,2025-07-28T11:00:13.945345
 2025-07-28,170490,2025072804000067,AKJCL,Linch Stock Market Ltd.,Linch Stock Market Ltd.,300,222.6,66780.0,2025-07-28T11:00:54.254146
 2025-07-28,170429,2025072804000103,AKJCL,Ashutosh Brokerage & Securities (PVT) Ltd.,Shree Krishna Securities Ltd.,46,222.5,10235.0,2025-07-28T11:01:09.916874

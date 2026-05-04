@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69642,2025081304000066,PPCL,Hatemalo Financial Services Private Limited,NIMB Stock Markets Limited,200,350.4,70080.0,2025-08-13 11:02:05.524047
 2025-08-13,69363,2025081304000108,PPCL,Ashutosh Brokerage & Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,10,357.3,3573.0,2025-08-13 11:04:03.839762
 2025-08-13,68927,2025081304000208,PPCL,Himalayan Securities Limited,Sani Securities Company Ltd.,20,350.2,7004.0,2025-08-13 11:06:57.020596

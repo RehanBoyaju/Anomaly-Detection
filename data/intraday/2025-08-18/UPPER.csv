@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67664,2025081804000095,UPPER,Vision Securities Pvt. Ltd,Arun Securities (PVT) Ltd.,100,194.1,19410.0,2025-08-18T11:02:16.065268
 2025-08-18,67608,2025081804000107,UPPER,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,12,195.9,2350.8,2025-08-18T11:02:42.109987
 2025-08-18,66975,2025081804000215,UPPER,Opal Securities Investment (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,15,195.9,2938.5,2025-08-18T11:06:46.171869

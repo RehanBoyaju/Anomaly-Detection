@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,77790,2025082803000080,MFIL,Asian Securities Private Ltd.,South Asian Bulls Pvt. Ltd.,500,700.0,350000.0,2025-08-28 11:03:13.491236
 2025-08-28,76604,2025082803000212,MFIL,Kalika Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,34,707.0,24038.0,2025-08-28 11:07:50.586466
 2025-08-28,74948,2025082803000452,MFIL,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,705.0,7050.0,2025-08-28 11:14:06.323033

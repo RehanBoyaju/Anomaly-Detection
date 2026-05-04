@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,91586,2025083104000287,CGH,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,10,1046.6,10466.0,2025-08-31T11:08:30.108098
 2025-08-31,91311,2025083104000300,CGH,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,1047.0,20940.0,2025-08-31T11:08:50.479851
 2025-08-31,91123,2025083104000309,CGH,Vision Securities Pvt. Ltd,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,20,1046.6,20932.0,2025-08-31T11:09:07.732332

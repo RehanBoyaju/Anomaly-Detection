@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170277,2025072305000030,NIFRA,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,300,310.0,93000.0,2025-07-23 10:46:00.028705
 2025-07-23,170276,2025072305000031,NIFRA,Naasa Securities Co. Ltd.,South Asian Bulls Pvt. Ltd.,200,310.0,62000.0,2025-07-23 10:46:00.028735
 2025-07-23,170275,2025072305000032,NIFRA,Naasa Securities Co. Ltd.,Opal Securities Investment (PVT) Ltd.,500,310.0,155000.0,2025-07-23 10:46:00.028758

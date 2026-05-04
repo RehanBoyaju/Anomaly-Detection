@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MCHL,38,49,20,336.1,6722.0,2026-04-28 14:59:37.879,2026042805016304
 MCHL,7,49,10,336.2,3362.0,2026-04-28 14:59:37.879,2026042805016303
 MCHL,7,49,10,336.5,3365.0,2026-04-28 14:59:37.879,2026042805016302

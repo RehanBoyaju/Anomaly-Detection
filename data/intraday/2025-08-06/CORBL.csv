@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,92187,2025080603000130,CORBL,Asian Securities Private Ltd.,Hatemalo Financial Services Private Limited,10,2055.0,20550.0,2025-08-06 11:03:17.362416
 2025-08-06,87156,2025080603000793,CORBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,10,2066.0,20660.0,2025-08-06 11:15:36.826204
 2025-08-06,85195,2025080603001115,CORBL,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,50,2107.3,105365.0,2025-08-06 11:20:50.601930

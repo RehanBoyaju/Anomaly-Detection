@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,61864,2025070903000119,NLICL,Asian Securities Private Ltd.,Sajilo Broker Limited,10,629.9,6299.0,2025-07-09 11:06:33.002371
 2025-07-09,60758,2025070903000246,NLICL,Linch Stock Market Ltd.,Trishakti Securities Public Limited,100,627.5,62750.0,2025-07-09 11:12:37.548292
 2025-07-09,57042,2025070903000638,NLICL,Linch Stock Market Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,626.0,6260.0,2025-07-09 11:30:55.595585

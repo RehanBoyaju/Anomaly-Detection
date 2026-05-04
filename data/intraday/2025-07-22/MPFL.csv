@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,174057,2025072203001475,MPFL,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,80,660.0,52800.0,2025-07-22 11:06:22.814745
 2025-07-22,173950,2025072203001529,MPFL,ABC Securities Private Limited,Online Securities Pvt. Ltd.,70,661.0,46270.0,2025-07-22 11:06:39.089104
 2025-07-22,173561,2025072203001675,MPFL,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,30,661.0,19830.0,2025-07-22 11:07:22.060503

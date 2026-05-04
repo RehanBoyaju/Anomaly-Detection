@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,72533,2025081404000587,CGH,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,975.0,9750.0,2025-08-14 11:16:56.500843
 2025-08-14,67878,2025081404001311,CGH,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,10,990.0,9900.0,2025-08-14 11:33:38.462297
 2025-08-14,65873,2025081404001629,CGH,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,50,989.9,49495.0,2025-08-14 11:43:26.534942

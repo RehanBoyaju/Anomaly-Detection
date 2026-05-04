@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95225,2025080705000209,HIDCL,Nabil Stock Dealer Ltd.,SUN SECURITIES PVT LTD,15,290.0,4350.0,2025-08-07 11:01:56.568609
 2025-08-07,95161,2025080705000226,HIDCL,Roadshow securities limited,SUN SECURITIES PVT LTD,285,290.0,82650.0,2025-08-07 11:02:15.157586
 2025-08-07,94165,2025080705000530,HIDCL,South Asian Bulls Pvt. Ltd.,Kalika Securities Pvt. Ltd.,100,290.0,29000.0,2025-08-07 11:05:46.689847

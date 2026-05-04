@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,149226,2025080404000014,SSHL,Capital Max Securities Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,25,216.3,5407.5,2025-08-04 10:46:00.052534
 2025-08-04,149225,2025080404000015,SSHL,Kumari Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,216.3,21630.0,2025-08-04 10:46:00.052562
 2025-08-04,149224,2025080404000016,SSHL,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,150,216.3,32445.0,2025-08-04 10:46:00.052593

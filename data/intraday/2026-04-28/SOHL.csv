@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SOHL,96,53,10,760.0,7600.0,2026-04-28 14:59:59.661,2026042801111042
 SOHL,26,53,40,760.0,30400.0,2026-04-28 14:59:57.970,2026042801110987
 SOHL,26,19,10,760.0,7600.0,2026-04-28 14:59:57.970,2026042801110986

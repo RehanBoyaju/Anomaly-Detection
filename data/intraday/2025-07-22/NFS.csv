@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177089,2025072203000005,NFS,Beni Securities Pvt.Ltd.,Trisul Securities & Invt. Ltd.,10,738.8,7388.0,2025-07-22 10:46:00.017093
 2025-07-22,176734,2025072203000188,NFS,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,10,734.6,7346.0,2025-07-22 11:01:18.878579
 2025-07-22,176733,2025072203000189,NFS,Kohinoor Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,290,735.0,213150.0,2025-07-22 11:01:18.878628

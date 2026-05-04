@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SIKLES,59,35,60,592.0,35520.0,2026-04-28 14:58:06.590,2026042805015869
 SIKLES,44,36,100,591.3,59129.99999999999,2026-04-28 14:57:54.938,2026042805015840
 SIKLES,44,22,11,591.3,6504.299999999999,2026-04-28 14:57:44.355,2026042805015791

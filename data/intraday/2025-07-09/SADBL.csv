@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,59223,2025070903000429,SADBL,Midas Stock Broking Company Private Limited,ABC Securities Private Limited,95,407.0,38665.0,2025-07-09 11:20:55.573818
 2025-07-09,57044,2025070903000636,SADBL,Midas Stock Broking Company Private Limited,Secured Securities Ltd.,100,409.5,40950.0,2025-07-09 11:30:54.644059
 2025-07-09,57043,2025070903000637,SADBL,Midas Stock Broking Company Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,200,409.7,81940.0,2025-07-09 11:30:54.644239

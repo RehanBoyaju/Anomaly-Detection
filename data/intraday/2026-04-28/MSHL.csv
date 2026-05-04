@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MSHL,50,42,10,718.0,7180.0,2026-04-28 14:53:18.233,2026042805014957
 MSHL,50,42,10,718.0,7180.0,2026-04-28 14:52:58.090,2026042805014914
 MSHL,50,42,170,718.0,122060.0,2026-04-28 14:49:11.853,2026042805014387

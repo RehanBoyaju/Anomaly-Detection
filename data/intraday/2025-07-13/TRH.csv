@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,101690,2025071304000921,TRH,Online Securities Pvt. Ltd.,Kumari Securities Private Limited,10,969.0,9690.0,2025-07-13T11:02:41.792768
 2025-07-13,101143,2025071304001054,TRH,Trishakti Securities Public Limited,Kumari Securities Private Limited,10,969.0,9690.0,2025-07-13T11:03:01.538273
 2025-07-13,101142,2025071304001055,TRH,Trishakti Securities Public Limited,Property Wiard Limited,10,970.0,9700.0,2025-07-13T11:03:01.538319

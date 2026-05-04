@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78332,2025082804000018,LEC,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,238.0,2380.0,2025-08-28 10:46:00.062434
 2025-08-28,78331,2025082804000019,LEC,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,100,238.0,23800.0,2025-08-28 10:46:00.062472
 2025-08-28,78169,2025082804000076,LEC,South Asian Bulls Pvt. Ltd.,INDEX SECURITIES LIMITED,11,242.2,2664.2,2025-08-28 11:01:11.603225

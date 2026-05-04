@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,140377,2025073003000239,NLICL,ABC Securities Private Limited,ABC Securities Private Limited,10,668.5,6685.0,2025-07-30 11:03:17.166968
 2025-07-30,140077,2025073003000308,NLICL,ABC Securities Private Limited,Primo Securities (PVT) Ltd.,10,681.8,6818.0,2025-07-30 11:03:50.182538
 2025-07-30,137612,2025073003000816,NLICL,Kalika Securities Pvt. Ltd.,Trishakti Securities Public Limited,10,668.2,6682.0,2025-07-30 11:08:58.551310

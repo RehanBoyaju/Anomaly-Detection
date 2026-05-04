@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72058,2025082703000070,CORBL,Shree Krishna Securities Ltd.,Midas Stock Broking Company Private Limited,10,1935.0,19350.0,2025-08-27T11:04:36.506639
 2025-08-27,71114,2025082703000179,CORBL,Naasa Securities Co. Ltd.,ABC Securities Private Limited,35,1920.0,67200.0,2025-08-27T11:10:57.147611
 2025-08-27,70719,2025082703000219,CORBL,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,10,1899.0,18990.0,2025-08-27T11:13:02.628375

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,38231,2025092803000085,RLFL,Blue Chip Securities Ltd,Kalika Securities Pvt. Ltd.,10,453.0,4530.0,2025-09-28 11:09:14.553077
 2025-09-28,36916,2025092803000226,RLFL,Nepal Stock House (PVT) Ltd.,Kalika Securities Pvt. Ltd.,290,453.0,131370.0,2025-09-28 11:16:07.915332
 2025-09-28,36586,2025092803000257,RLFL,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,210,453.0,95130.0,2025-09-28 11:18:09.759353

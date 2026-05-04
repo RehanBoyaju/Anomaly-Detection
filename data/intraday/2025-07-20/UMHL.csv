@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,178054,2025072004000024,UMHL,Elite Stock House Limited,Property Wiard Limited,100,571.9,57190.0,2025-07-20T10:46:00.045317
 2025-07-20,178053,2025072004000025,UMHL,K.B.L. Securities Limited ,Property Wiard Limited,1000,571.9,571900.0,2025-07-20T10:46:00.045344
 2025-07-20,178052,2025072004000026,UMHL,ABC Securities Private Limited,Property Wiard Limited,100,571.9,57190.0,2025-07-20T10:46:00.045371

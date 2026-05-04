@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,157479,2025072903000007,JBBL,Opal Securities Investment (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,300,405.0,121500.0,2025-07-29 10:46:00.042893
 2025-07-29,157213,2025072903000037,JBBL,Opal Securities Investment (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,405.0,40500.0,2025-07-29 11:01:02.693515
 2025-07-29,157199,2025072903000043,JBBL,Arun Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,408.0,81600.0,2025-07-29 11:01:05.142448

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,54504,2025090704000868,TRH,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,918.0,9180.0,2025-09-07 11:22:13.213709
 2025-09-07,43098,2025090704003495,TRH,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Kumari Securities Private Limited,25,925.0,23125.0,2025-09-07 12:14:03.436771
 2025-09-07,42159,2025090704003698,TRH,Bhrikuti Stock Broking Co. Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,5,915.0,4575.0,2025-09-07 12:17:56.897335

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47023,2025092401000147,NICA,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,410,337.0,138170.0,2025-09-24 11:05:04.124137
 2025-09-24,47022,2025092401000148,NICA,Prabhu Stock Market Limited,Nepal Stock House (PVT) Ltd.,25,337.0,8425.0,2025-09-24 11:05:04.124224
 2025-09-24,47021,2025092401000149,NICA,Nepal Stock House (PVT) Ltd.,Nepal Stock House (PVT) Ltd.,65,337.0,21905.0,2025-09-24 11:05:04.124254

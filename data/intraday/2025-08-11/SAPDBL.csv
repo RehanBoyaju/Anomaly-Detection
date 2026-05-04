@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98454,2025081103000009,SAPDBL,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,10,924.0,9240.0,2025-08-11 10:46:00.077049
 2025-08-11,98227,2025081103000024,SAPDBL,Naasa Securities Co. Ltd.,Hatemalo Financial Services Private Limited,10,907.0,9070.0,2025-08-11 11:01:07.897917
 2025-08-11,98058,2025081103000043,SAPDBL,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,37,907.0,33559.0,2025-08-11 11:01:41.090571

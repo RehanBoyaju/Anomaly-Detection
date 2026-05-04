@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154590,2025072404000020,KPCL,Oxford Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,10,643.5,6435.0,2025-07-24 10:46:00.055841
 2025-07-24,154589,2025072404000021,KPCL,Oxford Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,10,643.5,6435.0,2025-07-24 10:46:00.055878
 2025-07-24,154588,2025072404000022,KPCL,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,14,643.5,9009.0,2025-07-24 10:46:00.055906

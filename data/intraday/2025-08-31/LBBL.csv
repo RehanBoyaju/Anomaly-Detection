@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,96239,2025083103000013,LBBL,Sani Securities Company Ltd.,Prabhu Stock Market Limited,10,550.0,5500.0,2025-08-31T11:01:10.326359
 2025-08-31,95806,2025083103000025,LBBL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,10,550.0,5500.0,2025-08-31T11:01:40.996193
 2025-08-31,95588,2025083103000028,LBBL,Sani Securities Company Ltd.,Nagarik Stock Dealer ,80,550.0,44000.0,2025-08-31T11:01:51.055685

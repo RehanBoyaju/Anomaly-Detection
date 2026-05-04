@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,85578,2025070603000658,MPFL,Online Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,103,615.1,63355.3,2025-07-06 11:06:54.916098
 2025-07-06,84546,2025070603000932,MPFL,Trademow Securities Private Limited,Aryatara Investment & Securities,200,617.0,123400.0,2025-07-06 11:10:03.589229
 2025-07-06,84419,2025070603000978,MPFL,Trademow Securities Private Limited,Sweta Securities Private Limited,50,617.0,30850.0,2025-07-06 11:10:22.942490

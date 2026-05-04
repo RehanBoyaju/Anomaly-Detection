@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73892,2025071503000025,GRDBL,SHUBHAKAMANA SECURITIES PVT. LTD,SHUBHAKAMANA SECURITIES PVT. LTD,10,1316.0,13160.0,2025-07-15 11:01:20.823094
 2025-07-15,73694,2025071503000052,GRDBL,Linch Stock Market Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,30,1363.9,40917.0,2025-07-15 11:02:55.720141
 2025-07-15,73603,2025071503000069,GRDBL,Himalayan Brokerage Company Limited,South Asian Bulls Pvt. Ltd.,10,1390.9,13909.0,2025-07-15 11:03:30.872303

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108499,2025092104000121,AKPL,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,234.0,2340.0,2025-09-21 10:46:00.047803
 2025-09-21,108498,2025092104000122,AKPL,Investment Management Nepal Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,234.0,23400.0,2025-09-21 10:46:00.047840
 2025-09-21,108497,2025092104000123,AKPL,Sharepro Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,234.0,23400.0,2025-09-21 10:46:00.047871

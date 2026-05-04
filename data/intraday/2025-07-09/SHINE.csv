@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,61361,2025070903000165,SHINE,MILKY WAY SHARE BROKER COMPANY LTD ,Sundhara Securities Limited,10,405.0,4050.0,2025-07-09 11:09:06.071118
 2025-07-09,61360,2025070903000166,SHINE,MILKY WAY SHARE BROKER COMPANY LTD ,Linch Stock Market Ltd.,500,406.8,203400.0,2025-07-09 11:09:06.071216
 2025-07-09,61235,2025070903000187,SHINE,MILKY WAY SHARE BROKER COMPANY LTD ,Aryatara Investment & Securities,1490,406.9,606281.0,2025-07-09 11:09:41.156877

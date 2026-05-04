@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,69817,2025071403000311,CORBL,Siprabi Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,10,2334.2,23342.0,2025-07-14 11:09:01.510442
 2025-07-14,69645,2025071403000331,CORBL,Aryatara Investment & Securities,Hatemalo Financial Services Private Limited,10,2300.0,23000.0,2025-07-14 11:09:42.939110
 2025-07-14,66438,2025071403000755,CORBL,Shree Krishna Securities Ltd.,Thrive Brokerage House Pvt. Ltd,10,2380.0,23800.0,2025-07-14 11:20:16.754526

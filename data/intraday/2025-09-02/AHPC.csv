@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,82921,2025090204000201,AHPC,Vision Securities Pvt. Ltd,Trisul Securities & Invt. Ltd.,100,289.9,28990.0,2025-09-02 11:10:29.485468
 2025-09-02,82046,2025090204000230,AHPC,Deevyaa Securities & Stock House Pvt. Ltd,Shree Krishna Securities Ltd.,50,288.3,14415.0,2025-09-02 11:12:14.318274
 2025-09-02,80683,2025090204000275,AHPC,Nepal Stock House (PVT) Ltd.,Sewa Securities Pvt. Ltd.,50,288.5,14425.0,2025-09-02 11:14:50.248954

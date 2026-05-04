@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59656,2025090803000004,KSBBL,Sagarmatha Securities Private Limited,Sundhara Securities Limited,50,546.3,27315.0,2025-09-08 10:46:00.041685
 2025-09-08,59655,2025090803000005,KSBBL,ABC Securities Private Limited,Sundhara Securities Limited,50,546.3,27315.0,2025-09-08 10:46:00.041712
 2025-09-08,59627,2025090803000014,KSBBL,Trisul Securities & Invt. Ltd.,Nepal Stock House (PVT) Ltd.,90,540.0,48600.0,2025-09-08 10:46:00.146838

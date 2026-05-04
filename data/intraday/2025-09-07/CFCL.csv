@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,56045,2025090703000161,CFCL,Naasa Securities Co. Ltd.,Thrive Brokerage House Pvt. Ltd,100,488.2,48820.0,2025-09-07 11:14:00.687826
 2025-09-07,56044,2025090703000162,CFCL,Sewa Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,50,488.2,24410.0,2025-09-07 11:14:00.687916
 2025-09-07,56043,2025090703000163,CFCL,Vision Securities Pvt. Ltd,Thrive Brokerage House Pvt. Ltd,100,488.1,48810.0,2025-09-07 11:14:00.687942

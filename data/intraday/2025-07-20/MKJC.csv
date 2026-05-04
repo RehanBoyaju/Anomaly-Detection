@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177951,2025072001000021,MKJC,Midas Stock Broking Company Private Limited,Kumari Securities Private Limited,10,554.9,5549.0,2025-07-20T10:46:00.49205
 2025-07-20,177443,2025072001000158,MKJC,Investment Management Nepal Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,1000,544.0,544000.0,2025-07-20T11:01:23.826403
 2025-07-20,174711,2025072001000743,MKJC,South Asian Bulls Pvt. Ltd.,Linch Stock Market Ltd.,500,549.9,274950.0,2025-07-20T11:05:04.920802

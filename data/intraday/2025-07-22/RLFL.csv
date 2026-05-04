@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176799,2025072203000147,RLFL,Thrive Brokerage House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,10,497.0,4970.0,2025-07-22 11:01:02.877720
 2025-07-22,174622,2025072203001151,RLFL,Blue Chip Securities Ltd,Investment Management Nepal Pvt. Ltd.,10,506.9,5069.0,2025-07-22 11:05:31.426683
 2025-07-22,174119,2025072203001433,RLFL,Thrive Brokerage House Pvt. Ltd,Investment Management Nepal Pvt. Ltd.,24,501.0,12024.0,2025-07-22 11:06:19.444612

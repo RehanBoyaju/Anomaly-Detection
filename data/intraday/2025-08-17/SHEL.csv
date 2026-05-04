@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,85977,2025081704000108,SHEL,Ashutosh Brokerage & Securities (PVT) Ltd.,Sewa Securities Pvt. Ltd.,10,303.0,3030.0,2025-08-17 11:02:10.125053
 2025-08-17,85971,2025081704000109,SHEL,South Asian Bulls Pvt. Ltd.,Sewa Securities Pvt. Ltd.,10,303.0,3030.0,2025-08-17 11:02:10.874155
 2025-08-17,85515,2025081704000167,SHEL,Secured Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,305.5,91650.0,2025-08-17 11:03:36.883910

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56240,2025070804000014,UPPER,J.F. Securites (PVT) Ltd.,Thrive Brokerage House Pvt. Ltd,10,195.0,1950.0,2025-07-08 10:46:00.049388
 2025-07-08,56239,2025070804000015,UPPER,Bhrikuti Stock Broking Co. Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,990,195.0,193050.0,2025-07-08 10:46:00.049434
 2025-07-08,56138,2025070804000059,UPPER,Bhrikuti Stock Broking Co. Pvt. Ltd.,Capital Max Securities Ltd,1010,195.0,196950.0,2025-07-08 11:00:48.681038

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87084,2025070604000071,CHL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Naasa Securities Co. Ltd.,15,338.0,5070.0,2025-07-06 11:01:19.385070
 2025-07-06,85552,2025070604000496,CHL,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,433,340.5,147436.5,2025-07-06 11:07:00.578063
 2025-07-06,83923,2025070604000979,CHL,Nepal Investment And Securities Trading Private Limited,Sani Securities Company Ltd.,40,341.0,13640.0,2025-07-06 11:11:39.717600

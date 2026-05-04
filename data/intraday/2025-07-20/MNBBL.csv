@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,178015,2025072003000053,MNBBL,J.F. Securites (PVT) Ltd.,Online Securities Pvt. Ltd.,100,428.3,42830.0,2025-07-20T10:46:00.062214
 2025-07-20,177167,2025072003000267,MNBBL,Siprabi Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,15,424.0,6360.0,2025-07-20T11:01:51.615157
 2025-07-20,177166,2025072003000268,MNBBL,Siprabi Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,70,424.0,29680.0,2025-07-20T11:01:51.615213

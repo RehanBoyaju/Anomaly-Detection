@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86460,2025081701000088,NBL,Thrive Brokerage House Pvt. Ltd,Creative Securities Pvt Ltd,100,265.0,26500.0,2025-08-17 11:00:38.827683
 2025-08-17,86336,2025081701000142,NBL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,900,264.0,237600.0,2025-08-17 11:01:08.458889
 2025-08-17,86326,2025081701000144,NBL,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,1000,264.0,264000.0,2025-08-17 11:01:12.908396

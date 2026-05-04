@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47572,2025092401000038,NBL,Siprabi Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,10,254.0,2540.0,2025-09-24 11:01:30.347368
 2025-09-24,46081,2025092401000354,NBL,Linch Stock Market Ltd.,South Asian Bulls Pvt. Ltd.,30,253.0,7590.0,2025-09-24 11:09:10.324257
 2025-09-24,45780,2025092401000416,NBL,Linch Stock Market Ltd.,Secured Securities Ltd.,200,249.5,49900.0,2025-09-24 11:10:21.362871

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93166,2025080605000011,NIFRA,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,290.7,2907.0,2025-08-06 10:46:00.032583
 2025-08-06,91800,2025080605000526,NIFRA,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,10,288.0,2880.0,2025-08-06 11:04:32.188983
 2025-08-06,91594,2025080605000603,NIFRA,Kumari Securities Private Limited,Trishakti Securities Public Limited,21,285.3,5991.3,2025-08-06 11:05:07.636373

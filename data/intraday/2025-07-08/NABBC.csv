@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56276,2025070803000001,NABBC,Shree Krishna Securities Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,1655.9,16559.0,2025-07-08 10:46:00.005571
 2025-07-08,50731,2025070803000808,NABBC,Cristal Kanchanjanga Securites Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,1689.0,16890.0,2025-07-08 11:29:41.249510
 2025-07-08,47002,2025070803001337,NABBC,South Asian Bulls Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,10,1660.0,16600.0,2025-07-08 11:46:58.214158

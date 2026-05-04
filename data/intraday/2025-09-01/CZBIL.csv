@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68716,2025090101000018,CZBIL,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,210.2,2102.0,2025-09-01 10:46:00.054542
 2025-09-01,67214,2025090101000994,CZBIL,Dynamic Money Managers Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,100,207.9,20790.0,2025-09-01 11:06:01.598329
 2025-09-01,62906,2025090101003440,CZBIL,Naasa Securities Co. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,350,207.0,72450.0,2025-09-01 11:19:52.035556

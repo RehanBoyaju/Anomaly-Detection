@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56360,2025082105000164,MKJC,Indira securities pvt. ltd,Elite Stock House Limited,10,570.0,5700.0,2025-08-21 11:05:02.933665
 2025-08-21,55639,2025082105000409,MKJC,BHOLE GANESH SECURITIES LTD,Midas Stock Broking Company Private Limited,409,565.0,231085.0,2025-08-21 11:11:39.256621
 2025-08-21,55480,2025082105000469,MKJC,BHOLE GANESH SECURITIES LTD,Trademow Securities Private Limited,50,565.0,28250.0,2025-08-21 11:13:01.234533

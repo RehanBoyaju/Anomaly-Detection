@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,169781,2025072803000172,NFS,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,20,726.0,14520.0,2025-07-28T11:03:01.600001
 2025-07-28,169780,2025072803000173,NFS,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,20,726.0,14520.0,2025-07-28T11:03:01.600141
 2025-07-28,168443,2025072803000445,NFS,Sani Securities Company Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,726.0,7260.0,2025-07-28T11:05:44.04402

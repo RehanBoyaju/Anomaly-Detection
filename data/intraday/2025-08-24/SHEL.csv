@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57800,2025082404000027,SHEL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Siprabi Securities Pvt. Ltd.,250,307.0,76750.0,2025-08-24 11:02:28.442543
 2025-08-24,57760,2025082404000038,SHEL,Online Securities Pvt. Ltd.,Creative Securities Pvt Ltd,10,309.9,3099.0,2025-08-24 11:02:44.896770
 2025-08-24,57719,2025082404000044,SHEL,Secured Securities Ltd.,Creative Securities Pvt Ltd,1240,309.9,384276.0,2025-08-24 11:03:07.933555

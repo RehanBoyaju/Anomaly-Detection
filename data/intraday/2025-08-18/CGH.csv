@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,65715,2025081804000549,CGH,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,40,985.1,39404.0,2025-08-18T11:12:34.282453
 2025-08-18,64482,2025081804000836,CGH,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,91,1003.5,91318.5,2025-08-18T11:18:56.943591
 2025-08-18,64424,2025081804000848,CGH,Kohinoor Investment & Securities Pvt. Ltd.,Sharepro Securities Private Limited,10,1004.3,10043.0,2025-08-18T11:19:14.014845

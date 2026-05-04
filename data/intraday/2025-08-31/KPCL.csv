@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,97156,2025083104000013,KPCL,Imperial Securities Company Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,10,564.2,5642.0,2025-08-31T10:46:00.030865
 2025-08-31,93769,2025083104000174,KPCL,Nepal Stock House (PVT) Ltd.,Asian Securities Private Ltd.,15,574.0,8610.0,2025-08-31T11:04:39.92502
 2025-08-31,93768,2025083104000175,KPCL,Nepal Stock House (PVT) Ltd.,Vision Securities Pvt. Ltd,25,575.4,14385.0,2025-08-31T11:04:39.925157

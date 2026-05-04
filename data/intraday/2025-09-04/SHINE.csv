@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,66132,2025090403000228,SHINE,Naasa Securities Co. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,25,419.0,10475.0,2025-09-04T11:13:50.179081
 2025-09-04,64145,2025090403000441,SHINE,Linch Stock Market Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,100,419.0,41900.0,2025-09-04T11:21:12.488467
 2025-09-04,64073,2025090403000444,SHINE,Cristal Kanchanjanga Securites Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,355,419.0,148745.0,2025-09-04T11:21:25.76729

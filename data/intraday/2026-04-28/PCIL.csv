@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PCIL,92,58,10,1039.0,10390.0,2026-04-28 14:59:59.822,2026042801111045
 PCIL,92,38,10,1039.0,10390.0,2026-04-28 14:59:59.623,2026042801111040
 PCIL,42,42,10,1040.0,10400.0,2026-04-28 14:59:59.591,2026042801111039

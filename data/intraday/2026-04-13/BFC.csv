@@ -1,114 +1,114 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026041303000020,BFC,58,34,30,468.0,14040.0,2026-04-13,186084960,227,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-13 11:02:18.493912,Best Finance Company Ltd.
-2026041303000223,BFC,59,34,10,468.0,4680.0,2026-04-13,186101071,227,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-13 11:15:24.280268,Best Finance Company Ltd.
-2026041303000224,BFC,59,58,90,468.0,42120.0,2026-04-13,186101074,227,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-13 11:15:24.280406,Best Finance Company Ltd.
-2026041303000311,BFC,54,58,10,468.0,4680.0,2026-04-13,186104303,227,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 11:18:24.545438,Best Finance Company Ltd.
-2026041303000312,BFC,54,48,390,469.0,182910.0,2026-04-13,186104306,227,Sewa Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-13 11:18:24.545570,Best Finance Company Ltd.
-2026041303000397,BFC,16,48,10,469.0,4690.0,2026-04-13,186108789,227,Primo Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-13 11:23:05.491386,Best Finance Company Ltd.
-2026041303000398,BFC,16,58,59,469.0,27671.0,2026-04-13,186108791,227,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-13 11:23:05.491505,Best Finance Company Ltd.
-2026041303000399,BFC,16,94,131,470.0,61570.0,2026-04-13,186108794,227,Primo Securities (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-13 11:23:05.491595,Best Finance Company Ltd.
-2026041303000506,BFC,35,49,20,470.0,9400.0,2026-04-13,186112696,227,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-13 11:27:10.755769,Best Finance Company Ltd.
-2026041303000539,BFC,63,64,55,467.1,25690.5,2026-04-13,186113992,227,Himalayan Brokerage Company Limited,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295242,Best Finance Company Ltd.
-2026041303000540,BFC,45,64,500,466.1,233050.0,2026-04-13,186113994,227,Imperial Securities Company Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295366,Best Finance Company Ltd.
-2026041303000541,BFC,57,64,200,466.0,93200.0,2026-04-13,186113996,227,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295468,Best Finance Company Ltd.
-2026041303000542,BFC,54,64,232,465.5,107996.0,2026-04-13,186113997,227,Sewa Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295551,Best Finance Company Ltd.
-2026041303000779,BFC,63,38,105,465.7,48898.5,2026-04-13,186124242,227,Himalayan Brokerage Company Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132152,Best Finance Company Ltd.
-2026041303000780,BFC,54,38,198,465.5,92169.0,2026-04-13,186124244,227,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132228,Best Finance Company Ltd.
-2026041303000781,BFC,45,38,200,465.0,93000.0,2026-04-13,186124246,227,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132264,Best Finance Company Ltd.
-2026041303000782,BFC,42,38,20,465.0,9300.0,2026-04-13,186124248,227,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132297,Best Finance Company Ltd.
-2026041303000783,BFC,50,38,10,465.0,4650.0,2026-04-13,186124250,227,Cristal Kanchanjanga Securites Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132324,Best Finance Company Ltd.
-2026041303000784,BFC,48,38,37,465.0,17205.0,2026-04-13,186124251,227,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132355,Best Finance Company Ltd.
-2026041303001193,BFC,17,64,500,466.0,233000.0,2026-04-13,186137691,227,ABC Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-13 11:56:40.733223,Best Finance Company Ltd.
-2026041303001227,BFC,58,36,50,468.0,23400.0,2026-04-13,186138826,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 11:58:04.329308,Best Finance Company Ltd.
-2026041303001461,BFC,42,58,10,466.0,4660.0,2026-04-13,186147161,227,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:08:53.771301,Best Finance Company Ltd.
-2026041303001467,BFC,42,58,11,466.0,5126.0,2026-04-13,186147257,227,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:09:05.596628,Best Finance Company Ltd.
-2026041303001475,BFC,42,58,15,466.0,6990.0,2026-04-13,186147543,227,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:09:29.936463,Best Finance Company Ltd.
-2026041303001712,BFC,58,64,17,467.9,7954.3,2026-04-13,186154180,227,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:18:27.256157,Best Finance Company Ltd.
-2026041303001837,BFC,16,64,65,467.9,30413.5,2026-04-13,186156784,227,Primo Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:21:50.421902,Best Finance Company Ltd.
-2026041303001878,BFC,41,64,100,467.9,46790.0,2026-04-13,186157912,227,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:23:28.069867,Best Finance Company Ltd.
-2026041303001905,BFC,42,58,10,466.5,4665.0,2026-04-13,186158475,227,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:24:12.526034,Best Finance Company Ltd.
-2026041303001920,BFC,42,58,220,466.5,102630.0,2026-04-13,186158842,227,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:24:45.542505,Best Finance Company Ltd.
-2026041303001961,BFC,57,58,780,466.5,363870.0,2026-04-13,186159605,227,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-13 12:26:06.123806,Best Finance Company Ltd.
-2026041303002049,BFC,58,64,10,467.9,4679.0,2026-04-13,186161494,227,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:28:37.372568,Best Finance Company Ltd.
-2026041303002075,BFC,7,64,41,467.9,19183.9,2026-04-13,186162217,227,J.F. Securites (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:29:38.349921,Best Finance Company Ltd.
-2026041303002103,BFC,58,36,10,468.0,4680.0,2026-04-13,186163216,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 12:30:57.971140,Best Finance Company Ltd.
-2026041303002222,BFC,6,36,200,467.0,93400.0,2026-04-13,186166129,227,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:35:27.992586,Best Finance Company Ltd.
-2026041303002368,BFC,58,64,120,467.9,56148.0,2026-04-13,186169320,227,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:40:06.415128,Best Finance Company Ltd.
-2026041303002390,BFC,5,64,113,467.9,52872.7,2026-04-13,186169887,227,Market Securities & Exchange (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:41:00.076006,Best Finance Company Ltd.
-2026041303002391,BFC,5,36,387,468.0,181116.0,2026-04-13,186169890,227,Market Securities & Exchange (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:41:00.076121,Best Finance Company Ltd.
-2026041303002460,BFC,22,36,53,468.0,24804.0,2026-04-13,186171363,227,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-13 12:43:03.183839,Best Finance Company Ltd.
-2026041303002559,BFC,22,36,32,468.0,14976.0,2026-04-13,186174008,227,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-13 12:46:12.817755,Best Finance Company Ltd.
-2026041303002560,BFC,5,36,200,468.0,93600.0,2026-04-13,186174010,227,Market Securities & Exchange (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:46:12.817874,Best Finance Company Ltd.
-2026041303002585,BFC,5,36,300,467.2,140160.0,2026-04-13,186174464,227,Market Securities & Exchange (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:46:46.044795,Best Finance Company Ltd.
-2026041303002593,BFC,48,36,40,467.2,18688.0,2026-04-13,186174994,227,Trishakti Securities Public Limited,Secured Securities Ltd.,2026-04-13 12:47:26.094748,Best Finance Company Ltd.
-2026041303002641,BFC,58,36,50,467.1,23355.0,2026-04-13,186176184,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 12:49:04.341917,Best Finance Company Ltd.
-2026041303002760,BFC,6,21,50,467.0,23350.0,2026-04-13,186179049,227,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:53:28.625297,Best Finance Company Ltd.
-2026041303002858,BFC,6,21,250,467.0,116750.0,2026-04-13,186180704,227,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:55:39.336618,Best Finance Company Ltd.
-2026041303002859,BFC,58,21,150,467.0,70050.0,2026-04-13,186180706,227,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:55:39.336735,Best Finance Company Ltd.
-2026041303002906,BFC,41,21,100,467.0,46700.0,2026-04-13,186181950,227,Linch Stock Market Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:57:21.008668,Best Finance Company Ltd.
-2026041303003190,BFC,42,36,100,467.1,46710.0,2026-04-13,186189618,227,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-13 13:08:54.386922,Best Finance Company Ltd.
-2026041303003325,BFC,58,36,140,467.1,65394.0,2026-04-13,186192548,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:13:12.049421,Best Finance Company Ltd.
-2026041303003334,BFC,42,42,50,467.0,23350.0,2026-04-13,186192905,227,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-13 13:13:43.029685,Best Finance Company Ltd.
-2026041303003335,BFC,42,81,414,467.0,193338.0,2026-04-13,186192918,227,Sani Securities Company Ltd.,Aakashbhairab Securities Ltd.,2026-04-13 13:13:44.167866,Best Finance Company Ltd.
-2026041303003336,BFC,25,81,37,467.0,17279.0,2026-04-13,186192920,227,Sweta Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-13 13:13:44.168087,Best Finance Company Ltd.
-2026041303003343,BFC,58,81,40,467.0,18680.0,2026-04-13,186193194,227,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-13 13:14:06.075291,Best Finance Company Ltd.
-2026041303003384,BFC,58,36,10,467.1,4671.0,2026-04-13,186194282,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:15:40.064576,Best Finance Company Ltd.
-2026041303003450,BFC,58,36,150,467.2,70080.0,2026-04-13,186196640,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:18:56.547624,Best Finance Company Ltd.
-2026041303003487,BFC,58,36,10,467.2,4672.0,2026-04-13,186197565,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:19:58.840247,Best Finance Company Ltd.
-2026041303003499,BFC,58,36,258,468.0,120744.0,2026-04-13,186197766,227,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:20:18.630621,Best Finance Company Ltd.
-2026041303003581,BFC,29,36,10,468.0,4680.0,2026-04-13,186200792,227,Trisul Securities & Invt. Ltd.,Secured Securities Ltd.,2026-04-13 13:24:05.579993,Best Finance Company Ltd.
-2026041303003696,BFC,29,64,50,468.0,23400.0,2026-04-13,186203566,227,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:28:53.974529,Best Finance Company Ltd.
-2026041303003697,BFC,39,64,150,468.0,70200.0,2026-04-13,186203568,227,Sumeru Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:28:53.974632,Best Finance Company Ltd.
-2026041303003698,BFC,96,64,10,468.0,4680.0,2026-04-13,186203569,227,Himalayan Securities Limited,SUN SECURITIES PVT LTD,2026-04-13 13:28:53.974688,Best Finance Company Ltd.
-2026041303003791,BFC,4,64,200,469.9,93980.0,2026-04-13,186206254,227,Opal Securities Investment (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:33:33.339700,Best Finance Company Ltd.
-2026041303004065,BFC,21,58,20,468.0,9360.0,2026-04-13,186212884,227,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-13 13:46:10.704321,Best Finance Company Ltd.
-2026041303004180,BFC,54,58,15,468.0,7020.0,2026-04-13,186215197,227,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 13:50:21.839602,Best Finance Company Ltd.
-2026041303004272,BFC,58,64,33,469.9,15506.7,2026-04-13,186217321,227,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:54:04.297890,Best Finance Company Ltd.
-2026041303004273,BFC,58,22,50,469.9,23495.0,2026-04-13,186217323,227,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-13 13:54:04.298015,Best Finance Company Ltd.
-2026041303004274,BFC,58,64,217,469.9,101968.3,2026-04-13,186217326,227,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:54:04.298088,Best Finance Company Ltd.
-2026041303004282,BFC,58,64,16,469.9,7518.4,2026-04-13,186217437,227,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:54:18.807093,Best Finance Company Ltd.
-2026041303004283,BFC,58,49,20,470.0,9400.0,2026-04-13,186217439,227,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-13 13:54:18.807385,Best Finance Company Ltd.
-2026041303004284,BFC,58,45,50,470.0,23500.0,2026-04-13,186217441,227,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-13 13:54:18.807523,Best Finance Company Ltd.
-2026041303004285,BFC,58,14,70,470.0,32900.0,2026-04-13,186217443,227,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-13 13:54:18.807678,Best Finance Company Ltd.
-2026041303004286,BFC,58,10,84,470.0,39480.0,2026-04-13,186217446,227,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-13 13:54:18.807800,Best Finance Company Ltd.
-2026041303004730,BFC,33,10,16,470.0,7520.0,2026-04-13,186230117,227,Dakshinkali Investment & Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-13 14:15:13.108432,Best Finance Company Ltd.
-2026041303004734,BFC,33,57,200,470.0,94000.0,2026-04-13,186230337,227,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-13 14:15:25.479093,Best Finance Company Ltd.
-2026041303004751,BFC,33,7,300,470.0,141000.0,2026-04-13,186230969,227,Dakshinkali Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-13 14:16:25.407434,Best Finance Company Ltd.
-2026041303004917,BFC,33,35,10,470.0,4700.0,2026-04-13,186236765,227,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:23:55.955388,Best Finance Company Ltd.
-2026041303004934,BFC,33,52,43,470.0,20210.0,2026-04-13,186237343,227,Dakshinkali Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:24:35.367952,Best Finance Company Ltd.
-2026041303005081,BFC,33,38,431,470.0,202570.0,2026-04-13,186243398,227,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 14:29:36.966737,Best Finance Company Ltd.
-2026041303005311,BFC,59,34,100,468.0,46800.0,2026-04-13,186248760,227,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771572,Best Finance Company Ltd.
-2026041303005312,BFC,32,34,10,467.5,4675.0,2026-04-13,186248762,227,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771706,Best Finance Company Ltd.
-2026041303005313,BFC,57,34,100,467.0,46700.0,2026-04-13,186248764,227,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771757,Best Finance Company Ltd.
-2026041303005314,BFC,57,34,50,467.0,23350.0,2026-04-13,186248766,227,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771803,Best Finance Company Ltd.
-2026041303005315,BFC,32,34,10,467.0,4670.0,2026-04-13,186248768,227,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771848,Best Finance Company Ltd.
-2026041303005316,BFC,32,34,10,467.0,4670.0,2026-04-13,186248770,227,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771898,Best Finance Company Ltd.
-2026041303005317,BFC,6,34,70,467.0,32690.0,2026-04-13,186248771,227,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771948,Best Finance Company Ltd.
-2026041303005710,BFC,6,21,30,467.0,14010.0,2026-04-13,186257700,227,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 14:45:28.555826,Best Finance Company Ltd.
-2026041303005711,BFC,91,21,20,467.0,9340.0,2026-04-13,186257702,227,Citizens Share Broker Limited,Midas Stock Broking Company Private Limited,2026-04-13 14:45:28.556121,Best Finance Company Ltd.
-2026041303006193,BFC,32,26,10,467.2,4672.0,2026-04-13,186266976,227,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707605,Best Finance Company Ltd.
-2026041303006194,BFC,32,26,10,467.1,4671.0,2026-04-13,186266978,227,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707763,Best Finance Company Ltd.
-2026041303006195,BFC,32,26,25,467.0,11675.0,2026-04-13,186266980,227,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707840,Best Finance Company Ltd.
-2026041303006196,BFC,32,26,20,466.8,9336.0,2026-04-13,186266982,227,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707918,Best Finance Company Ltd.
-2026041303006197,BFC,32,26,20,466.7,9334.0,2026-04-13,186266984,227,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707962,Best Finance Company Ltd.
-2026041303006198,BFC,25,26,75,466.7,35002.5,2026-04-13,186266985,227,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-13 14:52:38.708006,Best Finance Company Ltd.
-2026041303006237,BFC,25,38,69,466.7,32202.3,2026-04-13,186267589,227,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 14:53:02.037145,Best Finance Company Ltd.
-2026041303006257,BFC,25,34,56,466.7,26135.2,2026-04-13,186268038,227,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-13 14:53:23.510192,Best Finance Company Ltd.
-2026041303006282,BFC,57,34,44,466.7,20534.8,2026-04-13,186268829,227,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-13 14:53:52.469144,Best Finance Company Ltd.
-2026041303006307,BFC,13,26,50,466.6,23330.0,2026-04-13,186269259,227,Thrive Brokerage House Pvt. Ltd,Asian Securities Private Ltd.,2026-04-13 14:54:12.663693,Best Finance Company Ltd.
-2026041303006499,BFC,57,57,20,466.5,9330.0,2026-04-13,186272750,227,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-13 14:56:21.586292,Best Finance Company Ltd.
-2026041303006500,BFC,96,57,10,466.5,4665.0,2026-04-13,186272753,227,Himalayan Securities Limited,Aryatara Investment & Securities,2026-04-13 14:56:21.586402,Best Finance Company Ltd.
-2026041303006501,BFC,56,57,105,466.5,48982.5,2026-04-13,186272756,227,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586458,Best Finance Company Ltd.
-2026041303006502,BFC,32,57,30,466.5,13995.0,2026-04-13,186272758,227,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586507,Best Finance Company Ltd.
-2026041303006503,BFC,6,57,100,466.5,46650.0,2026-04-13,186272760,227,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586549,Best Finance Company Ltd.
-2026041303006504,BFC,50,57,197,466.4,91880.8,2026-04-13,186272761,227,Cristal Kanchanjanga Securites Pvt. Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586593,Best Finance Company Ltd.
-2026041303006751,BFC,41,58,300,467.0,140100.0,2026-04-13,186276593,227,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-13 14:58:11.905196,Best Finance Company Ltd.
-2026041303006870,BFC,57,39,16,467.0,7472.0,2026-04-13,186278566,227,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-13 14:58:53.134216,Best Finance Company Ltd.
-2026041303006898,BFC,50,58,300,466.3,139890.0,2026-04-13,186279027,227,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 14:59:01.189079,Best Finance Company Ltd.
-2026041303006907,BFC,57,41,230,466.1,107203.0,2026-04-13,186279247,227,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-13 14:59:07.462087,Best Finance Company Ltd.
-2026041303006910,BFC,57,49,19,466.1,8855.9,2026-04-13,186279397,227,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-13 14:59:10.156597,Best Finance Company Ltd.
-2026041303006926,BFC,57,80,251,466.1,116991.1,2026-04-13,186279648,227,Aryatara Investment & Securities,Indira securities pvt. ltd,2026-04-13 14:59:15.020049,Best Finance Company Ltd.
-2026041303006927,BFC,81,80,200,466.0,93200.0,2026-04-13,186279650,227,Aakashbhairab Securities Ltd.,Indira securities pvt. ltd,2026-04-13 14:59:15.020302,Best Finance Company Ltd.
-2026041303006928,BFC,52,80,49,466.0,22834.0,2026-04-13,186279651,227,Sundhara Securities Limited,Indira securities pvt. ltd,2026-04-13 14:59:15.020455,Best Finance Company Ltd.
-2026041303007080,BFC,52,58,151,466.0,70366.0,2026-04-13,186281548,227,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-13 14:59:37.611326,Best Finance Company Ltd.
-2026041303007347,BFC,32,39,10,465.7,4657.0,2026-04-13,186284543,227,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-13 14:59:57.902720,Best Finance Company Ltd.
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026041303000020,BFC,58,34,30,468.0,14040.0,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,2026-04-13 11:02:18.493912
+2026041303000223,BFC,59,34,10,468.0,4680.0,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-13 11:15:24.280268
+2026041303000224,BFC,59,58,90,468.0,42120.0,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-13 11:15:24.280406
+2026041303000311,BFC,54,58,10,468.0,4680.0,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 11:18:24.545438
+2026041303000312,BFC,54,48,390,469.0,182910.0,Sewa Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-13 11:18:24.545570
+2026041303000397,BFC,16,48,10,469.0,4690.0,Primo Securities (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-13 11:23:05.491386
+2026041303000398,BFC,16,58,59,469.0,27671.0,Primo Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-13 11:23:05.491505
+2026041303000399,BFC,16,94,131,470.0,61570.0,Primo Securities (PVT) Ltd.,K.B.L. Securities Limited ,2026-04-13 11:23:05.491595
+2026041303000506,BFC,35,49,20,470.0,9400.0,Kohinoor Investment & Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-13 11:27:10.755769
+2026041303000539,BFC,63,64,55,467.1,25690.5,Himalayan Brokerage Company Limited,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295242
+2026041303000540,BFC,45,64,500,466.1,233050.0,Imperial Securities Company Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295366
+2026041303000541,BFC,57,64,200,466.0,93200.0,Aryatara Investment & Securities,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295468
+2026041303000542,BFC,54,64,232,465.5,107996.0,Sewa Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 11:28:33.295551
+2026041303000779,BFC,63,38,105,465.7,48898.5,Himalayan Brokerage Company Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132152
+2026041303000780,BFC,54,38,198,465.5,92169.0,Sewa Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132228
+2026041303000781,BFC,45,38,200,465.0,93000.0,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132264
+2026041303000782,BFC,42,38,20,465.0,9300.0,Sani Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132297
+2026041303000783,BFC,50,38,10,465.0,4650.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132324
+2026041303000784,BFC,48,38,37,465.0,17205.0,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 11:40:58.132355
+2026041303001193,BFC,17,64,500,466.0,233000.0,ABC Securities Private Limited,SUN SECURITIES PVT LTD,2026-04-13 11:56:40.733223
+2026041303001227,BFC,58,36,50,468.0,23400.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 11:58:04.329308
+2026041303001461,BFC,42,58,10,466.0,4660.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:08:53.771301
+2026041303001467,BFC,42,58,11,466.0,5126.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:09:05.596628
+2026041303001475,BFC,42,58,15,466.0,6990.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:09:29.936463
+2026041303001712,BFC,58,64,17,467.9,7954.3,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:18:27.256157
+2026041303001837,BFC,16,64,65,467.9,30413.5,Primo Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:21:50.421902
+2026041303001878,BFC,41,64,100,467.9,46790.0,Linch Stock Market Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:23:28.069867
+2026041303001905,BFC,42,58,10,466.5,4665.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:24:12.526034
+2026041303001920,BFC,42,58,220,466.5,102630.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-13 12:24:45.542505
+2026041303001961,BFC,57,58,780,466.5,363870.0,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-13 12:26:06.123806
+2026041303002049,BFC,58,64,10,467.9,4679.0,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:28:37.372568
+2026041303002075,BFC,7,64,41,467.9,19183.9,J.F. Securites (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:29:38.349921
+2026041303002103,BFC,58,36,10,468.0,4680.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 12:30:57.971140
+2026041303002222,BFC,6,36,200,467.0,93400.0,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:35:27.992586
+2026041303002368,BFC,58,64,120,467.9,56148.0,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:40:06.415128
+2026041303002390,BFC,5,64,113,467.9,52872.7,Market Securities & Exchange (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 12:41:00.076006
+2026041303002391,BFC,5,36,387,468.0,181116.0,Market Securities & Exchange (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:41:00.076121
+2026041303002460,BFC,22,36,53,468.0,24804.0,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-13 12:43:03.183839
+2026041303002559,BFC,22,36,32,468.0,14976.0,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-13 12:46:12.817755
+2026041303002560,BFC,5,36,200,468.0,93600.0,Market Securities & Exchange (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:46:12.817874
+2026041303002585,BFC,5,36,300,467.2,140160.0,Market Securities & Exchange (PVT) Ltd.,Secured Securities Ltd.,2026-04-13 12:46:46.044795
+2026041303002593,BFC,48,36,40,467.2,18688.0,Trishakti Securities Public Limited,Secured Securities Ltd.,2026-04-13 12:47:26.094748
+2026041303002641,BFC,58,36,50,467.1,23355.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 12:49:04.341917
+2026041303002760,BFC,6,21,50,467.0,23350.0,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:53:28.625297
+2026041303002858,BFC,6,21,250,467.0,116750.0,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:55:39.336618
+2026041303002859,BFC,58,21,150,467.0,70050.0,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:55:39.336735
+2026041303002906,BFC,41,21,100,467.0,46700.0,Linch Stock Market Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 12:57:21.008668
+2026041303003190,BFC,42,36,100,467.1,46710.0,Sani Securities Company Ltd.,Secured Securities Ltd.,2026-04-13 13:08:54.386922
+2026041303003325,BFC,58,36,140,467.1,65394.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:13:12.049421
+2026041303003334,BFC,42,42,50,467.0,23350.0,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-13 13:13:43.029685
+2026041303003335,BFC,42,81,414,467.0,193338.0,Sani Securities Company Ltd.,Aakashbhairab Securities Ltd.,2026-04-13 13:13:44.167866
+2026041303003336,BFC,25,81,37,467.0,17279.0,Sweta Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-13 13:13:44.168087
+2026041303003343,BFC,58,81,40,467.0,18680.0,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-13 13:14:06.075291
+2026041303003384,BFC,58,36,10,467.1,4671.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:15:40.064576
+2026041303003450,BFC,58,36,150,467.2,70080.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:18:56.547624
+2026041303003487,BFC,58,36,10,467.2,4672.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:19:58.840247
+2026041303003499,BFC,58,36,258,468.0,120744.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-13 13:20:18.630621
+2026041303003581,BFC,29,36,10,468.0,4680.0,Trisul Securities & Invt. Ltd.,Secured Securities Ltd.,2026-04-13 13:24:05.579993
+2026041303003696,BFC,29,64,50,468.0,23400.0,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:28:53.974529
+2026041303003697,BFC,39,64,150,468.0,70200.0,Sumeru Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:28:53.974632
+2026041303003698,BFC,96,64,10,468.0,4680.0,Himalayan Securities Limited,SUN SECURITIES PVT LTD,2026-04-13 13:28:53.974688
+2026041303003791,BFC,4,64,200,469.9,93980.0,Opal Securities Investment (PVT) Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:33:33.339700
+2026041303004065,BFC,21,58,20,468.0,9360.0,Midas Stock Broking Company Private Limited,Naasa Securities Co. Ltd.,2026-04-13 13:46:10.704321
+2026041303004180,BFC,54,58,15,468.0,7020.0,Sewa Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 13:50:21.839602
+2026041303004272,BFC,58,64,33,469.9,15506.7,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:54:04.297890
+2026041303004273,BFC,58,22,50,469.9,23495.0,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-13 13:54:04.298015
+2026041303004274,BFC,58,64,217,469.9,101968.3,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:54:04.298088
+2026041303004282,BFC,58,64,16,469.9,7518.4,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-13 13:54:18.807093
+2026041303004283,BFC,58,49,20,470.0,9400.0,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,2026-04-13 13:54:18.807385
+2026041303004284,BFC,58,45,50,470.0,23500.0,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-13 13:54:18.807523
+2026041303004285,BFC,58,14,70,470.0,32900.0,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-13 13:54:18.807678
+2026041303004286,BFC,58,10,84,470.0,39480.0,Naasa Securities Co. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-13 13:54:18.807800
+2026041303004730,BFC,33,10,16,470.0,7520.0,Dakshinkali Investment & Securities Pvt. Ltd.,Pragyan Securities (PVT) Ltd.,2026-04-13 14:15:13.108432
+2026041303004734,BFC,33,57,200,470.0,94000.0,Dakshinkali Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-13 14:15:25.479093
+2026041303004751,BFC,33,7,300,470.0,141000.0,Dakshinkali Investment & Securities Pvt. Ltd.,J.F. Securites (PVT) Ltd.,2026-04-13 14:16:25.407434
+2026041303004917,BFC,33,35,10,470.0,4700.0,Dakshinkali Investment & Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-13 14:23:55.955388
+2026041303004934,BFC,33,52,43,470.0,20210.0,Dakshinkali Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-13 14:24:35.367952
+2026041303005081,BFC,33,38,431,470.0,202570.0,Dakshinkali Investment & Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 14:29:36.966737
+2026041303005311,BFC,59,34,100,468.0,46800.0,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771572
+2026041303005312,BFC,32,34,10,467.5,4675.0,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771706
+2026041303005313,BFC,57,34,100,467.0,46700.0,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771757
+2026041303005314,BFC,57,34,50,467.0,23350.0,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771803
+2026041303005315,BFC,32,34,10,467.0,4670.0,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771848
+2026041303005316,BFC,32,34,10,467.0,4670.0,Premier Securities Company Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771898
+2026041303005317,BFC,6,34,70,467.0,32690.0,Agrawal Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,2026-04-13 14:36:09.771948
+2026041303005710,BFC,6,21,30,467.0,14010.0,Agrawal Securities (PVT) Ltd.,Midas Stock Broking Company Private Limited,2026-04-13 14:45:28.555826
+2026041303005711,BFC,91,21,20,467.0,9340.0,Citizens Share Broker Limited,Midas Stock Broking Company Private Limited,2026-04-13 14:45:28.556121
+2026041303006193,BFC,32,26,10,467.2,4672.0,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707605
+2026041303006194,BFC,32,26,10,467.1,4671.0,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707763
+2026041303006195,BFC,32,26,25,467.0,11675.0,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707840
+2026041303006196,BFC,32,26,20,466.8,9336.0,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707918
+2026041303006197,BFC,32,26,20,466.7,9334.0,Premier Securities Company Ltd.,Asian Securities Private Ltd.,2026-04-13 14:52:38.707962
+2026041303006198,BFC,25,26,75,466.7,35002.5,Sweta Securities Private Limited,Asian Securities Private Ltd.,2026-04-13 14:52:38.708006
+2026041303006237,BFC,25,38,69,466.7,32202.3,Sweta Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-13 14:53:02.037145
+2026041303006257,BFC,25,34,56,466.7,26135.2,Sweta Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-13 14:53:23.510192
+2026041303006282,BFC,57,34,44,466.7,20534.8,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-13 14:53:52.469144
+2026041303006307,BFC,13,26,50,466.6,23330.0,Thrive Brokerage House Pvt. Ltd,Asian Securities Private Ltd.,2026-04-13 14:54:12.663693
+2026041303006499,BFC,57,57,20,466.5,9330.0,Aryatara Investment & Securities,Aryatara Investment & Securities,2026-04-13 14:56:21.586292
+2026041303006500,BFC,96,57,10,466.5,4665.0,Himalayan Securities Limited,Aryatara Investment & Securities,2026-04-13 14:56:21.586402
+2026041303006501,BFC,56,57,105,466.5,48982.5,Sri Hari Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586458
+2026041303006502,BFC,32,57,30,466.5,13995.0,Premier Securities Company Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586507
+2026041303006503,BFC,6,57,100,466.5,46650.0,Agrawal Securities (PVT) Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586549
+2026041303006504,BFC,50,57,197,466.4,91880.8,Cristal Kanchanjanga Securites Pvt. Ltd.,Aryatara Investment & Securities,2026-04-13 14:56:21.586593
+2026041303006751,BFC,41,58,300,467.0,140100.0,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-13 14:58:11.905196
+2026041303006870,BFC,57,39,16,467.0,7472.0,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,2026-04-13 14:58:53.134216
+2026041303006898,BFC,50,58,300,466.3,139890.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-13 14:59:01.189079
+2026041303006907,BFC,57,41,230,466.1,107203.0,Aryatara Investment & Securities,Linch Stock Market Ltd.,2026-04-13 14:59:07.462087
+2026041303006910,BFC,57,49,19,466.1,8855.9,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-13 14:59:10.156597
+2026041303006926,BFC,57,80,251,466.1,116991.1,Aryatara Investment & Securities,Indira securities pvt. ltd,2026-04-13 14:59:15.020049
+2026041303006927,BFC,81,80,200,466.0,93200.0,Aakashbhairab Securities Ltd.,Indira securities pvt. ltd,2026-04-13 14:59:15.020302
+2026041303006928,BFC,52,80,49,466.0,22834.0,Sundhara Securities Limited,Indira securities pvt. ltd,2026-04-13 14:59:15.020455
+2026041303007080,BFC,52,58,151,466.0,70366.0,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-13 14:59:37.611326
+2026041303007347,BFC,32,39,10,465.7,4657.0,Premier Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-13 14:59:57.902720

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70833,2025070704000098,SSHL,ABC Securities Private Limited,Online Securities Pvt. Ltd.,50,260.0,13000.0,2025-07-07 11:02:27.341791
 2025-07-07,70819,2025070704000100,SSHL,ABC Securities Private Limited,Sundhara Securities Limited,50,260.0,13000.0,2025-07-07 11:02:34.126880
 2025-07-07,70714,2025070704000145,SSHL,Sundhara Securities Limited,Sumeru Securities Pvt. Ltd.,200,261.0,52200.0,2025-07-07 11:03:06.252787

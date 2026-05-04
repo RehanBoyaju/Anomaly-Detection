@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,55163,2025082103000227,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,866.0,8660.0,2025-08-21 11:15:24.177366
 2025-08-21,53405,2025082103000429,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,866.0,8660.0,2025-08-21 11:27:44.934183
 2025-08-21,51725,2025082103000669,LICN,Premier Securities Company Ltd.,Miyo Securities Pvt Ltd,50,866.2,43310.0,2025-08-21 11:37:11.613628

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7317,2025091803000018,JFL,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,20,436.0,8720.0,2025-09-18 10:46:00.037093
 2025-09-18,7316,2025091803000019,JFL,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,90,436.0,39240.0,2025-09-18 10:46:00.037127
 2025-09-18,7315,2025091803000020,JFL,Aryatara Investment & Securities,Capital Max Securities Ltd,20,436.0,8720.0,2025-09-18 10:46:00.037161

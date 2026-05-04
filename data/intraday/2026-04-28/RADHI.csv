@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RADHI,81,57,190,780.0,148200.0,2026-04-28 14:59:59.004,2026042804015055
 RADHI,81,62,50,780.0,39000.0,2026-04-28 14:59:59.004,2026042804015054
 RADHI,81,65,200,780.0,156000.0,2026-04-28 14:59:59.004,2026042804015053

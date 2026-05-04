@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86635,2025081705000010,CHDC,South Asian Bulls Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,20,2678.7,53574.0,2025-08-17 10:46:00.030795
 2025-08-17,86405,2025081705000069,CHDC,Deevyaa Securities & Stock House Pvt. Ltd,R.B.B. Securities Company Ltd,34,2651.0,90134.0,2025-08-17 11:00:51.452920
 2025-08-17,86331,2025081705000099,CHDC,Deevyaa Securities & Stock House Pvt. Ltd,R.B.B. Securities Company Ltd,10,2651.0,26510.0,2025-08-17 11:01:11.514916

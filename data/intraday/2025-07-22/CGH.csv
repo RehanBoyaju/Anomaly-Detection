@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176995,2025072204000040,CGH,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,10,1080.0,10800.0,2025-07-22 10:46:00.075376
 2025-07-22,176994,2025072204000041,CGH,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,20,1080.0,21600.0,2025-07-22 10:46:00.075434
 2025-07-22,176993,2025072204000042,CGH,Aryatara Investment & Securities,Investment Management Nepal Pvt. Ltd.,20,1080.0,21600.0,2025-07-22 10:46:00.075474

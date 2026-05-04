@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,36779,2025092504000154,AKJCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Linch Stock Market Ltd.,20,196.0,3920.0,2025-09-25 11:07:25.433957
 2025-09-25,36488,2025092504000254,AKJCL,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,10,195.0,1950.0,2025-09-25 11:10:16.694575
 2025-09-25,36487,2025092504000255,AKJCL,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,70,195.0,13650.0,2025-09-25 11:10:16.694663

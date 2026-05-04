@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,36936,2025092505000235,NIFRA,Miyo Securities Pvt Ltd,Sumeru Securities Pvt. Ltd.,10,272.0,2720.0,2025-09-25 11:05:53.512210
 2025-09-25,36712,2025092505000320,NIFRA,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,500,270.0,135000.0,2025-09-25 11:07:58.986795
 2025-09-25,36711,2025092505000321,NIFRA,Dynamic Money Managers Securities Pvt. Ltd.,BHOLE GANESH SECURITIES LTD,1000,270.0,270000.0,2025-09-25 11:07:58.986911

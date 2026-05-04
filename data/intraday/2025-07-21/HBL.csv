@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,136096,2025072101000538,HBL,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,60,245.0,14700.0,2025-07-21 11:05:22.657144
 2025-07-21,136095,2025072101000539,HBL,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,100,245.0,24500.0,2025-07-21 11:05:22.657305
 2025-07-21,135112,2025072101000781,HBL,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,450,245.0,110250.0,2025-07-21 11:06:54.913066

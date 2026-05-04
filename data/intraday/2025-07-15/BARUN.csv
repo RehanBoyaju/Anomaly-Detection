@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,74037,2025071504000003,BARUN,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,35,409.0,14315.0,2025-07-15 10:46:00.032762
 2025-07-15,73970,2025071504000036,BARUN,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,32,416.7,13334.4,2025-07-15 11:00:31.515632
 2025-07-15,73947,2025071504000050,BARUN,Vision Securities Pvt. Ltd,Pragyan Securities (PVT) Ltd.,10,416.7,4167.0,2025-07-15 11:00:46.322057

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,175530,2025072203000763,GMFIL,Kumari Securities Private Limited,Asian Securities Private Ltd.,10,520.0,5200.0,2025-07-22 11:03:50.688515
 2025-07-22,171466,2025072203002605,GMFIL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,103,515.0,53045.0,2025-07-22 11:10:42.211983
 2025-07-22,170819,2025072203002852,GMFIL,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,25,518.8,12970.0,2025-07-22 11:11:37.385075

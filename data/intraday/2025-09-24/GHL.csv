@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,46326,2025092404000450,GHL,J.F. Securites (PVT) Ltd.,Oxford Securities Pvt. Ltd.,10,224.0,2240.0,2025-09-24 11:07:58.220698
 2025-09-24,46325,2025092404000451,GHL,Midas Stock Broking Company Private Limited,Oxford Securities Pvt. Ltd.,840,221.0,185640.0,2025-09-24 11:07:58.220758
 2025-09-24,45806,2025092404000635,GHL,Midas Stock Broking Company Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,60,221.0,13260.0,2025-09-24 11:10:15.905128

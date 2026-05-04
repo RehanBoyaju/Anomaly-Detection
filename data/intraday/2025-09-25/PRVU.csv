@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37542,2025092501000007,PRVU,Online Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,50,209.0,10450.0,2025-09-25 10:46:00.026420
 2025-09-25,37276,2025092501000090,PRVU,Kohinoor Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,50,206.0,10300.0,2025-09-25 11:02:48.950528
 2025-09-25,36597,2025092501000292,PRVU,Thrive Brokerage House Pvt. Ltd,K.B.L. Securities Limited ,58,206.9,12000.2,2025-09-25 11:09:12.275404

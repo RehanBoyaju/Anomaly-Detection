@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,54644,2025082104000785,JOSHI,Opal Securities Investment (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,320,315.2,100864.0,2025-08-21 11:19:04.735429
 2025-08-21,53616,2025082104001020,JOSHI,Ashutosh Brokerage & Securities (PVT) Ltd.,Sani Securities Company Ltd.,15,319.5,4792.5,2025-08-21 11:26:30.268515
 2025-08-21,52873,2025082104001279,JOSHI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,20,319.5,6390.0,2025-08-21 11:30:40.900461

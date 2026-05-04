@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,95822,2025081104000513,AKPL,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,16,274.0,4384.0,2025-08-11 11:07:32.229361
 2025-08-11,95681,2025081104000532,AKPL,Oxford Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,33,274.0,9042.0,2025-08-11 11:07:51.283577
 2025-08-11,95639,2025081104000540,AKPL,Oxford Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,1500,274.0,411000.0,2025-08-11 11:07:56.979252

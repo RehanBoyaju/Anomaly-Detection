@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72408,2025071404000063,UPPER,Online Securities Pvt. Ltd.,Trishakti Securities Public Limited,20,198.0,3960.0,2025-07-14 11:00:45.789430
 2025-07-14,72407,2025071404000064,UPPER,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,250,198.0,49500.0,2025-07-14 11:00:45.789627
 2025-07-14,72333,2025071404000098,UPPER,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,730,198.0,144540.0,2025-07-14 11:00:59.736183

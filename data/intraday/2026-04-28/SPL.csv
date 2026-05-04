@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SPL,34,34,100,724.0,72400.0,2026-04-28 14:53:03.311,2026042805014925
 SPL,34,74,100,723.9,72390.0,2026-04-28 14:53:03.310,2026042805014924
 SPL,18,34,140,725.0,101500.0,2026-04-28 14:34:06.865,2026042805012554

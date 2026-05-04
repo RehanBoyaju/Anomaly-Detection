@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,104906,2025071301000138,ADBL,Trisul Securities & Invt. Ltd.,Trisul Securities & Invt. Ltd.,10,320.9,3209.0,2025-07-13T10:46:00.101835
 2025-07-13,104905,2025071301000139,ADBL,Trisul Securities & Invt. Ltd.,Opal Securities Investment (PVT) Ltd.,20,320.9,6418.0,2025-07-13T10:46:00.10187
 2025-07-13,104904,2025071301000140,ADBL,Trisul Securities & Invt. Ltd.,Agrawal Securities (PVT) Ltd.,26,320.9,8343.4,2025-07-13T10:46:00.10192

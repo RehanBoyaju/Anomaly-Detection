@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,169671,2025072304000229,RADHI,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,500,810.7,405350.0,2025-07-23 11:01:08.239607
 2025-07-23,169670,2025072304000230,RADHI,Sani Securities Company Ltd.,Secured Securities Ltd.,100,810.6,81060.0,2025-07-23 11:01:08.239685
 2025-07-23,169669,2025072304000231,RADHI,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,30,810.6,24318.0,2025-07-23 11:01:08.239726

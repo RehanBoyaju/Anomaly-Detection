@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,97704,2025081104000127,JOSHI,Oxford Securities Pvt. Ltd.,Sundhara Securities Limited,100,337.9,33790.0,2025-08-11 11:02:47.014308
 2025-08-11,97703,2025081104000128,JOSHI,Oxford Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,300,337.9,101370.0,2025-08-11 11:02:47.014465
 2025-08-11,95113,2025081104000670,JOSHI,Ashutosh Brokerage & Securities (PVT) Ltd.,Garima Securities Limited,10,338.0,3380.0,2025-08-11 11:09:15.651320

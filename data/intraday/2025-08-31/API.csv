@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,95447,2025083104000075,API,Agrawal Securities (PVT) Ltd.,Capital Max Securities Ltd,300,292.1,87630.0,2025-08-31T11:02:06.733406
 2025-08-31,92975,2025083104000218,API,Sweta Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,20,292.3,5846.0,2025-08-31T11:06:02.687177
 2025-08-31,92974,2025083104000219,API,Investment Management Nepal Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,230,292.3,67229.0,2025-08-31T11:06:02.687293

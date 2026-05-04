@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,67864,2025090104000076,CGH,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,1042.0,10420.0,2025-09-01 11:03:22.291132
 2025-09-01,67174,2025090104000127,CGH,Sani Securities Company Ltd.,South Asian Bulls Pvt. Ltd.,10,1037.9,10379.0,2025-09-01 11:06:09.289590
 2025-09-01,67100,2025090104000137,CGH,Sani Securities Company Ltd.,Sani Securities Company Ltd.,10,1022.0,10220.0,2025-09-01 11:06:29.494738

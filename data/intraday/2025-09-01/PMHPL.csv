@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,68740,2025090104000007,PMHPL,Linch Stock Market Ltd.,Citizens Share Broker Limited,10,404.5,4045.0,2025-09-01 10:46:00.034706
 2025-09-01,68739,2025090104000008,PMHPL,Linch Stock Market Ltd.,South Asian Bulls Pvt. Ltd.,10,404.5,4045.0,2025-09-01 10:46:00.034742
 2025-09-01,68738,2025090104000009,PMHPL,Linch Stock Market Ltd.,South Asian Bulls Pvt. Ltd.,10,404.5,4045.0,2025-09-01 10:46:00.034764

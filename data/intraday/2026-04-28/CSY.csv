@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 CSY,25,58,1100,9.37,10307.0,2026-04-28 14:54:12.502,2026042801105645
 CSY,8,58,120,9.36,1123.1999999999998,2026-04-28 14:48:04.144,2026042801102000
 CSY,58,58,3900,9.37,36543.0,2026-04-28 14:46:14.163,2026042801100991

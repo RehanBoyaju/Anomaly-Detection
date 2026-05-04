@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,90246,2025080604000443,KKHC,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,10,261.0,2610.0,2025-08-06 11:08:38.374389
 2025-08-06,88040,2025080604000697,KKHC,Oxford Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,500,261.1,130550.0,2025-08-06 11:13:20.214879
 2025-08-06,87932,2025080604000724,KKHC,Kohinoor Investment & Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,500,261.1,130550.0,2025-08-06 11:13:33.542967

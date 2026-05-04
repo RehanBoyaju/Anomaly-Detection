@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89751,2025090204000007,HPPL,Linch Stock Market Ltd.,Trishakti Securities Public Limited,10,501.7,5017.0,2025-09-02 10:46:00.034277
 2025-09-02,85139,2025090204000115,HPPL,Secured Securities Ltd.,Naasa Securities Co. Ltd.,615,493.0,303195.0,2025-09-02 11:06:47.408579
 2025-09-02,84949,2025090204000120,HPPL,Secured Securities Ltd.,Nagarik Stock Dealer ,300,493.0,147900.0,2025-09-02 11:07:02.558721

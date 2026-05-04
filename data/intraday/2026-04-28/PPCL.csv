@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PPCL,95,13,133,379.1,50420.3,2026-04-28 14:59:37.040,2026042804014828
 PPCL,33,13,200,379.1,75820.0,2026-04-28 14:59:37.040,2026042804014827
 PPCL,3,13,46,379.2,17443.2,2026-04-28 14:59:37.040,2026042804014826

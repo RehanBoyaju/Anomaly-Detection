@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,98512,2025081103000002,SFCL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,485.0,97000.0,2025-08-11 10:46:00.017415
 2025-08-11,91655,2025081103000852,SFCL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,100,480.6,48060.0,2025-08-11 11:17:03.663467
 2025-08-11,88847,2025081103001183,SFCL,Oxford Securities Pvt. Ltd.,Asian Securities Private Ltd.,50,485.0,24250.0,2025-08-11 11:24:02.287204

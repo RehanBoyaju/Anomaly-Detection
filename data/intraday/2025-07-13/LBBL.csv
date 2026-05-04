@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-13,105129,2025071303000057,LBBL,Creative Securities Pvt Ltd,Naasa Securities Co. Ltd.,200,451.2,90240.0,2025-07-13T10:46:00.058913
 2025-07-13,105128,2025071303000058,LBBL,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,300,451.2,135360.0,2025-07-13T10:46:00.05894
 2025-07-13,105127,2025071303000059,LBBL,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,1150,451.2,518880.0,2025-07-13T10:46:00.058964

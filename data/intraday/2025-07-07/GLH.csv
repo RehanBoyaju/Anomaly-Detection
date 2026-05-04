@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71092,2025070704000043,GLH,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,265.4,2654.0,2025-07-07 11:00:56.929409
 2025-07-07,70813,2025070704000103,GLH,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,265.0,26500.0,2025-07-07 11:02:35.077623
 2025-07-07,70745,2025070704000127,GLH,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,20,265.0,5300.0,2025-07-07 11:02:55.733194

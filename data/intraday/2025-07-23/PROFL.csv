@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,168182,2025072303000309,PROFL,Vision Securities Pvt. Ltd,ABC Securities Private Limited,10,554.0,5540.0,2025-07-23 11:03:15.183325
 2025-07-23,162283,2025072303001451,PROFL,South Asian Bulls Pvt. Ltd.,Primo Securities (PVT) Ltd.,50,556.0,27800.0,2025-07-23 11:10:11.671807
 2025-07-23,161125,2025072303001680,PROFL,KALASH STOCK MARKET PVT. LTD.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,500,557.0,278500.0,2025-07-23 11:11:23.027303

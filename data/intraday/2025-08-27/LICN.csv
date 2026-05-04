@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,68431,2025082703000529,LICN,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,10,870.0,8700.0,2025-08-27T11:24:49.398089
 2025-08-27,68430,2025082703000530,LICN,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,10,874.4,8744.0,2025-08-27T11:24:49.398175
 2025-08-27,67596,2025082703000638,LICN,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,60,874.5,52470.0,2025-08-27T11:28:16.388991

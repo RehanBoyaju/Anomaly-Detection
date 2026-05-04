@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67268,2025081804000162,API,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,94,296.1,27833.4,2025-08-18T11:05:19.090724
 2025-08-18,66909,2025081804000225,API,Kumari Securities Private Limited,Oxford Securities Pvt. Ltd.,606,296.1,179436.6,2025-08-18T11:07:08.036322
 2025-08-18,66908,2025081804000226,API,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,121,296.1,35828.1,2025-08-18T11:07:08.036411

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170388,2025072804000119,RADHI,Kohinoor Investment & Securities Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,22,850.0,18700.0,2025-07-28T11:01:19.217857
 2025-07-28,170353,2025072804000139,RADHI,Trisul Securities & Invt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,500,850.0,425000.0,2025-07-28T11:01:24.194398
 2025-07-28,170216,2025072804000176,RADHI,Indira securities pvt. ltd,SHUBHAKAMANA SECURITIES PVT. LTD,100,850.0,85000.0,2025-07-28T11:01:51.708079

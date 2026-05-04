@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39650,2025092803000013,LBBL,Prabhu Stock Market Limited,Sani Securities Company Ltd.,10,514.0,5140.0,2025-09-28 11:01:37.211224
 2025-09-28,39003,2025092803000043,LBBL,Garima Securities Limited,Naasa Securities Co. Ltd.,10,498.0,4980.0,2025-09-28 11:05:18.672021
 2025-09-28,37758,2025092803000123,LBBL,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,19,505.0,9595.0,2025-09-28 11:11:37.028925

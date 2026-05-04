@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,66559,2025090401001015,ADBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,100,324.0,32400.0,2025-09-04T11:12:15.357935
 2025-09-04,66303,2025090401001110,ADBL,Dynamic Money Managers Securities Pvt. Ltd.,Premier Securities Company Ltd.,97,322.2,31253.4,2025-09-04T11:13:11.458046
 2025-09-04,66248,2025090401001125,ADBL,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,6,320.0,1920.0,2025-09-04T11:13:21.715207

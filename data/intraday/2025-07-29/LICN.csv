@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156709,2025072903000128,LICN,Midas Stock Broking Company Private Limited,Sagarmatha Securities Private Limited,10,936.0,9360.0,2025-07-29 11:02:15.421485
 2025-07-29,156492,2025072903000162,LICN,Sagarmatha Securities Private Limited,Oxford Securities Pvt. Ltd.,10,960.0,9600.0,2025-07-29 11:02:41.662066
 2025-07-29,156491,2025072903000163,LICN,Sagarmatha Securities Private Limited,Trisul Securities & Invt. Ltd.,10,960.0,9600.0,2025-07-29 11:02:41.662114

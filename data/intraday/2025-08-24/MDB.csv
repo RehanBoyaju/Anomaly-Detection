@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,53923,2025082403000578,MDB,Oxford Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,100,622.0,62200.0,2025-08-24 11:23:33.214374
 2025-08-24,52914,2025082403000707,MDB,J.F. Securites (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,10,621.0,6210.0,2025-08-24 11:28:34.809344
 2025-08-24,52890,2025082403000709,MDB,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,25,621.0,15525.0,2025-08-24 11:28:43.875485

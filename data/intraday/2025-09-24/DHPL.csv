@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,43720,2025092404001197,DHPL,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,10,297.2,2972.0,2025-09-24 11:19:36.330084
 2025-09-24,43332,2025092404001320,DHPL,Pragyan Securities (PVT) Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,20,297.0,5940.0,2025-09-24 11:21:12.279033
 2025-09-24,43331,2025092404001321,DHPL,Dakshinkali Investment & Securities Pvt. Ltd.,MILKY WAY SHARE BROKER COMPANY LTD ,130,296.7,38571.0,2025-09-24 11:21:12.279141

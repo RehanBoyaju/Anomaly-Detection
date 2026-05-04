@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170260,2025072304000013,KKHC,Imperial Securities Company Pvt. Ltd.,Arun Securities (PVT) Ltd.,10,297.0,2970.0,2025-07-23 10:46:00.039355
 2025-07-23,168325,2025072304000658,KKHC,Imperial Securities Company Pvt. Ltd.,Naasa Securities Co. Ltd.,200,302.0,60400.0,2025-07-23 11:03:05.381766
 2025-07-23,168246,2025072304000688,KKHC,Imperial Securities Company Pvt. Ltd.,Aryatara Investment & Securities,40,302.0,12080.0,2025-07-23 11:03:11.498629

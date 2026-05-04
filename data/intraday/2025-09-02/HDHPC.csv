@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,86758,2025090204000050,HDHPC,Dakshinkali Investment & Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,195.0,9750.0,2025-09-02 11:03:58.505199
 2025-09-02,86250,2025090204000066,HDHPC,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,10,194.0,1940.0,2025-09-02 11:04:46.061517
 2025-09-02,84414,2025090204000157,HDHPC,Shree Krishna Securities Ltd.,Asian Securities Private Ltd.,31,194.0,6014.0,2025-09-02 11:07:53.397447

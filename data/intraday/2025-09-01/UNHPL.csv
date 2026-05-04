@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,67517,2025090104000105,UNHPL,Sri Hari Securities Pvt. Ltd.,Capital Max Securities Ltd,300,382.0,114600.0,2025-09-01 11:04:52.412524
 2025-09-01,66789,2025090104000165,UNHPL,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,700,382.0,267400.0,2025-09-01 11:07:39.050103
 2025-09-01,66788,2025090104000166,UNHPL,Imperial Securities Company Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,200,382.0,76400.0,2025-09-01 11:07:39.050358

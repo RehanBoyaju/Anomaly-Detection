@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67576,2025081804000112,SJCL,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,100,298.5,29850.0,2025-08-18T11:03:02.551647
 2025-08-18,66083,2025081804000457,SJCL,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,50,299.0,14950.0,2025-08-18T11:10:40.84946
 2025-08-18,66082,2025081804000458,SJCL,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,50,299.0,14950.0,2025-08-18T11:10:40.849514

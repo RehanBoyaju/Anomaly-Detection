@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-11,88713,2025081103001208,LICN,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,20,908.0,18160.0,2025-08-11 11:24:23.506120
 2025-08-11,88712,2025081103001209,LICN,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,15,909.0,13635.0,2025-08-11 11:24:23.506267
 2025-08-11,86606,2025081103001446,LICN,Miyo Securities Pvt Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,909.0,9090.0,2025-08-11 11:29:16.192126

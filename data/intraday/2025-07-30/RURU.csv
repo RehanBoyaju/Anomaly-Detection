@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,136090,2025073004001089,RURU,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,129,783.0,101007.0,2025-07-30 11:11:53.910035
 2025-07-30,134423,2025073004001493,RURU,Linch Stock Market Ltd.,Sumeru Securities Pvt. Ltd.,100,783.1,78310.0,2025-07-30 11:14:24.072609
 2025-07-30,134422,2025073004001494,RURU,Deevyaa Securities & Stock House Pvt. Ltd,Sumeru Securities Pvt. Ltd.,63,783.0,49329.0,2025-07-30 11:14:24.072695

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86664,2025070601000141,CZBIL,Asian Securities Private Ltd.,Asian Securities Private Ltd.,30,209.1,6273.0,2025-07-06 11:03:10.441275
 2025-07-06,85428,2025070601000382,CZBIL,Imperial Securities Company Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,111,209.3,23232.3,2025-07-06 11:07:23.513199
 2025-07-06,78308,2025070601002033,CZBIL,Trishakti Securities Public Limited,Trisul Securities & Invt. Ltd.,10,211.5,2115.0,2025-07-06 11:26:23.995463

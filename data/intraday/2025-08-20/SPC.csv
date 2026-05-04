@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,52848,2025082005000407,SPC,Online Securities Pvt. Ltd.,Miyo Securities Pvt Ltd,10,542.3,5423.0,2025-08-20 11:08:49.750034
 2025-08-20,52731,2025082005000451,SPC,Online Securities Pvt. Ltd.,Global IME Securities Limited,20,542.3,10846.0,2025-08-20 11:09:34.586802
 2025-08-20,48934,2025082005002011,SPC,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,543.1,5431.0,2025-08-20 11:32:14.665242

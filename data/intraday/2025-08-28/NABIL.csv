@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78233,2025082801000020,NABIL,Shree Krishna Securities Ltd.,Opal Securities Investment (PVT) Ltd.,200,532.0,106400.0,2025-08-28 11:00:49.798287
 2025-08-28,78134,2025082801000045,NABIL,Sri Hari Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,57,530.0,30210.0,2025-08-28 11:01:27.953787
 2025-08-28,78133,2025082801000046,NABIL,Sanima Securities Limited,South Asian Bulls Pvt. Ltd.,93,530.0,49290.0,2025-08-28 11:01:27.953860

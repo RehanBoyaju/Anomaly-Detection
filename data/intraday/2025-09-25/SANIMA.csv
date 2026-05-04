@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37439,2025092501000029,SANIMA,Sundhara Securities Limited,Aryatara Investment & Securities,60,334.0,20040.0,2025-09-25 11:01:03.642392
 2025-09-25,37438,2025092501000030,SANIMA,Vision Securities Pvt. Ltd,Aryatara Investment & Securities,30,334.0,10020.0,2025-09-25 11:01:03.642505
 2025-09-25,36771,2025092501000232,SANIMA,Kumari Securities Private Limited,Himalayan Brokerage Company Limited,100,335.0,33500.0,2025-09-25 11:07:26.936138

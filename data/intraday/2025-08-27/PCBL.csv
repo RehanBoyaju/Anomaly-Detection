@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72490,2025082701000013,PCBL,Sri Hari Securities Pvt. Ltd.,Sweta Securities Private Limited,10,261.3,2613.0,2025-08-27T10:46:00.057569
 2025-08-27,71354,2025082701000247,PCBL,Kohinoor Investment & Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,50,258.0,12900.0,2025-08-27T11:09:29.069393
 2025-08-27,71353,2025082701000248,PCBL,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,500,258.5,129250.0,2025-08-27T11:09:29.069464

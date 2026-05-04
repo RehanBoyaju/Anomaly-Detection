@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,93956,2025080703000259,PFL,Blue Chip Securities Ltd,Aryatara Investment & Securities,10,422.0,4220.0,2025-08-07 11:06:33.787786
 2025-08-07,93310,2025080703000352,PFL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Aryatara Investment & Securities,1,414.0,414.0,2025-08-07 11:08:41.451211
 2025-08-07,93061,2025080703000405,PFL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Kalika Securities Pvt. Ltd.,100,422.0,42200.0,2025-08-07 11:09:16.875138

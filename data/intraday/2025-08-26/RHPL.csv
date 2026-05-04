@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,45093,2025082604000012,RHPL,SHUBHAKAMANA SECURITIES PVT. LTD,Sani Securities Company Ltd.,10,310.9,3109.0,2025-08-26 10:46:00.042346
 2025-08-26,44355,2025082604000145,RHPL,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,100,305.0,30500.0,2025-08-26 11:08:29.068635
 2025-08-26,44354,2025082604000146,RHPL,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,250,305.0,76250.0,2025-08-26 11:08:29.068729

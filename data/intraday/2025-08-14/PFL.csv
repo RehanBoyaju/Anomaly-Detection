@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,74337,2025081403000211,PFL,Blue Chip Securities Ltd,Sumeru Securities Pvt. Ltd.,10,417.0,4170.0,2025-08-14 11:10:28.757925
 2025-08-14,71187,2025081403000525,PFL,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,100,415.0,41500.0,2025-08-14 11:22:32.708593
 2025-08-14,68028,2025081403000804,PFL,Linch Stock Market Ltd.,Online Securities Pvt. Ltd.,100,414.0,41400.0,2025-08-14 11:32:59.380122

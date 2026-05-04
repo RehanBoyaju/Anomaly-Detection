@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87085,2025070605000048,NIFRA,Sani Securities Company Ltd.,Sani Securities Company Ltd.,13,278.0,3614.0,2025-07-06 11:01:19.325693
 2025-07-06,86737,2025070605000104,NIFRA,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,54,278.0,15012.0,2025-07-06 11:02:52.834449
 2025-07-06,86649,2025070605000122,NIFRA,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,64,277.5,17760.0,2025-07-06 11:03:12.891436

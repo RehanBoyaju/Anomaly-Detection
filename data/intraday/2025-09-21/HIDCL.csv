@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108794,2025092105000035,HIDCL,Aryatara Investment & Securities,Imperial Securities Company Pvt. Ltd.,100,245.3,24530.0,2025-09-21 10:46:00.017928
 2025-09-21,108793,2025092105000036,HIDCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,100,245.3,24530.0,2025-09-21 10:46:00.017976
 2025-09-21,108792,2025092105000037,HIDCL,Sewa Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,245.3,24530.0,2025-09-21 10:46:00.018021

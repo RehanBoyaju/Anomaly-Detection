@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168563,2025073104000008,NGPL,Pragyan Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,10,428.0,4280.0,2025-07-31 10:46:00.031878
 2025-07-31,168382,2025073104000039,NGPL,Pragyan Securities (PVT) Ltd.,Sani Securities Company Ltd.,35,428.0,14980.0,2025-07-31 11:00:36.305285
 2025-07-31,168216,2025073104000084,NGPL,Sweta Securities Private Limited,Sani Securities Company Ltd.,200,428.0,85600.0,2025-07-31 11:01:08.738483

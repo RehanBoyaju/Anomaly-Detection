@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,160199,2025072304003267,NHDL,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,40,740.3,29612.0,2025-07-23 11:12:22.145015
 2025-07-23,160198,2025072304003268,NHDL,Asian Securities Private Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,50,740.3,37015.0,2025-07-23 11:12:22.145071
 2025-07-23,160197,2025072304003269,NHDL,Thrive Brokerage House Pvt. Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,100,740.1,74010.0,2025-07-23 11:12:22.145103

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 AVYAN,38,7,10,1115.9,11159.0,2026-04-28 14:57:30.996,2026042804014079
 AVYAN,41,48,10,1090.0,10900.0,2026-04-28 14:56:07.767,2026042804013852
 AVYAN,48,7,70,1115.9,78113.0,2026-04-28 14:56:03.610,2026042804013838

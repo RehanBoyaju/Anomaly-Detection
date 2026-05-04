@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ADBL,50,34,10,311.8,3118.0,2026-04-28 14:59:59.502,2026042801111038
 ADBL,57,36,12,310.1,3721.2,2026-04-28 14:59:05.080,2026042801109415
 ADBL,42,87,30,310.0,9300.0,2026-04-28 14:57:57.185,2026042801108447

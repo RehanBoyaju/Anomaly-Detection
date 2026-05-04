@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,66240,2025090304000295,HDHPC,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,11,192.0,2112.0,2025-09-03 11:10:41.502408
 2025-09-03,65979,2025090304000332,HDHPC,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,30,191.0,5730.0,2025-09-03 11:11:40.475605
 2025-09-03,64856,2025090304000457,HDHPC,ABC Securities Private Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,289,192.0,55488.0,2025-09-03 11:16:06.311825

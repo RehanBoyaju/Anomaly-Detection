@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73738,2025071504000120,HPPL,Agrawal Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,501.0,150300.0,2025-07-15 11:02:40.588321
 2025-07-15,72954,2025071504000362,HPPL,Neev Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,70,503.0,35210.0,2025-07-15 11:07:02.988839
 2025-07-15,71442,2025071504000842,HPPL,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,495.1,4951.0,2025-07-15 11:14:10.456045

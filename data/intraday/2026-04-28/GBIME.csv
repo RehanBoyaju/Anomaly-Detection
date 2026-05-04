@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GBIME,44,47,70,232.0,16240.0,2026-04-28 14:59:54.158,2026042801110709
 GBIME,35,47,20,232.0,4640.0,2026-04-28 14:59:54.158,2026042801110708
 GBIME,37,47,10,232.9,2329.0,2026-04-28 14:59:54.157,2026042801110707

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,58009,2025082404000005,RHPL,Vision Securities Pvt. Ltd,Sani Securities Company Ltd.,10,321.0,3210.0,2025-08-24 10:46:00.048065
 2025-08-24,58008,2025082404000006,RHPL,Vision Securities Pvt. Ltd,SHUBHAKAMANA SECURITIES PVT. LTD,30,321.0,9630.0,2025-08-24 10:46:00.048092
 2025-08-24,58007,2025082404000007,RHPL,Imperial Securities Company Pvt. Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,100,321.0,32100.0,2025-08-24 10:46:00.048113

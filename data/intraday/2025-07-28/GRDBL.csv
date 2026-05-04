@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,168749,2025072803000381,GRDBL,Naasa Securities Co. Ltd.,Midas Stock Broking Company Private Limited,11,1245.0,13695.0,2025-07-28T11:05:05.638401
 2025-07-28,168748,2025072803000382,GRDBL,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,50,1224.1,61205.0,2025-07-28T11:05:05.681236
 2025-07-28,168747,2025072803000383,GRDBL,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,10,1224.0,12240.0,2025-07-28T11:05:05.68134

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,139885,2025080403000512,PROFL,Aryatara Investment & Securities,Sri Hari Securities Pvt. Ltd.,200,539.9,107980.0,2025-08-04 11:08:34.708618
 2025-08-04,139884,2025080403000513,PROFL,Aryatara Investment & Securities,Siprabi Securities Pvt. Ltd.,500,540.0,270000.0,2025-08-04 11:08:34.708678
 2025-08-04,134376,2025080403000983,PROFL,Premier Securities Company Ltd.,Online Securities Pvt. Ltd.,50,540.0,27000.0,2025-08-04 11:13:05.316757

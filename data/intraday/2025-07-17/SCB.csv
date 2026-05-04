@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140427,2025071701000331,SCB,Premier Securities Company Ltd.,J.F. Securites (PVT) Ltd.,50,661.0,33050.0,2025-07-17 11:03:09.380427
 2025-07-17,137257,2025071701001233,SCB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Investment And Securities Trading Private Limited,145,665.0,96425.0,2025-07-17 11:09:43.611551
 2025-07-17,134678,2025071701001952,SCB,Premier Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,44,665.0,29260.0,2025-07-17 11:13:40.114792

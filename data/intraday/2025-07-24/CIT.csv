@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,153994,2025072405000118,CIT,Neev Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,10,2079.0,20790.0,2025-07-24 11:01:31.781003
 2025-07-24,152544,2025072405000375,CIT,Vision Securities Pvt. Ltd,Ashutosh Brokerage & Securities (PVT) Ltd.,10,2060.0,20600.0,2025-07-24 11:04:17.972973
 2025-07-24,150966,2025072405000608,CIT,Naasa Securities Co. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,15,2060.0,30900.0,2025-07-24 11:06:59.275375

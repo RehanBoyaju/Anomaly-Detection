@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108476,2025092104000134,CHL,Oxford Securities Pvt. Ltd.,Sundhara Securities Limited,350,227.0,79450.0,2025-09-21 10:46:00.052653
 2025-09-21,108475,2025092104000135,CHL,Oxford Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,10,227.0,2270.0,2025-09-21 10:46:00.052685
 2025-09-21,108474,2025092104000136,CHL,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,22,227.0,4994.0,2025-09-21 10:46:00.052741

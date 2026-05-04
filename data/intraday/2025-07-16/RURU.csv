@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99433,2025071604000042,RURU,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,13,710.0,9230.0,2025-07-16 10:46:00.077911
 2025-07-16,93916,2025071604001453,RURU,Asian Securities Private Ltd.,Premier Securities Company Ltd.,11,723.0,7953.0,2025-07-16 11:16:51.022463
 2025-07-16,93830,2025071604001469,RURU,Creative Securities Pvt Ltd,Premier Securities Company Ltd.,10,723.0,7230.0,2025-07-16 11:17:06.915943

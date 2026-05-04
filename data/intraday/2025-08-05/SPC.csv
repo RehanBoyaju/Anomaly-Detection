@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130910,2025080505000014,SPC,Swarna Laxmi Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,30,558.3,16749.0,2025-08-05 10:46:00.053266
 2025-08-05,127174,2025080505000163,SPC,Swarna Laxmi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,547.2,5472.0,2025-08-05 11:02:29.284061
 2025-08-05,126168,2025080505000224,SPC,Kohinoor Investment & Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,15,538.0,8070.0,2025-08-05 11:03:12.854776

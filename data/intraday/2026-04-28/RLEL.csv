@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 RLEL,67,32,40,1145.0,45800.0,2026-04-28 14:59:54.712,2026042801110722
 RLEL,67,43,10,1145.0,11450.0,2026-04-28 14:59:52.144,2026042801110654
 RLEL,11,97,100,1150.0,115000.0,2026-04-28 14:59:41.383,2026042801110382

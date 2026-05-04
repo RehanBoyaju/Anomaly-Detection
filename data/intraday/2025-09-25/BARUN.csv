@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37148,2025092504000078,BARUN,Miyo Securities Pvt Ltd,Malla & Malla Stock Broking Company Pvt. Limited,200,321.1,64220.0,2025-09-25 11:03:57.440191
 2025-09-25,35403,2025092504000494,BARUN,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,10,332.0,3320.0,2025-09-25 11:18:40.791560
 2025-09-25,34550,2025092504000684,BARUN,Naasa Securities Co. Ltd.,Infinity Securities Limited,150,328.9,49335.0,2025-09-25 11:25:04.638502

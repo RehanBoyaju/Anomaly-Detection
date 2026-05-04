@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141413,2025071701000002,KBL,Primo Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,10,224.0,2240.0,2025-07-17 10:46:00.026143
 2025-07-17,141412,2025071701000003,KBL,Beni Securities Pvt.Ltd.,J.F. Securites (PVT) Ltd.,10,224.0,2240.0,2025-07-17 10:46:00.026175
 2025-07-17,141324,2025071701000042,KBL,Primo Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,10,221.0,2210.0,2025-07-17 11:00:28.024928

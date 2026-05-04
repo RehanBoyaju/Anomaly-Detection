@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56004,2025082103000110,PROFL,Dynamic Money Managers Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,10,504.9,5049.0,2025-08-21 11:08:32.272631
 2025-08-21,54088,2025082103000366,PROFL,Dynamic Money Managers Securities Pvt. Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,20,500.0,10000.0,2025-08-21 11:23:05.301175
 2025-08-21,53472,2025082103000420,PROFL,Miyo Securities Pvt Ltd,Himalayan Brokerage Company Limited,10,497.0,4970.0,2025-08-21 11:27:17.250635

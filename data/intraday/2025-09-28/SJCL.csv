@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-28,39448,2025092804000075,SJCL,Agrawal Securities (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,40,291.0,11640.0,2025-09-28 11:02:51.240982
 2025-09-28,36800,2025092804000555,SJCL,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,10,296.8,2968.0,2025-09-28 11:16:57.435153
 2025-09-28,36670,2025092804000590,SJCL,Ashutosh Brokerage & Securities (PVT) Ltd.,J.F. Securites (PVT) Ltd.,10,296.8,2968.0,2025-09-28 11:17:43.923642

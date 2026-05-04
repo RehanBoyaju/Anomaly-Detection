@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57128,2025082403000094,JBBL,Linch Stock Market Ltd.,Sani Securities Company Ltd.,40,332.0,13280.0,2025-08-24 11:07:01.496697
 2025-08-24,56831,2025082403000121,JBBL,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,100,332.0,33200.0,2025-08-24 11:09:04.181530
 2025-08-24,56739,2025082403000143,JBBL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,100,334.0,33400.0,2025-08-24 11:09:41.620397

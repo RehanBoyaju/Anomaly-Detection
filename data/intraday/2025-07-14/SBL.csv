@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72580,2025071401000010,SBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Sweta Securities Private Limited,10,373.0,3730.0,2025-07-14 10:46:00.034640
 2025-07-14,72520,2025071401000034,SBL,Primo Securities (PVT) Ltd.,K.B.L. Securities Limited ,10,362.0,3620.0,2025-07-14 11:00:07.718001
 2025-07-14,72415,2025071401000098,SBL,Primo Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,50,362.0,18100.0,2025-07-14 11:00:43.279986

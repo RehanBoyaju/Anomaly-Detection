@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,84679,2025071004001177,MEN,Siprabi Securities Pvt. Ltd.,Secured Securities Ltd.,100,605.0,60500.0,2025-07-10 11:16:20.914822
 2025-07-10,83373,2025071004001529,MEN,Cristal Kanchanjanga Securites Pvt. Ltd.,Oxford Securities Pvt. Ltd.,40,605.0,24200.0,2025-07-10 11:20:46.501177
 2025-07-10,83088,2025071004001595,MEN,South Asian Bulls Pvt. Ltd.,Oxford Securities Pvt. Ltd.,60,605.0,36300.0,2025-07-10 11:21:42.768639

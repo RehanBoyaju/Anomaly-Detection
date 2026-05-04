@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,58079,2025090701000002,HBL,Trishakti Securities Public Limited,Himalayan Securities Limited,10,200.0,2000.0,2025-09-07 10:46:00.011229
 2025-09-07,57968,2025090701000025,HBL,South Asian Bulls Pvt. Ltd.,Naasa Securities Co. Ltd.,10,202.2,2022.0,2025-09-07 11:00:33.556127
 2025-09-07,57961,2025090701000027,HBL,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,10,202.2,2022.0,2025-09-07 11:00:41.030414

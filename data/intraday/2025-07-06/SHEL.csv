@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87159,2025070604000059,SHEL,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,295.0,2950.0,2025-07-06 11:01:03.045891
 2025-07-06,87065,2025070604000079,SHEL,Sani Securities Company Ltd.,NIMB Stock Markets Limited,140,295.0,41300.0,2025-07-06 11:01:27.861415
 2025-07-06,86970,2025070604000098,SHEL,Aryatara Investment & Securities,Sweta Securities Private Limited,10,295.0,2950.0,2025-07-06 11:01:52.585850

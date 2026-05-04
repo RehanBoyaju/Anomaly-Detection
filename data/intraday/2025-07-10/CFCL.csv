@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,86920,2025071003000210,CFCL,Sundhara Securities Limited,South Asian Bulls Pvt. Ltd.,30,542.6,16278.0,2025-07-10 11:08:32.529810
 2025-07-10,86819,2025071003000218,CFCL,Sundhara Securities Limited,Market Securities & Exchange (PVT) Ltd.,100,542.7,54270.0,2025-07-10 11:08:51.598429
 2025-07-10,84249,2025071003000638,CFCL,Dakshinkali Investment & Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,100,532.0,53200.0,2025-07-10 11:17:51.728489

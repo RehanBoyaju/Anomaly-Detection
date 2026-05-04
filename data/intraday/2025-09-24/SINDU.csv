@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47755,2025092403000017,SINDU,Sani Securities Company Ltd.,Nepal Investment And Securities Trading Private Limited,10,755.0,7550.0,2025-09-24 11:00:27.395105
 2025-09-24,47543,2025092403000063,SINDU,Sweta Securities Private Limited,South Asian Bulls Pvt. Ltd.,20,761.0,15220.0,2025-09-24 11:01:40.263864
 2025-09-24,47542,2025092403000064,SINDU,Sweta Securities Private Limited,Capital Max Securities Ltd,30,762.0,22860.0,2025-09-24 11:01:40.263915

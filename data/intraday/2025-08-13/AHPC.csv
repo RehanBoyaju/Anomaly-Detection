@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69857,2025081304000023,AHPC,Bhrikuti Stock Broking Co. Pvt. Ltd.,Naasa Securities Co. Ltd.,10,290.0,2900.0,2025-08-13 11:00:51.450530
 2025-08-13,69290,2025081304000133,AHPC,Aryatara Investment & Securities,Malla & Malla Stock Broking Company Pvt. Limited,100,295.8,29580.0,2025-08-13 11:04:42.503857
 2025-08-13,69231,2025081304000146,AHPC,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,200,295.8,59160.0,2025-08-13 11:05:07.071310

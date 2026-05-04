@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72151,2025082704000053,MHNL,Imperial Securities Company Pvt. Ltd.,Premier Securities Company Ltd.,10,266.0,2660.0,2025-08-27T11:03:51.066779
 2025-08-27,71550,2025082704000116,MHNL,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,40,266.0,10640.0,2025-08-27T11:08:25.883713
 2025-08-27,67323,2025082704000776,MHNL,South Asian Bulls Pvt. Ltd.,Nepal Investment And Securities Trading Private Limited,30,270.9,8127.0,2025-08-27T11:29:26.521296

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,56133,2025082404000310,PPCL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Capital Max Securities Ltd,10,339.9,3399.0,2025-08-24 11:13:06.952846
 2025-08-24,55489,2025082404000449,PPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Capital Max Securities Ltd,90,339.9,30591.0,2025-08-24 11:15:44.255841
 2025-08-24,55394,2025082404000462,PPCL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,333.2,3332.0,2025-08-24 11:16:08.643505

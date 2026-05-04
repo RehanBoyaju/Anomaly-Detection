@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 KKHC,11,33,313,271.0,84823.0,2026-04-28 14:59:15.690,2026042804014609
 KKHC,42,33,300,271.0,81300.0,2026-04-28 14:59:10.147,2026042804014585
 KKHC,35,26,150,270.4,40560.0,2026-04-28 14:59:07.961,2026042804014578

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GSY,34,45,100,9.9,990.0,2026-04-28 14:56:32.854,2026042801107290
 GSY,34,57,100,9.9,990.0,2026-04-28 14:47:42.311,2026042801101820
 GSY,34,58,100,9.9,990.0,2026-04-28 14:45:38.779,2026042801100683

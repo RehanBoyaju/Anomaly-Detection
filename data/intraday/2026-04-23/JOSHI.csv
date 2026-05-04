@@ -1,131 +1,131 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026042304000018,JOSHI,49,38,10,307.8,3078.0,2026-04-23,187615052,2789,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 10:46:00.108885,Joshi Hydropower Development Company Ltd
-2026042304000173,JOSHI,46,34,10,298.6,2986.0,2026-04-23,187619838,2789,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:05:19.870664,Joshi Hydropower Development Company Ltd
-2026042304000327,JOSHI,17,28,10,289.7,2897.0,2026-04-23,187621862,2789,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514663,Joshi Hydropower Development Company Ltd
-2026042304000328,JOSHI,47,28,50,289.7,14485.0,2026-04-23,187621865,2789,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514737,Joshi Hydropower Development Company Ltd
-2026042304000329,JOSHI,22,28,50,289.7,14485.0,2026-04-23,187621868,2789,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514756,Joshi Hydropower Development Company Ltd
-2026042304000330,JOSHI,42,28,90,289.7,26073.0,2026-04-23,187621869,2789,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514775,Joshi Hydropower Development Company Ltd
-2026042304000495,JOSHI,28,36,195,290.0,56550.0,2026-04-23,187624815,2789,Shree Krishna Securities Ltd.,Secured Securities Ltd.,2026-04-23 11:10:06.510203,Joshi Hydropower Development Company Ltd
-2026042304000584,JOSHI,48,34,500,292.0,146000.0,2026-04-23,187626007,2789,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-23 11:11:23.894639,Joshi Hydropower Development Company Ltd
-2026042304000726,JOSHI,42,17,50,292.0,14600.0,2026-04-23,187629489,2789,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-23 11:14:58.784779,Joshi Hydropower Development Company Ltd
-2026042304000727,JOSHI,42,32,50,292.0,14600.0,2026-04-23,187629492,2789,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 11:14:58.784930,Joshi Hydropower Development Company Ltd
-2026042304001261,JOSHI,28,32,100,292.0,29200.0,2026-04-23,187640338,2789,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-23 11:24:23.838191,Joshi Hydropower Development Company Ltd
-2026042304001266,JOSHI,42,32,500,292.0,146000.0,2026-04-23,187640502,2789,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 11:24:29.845389,Joshi Hydropower Development Company Ltd
-2026042304001320,JOSHI,49,58,20,291.2,5824.0,2026-04-23,187641752,2789,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:25:34.069797,Joshi Hydropower Development Company Ltd
-2026042304001339,JOSHI,28,34,500,291.0,145500.0,2026-04-23,187642365,2789,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:26:13.450204,Joshi Hydropower Development Company Ltd
-2026042304001348,JOSHI,28,58,305,290.0,88450.0,2026-04-23,187642508,2789,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:26:20.600539,Joshi Hydropower Development Company Ltd
-2026042304001563,JOSHI,14,58,17,290.0,4930.0,2026-04-23,187647123,2789,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:53.193645,Joshi Hydropower Development Company Ltd
-2026042304001585,JOSHI,14,48,133,290.0,38570.0,2026-04-23,187647612,2789,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 11:30:24.727124,Joshi Hydropower Development Company Ltd
-2026042304001586,JOSHI,53,48,215,290.0,62350.0,2026-04-23,187647614,2789,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 11:30:24.727296,Joshi Hydropower Development Company Ltd
-2026042304002135,JOSHI,49,58,50,289.7,14485.0,2026-04-23,187658886,2789,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:42:55.006255,Joshi Hydropower Development Company Ltd
-2026042304002136,JOSHI,49,58,50,289.0,14450.0,2026-04-23,187658887,2789,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:42:55.006597,Joshi Hydropower Development Company Ltd
-2026042304002326,JOSHI,49,42,150,289.0,43350.0,2026-04-23,187660724,2789,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:45:18.546426,Joshi Hydropower Development Company Ltd
-2026042304002327,JOSHI,51,42,20,289.0,5780.0,2026-04-23,187660725,2789,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:45:18.546584,Joshi Hydropower Development Company Ltd
-2026042304002361,JOSHI,41,59,70,285.1,19957.0,2026-04-23,187661374,2789,Linch Stock Market Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:46:02.063426,Joshi Hydropower Development Company Ltd
-2026042304002383,JOSHI,91,59,910,285.1,259441.0,2026-04-23,187661725,2789,Citizens Share Broker Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:46:31.412187,Joshi Hydropower Development Company Ltd
-2026042304002512,JOSHI,91,42,70,290.0,20300.0,2026-04-23,187663483,2789,Citizens Share Broker Limited,Sani Securities Company Ltd.,2026-04-23 11:48:43.084581,Joshi Hydropower Development Company Ltd
-2026042304002903,JOSHI,26,51,40,290.0,11600.0,2026-04-23,187668982,2789,Asian Securities Private Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:45.678700,Joshi Hydropower Development Company Ltd
-2026042304002904,JOSHI,8,51,55,290.0,15950.0,2026-04-23,187668984,2789,Brilliant Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:45.679098,Joshi Hydropower Development Company Ltd
-2026042304002942,JOSHI,58,51,20,290.0,5800.0,2026-04-23,187669498,2789,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:21.516107,Joshi Hydropower Development Company Ltd
-2026042304003122,JOSHI,42,58,100,285.5,28550.0,2026-04-23,187671740,2789,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:58:51.440034,Joshi Hydropower Development Company Ltd
-2026042304003123,JOSHI,36,58,100,285.3,28530.0,2026-04-23,187671742,2789,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:58:51.440102,Joshi Hydropower Development Company Ltd
-2026042304003124,JOSHI,26,58,25,285.3,7132.5,2026-04-23,187671743,2789,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:58:51.440129,Joshi Hydropower Development Company Ltd
-2026042304003240,JOSHI,14,43,10,291.9,2919.0,2026-04-23,187673400,2789,Nepal Stock House (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 12:00:49.960218,Joshi Hydropower Development Company Ltd
-2026042304003286,JOSHI,62,8,50,291.0,14550.0,2026-04-23,187674396,2789,Capital Max Securities Ltd,Brilliant Securities Pvt. Ltd.,2026-04-23 12:02:00.553381,Joshi Hydropower Development Company Ltd
-2026042304003302,JOSHI,62,36,100,290.8,29080.0,2026-04-23,187674762,2789,Capital Max Securities Ltd,Secured Securities Ltd.,2026-04-23 12:02:40.311828,Joshi Hydropower Development Company Ltd
-2026042304003537,JOSHI,62,45,55,285.7,15713.5,2026-04-23,187678560,2789,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:06:56.532970,Joshi Hydropower Development Company Ltd
-2026042304003538,JOSHI,42,45,100,285.7,28570.0,2026-04-23,187678562,2789,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:06:56.533292,Joshi Hydropower Development Company Ltd
-2026042304003558,JOSHI,42,45,288,285.7,82281.6,2026-04-23,187678953,2789,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:07:24.490572,Joshi Hydropower Development Company Ltd
-2026042304003732,JOSHI,39,34,50,291.7,14585.0,2026-04-23,187681862,2789,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:11:44.925637,Joshi Hydropower Development Company Ltd
-2026042304004365,JOSHI,38,43,35,291.6,10206.0,2026-04-23,187692195,2789,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 12:26:52.305416,Joshi Hydropower Development Company Ltd
-2026042304004366,JOSHI,38,34,265,291.7,77300.5,2026-04-23,187692198,2789,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:26:52.305790,Joshi Hydropower Development Company Ltd
-2026042304004773,JOSHI,77,41,10,291.4,2914.0,2026-04-23,187698822,2789,Nabil Stock Dealer Ltd.,Linch Stock Market Ltd.,2026-04-23 12:37:55.631485,Joshi Hydropower Development Company Ltd
-2026042304004852,JOSHI,16,33,300,291.0,87300.0,2026-04-23,187699683,2789,Primo Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 12:39:23.598547,Joshi Hydropower Development Company Ltd
-2026042304004975,JOSHI,51,48,17,291.0,4947.0,2026-04-23,187700774,2789,Oxford Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:41:50.943939,Joshi Hydropower Development Company Ltd
-2026042304005241,JOSHI,39,48,150,291.0,43650.0,2026-04-23,187705682,2789,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:49:59.645893,Joshi Hydropower Development Company Ltd
-2026042304005280,JOSHI,58,48,263,291.0,76533.0,2026-04-23,187706490,2789,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:51:20.907384,Joshi Hydropower Development Company Ltd
-2026042304005331,JOSHI,50,48,200,291.0,58200.0,2026-04-23,187707230,2789,Cristal Kanchanjanga Securites Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:52:30.470578,Joshi Hydropower Development Company Ltd
-2026042304005344,JOSHI,32,45,25,290.0,7250.0,2026-04-23,187707432,2789,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:52:52.679977,Joshi Hydropower Development Company Ltd
-2026042304005345,JOSHI,58,45,30,290.0,8700.0,2026-04-23,187707434,2789,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:52:52.680180,Joshi Hydropower Development Company Ltd
-2026042304005346,JOSHI,36,45,50,290.0,14500.0,2026-04-23,187707435,2789,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:52:52.680263,Joshi Hydropower Development Company Ltd
-2026042304005542,JOSHI,36,48,20,291.0,5820.0,2026-04-23,187710038,2789,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-23 12:56:36.312392,Joshi Hydropower Development Company Ltd
-2026042304005830,JOSHI,50,41,140,291.4,40796.0,2026-04-23,187714999,2789,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 13:02:54.694222,Joshi Hydropower Development Company Ltd
-2026042304005831,JOSHI,50,46,60,291.5,17490.0,2026-04-23,187715002,2789,Cristal Kanchanjanga Securites Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:02:54.694625,Joshi Hydropower Development Company Ltd
-2026042304005854,JOSHI,58,8,13,289.2,3759.6,2026-04-23,187715123,2789,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 13:03:01.438861,Joshi Hydropower Development Company Ltd
-2026042304005950,JOSHI,41,46,40,291.5,11660.0,2026-04-23,187715929,2789,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:04:05.621336,Joshi Hydropower Development Company Ltd
-2026042304005951,JOSHI,41,32,10,292.0,2920.0,2026-04-23,187715931,2789,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-23 13:04:05.621588,Joshi Hydropower Development Company Ltd
-2026042304005952,JOSHI,41,38,50,292.0,14600.0,2026-04-23,187715933,2789,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:04:05.621673,Joshi Hydropower Development Company Ltd
-2026042304005953,JOSHI,41,58,33,292.0,9636.0,2026-04-23,187715935,2789,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:04:05.621754,Joshi Hydropower Development Company Ltd
-2026042304005954,JOSHI,41,32,27,292.9,7908.3,2026-04-23,187715938,2789,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-23 13:04:05.621835,Joshi Hydropower Development Company Ltd
-2026042304007151,JOSHI,58,54,10,289.5,2895.0,2026-04-23,187732172,2789,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:16.006438,Joshi Hydropower Development Company Ltd
-2026042304007200,JOSHI,58,54,10,289.4,2894.0,2026-04-23,187732716,2789,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.208726,Joshi Hydropower Development Company Ltd
-2026042304007201,JOSHI,58,54,10,289.3,2893.0,2026-04-23,187732718,2789,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.208928,Joshi Hydropower Development Company Ltd
-2026042304007202,JOSHI,58,54,37,289.2,10700.4,2026-04-23,187732720,2789,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.209027,Joshi Hydropower Development Company Ltd
-2026042304007203,JOSHI,58,54,23,289.1,6649.3,2026-04-23,187732721,2789,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.209121,Joshi Hydropower Development Company Ltd
-2026042304007412,JOSHI,50,85,200,292.0,58400.0,2026-04-23,187734970,2789,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 13:32:54.593365,Joshi Hydropower Development Company Ltd
-2026042304007460,JOSHI,62,49,33,291.0,9603.0,2026-04-23,187735848,2789,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,2026-04-23 13:34:22.474514,Joshi Hydropower Development Company Ltd
-2026042304007479,JOSHI,62,57,200,291.9,58380.0,2026-04-23,187736028,2789,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-23 13:34:41.140409,Joshi Hydropower Development Company Ltd
-2026042304007750,JOSHI,63,6,57,291.0,16587.0,2026-04-23,187739388,2789,Himalayan Brokerage Company Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 13:40:55.020252,Joshi Hydropower Development Company Ltd
-2026042304007875,JOSHI,58,6,110,291.0,32010.0,2026-04-23,187741418,2789,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:45:28.319356,Joshi Hydropower Development Company Ltd
-2026042304008409,JOSHI,42,11,100,290.0,29000.0,2026-04-23,187749505,2789,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:03:18.777120,Joshi Hydropower Development Company Ltd
-2026042304008932,JOSHI,58,14,33,289.1,9540.3,2026-04-23,187755495,2789,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:14:29.621778,Joshi Hydropower Development Company Ltd
-2026042304009009,JOSHI,58,47,14,289.1,4047.4,2026-04-23,187756252,2789,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 14:15:54.031806,Joshi Hydropower Development Company Ltd
-2026042304009010,JOSHI,36,47,16,289.0,4624.0,2026-04-23,187756253,2789,Secured Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 14:15:54.032040,Joshi Hydropower Development Company Ltd
-2026042304009320,JOSHI,36,49,23,289.0,6647.0,2026-04-23,187759603,2789,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:21:21.326180,Joshi Hydropower Development Company Ltd
-2026042304009927,JOSHI,36,44,10,289.0,2890.0,2026-04-23,187767305,2789,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:33:42.504105,Joshi Hydropower Development Company Ltd
-2026042304010326,JOSHI,52,47,100,288.2,28820.0,2026-04-23,187772318,2789,Sundhara Securities Limited,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915427,Joshi Hydropower Development Company Ltd
-2026042304010327,JOSHI,42,47,542,288.1,156150.2,2026-04-23,187772320,2789,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915567,Joshi Hydropower Development Company Ltd
-2026042304010328,JOSHI,34,47,100,287.8,28780.0,2026-04-23,187772322,2789,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915636,Joshi Hydropower Development Company Ltd
-2026042304010329,JOSHI,57,47,252,287.7,72500.4,2026-04-23,187772323,2789,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915703,Joshi Hydropower Development Company Ltd
-2026042304010344,JOSHI,26,48,132,289.9,38266.8,2026-04-23,187772542,2789,Asian Securities Private Ltd.,Trishakti Securities Public Limited,2026-04-23 14:40:46.632759,Joshi Hydropower Development Company Ltd
-2026042304010757,JOSHI,26,22,475,287.2,136420.0,2026-04-23,187776730,2789,Asian Securities Private Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:45:32.596097,Joshi Hydropower Development Company Ltd
-2026042304010758,JOSHI,58,22,170,287.2,48824.0,2026-04-23,187776732,2789,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:45:32.596327,Joshi Hydropower Development Company Ltd
-2026042304010759,JOSHI,45,22,355,287.0,101885.0,2026-04-23,187776733,2789,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:45:32.596412,Joshi Hydropower Development Company Ltd
-2026042304011053,JOSHI,50,1,100,288.0,28800.0,2026-04-23,187779430,2789,Cristal Kanchanjanga Securites Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 14:48:01.091006,Joshi Hydropower Development Company Ltd
-2026042304011589,JOSHI,26,1,160,288.0,46080.0,2026-04-23,187783274,2789,Asian Securities Private Ltd.,Kumari Securities Private Limited,2026-04-23 14:50:29.585051,Joshi Hydropower Development Company Ltd
-2026042304011648,JOSHI,45,17,145,287.0,41615.0,2026-04-23,187783892,2789,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.935654,Joshi Hydropower Development Company Ltd
-2026042304011649,JOSHI,36,17,50,287.0,14350.0,2026-04-23,187783894,2789,Secured Securities Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.935846,Joshi Hydropower Development Company Ltd
-2026042304011650,JOSHI,25,17,30,287.0,8610.0,2026-04-23,187783896,2789,Sweta Securities Private Limited,ABC Securities Private Limited,2026-04-23 14:50:58.935931,Joshi Hydropower Development Company Ltd
-2026042304011651,JOSHI,34,17,10,287.0,2870.0,2026-04-23,187783898,2789,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-23 14:50:58.936012,Joshi Hydropower Development Company Ltd
-2026042304011652,JOSHI,43,17,20,286.0,5720.0,2026-04-23,187783900,2789,South Asian Bulls Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.936096,Joshi Hydropower Development Company Ltd
-2026042304011653,JOSHI,57,17,200,285.5,57100.0,2026-04-23,187783902,2789,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:50:58.936177,Joshi Hydropower Development Company Ltd
-2026042304011654,JOSHI,4,17,420,285.4,119868.0,2026-04-23,187783904,2789,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.936259,Joshi Hydropower Development Company Ltd
-2026042304011655,JOSHI,4,17,50,285.3,14265.0,2026-04-23,187783906,2789,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.936349,Joshi Hydropower Development Company Ltd
-2026042304011656,JOSHI,57,17,373,285.3,106416.9,2026-04-23,187783907,2789,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:50:58.936437,Joshi Hydropower Development Company Ltd
-2026042304011692,JOSHI,57,17,25,285.3,7132.5,2026-04-23,187784174,2789,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:51:11.954624,Joshi Hydropower Development Company Ltd
-2026042304011693,JOSHI,45,17,95,285.2,27094.0,2026-04-23,187784176,2789,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.954982,Joshi Hydropower Development Company Ltd
-2026042304011694,JOSHI,56,17,100,285.2,28520.0,2026-04-23,187784178,2789,Sri Hari Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.955251,Joshi Hydropower Development Company Ltd
-2026042304011695,JOSHI,4,17,910,285.1,259441.0,2026-04-23,187784180,2789,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.955507,Joshi Hydropower Development Company Ltd
-2026042304011696,JOSHI,75,17,100,285.1,28510.0,2026-04-23,187784182,2789,N.I.M.B. Stock Markets Limited,ABC Securities Private Limited,2026-04-23 14:51:11.955737,Joshi Hydropower Development Company Ltd
-2026042304011697,JOSHI,57,17,100,285.1,28510.0,2026-04-23,187784184,2789,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:51:11.955970,Joshi Hydropower Development Company Ltd
-2026042304011698,JOSHI,49,17,48,285.0,13680.0,2026-04-23,187784186,2789,Online Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.956207,Joshi Hydropower Development Company Ltd
-2026042304011699,JOSHI,54,17,20,285.0,5700.0,2026-04-23,187784188,2789,Sewa Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.956452,Joshi Hydropower Development Company Ltd
-2026042304011700,JOSHI,58,17,220,285.0,62700.0,2026-04-23,187784190,2789,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.956703,Joshi Hydropower Development Company Ltd
-2026042304011701,JOSHI,19,17,269,285.0,76665.0,2026-04-23,187784192,2789,Nepal Investment And Securities Trading Private Limited,ABC Securities Private Limited,2026-04-23 14:51:11.956933,Joshi Hydropower Development Company Ltd
-2026042304011702,JOSHI,35,17,113,285.0,32205.0,2026-04-23,187784193,2789,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.957162,Joshi Hydropower Development Company Ltd
-2026042304012187,JOSHI,19,58,40,285.5,11420.0,2026-04-23,187788993,2789,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-23 14:54:28.682303,Joshi Hydropower Development Company Ltd
-2026042304012329,JOSHI,34,1,100,288.0,28800.0,2026-04-23,187790776,2789,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,2026-04-23 14:55:44.093440,Joshi Hydropower Development Company Ltd
-2026042304012984,JOSHI,4,1,125,288.0,36000.0,2026-04-23,187796616,2789,Opal Securities Investment (PVT) Ltd.,Kumari Securities Private Limited,2026-04-23 14:58:30.248517,Joshi Hydropower Development Company Ltd
-2026042304013396,JOSHI,33,85,100,288.0,28800.0,2026-04-23,187800230,2789,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.495192,Joshi Hydropower Development Company Ltd
-2026042304013397,JOSHI,58,85,25,286.0,7150.0,2026-04-23,187800232,2789,Naasa Securities Co. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.495517,Joshi Hydropower Development Company Ltd
-2026042304013398,JOSHI,52,85,200,285.8,57160.0,2026-04-23,187800234,2789,Sundhara Securities Limited,Capital Hub P. Ltd,2026-04-23 14:59:33.495778,Joshi Hydropower Development Company Ltd
-2026042304013399,JOSHI,34,85,100,285.7,28570.0,2026-04-23,187800236,2789,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,2026-04-23 14:59:33.496025,Joshi Hydropower Development Company Ltd
-2026042304013400,JOSHI,34,85,300,285.6,85680.0,2026-04-23,187800238,2789,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,2026-04-23 14:59:33.496284,Joshi Hydropower Development Company Ltd
-2026042304013401,JOSHI,19,85,160,285.5,45680.0,2026-04-23,187800240,2789,Nepal Investment And Securities Trading Private Limited,Capital Hub P. Ltd,2026-04-23 14:59:33.496545,Joshi Hydropower Development Company Ltd
-2026042304013402,JOSHI,47,85,100,285.1,28510.0,2026-04-23,187800242,2789,Neev Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.496814,Joshi Hydropower Development Company Ltd
-2026042304013403,JOSHI,43,85,50,285.1,14255.0,2026-04-23,187800244,2789,South Asian Bulls Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.497072,Joshi Hydropower Development Company Ltd
-2026042304013404,JOSHI,35,85,63,285.0,17955.0,2026-04-23,187800246,2789,Kohinoor Investment & Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.497337,Joshi Hydropower Development Company Ltd
-2026042304013405,JOSHI,21,85,100,285.0,28500.0,2026-04-23,187800248,2789,Midas Stock Broking Company Private Limited,Capital Hub P. Ltd,2026-04-23 14:59:33.497577,Joshi Hydropower Development Company Ltd
-2026042304013406,JOSHI,54,85,105,285.0,29925.0,2026-04-23,187800250,2789,Sewa Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.497806,Joshi Hydropower Development Company Ltd
-2026042304013407,JOSHI,42,85,1000,285.0,285000.0,2026-04-23,187800252,2789,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498037,Joshi Hydropower Development Company Ltd
-2026042304013408,JOSHI,6,85,1000,285.0,285000.0,2026-04-23,187800254,2789,Agrawal Securities (PVT) Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498280,Joshi Hydropower Development Company Ltd
-2026042304013409,JOSHI,49,85,80,285.0,22800.0,2026-04-23,187800256,2789,Online Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498538,Joshi Hydropower Development Company Ltd
-2026042304013410,JOSHI,42,85,100,285.0,28500.0,2026-04-23,187800258,2789,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498772,Joshi Hydropower Development Company Ltd
-2026042304013411,JOSHI,45,85,50,285.0,14250.0,2026-04-23,187800260,2789,Imperial Securities Company Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499012,Joshi Hydropower Development Company Ltd
-2026042304013412,JOSHI,51,85,20,285.0,5700.0,2026-04-23,187800262,2789,Oxford Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499242,Joshi Hydropower Development Company Ltd
-2026042304013413,JOSHI,33,85,100,285.0,28500.0,2026-04-23,187800264,2789,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499476,Joshi Hydropower Development Company Ltd
-2026042304013414,JOSHI,42,85,10,285.0,2850.0,2026-04-23,187800266,2789,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499716,Joshi Hydropower Development Company Ltd
-2026042304013415,JOSHI,45,85,200,285.0,57000.0,2026-04-23,187800268,2789,Imperial Securities Company Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499951,Joshi Hydropower Development Company Ltd
-2026042304013486,JOSHI,56,85,100,285.0,28500.0,2026-04-23,187800736,2789,Sri Hari Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:40.648376,Joshi Hydropower Development Company Ltd
-2026042304013523,JOSHI,56,85,500,285.0,142500.0,2026-04-23,187801218,2789,Sri Hari Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:46.684486,Joshi Hydropower Development Company Ltd
-2026042304013599,JOSHI,4,85,10,285.0,2850.0,2026-04-23,187802114,2789,Opal Securities Investment (PVT) Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:57.039013,Joshi Hydropower Development Company Ltd
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026042304000018,JOSHI,49,38,10,307.8,3078.0,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 10:46:00.108885
+2026042304000173,JOSHI,46,34,10,298.6,2986.0,Kalika Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:05:19.870664
+2026042304000327,JOSHI,17,28,10,289.7,2897.0,ABC Securities Private Limited,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514663
+2026042304000328,JOSHI,47,28,50,289.7,14485.0,Neev Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514737
+2026042304000329,JOSHI,22,28,50,289.7,14485.0,Siprabi Securities Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514756
+2026042304000330,JOSHI,42,28,90,289.7,26073.0,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:07:17.514775
+2026042304000495,JOSHI,28,36,195,290.0,56550.0,Shree Krishna Securities Ltd.,Secured Securities Ltd.,2026-04-23 11:10:06.510203
+2026042304000584,JOSHI,48,34,500,292.0,146000.0,Trishakti Securities Public Limited,Vision Securities Pvt. Ltd,2026-04-23 11:11:23.894639
+2026042304000726,JOSHI,42,17,50,292.0,14600.0,Sani Securities Company Ltd.,ABC Securities Private Limited,2026-04-23 11:14:58.784779
+2026042304000727,JOSHI,42,32,50,292.0,14600.0,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 11:14:58.784930
+2026042304001261,JOSHI,28,32,100,292.0,29200.0,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,2026-04-23 11:24:23.838191
+2026042304001266,JOSHI,42,32,500,292.0,146000.0,Sani Securities Company Ltd.,Premier Securities Company Ltd.,2026-04-23 11:24:29.845389
+2026042304001320,JOSHI,49,58,20,291.2,5824.0,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:25:34.069797
+2026042304001339,JOSHI,28,34,500,291.0,145500.0,Shree Krishna Securities Ltd.,Vision Securities Pvt. Ltd,2026-04-23 11:26:13.450204
+2026042304001348,JOSHI,28,58,305,290.0,88450.0,Shree Krishna Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:26:20.600539
+2026042304001563,JOSHI,14,58,17,290.0,4930.0,Nepal Stock House (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:53.193645
+2026042304001585,JOSHI,14,48,133,290.0,38570.0,Nepal Stock House (PVT) Ltd.,Trishakti Securities Public Limited,2026-04-23 11:30:24.727124
+2026042304001586,JOSHI,53,48,215,290.0,62350.0,Investment Management Nepal Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 11:30:24.727296
+2026042304002135,JOSHI,49,58,50,289.7,14485.0,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:42:55.006255
+2026042304002136,JOSHI,49,58,50,289.0,14450.0,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:42:55.006597
+2026042304002326,JOSHI,49,42,150,289.0,43350.0,Online Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:45:18.546426
+2026042304002327,JOSHI,51,42,20,289.0,5780.0,Oxford Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:45:18.546584
+2026042304002361,JOSHI,41,59,70,285.1,19957.0,Linch Stock Market Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:46:02.063426
+2026042304002383,JOSHI,91,59,910,285.1,259441.0,Citizens Share Broker Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 11:46:31.412187
+2026042304002512,JOSHI,91,42,70,290.0,20300.0,Citizens Share Broker Limited,Sani Securities Company Ltd.,2026-04-23 11:48:43.084581
+2026042304002903,JOSHI,26,51,40,290.0,11600.0,Asian Securities Private Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:45.678700
+2026042304002904,JOSHI,8,51,55,290.0,15950.0,Brilliant Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:55:45.679098
+2026042304002942,JOSHI,58,51,20,290.0,5800.0,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:56:21.516107
+2026042304003122,JOSHI,42,58,100,285.5,28550.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:58:51.440034
+2026042304003123,JOSHI,36,58,100,285.3,28530.0,Secured Securities Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:58:51.440102
+2026042304003124,JOSHI,26,58,25,285.3,7132.5,Asian Securities Private Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:58:51.440129
+2026042304003240,JOSHI,14,43,10,291.9,2919.0,Nepal Stock House (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 12:00:49.960218
+2026042304003286,JOSHI,62,8,50,291.0,14550.0,Capital Max Securities Ltd,Brilliant Securities Pvt. Ltd.,2026-04-23 12:02:00.553381
+2026042304003302,JOSHI,62,36,100,290.8,29080.0,Capital Max Securities Ltd,Secured Securities Ltd.,2026-04-23 12:02:40.311828
+2026042304003537,JOSHI,62,45,55,285.7,15713.5,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:06:56.532970
+2026042304003538,JOSHI,42,45,100,285.7,28570.0,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:06:56.533292
+2026042304003558,JOSHI,42,45,288,285.7,82281.6,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:07:24.490572
+2026042304003732,JOSHI,39,34,50,291.7,14585.0,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:11:44.925637
+2026042304004365,JOSHI,38,43,35,291.6,10206.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 12:26:52.305416
+2026042304004366,JOSHI,38,34,265,291.7,77300.5,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:26:52.305790
+2026042304004773,JOSHI,77,41,10,291.4,2914.0,Nabil Stock Dealer Ltd.,Linch Stock Market Ltd.,2026-04-23 12:37:55.631485
+2026042304004852,JOSHI,16,33,300,291.0,87300.0,Primo Securities (PVT) Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 12:39:23.598547
+2026042304004975,JOSHI,51,48,17,291.0,4947.0,Oxford Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:41:50.943939
+2026042304005241,JOSHI,39,48,150,291.0,43650.0,Sumeru Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:49:59.645893
+2026042304005280,JOSHI,58,48,263,291.0,76533.0,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:51:20.907384
+2026042304005331,JOSHI,50,48,200,291.0,58200.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 12:52:30.470578
+2026042304005344,JOSHI,32,45,25,290.0,7250.0,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:52:52.679977
+2026042304005345,JOSHI,58,45,30,290.0,8700.0,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:52:52.680180
+2026042304005346,JOSHI,36,45,50,290.0,14500.0,Secured Securities Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:52:52.680263
+2026042304005542,JOSHI,36,48,20,291.0,5820.0,Secured Securities Ltd.,Trishakti Securities Public Limited,2026-04-23 12:56:36.312392
+2026042304005830,JOSHI,50,41,140,291.4,40796.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 13:02:54.694222
+2026042304005831,JOSHI,50,46,60,291.5,17490.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:02:54.694625
+2026042304005854,JOSHI,58,8,13,289.2,3759.6,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 13:03:01.438861
+2026042304005950,JOSHI,41,46,40,291.5,11660.0,Linch Stock Market Ltd.,Kalika Securities Pvt. Ltd.,2026-04-23 13:04:05.621336
+2026042304005951,JOSHI,41,32,10,292.0,2920.0,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-23 13:04:05.621588
+2026042304005952,JOSHI,41,38,50,292.0,14600.0,Linch Stock Market Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 13:04:05.621673
+2026042304005953,JOSHI,41,58,33,292.0,9636.0,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:04:05.621754
+2026042304005954,JOSHI,41,32,27,292.9,7908.3,Linch Stock Market Ltd.,Premier Securities Company Ltd.,2026-04-23 13:04:05.621835
+2026042304007151,JOSHI,58,54,10,289.5,2895.0,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:16.006438
+2026042304007200,JOSHI,58,54,10,289.4,2894.0,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.208726
+2026042304007201,JOSHI,58,54,10,289.3,2893.0,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.208928
+2026042304007202,JOSHI,58,54,37,289.2,10700.4,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.209027
+2026042304007203,JOSHI,58,54,23,289.1,6649.3,Naasa Securities Co. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-23 13:29:59.209121
+2026042304007412,JOSHI,50,85,200,292.0,58400.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 13:32:54.593365
+2026042304007460,JOSHI,62,49,33,291.0,9603.0,Capital Max Securities Ltd,Online Securities Pvt. Ltd.,2026-04-23 13:34:22.474514
+2026042304007479,JOSHI,62,57,200,291.9,58380.0,Capital Max Securities Ltd,Aryatara Investment & Securities,2026-04-23 13:34:41.140409
+2026042304007750,JOSHI,63,6,57,291.0,16587.0,Himalayan Brokerage Company Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 13:40:55.020252
+2026042304007875,JOSHI,58,6,110,291.0,32010.0,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:45:28.319356
+2026042304008409,JOSHI,42,11,100,290.0,29000.0,Sani Securities Company Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 14:03:18.777120
+2026042304008932,JOSHI,58,14,33,289.1,9540.3,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 14:14:29.621778
+2026042304009009,JOSHI,58,47,14,289.1,4047.4,Naasa Securities Co. Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 14:15:54.031806
+2026042304009010,JOSHI,36,47,16,289.0,4624.0,Secured Securities Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 14:15:54.032040
+2026042304009320,JOSHI,36,49,23,289.0,6647.0,Secured Securities Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:21:21.326180
+2026042304009927,JOSHI,36,44,10,289.0,2890.0,Secured Securities Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:33:42.504105
+2026042304010326,JOSHI,52,47,100,288.2,28820.0,Sundhara Securities Limited,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915427
+2026042304010327,JOSHI,42,47,542,288.1,156150.2,Sani Securities Company Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915567
+2026042304010328,JOSHI,34,47,100,287.8,28780.0,Vision Securities Pvt. Ltd,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915636
+2026042304010329,JOSHI,57,47,252,287.7,72500.4,Aryatara Investment & Securities,Neev Securities Pvt. Ltd.,2026-04-23 14:40:30.915703
+2026042304010344,JOSHI,26,48,132,289.9,38266.8,Asian Securities Private Ltd.,Trishakti Securities Public Limited,2026-04-23 14:40:46.632759
+2026042304010757,JOSHI,26,22,475,287.2,136420.0,Asian Securities Private Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:45:32.596097
+2026042304010758,JOSHI,58,22,170,287.2,48824.0,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:45:32.596327
+2026042304010759,JOSHI,45,22,355,287.0,101885.0,Imperial Securities Company Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 14:45:32.596412
+2026042304011053,JOSHI,50,1,100,288.0,28800.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 14:48:01.091006
+2026042304011589,JOSHI,26,1,160,288.0,46080.0,Asian Securities Private Ltd.,Kumari Securities Private Limited,2026-04-23 14:50:29.585051
+2026042304011648,JOSHI,45,17,145,287.0,41615.0,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.935654
+2026042304011649,JOSHI,36,17,50,287.0,14350.0,Secured Securities Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.935846
+2026042304011650,JOSHI,25,17,30,287.0,8610.0,Sweta Securities Private Limited,ABC Securities Private Limited,2026-04-23 14:50:58.935931
+2026042304011651,JOSHI,34,17,10,287.0,2870.0,Vision Securities Pvt. Ltd,ABC Securities Private Limited,2026-04-23 14:50:58.936012
+2026042304011652,JOSHI,43,17,20,286.0,5720.0,South Asian Bulls Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.936096
+2026042304011653,JOSHI,57,17,200,285.5,57100.0,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:50:58.936177
+2026042304011654,JOSHI,4,17,420,285.4,119868.0,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.936259
+2026042304011655,JOSHI,4,17,50,285.3,14265.0,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 14:50:58.936349
+2026042304011656,JOSHI,57,17,373,285.3,106416.9,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:50:58.936437
+2026042304011692,JOSHI,57,17,25,285.3,7132.5,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:51:11.954624
+2026042304011693,JOSHI,45,17,95,285.2,27094.0,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.954982
+2026042304011694,JOSHI,56,17,100,285.2,28520.0,Sri Hari Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.955251
+2026042304011695,JOSHI,4,17,910,285.1,259441.0,Opal Securities Investment (PVT) Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.955507
+2026042304011696,JOSHI,75,17,100,285.1,28510.0,N.I.M.B. Stock Markets Limited,ABC Securities Private Limited,2026-04-23 14:51:11.955737
+2026042304011697,JOSHI,57,17,100,285.1,28510.0,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 14:51:11.955970
+2026042304011698,JOSHI,49,17,48,285.0,13680.0,Online Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.956207
+2026042304011699,JOSHI,54,17,20,285.0,5700.0,Sewa Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.956452
+2026042304011700,JOSHI,58,17,220,285.0,62700.0,Naasa Securities Co. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.956703
+2026042304011701,JOSHI,19,17,269,285.0,76665.0,Nepal Investment And Securities Trading Private Limited,ABC Securities Private Limited,2026-04-23 14:51:11.956933
+2026042304011702,JOSHI,35,17,113,285.0,32205.0,Kohinoor Investment & Securities Pvt. Ltd.,ABC Securities Private Limited,2026-04-23 14:51:11.957162
+2026042304012187,JOSHI,19,58,40,285.5,11420.0,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,2026-04-23 14:54:28.682303
+2026042304012329,JOSHI,34,1,100,288.0,28800.0,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,2026-04-23 14:55:44.093440
+2026042304012984,JOSHI,4,1,125,288.0,36000.0,Opal Securities Investment (PVT) Ltd.,Kumari Securities Private Limited,2026-04-23 14:58:30.248517
+2026042304013396,JOSHI,33,85,100,288.0,28800.0,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.495192
+2026042304013397,JOSHI,58,85,25,286.0,7150.0,Naasa Securities Co. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.495517
+2026042304013398,JOSHI,52,85,200,285.8,57160.0,Sundhara Securities Limited,Capital Hub P. Ltd,2026-04-23 14:59:33.495778
+2026042304013399,JOSHI,34,85,100,285.7,28570.0,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,2026-04-23 14:59:33.496025
+2026042304013400,JOSHI,34,85,300,285.6,85680.0,Vision Securities Pvt. Ltd,Capital Hub P. Ltd,2026-04-23 14:59:33.496284
+2026042304013401,JOSHI,19,85,160,285.5,45680.0,Nepal Investment And Securities Trading Private Limited,Capital Hub P. Ltd,2026-04-23 14:59:33.496545
+2026042304013402,JOSHI,47,85,100,285.1,28510.0,Neev Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.496814
+2026042304013403,JOSHI,43,85,50,285.1,14255.0,South Asian Bulls Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.497072
+2026042304013404,JOSHI,35,85,63,285.0,17955.0,Kohinoor Investment & Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.497337
+2026042304013405,JOSHI,21,85,100,285.0,28500.0,Midas Stock Broking Company Private Limited,Capital Hub P. Ltd,2026-04-23 14:59:33.497577
+2026042304013406,JOSHI,54,85,105,285.0,29925.0,Sewa Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.497806
+2026042304013407,JOSHI,42,85,1000,285.0,285000.0,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498037
+2026042304013408,JOSHI,6,85,1000,285.0,285000.0,Agrawal Securities (PVT) Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498280
+2026042304013409,JOSHI,49,85,80,285.0,22800.0,Online Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498538
+2026042304013410,JOSHI,42,85,100,285.0,28500.0,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.498772
+2026042304013411,JOSHI,45,85,50,285.0,14250.0,Imperial Securities Company Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499012
+2026042304013412,JOSHI,51,85,20,285.0,5700.0,Oxford Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499242
+2026042304013413,JOSHI,33,85,100,285.0,28500.0,Dakshinkali Investment & Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499476
+2026042304013414,JOSHI,42,85,10,285.0,2850.0,Sani Securities Company Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499716
+2026042304013415,JOSHI,45,85,200,285.0,57000.0,Imperial Securities Company Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:33.499951
+2026042304013486,JOSHI,56,85,100,285.0,28500.0,Sri Hari Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:40.648376
+2026042304013523,JOSHI,56,85,500,285.0,142500.0,Sri Hari Securities Pvt. Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:46.684486
+2026042304013599,JOSHI,4,85,10,285.0,2850.0,Opal Securities Investment (PVT) Ltd.,Capital Hub P. Ltd,2026-04-23 14:59:57.039013

@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NIMBPO,17,5,1702,152.0,258704.0,2026-04-28 14:53:26.287,2026042801105121
 NIMBPO,35,5,100,152.1,15210.0,2026-04-28 14:53:26.287,2026042801105120
 NIMBPO,46,5,20,152.1,3042.0,2026-04-28 14:53:26.287,2026042801105119

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108816,2025092104000020,BPCL,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,10,727.1,7271.0,2025-09-21 10:46:00.015554
 2025-09-21,108815,2025092104000021,BPCL,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,50,727.1,36355.0,2025-09-21 10:46:00.015582
 2025-09-21,108814,2025092104000022,BPCL,N.M.B. SECURITIES LIMITED,Shree Krishna Securities Ltd.,40,727.1,29084.0,2025-09-21 10:46:00.015601

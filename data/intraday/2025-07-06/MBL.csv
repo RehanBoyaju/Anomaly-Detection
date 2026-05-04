@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,86375,2025070601000186,MBL,Sumeru Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,200,226.0,45200.0,2025-07-06 11:04:10.612756
 2025-07-06,86374,2025070601000187,MBL,Sumeru Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,100,225.1,22510.0,2025-07-06 11:04:10.612795
 2025-07-06,86373,2025070601000188,MBL,Asian Securities Private Ltd.,Trisul Securities & Invt. Ltd.,31,225.0,6975.0,2025-07-06 11:04:10.612820

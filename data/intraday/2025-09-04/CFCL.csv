@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,67942,2025090403000088,CFCL,Primo Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,500.0,5000.0,2025-09-04T11:06:41.765686
 2025-09-04,62833,2025090403000564,CFCL,Shree Krishna Securities Ltd.,Trisul Securities & Invt. Ltd.,11,490.1,5391.1,2025-09-04T11:26:51.505136
 2025-09-04,61598,2025090403000708,CFCL,Shree Krishna Securities Ltd.,Primo Securities (PVT) Ltd.,79,490.1,38717.9,2025-09-04T11:31:53.835585

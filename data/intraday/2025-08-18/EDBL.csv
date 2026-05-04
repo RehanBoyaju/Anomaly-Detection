@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,64131,2025081803000418,EDBL,Vision Securities Pvt. Ltd,Agrawal Securities (PVT) Ltd.,10,620.0,6200.0,2025-08-18T11:20:44.830723
 2025-08-18,62654,2025081803000641,EDBL,Dakshinkali Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,80,620.0,49600.0,2025-08-18T11:26:26.780769
 2025-08-18,62372,2025081803000681,EDBL,Dakshinkali Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,100,620.0,62000.0,2025-08-18T11:27:40.209798

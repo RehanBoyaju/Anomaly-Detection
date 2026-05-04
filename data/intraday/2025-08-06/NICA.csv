@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,90572,2025080601000849,NICA,Beni Securities Pvt.Ltd.,Nepal Stock House (PVT) Ltd.,10,391.0,3910.0,2025-08-06 11:07:39.840202
 2025-08-06,90253,2025080601000940,NICA,Online Securities Pvt. Ltd.,Asian Securities Private Ltd.,100,390.8,39080.0,2025-08-06 11:08:36.452227
 2025-08-06,90233,2025080601000947,NICA,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,50,387.1,19355.0,2025-08-06 11:08:41.543278

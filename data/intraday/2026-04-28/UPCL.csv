@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 UPCL,85,34,10,378.5,3785.0,2026-04-28 14:59:59.864,2026042804015076
 UPCL,58,60,10,374.5,3745.0,2026-04-28 14:59:57.749,2026042804015029
 UPCL,58,59,200,379.0,75800.0,2026-04-28 14:59:38.179,2026042804014838

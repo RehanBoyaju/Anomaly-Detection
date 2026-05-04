@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,92110,2025083101004008,PRVU,J.F. Securites (PVT) Ltd.,Trishakti Securities Public Limited,9,210.0,1890.0,2025-08-31T11:07:48.03952
 2025-08-31,91329,2025083101004629,PRVU,Sani Securities Company Ltd.,Thrive Brokerage House Pvt. Ltd,1000,212.0,212000.0,2025-08-31T11:08:48.637524
 2025-08-31,90977,2025083101004879,PRVU,Sumeru Securities Pvt. Ltd.,ABC Securities Private Limited,20,213.0,4260.0,2025-08-31T11:09:28.334199

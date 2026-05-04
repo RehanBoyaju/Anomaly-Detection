@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,170202,2025072304000043,LEC,Primo Securities (PVT) Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,230.0,2300.0,2025-07-23 10:46:00.078287
 2025-07-23,170201,2025072304000044,LEC,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,290,230.0,66700.0,2025-07-23 10:46:00.078335
 2025-07-23,170200,2025072304000045,LEC,Sri Hari Securities Pvt. Ltd.,Asian Securities Private Ltd.,400,230.0,92000.0,2025-07-23 10:46:00.078364

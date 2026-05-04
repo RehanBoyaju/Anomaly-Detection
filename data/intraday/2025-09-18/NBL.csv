@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7234,2025091801000080,NBL,Imperial Securities Company Pvt. Ltd.,ABC Securities Private Limited,10,242.0,2420.0,2025-09-18 10:46:00.068021
 2025-09-18,7233,2025091801000081,NBL,Siprabi Securities Pvt. Ltd.,ABC Securities Private Limited,101,242.0,24442.0,2025-09-18 10:46:00.068058
 2025-09-18,7232,2025091801000082,NBL,Naasa Securities Co. Ltd.,ABC Securities Private Limited,166,242.0,40172.0,2025-09-18 10:46:00.068076

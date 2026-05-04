@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,58858,2025090103000928,LICN,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,70,865.0,60550.0,2025-09-01 11:33:04.056733
 2025-09-01,57888,2025090103001028,LICN,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,861.5,8615.0,2025-09-01 11:36:39.432239
 2025-09-01,56991,2025090103001154,LICN,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,11,862.0,9482.0,2025-09-01 11:39:57.517047

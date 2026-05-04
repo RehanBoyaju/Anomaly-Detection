@@ -1,53 +1,53 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026042103000339,EDBL,67,14,12,585.0,7020.0,2026-04-21,187205716,274,Property Wiard Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 11:27:31.470457,Excel Development Bank Ltd.
-2026042103000614,EDBL,49,14,10,585.0,5850.0,2026-04-21,187215928,274,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 11:42:24.414435,Excel Development Bank Ltd.
-2026042103000649,EDBL,49,14,35,585.0,20475.0,2026-04-21,187217286,274,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 11:43:47.260259,Excel Development Bank Ltd.
-2026042103001004,EDBL,17,14,43,585.0,25155.0,2026-04-21,187230171,274,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 11:59:48.401671,Excel Development Bank Ltd.
-2026042103001005,EDBL,17,5,12,585.0,7020.0,2026-04-21,187230173,274,ABC Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-21 11:59:48.401868,Excel Development Bank Ltd.
-2026042103001984,EDBL,52,33,50,585.2,29260.0,2026-04-21,187255782,274,Sundhara Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937175,Excel Development Bank Ltd.
-2026042103001985,EDBL,58,33,30,585.1,17553.0,2026-04-21,187255784,274,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937342,Excel Development Bank Ltd.
-2026042103001986,EDBL,36,33,20,585.1,11702.0,2026-04-21,187255786,274,Secured Securities Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937481,Excel Development Bank Ltd.
-2026042103001987,EDBL,17,33,100,585.0,58500.0,2026-04-21,187255787,274,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937596,Excel Development Bank Ltd.
-2026042103002299,EDBL,36,41,10,585.1,5851.0,2026-04-21,187263485,274,Secured Securities Ltd.,Linch Stock Market Ltd.,2026-04-21 13:00:36.848342,Excel Development Bank Ltd.
-2026042103002330,EDBL,59,58,30,588.9,17667.0,2026-04-21,187264199,274,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-21 13:02:17.898227,Excel Development Bank Ltd.
-2026042103002331,EDBL,59,42,20,589.9,11798.0,2026-04-21,187264202,274,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-21 13:02:17.898399,Excel Development Bank Ltd.
-2026042103002555,EDBL,44,62,100,585.2,58520.0,2026-04-21,187272993,274,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 13:12:27.548963,Excel Development Bank Ltd.
-2026042103003168,EDBL,6,49,1,576.0,576.0,2026-04-21,187288211,274,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-21 13:40:11.575690,Excel Development Bank Ltd.
-2026042103003196,EDBL,6,43,1,580.0,580.0,2026-04-21,187288781,274,Agrawal Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:41:04.561417,Excel Development Bank Ltd.
-2026042103003344,EDBL,8,43,500,585.6,292800.0,2026-04-21,187290748,274,Brilliant Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:36.345888,Excel Development Bank Ltd.
-2026042103003345,EDBL,47,43,250,585.3,146325.0,2026-04-21,187290749,274,Neev Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:36.345991,Excel Development Bank Ltd.
-2026042103003348,EDBL,47,43,127,585.3,74333.1,2026-04-21,187290822,274,Neev Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082195,Excel Development Bank Ltd.
-2026042103003349,EDBL,50,43,39,585.3,22826.7,2026-04-21,187290824,274,Cristal Kanchanjanga Securites Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082380,Excel Development Bank Ltd.
-2026042103003350,EDBL,44,43,200,585.2,117040.0,2026-04-21,187290826,274,Dynamic Money Managers Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082488,Excel Development Bank Ltd.
-2026042103003351,EDBL,36,43,16,585.1,9361.6,2026-04-21,187290828,274,Secured Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082610,Excel Development Bank Ltd.
-2026042103003352,EDBL,44,43,300,585.1,175530.0,2026-04-21,187290830,274,Dynamic Money Managers Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082730,Excel Development Bank Ltd.
-2026042103003353,EDBL,17,43,68,585.0,39780.0,2026-04-21,187290831,274,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082847,Excel Development Bank Ltd.
-2026042103003402,EDBL,17,45,80,585.0,46800.0,2026-04-21,187291787,274,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 13:46:43.254126,Excel Development Bank Ltd.
-2026042103003623,EDBL,6,60,3,582.0,1746.0,2026-04-21,187294695,274,Agrawal Securities (PVT) Ltd.,Nagarik Stock Dealer ,2026-04-21 13:52:02.582119,Excel Development Bank Ltd.
-2026042103004123,EDBL,48,41,50,585.2,29260.0,2026-04-21,187305703,274,Trishakti Securities Public Limited,Linch Stock Market Ltd.,2026-04-21 14:10:03.368427,Excel Development Bank Ltd.
-2026042103004130,EDBL,56,51,120,585.1,70212.0,2026-04-21,187305864,274,Sri Hari Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-21 14:10:23.454910,Excel Development Bank Ltd.
-2026042103004131,EDBL,44,51,51,585.1,29840.1,2026-04-21,187305865,274,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-21 14:10:23.455120,Excel Development Bank Ltd.
-2026042103004457,EDBL,44,42,149,585.1,87179.9,2026-04-21,187313484,274,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 14:20:42.546569,Excel Development Bank Ltd.
-2026042103004458,EDBL,6,42,15,585.1,8776.5,2026-04-21,187313486,274,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-21 14:20:42.546762,Excel Development Bank Ltd.
-2026042103004483,EDBL,17,38,1000,585.0,585000.0,2026-04-21,187314137,274,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:21:17.894018,Excel Development Bank Ltd.
-2026042103004487,EDBL,17,42,236,585.0,138060.0,2026-04-21,187314293,274,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-21 14:21:30.275221,Excel Development Bank Ltd.
-2026042103004606,EDBL,17,4,961,585.0,562185.0,2026-04-21,187316700,274,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-21 14:24:06.156215,Excel Development Bank Ltd.
-2026042103004607,EDBL,17,4,39,585.0,22815.0,2026-04-21,187316701,274,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-21 14:24:06.156328,Excel Development Bank Ltd.
-2026042103004662,EDBL,17,34,61,585.0,35685.0,2026-04-21,187317762,274,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.347795,Excel Development Bank Ltd.
-2026042103004663,EDBL,52,34,10,585.0,5850.0,2026-04-21,187317764,274,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.347995,Excel Development Bank Ltd.
-2026042103004664,EDBL,59,34,100,585.0,58500.0,2026-04-21,187317766,274,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.348135,Excel Development Bank Ltd.
-2026042103004665,EDBL,1,34,196,585.0,114660.0,2026-04-21,187317767,274,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.348255,Excel Development Bank Ltd.
-2026042103005306,EDBL,22,47,50,585.0,29250.0,2026-04-21,187333672,274,Siprabi Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 14:39:35.846759,Excel Development Bank Ltd.
-2026042103005750,EDBL,39,46,100,584.5,58450.0,2026-04-21,187342485,274,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:45:55.847068,Excel Development Bank Ltd.
-2026042103006032,EDBL,39,8,100,584.5,58450.0,2026-04-21,187345933,274,Sumeru Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-21 14:48:06.160686,Excel Development Bank Ltd.
-2026042103006178,EDBL,58,48,20,584.0,11680.0,2026-04-21,187349661,274,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-21 14:50:14.225315,Excel Development Bank Ltd.
-2026042103006336,EDBL,39,50,200,583.1,116620.0,2026-04-21,187353208,274,Sumeru Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 14:52:24.100341,Excel Development Bank Ltd.
-2026042103006353,EDBL,49,25,10,583.0,5830.0,2026-04-21,187353466,274,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-21 14:52:35.274613,Excel Development Bank Ltd.
-2026042103006434,EDBL,8,56,500,581.4,290700.0,2026-04-21,187354873,274,Brilliant Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-21 14:53:29.517691,Excel Development Bank Ltd.
-2026042103007051,EDBL,39,54,100,581.5,58150.0,2026-04-21,187366232,274,Sumeru Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 14:58:48.172354,Excel Development Bank Ltd.
-2026042103007068,EDBL,57,54,100,581.5,58150.0,2026-04-21,187366724,274,Aryatara Investment & Securities,Sewa Securities Pvt. Ltd.,2026-04-21 14:58:59.260377,Excel Development Bank Ltd.
-2026042103007088,EDBL,44,54,233,581.5,135489.5,2026-04-21,187367045,274,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 14:59:07.435692,Excel Development Bank Ltd.
-2026042103007161,EDBL,44,54,200,582.0,116400.0,2026-04-21,187368999,274,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 14:59:32.830580,Excel Development Bank Ltd.
-2026042103007162,EDBL,44,41,40,582.0,23280.0,2026-04-21,187369001,274,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-21 14:59:32.830769,Excel Development Bank Ltd.
-2026042103007163,EDBL,44,25,527,583.0,307241.0,2026-04-21,187369004,274,Dynamic Money Managers Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-21 14:59:32.830935,Excel Development Bank Ltd.
-2026042103007267,EDBL,44,25,463,583.0,269929.0,2026-04-21,187370815,274,Dynamic Money Managers Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-21 14:59:54.871984,Excel Development Bank Ltd.
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026042103000339,EDBL,67,14,12,585.0,7020.0,Property Wiard Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 11:27:31.470457
+2026042103000614,EDBL,49,14,10,585.0,5850.0,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 11:42:24.414435
+2026042103000649,EDBL,49,14,35,585.0,20475.0,Online Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-21 11:43:47.260259
+2026042103001004,EDBL,17,14,43,585.0,25155.0,ABC Securities Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-21 11:59:48.401671
+2026042103001005,EDBL,17,5,12,585.0,7020.0,ABC Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,2026-04-21 11:59:48.401868
+2026042103001984,EDBL,52,33,50,585.2,29260.0,Sundhara Securities Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937175
+2026042103001985,EDBL,58,33,30,585.1,17553.0,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937342
+2026042103001986,EDBL,36,33,20,585.1,11702.0,Secured Securities Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937481
+2026042103001987,EDBL,17,33,100,585.0,58500.0,ABC Securities Private Limited,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-21 12:47:14.937596
+2026042103002299,EDBL,36,41,10,585.1,5851.0,Secured Securities Ltd.,Linch Stock Market Ltd.,2026-04-21 13:00:36.848342
+2026042103002330,EDBL,59,58,30,588.9,17667.0,Deevyaa Securities & Stock House Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-21 13:02:17.898227
+2026042103002331,EDBL,59,42,20,589.9,11798.0,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-21 13:02:17.898399
+2026042103002555,EDBL,44,62,100,585.2,58520.0,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-21 13:12:27.548963
+2026042103003168,EDBL,6,49,1,576.0,576.0,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-21 13:40:11.575690
+2026042103003196,EDBL,6,43,1,580.0,580.0,Agrawal Securities (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:41:04.561417
+2026042103003344,EDBL,8,43,500,585.6,292800.0,Brilliant Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:36.345888
+2026042103003345,EDBL,47,43,250,585.3,146325.0,Neev Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:36.345991
+2026042103003348,EDBL,47,43,127,585.3,74333.1,Neev Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082195
+2026042103003349,EDBL,50,43,39,585.3,22826.7,Cristal Kanchanjanga Securites Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082380
+2026042103003350,EDBL,44,43,200,585.2,117040.0,Dynamic Money Managers Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082488
+2026042103003351,EDBL,36,43,16,585.1,9361.6,Secured Securities Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082610
+2026042103003352,EDBL,44,43,300,585.1,175530.0,Dynamic Money Managers Securities Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082730
+2026042103003353,EDBL,17,43,68,585.0,39780.0,ABC Securities Private Limited,South Asian Bulls Pvt. Ltd.,2026-04-21 13:44:45.082847
+2026042103003402,EDBL,17,45,80,585.0,46800.0,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-21 13:46:43.254126
+2026042103003623,EDBL,6,60,3,582.0,1746.0,Agrawal Securities (PVT) Ltd.,Nagarik Stock Dealer ,2026-04-21 13:52:02.582119
+2026042103004123,EDBL,48,41,50,585.2,29260.0,Trishakti Securities Public Limited,Linch Stock Market Ltd.,2026-04-21 14:10:03.368427
+2026042103004130,EDBL,56,51,120,585.1,70212.0,Sri Hari Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-21 14:10:23.454910
+2026042103004131,EDBL,44,51,51,585.1,29840.1,Dynamic Money Managers Securities Pvt. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-21 14:10:23.455120
+2026042103004457,EDBL,44,42,149,585.1,87179.9,Dynamic Money Managers Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-21 14:20:42.546569
+2026042103004458,EDBL,6,42,15,585.1,8776.5,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-21 14:20:42.546762
+2026042103004483,EDBL,17,38,1000,585.0,585000.0,ABC Securities Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-21 14:21:17.894018
+2026042103004487,EDBL,17,42,236,585.0,138060.0,ABC Securities Private Limited,Sani Securities Company Ltd.,2026-04-21 14:21:30.275221
+2026042103004606,EDBL,17,4,961,585.0,562185.0,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-21 14:24:06.156215
+2026042103004607,EDBL,17,4,39,585.0,22815.0,ABC Securities Private Limited,Opal Securities Investment (PVT) Ltd.,2026-04-21 14:24:06.156328
+2026042103004662,EDBL,17,34,61,585.0,35685.0,ABC Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.347795
+2026042103004663,EDBL,52,34,10,585.0,5850.0,Sundhara Securities Limited,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.347995
+2026042103004664,EDBL,59,34,100,585.0,58500.0,Deevyaa Securities & Stock House Pvt. Ltd,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.348135
+2026042103004665,EDBL,1,34,196,585.0,114660.0,Kumari Securities Private Limited,Vision Securities Pvt. Ltd,2026-04-21 14:25:03.348255
+2026042103005306,EDBL,22,47,50,585.0,29250.0,Siprabi Securities Pvt. Ltd.,Neev Securities Pvt. Ltd.,2026-04-21 14:39:35.846759
+2026042103005750,EDBL,39,46,100,584.5,58450.0,Sumeru Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,2026-04-21 14:45:55.847068
+2026042103006032,EDBL,39,8,100,584.5,58450.0,Sumeru Securities Pvt. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-21 14:48:06.160686
+2026042103006178,EDBL,58,48,20,584.0,11680.0,Naasa Securities Co. Ltd.,Trishakti Securities Public Limited,2026-04-21 14:50:14.225315
+2026042103006336,EDBL,39,50,200,583.1,116620.0,Sumeru Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-21 14:52:24.100341
+2026042103006353,EDBL,49,25,10,583.0,5830.0,Online Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-21 14:52:35.274613
+2026042103006434,EDBL,8,56,500,581.4,290700.0,Brilliant Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-21 14:53:29.517691
+2026042103007051,EDBL,39,54,100,581.5,58150.0,Sumeru Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 14:58:48.172354
+2026042103007068,EDBL,57,54,100,581.5,58150.0,Aryatara Investment & Securities,Sewa Securities Pvt. Ltd.,2026-04-21 14:58:59.260377
+2026042103007088,EDBL,44,54,233,581.5,135489.5,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 14:59:07.435692
+2026042103007161,EDBL,44,54,200,582.0,116400.0,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,2026-04-21 14:59:32.830580
+2026042103007162,EDBL,44,41,40,582.0,23280.0,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-21 14:59:32.830769
+2026042103007163,EDBL,44,25,527,583.0,307241.0,Dynamic Money Managers Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-21 14:59:32.830935
+2026042103007267,EDBL,44,25,463,583.0,269929.0,Dynamic Money Managers Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-21 14:59:54.871984

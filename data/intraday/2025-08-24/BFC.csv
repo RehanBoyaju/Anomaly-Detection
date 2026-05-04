@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57205,2025082403000084,BFC,Sani Securities Company Ltd.,Sani Securities Company Ltd.,60,495.0,29700.0,2025-08-24 11:06:17.696862
 2025-08-24,56185,2025082403000213,BFC,Opal Securities Investment (PVT) Ltd.,Himalayan Securities Limited,10,498.0,4980.0,2025-08-24 11:12:56.510651
 2025-08-24,55975,2025082403000239,BFC,Opal Securities Investment (PVT) Ltd.,Shree Krishna Securities Ltd.,490,498.0,244020.0,2025-08-24 11:13:38.705636

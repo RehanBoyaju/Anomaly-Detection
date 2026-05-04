@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57946,2025082401000012,EBL,Aryatara Investment & Securities,Linch Stock Market Ltd.,300,748.0,224400.0,2025-08-24 11:00:42.940108
 2025-08-24,57865,2025082401000032,EBL,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,100,748.0,74800.0,2025-08-24 11:01:42.013457
 2025-08-24,57805,2025082401000043,EBL,Nepal Investment And Securities Trading Private Limited,Sweta Securities Private Limited,10,750.0,7500.0,2025-08-24 11:02:24.908411

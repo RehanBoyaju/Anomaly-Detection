@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89775,2025090201000001,NABIL,Sri Hari Securities Pvt. Ltd.,Trishakti Securities Public Limited,10,538.2,5382.0,2025-09-02 10:46:00.002668
 2025-09-02,86967,2025090201002478,NABIL,Kumari Securities Private Limited,Kumari Securities Private Limited,1,530.1,530.1,2025-09-02 11:03:41.441878
 2025-09-02,86960,2025090201002484,NABIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Trishakti Securities Public Limited,20,529.0,10580.0,2025-09-02 11:03:41.808175

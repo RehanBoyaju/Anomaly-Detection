@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,177101,2025072201000001,NABIL,J.F. Securites (PVT) Ltd.,Sharepro Securities Private Limited,100,545.2,54520.0,2025-07-22 10:46:00.002610
 2025-07-22,176308,2025072201000103,NABIL,Secured Securities Ltd.,Global IME Securities Limited,20,550.0,11000.0,2025-07-22 11:02:13.669277
 2025-07-22,175821,2025072201000180,NABIL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Linch Stock Market Ltd.,120,550.0,66000.0,2025-07-22 11:03:12.321300

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,155874,2025072903000283,PFL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,20,450.0,9000.0,2025-07-29 11:03:54.261687
 2025-07-29,155873,2025072903000284,PFL,Naasa Securities Co. Ltd.,Global IME Securities Limited,40,451.5,18060.0,2025-07-29 11:03:54.261785
 2025-07-29,155872,2025072903000285,PFL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,50,452.0,22600.0,2025-07-29 11:03:54.261849

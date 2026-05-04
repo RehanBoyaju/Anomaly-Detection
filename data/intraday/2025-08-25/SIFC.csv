@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,54959,2025082503001189,SIFC,Naasa Securities Co. Ltd.,K.B.L. Securities Limited ,200,510.0,102000.0,2025-08-25 11:10:18.330919
 2025-08-25,52234,2025082503002136,SIFC,Nepal Stock House (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,30,508.5,15255.0,2025-08-25 11:23:38.444386
 2025-08-25,50283,2025082503002686,SIFC,Nepal Stock House (PVT) Ltd.,Secured Securities Ltd.,500,508.5,254250.0,2025-08-25 11:33:02.233883

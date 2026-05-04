@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,92693,2025080703000485,EDBL,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,10,636.2,6362.0,2025-08-07 11:10:24.778967
 2025-08-07,92045,2025080703000595,EDBL,Prabhu Stock Market Limited,Neev Securities Pvt. Ltd.,231,637.0,147147.0,2025-08-07 11:12:43.504402
 2025-08-07,88382,2025080703001305,EDBL,Vision Securities Pvt. Ltd,Capital Max Securities Ltd,10,638.1,6381.0,2025-08-07 11:22:52.738909

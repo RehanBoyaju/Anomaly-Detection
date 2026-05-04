@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,70840,2025071403000202,GUFL,J.F. Securites (PVT) Ltd.,ABC Securities Private Limited,10,569.59,5695.9,2025-07-14 11:05:36.526361
 2025-07-14,61303,2025071403001642,GUFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sri Hari Securities Pvt. Ltd.,20,561.1,11222.0,2025-07-14 11:35:24.805095
 2025-07-14,61054,2025071403001700,GUFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,ABC Securities Private Limited,155,561.1,86970.5,2025-07-14 11:36:10.148147

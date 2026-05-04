@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,70340,2025082703000280,SIFC,Asian Securities Private Ltd.,Ashutosh Brokerage & Securities (PVT) Ltd.,1,503.0,503.0,2025-08-27T11:15:23.39336
 2025-08-27,64645,2025082703001201,SIFC,Thrive Brokerage House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,18,515.8,9284.4,2025-08-27T11:38:54.832344
 2025-08-27,64214,2025082703001290,SIFC,Thrive Brokerage House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,18,515.8,9284.4,2025-08-27T11:40:41.272177

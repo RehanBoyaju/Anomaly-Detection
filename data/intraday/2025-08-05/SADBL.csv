@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,127566,2025080503000046,SADBL,Elite Stock House Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,475.9,4759.0,2025-08-05 11:02:16.352276
 2025-08-05,113930,2025080503000556,SADBL,Imperial Securities Company Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,100,467.0,46700.0,2025-08-05 11:14:24.137294
 2025-08-05,113929,2025080503000557,SADBL,Linch Stock Market Ltd.,Sumeru Securities Pvt. Ltd.,200,467.0,93400.0,2025-08-05 11:14:24.137501

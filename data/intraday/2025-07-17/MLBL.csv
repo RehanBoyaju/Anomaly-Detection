@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,141150,2025071703000069,MLBL,Online Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,175,417.3,73027.5,2025-07-17 11:01:12.236109
 2025-07-17,140994,2025071703000091,MLBL,Nagarik Stock Dealer ,Swarna Laxmi Securities Pvt. Ltd.,100,419.7,41970.0,2025-07-17 11:01:38.924584
 2025-07-17,140993,2025071703000092,MLBL,Nagarik Stock Dealer ,Primo Securities (PVT) Ltd.,500,419.8,209900.0,2025-07-17 11:01:38.924640

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-07,95095,2025080703000081,CORBL,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,10,2050.0,20500.0,2025-08-07 11:02:29.102234
 2025-08-07,94996,2025080703000106,CORBL,SHUBHAKAMANA SECURITIES PVT. LTD,Naasa Securities Co. Ltd.,83,2050.0,170150.0,2025-08-07 11:02:51.796536
 2025-08-07,94350,2025080703000212,CORBL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,7,2050.0,14350.0,2025-08-07 11:05:08.793979

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,158535,2025073104001805,CHL,Opal Securities Investment (PVT) Ltd.,Primo Securities (PVT) Ltd.,50,324.8,16240.0,2025-07-31 11:15:59.114862
 2025-07-31,155738,2025073104002319,CHL,Oxford Securities Pvt. Ltd.,Aryatara Investment & Securities,10,321.5,3215.0,2025-07-31 11:19:11.690173
 2025-07-31,146813,2025073104003735,CHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Arun Securities (PVT) Ltd.,85,321.2,27302.0,2025-07-31 11:30:19.667458

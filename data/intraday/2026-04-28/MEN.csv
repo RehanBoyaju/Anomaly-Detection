@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MEN,16,57,380,584.0,221920.0,2026-04-28 14:59:42.560,2026042804014875
 MEN,56,57,120,584.0,70080.0,2026-04-28 14:59:42.560,2026042804014874
 MEN,56,53,80,584.0,46720.0,2026-04-28 14:59:35.776,2026042804014804

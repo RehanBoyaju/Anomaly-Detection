@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,62824,2025070904000043,PMHPL,Kumari Securities Private Limited,S.P.S.A. Securities Limited,11,385.1,4236.1,2025-07-09 10:46:00.039005
 2025-07-09,61841,2025070904000570,PMHPL,Citizens Share Broker Limited,Blue Chip Securities Ltd,392,390.1,152919.2,2025-07-09 11:06:41.778819
 2025-07-09,61726,2025070904000638,PMHPL,Blue Chip Securities Ltd,Blue Chip Securities Ltd,10,397.0,3970.0,2025-07-09 11:07:17.873362

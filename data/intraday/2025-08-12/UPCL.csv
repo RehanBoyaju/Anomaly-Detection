@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,78188,2025081204000015,UPCL,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,10,408.0,4080.0,2025-08-12 10:46:00.044205
 2025-08-12,76981,2025081204000184,UPCL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,405.0,40500.0,2025-08-12 11:05:00.349531
 2025-08-12,76436,2025081204000326,UPCL,Capital Max Securities Ltd,Magnet Securities and Investment Company Private Limited,500,400.5,200250.0,2025-08-12 11:07:17.002640

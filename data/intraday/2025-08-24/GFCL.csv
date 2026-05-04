@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57335,2025082403000078,GFCL,Sani Securities Company Ltd.,Vision Securities Pvt. Ltd,10,625.0,6250.0,2025-08-24 11:05:18.090959
 2025-08-24,55214,2025082403000373,GFCL,SHUBHAKAMANA SECURITIES PVT. LTD,Nepal Stock House (PVT) Ltd.,200,637.0,127400.0,2025-08-24 11:17:03.856399
 2025-08-24,54749,2025082403000435,GFCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,36,643.8,23176.8,2025-08-24 11:19:08.737757

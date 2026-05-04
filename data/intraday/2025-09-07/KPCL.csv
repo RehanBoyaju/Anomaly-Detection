@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-07,57124,2025090704000293,KPCL,KALASH STOCK MARKET PVT. LTD.,Stoxkarts Securities Limited,10,569.8,5698.0,2025-09-07 11:07:01.334850
 2025-09-07,56654,2025090704000402,KPCL,Nepal Stock House (PVT) Ltd.,R.B.B. Securities Company Ltd,100,567.0,56700.0,2025-09-07 11:09:55.335637
 2025-09-07,56653,2025090704000403,KPCL,Nepal Stock House (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,100,567.0,56700.0,2025-09-07 11:09:55.335711

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61304,2025081904000212,HPPL,Linch Stock Market Ltd.,Sani Securities Company Ltd.,100,511.8,51180.0,2025-08-19 11:03:07.070640
 2025-08-19,61303,2025081904000213,HPPL,Linch Stock Market Ltd.,Trishakti Securities Public Limited,290,511.9,148451.0,2025-08-19 11:03:07.070702
 2025-08-19,61302,2025081904000214,HPPL,Linch Stock Market Ltd.,Vision Securities Pvt. Ltd,110,512.0,56320.0,2025-08-19 11:03:07.070731

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108579,2025092105000078,NRN,Kumari Securities Private Limited,Thrive Brokerage House Pvt. Ltd,100,1850.0,185000.0,2025-09-21 10:46:00.039634
 2025-09-21,108576,2025092105000079,NRN,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,10,1850.0,18500.0,2025-09-21 10:46:00.039673
 2025-09-21,108574,2025092105000080,NRN,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,10,1850.0,18500.0,2025-09-21 10:46:00.039701

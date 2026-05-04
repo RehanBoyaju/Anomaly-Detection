@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,166630,2025073103000480,GMFIL,Online Securities Pvt. Ltd.,Aryatara Investment & Securities,10,530.6,5306.0,2025-07-31 11:04:28.021368
 2025-07-31,160794,2025073103001722,GMFIL,INDEX SECURITIES LIMITED,Nepal Investment And Securities Trading Private Limited,500,520.0,260000.0,2025-07-31 11:13:00.915605
 2025-07-31,160288,2025073103001823,GMFIL,INDEX SECURITIES LIMITED,Investment Management Nepal Pvt. Ltd.,20,520.0,10400.0,2025-07-31 11:13:41.090167

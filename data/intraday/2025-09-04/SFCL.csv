@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68316,2025090403000066,SFCL,ABC Securities Private Limited,Online Securities Pvt. Ltd.,10,429.0,4290.0,2025-09-04T11:04:40.590851
 2025-09-04,67657,2025090403000105,SFCL,Investment Management Nepal Pvt. Ltd.,South Asian Bulls Pvt. Ltd.,390,429.0,167310.0,2025-09-04T11:07:31.78517
 2025-09-04,67656,2025090403000106,SFCL,Investment Management Nepal Pvt. Ltd.,Vision Securities Pvt. Ltd,100,429.5,42950.0,2025-09-04T11:07:31.785243

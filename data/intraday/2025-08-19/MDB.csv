@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61503,2025081903000038,MDB,Sundhara Securities Limited,Imperial Securities Company Pvt. Ltd.,30,633.0,18990.0,2025-08-19 11:01:27.011371
 2025-08-19,61442,2025081903000057,MDB,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,70,635.0,44450.0,2025-08-19 11:01:53.145961
 2025-08-19,58351,2025081903000330,MDB,Sumeru Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,98,631.9,61926.2,2025-08-19 11:19:42.678996

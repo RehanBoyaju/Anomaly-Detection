@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,146557,2025080304000649,SHL,Naasa Securities Co. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,100,580.0,58000.0,2025-08-03T11:09:25.309709
 2025-08-03,145526,2025080304000796,SHL,Sri Hari Securities Pvt. Ltd.,Capital Max Securities Ltd,200,574.1,114820.0,2025-08-03T11:10:50.025434
 2025-08-03,143885,2025080304001022,SHL,Sri Hari Securities Pvt. Ltd.,Capital Hub P. Ltd,100,572.3,57230.0,2025-08-03T11:12:37.641153

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138214,2025072104000270,MEN,Himalayan Brokerage Company Limited,Linch Stock Market Ltd.,13,650.0,8450.0,2025-07-21 11:01:23.135067
 2025-07-21,137042,2025072104000799,MEN,Cristal Kanchanjanga Securites Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,30,654.0,19620.0,2025-07-21 11:03:45.689689
 2025-07-21,137041,2025072104000800,MEN,Cristal Kanchanjanga Securites Pvt. Ltd.,Indira securities pvt. ltd,20,654.0,13080.0,2025-07-21 11:03:45.689842

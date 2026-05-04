@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156377,2025072904000178,DHPL,Nepal Investment And Securities Trading Private Limited,Shree Krishna Securities Ltd.,10,344.6,3446.0,2025-07-29 11:02:56.958403
 2025-07-29,156207,2025072904000207,DHPL,Vision Securities Pvt. Ltd,South Asian Bulls Pvt. Ltd.,10,344.6,3446.0,2025-07-29 11:03:15.533518
 2025-07-29,155582,2025072904000339,DHPL,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,500,350.0,175000.0,2025-07-29 11:04:23.731874

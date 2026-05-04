@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37562,2025092503000001,NABBC,Shree Krishna Securities Ltd.,Premier Securities Company Ltd.,20,805.0,16100.0,2025-09-25 10:46:00.006495
 2025-09-25,36981,2025092503000071,NABBC,Sani Securities Company Ltd.,ABC Securities Private Limited,20,804.0,16080.0,2025-09-25 11:05:20.709833
 2025-09-25,36980,2025092503000072,NABBC,Sipla Securities Private Limited,ABC Securities Private Limited,100,803.6,80360.0,2025-09-25 11:05:20.709929

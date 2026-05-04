@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108286,2025092104000193,SSHL,Nepal Investment And Securities Trading Private Limited,Sundhara Securities Limited,10,156.0,1560.0,2025-09-21 10:46:00.079800
 2025-09-21,108285,2025092104000194,SSHL,Naasa Securities Co. Ltd.,Sundhara Securities Limited,10,156.0,1560.0,2025-09-21 10:46:00.079832
 2025-09-21,108284,2025092104000195,SSHL,Ashutosh Brokerage & Securities (PVT) Ltd.,Sundhara Securities Limited,40,156.0,6240.0,2025-09-21 10:46:00.079853

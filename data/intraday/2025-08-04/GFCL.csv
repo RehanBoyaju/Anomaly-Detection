@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,142446,2025080403000347,GFCL,Dakshinkali Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,123,716.0,88068.0,2025-08-04 11:06:27.324533
 2025-08-04,142236,2025080403000362,GFCL,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,20,716.1,14322.0,2025-08-04 11:06:36.459252
 2025-08-04,141876,2025080403000392,GFCL,Dakshinkali Investment & Securities Pvt. Ltd.,Premier Securities Company Ltd.,70,716.5,50155.0,2025-08-04 11:06:54.973567

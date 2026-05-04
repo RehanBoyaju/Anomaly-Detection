@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-13,69236,2025081301000373,NMB,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,15,261.0,3915.0,2025-08-13 11:05:06.826258
 2025-08-13,69167,2025081301000408,NMB,Shree Krishna Securities Ltd.,Opal Securities Investment (PVT) Ltd.,51,259.1,13214.1,2025-08-13 11:05:32.717276
 2025-08-13,68724,2025081301000549,NMB,Sani Securities Company Ltd.,Sri Hari Securities Pvt. Ltd.,12,259.3,3111.6,2025-08-13 11:08:07.507877

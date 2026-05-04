@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 API,81,47,198,339.1,67141.8,2026-04-28 14:59:58.993,2026042804015050
 API,63,47,302,340.0,102680.0,2026-04-28 14:59:58.993,2026042804015049
 API,44,45,100,343.0,34300.0,2026-04-28 14:59:56.414,2026042804015005

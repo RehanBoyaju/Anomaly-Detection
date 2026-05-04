@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-26,44193,2025082601000164,MBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,500,248.9,124450.0,2025-08-26 11:09:53.194688
 2025-08-26,44192,2025082601000165,MBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Premier Securities Company Ltd.,650,249.0,161850.0,2025-08-26 11:09:53.194850
 2025-08-26,44191,2025082601000166,MBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Indira securities pvt. ltd,350,249.0,87150.0,2025-08-26 11:09:53.194981

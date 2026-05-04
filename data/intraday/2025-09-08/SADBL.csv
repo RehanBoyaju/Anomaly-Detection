@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,58872,2025090803000079,SADBL,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,282,420.0,118440.0,2025-09-08 11:07:58.374374
 2025-09-08,56896,2025090803000237,SADBL,Midas Stock Broking Company Private Limited,Secured Securities Ltd.,12,427.0,5124.0,2025-09-08 11:20:26.935490
 2025-09-08,55647,2025090803000356,SADBL,Dakshinkali Investment & Securities Pvt. Ltd.,Sajilo Broker Limited,50,420.2,21010.0,2025-09-08 11:25:46.750940

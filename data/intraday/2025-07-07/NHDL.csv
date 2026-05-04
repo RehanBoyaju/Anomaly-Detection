@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,68863,2025070704000576,NHDL,Swarna Laxmi Securities Pvt. Ltd.,KALASH STOCK MARKET PVT. LTD.,14,671.1,9395.4,2025-07-07 11:11:09.951355
 2025-07-07,68576,2025070704000656,NHDL,Blue Chip Securities Ltd,Aryatara Investment & Securities,10,684.4,6844.0,2025-07-07 11:12:26.318091
 2025-07-07,67316,2025070704001028,NHDL,Blue Chip Securities Ltd,Imperial Securities Company Pvt. Ltd.,10,682.9,6829.0,2025-07-07 11:17:23.130352

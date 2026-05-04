@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,76464,2025082805000612,NRN,Nepal Stock House (PVT) Ltd.,Property Wiard Limited,100,2175.0,217500.0,2025-08-28 11:08:18.794113
 2025-08-28,76110,2025082805000752,NRN,Naasa Securities Co. Ltd.,ABC Securities Private Limited,55,2175.0,119625.0,2025-08-28 11:09:49.708787
 2025-08-28,75475,2025082805000989,NRN,Naasa Securities Co. Ltd.,Property Wiard Limited,98,2175.0,213150.0,2025-08-28 11:11:59.461958

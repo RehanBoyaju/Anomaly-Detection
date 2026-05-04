@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,66957,2025090103000151,JBBL,Nepal Stock House (PVT) Ltd.,Midas Stock Broking Company Private Limited,100,332.0,33200.0,2025-09-01 11:06:56.868645
 2025-09-01,64694,2025090103000341,JBBL,Asian Securities Private Ltd.,Trishakti Securities Public Limited,150,330.1,49515.0,2025-09-01 11:14:27.193054
 2025-09-01,64693,2025090103000342,JBBL,Linch Stock Market Ltd.,Trishakti Securities Public Limited,100,330.0,33000.0,2025-09-01 11:14:27.193154

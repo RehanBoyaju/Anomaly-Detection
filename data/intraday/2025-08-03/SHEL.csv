@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,151822,2025080304000056,SHEL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,1000,322.0,322000.0,2025-08-03T11:01:22.884362
 2025-08-03,150961,2025080304000128,SHEL,Miyo Securities Pvt Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,200,319.0,63800.0,2025-08-03T11:02:43.872239
 2025-08-03,150070,2025080304000216,SHEL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Kumari Securities Private Limited,240,320.0,76800.0,2025-08-03T11:04:02.960857

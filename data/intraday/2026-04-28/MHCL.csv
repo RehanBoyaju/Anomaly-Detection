@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MHCL,41,16,10,358.0,3580.0,2026-04-28 14:59:39.133,2026042805016315
 MHCL,41,4,10,358.0,3580.0,2026-04-28 14:59:39.133,2026042805016314
 MHCL,41,34,10,358.0,3580.0,2026-04-28 14:59:39.133,2026042805016313

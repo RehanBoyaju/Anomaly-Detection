@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,61402,2025081905000099,SAHAS,Malla & Malla Stock Broking Company Pvt. Limited,Nepal Investment And Securities Trading Private Limited,10,645.0,6450.0,2025-08-19 11:02:19.722643
 2025-08-19,61319,2025081905000140,SAHAS,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,10,647.0,6470.0,2025-08-19 11:03:02.833842
 2025-08-19,61318,2025081905000141,SAHAS,Machhapuchchhre Securities Limited,Nepal Investment And Securities Trading Private Limited,10,650.0,6500.0,2025-08-19 11:03:02.833936

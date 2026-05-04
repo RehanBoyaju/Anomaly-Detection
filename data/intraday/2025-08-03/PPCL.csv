@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,146533,2025080304000653,PPCL,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,10,356.0,3560.0,2025-08-03T11:09:28.443203
 2025-08-03,146532,2025080304000654,PPCL,Creative Securities Pvt Ltd,Midas Stock Broking Company Private Limited,18,355.2,6393.6,2025-08-03T11:09:28.443286
 2025-08-03,144998,2025080304000868,PPCL,Market Securities & Exchange (PVT) Ltd.,Naasa Securities Co. Ltd.,89,356.1,31692.9,2025-08-03T11:11:28.882075

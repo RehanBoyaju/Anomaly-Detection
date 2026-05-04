@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 FOWAD,14,56,10,1102.2,11022.0,2026-04-28 14:56:24.761,2026042803007934
 FOWAD,14,48,75,1102.2,82665.0,2026-04-28 14:54:15.641,2026042803007699
 FOWAD,45,48,50,1102.3,55115.0,2026-04-28 14:53:34.508,2026042803007645

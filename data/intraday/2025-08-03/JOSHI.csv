@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,150695,2025080304000140,JOSHI,Himalayan Brokerage Company Limited,Vision Securities Pvt. Ltd,30,347.0,10410.0,2025-08-03T11:03:06.819455
 2025-08-03,150489,2025080304000160,JOSHI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,70,348.0,24360.0,2025-08-03T11:03:27.438379
 2025-08-03,150451,2025080304000163,JOSHI,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Online Securities Pvt. Ltd.,26,348.0,9048.0,2025-08-03T11:03:29.541118

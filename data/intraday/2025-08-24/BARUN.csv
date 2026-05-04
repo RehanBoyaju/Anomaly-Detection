@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,56271,2025082404000277,BARUN,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,10,369.8,3698.0,2025-08-24 11:12:25.927811
 2025-08-24,56136,2025082404000308,BARUN,Pragyan Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,500,369.7,184850.0,2025-08-24 11:13:05.948507
 2025-08-24,55783,2025082404000376,BARUN,Sewa Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,100,369.7,36970.0,2025-08-24 11:14:33.357840

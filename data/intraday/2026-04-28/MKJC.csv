@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 MKJC,49,69,20,503.8,10076.0,2026-04-28 14:57:56.676,2026042805015842
 MKJC,49,42,10,503.7,5037.0,2026-04-28 14:57:42.393,2026042805015788
 MKJC,49,42,30,503.7,15111.0,2026-04-28 14:56:40.945,2026042805015586

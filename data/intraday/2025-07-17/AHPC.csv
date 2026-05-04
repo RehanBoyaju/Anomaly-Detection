@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-17,140660,2025071704000289,AHPC,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,10,294.8,2948.0,2025-07-17 11:02:30.841157
 2025-07-17,140659,2025071704000290,AHPC,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,10,294.9,2949.0,2025-07-17 11:02:30.841238
 2025-07-17,140658,2025071704000291,AHPC,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,183,295.0,53985.0,2025-07-17 11:02:30.841277

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-14,76259,2025081404000045,SSHL,Siprabi Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,196.0,1960.0,2025-08-14 11:01:40.040026
 2025-08-14,76054,2025081404000109,SSHL,Shree Krishna Securities Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,13,196.0,2548.0,2025-08-14 11:02:54.608035
 2025-08-14,76022,2025081404000112,SSHL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,196.0,1960.0,2025-08-14 11:03:07.625952

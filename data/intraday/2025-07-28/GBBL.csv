@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170190,2025072803000089,GBBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sani Securities Company Ltd.,100,460.0,46000.0,2025-07-28T11:01:55.470634
 2025-07-28,170189,2025072803000090,GBBL,Bhrikuti Stock Broking Co. Pvt. Ltd.,Sani Securities Company Ltd.,100,460.0,46000.0,2025-07-28T11:01:55.470834
 2025-07-28,169874,2025072803000151,GBBL,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,100,460.0,46000.0,2025-07-28T11:02:46.405436

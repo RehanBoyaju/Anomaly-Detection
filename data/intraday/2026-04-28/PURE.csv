@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 PURE,57,50,10,939.0,9390.0,2026-04-28 14:59:34.431,2026042801110211
 PURE,70,6,196,930.0,182280.0,2026-04-28 14:59:22.140,2026042801109826
 PURE,38,6,25,930.0,23250.0,2026-04-28 14:59:22.140,2026042801109825

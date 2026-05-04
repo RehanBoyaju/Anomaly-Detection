@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,53327,2025090803000604,ALICL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Sumeru Securities Pvt. Ltd.,13,477.0,6201.0,2025-09-08 11:37:26.935718
 2025-09-08,53326,2025090803000605,ALICL,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,125,477.0,59625.0,2025-09-08 11:37:26.935789
 2025-09-08,53325,2025090803000606,ALICL,Aryatara Investment & Securities,Sumeru Securities Pvt. Ltd.,162,477.0,77274.0,2025-09-08 11:37:26.935822

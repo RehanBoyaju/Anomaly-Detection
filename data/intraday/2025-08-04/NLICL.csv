@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,128683,2025080403001393,NLICL,Malla & Malla Stock Broking Company Pvt. Limited,Nepal Stock House (PVT) Ltd.,80,644.8,51584.0,2025-08-04 11:17:28.440728
 2025-08-04,125138,2025080403001641,NLICL,Dynamic Money Managers Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,50,637.0,31850.0,2025-08-04 11:20:44.437253
 2025-08-04,125050,2025080403001648,NLICL,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,10,637.0,6370.0,2025-08-04 11:20:48.987075

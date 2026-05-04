@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99369,2025071603000021,JFL,ABC Securities Private Limited,ABC Securities Private Limited,10589,513.0,5432157.0,2025-07-16 11:00:24.486320
 2025-07-16,97997,2025071603000223,JFL,Premier Securities Company Ltd.,Aryatara Investment & Securities,34,512.9,17438.6,2025-07-16 11:05:53.676409
 2025-07-16,97889,2025071603000255,JFL,Premier Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,200,513.0,102600.0,2025-07-16 11:06:20.881553

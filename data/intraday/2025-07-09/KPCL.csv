@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,55423,2025070904003591,KPCL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,50,540.0,27000.0,2025-07-09 11:36:59.382457
 2025-07-09,49149,2025070904005950,KPCL,Kumari Securities Private Limited,Sharepro Securities Private Limited,20,542.9,10858.0,2025-07-09 12:02:00.148880
 2025-07-09,49135,2025070904005954,KPCL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Stock House (PVT) Ltd.,14,538.5,7539.0,2025-07-09 12:02:05.483683

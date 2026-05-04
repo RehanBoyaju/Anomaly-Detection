@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,139796,2025073004000337,UNHPL,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,200,420.0,84000.0,2025-07-30 11:04:29.614310
 2025-07-30,139795,2025073004000338,UNHPL,Linch Stock Market Ltd.,Naasa Securities Co. Ltd.,145,420.0,60900.0,2025-07-30 11:04:29.614426
 2025-07-30,139794,2025073004000339,UNHPL,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,500,420.0,210000.0,2025-07-30 11:04:29.614500

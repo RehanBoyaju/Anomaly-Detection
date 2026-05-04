@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88599,2025071004000005,BARUN,Naasa Securities Co. Ltd.,Prabhu Stock Market Limited,10,444.0,4440.0,2025-07-10 10:46:00.032282
 2025-07-10,88598,2025071004000006,BARUN,Capital Max Securities Ltd,Prabhu Stock Market Limited,90,444.0,39960.0,2025-07-10 10:46:00.032334
 2025-07-10,88597,2025071004000007,BARUN,Capital Max Securities Ltd,Prabhu Stock Market Limited,200,444.0,88800.0,2025-07-10 10:46:00.032369

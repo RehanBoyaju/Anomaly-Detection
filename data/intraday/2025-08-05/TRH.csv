@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,118622,2025080504000498,TRH,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,20,983.0,19660.0,2025-08-05 11:09:46.736898
 2025-08-05,115964,2025080504000689,TRH,Siprabi Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,10,973.0,9730.0,2025-08-05 11:12:26.195156
 2025-08-05,85520,2025080504004646,TRH,Agrawal Securities (PVT) Ltd.,Neev Securities Pvt. Ltd.,10,969.9,9699.0,2025-08-05 12:07:54.059301

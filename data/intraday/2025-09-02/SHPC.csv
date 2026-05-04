@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,86567,2025090204000053,SHPC,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,200,559.0,111800.0,2025-09-02 11:04:15.621739
 2025-09-02,85942,2025090204000071,SHPC,Linch Stock Market Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,200,558.1,111620.0,2025-09-02 11:05:17.956429
 2025-09-02,85941,2025090204000072,SHPC,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,100,558.0,55800.0,2025-09-02 11:05:17.956530

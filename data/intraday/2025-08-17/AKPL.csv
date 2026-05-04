@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,86634,2025081704000012,AKPL,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,20,265.0,5300.0,2025-08-17 10:46:00.031515
 2025-08-17,86138,2025081704000083,AKPL,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,50,265.0,13250.0,2025-08-17 11:01:48.884291
 2025-08-17,85621,2025081704000153,AKPL,Oxford Securities Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,50,265.0,13250.0,2025-08-17 11:03:16.117974

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,96284,2025083104000045,RADHI,Kumari Securities Private Limited,Opal Securities Investment (PVT) Ltd.,400,760.0,304000.0,2025-08-31T11:01:05.741229
 2025-08-31,93276,2025083104000202,RADHI,Miyo Securities Pvt Ltd,Sri Hari Securities Pvt. Ltd.,400,762.0,304800.0,2025-08-31T11:05:27.804142
 2025-08-31,93275,2025083104000203,RADHI,Agrawal Securities (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,30,761.5,22845.0,2025-08-31T11:05:27.804269

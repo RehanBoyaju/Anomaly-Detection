@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59462,2025090804000101,MEN,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,13,618.0,8034.0,2025-09-08 11:02:12.785418
 2025-09-08,59421,2025090804000118,MEN,Dakshinkali Investment & Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2000,618.0,1236000.0,2025-09-08 11:02:41.976245
 2025-09-08,58152,2025090804000529,MEN,Dakshinkali Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,100,618.0,61800.0,2025-09-08 11:12:24.897502

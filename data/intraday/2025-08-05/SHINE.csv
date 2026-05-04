@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-05,130768,2025080503000014,SHINE,Trademow Securities Private Limited,Nagarik Stock Dealer ,10,455.0,4550.0,2025-08-05 11:00:19.405526
 2025-08-05,119758,2025080503000227,SHINE,Sagarmatha Securities Private Limited,Naasa Securities Co. Ltd.,15,448.0,6720.0,2025-08-05 11:08:41.703576
 2025-08-05,119091,2025080503000255,SHINE,Imperial Securities Company Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,150,451.0,67650.0,2025-08-05 11:09:19.106778

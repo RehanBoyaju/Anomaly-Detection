@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,56828,2025082403000122,GUFL,Arun Securities (PVT) Ltd.,Premier Securities Company Ltd.,10,544.9,5449.0,2025-08-24 11:09:07.993725
 2025-08-24,55490,2025082403000310,GUFL,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,20,535.0,10700.0,2025-08-24 11:15:43.831355
 2025-08-24,55287,2025082403000347,GUFL,Sri Hari Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,480,535.0,256800.0,2025-08-24 11:16:43.961876

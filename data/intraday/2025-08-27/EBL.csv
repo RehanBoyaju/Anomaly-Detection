@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,72341,2025082701000039,EBL,Nabil Stock Dealer Ltd.,Imperial Securities Company Pvt. Ltd.,100,749.0,74900.0,2025-08-27T11:01:51.267949
 2025-08-27,72340,2025082701000040,EBL,Nabil Stock Dealer Ltd.,Kumari Securities Private Limited,100,751.0,75100.0,2025-08-27T11:01:51.268104
 2025-08-27,72266,2025082701000060,EBL,Nabil Stock Dealer Ltd.,Kalika Securities Pvt. Ltd.,800,751.0,600800.0,2025-08-27T11:02:38.330042

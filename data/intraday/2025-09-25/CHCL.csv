@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,37220,2025092504000069,CHCL,Sajilo Broker Limited,South Asian Bulls Pvt. Ltd.,31,487.0,15097.0,2025-09-25 11:03:12.978080
 2025-09-25,36740,2025092504000163,CHCL,Agrawal Securities (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,10,496.7,4967.0,2025-09-25 11:07:38.773096
 2025-09-25,36573,2025092504000217,CHCL,Kumari Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,34,496.7,16887.8,2025-09-25 11:09:26.705547

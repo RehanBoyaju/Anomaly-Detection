@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70474,2025070704000196,NHPC,Nepal Stock House (PVT) Ltd.,Investment Management Nepal Pvt. Ltd.,20,212.0,4240.0,2025-07-07 11:04:18.485688
 2025-07-07,70473,2025070704000197,NHPC,Linch Stock Market Ltd.,Investment Management Nepal Pvt. Ltd.,130,212.0,27560.0,2025-07-07 11:04:18.485744
 2025-07-07,69781,2025070704000362,NHPC,Cristal Kanchanjanga Securites Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,10,211.5,2115.0,2025-07-07 11:07:31.478382

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,82331,2025083103000515,SINDU,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,50,755.0,37750.0,2025-08-31T11:24:33.108509
 2025-08-31,81124,2025083103000597,SINDU,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,50,755.0,37750.0,2025-08-31T11:26:43.67557
 2025-08-31,80056,2025083103000705,SINDU,Neev Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,350,750.1,262535.0,2025-08-31T11:28:57.993929

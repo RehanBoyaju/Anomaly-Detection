@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,151521,2025072401000727,HBL,ABC Securities Private Limited,KALASH STOCK MARKET PVT. LTD.,500,249.6,124800.0,2025-07-24 11:06:08.143757
 2025-07-24,149461,2025072401001235,HBL,Naasa Securities Co. Ltd.,Sumeru Securities Pvt. Ltd.,15,250.0,3750.0,2025-07-24 11:09:31.048812
 2025-07-24,148520,2025072401001500,HBL,Secured Securities Ltd.,Sumeru Securities Pvt. Ltd.,10,250.0,2500.0,2025-07-24 11:11:01.542833

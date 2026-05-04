@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,56040,2025082504000051,HURJA,Siprabi Securities Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,200,235.9,47180.0,2025-08-25 11:05:13.192310
 2025-08-25,55983,2025082504000057,HURJA,Kumari Securities Private Limited,Market Securities & Exchange (PVT) Ltd.,11,236.0,2596.0,2025-08-25 11:05:28.208310
 2025-08-25,55597,2025082504000091,HURJA,Sri Hari Securities Pvt. Ltd.,Sani Securities Company Ltd.,50,236.0,11800.0,2025-08-25 11:07:31.848955

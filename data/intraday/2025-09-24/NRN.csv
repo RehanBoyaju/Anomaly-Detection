@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-24,47627,2025092405000073,NRN,Indira securities pvt. ltd,Naasa Securities Co. Ltd.,30,2066.0,61980.0,2025-09-24 11:01:13.248786
 2025-09-24,47626,2025092405000074,NRN,Indira securities pvt. ltd,Property Wiard Limited,42,2067.0,86814.0,2025-09-24 11:01:13.248851
 2025-09-24,47625,2025092405000075,NRN,Indira securities pvt. ltd,Sani Securities Company Ltd.,28,2067.0,57876.0,2025-09-24 11:01:13.248878

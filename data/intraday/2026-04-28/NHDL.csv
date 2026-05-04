@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NHDL,42,6,8,611.1,4888.8,2026-04-28 14:59:53.856,2026042804014979
 NHDL,42,22,14,626.0,8764.0,2026-04-28 14:59:53.294,2026042804014971
 NHDL,58,22,1,640.0,640.0,2026-04-28 14:59:08.853,2026042804014580

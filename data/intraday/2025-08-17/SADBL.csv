@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-17,83435,2025081703000357,SADBL,Agrawal Securities (PVT) Ltd.,Premier Securities Company Ltd.,900,445.0,400500.0,2025-08-17 11:09:42.664068
 2025-08-17,83324,2025081703000364,SADBL,Agrawal Securities (PVT) Ltd.,Premier Securities Company Ltd.,90,445.0,40050.0,2025-08-17 11:09:59.880998
 2025-08-17,81753,2025081703000523,SADBL,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,200,446.0,89200.0,2025-08-17 11:14:34.273895

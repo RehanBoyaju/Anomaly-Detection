@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108568,2025092103000051,MDB,Online Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,50,563.5,28175.0,2025-09-21 10:46:00.040324
 2025-09-21,108567,2025092103000052,MDB,Sewa Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,50,563.5,28175.0,2025-09-21 10:46:00.040366
 2025-09-21,108566,2025092103000053,MDB,ABC Securities Private Limited,Sumeru Securities Pvt. Ltd.,50,563.5,28175.0,2025-09-21 10:46:00.040426

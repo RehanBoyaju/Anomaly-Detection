@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,67489,2025090304000141,SHPC,Naasa Securities Co. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,10,554.0,5540.0,2025-09-03 11:05:29.410380
 2025-09-03,67488,2025090304000142,SHPC,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,20,553.0,11060.0,2025-09-03 11:05:29.410456
 2025-09-03,65719,2025090304000354,SHPC,Premier Securities Company Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,100,553.1,55310.0,2025-09-03 11:12:42.737723

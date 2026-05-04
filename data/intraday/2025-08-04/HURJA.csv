@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,147914,2025080404000326,HURJA,Infinity Securities Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,254.0,2540.0,2025-08-04 11:01:40.976226
 2025-08-04,141902,2025080404001181,HURJA,Imperial Securities Company Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,200,254.0,50800.0,2025-08-04 11:06:53.676273
 2025-08-04,141098,2025080404001261,HURJA,Deevyaa Securities & Stock House Pvt. Ltd,Bhrikuti Stock Broking Co. Pvt. Ltd.,90,254.0,22860.0,2025-08-04 11:07:24.963556

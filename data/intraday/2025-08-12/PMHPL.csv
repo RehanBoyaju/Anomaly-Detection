@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-12,77921,2025081204000041,PMHPL,Dakshinkali Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,16,400.0,6400.0,2025-08-12 11:01:17.437498
 2025-08-12,77308,2025081204000129,PMHPL,Blue Chip Securities Ltd,Imperial Securities Company Pvt. Ltd.,10,413.8,4138.0,2025-08-12 11:03:46.762223
 2025-08-12,77233,2025081204000147,PMHPL,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,10,400.2,4002.0,2025-08-12 11:04:02.543807

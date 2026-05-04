@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-30,141449,2025073001000006,PRVU,Sani Securities Company Ltd.,Nepal Stock House (PVT) Ltd.,20,245.0,4900.0,2025-07-30 10:46:00.064627
 2025-07-30,141343,2025073001000075,PRVU,Trisul Securities & Invt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,249.0,2490.0,2025-07-30 11:00:19.923765
 2025-07-30,141282,2025073001000106,PRVU,Primo Securities (PVT) Ltd.,Capital Max Securities Ltd,100,248.9,24890.0,2025-07-30 11:00:41.477986

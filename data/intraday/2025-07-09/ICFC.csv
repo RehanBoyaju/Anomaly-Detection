@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-09,61557,2025070903000142,ICFC,Blue Chip Securities Ltd,Swarna Laxmi Securities Pvt. Ltd.,10,628.0,6280.0,2025-07-09 11:08:00.984116
 2025-07-09,57081,2025070903000634,ICFC,Sri Hari Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,102,624.9,63739.8,2025-07-09 11:30:46.510384
 2025-07-09,56318,2025070903000704,ICFC,ABC Securities Private Limited,Kumari Securities Private Limited,30,625.0,18750.0,2025-07-09 11:33:32.731515

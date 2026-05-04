@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56254,2025070803000004,CORBL,ABC Securities Private Limited,SHUBHAKAMANA SECURITIES PVT. LTD,10,2477.0,24770.0,2025-07-08 10:46:00.033452
 2025-07-08,56186,2025070803000019,CORBL,Premier Securities Company Ltd.,Hatemalo Financial Services Private Limited,10,2428.0,24280.0,2025-07-08 11:00:24.855417
 2025-07-08,56170,2025070803000022,CORBL,Sani Securities Company Ltd.,SHUBHAKAMANA SECURITIES PVT. LTD,10,2428.0,24280.0,2025-07-08 11:00:31.010737

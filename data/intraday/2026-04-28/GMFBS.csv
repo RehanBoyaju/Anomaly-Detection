@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GMFBS,21,10,10,1358.0,13580.0,2026-04-28 14:54:42.385,2026042803007734
 GMFBS,4,39,30,1330.1,39903.0,2026-04-28 14:49:55.539,2026042803007380
 GMFBS,11,39,50,1332.0,66600.0,2026-04-28 14:04:29.581,2026042803005271

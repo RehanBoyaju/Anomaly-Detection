@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,85569,2025071003000417,JBBL,Sani Securities Company Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,30,331.0,9930.0,2025-07-10 11:13:22.737712
 2025-07-10,83129,2025071003000794,JBBL,Asian Securities Private Ltd.,Online Securities Pvt. Ltd.,200,334.4,66880.0,2025-07-10 11:21:30.341569
 2025-07-10,83128,2025071003000795,JBBL,Asian Securities Private Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,300,334.5,100350.0,2025-07-10 11:21:30.341644

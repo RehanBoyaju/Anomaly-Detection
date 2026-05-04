@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53276,2025082003000053,MLBL,Midas Stock Broking Company Private Limited,Miyo Securities Pvt Ltd,65,396.0,25740.0,2025-08-20 11:05:29.020738
 2025-08-20,53167,2025082003000059,MLBL,Nagarik Stock Dealer ,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,403.0,4030.0,2025-08-20 11:06:22.690540
 2025-08-20,52895,2025082003000104,MLBL,Midas Stock Broking Company Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,35,398.0,13930.0,2025-08-20 11:08:20.152536

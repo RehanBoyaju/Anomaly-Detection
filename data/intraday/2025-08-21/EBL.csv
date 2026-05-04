@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-21,56340,2025082101000061,EBL,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,10,740.0,7400.0,2025-08-21 11:05:16.385526
 2025-08-21,56339,2025082101000062,EBL,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,10,740.0,7400.0,2025-08-21 11:05:16.385652
 2025-08-21,56335,2025082101000063,EBL,Naasa Securities Co. Ltd.,Trisul Securities & Invt. Ltd.,80,740.0,59200.0,2025-08-21 11:05:18.211899

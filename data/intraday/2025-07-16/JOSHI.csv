@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-16,99070,2025071604000142,JOSHI,Sumeru Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,100,348.0,34800.0,2025-07-16 11:02:11.702130
 2025-07-16,98828,2025071604000227,JOSHI,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,60,348.0,20880.0,2025-07-16 11:03:06.981918
 2025-07-16,97671,2025071604000509,JOSHI,Naasa Securities Co. Ltd.,Aryatara Investment & Securities,10,348.0,3480.0,2025-07-16 11:06:59.453108

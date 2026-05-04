@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68538,2025090304000019,PMHPL,Agrawal Securities (PVT) Ltd.,Citizens Share Broker Limited,10,374.7,3747.0,2025-09-03 10:46:00.034896
 2025-09-03,68489,2025090304000025,PMHPL,Agrawal Securities (PVT) Ltd.,SUN SECURITIES PVT LTD,10,375.0,3750.0,2025-09-03 11:00:22.689198
 2025-09-03,68405,2025090304000046,PMHPL,Dynamic Money Managers Securities Pvt. Ltd.,Linch Stock Market Ltd.,750,380.0,285000.0,2025-09-03 11:01:07.966957

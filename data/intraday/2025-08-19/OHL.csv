@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-19,60236,2025081904000594,OHL,Sumeru Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,480,847.3,406704.0,2025-08-19 11:10:05.786938
 2025-08-19,58546,2025081904001028,OHL,South Asian Bulls Pvt. Ltd.,SUN SECURITIES PVT LTD,11,850.0,9350.0,2025-08-19 11:18:51.958085
 2025-08-19,58545,2025081904001029,OHL,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,10,848.4,8484.0,2025-08-19 11:18:51.958208

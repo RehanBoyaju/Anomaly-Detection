@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 GRDBL,58,1,30,1143.0,34290.0,2026-04-28 14:59:59.364,2026042803008674
 GRDBL,58,1,50,1143.0,57150.0,2026-04-28 14:59:51.189,2026042803008447
 GRDBL,59,1,54,1143.0,61722.0,2026-04-28 14:59:45.179,2026042803008416

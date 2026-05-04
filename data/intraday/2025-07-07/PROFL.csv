@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,70396,2025070703000336,PROFL,Linch Stock Market Ltd.,Swarna Laxmi Securities Pvt. Ltd.,100,515.0,51500.0,2025-07-07 11:04:48.649063
 2025-07-07,67763,2025070703001129,PROFL,Trisul Securities & Invt. Ltd.,Vision Securities Pvt. Ltd,470,505.1,237397.0,2025-07-07 11:15:30.304314
 2025-07-07,67608,2025070703001159,PROFL,Trisul Securities & Invt. Ltd.,Online Securities Pvt. Ltd.,30,505.1,15153.0,2025-07-07 11:16:06.601939

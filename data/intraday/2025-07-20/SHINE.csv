@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,176883,2025072003000342,SHINE,Sani Securities Company Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,1000,440.0,440000.0,2025-07-20T11:02:15.414294
 2025-07-20,175544,2025072003000645,SHINE,Oxford Securities Pvt. Ltd.,Premier Securities Company Ltd.,100,443.7,44370.0,2025-07-20T11:04:04.644214
 2025-07-20,174757,2025072003000803,SHINE,Nagarik Stock Dealer ,Imperial Securities Company Pvt. Ltd.,100,443.9,44390.0,2025-07-20T11:05:01.685042

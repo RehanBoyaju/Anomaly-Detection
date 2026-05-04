@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72537,2025071401000018,TPC,Thrive Brokerage House Pvt. Ltd,Linch Stock Market Ltd.,10,393.4,3934.0,2025-07-14 10:46:00.133343
 2025-07-14,71652,2025071401000432,TPC,Imperial Securities Company Pvt. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,20,386.0,7720.0,2025-07-14 11:03:20.323036
 2025-07-14,71451,2025071401000519,TPC,Sri Hari Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,12,387.0,4644.0,2025-07-14 11:04:00.216262

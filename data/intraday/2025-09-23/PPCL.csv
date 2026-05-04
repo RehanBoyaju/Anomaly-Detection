@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,65370,2025092304000664,PPCL,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,11,327.4,3601.4,2025-09-23 11:06:53.317310
 2025-09-23,62142,2025092304001750,PPCL,Sajilo Broker Limited,Imperial Securities Company Pvt. Ltd.,10,323.0,3230.0,2025-09-23 11:16:36.132734
 2025-09-23,61594,2025092304001948,PPCL,Premier Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,11,327.4,3601.4,2025-09-23 11:18:33.812708

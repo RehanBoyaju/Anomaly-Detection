@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-25,57058,2025082503000059,NFS,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,700.0,7000.0,2025-08-25 11:00:26.764657
 2025-08-25,56102,2025082503000666,NFS,Elite Stock House Limited,Agrawal Securities (PVT) Ltd.,100,687.0,68700.0,2025-08-25 11:04:51.316747
 2025-08-25,53777,2025082503001659,NFS,Elite Stock House Limited,South Asian Bulls Pvt. Ltd.,100,687.0,68700.0,2025-08-25 11:16:45.722783

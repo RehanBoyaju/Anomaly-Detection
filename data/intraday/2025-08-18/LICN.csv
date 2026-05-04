@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66741,2025081803000106,LICN,Sani Securities Company Ltd.,Asian Securities Private Ltd.,50,855.3,42765.0,2025-08-18T11:07:51.074258
 2025-08-18,66443,2025081803000135,LICN,Sani Securities Company Ltd.,Asian Securities Private Ltd.,14,855.3,11974.2,2025-08-18T11:09:02.971406
 2025-08-18,66442,2025081803000136,LICN,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Asian Securities Private Ltd.,36,855.1,30783.6,2025-08-18T11:09:02.971453

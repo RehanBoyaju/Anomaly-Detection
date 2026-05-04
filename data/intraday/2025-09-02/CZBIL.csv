@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89368,2025090201000361,CZBIL,Sri Hari Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,212.9,2129.0,2025-09-02 10:46:00.152462
 2025-09-02,88115,2025090201001503,CZBIL,Trishakti Securities Public Limited,Bhrikuti Stock Broking Co. Pvt. Ltd.,490,210.0,102900.0,2025-09-02 11:02:00.066932
 2025-09-02,84068,2025090201004845,CZBIL,Trishakti Securities Public Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,10,210.3,2103.0,2025-09-02 11:08:33.209206

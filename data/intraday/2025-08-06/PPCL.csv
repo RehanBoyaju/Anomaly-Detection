@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,91429,2025080604000222,PPCL,Deevyaa Securities & Stock House Pvt. Ltd,Kalika Securities Pvt. Ltd.,30,346.0,10380.0,2025-08-06 11:05:32.032256
 2025-08-06,91196,2025080604000269,PPCL,Deevyaa Securities & Stock House Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,30,346.0,10380.0,2025-08-06 11:06:07.658014
 2025-08-06,90185,2025080604000446,PPCL,Deevyaa Securities & Stock House Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,500,346.0,173000.0,2025-08-06 11:08:45.463729

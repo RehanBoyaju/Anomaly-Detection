@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-06,93024,2025080604000018,AKJCL,Sani Securities Company Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,215.5,2155.0,2025-08-06 11:00:23.818754
 2025-08-06,92395,2025080604000078,AKJCL,Dynamic Money Managers Securities Pvt. Ltd.,Kalika Securities Pvt. Ltd.,282,212.0,59784.0,2025-08-06 11:02:46.870881
 2025-08-06,92318,2025080604000080,AKJCL,Dynamic Money Managers Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2000,212.0,424000.0,2025-08-06 11:02:52.298223

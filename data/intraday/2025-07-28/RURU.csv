@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,170605,2025072804000026,RURU,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,10,794.0,7940.0,2025-07-28T11:00:21.159603
 2025-07-28,170445,2025072804000090,RURU,Capital Max Securities Ltd,Midas Stock Broking Company Private Limited,10,825.0,8250.0,2025-07-28T11:01:07.792583
 2025-07-28,170444,2025072804000091,RURU,Capital Max Securities Ltd,Imperial Securities Company Pvt. Ltd.,10,825.9,8259.0,2025-07-28T11:01:07.792635

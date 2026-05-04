@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 ICFCD89,52,58,10,1090.0,10900.0,2026-04-28 14:51:44.052,2026042801103936
 ICFCD89,41,58,15,1092.0,16380.0,2026-04-28 14:51:44.051,2026042801103935
 ICFCD89,41,36,25,1092.0,27300.0,2026-04-28 14:50:25.042,2026042801103218

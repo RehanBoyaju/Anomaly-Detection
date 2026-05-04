@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-03,68186,2025090304000064,UPPER,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,30,192.0,5760.0,2025-09-03 11:02:13.415855
 2025-09-03,67383,2025090304000151,UPPER,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,10,191.0,1910.0,2025-09-03 11:06:04.374838
 2025-09-03,67382,2025090304000152,UPPER,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,100,190.5,19050.0,2025-09-03 11:06:04.374903

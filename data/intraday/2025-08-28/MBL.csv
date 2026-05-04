@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-28,78144,2025082801000043,MBL,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,1000,250.3,250300.0,2025-08-28 11:01:24.672752
 2025-08-28,78143,2025082801000044,MBL,Shree Krishna Securities Ltd.,Nepal Investment And Securities Trading Private Limited,303,250.2,75810.6,2025-08-28 11:01:24.672861
 2025-08-28,78082,2025082801000064,MBL,Shree Krishna Securities Ltd.,J.F. Securites (PVT) Ltd.,504,250.2,126100.8,2025-08-28 11:01:50.113452

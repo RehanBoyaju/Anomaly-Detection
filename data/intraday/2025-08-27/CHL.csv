@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-27,68397,2025082704000596,CHL,Property Wiard Limited,Kohinoor Investment & Securities Pvt. Ltd.,10,290.0,2900.0,2025-08-27T11:25:03.150614
 2025-08-27,68396,2025082704000597,CHL,Property Wiard Limited,Vision Securities Pvt. Ltd,12,290.0,3480.0,2025-08-27T11:25:03.150659
 2025-08-27,65342,2025082704001098,CHL,Property Wiard Limited,KALASH STOCK MARKET PVT. LTD.,100,290.0,29000.0,2025-08-27T11:36:11.379774

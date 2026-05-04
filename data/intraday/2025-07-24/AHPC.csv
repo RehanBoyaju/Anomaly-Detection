@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,154623,2025072404000003,AHPC,Ashutosh Brokerage & Securities (PVT) Ltd.,Vision Securities Pvt. Ltd,100,315.0,31500.0,2025-07-24 10:46:00.026193
 2025-07-24,154533,2025072404000066,AHPC,Ashutosh Brokerage & Securities (PVT) Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,100,318.0,31800.0,2025-07-24 10:46:00.144565
 2025-07-24,154532,2025072404000067,AHPC,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,200,316.0,63200.0,2025-07-24 10:46:00.144944

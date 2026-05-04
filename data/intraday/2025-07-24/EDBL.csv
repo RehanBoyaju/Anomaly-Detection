@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,152527,2025072403000303,EDBL,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,1,656.0,656.0,2025-07-24 11:04:20.095876
 2025-07-24,150769,2025072403000640,EDBL,Naasa Securities Co. Ltd.,Online Securities Pvt. Ltd.,1,658.0,658.0,2025-07-24 11:07:16.848697
 2025-07-24,145417,2025072403001841,EDBL,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,10,666.0,6660.0,2025-07-24 11:16:02.569512

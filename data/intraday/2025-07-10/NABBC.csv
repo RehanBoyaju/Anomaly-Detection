@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88201,2025071003000062,NABBC,ABC Securities Private Limited,Indira securities pvt. ltd,10,1677.7,16777.0,2025-07-10 11:02:25.367345
 2025-07-10,88189,2025071003000063,NABBC,Midas Stock Broking Company Private Limited,ABC Securities Private Limited,10,1615.3,16153.0,2025-07-10 11:02:29.390041
 2025-07-10,88132,2025071003000071,NABBC,ABC Securities Private Limited,Indira securities pvt. ltd,27,1677.7,45297.9,2025-07-10 11:02:48.588531

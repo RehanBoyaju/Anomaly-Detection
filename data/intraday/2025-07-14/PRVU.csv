@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-14,72489,2025071401000046,PRVU,Naasa Securities Co. Ltd.,Roadshow securities limited,52,225.0,11700.0,2025-07-14 11:00:23.534653
 2025-07-14,72425,2025071401000093,PRVU,Secured Securities Ltd.,Agrawal Securities (PVT) Ltd.,200,224.0,44800.0,2025-07-14 11:00:39.629610
 2025-07-14,72409,2025071401000102,PRVU,Secured Securities Ltd.,Capital Max Securities Ltd,200,224.0,44800.0,2025-07-14 11:00:45.511392

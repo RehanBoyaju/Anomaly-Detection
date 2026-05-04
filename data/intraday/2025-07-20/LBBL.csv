@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177782,2025072003000124,LBBL,K.B.L. Securities Limited ,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,300,493.0,147900.0,2025-07-20T11:00:40.977902
 2025-07-20,177781,2025072003000125,LBBL,Pragyan Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,200,492.6,98520.0,2025-07-20T11:00:40.978014
 2025-07-20,177733,2025072003000131,LBBL,Nagarik Stock Dealer ,ABC Securities Private Limited,50,498.0,24900.0,2025-07-20T11:00:48.729912

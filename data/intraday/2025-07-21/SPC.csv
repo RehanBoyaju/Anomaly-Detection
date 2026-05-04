@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-21,138543,2025072101000091,SPC,Elite Stock House Limited,Sundhara Securities Limited,91,543.0,49413.0,2025-07-21 11:00:44.628263
 2025-07-21,138256,2025072101000125,SPC,Sharepro Securities Private Limited,Sundhara Securities Limited,40,544.0,21760.0,2025-07-21 11:01:15.161473
 2025-07-21,135600,2025072101000643,SPC,Aakashbhairab Securities Ltd.,Sani Securities Company Ltd.,50,534.1,26705.0,2025-07-21 11:06:08.209000

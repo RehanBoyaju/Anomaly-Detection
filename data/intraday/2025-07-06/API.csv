@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87270,2025070604000026,API,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,10,300.0,3000.0,2025-07-06 11:00:23.494773
 2025-07-06,86836,2025070604000139,API,Dakshinkali Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,203,295.0,59885.0,2025-07-06 11:02:28.115271
 2025-07-06,86502,2025070604000227,API,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,600,298.0,178800.0,2025-07-06 11:03:44.971973

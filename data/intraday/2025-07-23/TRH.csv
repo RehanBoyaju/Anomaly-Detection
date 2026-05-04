@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-23,161375,2025072304002931,TRH,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,10,1049.0,10490.0,2025-07-23 11:11:08.097194
 2025-07-23,161374,2025072304002932,TRH,Naasa Securities Co. Ltd.,Vision Securities Pvt. Ltd,83,1049.0,87067.0,2025-07-23 11:11:08.097249
 2025-07-23,153572,2025072304005220,TRH,ABC Securities Private Limited,Creative Securities Pvt Ltd,20,1030.0,20600.0,2025-07-23 11:18:21.215898

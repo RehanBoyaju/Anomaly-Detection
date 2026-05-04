@@ -1,495 +1,495 @@
-contractId,stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,businessDate,tradeBookId,stockId,buyerBrokerName,sellerBrokerName,transaction_time,securityName
-2026042304000032,AHPC,58,81,107,284.79,30472.53,2026-04-23,187616036,360,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:01:06.698912,Arun Valley Hydropower Development Co. Ltd.
-2026042304000041,AHPC,1,58,10,280.1,2801.0,2026-04-23,187616579,360,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 11:01:50.913992,Arun Valley Hydropower Development Co. Ltd.
-2026042304000050,AHPC,39,1,50,284.6,14230.0,2026-04-23,187616874,360,Sumeru Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 11:02:11.575869,Arun Valley Hydropower Development Co. Ltd.
-2026042304000083,AHPC,33,1,150,284.6,42690.0,2026-04-23,187618305,360,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 11:03:38.082467,Arun Valley Hydropower Development Co. Ltd.
-2026042304000091,AHPC,26,45,14,285.0,3990.0,2026-04-23,187618463,360,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:03:47.743151,Arun Valley Hydropower Development Co. Ltd.
-2026042304000092,AHPC,26,62,86,286.0,24596.0,2026-04-23,187618466,360,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-23 11:03:47.743281,Arun Valley Hydropower Development Co. Ltd.
-2026042304000109,AHPC,54,62,40,286.0,11440.0,2026-04-23,187618710,360,Sewa Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 11:04:08.154073,Arun Valley Hydropower Development Co. Ltd.
-2026042304000188,AHPC,34,39,100,285.5,28550.0,2026-04-23,187620007,360,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-23 11:05:36.053683,Arun Valley Hydropower Development Co. Ltd.
-2026042304000232,AHPC,39,56,100,285.9,28590.0,2026-04-23,187620580,360,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 11:06:07.777555,Arun Valley Hydropower Development Co. Ltd.
-2026042304000233,AHPC,34,58,400,285.5,114200.0,2026-04-23,187620589,360,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 11:06:08.740349,Arun Valley Hydropower Development Co. Ltd.
-2026042304000337,AHPC,33,22,50,284.6,14230.0,2026-04-23,187621922,360,Dakshinkali Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:07:21.593612,Arun Valley Hydropower Development Co. Ltd.
-2026042304000338,AHPC,42,22,50,284.0,14200.0,2026-04-23,187621924,360,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:07:21.593723,Arun Valley Hydropower Development Co. Ltd.
-2026042304000339,AHPC,58,22,25,284.0,7100.0,2026-04-23,187621926,360,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:07:21.593769,Arun Valley Hydropower Development Co. Ltd.
-2026042304000366,AHPC,38,50,50,283.0,14150.0,2026-04-23,187622446,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:07:44.897842,Arun Valley Hydropower Development Co. Ltd.
-2026042304000367,AHPC,40,50,200,282.3,56460.0,2026-04-23,187622448,360,Creative Securities Pvt Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:07:44.897967,Arun Valley Hydropower Development Co. Ltd.
-2026042304000450,AHPC,1,50,750,282.3,211725.0,2026-04-23,187623870,360,Kumari Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:09:15.182764,Arun Valley Hydropower Development Co. Ltd.
-2026042304000543,AHPC,72,46,105,282.0,29610.0,2026-04-23,187625297,360,Hatemalo Financial Services Private Limited,Kalika Securities Pvt. Ltd.,2026-04-23 11:10:32.798363,Arun Valley Hydropower Development Co. Ltd.
-2026042304000590,AHPC,72,70,395,282.0,111390.0,2026-04-23,187626072,360,Hatemalo Financial Services Private Limited,Infinity Securities Limited,2026-04-23 11:11:28.921123,Arun Valley Hydropower Development Co. Ltd.
-2026042304000591,AHPC,7,70,100,282.0,28200.0,2026-04-23,187626074,360,J.F. Securites (PVT) Ltd.,Infinity Securities Limited,2026-04-23 11:11:28.921272,Arun Valley Hydropower Development Co. Ltd.
-2026042304000601,AHPC,57,42,15,281.5,4222.5,2026-04-23,187626392,360,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 11:11:52.087044,Arun Valley Hydropower Development Co. Ltd.
-2026042304000602,AHPC,54,42,50,281.0,14050.0,2026-04-23,187626394,360,Sewa Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:11:52.087165,Arun Valley Hydropower Development Co. Ltd.
-2026042304000603,AHPC,89,42,50,280.2,14010.0,2026-04-23,187626396,360,Global IME Securities Limited,Sani Securities Company Ltd.,2026-04-23 11:11:52.087218,Arun Valley Hydropower Development Co. Ltd.
-2026042304000604,AHPC,1,42,490,280.1,137249.0,2026-04-23,187626398,360,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 11:11:52.087283,Arun Valley Hydropower Development Co. Ltd.
-2026042304000605,AHPC,21,42,1895,280.1,530789.5,2026-04-23,187626399,360,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-23 11:11:52.087349,Arun Valley Hydropower Development Co. Ltd.
-2026042304000742,AHPC,7,50,20,280.5,5610.0,2026-04-23,187629743,360,J.F. Securites (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:15:15.708046,Arun Valley Hydropower Development Co. Ltd.
-2026042304000888,AHPC,53,37,259,281.0,72779.0,2026-04-23,187632826,360,Investment Management Nepal Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.261919,Arun Valley Hydropower Development Co. Ltd.
-2026042304000889,AHPC,34,37,200,280.6,56120.0,2026-04-23,187632828,360,Vision Securities Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.262221,Arun Valley Hydropower Development Co. Ltd.
-2026042304000890,AHPC,8,37,700,280.6,196420.0,2026-04-23,187632830,360,Brilliant Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.262412,Arun Valley Hydropower Development Co. Ltd.
-2026042304000891,AHPC,7,37,841,280.5,235900.5,2026-04-23,187632831,360,J.F. Securites (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.262618,Arun Valley Hydropower Development Co. Ltd.
-2026042304001003,AHPC,58,58,30,281.0,8430.0,2026-04-23,187635771,360,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:20:39.545054,Arun Valley Hydropower Development Co. Ltd.
-2026042304001006,AHPC,58,14,40,281.0,11240.0,2026-04-23,187635781,360,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:20:40.670775,Arun Valley Hydropower Development Co. Ltd.
-2026042304001082,AHPC,58,58,30,281.0,8430.0,2026-04-23,187637260,360,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:21:41.547023,Arun Valley Hydropower Development Co. Ltd.
-2026042304001096,AHPC,42,58,54,281.0,15174.0,2026-04-23,187637815,360,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:21:58.827664,Arun Valley Hydropower Development Co. Ltd.
-2026042304001097,AHPC,42,70,605,282.0,170610.0,2026-04-23,187637817,360,Sani Securities Company Ltd.,Infinity Securities Limited,2026-04-23 11:21:58.827828,Arun Valley Hydropower Development Co. Ltd.
-2026042304001098,AHPC,42,51,300,282.0,84600.0,2026-04-23,187637819,360,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:21:58.827896,Arun Valley Hydropower Development Co. Ltd.
-2026042304001099,AHPC,42,39,1000,282.0,282000.0,2026-04-23,187637821,360,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 11:21:58.827960,Arun Valley Hydropower Development Co. Ltd.
-2026042304001100,AHPC,42,28,46,282.0,12972.0,2026-04-23,187637824,360,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:21:58.828022,Arun Valley Hydropower Development Co. Ltd.
-2026042304001106,AHPC,28,42,200,280.6,56120.0,2026-04-23,187637964,360,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-23 11:22:09.624199,Arun Valley Hydropower Development Co. Ltd.
-2026042304001112,AHPC,58,22,1,280.0,280.0,2026-04-23,187638061,360,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:22:14.199812,Arun Valley Hydropower Development Co. Ltd.
-2026042304001115,AHPC,58,42,175,280.6,49105.0,2026-04-23,187638148,360,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:22:22.137753,Arun Valley Hydropower Development Co. Ltd.
-2026042304001163,AHPC,11,42,156,280.6,43773.6,2026-04-23,187638782,360,Malla & Malla Stock Broking Company Pvt. Limited,Sani Securities Company Ltd.,2026-04-23 11:22:54.112140,Arun Valley Hydropower Development Co. Ltd.
-2026042304001243,AHPC,35,44,60,280.6,16836.0,2026-04-23,187640126,360,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:24:12.725376,Arun Valley Hydropower Development Co. Ltd.
-2026042304001244,AHPC,7,44,139,280.5,38989.5,2026-04-23,187640128,360,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:24:12.725551,Arun Valley Hydropower Development Co. Ltd.
-2026042304001245,AHPC,58,44,500,280.5,140250.0,2026-04-23,187640130,360,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:24:12.725621,Arun Valley Hydropower Development Co. Ltd.
-2026042304001263,AHPC,57,40,560,280.4,157024.0,2026-04-23,187640405,360,Aryatara Investment & Securities,Creative Securities Pvt Ltd,2026-04-23 11:24:25.949627,Arun Valley Hydropower Development Co. Ltd.
-2026042304001289,AHPC,52,17,25,281.0,7025.0,2026-04-23,187641276,360,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-23 11:25:04.272178,Arun Valley Hydropower Development Co. Ltd.
-2026042304001290,AHPC,57,17,975,281.0,273975.0,2026-04-23,187641277,360,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 11:25:04.272293,Arun Valley Hydropower Development Co. Ltd.
-2026042304001491,AHPC,14,37,10,281.1,2811.0,2026-04-23,187645644,360,Nepal Stock House (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.400889,Arun Valley Hydropower Development Co. Ltd.
-2026042304001492,AHPC,57,37,25,281.0,7025.0,2026-04-23,187645646,360,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.401250,Arun Valley Hydropower Development Co. Ltd.
-2026042304001493,AHPC,57,37,1940,280.4,543976.0,2026-04-23,187645648,360,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.401509,Arun Valley Hydropower Development Co. Ltd.
-2026042304001494,AHPC,44,37,25,280.3,7007.5,2026-04-23,187645649,360,Dynamic Money Managers Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.401733,Arun Valley Hydropower Development Co. Ltd.
-2026042304001555,AHPC,44,38,51,280.3,14295.3,2026-04-23,187646797,360,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:29:29.369135,Arun Valley Hydropower Development Co. Ltd.
-2026042304001560,AHPC,44,58,424,280.3,118847.2,2026-04-23,187647118,360,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:52.342030,Arun Valley Hydropower Development Co. Ltd.
-2026042304001561,AHPC,58,58,500,280.3,140150.0,2026-04-23,187647120,360,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:52.342396,Arun Valley Hydropower Development Co. Ltd.
-2026042304001562,AHPC,56,58,20,280.3,5606.0,2026-04-23,187647122,360,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:52.342623,Arun Valley Hydropower Development Co. Ltd.
-2026042304001566,AHPC,58,58,56,280.3,15696.8,2026-04-23,187647265,360,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:30:05.882250,Arun Valley Hydropower Development Co. Ltd.
-2026042304001605,AHPC,58,11,440,280.4,123376.0,2026-04-23,187647815,360,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 11:30:41.126209,Arun Valley Hydropower Development Co. Ltd.
-2026042304001657,AHPC,50,41,100,281.0,28100.0,2026-04-23,187648742,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:31:25.183974,Arun Valley Hydropower Development Co. Ltd.
-2026042304001658,AHPC,1,41,220,281.0,61820.0,2026-04-23,187648781,360,Kumari Securities Private Limited,Linch Stock Market Ltd.,2026-04-23 11:31:26.890319,Arun Valley Hydropower Development Co. Ltd.
-2026042304001698,AHPC,1,44,100,281.0,28100.0,2026-04-23,187649344,360,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:32:03.021950,Arun Valley Hydropower Development Co. Ltd.
-2026042304001699,AHPC,17,44,300,281.0,84300.0,2026-04-23,187649346,360,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:32:03.022139,Arun Valley Hydropower Development Co. Ltd.
-2026042304001700,AHPC,50,44,100,281.0,28100.0,2026-04-23,187649347,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:32:03.022221,Arun Valley Hydropower Development Co. Ltd.
-2026042304001771,AHPC,26,47,1200,281.0,337200.0,2026-04-23,187650867,360,Asian Securities Private Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 11:33:26.694038,Arun Valley Hydropower Development Co. Ltd.
-2026042304001786,AHPC,58,64,10,281.3,2813.0,2026-04-23,187651075,360,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 11:33:38.274727,Arun Valley Hydropower Development Co. Ltd.
-2026042304001787,AHPC,58,50,90,281.7,25353.0,2026-04-23,187651078,360,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:33:38.274767,Arun Valley Hydropower Development Co. Ltd.
-2026042304001794,AHPC,26,37,1000,281.0,281000.0,2026-04-23,187651275,360,Asian Securities Private Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:33:55.646455,Arun Valley Hydropower Development Co. Ltd.
-2026042304001858,AHPC,50,41,500,281.1,140550.0,2026-04-23,187653094,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:35:53.520712,Arun Valley Hydropower Development Co. Ltd.
-2026042304001880,AHPC,58,41,69,281.1,19395.9,2026-04-23,187653647,360,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:36:35.680328,Arun Valley Hydropower Development Co. Ltd.
-2026042304001881,AHPC,58,50,31,281.7,8732.7,2026-04-23,187653650,360,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:36:35.680388,Arun Valley Hydropower Development Co. Ltd.
-2026042304001901,AHPC,58,50,10,281.7,2817.0,2026-04-23,187654304,360,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:37:14.953065,Arun Valley Hydropower Development Co. Ltd.
-2026042304001957,AHPC,43,4,25,281.2,7030.0,2026-04-23,187655299,360,South Asian Bulls Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 11:38:35.614330,Arun Valley Hydropower Development Co. Ltd.
-2026042304001993,AHPC,59,33,1000,281.5,281500.0,2026-04-23,187655821,360,Deevyaa Securities & Stock House Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:39:20.006702,Arun Valley Hydropower Development Co. Ltd.
-2026042304002002,AHPC,58,32,1,280.0,280.0,2026-04-23,187655917,360,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-23 11:39:26.575833,Arun Valley Hydropower Development Co. Ltd.
-2026042304002010,AHPC,58,50,100,281.7,28170.0,2026-04-23,187656094,360,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:39:40.454884,Arun Valley Hydropower Development Co. Ltd.
-2026042304002026,AHPC,43,50,75,281.7,21127.5,2026-04-23,187656798,360,South Asian Bulls Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:40:19.189234,Arun Valley Hydropower Development Co. Ltd.
-2026042304002070,AHPC,49,50,39,281.7,10986.3,2026-04-23,187657598,360,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:41:24.092269,Arun Valley Hydropower Development Co. Ltd.
-2026042304002144,AHPC,7,44,500,281.8,140900.0,2026-04-23,187659017,360,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:43:05.902007,Arun Valley Hydropower Development Co. Ltd.
-2026042304002145,AHPC,7,44,500,281.9,140950.0,2026-04-23,187659020,360,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:43:05.902501,Arun Valley Hydropower Development Co. Ltd.
-2026042304002185,AHPC,58,95,100,281.5,28150.0,2026-04-23,187659316,360,Naasa Securities Co. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.112226,Arun Valley Hydropower Development Co. Ltd.
-2026042304002186,AHPC,50,95,500,281.4,140700.0,2026-04-23,187659318,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.112662,Arun Valley Hydropower Development Co. Ltd.
-2026042304002187,AHPC,49,95,13,281.1,3654.3,2026-04-23,187659320,360,Online Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.112926,Arun Valley Hydropower Development Co. Ltd.
-2026042304002188,AHPC,26,95,269,281.0,75589.0,2026-04-23,187659321,360,Asian Securities Private Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.113193,Arun Valley Hydropower Development Co. Ltd.
-2026042304002221,AHPC,26,63,2531,281.0,711211.0,2026-04-23,187659686,360,Asian Securities Private Ltd.,Himalayan Brokerage Company Limited,2026-04-23 11:43:54.636545,Arun Valley Hydropower Development Co. Ltd.
-2026042304002222,AHPC,49,63,94,281.0,26414.0,2026-04-23,187659687,360,Online Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-23 11:43:54.637032,Arun Valley Hydropower Development Co. Ltd.
-2026042304002286,AHPC,43,14,20,281.0,5620.0,2026-04-23,187660214,360,South Asian Bulls Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:44:38.218938,Arun Valley Hydropower Development Co. Ltd.
-2026042304002287,AHPC,50,14,80,281.0,22480.0,2026-04-23,187660215,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:44:38.219177,Arun Valley Hydropower Development Co. Ltd.
-2026042304002348,AHPC,50,81,20,281.0,5620.0,2026-04-23,187661282,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.668593,Arun Valley Hydropower Development Co. Ltd.
-2026042304002349,AHPC,47,81,220,281.0,61820.0,2026-04-23,187661284,360,Neev Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669022,Arun Valley Hydropower Development Co. Ltd.
-2026042304002350,AHPC,19,81,200,281.0,56200.0,2026-04-23,187661286,360,Nepal Investment And Securities Trading Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669347,Arun Valley Hydropower Development Co. Ltd.
-2026042304002351,AHPC,46,81,190,281.0,53390.0,2026-04-23,187661288,360,Kalika Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669627,Arun Valley Hydropower Development Co. Ltd.
-2026042304002352,AHPC,28,81,100,280.3,28030.0,2026-04-23,187661290,360,Shree Krishna Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669913,Arun Valley Hydropower Development Co. Ltd.
-2026042304002353,AHPC,44,81,150,280.2,42030.0,2026-04-23,187661292,360,Dynamic Money Managers Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670190,Arun Valley Hydropower Development Co. Ltd.
-2026042304002354,AHPC,7,81,1000,280.2,280200.0,2026-04-23,187661294,360,J.F. Securites (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670458,Arun Valley Hydropower Development Co. Ltd.
-2026042304002355,AHPC,41,81,1500,280.1,420150.0,2026-04-23,187661296,360,Linch Stock Market Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670708,Arun Valley Hydropower Development Co. Ltd.
-2026042304002356,AHPC,1,81,300,280.1,84030.0,2026-04-23,187661298,360,Kumari Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670951,Arun Valley Hydropower Development Co. Ltd.
-2026042304002357,AHPC,51,81,250,280.1,70025.0,2026-04-23,187661300,360,Oxford Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.671204,Arun Valley Hydropower Development Co. Ltd.
-2026042304002358,AHPC,58,81,50,280.0,14000.0,2026-04-23,187661302,360,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.671482,Arun Valley Hydropower Development Co. Ltd.
-2026042304002359,AHPC,36,81,20,280.0,5600.0,2026-04-23,187661303,360,Secured Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.671737,Arun Valley Hydropower Development Co. Ltd.
-2026042304002454,AHPC,36,37,280,280.0,78400.0,2026-04-23,187662452,360,Secured Securities Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022397,Arun Valley Hydropower Development Co. Ltd.
-2026042304002455,AHPC,26,37,500,280.0,140000.0,2026-04-23,187662454,360,Asian Securities Private Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022609,Arun Valley Hydropower Development Co. Ltd.
-2026042304002456,AHPC,58,37,500,280.0,140000.0,2026-04-23,187662456,360,Naasa Securities Co. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022699,Arun Valley Hydropower Development Co. Ltd.
-2026042304002457,AHPC,35,37,720,280.0,201600.0,2026-04-23,187662457,360,Kohinoor Investment & Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022789,Arun Valley Hydropower Development Co. Ltd.
-2026042304002606,AHPC,58,62,200,280.1,56020.0,2026-04-23,187664706,360,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 11:50:29.543833,Arun Valley Hydropower Development Co. Ltd.
-2026042304002607,AHPC,35,62,20,280.0,5600.0,2026-04-23,187664708,360,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 11:50:29.544128,Arun Valley Hydropower Development Co. Ltd.
-2026042304002608,AHPC,14,62,75,280.0,21000.0,2026-04-23,187664709,360,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,2026-04-23 11:50:29.544230,Arun Valley Hydropower Development Co. Ltd.
-2026042304002611,AHPC,49,45,28,280.2,7845.6,2026-04-23,187664882,360,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:50:37.959953,Arun Valley Hydropower Development Co. Ltd.
-2026042304002612,AHPC,14,45,972,280.0,272160.0,2026-04-23,187664883,360,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:50:37.960228,Arun Valley Hydropower Development Co. Ltd.
-2026042304002958,AHPC,57,89,50,280.1,14005.0,2026-04-23,187669799,360,Aryatara Investment & Securities,Global IME Securities Limited,2026-04-23 11:56:45.430548,Arun Valley Hydropower Development Co. Ltd.
-2026042304003102,AHPC,57,58,35,280.1,9803.5,2026-04-23,187671509,360,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-23 11:58:33.326293,Arun Valley Hydropower Development Co. Ltd.
-2026042304003177,AHPC,57,29,415,280.1,116241.5,2026-04-23,187672372,360,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-23 11:59:41.576304,Arun Valley Hydropower Development Co. Ltd.
-2026042304003178,AHPC,7,29,85,280.1,23808.5,2026-04-23,187672373,360,J.F. Securites (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 11:59:41.576564,Arun Valley Hydropower Development Co. Ltd.
-2026042304003280,AHPC,38,58,11,281.0,3091.0,2026-04-23,187674259,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:01:47.186967,Arun Valley Hydropower Development Co. Ltd.
-2026042304003281,AHPC,38,28,39,281.0,10959.0,2026-04-23,187674262,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-23 12:01:47.187208,Arun Valley Hydropower Development Co. Ltd.
-2026042304003284,AHPC,7,45,12,280.1,3361.2,2026-04-23,187674349,360,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:01:53.451152,Arun Valley Hydropower Development Co. Ltd.
-2026042304003292,AHPC,7,16,903,280.1,252930.3,2026-04-23,187674610,360,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.616943,Arun Valley Hydropower Development Co. Ltd.
-2026042304003293,AHPC,58,16,36,280.1,10083.6,2026-04-23,187674612,360,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617191,Arun Valley Hydropower Development Co. Ltd.
-2026042304003294,AHPC,49,16,20,280.1,5602.0,2026-04-23,187674614,360,Online Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617301,Arun Valley Hydropower Development Co. Ltd.
-2026042304003295,AHPC,14,16,453,280.0,126840.0,2026-04-23,187674616,360,Nepal Stock House (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617414,Arun Valley Hydropower Development Co. Ltd.
-2026042304003296,AHPC,14,16,88,280.0,24640.0,2026-04-23,187674617,360,Nepal Stock House (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617540,Arun Valley Hydropower Development Co. Ltd.
-2026042304003319,AHPC,14,45,220,280.0,61600.0,2026-04-23,187675129,360,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:03:01.453117,Arun Valley Hydropower Development Co. Ltd.
-2026042304003460,AHPC,1,77,150,280.1,42015.0,2026-04-23,187677968,360,Kumari Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658094,Arun Valley Hydropower Development Co. Ltd.
-2026042304003461,AHPC,14,77,892,280.0,249760.0,2026-04-23,187677970,360,Nepal Stock House (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658362,Arun Valley Hydropower Development Co. Ltd.
-2026042304003462,AHPC,14,77,300,280.0,84000.0,2026-04-23,187677972,360,Nepal Stock House (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658475,Arun Valley Hydropower Development Co. Ltd.
-2026042304003463,AHPC,50,77,1000,280.0,280000.0,2026-04-23,187677974,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658582,Arun Valley Hydropower Development Co. Ltd.
-2026042304003464,AHPC,50,77,1000,280.0,280000.0,2026-04-23,187677976,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658686,Arun Valley Hydropower Development Co. Ltd.
-2026042304003465,AHPC,8,77,10,280.0,2800.0,2026-04-23,187677978,360,Brilliant Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658805,Arun Valley Hydropower Development Co. Ltd.
-2026042304003466,AHPC,22,77,100,280.0,28000.0,2026-04-23,187677980,360,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658909,Arun Valley Hydropower Development Co. Ltd.
-2026042304003467,AHPC,39,77,1000,280.0,280000.0,2026-04-23,187677982,360,Sumeru Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659016,Arun Valley Hydropower Development Co. Ltd.
-2026042304003468,AHPC,56,77,30,280.0,8400.0,2026-04-23,187677984,360,Sri Hari Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659130,Arun Valley Hydropower Development Co. Ltd.
-2026042304003469,AHPC,45,77,50,280.0,14000.0,2026-04-23,187677986,360,Imperial Securities Company Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659235,Arun Valley Hydropower Development Co. Ltd.
-2026042304003470,AHPC,38,77,600,280.0,168000.0,2026-04-23,187677988,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659345,Arun Valley Hydropower Development Co. Ltd.
-2026042304003471,AHPC,98,77,100,280.0,28000.0,2026-04-23,187677990,360,Trademow Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659464,Arun Valley Hydropower Development Co. Ltd.
-2026042304003472,AHPC,49,77,80,280.0,22400.0,2026-04-23,187677992,360,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659569,Arun Valley Hydropower Development Co. Ltd.
-2026042304003473,AHPC,35,77,10,280.0,2800.0,2026-04-23,187677994,360,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659672,Arun Valley Hydropower Development Co. Ltd.
-2026042304003474,AHPC,80,77,500,280.0,140000.0,2026-04-23,187677996,360,Indira securities pvt. ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659775,Arun Valley Hydropower Development Co. Ltd.
-2026042304003475,AHPC,34,77,125,280.0,35000.0,2026-04-23,187677998,360,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659893,Arun Valley Hydropower Development Co. Ltd.
-2026042304003476,AHPC,52,77,126,280.0,35280.0,2026-04-23,187678000,360,Sundhara Securities Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659992,Arun Valley Hydropower Development Co. Ltd.
-2026042304003477,AHPC,89,77,10,280.0,2800.0,2026-04-23,187678002,360,Global IME Securities Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660092,Arun Valley Hydropower Development Co. Ltd.
-2026042304003478,AHPC,22,77,80,279.1,22328.0,2026-04-23,187678004,360,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660192,Arun Valley Hydropower Development Co. Ltd.
-2026042304003479,AHPC,43,77,825,279.0,230175.0,2026-04-23,187678006,360,South Asian Bulls Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660293,Arun Valley Hydropower Development Co. Ltd.
-2026042304003480,AHPC,21,77,8105,279.0,2261295.0,2026-04-23,187678008,360,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660401,Arun Valley Hydropower Development Co. Ltd.
-2026042304003481,AHPC,52,77,1000,279.0,279000.0,2026-04-23,187678010,360,Sundhara Securities Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660504,Arun Valley Hydropower Development Co. Ltd.
-2026042304003482,AHPC,56,77,20,279.0,5580.0,2026-04-23,187678012,360,Sri Hari Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660610,Arun Valley Hydropower Development Co. Ltd.
-2026042304003483,AHPC,49,77,1000,279.0,279000.0,2026-04-23,187678014,360,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660708,Arun Valley Hydropower Development Co. Ltd.
-2026042304003582,AHPC,29,77,291,279.0,81189.0,2026-04-23,187679763,360,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:08:18.003133,Arun Valley Hydropower Development Co. Ltd.
-2026042304003614,AHPC,29,26,15,279.0,4185.0,2026-04-23,187680383,360,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-23 12:09:09.711766,Arun Valley Hydropower Development Co. Ltd.
-2026042304003711,AHPC,6,42,10,280.0,2800.0,2026-04-23,187681691,360,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 12:11:27.183706,Arun Valley Hydropower Development Co. Ltd.
-2026042304003802,AHPC,21,28,15,281.0,4215.0,2026-04-23,187682729,360,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,2026-04-23 12:12:49.063958,Arun Valley Hydropower Development Co. Ltd.
-2026042304003803,AHPC,21,38,150,281.0,42150.0,2026-04-23,187682731,360,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 12:12:49.064480,Arun Valley Hydropower Development Co. Ltd.
-2026042304003804,AHPC,21,14,175,281.0,49175.0,2026-04-23,187682733,360,Midas Stock Broking Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 12:12:49.064829,Arun Valley Hydropower Development Co. Ltd.
-2026042304003805,AHPC,21,41,160,282.5,45200.0,2026-04-23,187682736,360,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 12:12:49.065183,Arun Valley Hydropower Development Co. Ltd.
-2026042304003811,AHPC,21,41,500,282.5,141250.0,2026-04-23,187682810,360,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 12:12:58.312247,Arun Valley Hydropower Development Co. Ltd.
-2026042304003842,AHPC,6,49,90,280.0,25200.0,2026-04-23,187683586,360,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:13:47.713207,Arun Valley Hydropower Development Co. Ltd.
-2026042304003843,AHPC,49,49,300,280.0,84000.0,2026-04-23,187683588,360,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:13:47.713608,Arun Valley Hydropower Development Co. Ltd.
-2026042304003844,AHPC,57,49,100,280.0,28000.0,2026-04-23,187683589,360,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-23 12:13:47.713734,Arun Valley Hydropower Development Co. Ltd.
-2026042304003856,AHPC,57,38,50,280.0,14000.0,2026-04-23,187683939,360,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 12:14:13.536394,Arun Valley Hydropower Development Co. Ltd.
-2026042304003875,AHPC,57,77,4348,280.0,1217440.0,2026-04-23,187684254,360,Aryatara Investment & Securities,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.240737,Arun Valley Hydropower Development Co. Ltd.
-2026042304003876,AHPC,35,77,105,280.0,29400.0,2026-04-23,187684256,360,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.241263,Arun Valley Hydropower Development Co. Ltd.
-2026042304003877,AHPC,37,77,100,280.0,28000.0,2026-04-23,187684258,360,Swarna Laxmi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.241628,Arun Valley Hydropower Development Co. Ltd.
-2026042304003878,AHPC,40,77,1447,280.0,405160.0,2026-04-23,187684259,360,Creative Securities Pvt Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.241962,Arun Valley Hydropower Development Co. Ltd.
-2026042304003937,AHPC,21,22,1875,281.7,528187.5,2026-04-23,187685403,360,Midas Stock Broking Company Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 12:16:32.306209,Arun Valley Hydropower Development Co. Ltd.
-2026042304003938,AHPC,21,13,125,281.7,35212.5,2026-04-23,187685406,360,Midas Stock Broking Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-23 12:16:32.306517,Arun Valley Hydropower Development Co. Ltd.
-2026042304004022,AHPC,58,38,1,278.3,278.3,2026-04-23,187686123,360,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 12:17:44.872951,Arun Valley Hydropower Development Co. Ltd.
-2026042304004058,AHPC,21,13,421,281.7,118595.7,2026-04-23,187686435,360,Midas Stock Broking Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-23 12:18:07.772742,Arun Valley Hydropower Development Co. Ltd.
-2026042304004059,AHPC,21,48,63,281.7,17747.1,2026-04-23,187686437,360,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-23 12:18:07.773343,Arun Valley Hydropower Development Co. Ltd.
-2026042304004060,AHPC,21,72,16,281.9,4510.4,2026-04-23,187686440,360,Midas Stock Broking Company Private Limited,Hatemalo Financial Services Private Limited,2026-04-23 12:18:07.773687,Arun Valley Hydropower Development Co. Ltd.
-2026042304004108,AHPC,45,72,128,281.9,36083.2,2026-04-23,187687366,360,Imperial Securities Company Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:19:16.021842,Arun Valley Hydropower Development Co. Ltd.
-2026042304004164,AHPC,4,45,178,281.0,50018.0,2026-04-23,187688420,360,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:20:51.633071,Arun Valley Hydropower Development Co. Ltd.
-2026042304004165,AHPC,50,45,1000,281.0,281000.0,2026-04-23,187688422,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:20:51.633373,Arun Valley Hydropower Development Co. Ltd.
-2026042304004202,AHPC,58,45,250,281.0,70250.0,2026-04-23,187689176,360,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:21:53.405814,Arun Valley Hydropower Development Co. Ltd.
-2026042304004276,AHPC,36,77,200,280.1,56020.0,2026-04-23,187690294,360,Secured Securities Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.477955,Arun Valley Hydropower Development Co. Ltd.
-2026042304004277,AHPC,40,77,553,280.0,154840.0,2026-04-23,187690296,360,Creative Securities Pvt Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.478613,Arun Valley Hydropower Development Co. Ltd.
-2026042304004278,AHPC,42,77,57,280.0,15960.0,2026-04-23,187690298,360,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.479026,Arun Valley Hydropower Development Co. Ltd.
-2026042304004279,AHPC,44,77,183,280.0,51240.0,2026-04-23,187690300,360,Dynamic Money Managers Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.479429,Arun Valley Hydropower Development Co. Ltd.
-2026042304004280,AHPC,6,77,50,280.0,14000.0,2026-04-23,187690302,360,Agrawal Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.479807,Arun Valley Hydropower Development Co. Ltd.
-2026042304004281,AHPC,1,77,300,279.1,83730.0,2026-04-23,187690304,360,Kumari Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.480197,Arun Valley Hydropower Development Co. Ltd.
-2026042304004282,AHPC,29,77,694,279.0,193626.0,2026-04-23,187690306,360,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.480601,Arun Valley Hydropower Development Co. Ltd.
-2026042304004283,AHPC,62,77,291,279.0,81189.0,2026-04-23,187690308,360,Capital Max Securities Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.480892,Arun Valley Hydropower Development Co. Ltd.
-2026042304004284,AHPC,58,77,100,279.0,27900.0,2026-04-23,187690310,360,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481023,Arun Valley Hydropower Development Co. Ltd.
-2026042304004285,AHPC,19,77,50,279.0,13950.0,2026-04-23,187690312,360,Nepal Investment And Securities Trading Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481150,Arun Valley Hydropower Development Co. Ltd.
-2026042304004286,AHPC,58,77,50,279.0,13950.0,2026-04-23,187690314,360,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481279,Arun Valley Hydropower Development Co. Ltd.
-2026042304004287,AHPC,49,77,70,279.0,19530.0,2026-04-23,187690316,360,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481406,Arun Valley Hydropower Development Co. Ltd.
-2026042304004288,AHPC,32,77,402,279.0,112158.0,2026-04-23,187690317,360,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481525,Arun Valley Hydropower Development Co. Ltd.
-2026042304004299,AHPC,74,49,110,280.0,30800.0,2026-04-23,187690607,360,KALASH STOCK MARKET PVT. LTD.,Online Securities Pvt. Ltd.,2026-04-23 12:24:13.230347,Arun Valley Hydropower Development Co. Ltd.
-2026042304004333,AHPC,44,45,500,281.0,140500.0,2026-04-23,187691426,360,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:25:38.383130,Arun Valley Hydropower Development Co. Ltd.
-2026042304004336,AHPC,44,45,16,281.0,4496.0,2026-04-23,187691562,360,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:25:58.663710,Arun Valley Hydropower Development Co. Ltd.
-2026042304004360,AHPC,66,45,50,281.0,14050.0,2026-04-23,187692083,360,Miyo Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:26:44.448613,Arun Valley Hydropower Development Co. Ltd.
-2026042304004384,AHPC,49,72,20,281.9,5638.0,2026-04-23,187692632,360,Online Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:27:30.269538,Arun Valley Hydropower Development Co. Ltd.
-2026042304004385,AHPC,74,77,190,280.0,53200.0,2026-04-23,187692652,360,KALASH STOCK MARKET PVT. LTD.,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.769863,Arun Valley Hydropower Development Co. Ltd.
-2026042304004386,AHPC,59,77,1000,280.0,280000.0,2026-04-23,187692654,360,Deevyaa Securities & Stock House Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.770449,Arun Valley Hydropower Development Co. Ltd.
-2026042304004387,AHPC,35,77,175,280.0,49000.0,2026-04-23,187692656,360,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.770805,Arun Valley Hydropower Development Co. Ltd.
-2026042304004388,AHPC,29,77,3635,280.0,1017800.0,2026-04-23,187692657,360,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.771167,Arun Valley Hydropower Development Co. Ltd.
-2026042304004392,AHPC,19,72,25,281.9,7047.5,2026-04-23,187692716,360,Nepal Investment And Securities Trading Private Limited,Hatemalo Financial Services Private Limited,2026-04-23 12:27:41.092495,Arun Valley Hydropower Development Co. Ltd.
-2026042304004466,AHPC,34,49,160,281.0,44960.0,2026-04-23,187694149,360,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 12:30:32.726237,Arun Valley Hydropower Development Co. Ltd.
-2026042304004631,AHPC,49,87,50,281.1,14055.0,2026-04-23,187696245,360,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:34:33.490268,Arun Valley Hydropower Development Co. Ltd.
-2026042304004663,AHPC,33,72,600,281.9,169140.0,2026-04-23,187696890,360,Dakshinkali Investment & Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:35:26.058427,Arun Valley Hydropower Development Co. Ltd.
-2026042304004666,AHPC,49,72,46,281.9,12967.4,2026-04-23,187697105,360,Online Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:35:39.190037,Arun Valley Hydropower Development Co. Ltd.
-2026042304004667,AHPC,49,44,500,282.4,141200.0,2026-04-23,187697107,360,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:35:39.190346,Arun Valley Hydropower Development Co. Ltd.
-2026042304004668,AHPC,49,41,340,282.5,96050.0,2026-04-23,187697109,360,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 12:35:39.190476,Arun Valley Hydropower Development Co. Ltd.
-2026042304004669,AHPC,49,35,64,282.7,18092.8,2026-04-23,187697112,360,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:35:39.190603,Arun Valley Hydropower Development Co. Ltd.
-2026042304004848,AHPC,6,35,30,282.7,8481.0,2026-04-23,187699608,360,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:39:14.321692,Arun Valley Hydropower Development Co. Ltd.
-2026042304004942,AHPC,34,77,15,281.0,4215.0,2026-04-23,187700466,360,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174241,Arun Valley Hydropower Development Co. Ltd.
-2026042304004943,AHPC,19,77,200,281.0,56200.0,2026-04-23,187700468,360,Nepal Investment And Securities Trading Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174549,Arun Valley Hydropower Development Co. Ltd.
-2026042304004944,AHPC,51,77,100,281.0,28100.0,2026-04-23,187700470,360,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174683,Arun Valley Hydropower Development Co. Ltd.
-2026042304004945,AHPC,60,77,190,280.2,53238.0,2026-04-23,187700472,360,Nagarik Stock Dealer ,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174819,Arun Valley Hydropower Development Co. Ltd.
-2026042304004946,AHPC,7,77,2000,280.2,560400.0,2026-04-23,187700474,360,J.F. Securites (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174950,Arun Valley Hydropower Development Co. Ltd.
-2026042304004947,AHPC,35,77,100,280.1,28010.0,2026-04-23,187700476,360,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175080,Arun Valley Hydropower Development Co. Ltd.
-2026042304004948,AHPC,41,77,500,280.1,140050.0,2026-04-23,187700478,360,Linch Stock Market Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175203,Arun Valley Hydropower Development Co. Ltd.
-2026042304004949,AHPC,29,77,650,280.0,182000.0,2026-04-23,187700480,360,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175337,Arun Valley Hydropower Development Co. Ltd.
-2026042304004950,AHPC,48,77,535,280.0,149800.0,2026-04-23,187700482,360,Trishakti Securities Public Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175466,Arun Valley Hydropower Development Co. Ltd.
-2026042304004951,AHPC,6,77,58,280.0,16240.0,2026-04-23,187700484,360,Agrawal Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175591,Arun Valley Hydropower Development Co. Ltd.
-2026042304004952,AHPC,62,77,150,280.0,42000.0,2026-04-23,187700486,360,Capital Max Securities Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175716,Arun Valley Hydropower Development Co. Ltd.
-2026042304004953,AHPC,32,77,300,280.0,84000.0,2026-04-23,187700488,360,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175838,Arun Valley Hydropower Development Co. Ltd.
-2026042304004954,AHPC,51,77,150,280.0,42000.0,2026-04-23,187700490,360,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.176130,Arun Valley Hydropower Development Co. Ltd.
-2026042304004955,AHPC,32,77,52,280.0,14560.0,2026-04-23,187700491,360,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.176483,Arun Valley Hydropower Development Co. Ltd.
-2026042304005019,AHPC,58,19,10,282.7,2827.0,2026-04-23,187701348,360,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 12:43:06.170529,Arun Valley Hydropower Development Co. Ltd.
-2026042304005204,AHPC,34,77,40,281.0,11240.0,2026-04-23,187705350,360,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.470657,Arun Valley Hydropower Development Co. Ltd.
-2026042304005205,AHPC,33,77,10,280.2,2802.0,2026-04-23,187705352,360,Dakshinkali Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.471269,Arun Valley Hydropower Development Co. Ltd.
-2026042304005206,AHPC,58,77,40,280.1,11204.0,2026-04-23,187705354,360,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.471706,Arun Valley Hydropower Development Co. Ltd.
-2026042304005207,AHPC,57,77,1000,280.1,280100.0,2026-04-23,187705356,360,Aryatara Investment & Securities,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.472102,Arun Valley Hydropower Development Co. Ltd.
-2026042304005208,AHPC,32,77,148,280.0,41440.0,2026-04-23,187705358,360,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.472512,Arun Valley Hydropower Development Co. Ltd.
-2026042304005209,AHPC,46,77,40,280.0,11200.0,2026-04-23,187705360,360,Kalika Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.472905,Arun Valley Hydropower Development Co. Ltd.
-2026042304005210,AHPC,22,77,200,280.0,56000.0,2026-04-23,187705362,360,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.473291,Arun Valley Hydropower Development Co. Ltd.
-2026042304005211,AHPC,29,77,500,280.0,140000.0,2026-04-23,187705364,360,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.473700,Arun Valley Hydropower Development Co. Ltd.
-2026042304005212,AHPC,25,77,300,280.0,84000.0,2026-04-23,187705366,360,Sweta Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.474081,Arun Valley Hydropower Development Co. Ltd.
-2026042304005213,AHPC,42,77,350,280.0,98000.0,2026-04-23,187705368,360,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.474472,Arun Valley Hydropower Development Co. Ltd.
-2026042304005214,AHPC,21,77,5372,280.0,1504160.0,2026-04-23,187705369,360,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.474854,Arun Valley Hydropower Development Co. Ltd.
-2026042304005393,AHPC,22,34,200,281.0,56200.0,2026-04-23,187707923,360,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:53:37.689174,Arun Valley Hydropower Development Co. Ltd.
-2026042304005404,AHPC,29,58,25,282.6,7065.0,2026-04-23,187708116,360,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:54:04.062307,Arun Valley Hydropower Development Co. Ltd.
-2026042304005463,AHPC,3,77,2000,281.0,562000.0,2026-04-23,187708848,360,Arun Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.760343,Arun Valley Hydropower Development Co. Ltd.
-2026042304005464,AHPC,67,77,200,280.7,56140.0,2026-04-23,187708850,360,Property Wiard Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.760929,Arun Valley Hydropower Development Co. Ltd.
-2026042304005465,AHPC,4,77,700,280.5,196350.0,2026-04-23,187708852,360,Opal Securities Investment (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.761356,Arun Valley Hydropower Development Co. Ltd.
-2026042304005466,AHPC,39,77,100,280.2,28020.0,2026-04-23,187708854,360,Sumeru Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.761745,Arun Valley Hydropower Development Co. Ltd.
-2026042304005467,AHPC,21,77,704,280.2,197260.8,2026-04-23,187708856,360,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.762148,Arun Valley Hydropower Development Co. Ltd.
-2026042304005468,AHPC,51,77,40,280.0,11200.0,2026-04-23,187708858,360,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.762563,Arun Valley Hydropower Development Co. Ltd.
-2026042304005469,AHPC,58,77,50,280.0,14000.0,2026-04-23,187708860,360,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.762958,Arun Valley Hydropower Development Co. Ltd.
-2026042304005470,AHPC,14,77,300,280.0,84000.0,2026-04-23,187708862,360,Nepal Stock House (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.763364,Arun Valley Hydropower Development Co. Ltd.
-2026042304005471,AHPC,77,77,500,280.0,140000.0,2026-04-23,187708864,360,Nabil Stock Dealer Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.763747,Arun Valley Hydropower Development Co. Ltd.
-2026042304005472,AHPC,48,77,270,280.0,75600.0,2026-04-23,187708866,360,Trishakti Securities Public Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.764136,Arun Valley Hydropower Development Co. Ltd.
-2026042304005473,AHPC,48,77,136,280.0,38080.0,2026-04-23,187708867,360,Trishakti Securities Public Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.764539,Arun Valley Hydropower Development Co. Ltd.
-2026042304005603,AHPC,59,22,500,282.7,141350.0,2026-04-23,187710947,360,Deevyaa Securities & Stock House Pvt. Ltd,Siprabi Securities Pvt. Ltd.,2026-04-23 12:58:08.702017,Arun Valley Hydropower Development Co. Ltd.
-2026042304005604,AHPC,59,19,10,282.7,2827.0,2026-04-23,187710950,360,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-23 12:58:08.702660,Arun Valley Hydropower Development Co. Ltd.
-2026042304005625,AHPC,11,44,206,282.8,58256.8,2026-04-23,187711196,360,Malla & Malla Stock Broking Company Pvt. Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:58:30.723693,Arun Valley Hydropower Development Co. Ltd.
-2026042304005627,AHPC,19,44,125,282.8,35350.0,2026-04-23,187711280,360,Nepal Investment And Securities Trading Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:58:34.664754,Arun Valley Hydropower Development Co. Ltd.
-2026042304005855,AHPC,57,29,10,282.1,2821.0,2026-04-23,187715128,360,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-23 13:03:03.752925,Arun Valley Hydropower Development Co. Ltd.
-2026042304005856,AHPC,49,29,490,282.0,138180.0,2026-04-23,187715129,360,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:03:03.753033,Arun Valley Hydropower Development Co. Ltd.
-2026042304005861,AHPC,50,44,169,282.8,47793.2,2026-04-23,187715212,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:03:08.406423,Arun Valley Hydropower Development Co. Ltd.
-2026042304005862,AHPC,50,45,31,283.0,8773.0,2026-04-23,187715215,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:03:08.406718,Arun Valley Hydropower Development Co. Ltd.
-2026042304005956,AHPC,49,22,10,282.0,2820.0,2026-04-23,187715952,360,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:04:07.760522,Arun Valley Hydropower Development Co. Ltd.
-2026042304005998,AHPC,39,22,111,282.0,31302.0,2026-04-23,187716782,360,Sumeru Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:04:59.687616,Arun Valley Hydropower Development Co. Ltd.
-2026042304006132,AHPC,47,29,1000,282.9,282900.0,2026-04-23,187718202,360,Neev Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:07:37.060455,Arun Valley Hydropower Development Co. Ltd.
-2026042304006157,AHPC,39,3,32,282.1,9027.2,2026-04-23,187718397,360,Sumeru Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-23 13:07:57.160859,Arun Valley Hydropower Development Co. Ltd.
-2026042304006292,AHPC,39,14,180,282.8,50904.0,2026-04-23,187720708,360,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:10:54.602508,Arun Valley Hydropower Development Co. Ltd.
-2026042304006376,AHPC,63,29,200,282.9,56580.0,2026-04-23,187721940,360,Himalayan Brokerage Company Limited,Trisul Securities & Invt. Ltd.,2026-04-23 13:13:01.423185,Arun Valley Hydropower Development Co. Ltd.
-2026042304006379,AHPC,49,29,300,282.9,84870.0,2026-04-23,187722001,360,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:13:11.530705,Arun Valley Hydropower Development Co. Ltd.
-2026042304006388,AHPC,26,45,1369,283.0,387427.0,2026-04-23,187722335,360,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:13:55.841066,Arun Valley Hydropower Development Co. Ltd.
-2026042304006389,AHPC,26,41,200,283.0,56600.0,2026-04-23,187722337,360,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-23 13:13:55.841717,Arun Valley Hydropower Development Co. Ltd.
-2026042304006390,AHPC,26,57,15,283.0,4245.0,2026-04-23,187722339,360,Asian Securities Private Ltd.,Aryatara Investment & Securities,2026-04-23 13:13:55.842155,Arun Valley Hydropower Development Co. Ltd.
-2026042304006391,AHPC,26,35,500,283.0,141500.0,2026-04-23,187722341,360,Asian Securities Private Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:13:55.842600,Arun Valley Hydropower Development Co. Ltd.
-2026042304006414,AHPC,42,44,90,283.8,25542.0,2026-04-23,187722898,360,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:14:56.772335,Arun Valley Hydropower Development Co. Ltd.
-2026042304006440,AHPC,26,41,250,283.0,70750.0,2026-04-23,187723447,360,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-23 13:15:35.233825,Arun Valley Hydropower Development Co. Ltd.
-2026042304006449,AHPC,26,45,666,283.0,188478.0,2026-04-23,187723488,360,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:15:41.544694,Arun Valley Hydropower Development Co. Ltd.
-2026042304006450,AHPC,1,45,10,283.0,2830.0,2026-04-23,187723490,360,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:15:41.545431,Arun Valley Hydropower Development Co. Ltd.
-2026042304006609,AHPC,58,44,15,283.8,4257.0,2026-04-23,187726192,360,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:19:53.216238,Arun Valley Hydropower Development Co. Ltd.
-2026042304006646,AHPC,38,44,170,283.8,48246.0,2026-04-23,187726694,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:20:51.233993,Arun Valley Hydropower Development Co. Ltd.
-2026042304006667,AHPC,50,44,225,283.8,63855.0,2026-04-23,187726880,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:21:14.989189,Arun Valley Hydropower Development Co. Ltd.
-2026042304006696,AHPC,71,81,200,283.1,56620.0,2026-04-23,187727103,360,SHUBHAKAMANA SECURITIES PVT. LTD,Aakashbhairab Securities Ltd.,2026-04-23 13:21:41.954856,Arun Valley Hydropower Development Co. Ltd.
-2026042304006753,AHPC,71,26,500,283.1,141550.0,2026-04-23,187728099,360,SHUBHAKAMANA SECURITIES PVT. LTD,Asian Securities Private Ltd.,2026-04-23 13:23:28.543011,Arun Valley Hydropower Development Co. Ltd.
-2026042304006768,AHPC,71,59,300,283.1,84930.0,2026-04-23,187728312,360,SHUBHAKAMANA SECURITIES PVT. LTD,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:23:57.282238,Arun Valley Hydropower Development Co. Ltd.
-2026042304006769,AHPC,47,59,116,283.0,32828.0,2026-04-23,187728314,360,Neev Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:23:57.282654,Arun Valley Hydropower Development Co. Ltd.
-2026042304006791,AHPC,17,59,100,283.0,28300.0,2026-04-23,187728814,360,ABC Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:24:36.585773,Arun Valley Hydropower Development Co. Ltd.
-2026042304006811,AHPC,13,59,100,283.0,28300.0,2026-04-23,187729154,360,Thrive Brokerage House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:25:11.032301,Arun Valley Hydropower Development Co. Ltd.
-2026042304006859,AHPC,94,59,44,283.0,12452.0,2026-04-23,187729791,360,K.B.L. Securities Limited ,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:26:13.392701,Arun Valley Hydropower Development Co. Ltd.
-2026042304007001,AHPC,49,32,10,282.9,2829.0,2026-04-23,187731013,360,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 13:27:58.175384,Arun Valley Hydropower Development Co. Ltd.
-2026042304007019,AHPC,49,34,43,282.9,12164.7,2026-04-23,187731120,360,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.679892,Arun Valley Hydropower Development Co. Ltd.
-2026042304007020,AHPC,57,34,100,282.9,28290.0,2026-04-23,187731122,360,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.680234,Arun Valley Hydropower Development Co. Ltd.
-2026042304007021,AHPC,39,34,100,282.0,28200.0,2026-04-23,187731124,360,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.680430,Arun Valley Hydropower Development Co. Ltd.
-2026042304007022,AHPC,70,34,757,282.0,213474.0,2026-04-23,187731125,360,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.680584,Arun Valley Hydropower Development Co. Ltd.
-2026042304007069,AHPC,70,48,100,282.0,28200.0,2026-04-23,187731421,360,Infinity Securities Limited,Trishakti Securities Public Limited,2026-04-23 13:28:24.433527,Arun Valley Hydropower Development Co. Ltd.
-2026042304007108,AHPC,70,19,70,282.0,19740.0,2026-04-23,187731665,360,Infinity Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-23 13:28:44.828478,Arun Valley Hydropower Development Co. Ltd.
-2026042304007137,AHPC,70,50,73,282.0,20586.0,2026-04-23,187731932,360,Infinity Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.498055,Arun Valley Hydropower Development Co. Ltd.
-2026042304007138,AHPC,52,50,20,282.0,5640.0,2026-04-23,187731934,360,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.498778,Arun Valley Hydropower Development Co. Ltd.
-2026042304007139,AHPC,57,50,100,282.0,28200.0,2026-04-23,187731936,360,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.499266,Arun Valley Hydropower Development Co. Ltd.
-2026042304007140,AHPC,17,50,327,282.0,92214.0,2026-04-23,187731937,360,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.499725,Arun Valley Hydropower Development Co. Ltd.
-2026042304007337,AHPC,17,81,43,282.0,12126.0,2026-04-23,187734350,360,ABC Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.170685,Arun Valley Hydropower Development Co. Ltd.
-2026042304007338,AHPC,58,81,20,282.0,5640.0,2026-04-23,187734352,360,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.171408,Arun Valley Hydropower Development Co. Ltd.
-2026042304007339,AHPC,58,81,10,282.0,2820.0,2026-04-23,187734354,360,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.171871,Arun Valley Hydropower Development Co. Ltd.
-2026042304007340,AHPC,38,81,200,281.7,56340.0,2026-04-23,187734356,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.172325,Arun Valley Hydropower Development Co. Ltd.
-2026042304007341,AHPC,57,81,90,281.7,25353.0,2026-04-23,187734358,360,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.172772,Arun Valley Hydropower Development Co. Ltd.
-2026042304007342,AHPC,50,81,500,281.6,140800.0,2026-04-23,187734360,360,Cristal Kanchanjanga Securites Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.173213,Arun Valley Hydropower Development Co. Ltd.
-2026042304007343,AHPC,88,81,500,281.4,140700.0,2026-04-23,187734362,360,Blue Chip Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.173686,Arun Valley Hydropower Development Co. Ltd.
-2026042304007344,AHPC,88,81,500,281.3,140650.0,2026-04-23,187734364,360,Blue Chip Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.174127,Arun Valley Hydropower Development Co. Ltd.
-2026042304007345,AHPC,46,81,110,281.0,30910.0,2026-04-23,187734366,360,Kalika Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.174574,Arun Valley Hydropower Development Co. Ltd.
-2026042304007346,AHPC,35,81,500,281.0,140500.0,2026-04-23,187734368,360,Kohinoor Investment & Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.175005,Arun Valley Hydropower Development Co. Ltd.
-2026042304007347,AHPC,62,81,27,281.0,7587.0,2026-04-23,187734369,360,Capital Max Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.175450,Arun Valley Hydropower Development Co. Ltd.
-2026042304007361,AHPC,62,81,103,281.0,28943.0,2026-04-23,187734528,360,Capital Max Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515159,Arun Valley Hydropower Development Co. Ltd.
-2026042304007362,AHPC,58,81,85,281.0,23885.0,2026-04-23,187734530,360,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515539,Arun Valley Hydropower Development Co. Ltd.
-2026042304007363,AHPC,49,81,50,281.0,14050.0,2026-04-23,187734532,360,Online Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515692,Arun Valley Hydropower Development Co. Ltd.
-2026042304007364,AHPC,8,81,300,280.4,84120.0,2026-04-23,187734534,360,Brilliant Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515838,Arun Valley Hydropower Development Co. Ltd.
-2026042304007365,AHPC,41,81,1000,280.3,280300.0,2026-04-23,187734536,360,Linch Stock Market Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515982,Arun Valley Hydropower Development Co. Ltd.
-2026042304007366,AHPC,25,81,410,280.3,114923.0,2026-04-23,187734538,360,Sweta Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.516125,Arun Valley Hydropower Development Co. Ltd.
-2026042304007367,AHPC,89,81,355,280.2,99471.0,2026-04-23,187734540,360,Global IME Securities Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.516268,Arun Valley Hydropower Development Co. Ltd.
-2026042304007368,AHPC,48,81,203,280.0,56840.0,2026-04-23,187734541,360,Trishakti Securities Public Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.516429,Arun Valley Hydropower Development Co. Ltd.
-2026042304007438,AHPC,52,51,10,280.1,2801.0,2026-04-23,187735349,360,Sundhara Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-23 13:33:40.802502,Arun Valley Hydropower Development Co. Ltd.
-2026042304007496,AHPC,48,58,100,280.2,28020.0,2026-04-23,187736108,360,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.707914,Arun Valley Hydropower Development Co. Ltd.
-2026042304007497,AHPC,52,58,190,280.1,53219.0,2026-04-23,187736110,360,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.707966,Arun Valley Hydropower Development Co. Ltd.
-2026042304007498,AHPC,44,58,89,280.1,24928.9,2026-04-23,187736112,360,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.707998,Arun Valley Hydropower Development Co. Ltd.
-2026042304007499,AHPC,48,58,11,280.0,3080.0,2026-04-23,187736114,360,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.708024,Arun Valley Hydropower Development Co. Ltd.
-2026042304007500,AHPC,42,58,120,280.0,33600.0,2026-04-23,187736115,360,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.708049,Arun Valley Hydropower Development Co. Ltd.
-2026042304007512,AHPC,58,8,4,280.0,1120.0,2026-04-23,187736275,360,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 13:35:06.219012,Arun Valley Hydropower Development Co. Ltd.
-2026042304007590,AHPC,4,58,50,280.1,14005.0,2026-04-23,187737090,360,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181455,Arun Valley Hydropower Development Co. Ltd.
-2026042304007591,AHPC,42,58,380,280.0,106400.0,2026-04-23,187737092,360,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181550,Arun Valley Hydropower Development Co. Ltd.
-2026042304007592,AHPC,38,58,200,280.0,56000.0,2026-04-23,187737094,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181581,Arun Valley Hydropower Development Co. Ltd.
-2026042304007593,AHPC,51,58,150,280.0,42000.0,2026-04-23,187737096,360,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181604,Arun Valley Hydropower Development Co. Ltd.
-2026042304007594,AHPC,49,58,70,280.0,19600.0,2026-04-23,187737098,360,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181625,Arun Valley Hydropower Development Co. Ltd.
-2026042304007595,AHPC,8,58,150,280.0,42000.0,2026-04-23,187737099,360,Brilliant Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181653,Arun Valley Hydropower Development Co. Ltd.
-2026042304007635,AHPC,8,6,50,280.0,14000.0,2026-04-23,187737800,360,Brilliant Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.222414,Arun Valley Hydropower Development Co. Ltd.
-2026042304007636,AHPC,13,6,200,280.0,56000.0,2026-04-23,187737802,360,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.223049,Arun Valley Hydropower Development Co. Ltd.
-2026042304007637,AHPC,57,6,10,280.0,2800.0,2026-04-23,187737804,360,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.223508,Arun Valley Hydropower Development Co. Ltd.
-2026042304007638,AHPC,45,6,500,280.0,140000.0,2026-04-23,187737806,360,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.223939,Arun Valley Hydropower Development Co. Ltd.
-2026042304007639,AHPC,58,6,50,280.0,14000.0,2026-04-23,187737808,360,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.224385,Arun Valley Hydropower Development Co. Ltd.
-2026042304007640,AHPC,52,6,190,280.0,53200.0,2026-04-23,187737809,360,Sundhara Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.224807,Arun Valley Hydropower Development Co. Ltd.
-2026042304007803,AHPC,58,75,13,281.0,3653.0,2026-04-23,187740466,360,Naasa Securities Co. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-23 13:43:06.647210,Arun Valley Hydropower Development Co. Ltd.
-2026042304007804,AHPC,52,21,13,280.2,3642.6,2026-04-23,187740468,360,Sundhara Securities Limited,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.786763,Arun Valley Hydropower Development Co. Ltd.
-2026042304007805,AHPC,49,21,10,280.2,2802.0,2026-04-23,187740470,360,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787064,Arun Valley Hydropower Development Co. Ltd.
-2026042304007806,AHPC,42,21,200,280.1,56020.0,2026-04-23,187740472,360,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787209,Arun Valley Hydropower Development Co. Ltd.
-2026042304007807,AHPC,52,21,310,280.0,86800.0,2026-04-23,187740474,360,Sundhara Securities Limited,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787357,Arun Valley Hydropower Development Co. Ltd.
-2026042304007808,AHPC,57,21,967,280.0,270760.0,2026-04-23,187740475,360,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787505,Arun Valley Hydropower Development Co. Ltd.
-2026042304007810,AHPC,57,25,20,280.0,5600.0,2026-04-23,187740541,360,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-23 13:43:11.561656,Arun Valley Hydropower Development Co. Ltd.
-2026042304007813,AHPC,57,21,13,280.0,3640.0,2026-04-23,187740563,360,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-23 13:43:13.451790,Arun Valley Hydropower Development Co. Ltd.
-2026042304007814,AHPC,35,21,487,280.0,136360.0,2026-04-23,187740565,360,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 13:43:13.452475,Arun Valley Hydropower Development Co. Ltd.
-2026042304007816,AHPC,35,58,10,280.0,2800.0,2026-04-23,187740613,360,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:43:26.156854,Arun Valley Hydropower Development Co. Ltd.
-2026042304007824,AHPC,35,6,503,280.0,140840.0,2026-04-23,187740708,360,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:41.215196,Arun Valley Hydropower Development Co. Ltd.
-2026042304007825,AHPC,4,6,14,280.0,3920.0,2026-04-23,187740710,360,Opal Securities Investment (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:41.215532,Arun Valley Hydropower Development Co. Ltd.
-2026042304007826,AHPC,58,6,1083,280.0,303240.0,2026-04-23,187740711,360,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:41.215678,Arun Valley Hydropower Development Co. Ltd.
-2026042304007829,AHPC,58,26,220,280.0,61600.0,2026-04-23,187740795,360,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-23 13:43:56.941556,Arun Valley Hydropower Development Co. Ltd.
-2026042304007987,AHPC,42,49,10,282.9,2829.0,2026-04-23,187743420,360,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:49:34.290456,Arun Valley Hydropower Development Co. Ltd.
-2026042304008001,AHPC,42,49,10,282.9,2829.0,2026-04-23,187743840,360,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:50:01.335397,Arun Valley Hydropower Development Co. Ltd.
-2026042304008014,AHPC,52,58,6,280.0,1680.0,2026-04-23,187744221,360,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-23 13:51:04.679452,Arun Valley Hydropower Development Co. Ltd.
-2026042304008027,AHPC,52,17,1,280.0,280.0,2026-04-23,187744417,360,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-23 13:51:46.691560,Arun Valley Hydropower Development Co. Ltd.
-2026042304008059,AHPC,52,75,3,281.0,843.0,2026-04-23,187745003,360,Sundhara Securities Limited,N.I.M.B. Stock Markets Limited,2026-04-23 13:53:10.468805,Arun Valley Hydropower Development Co. Ltd.
-2026042304008063,AHPC,34,59,54,281.0,15174.0,2026-04-23,187745093,360,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:53:28.468928,Arun Valley Hydropower Development Co. Ltd.
-2026042304008112,AHPC,7,20,1400,282.0,394800.0,2026-04-23,187745962,360,J.F. Securites (PVT) Ltd.,Sipla Securities Private Limited,2026-04-23 13:55:46.795826,Arun Valley Hydropower Development Co. Ltd.
-2026042304008113,AHPC,34,20,290,281.0,81490.0,2026-04-23,187745963,360,Vision Securities Pvt. Ltd,Sipla Securities Private Limited,2026-04-23 13:55:46.796172,Arun Valley Hydropower Development Co. Ltd.
-2026042304008156,AHPC,34,49,30,281.0,8430.0,2026-04-23,187746469,360,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 13:56:56.671175,Arun Valley Hydropower Development Co. Ltd.
-2026042304008220,AHPC,34,84,126,281.0,35406.0,2026-04-23,187747478,360,Vision Securities Pvt. Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-23 13:59:13.196826,Arun Valley Hydropower Development Co. Ltd.
-2026042304008221,AHPC,13,84,74,281.0,20794.0,2026-04-23,187747479,360,Thrive Brokerage House Pvt. Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-23 13:59:13.197275,Arun Valley Hydropower Development Co. Ltd.
-2026042304008262,AHPC,13,87,26,281.0,7306.0,2026-04-23,187747932,360,Thrive Brokerage House Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-23 14:00:17.795668,Arun Valley Hydropower Development Co. Ltd.
-2026042304008263,AHPC,42,87,26,281.0,7306.0,2026-04-23,187747933,360,Sani Securities Company Ltd.,S.P.S.A. Securities Limited,2026-04-23 14:00:17.796079,Arun Valley Hydropower Development Co. Ltd.
-2026042304008266,AHPC,19,26,50,281.0,14050.0,2026-04-23,187748003,360,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-23 14:00:26.523329,Arun Valley Hydropower Development Co. Ltd.
-2026042304008390,AHPC,19,45,50,281.0,14050.0,2026-04-23,187749148,360,Nepal Investment And Securities Trading Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:46.610462,Arun Valley Hydropower Development Co. Ltd.
-2026042304008391,AHPC,58,45,100,280.6,28060.0,2026-04-23,187749150,360,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:46.610802,Arun Valley Hydropower Development Co. Ltd.
-2026042304008392,AHPC,42,45,185,280.5,51892.5,2026-04-23,187749151,360,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:46.610961,Arun Valley Hydropower Development Co. Ltd.
-2026042304008470,AHPC,58,1,10,282.9,2829.0,2026-04-23,187750136,360,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-23 14:04:34.178943,Arun Valley Hydropower Development Co. Ltd.
-2026042304008505,AHPC,44,86,300,280.6,84180.0,2026-04-23,187750568,360,Dynamic Money Managers Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184029,Arun Valley Hydropower Development Co. Ltd.
-2026042304008506,AHPC,42,86,165,280.5,46282.5,2026-04-23,187750570,360,Sani Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184133,Arun Valley Hydropower Development Co. Ltd.
-2026042304008507,AHPC,52,86,12,280.1,3361.2,2026-04-23,187750572,360,Sundhara Securities Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184208,Arun Valley Hydropower Development Co. Ltd.
-2026042304008508,AHPC,36,86,100,280.1,28010.0,2026-04-23,187750574,360,Secured Securities Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184275,Arun Valley Hydropower Development Co. Ltd.
-2026042304008509,AHPC,58,86,697,280.0,195160.0,2026-04-23,187750576,360,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184378,Arun Valley Hydropower Development Co. Ltd.
-2026042304008510,AHPC,6,86,200,280.0,56000.0,2026-04-23,187750578,360,Agrawal Securities (PVT) Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184445,Arun Valley Hydropower Development Co. Ltd.
-2026042304008511,AHPC,22,86,150,280.0,42000.0,2026-04-23,187750580,360,Siprabi Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184508,Arun Valley Hydropower Development Co. Ltd.
-2026042304008512,AHPC,57,86,30,280.0,8400.0,2026-04-23,187750582,360,Aryatara Investment & Securities,Stoxkarts Securities Limited,2026-04-23 14:05:29.184573,Arun Valley Hydropower Development Co. Ltd.
-2026042304008513,AHPC,21,86,41,280.0,11480.0,2026-04-23,187750584,360,Midas Stock Broking Company Private Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184638,Arun Valley Hydropower Development Co. Ltd.
-2026042304008514,AHPC,41,86,100,280.0,28000.0,2026-04-23,187750586,360,Linch Stock Market Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184703,Arun Valley Hydropower Development Co. Ltd.
-2026042304008515,AHPC,78,86,57,280.0,15960.0,2026-04-23,187750588,360,Garima Securities Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184790,Arun Valley Hydropower Development Co. Ltd.
-2026042304008516,AHPC,35,86,70,280.0,19600.0,2026-04-23,187750590,360,Kohinoor Investment & Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184854,Arun Valley Hydropower Development Co. Ltd.
-2026042304008517,AHPC,21,86,78,280.0,21840.0,2026-04-23,187750591,360,Midas Stock Broking Company Private Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184919,Arun Valley Hydropower Development Co. Ltd.
-2026042304008528,AHPC,21,38,205,280.0,57400.0,2026-04-23,187750830,360,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476186,Arun Valley Hydropower Development Co. Ltd.
-2026042304008529,AHPC,58,38,200,280.0,56000.0,2026-04-23,187750832,360,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476284,Arun Valley Hydropower Development Co. Ltd.
-2026042304008530,AHPC,49,38,50,279.7,13985.0,2026-04-23,187750834,360,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476327,Arun Valley Hydropower Development Co. Ltd.
-2026042304008531,AHPC,16,38,400,279.5,111800.0,2026-04-23,187750836,360,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476356,Arun Valley Hydropower Development Co. Ltd.
-2026042304008532,AHPC,52,38,2000,279.5,559000.0,2026-04-23,187750838,360,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476380,Arun Valley Hydropower Development Co. Ltd.
-2026042304008533,AHPC,29,38,145,279.3,40498.5,2026-04-23,187750839,360,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476403,Arun Valley Hydropower Development Co. Ltd.
-2026042304008715,AHPC,58,60,144,281.0,40464.0,2026-04-23,187753038,360,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:09:46.286851,Arun Valley Hydropower Development Co. Ltd.
-2026042304008723,AHPC,7,43,1000,279.4,279400.0,2026-04-23,187753194,360,J.F. Securites (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:10:02.547685,Arun Valley Hydropower Development Co. Ltd.
-2026042304008724,AHPC,29,43,1000,279.3,279300.0,2026-04-23,187753195,360,Trisul Securities & Invt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:10:02.548056,Arun Valley Hydropower Development Co. Ltd.
-2026042304008786,AHPC,42,60,10,281.0,2810.0,2026-04-23,187753822,360,Sani Securities Company Ltd.,Nagarik Stock Dealer ,2026-04-23 14:11:01.399499,Arun Valley Hydropower Development Co. Ltd.
-2026042304008805,AHPC,6,70,300,280.0,84000.0,2026-04-23,187754132,360,Agrawal Securities (PVT) Ltd.,Infinity Securities Limited,2026-04-23 14:11:37.262867,Arun Valley Hydropower Development Co. Ltd.
-2026042304008806,AHPC,47,70,200,280.0,56000.0,2026-04-23,187754134,360,Neev Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-23 14:11:37.263579,Arun Valley Hydropower Development Co. Ltd.
-2026042304008808,AHPC,6,70,200,280.0,56000.0,2026-04-23,187754190,360,Agrawal Securities (PVT) Ltd.,Infinity Securities Limited,2026-04-23 14:11:47.741919,Arun Valley Hydropower Development Co. Ltd.
-2026042304008888,AHPC,42,42,36,280.0,10080.0,2026-04-23,187754892,360,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 14:13:16.839699,Arun Valley Hydropower Development Co. Ltd.
-2026042304008974,AHPC,60,42,221,280.0,61880.0,2026-04-23,187755771,360,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-23 14:15:02.637623,Arun Valley Hydropower Development Co. Ltd.
-2026042304009184,AHPC,52,60,60,281.0,16860.0,2026-04-23,187757806,360,Sundhara Securities Limited,Nagarik Stock Dealer ,2026-04-23 14:18:18.421530,Arun Valley Hydropower Development Co. Ltd.
-2026042304009212,AHPC,75,60,150,281.0,42150.0,2026-04-23,187758166,360,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-23 14:18:58.442041,Arun Valley Hydropower Development Co. Ltd.
-2026042304009268,AHPC,60,70,225,280.0,63000.0,2026-04-23,187758717,360,Nagarik Stock Dealer ,Infinity Securities Limited,2026-04-23 14:19:48.595444,Arun Valley Hydropower Development Co. Ltd.
-2026042304009434,AHPC,66,60,100,281.0,28100.0,2026-04-23,187760870,360,Miyo Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-23 14:23:46.531393,Arun Valley Hydropower Development Co. Ltd.
-2026042304009528,AHPC,60,25,54,280.0,15120.0,2026-04-23,187762406,360,Nagarik Stock Dealer ,Sweta Securities Private Limited,2026-04-23 14:26:19.124405,Arun Valley Hydropower Development Co. Ltd.
-2026042304009529,AHPC,45,25,20,280.0,5600.0,2026-04-23,187762408,360,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.124809,Arun Valley Hydropower Development Co. Ltd.
-2026042304009530,AHPC,74,25,500,280.0,140000.0,2026-04-23,187762410,360,KALASH STOCK MARKET PVT. LTD.,Sweta Securities Private Limited,2026-04-23 14:26:19.124973,Arun Valley Hydropower Development Co. Ltd.
-2026042304009531,AHPC,53,25,25,280.0,7000.0,2026-04-23,187762412,360,Investment Management Nepal Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.125151,Arun Valley Hydropower Development Co. Ltd.
-2026042304009532,AHPC,58,25,350,280.0,98000.0,2026-04-23,187762414,360,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.125317,Arun Valley Hydropower Development Co. Ltd.
-2026042304009533,AHPC,22,25,20,279.6,5592.0,2026-04-23,187762416,360,Siprabi Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.125485,Arun Valley Hydropower Development Co. Ltd.
-2026042304009534,AHPC,57,25,206,279.5,57577.0,2026-04-23,187762417,360,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-23 14:26:19.125658,Arun Valley Hydropower Development Co. Ltd.
-2026042304009586,AHPC,65,50,500,280.0,140000.0,2026-04-23,187763046,360,Sharepro Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:27:14.368232,Arun Valley Hydropower Development Co. Ltd.
-2026042304009686,AHPC,57,50,1000,280.0,280000.0,2026-04-23,187764518,360,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:29:40.152621,Arun Valley Hydropower Development Co. Ltd.
-2026042304009687,AHPC,78,50,50,280.0,14000.0,2026-04-23,187764519,360,Garima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:29:40.152999,Arun Valley Hydropower Development Co. Ltd.
-2026042304009721,AHPC,78,50,73,280.0,20440.0,2026-04-23,187764897,360,Garima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:30:06.008063,Arun Valley Hydropower Development Co. Ltd.
-2026042304009744,AHPC,78,60,237,280.0,66360.0,2026-04-23,187765362,360,Garima Securities Limited,Nagarik Stock Dealer ,2026-04-23 14:30:46.512889,Arun Valley Hydropower Development Co. Ltd.
-2026042304009745,AHPC,36,60,299,280.0,83720.0,2026-04-23,187765379,360,Secured Securities Ltd.,Nagarik Stock Dealer ,2026-04-23 14:30:47.081406,Arun Valley Hydropower Development Co. Ltd.
-2026042304009880,AHPC,35,57,25,281.0,7025.0,2026-04-23,187767017,360,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 14:33:13.001509,Arun Valley Hydropower Development Co. Ltd.
-2026042304009892,AHPC,42,40,1,275.0,275.0,2026-04-23,187767127,360,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:33:21.326707,Arun Valley Hydropower Development Co. Ltd.
-2026042304010112,AHPC,45,45,50,282.0,14100.0,2026-04-23,187769118,360,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:36:15.718584,Arun Valley Hydropower Development Co. Ltd.
-2026042304010149,AHPC,52,52,52,281.1,14617.2,2026-04-23,187769697,360,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-23 14:36:51.244808,Arun Valley Hydropower Development Co. Ltd.
-2026042304010381,AHPC,52,44,1,280.0,280.0,2026-04-23,187773073,360,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:41:16.453646,Arun Valley Hydropower Development Co. Ltd.
-2026042304010395,AHPC,1,16,315,281.1,88546.5,2026-04-23,187773461,360,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-23 14:41:47.095521,Arun Valley Hydropower Development Co. Ltd.
-2026042304010451,AHPC,1,52,685,281.1,192553.5,2026-04-23,187774104,360,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-23 14:42:36.349748,Arun Valley Hydropower Development Co. Ltd.
-2026042304010452,AHPC,60,52,2000,281.1,562200.0,2026-04-23,187774106,360,Nagarik Stock Dealer ,Sundhara Securities Limited,2026-04-23 14:42:36.350151,Arun Valley Hydropower Development Co. Ltd.
-2026042304010453,AHPC,35,52,15,281.0,4215.0,2026-04-23,187774108,360,Kohinoor Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-23 14:42:36.350339,Arun Valley Hydropower Development Co. Ltd.
-2026042304010454,AHPC,1,52,300,281.0,84300.0,2026-04-23,187774109,360,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-23 14:42:36.350518,Arun Valley Hydropower Development Co. Ltd.
-2026042304010533,AHPC,42,45,30,282.0,8460.0,2026-04-23,187774880,360,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:43:39.604258,Arun Valley Hydropower Development Co. Ltd.
-2026042304010709,AHPC,57,35,200,281.2,56240.0,2026-04-23,187776006,360,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.996310,Arun Valley Hydropower Development Co. Ltd.
-2026042304010710,AHPC,1,35,700,281.0,196700.0,2026-04-23,187776008,360,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.997114,Arun Valley Hydropower Development Co. Ltd.
-2026042304010711,AHPC,36,35,701,281.0,196981.0,2026-04-23,187776010,360,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.997649,Arun Valley Hydropower Development Co. Ltd.
-2026042304010712,AHPC,45,35,20,281.0,5620.0,2026-04-23,187776012,360,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.998165,Arun Valley Hydropower Development Co. Ltd.
-2026042304010727,AHPC,44,35,379,280.4,106271.6,2026-04-23,187776379,360,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:45:07.886225,Arun Valley Hydropower Development Co. Ltd.
-2026042304010914,AHPC,44,60,121,280.4,33928.4,2026-04-23,187778272,360,Dynamic Money Managers Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:46:58.696036,Arun Valley Hydropower Development Co. Ltd.
-2026042304010915,AHPC,1,60,200,280.4,56080.0,2026-04-23,187778274,360,Kumari Securities Private Limited,Nagarik Stock Dealer ,2026-04-23 14:46:58.696554,Arun Valley Hydropower Development Co. Ltd.
-2026042304010916,AHPC,49,60,1000,280.3,280300.0,2026-04-23,187778276,360,Online Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:46:58.696754,Arun Valley Hydropower Development Co. Ltd.
-2026042304010917,AHPC,57,60,227,280.2,63605.4,2026-04-23,187778278,360,Aryatara Investment & Securities,Nagarik Stock Dealer ,2026-04-23 14:46:58.696982,Arun Valley Hydropower Development Co. Ltd.
-2026042304010918,AHPC,49,60,50,280.2,14010.0,2026-04-23,187778280,360,Online Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:46:58.697207,Arun Valley Hydropower Development Co. Ltd.
-2026042304010919,AHPC,34,60,402,280.1,112600.2,2026-04-23,187778281,360,Vision Securities Pvt. Ltd,Nagarik Stock Dealer ,2026-04-23 14:46:58.697451,Arun Valley Hydropower Development Co. Ltd.
-2026042304010979,AHPC,45,45,10,280.4,2804.0,2026-04-23,187778932,360,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213174,Arun Valley Hydropower Development Co. Ltd.
-2026042304010980,AHPC,34,45,98,280.1,27449.8,2026-04-23,187778934,360,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213557,Arun Valley Hydropower Development Co. Ltd.
-2026042304010981,AHPC,60,45,145,280.0,40600.0,2026-04-23,187778936,360,Nagarik Stock Dealer ,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213739,Arun Valley Hydropower Development Co. Ltd.
-2026042304010982,AHPC,49,45,53,280.0,14840.0,2026-04-23,187778938,360,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213909,Arun Valley Hydropower Development Co. Ltd.
-2026042304010983,AHPC,17,45,150,280.0,42000.0,2026-04-23,187778940,360,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.214085,Arun Valley Hydropower Development Co. Ltd.
-2026042304010984,AHPC,90,45,44,280.0,12320.0,2026-04-23,187778941,360,Sajilo Broker Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.214259,Arun Valley Hydropower Development Co. Ltd.
-2026042304011038,AHPC,90,41,56,280.0,15680.0,2026-04-23,187779298,360,Sajilo Broker Limited,Linch Stock Market Ltd.,2026-04-23 14:47:54.039785,Arun Valley Hydropower Development Co. Ltd.
-2026042304011039,AHPC,63,41,300,280.0,84000.0,2026-04-23,187779300,360,Himalayan Brokerage Company Limited,Linch Stock Market Ltd.,2026-04-23 14:47:54.040185,Arun Valley Hydropower Development Co. Ltd.
-2026042304011040,AHPC,59,41,100,280.0,28000.0,2026-04-23,187779302,360,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-23 14:47:54.040373,Arun Valley Hydropower Development Co. Ltd.
-2026042304011041,AHPC,46,41,294,280.0,82320.0,2026-04-23,187779303,360,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 14:47:54.040593,Arun Valley Hydropower Development Co. Ltd.
-2026042304011094,AHPC,46,16,376,280.0,105280.0,2026-04-23,187779904,360,Kalika Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:48:23.194455,Arun Valley Hydropower Development Co. Ltd.
-2026042304011095,AHPC,38,16,50,280.0,14000.0,2026-04-23,187779906,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:48:23.194837,Arun Valley Hydropower Development Co. Ltd.
-2026042304011096,AHPC,42,16,959,280.0,268520.0,2026-04-23,187779908,360,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:48:23.195013,Arun Valley Hydropower Development Co. Ltd.
-2026042304011119,AHPC,42,44,35,280.0,9800.0,2026-04-23,187780135,360,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:48:32.607300,Arun Valley Hydropower Development Co. Ltd.
-2026042304011257,AHPC,69,49,500,281.0,140500.0,2026-04-23,187781037,360,INDEX SECURITIES LIMITED,Online Securities Pvt. Ltd.,2026-04-23 14:49:08.470120,Arun Valley Hydropower Development Co. Ltd.
-2026042304011258,AHPC,69,35,25,281.4,7035.0,2026-04-23,187781040,360,INDEX SECURITIES LIMITED,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:49:08.470581,Arun Valley Hydropower Development Co. Ltd.
-2026042304011392,AHPC,49,40,200,281.0,56200.0,2026-04-23,187782167,360,Online Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:49:50.084024,Arun Valley Hydropower Development Co. Ltd.
-2026042304011632,AHPC,58,40,215,281.0,60415.0,2026-04-23,187783754,360,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:50:53.354196,Arun Valley Hydropower Development Co. Ltd.
-2026042304011660,AHPC,42,49,15,280.0,4200.0,2026-04-23,187783944,360,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:51:00.971216,Arun Valley Hydropower Development Co. Ltd.
-2026042304011661,AHPC,34,49,195,280.0,54600.0,2026-04-23,187783945,360,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 14:51:00.971608,Arun Valley Hydropower Development Co. Ltd.
-2026042304011723,AHPC,34,51,205,280.0,57400.0,2026-04-23,187784472,360,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972414,Arun Valley Hydropower Development Co. Ltd.
-2026042304011724,AHPC,19,51,500,280.0,140000.0,2026-04-23,187784474,360,Nepal Investment And Securities Trading Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972514,Arun Valley Hydropower Development Co. Ltd.
-2026042304011725,AHPC,58,51,28,280.0,7840.0,2026-04-23,187784476,360,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972575,Arun Valley Hydropower Development Co. Ltd.
-2026042304011726,AHPC,88,51,267,280.0,74760.0,2026-04-23,187784477,360,Blue Chip Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972680,Arun Valley Hydropower Development Co. Ltd.
-2026042304011919,AHPC,58,42,20,280.2,5604.0,2026-04-23,187786380,360,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 14:52:44.856363,Arun Valley Hydropower Development Co. Ltd.
-2026042304011952,AHPC,21,42,15,280.2,4203.0,2026-04-23,187786710,360,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-23 14:52:59.208364,Arun Valley Hydropower Development Co. Ltd.
-2026042304012049,AHPC,59,42,15,280.2,4203.0,2026-04-23,187787811,360,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 14:53:46.757127,Arun Valley Hydropower Development Co. Ltd.
-2026042304012050,AHPC,59,64,41,280.2,11488.2,2026-04-23,187787814,360,Deevyaa Securities & Stock House Pvt. Ltd,SUN SECURITIES PVT LTD,2026-04-23 14:53:46.757573,Arun Valley Hydropower Development Co. Ltd.
-2026042304012261,AHPC,40,62,10,280.1,2801.0,2026-04-23,187789974,360,Creative Securities Pvt Ltd,Capital Max Securities Ltd,2026-04-23 14:55:07.955066,Arun Valley Hydropower Development Co. Ltd.
-2026042304012262,AHPC,88,62,33,280.0,9240.0,2026-04-23,187789976,360,Blue Chip Securities Ltd,Capital Max Securities Ltd,2026-04-23 14:55:07.955890,Arun Valley Hydropower Development Co. Ltd.
-2026042304012287,AHPC,58,62,100,280.0,28000.0,2026-04-23,187790334,360,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 14:55:21.875842,Arun Valley Hydropower Development Co. Ltd.
-2026042304012289,AHPC,44,62,357,280.0,99960.0,2026-04-23,187790399,360,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:55:24.793375,Arun Valley Hydropower Development Co. Ltd.
-2026042304012323,AHPC,38,19,100,280.0,28000.0,2026-04-23,187790669,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:55:38.413946,Arun Valley Hydropower Development Co. Ltd.
-2026042304012479,AHPC,38,32,220,280.0,61600.0,2026-04-23,187791473,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-23 14:56:03.942966,Arun Valley Hydropower Development Co. Ltd.
-2026042304012608,AHPC,43,69,250,280.1,70025.0,2026-04-23,187792620,360,South Asian Bulls Pvt. Ltd.,INDEX SECURITIES LIMITED,2026-04-23 14:56:45.321361,Arun Valley Hydropower Development Co. Ltd.
-2026042304012609,AHPC,38,69,180,280.0,50400.0,2026-04-23,187792622,360,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,INDEX SECURITIES LIMITED,2026-04-23 14:56:45.321736,Arun Valley Hydropower Development Co. Ltd.
-2026042304012610,AHPC,16,69,95,280.0,26600.0,2026-04-23,187792623,360,Primo Securities (PVT) Ltd.,INDEX SECURITIES LIMITED,2026-04-23 14:56:45.321917,Arun Valley Hydropower Development Co. Ltd.
-2026042304012648,AHPC,42,53,5,274.0,1370.0,2026-04-23,187792901,360,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 14:56:53.058862,Arun Valley Hydropower Development Co. Ltd.
-2026042304012710,AHPC,16,19,174,280.0,48720.0,2026-04-23,187793353,360,Primo Securities (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:57:08.798938,Arun Valley Hydropower Development Co. Ltd.
-2026042304012728,AHPC,29,64,46,280.2,12889.2,2026-04-23,187793668,360,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 14:57:17.868178,Arun Valley Hydropower Development Co. Ltd.
-2026042304012846,AHPC,58,64,300,280.2,84060.0,2026-04-23,187795312,360,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 14:58:01.331043,Arun Valley Hydropower Development Co. Ltd.
-2026042304012861,AHPC,35,64,13,280.2,3642.6,2026-04-23,187795465,360,Kohinoor Investment & Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 14:58:05.186050,Arun Valley Hydropower Development Co. Ltd.
-2026042304012862,AHPC,35,36,22,280.2,6164.4,2026-04-23,187795468,360,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:05.186459,Arun Valley Hydropower Development Co. Ltd.
-2026042304012865,AHPC,45,36,40,280.2,11208.0,2026-04-23,187795504,360,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:06.207182,Arun Valley Hydropower Development Co. Ltd.
-2026042304012866,AHPC,49,36,70,280.2,19614.0,2026-04-23,187795532,360,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:07.424514,Arun Valley Hydropower Development Co. Ltd.
-2026042304012868,AHPC,58,58,35,280.1,9803.5,2026-04-23,187795585,360,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:58:08.478194,Arun Valley Hydropower Development Co. Ltd.
-2026042304012872,AHPC,58,65,317,280.1,88791.7,2026-04-23,187795638,360,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-23 14:58:10.503936,Arun Valley Hydropower Development Co. Ltd.
-2026042304012873,AHPC,16,65,131,280.0,36680.0,2026-04-23,187795640,360,Primo Securities (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-23 14:58:10.504810,Arun Valley Hydropower Development Co. Ltd.
-2026042304012874,AHPC,34,65,452,280.0,126560.0,2026-04-23,187795641,360,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-23 14:58:10.505536,Arun Valley Hydropower Development Co. Ltd.
-2026042304012908,AHPC,58,36,200,280.2,56040.0,2026-04-23,187795914,360,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:15.876576,Arun Valley Hydropower Development Co. Ltd.
-2026042304012922,AHPC,34,28,48,280.0,13440.0,2026-04-23,187796122,360,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-23 14:58:20.271913,Arun Valley Hydropower Development Co. Ltd.
-2026042304012923,AHPC,45,28,20,280.0,5600.0,2026-04-23,187796124,360,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 14:58:20.272332,Arun Valley Hydropower Development Co. Ltd.
-2026042304012924,AHPC,42,28,562,280.0,157360.0,2026-04-23,187796125,360,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 14:58:20.272681,Arun Valley Hydropower Development Co. Ltd.
-2026042304012932,AHPC,58,36,200,280.2,56040.0,2026-04-23,187796260,360,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:22.829263,Arun Valley Hydropower Development Co. Ltd.
-2026042304012982,AHPC,42,40,153,280.0,42840.0,2026-04-23,187796602,360,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:58:29.759570,Arun Valley Hydropower Development Co. Ltd.
-2026042304012983,AHPC,42,40,127,280.0,35560.0,2026-04-23,187796603,360,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:58:29.760377,Arun Valley Hydropower Development Co. Ltd.
-2026042304013043,AHPC,42,29,73,280.0,20440.0,2026-04-23,187797184,360,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:58:44.008441,Arun Valley Hydropower Development Co. Ltd.
-2026042304013044,AHPC,45,29,30,280.0,8400.0,2026-04-23,187797186,360,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:58:44.009269,Arun Valley Hydropower Development Co. Ltd.
-2026042304013113,AHPC,49,29,48,280.0,13440.0,2026-04-23,187798000,360,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:59:03.675579,Arun Valley Hydropower Development Co. Ltd.
-2026042304013137,AHPC,43,29,114,280.0,31920.0,2026-04-23,187798423,360,South Asian Bulls Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:59:06.734160,Arun Valley Hydropower Development Co. Ltd.
-2026042304013138,AHPC,43,48,86,280.0,24080.0,2026-04-23,187798426,360,South Asian Bulls Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:59:06.734566,Arun Valley Hydropower Development Co. Ltd.
-2026042304013172,AHPC,35,48,114,280.0,31920.0,2026-04-23,187798777,360,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:59:12.202577,Arun Valley Hydropower Development Co. Ltd.
-2026042304013180,AHPC,35,53,303,280.0,84840.0,2026-04-23,187798877,360,Kohinoor Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 14:59:14.613778,Arun Valley Hydropower Development Co. Ltd.
-2026042304013182,AHPC,35,98,404,280.0,113120.0,2026-04-23,187798901,360,Kohinoor Investment & Securities Pvt. Ltd.,Trademow Securities Private Limited,2026-04-23 14:59:15.184128,Arun Valley Hydropower Development Co. Ltd.
-2026042304013317,AHPC,35,45,120,280.0,33600.0,2026-04-23,187799459,360,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:59:21.896801,Arun Valley Hydropower Development Co. Ltd.
-2026042304013344,AHPC,35,58,59,280.0,16520.0,2026-04-23,187799688,360,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:59:24.914557,Arun Valley Hydropower Development Co. Ltd.
-2026042304013345,AHPC,58,58,21,280.0,5880.0,2026-04-23,187799689,360,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:59:24.914969,Arun Valley Hydropower Development Co. Ltd.
-2026042304013533,AHPC,29,36,10,280.2,2802.0,2026-04-23,187801300,360,Trisul Securities & Invt. Ltd.,Secured Securities Ltd.,2026-04-23 14:59:47.767240,Arun Valley Hydropower Development Co. Ltd.
-2026042304013671,AHPC,58,81,79,280.0,22120.0,2026-04-23,187802614,360,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.960272,Arun Valley Hydropower Development Co. Ltd.
-2026042304013672,AHPC,57,81,316,280.0,88480.0,2026-04-23,187802616,360,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.960630,Arun Valley Hydropower Development Co. Ltd.
-2026042304013673,AHPC,42,81,354,280.0,99120.0,2026-04-23,187802618,360,Sani Securities Company Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.960837,Arun Valley Hydropower Development Co. Ltd.
-2026042304013674,AHPC,44,81,500,280.0,140000.0,2026-04-23,187802620,360,Dynamic Money Managers Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.961050,Arun Valley Hydropower Development Co. Ltd.
-2026042304013675,AHPC,48,81,933,279.9,261146.7,2026-04-23,187802621,360,Trishakti Securities Public Limited,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.961259,Arun Valley Hydropower Development Co. Ltd.
+contract_id,symbol,buyer_member_id,seller_member_id,volume,price,amount,buyer_broker,seller_broker,transaction_time
+2026042304000032,AHPC,58,81,107,284.79,30472.53,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:01:06.698912
+2026042304000041,AHPC,1,58,10,280.1,2801.0,Kumari Securities Private Limited,Naasa Securities Co. Ltd.,2026-04-23 11:01:50.913992
+2026042304000050,AHPC,39,1,50,284.6,14230.0,Sumeru Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 11:02:11.575869
+2026042304000083,AHPC,33,1,150,284.6,42690.0,Dakshinkali Investment & Securities Pvt. Ltd.,Kumari Securities Private Limited,2026-04-23 11:03:38.082467
+2026042304000091,AHPC,26,45,14,285.0,3990.0,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:03:47.743151
+2026042304000092,AHPC,26,62,86,286.0,24596.0,Asian Securities Private Ltd.,Capital Max Securities Ltd,2026-04-23 11:03:47.743281
+2026042304000109,AHPC,54,62,40,286.0,11440.0,Sewa Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 11:04:08.154073
+2026042304000188,AHPC,34,39,100,285.5,28550.0,Vision Securities Pvt. Ltd,Sumeru Securities Pvt. Ltd.,2026-04-23 11:05:36.053683
+2026042304000232,AHPC,39,56,100,285.9,28590.0,Sumeru Securities Pvt. Ltd.,Sri Hari Securities Pvt. Ltd.,2026-04-23 11:06:07.777555
+2026042304000233,AHPC,34,58,400,285.5,114200.0,Vision Securities Pvt. Ltd,Naasa Securities Co. Ltd.,2026-04-23 11:06:08.740349
+2026042304000337,AHPC,33,22,50,284.6,14230.0,Dakshinkali Investment & Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:07:21.593612
+2026042304000338,AHPC,42,22,50,284.0,14200.0,Sani Securities Company Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:07:21.593723
+2026042304000339,AHPC,58,22,25,284.0,7100.0,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:07:21.593769
+2026042304000366,AHPC,38,50,50,283.0,14150.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:07:44.897842
+2026042304000367,AHPC,40,50,200,282.3,56460.0,Creative Securities Pvt Ltd,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:07:44.897967
+2026042304000450,AHPC,1,50,750,282.3,211725.0,Kumari Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:09:15.182764
+2026042304000543,AHPC,72,46,105,282.0,29610.0,Hatemalo Financial Services Private Limited,Kalika Securities Pvt. Ltd.,2026-04-23 11:10:32.798363
+2026042304000590,AHPC,72,70,395,282.0,111390.0,Hatemalo Financial Services Private Limited,Infinity Securities Limited,2026-04-23 11:11:28.921123
+2026042304000591,AHPC,7,70,100,282.0,28200.0,J.F. Securites (PVT) Ltd.,Infinity Securities Limited,2026-04-23 11:11:28.921272
+2026042304000601,AHPC,57,42,15,281.5,4222.5,Aryatara Investment & Securities,Sani Securities Company Ltd.,2026-04-23 11:11:52.087044
+2026042304000602,AHPC,54,42,50,281.0,14050.0,Sewa Securities Pvt. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:11:52.087165
+2026042304000603,AHPC,89,42,50,280.2,14010.0,Global IME Securities Limited,Sani Securities Company Ltd.,2026-04-23 11:11:52.087218
+2026042304000604,AHPC,1,42,490,280.1,137249.0,Kumari Securities Private Limited,Sani Securities Company Ltd.,2026-04-23 11:11:52.087283
+2026042304000605,AHPC,21,42,1895,280.1,530789.5,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-23 11:11:52.087349
+2026042304000742,AHPC,7,50,20,280.5,5610.0,J.F. Securites (PVT) Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:15:15.708046
+2026042304000888,AHPC,53,37,259,281.0,72779.0,Investment Management Nepal Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.261919
+2026042304000889,AHPC,34,37,200,280.6,56120.0,Vision Securities Pvt. Ltd,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.262221
+2026042304000890,AHPC,8,37,700,280.6,196420.0,Brilliant Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.262412
+2026042304000891,AHPC,7,37,841,280.5,235900.5,J.F. Securites (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:18:00.262618
+2026042304001003,AHPC,58,58,30,281.0,8430.0,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:20:39.545054
+2026042304001006,AHPC,58,14,40,281.0,11240.0,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:20:40.670775
+2026042304001082,AHPC,58,58,30,281.0,8430.0,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:21:41.547023
+2026042304001096,AHPC,42,58,54,281.0,15174.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:21:58.827664
+2026042304001097,AHPC,42,70,605,282.0,170610.0,Sani Securities Company Ltd.,Infinity Securities Limited,2026-04-23 11:21:58.827828
+2026042304001098,AHPC,42,51,300,282.0,84600.0,Sani Securities Company Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 11:21:58.827896
+2026042304001099,AHPC,42,39,1000,282.0,282000.0,Sani Securities Company Ltd.,Sumeru Securities Pvt. Ltd.,2026-04-23 11:21:58.827960
+2026042304001100,AHPC,42,28,46,282.0,12972.0,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 11:21:58.828022
+2026042304001106,AHPC,28,42,200,280.6,56120.0,Shree Krishna Securities Ltd.,Sani Securities Company Ltd.,2026-04-23 11:22:09.624199
+2026042304001112,AHPC,58,22,1,280.0,280.0,Naasa Securities Co. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 11:22:14.199812
+2026042304001115,AHPC,58,42,175,280.6,49105.0,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 11:22:22.137753
+2026042304001163,AHPC,11,42,156,280.6,43773.6,Malla & Malla Stock Broking Company Pvt. Limited,Sani Securities Company Ltd.,2026-04-23 11:22:54.112140
+2026042304001243,AHPC,35,44,60,280.6,16836.0,Kohinoor Investment & Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:24:12.725376
+2026042304001244,AHPC,7,44,139,280.5,38989.5,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:24:12.725551
+2026042304001245,AHPC,58,44,500,280.5,140250.0,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:24:12.725621
+2026042304001263,AHPC,57,40,560,280.4,157024.0,Aryatara Investment & Securities,Creative Securities Pvt Ltd,2026-04-23 11:24:25.949627
+2026042304001289,AHPC,52,17,25,281.0,7025.0,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-23 11:25:04.272178
+2026042304001290,AHPC,57,17,975,281.0,273975.0,Aryatara Investment & Securities,ABC Securities Private Limited,2026-04-23 11:25:04.272293
+2026042304001491,AHPC,14,37,10,281.1,2811.0,Nepal Stock House (PVT) Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.400889
+2026042304001492,AHPC,57,37,25,281.0,7025.0,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.401250
+2026042304001493,AHPC,57,37,1940,280.4,543976.0,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.401509
+2026042304001494,AHPC,44,37,25,280.3,7007.5,Dynamic Money Managers Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:28:37.401733
+2026042304001555,AHPC,44,38,51,280.3,14295.3,Dynamic Money Managers Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 11:29:29.369135
+2026042304001560,AHPC,44,58,424,280.3,118847.2,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:52.342030
+2026042304001561,AHPC,58,58,500,280.3,140150.0,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:52.342396
+2026042304001562,AHPC,56,58,20,280.3,5606.0,Sri Hari Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:29:52.342623
+2026042304001566,AHPC,58,58,56,280.3,15696.8,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 11:30:05.882250
+2026042304001605,AHPC,58,11,440,280.4,123376.0,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,2026-04-23 11:30:41.126209
+2026042304001657,AHPC,50,41,100,281.0,28100.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:31:25.183974
+2026042304001658,AHPC,1,41,220,281.0,61820.0,Kumari Securities Private Limited,Linch Stock Market Ltd.,2026-04-23 11:31:26.890319
+2026042304001698,AHPC,1,44,100,281.0,28100.0,Kumari Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:32:03.021950
+2026042304001699,AHPC,17,44,300,281.0,84300.0,ABC Securities Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:32:03.022139
+2026042304001700,AHPC,50,44,100,281.0,28100.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:32:03.022221
+2026042304001771,AHPC,26,47,1200,281.0,337200.0,Asian Securities Private Ltd.,Neev Securities Pvt. Ltd.,2026-04-23 11:33:26.694038
+2026042304001786,AHPC,58,64,10,281.3,2813.0,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 11:33:38.274727
+2026042304001787,AHPC,58,50,90,281.7,25353.0,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:33:38.274767
+2026042304001794,AHPC,26,37,1000,281.0,281000.0,Asian Securities Private Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:33:55.646455
+2026042304001858,AHPC,50,41,500,281.1,140550.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:35:53.520712
+2026042304001880,AHPC,58,41,69,281.1,19395.9,Naasa Securities Co. Ltd.,Linch Stock Market Ltd.,2026-04-23 11:36:35.680328
+2026042304001881,AHPC,58,50,31,281.7,8732.7,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:36:35.680388
+2026042304001901,AHPC,58,50,10,281.7,2817.0,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:37:14.953065
+2026042304001957,AHPC,43,4,25,281.2,7030.0,South Asian Bulls Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,2026-04-23 11:38:35.614330
+2026042304001993,AHPC,59,33,1000,281.5,281500.0,Deevyaa Securities & Stock House Pvt. Ltd,Dakshinkali Investment & Securities Pvt. Ltd.,2026-04-23 11:39:20.006702
+2026042304002002,AHPC,58,32,1,280.0,280.0,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,2026-04-23 11:39:26.575833
+2026042304002010,AHPC,58,50,100,281.7,28170.0,Naasa Securities Co. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:39:40.454884
+2026042304002026,AHPC,43,50,75,281.7,21127.5,South Asian Bulls Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:40:19.189234
+2026042304002070,AHPC,49,50,39,281.7,10986.3,Online Securities Pvt. Ltd.,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 11:41:24.092269
+2026042304002144,AHPC,7,44,500,281.8,140900.0,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:43:05.902007
+2026042304002145,AHPC,7,44,500,281.9,140950.0,J.F. Securites (PVT) Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 11:43:05.902501
+2026042304002185,AHPC,58,95,100,281.5,28150.0,Naasa Securities Co. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.112226
+2026042304002186,AHPC,50,95,500,281.4,140700.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.112662
+2026042304002187,AHPC,49,95,13,281.1,3654.3,Online Securities Pvt. Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.112926
+2026042304002188,AHPC,26,95,269,281.0,75589.0,Asian Securities Private Ltd.,Magnet Securities and Investment Company Private Limited,2026-04-23 11:43:27.113193
+2026042304002221,AHPC,26,63,2531,281.0,711211.0,Asian Securities Private Ltd.,Himalayan Brokerage Company Limited,2026-04-23 11:43:54.636545
+2026042304002222,AHPC,49,63,94,281.0,26414.0,Online Securities Pvt. Ltd.,Himalayan Brokerage Company Limited,2026-04-23 11:43:54.637032
+2026042304002286,AHPC,43,14,20,281.0,5620.0,South Asian Bulls Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:44:38.218938
+2026042304002287,AHPC,50,14,80,281.0,22480.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 11:44:38.219177
+2026042304002348,AHPC,50,81,20,281.0,5620.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.668593
+2026042304002349,AHPC,47,81,220,281.0,61820.0,Neev Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669022
+2026042304002350,AHPC,19,81,200,281.0,56200.0,Nepal Investment And Securities Trading Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669347
+2026042304002351,AHPC,46,81,190,281.0,53390.0,Kalika Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669627
+2026042304002352,AHPC,28,81,100,280.3,28030.0,Shree Krishna Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.669913
+2026042304002353,AHPC,44,81,150,280.2,42030.0,Dynamic Money Managers Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670190
+2026042304002354,AHPC,7,81,1000,280.2,280200.0,J.F. Securites (PVT) Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670458
+2026042304002355,AHPC,41,81,1500,280.1,420150.0,Linch Stock Market Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670708
+2026042304002356,AHPC,1,81,300,280.1,84030.0,Kumari Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.670951
+2026042304002357,AHPC,51,81,250,280.1,70025.0,Oxford Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.671204
+2026042304002358,AHPC,58,81,50,280.0,14000.0,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.671482
+2026042304002359,AHPC,36,81,20,280.0,5600.0,Secured Securities Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 11:45:57.671737
+2026042304002454,AHPC,36,37,280,280.0,78400.0,Secured Securities Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022397
+2026042304002455,AHPC,26,37,500,280.0,140000.0,Asian Securities Private Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022609
+2026042304002456,AHPC,58,37,500,280.0,140000.0,Naasa Securities Co. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022699
+2026042304002457,AHPC,35,37,720,280.0,201600.0,Kohinoor Investment & Securities Pvt. Ltd.,Swarna Laxmi Securities Pvt. Ltd.,2026-04-23 11:47:20.022789
+2026042304002606,AHPC,58,62,200,280.1,56020.0,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 11:50:29.543833
+2026042304002607,AHPC,35,62,20,280.0,5600.0,Kohinoor Investment & Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 11:50:29.544128
+2026042304002608,AHPC,14,62,75,280.0,21000.0,Nepal Stock House (PVT) Ltd.,Capital Max Securities Ltd,2026-04-23 11:50:29.544230
+2026042304002611,AHPC,49,45,28,280.2,7845.6,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:50:37.959953
+2026042304002612,AHPC,14,45,972,280.0,272160.0,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 11:50:37.960228
+2026042304002958,AHPC,57,89,50,280.1,14005.0,Aryatara Investment & Securities,Global IME Securities Limited,2026-04-23 11:56:45.430548
+2026042304003102,AHPC,57,58,35,280.1,9803.5,Aryatara Investment & Securities,Naasa Securities Co. Ltd.,2026-04-23 11:58:33.326293
+2026042304003177,AHPC,57,29,415,280.1,116241.5,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-23 11:59:41.576304
+2026042304003178,AHPC,7,29,85,280.1,23808.5,J.F. Securites (PVT) Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 11:59:41.576564
+2026042304003280,AHPC,38,58,11,281.0,3091.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:01:47.186967
+2026042304003281,AHPC,38,28,39,281.0,10959.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Shree Krishna Securities Ltd.,2026-04-23 12:01:47.187208
+2026042304003284,AHPC,7,45,12,280.1,3361.2,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:01:53.451152
+2026042304003292,AHPC,7,16,903,280.1,252930.3,J.F. Securites (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.616943
+2026042304003293,AHPC,58,16,36,280.1,10083.6,Naasa Securities Co. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617191
+2026042304003294,AHPC,49,16,20,280.1,5602.0,Online Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617301
+2026042304003295,AHPC,14,16,453,280.0,126840.0,Nepal Stock House (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617414
+2026042304003296,AHPC,14,16,88,280.0,24640.0,Nepal Stock House (PVT) Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 12:02:26.617540
+2026042304003319,AHPC,14,45,220,280.0,61600.0,Nepal Stock House (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:03:01.453117
+2026042304003460,AHPC,1,77,150,280.1,42015.0,Kumari Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658094
+2026042304003461,AHPC,14,77,892,280.0,249760.0,Nepal Stock House (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658362
+2026042304003462,AHPC,14,77,300,280.0,84000.0,Nepal Stock House (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658475
+2026042304003463,AHPC,50,77,1000,280.0,280000.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658582
+2026042304003464,AHPC,50,77,1000,280.0,280000.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658686
+2026042304003465,AHPC,8,77,10,280.0,2800.0,Brilliant Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658805
+2026042304003466,AHPC,22,77,100,280.0,28000.0,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.658909
+2026042304003467,AHPC,39,77,1000,280.0,280000.0,Sumeru Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659016
+2026042304003468,AHPC,56,77,30,280.0,8400.0,Sri Hari Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659130
+2026042304003469,AHPC,45,77,50,280.0,14000.0,Imperial Securities Company Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659235
+2026042304003470,AHPC,38,77,600,280.0,168000.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659345
+2026042304003471,AHPC,98,77,100,280.0,28000.0,Trademow Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659464
+2026042304003472,AHPC,49,77,80,280.0,22400.0,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659569
+2026042304003473,AHPC,35,77,10,280.0,2800.0,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659672
+2026042304003474,AHPC,80,77,500,280.0,140000.0,Indira securities pvt. ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659775
+2026042304003475,AHPC,34,77,125,280.0,35000.0,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659893
+2026042304003476,AHPC,52,77,126,280.0,35280.0,Sundhara Securities Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.659992
+2026042304003477,AHPC,89,77,10,280.0,2800.0,Global IME Securities Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660092
+2026042304003478,AHPC,22,77,80,279.1,22328.0,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660192
+2026042304003479,AHPC,43,77,825,279.0,230175.0,South Asian Bulls Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660293
+2026042304003480,AHPC,21,77,8105,279.0,2261295.0,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660401
+2026042304003481,AHPC,52,77,1000,279.0,279000.0,Sundhara Securities Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660504
+2026042304003482,AHPC,56,77,20,279.0,5580.0,Sri Hari Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660610
+2026042304003483,AHPC,49,77,1000,279.0,279000.0,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:06:14.660708
+2026042304003582,AHPC,29,77,291,279.0,81189.0,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:08:18.003133
+2026042304003614,AHPC,29,26,15,279.0,4185.0,Trisul Securities & Invt. Ltd.,Asian Securities Private Ltd.,2026-04-23 12:09:09.711766
+2026042304003711,AHPC,6,42,10,280.0,2800.0,Agrawal Securities (PVT) Ltd.,Sani Securities Company Ltd.,2026-04-23 12:11:27.183706
+2026042304003802,AHPC,21,28,15,281.0,4215.0,Midas Stock Broking Company Private Limited,Shree Krishna Securities Ltd.,2026-04-23 12:12:49.063958
+2026042304003803,AHPC,21,38,150,281.0,42150.0,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 12:12:49.064480
+2026042304003804,AHPC,21,14,175,281.0,49175.0,Midas Stock Broking Company Private Limited,Nepal Stock House (PVT) Ltd.,2026-04-23 12:12:49.064829
+2026042304003805,AHPC,21,41,160,282.5,45200.0,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 12:12:49.065183
+2026042304003811,AHPC,21,41,500,282.5,141250.0,Midas Stock Broking Company Private Limited,Linch Stock Market Ltd.,2026-04-23 12:12:58.312247
+2026042304003842,AHPC,6,49,90,280.0,25200.0,Agrawal Securities (PVT) Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:13:47.713207
+2026042304003843,AHPC,49,49,300,280.0,84000.0,Online Securities Pvt. Ltd.,Online Securities Pvt. Ltd.,2026-04-23 12:13:47.713608
+2026042304003844,AHPC,57,49,100,280.0,28000.0,Aryatara Investment & Securities,Online Securities Pvt. Ltd.,2026-04-23 12:13:47.713734
+2026042304003856,AHPC,57,38,50,280.0,14000.0,Aryatara Investment & Securities,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 12:14:13.536394
+2026042304003875,AHPC,57,77,4348,280.0,1217440.0,Aryatara Investment & Securities,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.240737
+2026042304003876,AHPC,35,77,105,280.0,29400.0,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.241263
+2026042304003877,AHPC,37,77,100,280.0,28000.0,Swarna Laxmi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.241628
+2026042304003878,AHPC,40,77,1447,280.0,405160.0,Creative Securities Pvt Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:14:49.241962
+2026042304003937,AHPC,21,22,1875,281.7,528187.5,Midas Stock Broking Company Private Limited,Siprabi Securities Pvt. Ltd.,2026-04-23 12:16:32.306209
+2026042304003938,AHPC,21,13,125,281.7,35212.5,Midas Stock Broking Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-23 12:16:32.306517
+2026042304004022,AHPC,58,38,1,278.3,278.3,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 12:17:44.872951
+2026042304004058,AHPC,21,13,421,281.7,118595.7,Midas Stock Broking Company Private Limited,Thrive Brokerage House Pvt. Ltd,2026-04-23 12:18:07.772742
+2026042304004059,AHPC,21,48,63,281.7,17747.1,Midas Stock Broking Company Private Limited,Trishakti Securities Public Limited,2026-04-23 12:18:07.773343
+2026042304004060,AHPC,21,72,16,281.9,4510.4,Midas Stock Broking Company Private Limited,Hatemalo Financial Services Private Limited,2026-04-23 12:18:07.773687
+2026042304004108,AHPC,45,72,128,281.9,36083.2,Imperial Securities Company Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:19:16.021842
+2026042304004164,AHPC,4,45,178,281.0,50018.0,Opal Securities Investment (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:20:51.633071
+2026042304004165,AHPC,50,45,1000,281.0,281000.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:20:51.633373
+2026042304004202,AHPC,58,45,250,281.0,70250.0,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:21:53.405814
+2026042304004276,AHPC,36,77,200,280.1,56020.0,Secured Securities Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.477955
+2026042304004277,AHPC,40,77,553,280.0,154840.0,Creative Securities Pvt Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.478613
+2026042304004278,AHPC,42,77,57,280.0,15960.0,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.479026
+2026042304004279,AHPC,44,77,183,280.0,51240.0,Dynamic Money Managers Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.479429
+2026042304004280,AHPC,6,77,50,280.0,14000.0,Agrawal Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.479807
+2026042304004281,AHPC,1,77,300,279.1,83730.0,Kumari Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.480197
+2026042304004282,AHPC,29,77,694,279.0,193626.0,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.480601
+2026042304004283,AHPC,62,77,291,279.0,81189.0,Capital Max Securities Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.480892
+2026042304004284,AHPC,58,77,100,279.0,27900.0,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481023
+2026042304004285,AHPC,19,77,50,279.0,13950.0,Nepal Investment And Securities Trading Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481150
+2026042304004286,AHPC,58,77,50,279.0,13950.0,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481279
+2026042304004287,AHPC,49,77,70,279.0,19530.0,Online Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481406
+2026042304004288,AHPC,32,77,402,279.0,112158.0,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:23:39.481525
+2026042304004299,AHPC,74,49,110,280.0,30800.0,KALASH STOCK MARKET PVT. LTD.,Online Securities Pvt. Ltd.,2026-04-23 12:24:13.230347
+2026042304004333,AHPC,44,45,500,281.0,140500.0,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:25:38.383130
+2026042304004336,AHPC,44,45,16,281.0,4496.0,Dynamic Money Managers Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:25:58.663710
+2026042304004360,AHPC,66,45,50,281.0,14050.0,Miyo Securities Pvt Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 12:26:44.448613
+2026042304004384,AHPC,49,72,20,281.9,5638.0,Online Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:27:30.269538
+2026042304004385,AHPC,74,77,190,280.0,53200.0,KALASH STOCK MARKET PVT. LTD.,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.769863
+2026042304004386,AHPC,59,77,1000,280.0,280000.0,Deevyaa Securities & Stock House Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.770449
+2026042304004387,AHPC,35,77,175,280.0,49000.0,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.770805
+2026042304004388,AHPC,29,77,3635,280.0,1017800.0,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:27:33.771167
+2026042304004392,AHPC,19,72,25,281.9,7047.5,Nepal Investment And Securities Trading Private Limited,Hatemalo Financial Services Private Limited,2026-04-23 12:27:41.092495
+2026042304004466,AHPC,34,49,160,281.0,44960.0,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 12:30:32.726237
+2026042304004631,AHPC,49,87,50,281.1,14055.0,Online Securities Pvt. Ltd.,S.P.S.A. Securities Limited,2026-04-23 12:34:33.490268
+2026042304004663,AHPC,33,72,600,281.9,169140.0,Dakshinkali Investment & Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:35:26.058427
+2026042304004666,AHPC,49,72,46,281.9,12967.4,Online Securities Pvt. Ltd.,Hatemalo Financial Services Private Limited,2026-04-23 12:35:39.190037
+2026042304004667,AHPC,49,44,500,282.4,141200.0,Online Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:35:39.190346
+2026042304004668,AHPC,49,41,340,282.5,96050.0,Online Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 12:35:39.190476
+2026042304004669,AHPC,49,35,64,282.7,18092.8,Online Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:35:39.190603
+2026042304004848,AHPC,6,35,30,282.7,8481.0,Agrawal Securities (PVT) Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 12:39:14.321692
+2026042304004942,AHPC,34,77,15,281.0,4215.0,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174241
+2026042304004943,AHPC,19,77,200,281.0,56200.0,Nepal Investment And Securities Trading Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174549
+2026042304004944,AHPC,51,77,100,281.0,28100.0,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174683
+2026042304004945,AHPC,60,77,190,280.2,53238.0,Nagarik Stock Dealer ,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174819
+2026042304004946,AHPC,7,77,2000,280.2,560400.0,J.F. Securites (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.174950
+2026042304004947,AHPC,35,77,100,280.1,28010.0,Kohinoor Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175080
+2026042304004948,AHPC,41,77,500,280.1,140050.0,Linch Stock Market Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175203
+2026042304004949,AHPC,29,77,650,280.0,182000.0,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175337
+2026042304004950,AHPC,48,77,535,280.0,149800.0,Trishakti Securities Public Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175466
+2026042304004951,AHPC,6,77,58,280.0,16240.0,Agrawal Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175591
+2026042304004952,AHPC,62,77,150,280.0,42000.0,Capital Max Securities Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175716
+2026042304004953,AHPC,32,77,300,280.0,84000.0,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.175838
+2026042304004954,AHPC,51,77,150,280.0,42000.0,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.176130
+2026042304004955,AHPC,32,77,52,280.0,14560.0,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:41:10.176483
+2026042304005019,AHPC,58,19,10,282.7,2827.0,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 12:43:06.170529
+2026042304005204,AHPC,34,77,40,281.0,11240.0,Vision Securities Pvt. Ltd,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.470657
+2026042304005205,AHPC,33,77,10,280.2,2802.0,Dakshinkali Investment & Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.471269
+2026042304005206,AHPC,58,77,40,280.1,11204.0,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.471706
+2026042304005207,AHPC,57,77,1000,280.1,280100.0,Aryatara Investment & Securities,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.472102
+2026042304005208,AHPC,32,77,148,280.0,41440.0,Premier Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.472512
+2026042304005209,AHPC,46,77,40,280.0,11200.0,Kalika Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.472905
+2026042304005210,AHPC,22,77,200,280.0,56000.0,Siprabi Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.473291
+2026042304005211,AHPC,29,77,500,280.0,140000.0,Trisul Securities & Invt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.473700
+2026042304005212,AHPC,25,77,300,280.0,84000.0,Sweta Securities Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.474081
+2026042304005213,AHPC,42,77,350,280.0,98000.0,Sani Securities Company Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.474472
+2026042304005214,AHPC,21,77,5372,280.0,1504160.0,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:49:24.474854
+2026042304005393,AHPC,22,34,200,281.0,56200.0,Siprabi Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 12:53:37.689174
+2026042304005404,AHPC,29,58,25,282.6,7065.0,Trisul Securities & Invt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 12:54:04.062307
+2026042304005463,AHPC,3,77,2000,281.0,562000.0,Arun Securities (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.760343
+2026042304005464,AHPC,67,77,200,280.7,56140.0,Property Wiard Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.760929
+2026042304005465,AHPC,4,77,700,280.5,196350.0,Opal Securities Investment (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.761356
+2026042304005466,AHPC,39,77,100,280.2,28020.0,Sumeru Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.761745
+2026042304005467,AHPC,21,77,704,280.2,197260.8,Midas Stock Broking Company Private Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.762148
+2026042304005468,AHPC,51,77,40,280.0,11200.0,Oxford Securities Pvt. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.762563
+2026042304005469,AHPC,58,77,50,280.0,14000.0,Naasa Securities Co. Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.762958
+2026042304005470,AHPC,14,77,300,280.0,84000.0,Nepal Stock House (PVT) Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.763364
+2026042304005471,AHPC,77,77,500,280.0,140000.0,Nabil Stock Dealer Ltd.,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.763747
+2026042304005472,AHPC,48,77,270,280.0,75600.0,Trishakti Securities Public Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.764136
+2026042304005473,AHPC,48,77,136,280.0,38080.0,Trishakti Securities Public Limited,Nabil Stock Dealer Ltd.,2026-04-23 12:55:21.764539
+2026042304005603,AHPC,59,22,500,282.7,141350.0,Deevyaa Securities & Stock House Pvt. Ltd,Siprabi Securities Pvt. Ltd.,2026-04-23 12:58:08.702017
+2026042304005604,AHPC,59,19,10,282.7,2827.0,Deevyaa Securities & Stock House Pvt. Ltd,Nepal Investment And Securities Trading Private Limited,2026-04-23 12:58:08.702660
+2026042304005625,AHPC,11,44,206,282.8,58256.8,Malla & Malla Stock Broking Company Pvt. Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:58:30.723693
+2026042304005627,AHPC,19,44,125,282.8,35350.0,Nepal Investment And Securities Trading Private Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 12:58:34.664754
+2026042304005855,AHPC,57,29,10,282.1,2821.0,Aryatara Investment & Securities,Trisul Securities & Invt. Ltd.,2026-04-23 13:03:03.752925
+2026042304005856,AHPC,49,29,490,282.0,138180.0,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:03:03.753033
+2026042304005861,AHPC,50,44,169,282.8,47793.2,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:03:08.406423
+2026042304005862,AHPC,50,45,31,283.0,8773.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:03:08.406718
+2026042304005956,AHPC,49,22,10,282.0,2820.0,Online Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:04:07.760522
+2026042304005998,AHPC,39,22,111,282.0,31302.0,Sumeru Securities Pvt. Ltd.,Siprabi Securities Pvt. Ltd.,2026-04-23 13:04:59.687616
+2026042304006132,AHPC,47,29,1000,282.9,282900.0,Neev Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:07:37.060455
+2026042304006157,AHPC,39,3,32,282.1,9027.2,Sumeru Securities Pvt. Ltd.,Arun Securities (PVT) Ltd.,2026-04-23 13:07:57.160859
+2026042304006292,AHPC,39,14,180,282.8,50904.0,Sumeru Securities Pvt. Ltd.,Nepal Stock House (PVT) Ltd.,2026-04-23 13:10:54.602508
+2026042304006376,AHPC,63,29,200,282.9,56580.0,Himalayan Brokerage Company Limited,Trisul Securities & Invt. Ltd.,2026-04-23 13:13:01.423185
+2026042304006379,AHPC,49,29,300,282.9,84870.0,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 13:13:11.530705
+2026042304006388,AHPC,26,45,1369,283.0,387427.0,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:13:55.841066
+2026042304006389,AHPC,26,41,200,283.0,56600.0,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-23 13:13:55.841717
+2026042304006390,AHPC,26,57,15,283.0,4245.0,Asian Securities Private Ltd.,Aryatara Investment & Securities,2026-04-23 13:13:55.842155
+2026042304006391,AHPC,26,35,500,283.0,141500.0,Asian Securities Private Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 13:13:55.842600
+2026042304006414,AHPC,42,44,90,283.8,25542.0,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:14:56.772335
+2026042304006440,AHPC,26,41,250,283.0,70750.0,Asian Securities Private Ltd.,Linch Stock Market Ltd.,2026-04-23 13:15:35.233825
+2026042304006449,AHPC,26,45,666,283.0,188478.0,Asian Securities Private Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:15:41.544694
+2026042304006450,AHPC,1,45,10,283.0,2830.0,Kumari Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 13:15:41.545431
+2026042304006609,AHPC,58,44,15,283.8,4257.0,Naasa Securities Co. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:19:53.216238
+2026042304006646,AHPC,38,44,170,283.8,48246.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:20:51.233993
+2026042304006667,AHPC,50,44,225,283.8,63855.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 13:21:14.989189
+2026042304006696,AHPC,71,81,200,283.1,56620.0,SHUBHAKAMANA SECURITIES PVT. LTD,Aakashbhairab Securities Ltd.,2026-04-23 13:21:41.954856
+2026042304006753,AHPC,71,26,500,283.1,141550.0,SHUBHAKAMANA SECURITIES PVT. LTD,Asian Securities Private Ltd.,2026-04-23 13:23:28.543011
+2026042304006768,AHPC,71,59,300,283.1,84930.0,SHUBHAKAMANA SECURITIES PVT. LTD,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:23:57.282238
+2026042304006769,AHPC,47,59,116,283.0,32828.0,Neev Securities Pvt. Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:23:57.282654
+2026042304006791,AHPC,17,59,100,283.0,28300.0,ABC Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:24:36.585773
+2026042304006811,AHPC,13,59,100,283.0,28300.0,Thrive Brokerage House Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:25:11.032301
+2026042304006859,AHPC,94,59,44,283.0,12452.0,K.B.L. Securities Limited ,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:26:13.392701
+2026042304007001,AHPC,49,32,10,282.9,2829.0,Online Securities Pvt. Ltd.,Premier Securities Company Ltd.,2026-04-23 13:27:58.175384
+2026042304007019,AHPC,49,34,43,282.9,12164.7,Online Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.679892
+2026042304007020,AHPC,57,34,100,282.9,28290.0,Aryatara Investment & Securities,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.680234
+2026042304007021,AHPC,39,34,100,282.0,28200.0,Sumeru Securities Pvt. Ltd.,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.680430
+2026042304007022,AHPC,70,34,757,282.0,213474.0,Infinity Securities Limited,Vision Securities Pvt. Ltd,2026-04-23 13:28:05.680584
+2026042304007069,AHPC,70,48,100,282.0,28200.0,Infinity Securities Limited,Trishakti Securities Public Limited,2026-04-23 13:28:24.433527
+2026042304007108,AHPC,70,19,70,282.0,19740.0,Infinity Securities Limited,Nepal Investment And Securities Trading Private Limited,2026-04-23 13:28:44.828478
+2026042304007137,AHPC,70,50,73,282.0,20586.0,Infinity Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.498055
+2026042304007138,AHPC,52,50,20,282.0,5640.0,Sundhara Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.498778
+2026042304007139,AHPC,57,50,100,282.0,28200.0,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.499266
+2026042304007140,AHPC,17,50,327,282.0,92214.0,ABC Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 13:29:00.499725
+2026042304007337,AHPC,17,81,43,282.0,12126.0,ABC Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.170685
+2026042304007338,AHPC,58,81,20,282.0,5640.0,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.171408
+2026042304007339,AHPC,58,81,10,282.0,2820.0,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.171871
+2026042304007340,AHPC,38,81,200,281.7,56340.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.172325
+2026042304007341,AHPC,57,81,90,281.7,25353.0,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.172772
+2026042304007342,AHPC,50,81,500,281.6,140800.0,Cristal Kanchanjanga Securites Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.173213
+2026042304007343,AHPC,88,81,500,281.4,140700.0,Blue Chip Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.173686
+2026042304007344,AHPC,88,81,500,281.3,140650.0,Blue Chip Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.174127
+2026042304007345,AHPC,46,81,110,281.0,30910.0,Kalika Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.174574
+2026042304007346,AHPC,35,81,500,281.0,140500.0,Kohinoor Investment & Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.175005
+2026042304007347,AHPC,62,81,27,281.0,7587.0,Capital Max Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:31:53.175450
+2026042304007361,AHPC,62,81,103,281.0,28943.0,Capital Max Securities Ltd,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515159
+2026042304007362,AHPC,58,81,85,281.0,23885.0,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515539
+2026042304007363,AHPC,49,81,50,281.0,14050.0,Online Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515692
+2026042304007364,AHPC,8,81,300,280.4,84120.0,Brilliant Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515838
+2026042304007365,AHPC,41,81,1000,280.3,280300.0,Linch Stock Market Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.515982
+2026042304007366,AHPC,25,81,410,280.3,114923.0,Sweta Securities Private Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.516125
+2026042304007367,AHPC,89,81,355,280.2,99471.0,Global IME Securities Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.516268
+2026042304007368,AHPC,48,81,203,280.0,56840.0,Trishakti Securities Public Limited,Aakashbhairab Securities Ltd.,2026-04-23 13:32:08.516429
+2026042304007438,AHPC,52,51,10,280.1,2801.0,Sundhara Securities Limited,Oxford Securities Pvt. Ltd.,2026-04-23 13:33:40.802502
+2026042304007496,AHPC,48,58,100,280.2,28020.0,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.707914
+2026042304007497,AHPC,52,58,190,280.1,53219.0,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.707966
+2026042304007498,AHPC,44,58,89,280.1,24928.9,Dynamic Money Managers Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.707998
+2026042304007499,AHPC,48,58,11,280.0,3080.0,Trishakti Securities Public Limited,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.708024
+2026042304007500,AHPC,42,58,120,280.0,33600.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:34:48.708049
+2026042304007512,AHPC,58,8,4,280.0,1120.0,Naasa Securities Co. Ltd.,Brilliant Securities Pvt. Ltd.,2026-04-23 13:35:06.219012
+2026042304007590,AHPC,4,58,50,280.1,14005.0,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181455
+2026042304007591,AHPC,42,58,380,280.0,106400.0,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181550
+2026042304007592,AHPC,38,58,200,280.0,56000.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181581
+2026042304007593,AHPC,51,58,150,280.0,42000.0,Oxford Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181604
+2026042304007594,AHPC,49,58,70,280.0,19600.0,Online Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181625
+2026042304007595,AHPC,8,58,150,280.0,42000.0,Brilliant Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:36:32.181653
+2026042304007635,AHPC,8,6,50,280.0,14000.0,Brilliant Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.222414
+2026042304007636,AHPC,13,6,200,280.0,56000.0,Thrive Brokerage House Pvt. Ltd,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.223049
+2026042304007637,AHPC,57,6,10,280.0,2800.0,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.223508
+2026042304007638,AHPC,45,6,500,280.0,140000.0,Imperial Securities Company Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.223939
+2026042304007639,AHPC,58,6,50,280.0,14000.0,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.224385
+2026042304007640,AHPC,52,6,190,280.0,53200.0,Sundhara Securities Limited,Agrawal Securities (PVT) Ltd.,2026-04-23 13:37:55.224807
+2026042304007803,AHPC,58,75,13,281.0,3653.0,Naasa Securities Co. Ltd.,N.I.M.B. Stock Markets Limited,2026-04-23 13:43:06.647210
+2026042304007804,AHPC,52,21,13,280.2,3642.6,Sundhara Securities Limited,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.786763
+2026042304007805,AHPC,49,21,10,280.2,2802.0,Online Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787064
+2026042304007806,AHPC,42,21,200,280.1,56020.0,Sani Securities Company Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787209
+2026042304007807,AHPC,52,21,310,280.0,86800.0,Sundhara Securities Limited,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787357
+2026042304007808,AHPC,57,21,967,280.0,270760.0,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-23 13:43:06.787505
+2026042304007810,AHPC,57,25,20,280.0,5600.0,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-23 13:43:11.561656
+2026042304007813,AHPC,57,21,13,280.0,3640.0,Aryatara Investment & Securities,Midas Stock Broking Company Private Limited,2026-04-23 13:43:13.451790
+2026042304007814,AHPC,35,21,487,280.0,136360.0,Kohinoor Investment & Securities Pvt. Ltd.,Midas Stock Broking Company Private Limited,2026-04-23 13:43:13.452475
+2026042304007816,AHPC,35,58,10,280.0,2800.0,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 13:43:26.156854
+2026042304007824,AHPC,35,6,503,280.0,140840.0,Kohinoor Investment & Securities Pvt. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:41.215196
+2026042304007825,AHPC,4,6,14,280.0,3920.0,Opal Securities Investment (PVT) Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:41.215532
+2026042304007826,AHPC,58,6,1083,280.0,303240.0,Naasa Securities Co. Ltd.,Agrawal Securities (PVT) Ltd.,2026-04-23 13:43:41.215678
+2026042304007829,AHPC,58,26,220,280.0,61600.0,Naasa Securities Co. Ltd.,Asian Securities Private Ltd.,2026-04-23 13:43:56.941556
+2026042304007987,AHPC,42,49,10,282.9,2829.0,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:49:34.290456
+2026042304008001,AHPC,42,49,10,282.9,2829.0,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 13:50:01.335397
+2026042304008014,AHPC,52,58,6,280.0,1680.0,Sundhara Securities Limited,Naasa Securities Co. Ltd.,2026-04-23 13:51:04.679452
+2026042304008027,AHPC,52,17,1,280.0,280.0,Sundhara Securities Limited,ABC Securities Private Limited,2026-04-23 13:51:46.691560
+2026042304008059,AHPC,52,75,3,281.0,843.0,Sundhara Securities Limited,N.I.M.B. Stock Markets Limited,2026-04-23 13:53:10.468805
+2026042304008063,AHPC,34,59,54,281.0,15174.0,Vision Securities Pvt. Ltd,Deevyaa Securities & Stock House Pvt. Ltd,2026-04-23 13:53:28.468928
+2026042304008112,AHPC,7,20,1400,282.0,394800.0,J.F. Securites (PVT) Ltd.,Sipla Securities Private Limited,2026-04-23 13:55:46.795826
+2026042304008113,AHPC,34,20,290,281.0,81490.0,Vision Securities Pvt. Ltd,Sipla Securities Private Limited,2026-04-23 13:55:46.796172
+2026042304008156,AHPC,34,49,30,281.0,8430.0,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 13:56:56.671175
+2026042304008220,AHPC,34,84,126,281.0,35406.0,Vision Securities Pvt. Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-23 13:59:13.196826
+2026042304008221,AHPC,13,84,74,281.0,20794.0,Thrive Brokerage House Pvt. Ltd,MILKY WAY SHARE BROKER COMPANY LTD ,2026-04-23 13:59:13.197275
+2026042304008262,AHPC,13,87,26,281.0,7306.0,Thrive Brokerage House Pvt. Ltd,S.P.S.A. Securities Limited,2026-04-23 14:00:17.795668
+2026042304008263,AHPC,42,87,26,281.0,7306.0,Sani Securities Company Ltd.,S.P.S.A. Securities Limited,2026-04-23 14:00:17.796079
+2026042304008266,AHPC,19,26,50,281.0,14050.0,Nepal Investment And Securities Trading Private Limited,Asian Securities Private Ltd.,2026-04-23 14:00:26.523329
+2026042304008390,AHPC,19,45,50,281.0,14050.0,Nepal Investment And Securities Trading Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:46.610462
+2026042304008391,AHPC,58,45,100,280.6,28060.0,Naasa Securities Co. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:46.610802
+2026042304008392,AHPC,42,45,185,280.5,51892.5,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:02:46.610961
+2026042304008470,AHPC,58,1,10,282.9,2829.0,Naasa Securities Co. Ltd.,Kumari Securities Private Limited,2026-04-23 14:04:34.178943
+2026042304008505,AHPC,44,86,300,280.6,84180.0,Dynamic Money Managers Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184029
+2026042304008506,AHPC,42,86,165,280.5,46282.5,Sani Securities Company Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184133
+2026042304008507,AHPC,52,86,12,280.1,3361.2,Sundhara Securities Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184208
+2026042304008508,AHPC,36,86,100,280.1,28010.0,Secured Securities Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184275
+2026042304008509,AHPC,58,86,697,280.0,195160.0,Naasa Securities Co. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184378
+2026042304008510,AHPC,6,86,200,280.0,56000.0,Agrawal Securities (PVT) Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184445
+2026042304008511,AHPC,22,86,150,280.0,42000.0,Siprabi Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184508
+2026042304008512,AHPC,57,86,30,280.0,8400.0,Aryatara Investment & Securities,Stoxkarts Securities Limited,2026-04-23 14:05:29.184573
+2026042304008513,AHPC,21,86,41,280.0,11480.0,Midas Stock Broking Company Private Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184638
+2026042304008514,AHPC,41,86,100,280.0,28000.0,Linch Stock Market Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184703
+2026042304008515,AHPC,78,86,57,280.0,15960.0,Garima Securities Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184790
+2026042304008516,AHPC,35,86,70,280.0,19600.0,Kohinoor Investment & Securities Pvt. Ltd.,Stoxkarts Securities Limited,2026-04-23 14:05:29.184854
+2026042304008517,AHPC,21,86,78,280.0,21840.0,Midas Stock Broking Company Private Limited,Stoxkarts Securities Limited,2026-04-23 14:05:29.184919
+2026042304008528,AHPC,21,38,205,280.0,57400.0,Midas Stock Broking Company Private Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476186
+2026042304008529,AHPC,58,38,200,280.0,56000.0,Naasa Securities Co. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476284
+2026042304008530,AHPC,49,38,50,279.7,13985.0,Online Securities Pvt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476327
+2026042304008531,AHPC,16,38,400,279.5,111800.0,Primo Securities (PVT) Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476356
+2026042304008532,AHPC,52,38,2000,279.5,559000.0,Sundhara Securities Limited,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476380
+2026042304008533,AHPC,29,38,145,279.3,40498.5,Trisul Securities & Invt. Ltd.,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,2026-04-23 14:05:56.476403
+2026042304008715,AHPC,58,60,144,281.0,40464.0,Naasa Securities Co. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:09:46.286851
+2026042304008723,AHPC,7,43,1000,279.4,279400.0,J.F. Securites (PVT) Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:10:02.547685
+2026042304008724,AHPC,29,43,1000,279.3,279300.0,Trisul Securities & Invt. Ltd.,South Asian Bulls Pvt. Ltd.,2026-04-23 14:10:02.548056
+2026042304008786,AHPC,42,60,10,281.0,2810.0,Sani Securities Company Ltd.,Nagarik Stock Dealer ,2026-04-23 14:11:01.399499
+2026042304008805,AHPC,6,70,300,280.0,84000.0,Agrawal Securities (PVT) Ltd.,Infinity Securities Limited,2026-04-23 14:11:37.262867
+2026042304008806,AHPC,47,70,200,280.0,56000.0,Neev Securities Pvt. Ltd.,Infinity Securities Limited,2026-04-23 14:11:37.263579
+2026042304008808,AHPC,6,70,200,280.0,56000.0,Agrawal Securities (PVT) Ltd.,Infinity Securities Limited,2026-04-23 14:11:47.741919
+2026042304008888,AHPC,42,42,36,280.0,10080.0,Sani Securities Company Ltd.,Sani Securities Company Ltd.,2026-04-23 14:13:16.839699
+2026042304008974,AHPC,60,42,221,280.0,61880.0,Nagarik Stock Dealer ,Sani Securities Company Ltd.,2026-04-23 14:15:02.637623
+2026042304009184,AHPC,52,60,60,281.0,16860.0,Sundhara Securities Limited,Nagarik Stock Dealer ,2026-04-23 14:18:18.421530
+2026042304009212,AHPC,75,60,150,281.0,42150.0,N.I.M.B. Stock Markets Limited,Nagarik Stock Dealer ,2026-04-23 14:18:58.442041
+2026042304009268,AHPC,60,70,225,280.0,63000.0,Nagarik Stock Dealer ,Infinity Securities Limited,2026-04-23 14:19:48.595444
+2026042304009434,AHPC,66,60,100,281.0,28100.0,Miyo Securities Pvt Ltd,Nagarik Stock Dealer ,2026-04-23 14:23:46.531393
+2026042304009528,AHPC,60,25,54,280.0,15120.0,Nagarik Stock Dealer ,Sweta Securities Private Limited,2026-04-23 14:26:19.124405
+2026042304009529,AHPC,45,25,20,280.0,5600.0,Imperial Securities Company Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.124809
+2026042304009530,AHPC,74,25,500,280.0,140000.0,KALASH STOCK MARKET PVT. LTD.,Sweta Securities Private Limited,2026-04-23 14:26:19.124973
+2026042304009531,AHPC,53,25,25,280.0,7000.0,Investment Management Nepal Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.125151
+2026042304009532,AHPC,58,25,350,280.0,98000.0,Naasa Securities Co. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.125317
+2026042304009533,AHPC,22,25,20,279.6,5592.0,Siprabi Securities Pvt. Ltd.,Sweta Securities Private Limited,2026-04-23 14:26:19.125485
+2026042304009534,AHPC,57,25,206,279.5,57577.0,Aryatara Investment & Securities,Sweta Securities Private Limited,2026-04-23 14:26:19.125658
+2026042304009586,AHPC,65,50,500,280.0,140000.0,Sharepro Securities Private Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:27:14.368232
+2026042304009686,AHPC,57,50,1000,280.0,280000.0,Aryatara Investment & Securities,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:29:40.152621
+2026042304009687,AHPC,78,50,50,280.0,14000.0,Garima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:29:40.152999
+2026042304009721,AHPC,78,50,73,280.0,20440.0,Garima Securities Limited,Cristal Kanchanjanga Securites Pvt. Ltd.,2026-04-23 14:30:06.008063
+2026042304009744,AHPC,78,60,237,280.0,66360.0,Garima Securities Limited,Nagarik Stock Dealer ,2026-04-23 14:30:46.512889
+2026042304009745,AHPC,36,60,299,280.0,83720.0,Secured Securities Ltd.,Nagarik Stock Dealer ,2026-04-23 14:30:47.081406
+2026042304009880,AHPC,35,57,25,281.0,7025.0,Kohinoor Investment & Securities Pvt. Ltd.,Aryatara Investment & Securities,2026-04-23 14:33:13.001509
+2026042304009892,AHPC,42,40,1,275.0,275.0,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:33:21.326707
+2026042304010112,AHPC,45,45,50,282.0,14100.0,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:36:15.718584
+2026042304010149,AHPC,52,52,52,281.1,14617.2,Sundhara Securities Limited,Sundhara Securities Limited,2026-04-23 14:36:51.244808
+2026042304010381,AHPC,52,44,1,280.0,280.0,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:41:16.453646
+2026042304010395,AHPC,1,16,315,281.1,88546.5,Kumari Securities Private Limited,Primo Securities (PVT) Ltd.,2026-04-23 14:41:47.095521
+2026042304010451,AHPC,1,52,685,281.1,192553.5,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-23 14:42:36.349748
+2026042304010452,AHPC,60,52,2000,281.1,562200.0,Nagarik Stock Dealer ,Sundhara Securities Limited,2026-04-23 14:42:36.350151
+2026042304010453,AHPC,35,52,15,281.0,4215.0,Kohinoor Investment & Securities Pvt. Ltd.,Sundhara Securities Limited,2026-04-23 14:42:36.350339
+2026042304010454,AHPC,1,52,300,281.0,84300.0,Kumari Securities Private Limited,Sundhara Securities Limited,2026-04-23 14:42:36.350518
+2026042304010533,AHPC,42,45,30,282.0,8460.0,Sani Securities Company Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:43:39.604258
+2026042304010709,AHPC,57,35,200,281.2,56240.0,Aryatara Investment & Securities,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.996310
+2026042304010710,AHPC,1,35,700,281.0,196700.0,Kumari Securities Private Limited,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.997114
+2026042304010711,AHPC,36,35,701,281.0,196981.0,Secured Securities Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.997649
+2026042304010712,AHPC,45,35,20,281.0,5620.0,Imperial Securities Company Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:44:44.998165
+2026042304010727,AHPC,44,35,379,280.4,106271.6,Dynamic Money Managers Securities Pvt. Ltd.,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:45:07.886225
+2026042304010914,AHPC,44,60,121,280.4,33928.4,Dynamic Money Managers Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:46:58.696036
+2026042304010915,AHPC,1,60,200,280.4,56080.0,Kumari Securities Private Limited,Nagarik Stock Dealer ,2026-04-23 14:46:58.696554
+2026042304010916,AHPC,49,60,1000,280.3,280300.0,Online Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:46:58.696754
+2026042304010917,AHPC,57,60,227,280.2,63605.4,Aryatara Investment & Securities,Nagarik Stock Dealer ,2026-04-23 14:46:58.696982
+2026042304010918,AHPC,49,60,50,280.2,14010.0,Online Securities Pvt. Ltd.,Nagarik Stock Dealer ,2026-04-23 14:46:58.697207
+2026042304010919,AHPC,34,60,402,280.1,112600.2,Vision Securities Pvt. Ltd,Nagarik Stock Dealer ,2026-04-23 14:46:58.697451
+2026042304010979,AHPC,45,45,10,280.4,2804.0,Imperial Securities Company Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213174
+2026042304010980,AHPC,34,45,98,280.1,27449.8,Vision Securities Pvt. Ltd,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213557
+2026042304010981,AHPC,60,45,145,280.0,40600.0,Nagarik Stock Dealer ,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213739
+2026042304010982,AHPC,49,45,53,280.0,14840.0,Online Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.213909
+2026042304010983,AHPC,17,45,150,280.0,42000.0,ABC Securities Private Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.214085
+2026042304010984,AHPC,90,45,44,280.0,12320.0,Sajilo Broker Limited,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:47:37.214259
+2026042304011038,AHPC,90,41,56,280.0,15680.0,Sajilo Broker Limited,Linch Stock Market Ltd.,2026-04-23 14:47:54.039785
+2026042304011039,AHPC,63,41,300,280.0,84000.0,Himalayan Brokerage Company Limited,Linch Stock Market Ltd.,2026-04-23 14:47:54.040185
+2026042304011040,AHPC,59,41,100,280.0,28000.0,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,2026-04-23 14:47:54.040373
+2026042304011041,AHPC,46,41,294,280.0,82320.0,Kalika Securities Pvt. Ltd.,Linch Stock Market Ltd.,2026-04-23 14:47:54.040593
+2026042304011094,AHPC,46,16,376,280.0,105280.0,Kalika Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:48:23.194455
+2026042304011095,AHPC,38,16,50,280.0,14000.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:48:23.194837
+2026042304011096,AHPC,42,16,959,280.0,268520.0,Sani Securities Company Ltd.,Primo Securities (PVT) Ltd.,2026-04-23 14:48:23.195013
+2026042304011119,AHPC,42,44,35,280.0,9800.0,Sani Securities Company Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,2026-04-23 14:48:32.607300
+2026042304011257,AHPC,69,49,500,281.0,140500.0,INDEX SECURITIES LIMITED,Online Securities Pvt. Ltd.,2026-04-23 14:49:08.470120
+2026042304011258,AHPC,69,35,25,281.4,7035.0,INDEX SECURITIES LIMITED,Kohinoor Investment & Securities Pvt. Ltd.,2026-04-23 14:49:08.470581
+2026042304011392,AHPC,49,40,200,281.0,56200.0,Online Securities Pvt. Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:49:50.084024
+2026042304011632,AHPC,58,40,215,281.0,60415.0,Naasa Securities Co. Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:50:53.354196
+2026042304011660,AHPC,42,49,15,280.0,4200.0,Sani Securities Company Ltd.,Online Securities Pvt. Ltd.,2026-04-23 14:51:00.971216
+2026042304011661,AHPC,34,49,195,280.0,54600.0,Vision Securities Pvt. Ltd,Online Securities Pvt. Ltd.,2026-04-23 14:51:00.971608
+2026042304011723,AHPC,34,51,205,280.0,57400.0,Vision Securities Pvt. Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972414
+2026042304011724,AHPC,19,51,500,280.0,140000.0,Nepal Investment And Securities Trading Private Limited,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972514
+2026042304011725,AHPC,58,51,28,280.0,7840.0,Naasa Securities Co. Ltd.,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972575
+2026042304011726,AHPC,88,51,267,280.0,74760.0,Blue Chip Securities Ltd,Oxford Securities Pvt. Ltd.,2026-04-23 14:51:20.972680
+2026042304011919,AHPC,58,42,20,280.2,5604.0,Naasa Securities Co. Ltd.,Sani Securities Company Ltd.,2026-04-23 14:52:44.856363
+2026042304011952,AHPC,21,42,15,280.2,4203.0,Midas Stock Broking Company Private Limited,Sani Securities Company Ltd.,2026-04-23 14:52:59.208364
+2026042304012049,AHPC,59,42,15,280.2,4203.0,Deevyaa Securities & Stock House Pvt. Ltd,Sani Securities Company Ltd.,2026-04-23 14:53:46.757127
+2026042304012050,AHPC,59,64,41,280.2,11488.2,Deevyaa Securities & Stock House Pvt. Ltd,SUN SECURITIES PVT LTD,2026-04-23 14:53:46.757573
+2026042304012261,AHPC,40,62,10,280.1,2801.0,Creative Securities Pvt Ltd,Capital Max Securities Ltd,2026-04-23 14:55:07.955066
+2026042304012262,AHPC,88,62,33,280.0,9240.0,Blue Chip Securities Ltd,Capital Max Securities Ltd,2026-04-23 14:55:07.955890
+2026042304012287,AHPC,58,62,100,280.0,28000.0,Naasa Securities Co. Ltd.,Capital Max Securities Ltd,2026-04-23 14:55:21.875842
+2026042304012289,AHPC,44,62,357,280.0,99960.0,Dynamic Money Managers Securities Pvt. Ltd.,Capital Max Securities Ltd,2026-04-23 14:55:24.793375
+2026042304012323,AHPC,38,19,100,280.0,28000.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:55:38.413946
+2026042304012479,AHPC,38,32,220,280.0,61600.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Premier Securities Company Ltd.,2026-04-23 14:56:03.942966
+2026042304012608,AHPC,43,69,250,280.1,70025.0,South Asian Bulls Pvt. Ltd.,INDEX SECURITIES LIMITED,2026-04-23 14:56:45.321361
+2026042304012609,AHPC,38,69,180,280.0,50400.0,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,INDEX SECURITIES LIMITED,2026-04-23 14:56:45.321736
+2026042304012610,AHPC,16,69,95,280.0,26600.0,Primo Securities (PVT) Ltd.,INDEX SECURITIES LIMITED,2026-04-23 14:56:45.321917
+2026042304012648,AHPC,42,53,5,274.0,1370.0,Sani Securities Company Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 14:56:53.058862
+2026042304012710,AHPC,16,19,174,280.0,48720.0,Primo Securities (PVT) Ltd.,Nepal Investment And Securities Trading Private Limited,2026-04-23 14:57:08.798938
+2026042304012728,AHPC,29,64,46,280.2,12889.2,Trisul Securities & Invt. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 14:57:17.868178
+2026042304012846,AHPC,58,64,300,280.2,84060.0,Naasa Securities Co. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 14:58:01.331043
+2026042304012861,AHPC,35,64,13,280.2,3642.6,Kohinoor Investment & Securities Pvt. Ltd.,SUN SECURITIES PVT LTD,2026-04-23 14:58:05.186050
+2026042304012862,AHPC,35,36,22,280.2,6164.4,Kohinoor Investment & Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:05.186459
+2026042304012865,AHPC,45,36,40,280.2,11208.0,Imperial Securities Company Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:06.207182
+2026042304012866,AHPC,49,36,70,280.2,19614.0,Online Securities Pvt. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:07.424514
+2026042304012868,AHPC,58,58,35,280.1,9803.5,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:58:08.478194
+2026042304012872,AHPC,58,65,317,280.1,88791.7,Naasa Securities Co. Ltd.,Sharepro Securities Private Limited,2026-04-23 14:58:10.503936
+2026042304012873,AHPC,16,65,131,280.0,36680.0,Primo Securities (PVT) Ltd.,Sharepro Securities Private Limited,2026-04-23 14:58:10.504810
+2026042304012874,AHPC,34,65,452,280.0,126560.0,Vision Securities Pvt. Ltd,Sharepro Securities Private Limited,2026-04-23 14:58:10.505536
+2026042304012908,AHPC,58,36,200,280.2,56040.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:15.876576
+2026042304012922,AHPC,34,28,48,280.0,13440.0,Vision Securities Pvt. Ltd,Shree Krishna Securities Ltd.,2026-04-23 14:58:20.271913
+2026042304012923,AHPC,45,28,20,280.0,5600.0,Imperial Securities Company Pvt. Ltd.,Shree Krishna Securities Ltd.,2026-04-23 14:58:20.272332
+2026042304012924,AHPC,42,28,562,280.0,157360.0,Sani Securities Company Ltd.,Shree Krishna Securities Ltd.,2026-04-23 14:58:20.272681
+2026042304012932,AHPC,58,36,200,280.2,56040.0,Naasa Securities Co. Ltd.,Secured Securities Ltd.,2026-04-23 14:58:22.829263
+2026042304012982,AHPC,42,40,153,280.0,42840.0,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:58:29.759570
+2026042304012983,AHPC,42,40,127,280.0,35560.0,Sani Securities Company Ltd.,Creative Securities Pvt Ltd,2026-04-23 14:58:29.760377
+2026042304013043,AHPC,42,29,73,280.0,20440.0,Sani Securities Company Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:58:44.008441
+2026042304013044,AHPC,45,29,30,280.0,8400.0,Imperial Securities Company Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:58:44.009269
+2026042304013113,AHPC,49,29,48,280.0,13440.0,Online Securities Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:59:03.675579
+2026042304013137,AHPC,43,29,114,280.0,31920.0,South Asian Bulls Pvt. Ltd.,Trisul Securities & Invt. Ltd.,2026-04-23 14:59:06.734160
+2026042304013138,AHPC,43,48,86,280.0,24080.0,South Asian Bulls Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:59:06.734566
+2026042304013172,AHPC,35,48,114,280.0,31920.0,Kohinoor Investment & Securities Pvt. Ltd.,Trishakti Securities Public Limited,2026-04-23 14:59:12.202577
+2026042304013180,AHPC,35,53,303,280.0,84840.0,Kohinoor Investment & Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,2026-04-23 14:59:14.613778
+2026042304013182,AHPC,35,98,404,280.0,113120.0,Kohinoor Investment & Securities Pvt. Ltd.,Trademow Securities Private Limited,2026-04-23 14:59:15.184128
+2026042304013317,AHPC,35,45,120,280.0,33600.0,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,2026-04-23 14:59:21.896801
+2026042304013344,AHPC,35,58,59,280.0,16520.0,Kohinoor Investment & Securities Pvt. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:59:24.914557
+2026042304013345,AHPC,58,58,21,280.0,5880.0,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,2026-04-23 14:59:24.914969
+2026042304013533,AHPC,29,36,10,280.2,2802.0,Trisul Securities & Invt. Ltd.,Secured Securities Ltd.,2026-04-23 14:59:47.767240
+2026042304013671,AHPC,58,81,79,280.0,22120.0,Naasa Securities Co. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.960272
+2026042304013672,AHPC,57,81,316,280.0,88480.0,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.960630
+2026042304013673,AHPC,42,81,354,280.0,99120.0,Sani Securities Company Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.960837
+2026042304013674,AHPC,44,81,500,280.0,140000.0,Dynamic Money Managers Securities Pvt. Ltd.,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.961050
+2026042304013675,AHPC,48,81,933,279.9,261146.7,Trishakti Securities Public Limited,Aakashbhairab Securities Ltd.,2026-04-23 14:59:59.961259

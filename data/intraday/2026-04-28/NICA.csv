@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NICA,38,85,100,359.0,35900.0,2026-04-28 14:59:54.839,2026042801110729
 NICA,41,14,50,358.0,17900.0,2026-04-28 14:59:47.165,2026042801110502
 NICA,46,45,335,357.8,119863.0,2026-04-28 14:59:36.235,2026042801110245

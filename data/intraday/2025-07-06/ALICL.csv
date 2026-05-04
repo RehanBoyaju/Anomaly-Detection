@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-06,87254,2025070603000058,ALICL,Sweta Securities Private Limited,Deevyaa Securities & Stock House Pvt. Ltd,25,519.0,12975.0,2025-07-06 11:00:32.146944
 2025-07-06,87184,2025070603000090,ALICL,Opal Securities Investment (PVT) Ltd.,Deevyaa Securities & Stock House Pvt. Ltd,25,519.0,12975.0,2025-07-06 11:00:56.310112
 2025-07-06,87117,2025070603000108,ALICL,Online Securities Pvt. Ltd.,Investment Management Nepal Pvt. Ltd.,30,511.0,15330.0,2025-07-06 11:01:08.703478

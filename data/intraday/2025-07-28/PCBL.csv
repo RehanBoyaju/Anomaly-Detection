@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-28,166692,2025072801000876,PCBL,Creative Securities Pvt Ltd,Primo Securities (PVT) Ltd.,120,275.1,33012.0,2025-07-28T11:08:59.977003
 2025-07-28,166691,2025072801000877,PCBL,Sri Hari Securities Pvt. Ltd.,Primo Securities (PVT) Ltd.,257,275.0,70675.0,2025-07-28T11:08:59.977076
 2025-07-28,166488,2025072801000924,PCBL,Sri Hari Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,740,275.0,203500.0,2025-07-28T11:09:20.357806

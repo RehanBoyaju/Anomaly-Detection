@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,171475,2025072203002602,JFL,Nabil Stock Dealer Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,508.9,5089.0,2025-07-22 11:10:40.776282
 2025-07-22,169101,2025072203003469,JFL,Sri Hari Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,50,508.9,25445.0,2025-07-22 11:14:16.440538
 2025-07-22,167946,2025072203003937,JFL,Sundhara Securities Limited,Dynamic Money Managers Securities Pvt. Ltd.,30,508.9,15267.0,2025-07-22 11:16:05.340735

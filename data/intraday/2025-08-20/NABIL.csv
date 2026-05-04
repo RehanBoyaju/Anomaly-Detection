@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-20,53556,2025082001000040,NABIL,Trishakti Securities Public Limited,Pragyan Securities (PVT) Ltd.,500,518.0,259000.0,2025-08-20 11:03:23.735854
 2025-08-20,53457,2025082001000052,NABIL,Capital Max Securities Ltd,Kumari Securities Private Limited,60,519.0,31140.0,2025-08-20 11:04:06.712766
 2025-08-20,53395,2025082001000067,NABIL,Kumari Securities Private Limited,Kumari Securities Private Limited,140,519.0,72660.0,2025-08-20 11:04:35.663018

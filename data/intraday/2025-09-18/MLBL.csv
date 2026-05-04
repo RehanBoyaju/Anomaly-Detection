@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,6556,2025091803000174,MLBL,Asian Securities Private Ltd.,Sani Securities Company Ltd.,10,376.6,3766.0,2025-09-18 11:00:43.556138
 2025-09-18,6224,2025091803000226,MLBL,Asian Securities Private Ltd.,S.P.S.A. Securities Limited,250,369.1,92275.0,2025-09-18 11:01:28.188693
 2025-09-18,5991,2025091803000268,MLBL,Asian Securities Private Ltd.,Citizens Share Broker Limited,118,369.1,43553.8,2025-09-18 11:01:52.593212

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-04,143714,2025080401004101,NMB,Naasa Securities Co. Ltd.,Nepal Stock House (PVT) Ltd.,100,259.9,25990.0,2025-08-04 11:05:22.465573
 2025-08-04,140213,2025080401006725,NMB,Vision Securities Pvt. Ltd,Nepal Stock House (PVT) Ltd.,300,259.9,77970.0,2025-08-04 11:08:12.323993
 2025-08-04,139578,2025080401007145,NMB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Asian Securities Private Ltd.,500,260.0,130000.0,2025-08-04 11:08:49.293657

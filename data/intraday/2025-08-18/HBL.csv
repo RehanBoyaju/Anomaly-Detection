@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,66231,2025081801000527,HBL,Midas Stock Broking Company Private Limited,Premier Securities Company Ltd.,30,213.0,6390.0,2025-08-18T11:10:00.208284
 2025-08-18,66230,2025081801000528,HBL,Aryatara Investment & Securities,Premier Securities Company Ltd.,65,213.0,13845.0,2025-08-18T11:10:00.208391
 2025-08-18,65011,2025081801000835,HBL,Machhapuchchhre Securities Limited,Capital Max Securities Ltd,10,215.0,2150.0,2025-08-18T11:16:23.75823

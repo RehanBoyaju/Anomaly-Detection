@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152509,2025080303000003,NFS,Asian Securities Private Ltd.,Vision Securities Pvt. Ltd,17,803.9,13666.3,2025-08-03T10:46:00.019167
 2025-08-03,152508,2025080303000004,NFS,Vision Securities Pvt. Ltd,Vision Securities Pvt. Ltd,83,803.9,66723.7,2025-08-03T10:46:00.019193
 2025-08-03,152507,2025080303000005,NFS,Vision Securities Pvt. Ltd,Creative Securities Pvt Ltd,300,803.9,241170.0,2025-08-03T10:46:00.019218

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-01,63162,2025090104000620,SHL,Imperial Securities Company Pvt. Ltd.,Primo Securities (PVT) Ltd.,83,555.0,46065.0,2025-09-01 11:18:57.187970
 2025-09-01,60589,2025090104000924,SHL,Imperial Securities Company Pvt. Ltd.,Sani Securities Company Ltd.,6,555.0,3330.0,2025-09-01 11:27:26.086579
 2025-09-01,60569,2025090104000929,SHL,Kohinoor Investment & Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,100,562.0,56200.0,2025-09-01 11:27:31.120916

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,71169,2025090204000848,OHL,Deevyaa Securities & Stock House Pvt. Ltd,Linch Stock Market Ltd.,10,860.0,8600.0,2025-09-02 11:36:35.820644
 2025-09-02,56364,2025090204002205,OHL,Sewa Securities Pvt. Ltd.,Opal Securities Investment (PVT) Ltd.,10,846.1,8461.0,2025-09-02 12:14:07.951247
 2025-09-02,51798,2025090204002618,OHL,Secured Securities Ltd.,Online Securities Pvt. Ltd.,10,846.2,8462.0,2025-09-02 12:29:52.270554

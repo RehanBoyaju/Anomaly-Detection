@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,86127,2025090203000053,GMFIL,Siprabi Securities Pvt. Ltd.,Bhrikuti Stock Broking Co. Pvt. Ltd.,10,468.2,4682.0,2025-09-02 11:05:00.169905
 2025-09-02,82164,2025090203000168,GMFIL,Blue Chip Securities Ltd,Aryatara Investment & Securities,10,477.0,4770.0,2025-09-02 11:11:55.507694
 2025-09-02,76533,2025090203000338,GMFIL,Blue Chip Securities Ltd,Deevyaa Securities & Stock House Pvt. Ltd,10,480.0,4800.0,2025-09-02 11:23:42.935209

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108744,2025092103000027,NFS,Cristal Kanchanjanga Securites Pvt. Ltd.,Naasa Securities Co. Ltd.,25,605.0,15125.0,2025-09-21 10:46:00.020315
 2025-09-21,108742,2025092103000028,NFS,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,5,605.0,3025.0,2025-09-21 10:46:00.020342
 2025-09-21,108740,2025092103000029,NFS,Naasa Securities Co. Ltd.,Nepal Investment And Securities Trading Private Limited,60,605.0,36300.0,2025-09-21 10:46:00.020365

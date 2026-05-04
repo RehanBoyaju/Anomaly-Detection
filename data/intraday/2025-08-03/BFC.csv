@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-03,152492,2025080303000016,BFC,Aryatara Investment & Securities,Swarna Laxmi Securities Pvt. Ltd.,10,530.0,5300.0,2025-08-03T10:46:00.02282
 2025-08-03,152022,2025080303000085,BFC,Capital Max Securities Ltd,Nepal Stock House (PVT) Ltd.,50,531.1,26555.0,2025-08-03T11:01:01.010113
 2025-08-03,152021,2025080303000086,BFC,Aryatara Investment & Securities,Nepal Stock House (PVT) Ltd.,300,531.0,159300.0,2025-08-03T11:01:01.010182

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168533,2025073103000009,SINDU,Bhrikuti Stock Broking Co. Pvt. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,100,820.0,82000.0,2025-07-31 10:46:00.068258
 2025-07-31,168532,2025073103000010,SINDU,Bhrikuti Stock Broking Co. Pvt. Ltd.,Midas Stock Broking Company Private Limited,100,820.0,82000.0,2025-07-31 10:46:00.068309
 2025-07-31,168531,2025073103000011,SINDU,Imperial Securities Company Pvt. Ltd.,Midas Stock Broking Company Private Limited,20,820.0,16400.0,2025-07-31 10:46:00.068366

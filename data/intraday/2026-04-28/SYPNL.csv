@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 SYPNL,58,91,10,1520.0,15200.0,2026-04-28 14:59:59.481,2026042801111037
 SYPNL,35,91,559,1520.0,849680.0,2026-04-28 14:59:59.480,2026042801111036
 SYPNL,35,14,441,1520.0,670320.0,2026-04-28 14:59:58.584,2026042801111012

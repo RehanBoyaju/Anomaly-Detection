@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-04,68422,2025090404000220,SSHL,Naasa Securities Co. Ltd.,Premier Securities Company Ltd.,30,182.5,5475.0,2025-09-04T11:04:12.019556
 2025-09-04,68097,2025090404000330,SSHL,Sundhara Securities Limited,Premier Securities Company Ltd.,20,182.5,3650.0,2025-09-04T11:05:48.783197
 2025-09-04,67959,2025090404000362,SSHL,Sundhara Securities Limited,Naasa Securities Co. Ltd.,10,182.0,1820.0,2025-09-04T11:06:37.560988

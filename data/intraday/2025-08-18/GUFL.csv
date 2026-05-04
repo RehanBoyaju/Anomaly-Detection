@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-18,67539,2025081803000037,GUFL,Opal Securities Investment (PVT) Ltd.,Naasa Securities Co. Ltd.,10,540.0,5400.0,2025-08-18T11:03:23.155694
 2025-08-18,64455,2025081803000375,GUFL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,600,538.0,322800.0,2025-08-18T11:19:06.25131
 2025-08-18,63919,2025081803000437,GUFL,Midas Stock Broking Company Private Limited,Imperial Securities Company Pvt. Ltd.,74,538.0,39812.0,2025-08-18T11:21:37.819979

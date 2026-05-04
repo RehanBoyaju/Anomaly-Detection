@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-20,177897,2025072003000089,CORBL,Sani Securities Company Ltd.,Hatemalo Financial Services Private Limited,10,2389.3,23893.0,2025-07-20T11:00:18.812969
 2025-07-20,177763,2025072003000130,CORBL,Sani Securities Company Ltd.,Hatemalo Financial Services Private Limited,10,2341.6,23416.0,2025-07-20T11:00:44.863301
 2025-07-20,177601,2025072003000170,CORBL,Vision Securities Pvt. Ltd,Hatemalo Financial Services Private Limited,10,2294.8,22948.0,2025-07-20T11:01:06.904257

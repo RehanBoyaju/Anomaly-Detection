@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-07,71261,2025070704000008,AKPL,Thrive Brokerage House Pvt. Ltd,Kumari Securities Private Limited,10,260.6,2606.0,2025-07-07 10:46:00.041047
 2025-07-07,71260,2025070704000009,AKPL,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,10,260.6,2606.0,2025-07-07 10:46:00.041082
 2025-07-07,70894,2025070704000089,AKPL,Sani Securities Company Ltd.,Himalayan Brokerage Company Limited,10,257.9,2579.0,2025-07-07 11:02:09.075345

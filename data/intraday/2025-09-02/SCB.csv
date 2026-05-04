@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-02,89765,2025090201000003,SCB,Sri Hari Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,670.0,6700.0,2025-09-02 10:46:00.013530
 2025-09-02,88591,2025090201001081,SCB,Naasa Securities Co. Ltd.,Elite Stock House Limited,142,660.2,93748.4,2025-09-02 11:01:20.113772
 2025-09-02,88590,2025090201001082,SCB,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Elite Stock House Limited,235,660.1,155123.5,2025-09-02 11:01:20.113807

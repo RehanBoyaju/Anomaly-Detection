@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-21,108330,2025092104000181,RHPL,Nepal Investment And Securities Trading Private Limited,Naasa Securities Co. Ltd.,10,273.0,2730.0,2025-09-21 10:46:00.074078
 2025-09-21,108329,2025092104000182,RHPL,Agrawal Securities (PVT) Ltd.,Naasa Securities Co. Ltd.,60,273.0,16380.0,2025-09-21 10:46:00.074118
 2025-09-21,108328,2025092104000183,RHPL,Agrawal Securities (PVT) Ltd.,Secured Securities Ltd.,40,273.0,10920.0,2025-09-21 10:46:00.074141

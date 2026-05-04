@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67351,2025092305000017,NRN,Siprabi Securities Pvt. Ltd.,Sani Securities Company Ltd.,30,2032.0,60960.0,2025-09-23 10:46:00.022120
 2025-09-23,67350,2025092305000018,NRN,Siprabi Securities Pvt. Ltd.,Imperial Securities Company Pvt. Ltd.,20,2032.0,40640.0,2025-09-23 10:46:00.022185
 2025-09-23,67349,2025092305000019,NRN,Siprabi Securities Pvt. Ltd.,Sumeru Securities Pvt. Ltd.,33,2032.0,67056.0,2025-09-23 10:46:00.022215

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-08,59474,2025090801000049,ADBL,Shree Krishna Securities Ltd.,Online Securities Pvt. Ltd.,70,320.3,22421.0,2025-09-08 11:01:55.470371
 2025-09-08,59188,2025090801000160,ADBL,Sweta Securities Private Limited,Naasa Securities Co. Ltd.,10,320.5,3205.0,2025-09-08 11:05:10.877289
 2025-09-08,59187,2025090801000161,ADBL,Sani Securities Company Ltd.,Naasa Securities Co. Ltd.,50,320.4,16020.0,2025-09-08 11:05:10.877356

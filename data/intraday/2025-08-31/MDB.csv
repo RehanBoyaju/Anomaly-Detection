@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-31,88328,2025083103000225,MDB,ABC Securities Private Limited,Sewa Securities Pvt. Ltd.,15,626.0,9390.0,2025-08-31T11:13:58.334859
 2025-08-31,88327,2025083103000226,MDB,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,30,625.0,18750.0,2025-08-31T11:13:58.334986
 2025-08-31,88326,2025083103000227,MDB,Dynamic Money Managers Securities Pvt. Ltd.,Sewa Securities Pvt. Ltd.,50,625.0,31250.0,2025-08-31T11:13:58.335084

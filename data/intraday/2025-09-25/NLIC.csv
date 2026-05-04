@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-25,36453,2025092503000126,NLIC,Sundhara Securities Limited,Aryatara Investment & Securities,5,760.0,3800.0,2025-09-25 11:10:35.197626
 2025-09-25,36092,2025092503000165,NLIC,Naasa Securities Co. Ltd.,Naasa Securities Co. Ltd.,13,769.0,9997.0,2025-09-25 11:13:31.690697
 2025-09-25,36067,2025092503000166,NLIC,Naasa Securities Co. Ltd.,Dakshinkali Investment & Securities Pvt. Ltd.,52,769.0,39988.0,2025-09-25 11:13:46.106538

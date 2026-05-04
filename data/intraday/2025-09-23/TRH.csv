@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67381,2025092304000001,TRH,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Naasa Securities Co. Ltd.,10,850.0,8500.0,2025-09-23 10:46:00.003699
 2025-09-23,66429,2025092304000321,TRH,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Asian Securities Private Ltd.,30,851.0,25530.0,2025-09-23 11:03:37.403566
 2025-09-23,65708,2025092304000527,TRH,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,Imperial Securities Company Pvt. Ltd.,20,851.0,17020.0,2025-09-23 11:05:53.597725

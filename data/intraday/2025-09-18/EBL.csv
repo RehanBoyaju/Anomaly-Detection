@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-18,7367,2025091801000029,EBL,Vision Securities Pvt. Ltd,Kumari Securities Private Limited,10,698.0,6980.0,2025-09-18 10:46:00.025676
 2025-09-18,7366,2025091801000030,EBL,Prabhu Stock Market Limited,Kumari Securities Private Limited,10,698.0,6980.0,2025-09-18 10:46:00.025705
 2025-09-18,7365,2025091801000031,EBL,Imperial Securities Company Pvt. Ltd.,Kumari Securities Private Limited,100,698.0,69800.0,2025-09-18 10:46:00.025727

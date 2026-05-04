@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-15,73793,2025071501000100,ADBL,Creative Securities Pvt Ltd,K.B.L. Securities Limited ,150,312.1,46815.0,2025-07-15 11:02:11.112778
 2025-07-15,73792,2025071501000101,ADBL,Dipshikha Dhitopatra Karobar Co. Pvt Ltd.,K.B.L. Securities Limited ,100,312.0,31200.0,2025-07-15 11:02:11.112852
 2025-07-15,73791,2025071501000102,ADBL,Midas Stock Broking Company Private Limited,K.B.L. Securities Limited ,80,311.7,24936.0,2025-07-15 11:02:11.112880

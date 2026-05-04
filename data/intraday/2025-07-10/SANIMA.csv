@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,88508,2025071001000049,SANIMA,Indira securities pvt. ltd,Sewa Securities Pvt. Ltd.,228,345.0,78660.0,2025-07-10 11:00:27.406667
 2025-07-10,88479,2025071001000056,SANIMA,Indira securities pvt. ltd,Dakshinkali Investment & Securities Pvt. Ltd.,100,345.0,34500.0,2025-07-10 11:00:37.132113
 2025-07-10,88461,2025071001000064,SANIMA,Indira securities pvt. ltd,Dynamic Money Managers Securities Pvt. Ltd.,172,345.0,59340.0,2025-07-10 11:00:50.837035

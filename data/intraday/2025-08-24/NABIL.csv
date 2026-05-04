@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-08-24,57317,2025082401000112,NABIL,Naasa Securities Co. Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,10,520.0,5200.0,2025-08-24 11:05:27.876991
 2025-08-24,57261,2025082401000124,NABIL,Secured Securities Ltd.,Malla & Malla Stock Broking Company Pvt. Limited,500,520.0,260000.0,2025-08-24 11:05:43.383352
 2025-08-24,57218,2025082401000139,NABIL,South Asian Bulls Pvt. Ltd.,Thrive Brokerage House Pvt. Ltd,195,519.0,101205.0,2025-08-24 11:06:11.832669

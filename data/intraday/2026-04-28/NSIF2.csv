@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 NSIF2,85,4,2900,11.03,31987.0,2026-04-28 14:58:13.127,2026042805015883
 NSIF2,85,16,2000,11.0,22000.0,2026-04-28 14:58:13.127,2026042805015882
 NSIF2,85,49,100,10.99,1099.0,2026-04-28 14:58:13.127,2026042805015881

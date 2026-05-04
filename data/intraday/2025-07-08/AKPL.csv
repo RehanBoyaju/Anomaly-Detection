@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-08,56089,2025070804000082,AKPL,J.F. Securites (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,41,254.0,10414.0,2025-07-08 11:01:18.927304
 2025-07-08,56088,2025070804000083,AKPL,J.F. Securites (PVT) Ltd.,Imperial Securities Company Pvt. Ltd.,50,254.0,12700.0,2025-07-08 11:01:19.036346
 2025-07-08,56064,2025070804000098,AKPL,J.F. Securites (PVT) Ltd.,Sri Hari Securities Pvt. Ltd.,10,254.0,2540.0,2025-07-08 11:01:27.121702

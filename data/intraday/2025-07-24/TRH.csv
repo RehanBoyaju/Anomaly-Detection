@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-24,146051,2025072404003146,TRH,Oxford Securities Pvt. Ltd.,Dynamic Money Managers Securities Pvt. Ltd.,10,1018.0,10180.0,2025-07-24 11:15:06.084129
 2025-07-24,141729,2025072404004442,TRH,Market Securities & Exchange (PVT) Ltd.,Vision Securities Pvt. Ltd,40,1025.0,41000.0,2025-07-24 11:21:44.981975
 2025-07-24,140107,2025072404004930,TRH,KALASH STOCK MARKET PVT. LTD.,Secured Securities Ltd.,80,1030.0,82400.0,2025-07-24 11:24:10.872401

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-09-23,67252,2025092304000032,CHCL,Aryatara Investment & Securities,Malla & Malla Stock Broking Company Pvt. Limited,21,500.0,10500.0,2025-09-23 11:00:40.081957
 2025-09-23,67251,2025092304000033,CHCL,Aryatara Investment & Securities,Aakashbhairab Securities Ltd.,379,501.0,189879.0,2025-09-23 11:00:40.082038
 2025-09-23,66960,2025092304000143,CHCL,Trishakti Securities Public Limited,Aakashbhairab Securities Ltd.,500,501.0,250500.0,2025-09-23 11:01:55.509761

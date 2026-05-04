@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-31,168061,2025073103000118,SHINE,Cristal Kanchanjanga Securites Pvt. Ltd.,Premier Securities Company Ltd.,412,465.0,191580.0,2025-07-31 11:01:34.555124
 2025-07-31,167455,2025073103000268,SHINE,Aryatara Investment & Securities,Premier Securities Company Ltd.,50,465.7,23285.0,2025-07-31 11:02:51.253558
 2025-07-31,167239,2025073103000332,SHINE,Aryatara Investment & Securities,Agrawal Securities (PVT) Ltd.,450,465.7,209565.0,2025-07-31 11:03:12.204724

@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-10,81088,2025071004002080,TRH,Naasa Securities Co. Ltd.,Secured Securities Ltd.,10,950.0,9500.0,2025-07-10 11:27:19.434001
 2025-07-10,80632,2025071004002215,TRH,Naasa Securities Co. Ltd.,Secured Securities Ltd.,50,950.0,47500.0,2025-07-10 11:28:31.526885
 2025-07-10,78760,2025071004002755,TRH,Naasa Securities Co. Ltd.,Secured Securities Ltd.,49,940.3,46074.7,2025-07-10 11:34:27.123818

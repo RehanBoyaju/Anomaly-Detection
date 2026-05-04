@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-22,176786,2025072205000032,CHDC,Vision Securities Pvt. Ltd,Trishakti Securities Public Limited,12,2801.0,33612.0,2025-07-22 11:01:04.710662
 2025-07-22,176324,2025072205000094,CHDC,Market Securities & Exchange (PVT) Ltd.,Sumeru Securities Pvt. Ltd.,10,2857.0,28570.0,2025-07-22 11:02:12.120290
 2025-07-22,174740,2025072205000323,CHDC,Linch Stock Market Ltd.,Sri Hari Securities Pvt. Ltd.,45,2850.0,128250.0,2025-07-22 11:05:21.873082

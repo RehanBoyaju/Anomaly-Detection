@@ -1,4 +1,4 @@
-stockSymbol,buyerMemberId,sellerMemberId,quantity,rate,amount,transaction_time,contractId
+symbol,buyer_member_id,seller_member_id,volume,price,amount,transaction_time,contract_id
 HLBSL,42,41,50,880.3,44015.0,2026-04-28 14:59:26.299,2026042803008333
 HLBSL,57,28,30,881.0,26430.0,2026-04-28 14:59:16.088,2026042803008299
 HLBSL,42,10,200,880.2,176040.0,2026-04-28 14:56:32.055,2026042803007946

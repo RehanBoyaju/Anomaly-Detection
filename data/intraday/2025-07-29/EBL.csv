@@ -1,4 +1,4 @@
-Date,S.N.,Contract ID,Symbol,Buyer Broker,Seller Broker,volume,rate,amount,transaction_time
+Date,S.N.,contract_id,symbol,buyer_broker,seller_broker,volume,price,amount,transaction_time
 2025-07-29,156923,2025072901000219,EBL,Nepal Investment And Securities Trading Private Limited,Elite Stock House Limited,150,740.0,111000.0,2025-07-29 11:01:50.470750
 2025-07-29,156650,2025072901000307,EBL,Online Securities Pvt. Ltd.,Elite Stock House Limited,30,740.0,22200.0,2025-07-29 11:02:23.928612
 2025-07-29,156332,2025072901000383,EBL,Aryatara Investment & Securities,Elite Stock House Limited,50,740.0,37000.0,2025-07-29 11:03:04.139392
