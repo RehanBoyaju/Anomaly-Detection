@@ -34,8 +34,6 @@ def normalize_intraday_columns(input,output) :
         if symbol not in final_symbols:
             continue
 
-        print(df.head)
-
 
         df.rename(columns={
             "tradeTime":"transaction_time",
@@ -166,6 +164,9 @@ def normalize_scraped_floor_data(input="./floorsheet/floor-2026-04-28.csv",outpu
 
     for ticker in tickers:
 
+        if ticker not in final_symbols:
+            continue;
+
         ticker_df = df[df["symbol"] == ticker]
         # Replace any character that is not a letter, number, underscore, or dash with underscore
         safe_ticker = re.sub(r'[^A-Za-z0-9_\-]', '_', ticker)
@@ -179,8 +180,8 @@ def normalize_scraped_floor_data(input="./floorsheet/floor-2026-04-28.csv",outpu
 
 
 
-# normalize_interday_columns(f"{BASE_DIR}/NepseScraper/data/company-wise")
-# normalize_intraday_test_columns(f"{BASE_DIR}/nepse_floorsheet/data/intraday_testing",f"{BASE_DIR}/AnomalyEngine/data/intraday")
+normalize_interday_columns(f"{BASE_DIR}/NepseScraper/data/company-wise")
+normalize_intraday_test_columns(f"{BASE_DIR}/nepse_floorsheet/data/intraday_testing",f"{BASE_DIR}/AnomalyEngine/data/intraday")
 
 latest_daily_data = Path(f"{BASE_DIR}/NEPSE_API/data/intraday");
 
@@ -189,10 +190,9 @@ for date_folder in latest_daily_data.iterdir() :
 
     date = date_folder.name
 
-    print(1);
     
     normalize_intraday_columns(date_folder,f"{BASE_DIR}/AnomalyEngine/data/intraday/{date}");
 
-# normalize_scraped_floor_data()
+normalize_scraped_floor_data()
 
 
