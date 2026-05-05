@@ -15,23 +15,15 @@ warnings.filterwarnings('ignore')
 
 
 
+data_type = "intraday"
+timeframe = "5min"
+
+data_type = "interday"
+timeframe = "1D"
+
 stock_name = "NABIL"
+features = ["close", "volume", "returns", "volatility"]
 
-mode = "Interday"
-train_start_date = datetime.strptime("2020-03-08","%Y-%m-%d")
-train_end_date = datetime.strptime("2024-04-08","%Y-%m-%d")
-test_start_date = datetime.strptime("2025-04-08","%Y-%m-%d")
-test_end_date = datetime.strptime("2026-04-08","%Y-%m-%d")
-timeframe="1D"
-
-# mode = "Intraday"
-# train_start_date = "2025-07-06"
-# train_end_date = "2025-09-28"
-# test_start_date = "2026-04-09"
-# test_end_date = "2026-04-10"
-# timeframe="5min"
-
-features = ["quantity", "return", "SMA_5", "SMA_20", "EMA_10"]
 
 models=["z_score","dbscan","isolation_forest"]
 
