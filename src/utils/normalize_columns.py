@@ -196,3 +196,4 @@ for date_folder in latest_daily_data.iterdir() :
 normalize_scraped_floor_data()
 
 
+
